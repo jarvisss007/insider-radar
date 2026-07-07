@@ -85,6 +85,7 @@ def study():
     cal = spy.index
 
     per_event, car_paths = [], []
+    n_penny = n_glitch = 0
     for e in events:
         p = px.get(e["ticker"])
         if p is None:
@@ -97,6 +98,16 @@ def study():
         if d0 not in p.index:
             continue
         i_t, i_s = p.index.get_loc(d0), spy.index.get_loc(d0)
+        # hygiene: sub-$1 tickers are data junk + untradeable spreads
+        if p.iloc[i_t] < 1.0:
+            n_penny += 1
+            continue
+        # hygiene: a >75% single-day move in the window ⇒ almost always a
+        # mis-adjusted split/data glitch (e.g. INLF +8800%); drop and disclose
+        win = p.iloc[max(0, i_t - PRE_DAYS):min(len(p), i_t + MAX_H + 1)]
+        if win.pct_change().abs().max() > 0.75:
+            n_glitch += 1
+            continue
         # BEFORE: 10 trading days into the event
         pre = None
         if i_t >= PRE_DAYS and i_s >= PRE_DAYS:
@@ -170,8 +181,10 @@ def study():
         "agg": agg, "curve": curve,
         "events": sorted(per_event, key=lambda x: x["filed"] or x["date"])[-250:],
         "verdict": verdict,
+        "excluded": {"penny_under_1usd": n_penny, "split_glitch": n_glitch},
         "method": ("Entry = filing-date close (what a follower gets). Abnormal = stock − SPY. "
-                   "Horizons in trading days. Immature events excluded per-horizon."),
+                   "Horizons in trading days. Immature events excluded per-horizon. "
+                   f"Hygiene: {n_penny} sub-$1 events and {n_glitch} split/data-glitch events excluded."),
     }
     (DATA / "event_study.json").write_text(json.dumps(out, indent=1))
     print(f"study written: {len(per_event)} events ({out['n_mature']} mature) · verdict: {verdict}")
