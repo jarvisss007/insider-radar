@@ -67,6 +67,23 @@
     <tbody id="rows"></tbody>
   </table>
 
+  <h2>Did It Work? — before &amp; after every purchase</h2>
+  <div class="note" id="verdict" style="margin-top:0">loading event study…</div>
+  <div class="stats" id="hstats" style="margin-top:12px"></div>
+  <div style="background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px;margin-top:12px">
+    <div style="font-size:10px;color:var(--dim);text-transform:uppercase;letter-spacing:.6px;margin-bottom:8px">
+      Average abnormal return after following a purchase (buy at filing-day close, vs SPY)</div>
+    <canvas id="car" height="150"></canvas>
+    <div id="carnote" style="font-size:10.5px;color:var(--dimmer);margin-top:6px"></div>
+  </div>
+  <h2>Event Tracker — following each buy forward</h2>
+  <table>
+    <thead><tr><th>Filed</th><th>Ticker</th><th>Insider</th>
+      <th style="text-align:right">10d before</th><th style="text-align:right">Since filing</th>
+      <th style="text-align:right">+5d</th><th style="text-align:right">+20d</th><th>Status</th></tr></thead>
+    <tbody id="evrows"></tbody>
+  </table>
+
   <div class="note">
     <b>What this is.</b> US corporate insiders (officers, directors, 10% owners) must report
     their trades on SEC Form 4 within 2 business days. This feed shows only
@@ -115,4 +132,50 @@ async function load(){
 }
 $('q').addEventListener('input',render);
 load(); setInterval(load,120000);
+
+// ---- event study: before/after returns ----
+function drawCurve(curve){
+  const c=$('car'),dpr=window.devicePixelRatio||1,W=c.clientWidth,H=150;
+  c.width=W*dpr;c.height=H*dpr;const g=c.getContext('2d');g.scale(dpr,dpr);
+  g.clearRect(0,0,W,H);
+  if(!curve.length){g.fillStyle='#5a6675';g.font='11px monospace';
+    g.fillText('curve appears once ≥3 events reach each horizon',10,70);return;}
+  const padL=42,padR=10,padT=10,padB=20;
+  const ys=curve.map(p=>p.car);let lo=Math.min(0,...ys),hi=Math.max(0,...ys);
+  const pad=(hi-lo)*.15||.5;lo-=pad;hi+=pad;
+  const X=d=>padL+(d/20)*(W-padL-padR), Y=v=>padT+(1-(v-lo)/(hi-lo))*(H-padT-padB);
+  g.strokeStyle='#1a2030';g.fillStyle='#5a6675';g.font='10px monospace';
+  for(let i=0;i<=3;i++){const v=lo+(hi-lo)*i/3,y=Y(v);
+    g.beginPath();g.moveTo(padL,y);g.lineTo(W-padR,y);g.stroke();
+    g.fillText(v.toFixed(1)+'%',4,y+3);}
+  g.strokeStyle='#5a6675';g.setLineDash([3,3]);g.beginPath();g.moveTo(padL,Y(0));g.lineTo(W-padR,Y(0));g.stroke();g.setLineDash([]);
+  const up=ys[ys.length-1]>=0;
+  g.strokeStyle=up?'#0ecb81':'#f6465d';g.lineWidth=2;g.beginPath();
+  g.moveTo(X(0),Y(0));curve.forEach(p=>g.lineTo(X(p.day),Y(p.car)));g.stroke();
+  curve.forEach(p=>{g.fillStyle=up?'#0ecb81':'#f6465d';g.beginPath();g.arc(X(p.day),Y(p.car),2,0,7);g.fill();});
+  g.fillStyle='#8b98a9';g.fillText('day 0',padL,H-6);g.fillText('+20d',W-40,H-6);
+}
+async function loadStudy(){
+  let d;try{d=await(await fetch('data/event_study.json?'+Date.now())).json();}
+  catch(e){$('verdict').textContent='event study not generated yet — run event_study.py';return;}
+  $('verdict').innerHTML=`<b>Verdict so far:</b> ${d.verdict}<br>
+    <span style="font-size:11px">${d.n_events} events tracked · ${d.n_mature} fully matured (+20d) ·
+    avg 10-day move INTO the buy: ${d.pre10_mean>0?'+':''}${d.pre10_mean}% (n=${d.pre10_n}) —
+    ${d.pre10_mean<0?'insiders lean dip-buyers here':'not obviously dip-driven'} · ${d.method}</span>`;
+  $('hstats').innerHTML=Object.entries(d.agg).map(([h,a])=>a.n>=3?
+    `<div class="stat"><div class="n" style="color:${a.mean>=0?'var(--up)':'var(--down)'}">${a.mean>0?'+':''}${a.mean}%</div>
+     <div class="l">+${h}d abnormal · win ${a.win}% · t=${a.t} · n=${a.n}</div></div>`
+    :`<div class="stat"><div class="n" style="color:var(--dimmer)">n=${a.n}</div><div class="l">+${h}d — too few matured</div></div>`).join('');
+  drawCurve(d.curve||[]);
+  $('carnote').textContent=(d.curve&&d.curve.length)?`N varies by day (${d.curve[0].n} at day 1 → ${d.curve[d.curve.length-1].n} at day ${d.curve[d.curve.length-1].day}) — recent events haven't matured yet. Peak of this curve ≈ where the edge (if any) stops compounding: the exit answer.`:'';
+  const evs=d.events.slice().reverse().slice(0,60);
+  $('evrows').innerHTML=evs.map(e=>{const r=e.running;const a5=e.after['5'],a20=e.after['20'];
+    return `<tr><td>${e.filed||e.date}</td><td class="tick">${e.ticker}</td><td>${e.insider}</td>
+    <td class="val" style="color:${e.pre10<0?'var(--down)':'var(--dim)'}">${e.pre10==null?'—':(e.pre10>0?'+':'')+e.pre10+'%'}</td>
+    <td class="val" style="color:${r>=0?'var(--up)':'var(--down)'}">${r==null?'—':(r>0?'+':'')+r+'%'}</td>
+    <td class="val">${a5==null?'—':(a5>0?'+':'')+a5.toFixed(1)+'%'}</td>
+    <td class="val">${a20==null?'—':(a20>0?'+':'')+a20.toFixed(1)+'%'}</td>
+    <td class="role">${e.mature?'mature':'day '+e.days+' of 20'}</td></tr>`;}).join('');
+}
+loadStudy(); setInterval(loadStudy,300000);
 </script>

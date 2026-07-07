@@ -186,15 +186,22 @@ def one_pass():
 
 
 def push():
-    r = subprocess.run(["git", "-C", str(HERE), "status", "--porcelain",
-                        "docs/data/insiders.json"], capture_output=True, text=True)
+    r = subprocess.run(["git", "-C", str(HERE), "status", "--porcelain", "docs/data"],
+                       capture_output=True, text=True)
     if not r.stdout.strip():
         return
-    subprocess.run(["git", "-C", str(HERE), "add", "docs/data/insiders.json"], check=True)
+    subprocess.run(["git", "-C", str(HERE), "add", "docs/data"], check=True)
     subprocess.run(["git", "-C", str(HERE), "commit", "-q", "-m",
                     "data: insider feed update"], check=True)
     subprocess.run(["git", "-C", str(HERE), "push", "-q"], check=True)
     print("  pushed feed update", flush=True)
+
+
+def run_study():
+    """Refresh the before/after event study (prices via yfinance)."""
+    r = subprocess.run([sys.executable, str(HERE / "event_study.py")],
+                       capture_output=True, text=True, timeout=900)
+    print("  study: " + (r.stdout.strip().splitlines() or ["?"])[-1], flush=True)
 
 
 def main():
@@ -204,9 +211,17 @@ def main():
     ap.add_argument("--max-hours", type=float, default=0)
     a = ap.parse_args()
     start = time.time()
+    last_study = 0.0
     while True:
         try:
             changed = one_pass()
+            if time.time() - last_study > 6 * 3600:      # refresh before/after study ~4x/day
+                try:
+                    run_study()
+                except Exception as e:
+                    print(f"  study failed: {e}", flush=True)
+                last_study = time.time()
+                changed = True
             if a.push and changed:
                 push()
         except Exception as e:
