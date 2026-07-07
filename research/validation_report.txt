@@ -1,0 +1,15 @@
+Insider-purchase signal validation — 2026-07-07
+87 days × 5 hold-variants, 195 events, 40 bps costs
+  ============================================================
+  Backtest overfitting report — 5 strategies, 87 obs
+  ------------------------------------------------------------
+  Best strategy (#0) Sharpe (ann.):   3.12
+  Probabilistic Sharpe (vs 0):                0.965
+  Deflated Sharpe (vs best-of-N benchmark):   0.807   (benchmark 1.63 ann.)
+  Prob. of Backtest Overfitting (PBO):        0.371   (>0.5 is bad)
+  Prob. OOS loss when selecting IS-best:      0.243
+  IS→OOS performance degradation (slope):     -0.503   (negative ⇒ overfitting)
+  Min backtest length for this many trials:   0.1 years
+  ------------------------------------------------------------
+  VERDICT: suspect: fails one of {deflated significance, low PBO} — treat as unproven
+  ============================================================
