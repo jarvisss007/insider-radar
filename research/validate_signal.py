@@ -31,20 +31,20 @@ HOLDS = [1, 3, 5, 10, 20]
 COST = 0.004                                   # 40 bps round trip, charged on entry day
 
 
-def clean_events(events, px, cal, spy):
+def clean_events(events, px, pxo, cal):
     out = []
     for e in events:
-        p = px.get(e["ticker"])
-        if p is None:
+        p, po = px.get(e["ticker"]), pxo.get(e["ticker"])
+        if p is None or po is None:
             continue
         pos = cal.searchsorted(pd.Timestamp(e.get("filed", e["date"])[:10]))
-        if pos >= len(cal):
+        if pos + 1 >= len(cal):
             continue
-        d0 = cal[pos]
-        if d0 not in p.index:
+        d0, d1 = cal[pos], cal[pos + 1]        # d1 = first tradeable day (entry at its open)
+        if d0 not in p.index or d1 not in po.index:
             continue
         i_t = p.index.get_loc(d0)
-        if p.iloc[i_t] < 1.0:                  # same hygiene as the event study
+        if float(po.loc[d1]) < 1.0:            # same hygiene as the event study
             continue
         win = p.iloc[max(0, i_t - PRE_DAYS):min(len(p), i_t + MAX_H + 1)]
         if win.pct_change().abs().max() > 0.75:
@@ -58,15 +58,19 @@ def main():
     tickers = sorted({e["ticker"] for e in events if e["ticker"].isalpha()})
     start = (min(datetime.date.fromisoformat(e["date"][:10]) for e in events)
              - datetime.timedelta(days=40)).isoformat()
-    px = fetch_prices(tickers, start)
+    px, pxo = fetch_prices(tickers, start)
     spy = px["SPY"]
+    spyo = pxo["SPY"]
     cal = spy.index
-    ev = clean_events(events, px, cal, spy)
+    ev = clean_events(events, px, pxo, cal)
     print(f"{len(ev)} clean events across {len({t for t, _ in ev})} tickers")
 
     # daily simple returns per ticker, aligned to SPY calendar
     rets = {t: px[t].reindex(cal).pct_change() for t, _ in dict(ev).items()}
+    # first-held-day return uses the STRICT entry: next day's open → that day's close
+    oc = {t: (px[t].reindex(cal) / pxo[t].reindex(cal) - 1) for t, _ in dict(ev).items()}
     spy_ret = spy.pct_change()
+    spy_oc = spy.reindex(cal) / spyo.reindex(cal) - 1
 
     # calendar-time portfolios: entry at filing-day close → held days e+1 .. e+H
     t0 = min(cal.get_loc(d) for _, d in ev)
@@ -79,12 +83,14 @@ def main():
             for tick, d0 in ev:
                 e_i = cal.get_loc(d0)
                 if e_i < i <= e_i + H:
-                    r = rets[tick].iloc[i]
-                    if np.isfinite(r):
-                        ar = r - spy_ret.iloc[i]
-                        if i == e_i + 1:       # charge round-trip cost on first held day
-                            ar -= COST
-                        legs.append(ar)
+                    if i == e_i + 1:           # STRICT entry day: open→close + costs
+                        r = oc[tick].iloc[i]
+                        if np.isfinite(r):
+                            legs.append(r - spy_oc.iloc[i] - COST)
+                    else:
+                        r = rets[tick].iloc[i]
+                        if np.isfinite(r):
+                            legs.append(r - spy_ret.iloc[i])
             M[k, j] = np.mean(legs) if legs else 0.0
 
     active = (M != 0).any(axis=1)

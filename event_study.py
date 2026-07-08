@@ -53,21 +53,24 @@ def load_purchase_events():
 
 
 def fetch_prices(tickers, start):
-    """Daily adjusted closes for tickers + SPY; SPY's index is the trading calendar."""
-    got = {}
+    """Daily adjusted closes+opens for tickers + SPY; SPY's index is the trading calendar.
+    Returns (closes, opens): two dicts of Series keyed by ticker."""
+    closes, opens = {}, {}
     for chunk in [tickers[i:i + 80] for i in range(0, len(tickers), 80)]:
         try:
-            df = yf.download(chunk + ["SPY"], start=start, progress=False,
-                             auto_adjust=True, threads=True)["Close"]
-            if isinstance(df, pd.Series):
-                df = df.to_frame(chunk[0])
-            for c in df.columns:
-                s = df[c].dropna()
-                if len(s) > 5 and (c not in got or len(s) > len(got[c])):
-                    got[c] = s
+            raw = yf.download(chunk + ["SPY"], start=start, progress=False,
+                              auto_adjust=True, threads=True)
+            for field, store in (("Close", closes), ("Open", opens)):
+                df = raw[field]
+                if isinstance(df, pd.Series):
+                    df = df.to_frame(chunk[0])
+                for c in df.columns:
+                    s = df[c].dropna()
+                    if len(s) > 5 and (c not in store or len(s) > len(store[c])):
+                        store[c] = s
         except Exception as e:
             print(f"  price chunk failed: {e}", file=sys.stderr)
-    return got
+    return closes, opens
 
 
 def study():
@@ -78,28 +81,33 @@ def study():
     start = (min(datetime.date.fromisoformat(e["date"][:10]) for e in events)
              - datetime.timedelta(days=40)).isoformat()
     print(f"{len(events)} purchase events · {len(tickers)} tickers · prices from {start}")
-    px = fetch_prices(tickers, start)
+    px, pxo = fetch_prices(tickers, start)
     spy = px.get("SPY")
-    if spy is None:
+    spyo = pxo.get("SPY")
+    if spy is None or spyo is None:
         print("SPY prices missing — abort"); return
     cal = spy.index
 
     per_event, car_paths = [], []
     n_penny = n_glitch = 0
     for e in events:
-        p = px.get(e["ticker"])
-        if p is None:
+        p, po = px.get(e["ticker"]), pxo.get(e["ticker"])
+        if p is None or po is None:
             continue
-        entry_date = pd.Timestamp(e.get("filed", e["date"])[:10])
-        pos = cal.searchsorted(entry_date)          # first trading day ≥ filing
-        if pos >= len(cal):
+        filed_ts = pd.Timestamp(e.get("filed", e["date"])[:10])
+        pos = cal.searchsorted(filed_ts)            # filing day on the trading calendar
+        if pos + 1 >= len(cal):
             continue
-        d0 = cal[pos]
-        if d0 not in p.index:
+        d0, d1 = cal[pos], cal[pos + 1]             # d1 = first day you can actually trade
+        if d0 not in p.index or d1 not in p.index or d1 not in po.index:
             continue
         i_t, i_s = p.index.get_loc(d0), spy.index.get_loc(d0)
+        # STRICT entry: next trading day's OPEN (many Form 4s hit EDGAR after the close,
+        # so the filing-day close is often not fillable)
+        entry_px = float(po.loc[d1])
+        entry_spy = float(spyo.loc[d1])
         # hygiene: sub-$1 tickers are data junk + untradeable spreads
-        if p.iloc[i_t] < 1.0:
+        if entry_px < 1.0:
             n_penny += 1
             continue
         # hygiene: a >75% single-day move in the window ⇒ almost always a
@@ -117,8 +125,8 @@ def study():
         after, path = {}, []
         for h in range(1, MAX_H + 1):
             if i_t + h < len(p) and i_s + h < len(spy):
-                ar = float((p.iloc[i_t + h] / p.iloc[i_t] - 1)
-                           - (spy.iloc[i_s + h] / spy.iloc[i_s] - 1)) * 100
+                ar = float((p.iloc[i_t + h] / entry_px - 1)
+                           - (spy.iloc[i_s + h] / entry_spy - 1)) * 100
                 path.append(ar)
                 if h in HORIZONS:
                     after[str(h)] = round(ar, 3)
@@ -182,8 +190,10 @@ def study():
         "events": sorted(per_event, key=lambda x: x["filed"] or x["date"])[-250:],
         "verdict": verdict,
         "excluded": {"penny_under_1usd": n_penny, "split_glitch": n_glitch},
-        "method": ("Entry = filing-date close (what a follower gets). Abnormal = stock − SPY. "
-                   "Horizons in trading days. Immature events excluded per-horizon. "
+        "method": ("STRICT entry = next trading day's OPEN after the filing date (filing-day "
+                   "close is often not fillable — many Form 4s arrive after hours). "
+                   "Abnormal = stock − SPY. Horizons = closes N trading days after filing. "
+                   "Immature events excluded per-horizon. "
                    f"Hygiene: {n_penny} sub-$1 events and {n_glitch} split/data-glitch events excluded."),
     }
     (DATA / "event_study.json").write_text(json.dumps(out, indent=1))
