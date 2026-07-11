@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.anupam.insider-collector</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/zsh</string>
+        <string>/Users/anupampatil/bin/insider-collector.sh</string>
+    </array>
+    <key>KeepAlive</key>
+    <true/>
+    <key>ThrottleInterval</key>
+    <integer>600</integer>
+    <key>StandardOutPath</key>
+    <string>/Users/anupampatil/bin/logs/insider-collector.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/anupampatil/bin/logs/insider-collector.log</string>
+</dict>
+</plist>
