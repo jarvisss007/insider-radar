@@ -32,3 +32,12 @@ headers, so a browser-only app can't read the transaction details.
 - Form 4s lag the actual trade by up to 2 business days; the feed lags by the push cadence
   (timestamp shown in the viewer). This is a **slow, statistical signal — not a trade
   trigger**. Educational only; not investment advice.
+
+## Self-learning agent
+
+`agent/` holds a self-calibrating cluster agent (same pattern as `~/stock-radar`):
+every new buy-cluster is auto-logged to `agent/ledger.csv` as a falsifiable `long`
+call and scored strictly at +30 calendar days from free Yahoo daily closes; blunt
+takeaways accumulate in `agent/lessons.md`. **Honesty note:** this is calibration,
+not advice — no claim of edge; the ledger exists to prove or disprove the cluster
+hypothesis on our own data. Procedure: `agent/AGENT.md`.
