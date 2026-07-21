@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-07-21 11:14 UTC",
+ "updated_utc": "2026-07-21 11:29 UTC",
  "purchases": [
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2025-12-16-05:00",
-   "shares": 3000.0,
-   "price": 0.006,
-   "value": 18.0,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-01-06-05:00",
-   "shares": 300.0,
-   "price": 0.006,
-   "value": 1.8,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-01-14-05:00",
-   "shares": 200.0,
-   "price": 0.006,
-   "value": 1.2,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-02-09-05:00",
-   "shares": 15000.0,
-   "price": 0.006,
-   "value": 90.0,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-02-10-05:00",
-   "shares": 90000.0,
-   "price": 0.006,
-   "value": 540.0,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
   {
    "ticker": "RANGER",
    "company": "Ranger Gold Corp.",
@@ -3710,6 +3650,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-16",
+   "shares": 116671.0,
+   "price": 3.56,
+   "value": 415348.76,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ENR",
    "company": "ENERGIZER HOLDINGS, INC.",
    "insider": "Aqua Capital, Ltd.",
@@ -4550,6 +4502,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 50945.0,
+   "price": 3.52,
+   "value": 179326.4,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ELV",
    "company": "Elevance Health, Inc.",
    "insider": "BOUDREAUX GAIL",
@@ -4616,6 +4580,18 @@
    "role": "VP",
    "date": "2026-07-19",
    "shares": 1000.0,
+   "price": 71.32,
+   "value": 71320.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
    "price": 71.94,
    "value": 71940.0,
    "acc": "0001046179-26-000453",
@@ -4630,6 +4606,30 @@
    "shares": 1000.0,
    "price": 71.94,
    "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 71.94,
+   "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 72.1,
+   "value": 72100.0,
    "acc": "0001046179-26-000453",
    "filed": "2026-07-21"
   },
@@ -4826,7 +4826,7 @@
   {
    "ticker": "TSM",
    "insiders": 2,
-   "total_value": 434450.0
+   "total_value": 649810.0
   },
   {
    "ticker": "NONE",
