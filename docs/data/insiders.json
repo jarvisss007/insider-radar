@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-07-21 12:30 UTC",
+ "updated_utc": "2026-07-21 12:45 UTC",
  "purchases": [
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "FRIES MICHAEL T",
-   "role": "Executive Chairman",
-   "date": "2026-06-25",
-   "shares": 49382.0,
-   "price": 20.3862,
-   "value": 1006711.33,
-   "acc": "0001058725-26-000009",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "FRIES MICHAEL T",
-   "role": "Executive Chairman",
-   "date": "2026-06-25",
-   "shares": 49382.0,
-   "price": 20.3862,
-   "value": 1006711.33,
-   "acc": "0001058725-26-000009",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "FRIES MICHAEL T",
-   "role": "Executive Chairman",
-   "date": "2026-06-25",
-   "shares": 49382.0,
-   "price": 20.3862,
-   "value": 1006711.33,
-   "acc": "0001058725-26-000009",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "FRIES MICHAEL T",
-   "role": "Executive Chairman",
-   "date": "2026-06-25",
-   "shares": 49382.0,
-   "price": 20.3862,
-   "value": 1006711.33,
-   "acc": "0001058725-26-000009",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "CNTM",
-   "company": "ConnectM Technology Solutions, Inc.",
-   "insider": "Choudhury Mahesh",
-   "role": "Principal Financial Officer",
-   "date": "2026-06-26",
-   "shares": 120.0,
-   "price": 9.06,
-   "value": 1087.2,
-   "acc": "0001104659-26-082969",
-   "filed": "2026-07-13"
-  },
-  {
-   "ticker": "CV",
-   "company": "CapsoVision, Inc",
-   "insider": "HARARI ELIYAHOU ET AL",
-   "role": "10% owner",
-   "date": "2026-06-26",
-   "shares": 13850.0,
-   "price": 7.351,
-   "value": 101811.35,
-   "acc": "0001009165-26-000004",
-   "filed": "2026-07-07"
-  },
   {
    "ticker": "INTZ",
    "company": "INTRUSION INC",
@@ -3446,6 +3374,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-16",
+   "shares": 116671.0,
+   "price": 3.56,
+   "value": 415348.76,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ENR",
    "company": "ENERGIZER HOLDINGS, INC.",
    "insider": "Aqua Capital, Ltd.",
@@ -4346,6 +4286,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 50945.0,
+   "price": 3.52,
+   "value": 179326.4,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ELV",
    "company": "Elevance Health, Inc.",
    "insider": "BOUDREAUX GAIL",
@@ -4356,6 +4308,18 @@
    "value": 249158.8,
    "acc": "0001287920-26-000006",
    "filed": "2026-07-17"
+  },
+  {
+   "ticker": "PRQR",
+   "company": "ProQR Therapeutics N.V.",
+   "insider": "Filius Bart",
+   "role": "Director",
+   "date": "2026-07-17",
+   "shares": 150000.0,
+   "price": 1.7195,
+   "value": 257925.0,
+   "acc": "0001104659-26-085234",
+   "filed": "2026-07-21"
   },
   {
    "ticker": "PRQR",
@@ -4496,8 +4460,8 @@
    "role": "VP",
    "date": "2026-07-19",
    "shares": 1000.0,
-   "price": 71.94,
-   "value": 71940.0,
+   "price": 71.32,
+   "value": 71320.0,
    "acc": "0001046179-26-000453",
    "filed": "2026-07-21"
   },
@@ -4570,6 +4534,42 @@
    "shares": 1000.0,
    "price": 71.94,
    "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 71.94,
+   "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 71.94,
+   "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 72.1,
+   "value": 72100.0,
    "acc": "0001046179-26-000453",
    "filed": "2026-07-21"
   },
@@ -4821,7 +4821,7 @@
   {
    "ticker": "TSM",
    "insiders": 2,
-   "total_value": 1511250.0
+   "total_value": 1726610.0
   },
   {
    "ticker": "ELV",
@@ -4831,7 +4831,7 @@
   {
    "ticker": "PRQR",
    "insiders": 2,
-   "total_value": 776850.0
+   "total_value": 1034775.0
   },
   {
    "ticker": "NONE",
@@ -4870,8 +4870,6 @@
   }
  ],
  "seen": [
-  "0001193125-26-308481",
-  "0001193125-26-308487",
   "0001193125-26-308489",
   "0001193125-26-308490",
   "0001193125-26-308491",
@@ -4970,6 +4968,8 @@
   "0001193125-26-309331",
   "0001193125-26-309347",
   "0001193125-26-309566",
+  "0001193125-26-309600",
+  "0001193125-26-309610",
   "0001193805-26-000928",
   "0001193805-26-000929",
   "0001193805-26-000930",
