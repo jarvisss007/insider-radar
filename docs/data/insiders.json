@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-07-21 11:44 UTC",
+ "updated_utc": "2026-07-21 12:00 UTC",
  "purchases": [
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-04-23-05:00",
-   "shares": 40000.0,
-   "price": 0.006,
-   "value": 240.0,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-04-24-05:00",
-   "shares": 82125.0,
-   "price": 0.006,
-   "value": 492.75,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-04-27-05:00",
-   "shares": 500.0,
-   "price": 0.006,
-   "value": 3.0,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-05-07-05:00",
-   "shares": 1210.0,
-   "price": 0.006,
-   "value": 7.26,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "RANGER",
-   "company": "Ranger Gold Corp.",
-   "insider": "Glass Bryan",
-   "role": "President",
-   "date": "2026-05-14-05:00",
-   "shares": 1000.0,
-   "price": 0.006,
-   "value": 6.0,
-   "acc": "0001477932-26-004306",
-   "filed": "2026-07-14"
-  },
   {
    "ticker": "CAI",
    "company": "Caris Life Sciences, Inc.",
@@ -3614,6 +3554,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-16",
+   "shares": 116671.0,
+   "price": 3.56,
+   "value": 415348.76,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ENR",
    "company": "ENERGIZER HOLDINGS, INC.",
    "insider": "Aqua Capital, Ltd.",
@@ -4478,6 +4430,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 50945.0,
+   "price": 3.52,
+   "value": 179326.4,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ELV",
    "company": "Elevance Health, Inc.",
    "insider": "BOUDREAUX GAIL",
@@ -4568,8 +4532,8 @@
    "role": "VP",
    "date": "2026-07-19",
    "shares": 1000.0,
-   "price": 71.94,
-   "value": 71940.0,
+   "price": 71.32,
+   "value": 71320.0,
    "acc": "0001046179-26-000453",
    "filed": "2026-07-21"
   },
@@ -4606,6 +4570,42 @@
    "shares": 1000.0,
    "price": 71.94,
    "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 71.94,
+   "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 71.94,
+   "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 72.1,
+   "value": 72100.0,
    "acc": "0001046179-26-000453",
    "filed": "2026-07-21"
   },
@@ -4826,7 +4826,7 @@
   {
    "ticker": "TSM",
    "insiders": 2,
-   "total_value": 865170.0
+   "total_value": 1080530.0
   },
   {
    "ticker": "NONE",
@@ -4865,7 +4865,6 @@
   }
  ],
  "seen": [
-  "0001193125-26-308436",
   "0001193125-26-308472",
   "0001193125-26-308479",
   "0001193125-26-308480",
@@ -5777,6 +5776,7 @@
   "0001493152-26-033970",
   "0001493152-26-033972",
   "0001493152-26-033976",
+  "0001493152-26-034003",
   "0001493225-26-000076",
   "0001493225-26-000077",
   "0001493225-26-000078",
