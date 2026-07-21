@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-07-21 12:45 UTC",
+ "updated_utc": "2026-07-21 13:01 UTC",
  "purchases": [
-  {
-   "ticker": "INTZ",
-   "company": "INTRUSION INC",
-   "insider": "Scott Anthony",
-   "role": "Chief Executive Officer",
-   "date": "2026-06-30",
-   "shares": 2500.0,
-   "price": 0.7894,
-   "value": 1973.5,
-   "acc": "0001683168-26-005326",
-   "filed": "2026-07-07"
-  },
-  {
-   "ticker": "INTZ",
-   "company": "INTRUSION INC",
-   "insider": "PINSON KIMBERLY",
-   "role": "Chief Financial Officer",
-   "date": "2026-06-30",
-   "shares": 2500.0,
-   "price": 0.7894,
-   "value": 1973.5,
-   "acc": "0001683168-26-005324",
-   "filed": "2026-07-07"
-  },
-  {
-   "ticker": "NONE",
-   "company": "BBR ALO Fund, LLC",
-   "insider": "WINGERTZAHN MICHAEL",
-   "role": "Director",
-   "date": "2026-07-01",
-   "shares": 338.691,
-   "price": 14.7627,
-   "value": 4999.99,
-   "acc": "0001104659-26-083404",
-   "filed": "2026-07-14"
-  },
-  {
-   "ticker": "QNBC",
-   "company": "QNB CORP.",
-   "insider": "Major Joseph W",
-   "role": "Director",
-   "date": "2026-07-01",
-   "shares": 219.0,
-   "price": 43.85,
-   "value": 9603.15,
-   "acc": "0002124506-26-000004",
-   "filed": "2026-07-13"
-  },
-  {
-   "ticker": "EDBL",
-   "company": "Edible Garden AG Inc",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-07-01",
-   "shares": 266482.0,
-   "price": 0.166,
-   "value": 44236.01,
-   "acc": "0001475597-26-000141",
-   "filed": "2026-07-07"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-01",
-   "shares": 1189.0,
-   "price": 71.5852,
-   "value": 85114.8,
-   "acc": "0001193125-26-296682",
-   "filed": "2026-07-06"
-  },
   {
    "ticker": "VENU",
    "company": "Venu Holding Corp",
@@ -3386,6 +3314,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-16",
+   "shares": 116671.0,
+   "price": 3.56,
+   "value": 415348.76,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ENR",
    "company": "ENERGIZER HOLDINGS, INC.",
    "insider": "Aqua Capital, Ltd.",
@@ -4298,6 +4238,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "FULC",
+   "company": "Fulcrum Therapeutics, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 50945.0,
+   "price": 3.52,
+   "value": 179326.4,
+   "acc": "0001178579-26-000016",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ELV",
    "company": "Elevance Health, Inc.",
    "insider": "BOUDREAUX GAIL",
@@ -4308,6 +4260,18 @@
    "value": 249158.8,
    "acc": "0001287920-26-000006",
    "filed": "2026-07-17"
+  },
+  {
+   "ticker": "PRQR",
+   "company": "ProQR Therapeutics N.V.",
+   "insider": "Filius Bart",
+   "role": "Director",
+   "date": "2026-07-17",
+   "shares": 150000.0,
+   "price": 1.7195,
+   "value": 257925.0,
+   "acc": "0001104659-26-085234",
+   "filed": "2026-07-21"
   },
   {
    "ticker": "PRQR",
@@ -4472,8 +4436,8 @@
    "role": "VP",
    "date": "2026-07-19",
    "shares": 1000.0,
-   "price": 71.94,
-   "value": 71940.0,
+   "price": 71.32,
+   "value": 71320.0,
    "acc": "0001046179-26-000453",
    "filed": "2026-07-21"
   },
@@ -4558,6 +4522,42 @@
    "shares": 1000.0,
    "price": 71.94,
    "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 71.94,
+   "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 71.94,
+   "value": 71940.0,
+   "acc": "0001046179-26-000453",
+   "filed": "2026-07-21"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-07-19",
+   "shares": 1000.0,
+   "price": 72.1,
+   "value": 72100.0,
    "acc": "0001046179-26-000453",
    "filed": "2026-07-21"
   },
@@ -4821,7 +4821,7 @@
   {
    "ticker": "TSM",
    "insiders": 2,
-   "total_value": 1726610.0
+   "total_value": 1941970.0
   },
   {
    "ticker": "ELV",
@@ -4831,7 +4831,7 @@
   {
    "ticker": "PRQR",
    "insiders": 2,
-   "total_value": 1034775.0
+   "total_value": 1292700.0
   },
   {
    "ticker": "NONE",
@@ -4870,9 +4870,6 @@
   }
  ],
  "seen": [
-  "0001193125-26-308489",
-  "0001193125-26-308490",
-  "0001193125-26-308491",
   "0001193125-26-308492",
   "0001193125-26-308493",
   "0001193125-26-308494",
@@ -7588,6 +7585,8 @@
   "0001918704-26-020624",
   "0001918704-26-020625",
   "0001918704-26-020633",
+  "0001918704-26-020634",
+  "0001918704-26-020635",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
@@ -7650,6 +7649,7 @@
   "0001976408-26-000642",
   "0001976408-26-000653",
   "0001976408-26-000654",
+  "0001976408-26-000660",
   "0001976718-26-000009",
   "0001979088-26-000014",
   "0001979917-26-000023",
