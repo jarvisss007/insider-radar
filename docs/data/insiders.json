@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-22 06:36 UTC",
+ "updated_utc": "2026-07-22 06:52 UTC",
  "purchases": [
-  {
-   "ticker": "NONE",
-   "company": "KKR Asset-Based Finance Fund",
-   "insider": "KROPP JAMES H",
-   "role": "Director",
-   "date": "2026-07-09",
-   "shares": 2199.74,
-   "price": 22.73,
-   "value": 50000.09,
-   "acc": "0000945621-26-000902",
-   "filed": "2026-07-13"
-  },
-  {
-   "ticker": "GCO",
-   "company": "GENESCO INC",
-   "insider": "SANDFORT GREGORY A",
-   "role": "Director",
-   "date": "2026-07-09",
-   "shares": 2958.0,
-   "price": 33.8,
-   "value": 99980.4,
-   "acc": "0001193125-26-301453",
-   "filed": "2026-07-13"
-  },
-  {
-   "ticker": "PRQR",
-   "company": "ProQR Therapeutics N.V.",
-   "insider": "de Boer Daniel Anton",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-09",
-   "shares": 150000.0,
-   "price": 1.74,
-   "value": 261000.0,
-   "acc": "0001104659-26-082890",
-   "filed": "2026-07-13"
-  },
-  {
-   "ticker": "GLOO",
-   "company": "Gloo Holdings, Inc.",
-   "insider": "Grace & Mercy Foundation, Inc.",
-   "role": "10% owner",
-   "date": "2026-07-09",
-   "shares": 923076.0,
-   "price": 3.25,
-   "value": 2999997.0,
-   "acc": "0001493152-26-033031",
-   "filed": "2026-07-13"
-  },
   {
    "ticker": "COE",
    "company": "51Talk Online Education Group",
@@ -3170,6 +3122,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 265.0,
+   "price": 2.44,
+   "value": 646.6,
+   "acc": "0001178579-26-000017",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4070,6 +4034,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "CV",
+   "company": "CapsoVision, Inc",
+   "insider": "HARARI ELIYAHOU ET AL",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 61068.0,
+   "price": 6.73,
+   "value": 410987.64,
+   "acc": "0001009165-26-000006",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ELV",
    "company": "Elevance Health, Inc.",
    "insider": "BOUDREAUX GAIL",
@@ -4562,6 +4538,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-20",
+   "shares": 1623.0,
+   "price": 2.44,
+   "value": 3960.12,
+   "acc": "0001178579-26-000017",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4800,6 +4788,18 @@
    "value": 7259.0,
    "acc": "0001178579-26-000017",
    "filed": "2026-07-21"
+  },
+  {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-21",
+   "shares": 2975.0,
+   "price": 2.44,
+   "value": 7259.0,
+   "acc": "0001178579-26-000017",
+   "filed": "2026-07-21"
   }
  ],
  "clusters": [
@@ -4824,24 +4824,19 @@
    "total_value": 2157330.0
   },
   {
-   "ticker": "PRQR",
-   "insiders": 2,
-   "total_value": 2066475.0
-  },
-  {
    "ticker": "ELV",
    "insiders": 2,
    "total_value": 1368280.05
   },
   {
-   "ticker": "NONE",
-   "insiders": 11,
-   "total_value": 304133.8
-  },
-  {
    "ticker": "GRML",
    "insiders": 2,
    "total_value": 270102.0
+  },
+  {
+   "ticker": "NONE",
+   "insiders": 10,
+   "total_value": 254133.71
   },
   {
    "ticker": "BUKS",
