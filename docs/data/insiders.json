@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-22 06:05 UTC",
+ "updated_utc": "2026-07-22 06:21 UTC",
  "purchases": [
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-08",
-   "shares": 185880.0,
-   "price": 16.45,
-   "value": 3057726.0,
-   "acc": "0001104659-26-082843",
-   "filed": "2026-07-13"
-  },
-  {
-   "ticker": "NTSK",
-   "company": "Netskope Inc",
-   "insider": "ICONIQ Strategic Partners VIII Holdings, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-08",
-   "shares": 610091.0,
-   "price": 11.824,
-   "value": 7213715.98,
-   "acc": "0001193125-26-301164",
-   "filed": "2026-07-11"
-  },
-  {
-   "ticker": "NTSK",
-   "company": "Netskope Inc",
-   "insider": "Griffith William J.G.",
-   "role": "Director",
-   "date": "2026-07-08",
-   "shares": 610291.0,
-   "price": 11.824,
-   "value": 7216080.78,
-   "acc": "0001193125-26-301161",
-   "filed": "2026-07-11"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-09",
-   "shares": 7.0,
-   "price": 2.48,
-   "value": 17.36,
-   "acc": "0001178579-26-000011",
-   "filed": "2026-07-13"
-  },
   {
    "ticker": "MOGU",
    "company": "MOGU Inc.",
@@ -3242,6 +3194,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 265.0,
+   "price": 2.44,
+   "value": 646.6,
+   "acc": "0001178579-26-000017",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4118,6 +4082,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "CV",
+   "company": "CapsoVision, Inc",
+   "insider": "HARARI ELIYAHOU ET AL",
+   "role": "10% owner",
+   "date": "2026-07-17",
+   "shares": 61068.0,
+   "price": 6.73,
+   "value": 410987.64,
+   "acc": "0001009165-26-000006",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "ELV",
    "company": "Elevance Health, Inc.",
    "insider": "BOUDREAUX GAIL",
@@ -4586,6 +4562,18 @@
    "filed": "2026-07-21"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-20",
+   "shares": 1623.0,
+   "price": 2.44,
+   "value": 3960.12,
+   "acc": "0001178579-26-000017",
+   "filed": "2026-07-21"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4800,6 +4788,18 @@
    "value": 7259.0,
    "acc": "0001178579-26-000017",
    "filed": "2026-07-21"
+  },
+  {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-07-21",
+   "shares": 2975.0,
+   "price": 2.44,
+   "value": 7259.0,
+   "acc": "0001178579-26-000017",
+   "filed": "2026-07-21"
   }
  ],
  "clusters": [
@@ -4811,7 +4811,7 @@
   {
    "ticker": "NTSK",
    "insiders": 2,
-   "total_value": 21961192.04
+   "total_value": 7531395.28
   },
   {
    "ticker": "IPX",
