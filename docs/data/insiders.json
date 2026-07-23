@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-07-23 05:50 UTC",
+ "updated_utc": "2026-07-23 06:20 UTC",
  "purchases": [
-  {
-   "ticker": "PDI",
-   "company": "PIMCO Dynamic Income Fund",
-   "insider": "STRACKE THIBAULT CHRISTIAN",
-   "role": "",
-   "date": "2026-07-15",
-   "shares": 100000.0,
-   "price": 16.4,
-   "value": 1640000.0,
-   "acc": "0001104659-26-084672",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "N/A",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manulife (Singapore) Pte. Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-15",
-   "shares": 382639.8278,
-   "price": 18.293,
-   "value": 6999630.37,
-   "acc": "0001837478-26-000015",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "N/A",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manufacturers Life Reinsurance Ltd",
-   "role": "10% owner",
-   "date": "2026-07-15",
-   "shares": 710616.8231,
-   "price": 18.293,
-   "value": 12999313.54,
-   "acc": "0001765496-26-000015",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "N/A",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manulife (International) Ltd",
-   "role": "10% owner",
-   "date": "2026-07-15",
-   "shares": 1202582.3159,
-   "price": 18.293,
-   "value": 21998838.3,
-   "acc": "0001765518-26-000004",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "TYG",
-   "company": "TORTOISE ENERGY INFRASTRUCTURE CORP",
-   "insider": "PRUDENTIAL FINANCIAL INC",
-   "role": "10% owner",
-   "date": "2026-07-15",
-   "shares": 3000000.0,
-   "price": 10.0,
-   "value": 30000000.0,
-   "acc": "0001137774-26-000159",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "TYG",
-   "company": "TORTOISE ENERGY INFRASTRUCTURE CORP",
-   "insider": "PRUDENTIAL FINANCIAL INC",
-   "role": "10% owner",
-   "date": "2026-07-15",
-   "shares": 3000000.0,
-   "price": 10.0,
-   "value": 30000000.0,
-   "acc": "0001137774-26-000159",
-   "filed": "2026-07-17"
-  },
   {
    "ticker": "N/A",
    "company": "John Hancock GA Mortgage Trust",
@@ -3710,6 +3638,30 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "CLBK",
    "company": "Columbia Financial, Inc./MD/",
    "insider": "Rinaldi Mayra Liseth",
@@ -4490,6 +4442,30 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "TOI",
    "company": "Oncology Institute, Inc.",
    "insider": "Chernett Jorey",
@@ -4790,6 +4766,30 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4805,8 +4805,8 @@
  "clusters": [
   {
    "ticker": "N/A",
-   "insiders": 5,
-   "total_value": 78633786.48
+   "insiders": 2,
+   "total_value": 36636004.27
   },
   {
    "ticker": "CLBK",
