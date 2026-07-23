@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-23 01:24 UTC",
+ "updated_utc": "2026-07-23 01:40 UTC",
  "purchases": [
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-13",
-   "shares": 213480.0,
-   "price": 17.24,
-   "value": 3680395.2,
-   "acc": "0001104659-26-084902",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-13",
-   "shares": 213480.0,
-   "price": 17.24,
-   "value": 3680395.2,
-   "acc": "0001104659-26-084902",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-13",
-   "shares": 213480.0,
-   "price": 17.24,
-   "value": 3680395.2,
-   "acc": "0001104659-26-084902",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "Vivo Opportunity, LLC",
-   "role": "10% owner",
-   "date": "2026-07-14",
-   "shares": 493.0,
-   "price": 1.55,
-   "value": 764.15,
-   "acc": "0001213900-26-078891",
-   "filed": "2026-07-16"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4034,6 +3986,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "CLBK",
    "company": "Columbia Financial, Inc./MD/",
    "insider": "Rinaldi Mayra Liseth",
@@ -4199,6 +4163,18 @@
    "price": 10.0,
    "value": 205000.0,
    "acc": "0001729835-26-000011",
+   "filed": "2026-07-22"
+  },
+  {
+   "ticker": "CLBK",
+   "company": "Columbia Financial, Inc./MD/",
+   "insider": "Van Dyk Robert",
+   "role": "Director",
+   "date": "2026-07-20",
+   "shares": 25000.0,
+   "price": 10.0,
+   "value": 250000.0,
+   "acc": "0001731363-26-000007",
    "filed": "2026-07-22"
   },
   {
@@ -4646,6 +4622,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "TOI",
    "company": "Oncology Institute, Inc.",
    "insider": "Chernett Jorey",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4810,8 +4810,8 @@
   },
   {
    "ticker": "CLBK",
-   "insiders": 15,
-   "total_value": 4528740.0
+   "insiders": 16,
+   "total_value": 4778740.0
   },
   {
    "ticker": "ELV",
@@ -4836,7 +4836,7 @@
   {
    "ticker": "INM",
    "insiders": 2,
-   "total_value": 33401.3
+   "total_value": 32637.15
   },
   {
    "ticker": "YORW",
@@ -4845,8 +4845,6 @@
   }
  ],
  "seen": [
-  "0001225208-26-006693",
-  "0001225208-26-006694",
   "0001225208-26-006695",
   "0001225208-26-006705",
   "0001225208-26-006706",
@@ -5319,6 +5317,7 @@
   "0001493152-26-034255",
   "0001493152-26-034278",
   "0001493152-26-034280",
+  "0001493152-26-034286",
   "0001493225-26-000076",
   "0001493225-26-000077",
   "0001493225-26-000078",
@@ -5873,6 +5872,7 @@
   "0001730240-26-000002",
   "0001731122-26-000939",
   "0001731122-26-000941",
+  "0001731363-26-000007",
   "0001731365-26-000007",
   "0001731395-26-000007",
   "0001732802-26-000012",
