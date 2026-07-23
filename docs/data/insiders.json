@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-07-23 10:10 UTC",
+ "updated_utc": "2026-07-23 10:25 UTC",
  "purchases": [
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Bawel Zachary W",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 418.0777,
-   "price": 47.838,
-   "value": 20000.0,
-   "acc": "0001746448-26-000007",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Seger Andrew M",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 418.0777,
-   "price": 47.838,
-   "value": 20000.0,
-   "acc": "0002081604-26-000008",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "KELLY JASON M",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 418.0777,
-   "price": 47.838,
-   "value": 20000.0,
-   "acc": "0001764530-26-000003",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-16",
-   "shares": 1682.0,
-   "price": 21.64,
-   "value": 36398.48,
-   "acc": "0001510281-26-000241",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-16",
-   "shares": 18491.0,
-   "price": 2.44,
-   "value": 45118.04,
-   "acc": "0001178579-26-000015",
-   "filed": "2026-07-16"
-  },
-  {
-   "ticker": "N/A",
-   "company": "LAGO Evergreen Credit",
-   "insider": "Knudsen Todd",
-   "role": "CFO, CCO",
-   "date": "2026-07-16",
-   "shares": 1971.0,
-   "price": 25.37,
-   "value": 50004.27,
-   "acc": "0001193125-26-307009",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "LGHL",
-   "company": "Lion Group Holding Ltd",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-07-16",
-   "shares": 32033.0,
-   "price": 1.82,
-   "value": 58300.06,
-   "acc": "0001475597-26-000161",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-16",
-   "shares": 1111.0,
-   "price": 75.13,
-   "value": 83469.43,
-   "acc": "0001193125-26-308116",
-   "filed": "2026-07-17"
-  },
   {
    "ticker": "SLAI",
    "company": "SOLAI Ltd",
@@ -2714,6 +2618,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-20",
+   "shares": 10.0,
+   "price": 405.0,
+   "value": 4050.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -3144,6 +3060,18 @@
    "value": 85133.47,
    "acc": "0001193125-26-312801",
    "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
   },
   {
    "ticker": "NMM",
@@ -3904,6 +3832,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-21",
+   "shares": 1000.0,
+   "price": 73.98,
+   "value": 73980.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lin Shyue-Shyh",
    "role": "VP",
    "date": "2026-07-21",
@@ -3914,16 +3854,40 @@
    "filed": "2026-07-22"
   },
   {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
    "date": "2026-07-21",
-   "shares": 1149.0,
-   "price": 74.0276,
-   "value": 85057.71,
-   "acc": "0001193125-26-312801",
-   "filed": "2026-07-22"
+   "shares": 1000.0,
+   "price": 74.13,
+   "value": 74130.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-21",
+   "shares": 1000.0,
+   "price": 74.44,
+   "value": 74440.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-21",
+   "shares": 1000.0,
+   "price": 74.75,
+   "value": 74750.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
   },
   {
    "ticker": "NMM",
@@ -4128,6 +4092,30 @@
    "value": 85057.71,
    "acc": "0001193125-26-312801",
    "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
   },
   {
    "ticker": "NMM",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4809,6 +4809,11 @@
    "total_value": 4778740.0
   },
   {
+   "ticker": "TSM",
+   "insiders": 2,
+   "total_value": 2601730.0
+  },
+  {
    "ticker": "ELV",
    "insiders": 2,
    "total_value": 1368280.05
@@ -4817,11 +4822,6 @@
    "ticker": "GRML",
    "insiders": 2,
    "total_value": 270102.0
-  },
-  {
-   "ticker": "GABC",
-   "insiders": 3,
-   "total_value": 60000.0
   },
   {
    "ticker": "NONE",
