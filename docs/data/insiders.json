@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-23 09:54 UTC",
+ "updated_utc": "2026-07-23 10:10 UTC",
  "purchases": [
-  {
-   "ticker": "THW",
-   "company": "abrdn World Healthcare Fund",
-   "insider": "Mahai Chris LaVictoire",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 796.0,
-   "price": 13.2,
-   "value": 10507.2,
-   "acc": "0001104659-26-085025",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Stokes Ronnie R",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 313.5583,
-   "price": 47.838,
-   "value": 15000.0,
-   "acc": "0002055311-26-000002",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Ryan Christina M",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 418.0777,
-   "price": 47.838,
-   "value": 20000.0,
-   "acc": "0001791771-26-000004",
-   "filed": "2026-07-17"
-  },
   {
    "ticker": "GABC",
    "company": "GERMAN AMERICAN BANCORP, INC.",
@@ -3326,6 +3290,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "CLBK",
    "company": "Columbia Financial, Inc./MD/",
    "insider": "Rinaldi Mayra Liseth",
@@ -4298,6 +4274,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "TOI",
    "company": "Oncology Institute, Inc.",
    "insider": "Chernett Jorey",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4820,8 +4820,8 @@
   },
   {
    "ticker": "GABC",
-   "insiders": 5,
-   "total_value": 95000.0
+   "insiders": 3,
+   "total_value": 60000.0
   },
   {
    "ticker": "NONE",
@@ -4830,18 +4830,6 @@
   }
  ],
  "seen": [
-  "0001225208-26-006695",
-  "0001225208-26-006705",
-  "0001225208-26-006706",
-  "0001225208-26-006707",
-  "0001226578-26-000009",
-  "0001227556-26-000010",
-  "0001229738-26-000003",
-  "0001230604-26-000004",
-  "0001231919-26-000764",
-  "0001231919-26-000774",
-  "0001231919-26-000779",
-  "0001231919-26-000783",
   "0001231945-26-000002",
   "0001232019-26-000005",
   "0001233433-26-000004",
@@ -5385,6 +5373,16 @@
   "0001542574-26-000369",
   "0001542574-26-000370",
   "0001542574-26-000371",
+  "0001542574-26-000372",
+  "0001542574-26-000373",
+  "0001542574-26-000374",
+  "0001542574-26-000375",
+  "0001542574-26-000376",
+  "0001542574-26-000377",
+  "0001542574-26-000378",
+  "0001542574-26-000379",
+  "0001542574-26-000380",
+  "0001542574-26-000383",
   "0001542687-26-000006",
   "0001543262-26-000006",
   "0001543663-26-000017",
@@ -7519,6 +7517,8 @@
   "0001918704-26-020967",
   "0001918704-26-020968",
   "0001918704-26-020969",
+  "0001918704-26-020980",
+  "0001918704-26-020981",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
