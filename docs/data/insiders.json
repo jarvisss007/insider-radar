@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-23 06:20 UTC",
+ "updated_utc": "2026-07-23 06:36 UTC",
  "purchases": [
-  {
-   "ticker": "N/A",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
-   "role": "10% owner",
-   "date": "2026-07-15",
-   "shares": 2000000.0,
-   "price": 18.293,
-   "value": 36586000.0,
-   "acc": "0001833683-26-000016",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "JEF",
-   "company": "Jefferies Financial Group Inc.",
-   "insider": "SUMITOMO MITSUI FINANCIAL GROUP, INC.",
-   "role": "Director",
-   "date": "2026-07-15",
-   "shares": 5906542.0,
-   "price": 53.96,
-   "value": 318717006.32,
-   "acc": "0001193125-26-306696",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "Vivo Opportunity, LLC",
-   "role": "10% owner",
-   "date": "2026-07-16",
-   "shares": 2.0,
-   "price": 1.55,
-   "value": 3.1,
-   "acc": "0001213900-26-078891",
-   "filed": "2026-07-16"
-  },
   {
    "ticker": "INM",
    "company": "InMed Pharmaceuticals Inc.",
@@ -3662,6 +3626,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "CLBK",
    "company": "Columbia Financial, Inc./MD/",
    "insider": "Rinaldi Mayra Liseth",
@@ -4466,6 +4442,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "TOI",
    "company": "Oncology Institute, Inc.",
    "insider": "Chernett Jorey",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4803,11 +4803,6 @@
   }
  ],
  "clusters": [
-  {
-   "ticker": "N/A",
-   "insiders": 2,
-   "total_value": 36636004.27
-  },
   {
    "ticker": "CLBK",
    "insiders": 16,
