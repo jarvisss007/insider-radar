@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-23 00:06 UTC",
+ "updated_utc": "2026-07-23 00:22 UTC",
  "purchases": [
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-10",
-   "shares": 95040.0,
-   "price": 16.71,
-   "value": 1588118.4,
-   "acc": "0001104659-26-084902",
-   "filed": "2026-07-20"
-  },
   {
    "ticker": "COE",
    "company": "51Talk Online Education Group",
@@ -4262,6 +4250,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-07-20",
+   "shares": 35000.0,
+   "price": 1.4734,
+   "value": 51569.0,
+   "acc": "0000902664-26-003205",
+   "filed": "2026-07-22"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lin Shyue-Shyh",
@@ -4850,8 +4850,6 @@
   }
  ],
  "seen": [
-  "0001214659-26-008817",
-  "0001214659-26-008818",
   "0001214659-26-008828",
   "0001214659-26-008833",
   "0001214659-26-008836",
@@ -5950,6 +5948,8 @@
   "0001769628-26-000319",
   "0001769628-26-000320",
   "0001769628-26-000321",
+  "0001769628-26-000323",
+  "0001769628-26-000324",
   "0001770402-26-000002",
   "0001771146-26-001399",
   "0001771146-26-001401",
