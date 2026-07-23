@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-23 08:23 UTC",
+ "updated_utc": "2026-07-23 08:38 UTC",
  "purchases": [
-  {
-   "ticker": "YORW",
-   "company": "YORK WATER CO",
-   "insider": "Hand Joseph Thomas",
-   "role": "President & CEO",
-   "date": "2026-07-16",
-   "shares": 111.664,
-   "price": 29.1056,
-   "value": 3250.05,
-   "acc": "0000108985-26-000062",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "YORW",
-   "company": "YORK WATER CO",
-   "insider": "Scarpato Matthew J",
-   "role": "Chief Operating Officer",
-   "date": "2026-07-16",
-   "shares": 111.664,
-   "price": 29.1056,
-   "value": 3250.05,
-   "acc": "0000108985-26-000064",
-   "filed": "2026-07-17"
-  },
-  {
-   "ticker": "YORW",
-   "company": "YORK WATER CO",
-   "insider": "Hand Joseph Thomas",
-   "role": "President & CEO",
-   "date": "2026-07-16",
-   "shares": 111.664,
-   "price": 29.1056,
-   "value": 3250.05,
-   "acc": "0000108985-26-000062",
-   "filed": "2026-07-17"
-  },
   {
    "ticker": "YORW",
    "company": "YORK WATER CO",
@@ -3470,6 +3434,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "CLBK",
    "company": "Columbia Financial, Inc./MD/",
    "insider": "Rinaldi Mayra Liseth",
@@ -4370,6 +4346,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "TOI",
    "company": "Oncology Institute, Inc.",
    "insider": "Chernett Jorey",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4826,7 +4826,7 @@
   {
    "ticker": "YORW",
    "insiders": 3,
-   "total_value": 20500.31
+   "total_value": 10750.16
   },
   {
    "ticker": "NONE",
