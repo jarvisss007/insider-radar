@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-07-23 10:25 UTC",
+ "updated_utc": "2026-07-23 10:40 UTC",
  "purchases": [
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "SLAI",
-   "company": "SOLAI Ltd",
-   "insider": "Law Man San",
-   "role": "Director",
-   "date": "2026-07-16",
-   "shares": 54275.0,
-   "price": 3.5745,
-   "value": 194005.99,
-   "acc": "0001104659-26-084845",
-   "filed": "2026-07-20"
-  },
   {
    "ticker": "SLAI",
    "company": "SOLAI Ltd",
@@ -2630,6 +2534,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-20",
+   "shares": 10.0,
+   "price": 405.0,
+   "value": 4050.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -3060,6 +2976,18 @@
    "value": 85133.47,
    "acc": "0001193125-26-312801",
    "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-20",
+   "shares": 1167.0,
+   "price": 72.9507,
+   "value": 85133.47,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
   },
   {
    "ticker": "NMM",
@@ -3844,6 +3772,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-21",
+   "shares": 1000.0,
+   "price": 73.98,
+   "value": 73980.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lin Shyue-Shyh",
    "role": "VP",
    "date": "2026-07-21",
@@ -3872,8 +3812,44 @@
    "role": "VP",
    "date": "2026-07-21",
    "shares": 1000.0,
+   "price": 74.13,
+   "value": 74130.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-21",
+   "shares": 1000.0,
    "price": 74.44,
    "value": 74440.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-21",
+   "shares": 1000.0,
+   "price": 74.44,
+   "value": 74440.0,
+   "acc": "0001046179-26-000457",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-21",
+   "shares": 1000.0,
+   "price": 74.75,
+   "value": 74750.0,
    "acc": "0001046179-26-000457",
    "filed": "2026-07-23"
   },
@@ -4104,6 +4080,18 @@
    "value": 85057.71,
    "acc": "0001193125-26-312801",
    "filed": "2026-07-22"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-21",
+   "shares": 1149.0,
+   "price": 74.0276,
+   "value": 85057.71,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
   },
   {
    "ticker": "NMM",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-22",
+   "shares": 1121.0,
+   "price": 74.0678,
+   "value": 83030.0,
+   "acc": "0001193125-26-312801",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4811,7 +4811,7 @@
   {
    "ticker": "TSM",
    "insiders": 2,
-   "total_value": 2601730.0
+   "total_value": 2903080.0
   },
   {
    "ticker": "ELV",
