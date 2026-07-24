@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-24 16:25 UTC",
+ "updated_utc": "2026-07-24 16:41 UTC",
  "purchases": [
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 265.0,
-   "price": 2.44,
-   "value": 646.6,
-   "acc": "0001178579-26-000017",
-   "filed": "2026-07-21"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 265.0,
-   "price": 2.44,
-   "value": 646.6,
-   "acc": "0001178579-26-000017",
-   "filed": "2026-07-21"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 265.0,
-   "price": 2.44,
-   "value": 646.6,
-   "acc": "0001178579-26-000017",
-   "filed": "2026-07-21"
-  },
   {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
@@ -2510,6 +2474,18 @@
    "filed": "2026-07-22"
   },
   {
+   "ticker": "GDTC",
+   "company": "CytoMed Therapeutics Ltd",
+   "insider": "Choo Chee Kong",
+   "role": "Director",
+   "date": "2026-07-20",
+   "shares": 100000.0,
+   "price": 1.5,
+   "value": 150000.0,
+   "acc": "0001493152-26-034516",
+   "filed": "2026-07-24"
+  },
+  {
    "ticker": "CLBK",
    "company": "Columbia Financial, Inc./MD/",
    "insider": "Sorrentini Lucy",
@@ -4682,6 +4658,18 @@
    "filed": "2026-07-24"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-07-23",
+   "shares": 1.0,
+   "price": 429.51,
+   "value": 429.51,
+   "acc": "0001437749-26-024380",
+   "filed": "2026-07-24"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4800,6 +4788,18 @@
    "value": 1000298.7,
    "acc": "0001079428-26-000004",
    "filed": "2026-07-24"
+  },
+  {
+   "ticker": "PNFP",
+   "company": "Pinnacle Financial Partners, Inc.",
+   "insider": "MCCABE ROBERT A JR",
+   "role": "Chief Banking Officer",
+   "date": "2026-07-24",
+   "shares": 10013.0,
+   "price": 99.9,
+   "value": 1000298.7,
+   "acc": "0001079428-26-000004",
+   "filed": "2026-07-24"
   }
  ],
  "clusters": [
@@ -4835,9 +4835,6 @@
   }
  ],
  "seen": [
-  "0001445546-26-005067",
-  "0001445546-26-005091",
-  "0001445546-26-005093",
   "0001445546-26-005095",
   "0001445546-26-005105",
   "0001445546-26-005107",
@@ -5058,6 +5055,7 @@
   "0001493152-26-034315",
   "0001493152-26-034495",
   "0001493152-26-034510",
+  "0001493152-26-034516",
   "0001493225-26-000076",
   "0001493225-26-000077",
   "0001493225-26-000078",
@@ -7497,6 +7495,8 @@
   "0001918704-26-021174",
   "0001918704-26-021175",
   "0001918704-26-021176",
+  "0001918704-26-021177",
+  "0001918704-26-021178",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
