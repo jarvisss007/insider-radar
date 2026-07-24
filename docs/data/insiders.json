@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-24 19:17 UTC",
+ "updated_utc": "2026-07-24 19:32 UTC",
  "purchases": [
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-17",
-   "shares": 1119.0,
-   "price": 72.6181,
-   "value": 81259.65,
-   "acc": "0001193125-26-308116",
-   "filed": "2026-07-17"
-  },
   {
    "ticker": "FULC",
    "company": "Fulcrum Therapeutics, Inc.",
@@ -4394,6 +4382,18 @@
    "filed": "2026-07-24"
   },
   {
+   "ticker": "BBASX",
+   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "insider": "AMG New York Holdings Corp.",
+   "role": "10% owner",
+   "date": "2026-07-22",
+   "shares": 61020.345,
+   "price": 10.79,
+   "value": 658409.52,
+   "acc": "0001193125-26-315864",
+   "filed": "2026-07-24"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4819,14 +4819,14 @@
    "total_value": 4409830.0
   },
   {
+   "ticker": "BBASX",
+   "insiders": 2,
+   "total_value": 1975216.36
+  },
+  {
    "ticker": "ELV",
    "insiders": 2,
    "total_value": 1368280.05
-  },
-  {
-   "ticker": "BBASX",
-   "insiders": 2,
-   "total_value": 1316806.84
   },
   {
    "ticker": "BYRN",
@@ -4840,9 +4840,6 @@
   }
  ],
  "seen": [
-  "0001461661-26-000002",
-  "0001463371-26-000003",
-  "0001464521-26-000101",
   "0001464521-26-000103",
   "0001464521-26-000105",
   "0001464521-26-000107",
@@ -5472,6 +5469,7 @@
   "0001654954-26-006801",
   "0001654954-26-006836",
   "0001654954-26-006837",
+  "0001654954-26-006877",
   "0001655589-26-000958",
   "0001655589-26-000959",
   "0001655589-26-000960",
@@ -7495,6 +7493,8 @@
   "0001918704-26-021196",
   "0001918704-26-021197",
   "0001918704-26-021198",
+  "0001918704-26-021199",
+  "0001918704-26-021200",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
