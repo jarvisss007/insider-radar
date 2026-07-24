@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-24 05:20 UTC",
+ "updated_utc": "2026-07-24 05:35 UTC",
  "purchases": [
-  {
-   "ticker": "LNBIX",
-   "company": "Lincoln Bain Capital Total Credit Fund",
-   "insider": "Lincoln Financial Investments Corp",
-   "role": "10% owner",
-   "date": "2026-07-16",
-   "shares": 2460629.92,
-   "price": 10.16,
-   "value": 24999999.99,
-   "acc": "0001193125-26-308501",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "BCDA",
-   "company": "BioCardia, Inc.",
-   "insider": "Altman Peter",
-   "role": "President and CEO",
-   "date": "2026-07-17",
-   "shares": 500.0,
-   "price": 0.83,
-   "value": 415.0,
-   "acc": "0001437749-26-023868",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 1.0,
-   "price": 420.15,
-   "value": 420.15,
-   "acc": "0001437749-26-023833",
-   "filed": "2026-07-20"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 265.0,
-   "price": 2.44,
-   "value": 646.6,
-   "acc": "0001178579-26-000017",
-   "filed": "2026-07-21"
-  },
   {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
@@ -4022,6 +3974,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "ARTV",
+   "company": "Artiva Biotherapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-07-21",
+   "shares": 120582.0,
+   "price": 9.55,
+   "value": 1151558.1,
+   "acc": "0001231919-26-000791",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "NONE",
    "company": "Commonwealth Credit Partners BDC I, Inc.",
    "insider": "UAW Chrysler Retirees Medical Benefits Plan",
@@ -4658,6 +4622,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "ARTV",
+   "company": "Artiva Biotherapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-07-22",
+   "shares": 84124.0,
+   "price": 9.93,
+   "value": 835351.32,
+   "acc": "0001231919-26-000791",
+   "filed": "2026-07-23"
+  },
+  {
    "ticker": "PBLS",
    "company": "Parabilis Medicines, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4668,6 +4644,18 @@
    "value": 1406632.5,
    "acc": "0001231919-26-000779",
    "filed": "2026-07-22"
+  },
+  {
+   "ticker": "BRTMU",
+   "company": "B&R Technology Merger Corp.",
+   "insider": "B&R Technology Sponsor LLC (Cayman)",
+   "role": "10% owner",
+   "date": "2026-07-22",
+   "shares": 687500.0,
+   "price": 10.0,
+   "value": 6875000.0,
+   "acc": "0001193125-26-314704",
+   "filed": "2026-07-23"
   },
   {
    "ticker": "BRTMU",
@@ -4751,6 +4739,18 @@
    "price": 3.4037,
    "value": 42546.25,
    "acc": "0001437749-26-024354",
+   "filed": "2026-07-23"
+  },
+  {
+   "ticker": "ARTV",
+   "company": "Artiva Biotherapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-07-23",
+   "shares": 59880.0,
+   "price": 9.96,
+   "value": 596404.8,
+   "acc": "0001231919-26-000791",
    "filed": "2026-07-23"
   },
   {
