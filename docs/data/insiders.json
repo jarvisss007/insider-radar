@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-24 17:12 UTC",
+ "updated_utc": "2026-07-24 17:27 UTC",
  "purchases": [
-  {
-   "ticker": "PMM",
-   "company": "PUTNAM MANAGED MUNICIPAL INCOME TRUST",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 437.0,
-   "price": 6.54,
-   "value": 2857.98,
-   "acc": "0000070858-26-000357",
-   "filed": "2026-07-20"
-  },
   {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
@@ -4646,6 +4634,18 @@
    "filed": "2026-07-24"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-07-23",
+   "shares": 756.0,
+   "price": 3.06,
+   "value": 2313.36,
+   "acc": "0001437749-26-024386",
+   "filed": "2026-07-24"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4835,7 +4835,6 @@
   }
  ],
  "seen": [
-  "0001445546-26-005197",
   "0001445546-26-005199",
   "0001445546-26-005201",
   "0001445546-26-005203",
@@ -7734,6 +7733,7 @@
   "0002058897-26-000250",
   "0002058897-26-000252",
   "0002058897-26-000254",
+  "0002058897-26-000256",
   "0002058966-26-000002",
   "0002059447-26-000004",
   "0002060000-26-000002",
