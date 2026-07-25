@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-07-25 22:29 UTC",
+ "updated_utc": "2026-07-25 23:05 UTC",
  "purchases": [
   {
    "ticker": "FULC",
@@ -2294,18 +2294,6 @@
    "filed": "2026-07-20"
   },
   {
-   "ticker": "NONE",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Monte Mark David",
-   "role": "Director",
-   "date": "2026-07-21",
-   "shares": 29.7167,
-   "price": 12.18,
-   "value": 361.95,
-   "acc": "0001435109-26-000123",
-   "filed": "2026-07-22"
-  },
-  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -2315,30 +2303,6 @@
    "price": 413.48,
    "value": 413.48,
    "acc": "0001437749-26-024069",
-   "filed": "2026-07-22"
-  },
-  {
-   "ticker": "NONE",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Booth Richard Whitaker",
-   "role": "",
-   "date": "2026-07-21",
-   "shares": 41.0509,
-   "price": 12.18,
-   "value": 500.0,
-   "acc": "0001435109-26-000125",
-   "filed": "2026-07-22"
-  },
-  {
-   "ticker": "NONE",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Monte Mark David",
-   "role": "Director",
-   "date": "2026-07-21",
-   "shares": 62.9862,
-   "price": 10.13,
-   "value": 638.05,
-   "acc": "0001435109-26-000124",
    "filed": "2026-07-22"
   },
   {
@@ -3506,42 +3470,6 @@
    "filed": "2026-07-23"
   },
   {
-   "ticker": "NONE",
-   "company": "Commonwealth Credit Partners BDC I, Inc.",
-   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
-   "role": "10% owner",
-   "date": "2026-07-21",
-   "shares": 2201.011,
-   "price": 877.09,
-   "value": 1930484.74,
-   "acc": "0001104659-26-086348",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "NONE",
-   "company": "Commonwealth Credit Partners BDC I, Inc.",
-   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
-   "role": "10% owner",
-   "date": "2026-07-21",
-   "shares": 3431.32,
-   "price": 877.09,
-   "value": 3009576.46,
-   "acc": "0001104659-26-086348",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "NONE",
-   "company": "Commonwealth Credit Partners BDC I, Inc.",
-   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
-   "role": "10% owner",
-   "date": "2026-07-21",
-   "shares": 5654.906,
-   "price": 877.09,
-   "value": 4959861.5,
-   "acc": "0001104659-26-086348",
-   "filed": "2026-07-23"
-  },
-  {
    "ticker": "RDGL",
    "company": "VIVOS INC",
    "insider": "Weeks Brad Allan",
@@ -4382,18 +4310,6 @@
    "filed": "2026-07-24"
   },
   {
-   "ticker": "NONE",
-   "company": "Sound Point Direct Lending BDC",
-   "insider": "ASSURED GUARANTY LTD",
-   "role": "10% owner",
-   "date": "2026-07-22",
-   "shares": 209387.822,
-   "price": 24.8343,
-   "value": 5199999.99,
-   "acc": "0001628280-26-049638",
-   "filed": "2026-07-24"
-  },
-  {
    "ticker": "BRTMU",
    "company": "B&R Technology Merger Corp.",
    "insider": "B&R Technology Sponsor LLC (Cayman)",
@@ -4730,18 +4646,6 @@
    "filed": "2026-07-23"
   },
   {
-   "ticker": "NONE",
-   "company": "Blackstone Private Real Estate Credit & Income Fund",
-   "insider": "Blackstone Private Multi-Asset Credit & Income Fund",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 573613.767,
-   "price": 26.15,
-   "value": 15000000.01,
-   "acc": "0001213900-26-081436",
-   "filed": "2026-07-24"
-  },
-  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4803,11 +4707,6 @@
   }
  ],
  "clusters": [
-  {
-   "ticker": "NONE",
-   "insiders": 5,
-   "total_value": 30101422.7
-  },
   {
    "ticker": "FSBC",
    "insiders": 6,

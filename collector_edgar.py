@@ -28,6 +28,7 @@ ATOM = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
         "&type=4&company=&dateb=&owner=include&count=100&output=atom")
 KEEP = 400            # purchases retained in the feed
 CLUSTER_DAYS = 14     # window for "multiple insiders buying" clusters
+BAD_TICKERS = {"", "NONE", "N/A", "NA", "NULL"}  # placeholder symbols filers use for unlisted issuers
 PAUSE = 0.25          # seconds between EDGAR requests (≈4 req/s worst case)
 
 
@@ -142,7 +143,8 @@ def clusters(purchases):
 def one_pass():
     state = load_existing()
     seen = set(state.get("seen", []))
-    purchases = state.get("purchases", [])
+    purchases = [p for p in state.get("purchases", [])
+                 if p.get("ticker", "").strip().upper() not in BAD_TICKERS]
     new_p = new_s = 0
     for cik, acc in latest_form4_accessions():
         if acc in seen:
@@ -156,7 +158,7 @@ def one_pass():
         except Exception as e:
             print(f"  skip {acc}: {e}", flush=True)
             continue
-        if not f or not f["ticker"]:
+        if not f or f["ticker"] in BAD_TICKERS:
             continue
         for tx in f["tx"]:
             row = {"ticker": f["ticker"], "company": f["company"],
