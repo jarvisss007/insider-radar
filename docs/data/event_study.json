@@ -1,16 +1,16 @@
 {
- "updated_utc": "2026-07-26 03:25 UTC",
- "n_events": 720,
+ "updated_utc": "2026-07-26 14:52 UTC",
+ "n_events": 725,
  "n_mature": 657,
- "pre10_mean": 1.56,
- "pre10_n": 702,
+ "pre10_mean": 1.46,
+ "pre10_n": 707,
  "agg": {
   "1": {
-   "n": 720,
-   "mean": 0.693,
-   "median": 0.054,
-   "win": 51.4,
-   "t": 3.95
+   "n": 725,
+   "mean": 0.632,
+   "median": 0.023,
+   "win": 51.0,
+   "t": 3.59
   },
   "3": {
    "n": 682,
@@ -29,7 +29,7 @@
   "10": {
    "n": 669,
    "mean": 0.791,
-   "median": 0.12,
+   "median": 0.121,
    "win": 50.4,
    "t": 1.78
   },
@@ -44,13 +44,13 @@
  "curve": [
   {
    "day": 1,
-   "car": 0.693,
-   "n": 720
+   "car": 0.632,
+   "n": 725
   },
   {
    "day": 2,
-   "car": 0.164,
-   "n": 712
+   "car": 0.158,
+   "n": 716
   },
   {
    "day": 3,
@@ -59,8 +59,8 @@
   },
   {
    "day": 4,
-   "car": 0.114,
-   "n": 676
+   "car": 0.116,
+   "n": 677
   },
   {
    "day": 5,
@@ -119,8 +119,8 @@
   },
   {
    "day": 16,
-   "car": 0.424,
-   "n": 665
+   "car": 0.429,
+   "n": 667
   },
   {
    "day": 17,
@@ -144,106 +144,6 @@
   }
  ],
  "events": [
-  {
-   "ticker": "FNRN",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-02-12",
-   "filed": "2026-02-12",
-   "value": 5840.0,
-   "src": "backfill",
-   "pre10": 8.96,
-   "after": {
-    "1": -0.009,
-    "3": -0.675,
-    "5": -1.544,
-    "10": 0.441,
-    "20": 3.489
-   },
-   "days": 20,
-   "running": 3.49,
-   "mature": true
-  },
-  {
-   "ticker": "CVRX",
-   "insider": "Jain Mudit K.",
-   "role": "Director",
-   "date": "2026-02-18",
-   "filed": "2026-02-18",
-   "value": 2785.02,
-   "src": "backfill",
-   "pre10": -29.85,
-   "after": {
-    "1": 4.877,
-    "3": 35.202,
-    "5": 50.726,
-    "10": 68.599,
-    "20": 72.263
-   },
-   "days": 20,
-   "running": 72.26,
-   "mature": true
-  },
-  {
-   "ticker": "OFG",
-   "insider": "FRANQUI ANNETTE",
-   "role": "Director",
-   "date": "2026-02-20",
-   "filed": "2026-02-20",
-   "value": 64780.1,
-   "src": "backfill",
-   "pre10": 2.0,
-   "after": {
-    "1": -2.594,
-    "3": -2.571,
-    "5": -6.175,
-    "10": -6.251,
-    "20": -4.12
-   },
-   "days": 20,
-   "running": -4.12,
-   "mature": true
-  },
-  {
-   "ticker": "CEVA",
-   "insider": "Liu Jaclyn",
-   "role": "Director",
-   "date": "2026-02-23",
-   "filed": "2026-02-23",
-   "value": 25086.5,
-   "src": "backfill",
-   "pre10": -15.58,
-   "after": {
-    "1": 1.28,
-    "3": 8.448,
-    "5": 8.065,
-    "10": 0.38,
-    "20": -0.836
-   },
-   "days": 20,
-   "running": -0.84,
-   "mature": true
-  },
-  {
-   "ticker": "LOGC",
-   "insider": "Bobbili Raja",
-   "role": "Director",
-   "date": "2026-02-26",
-   "filed": "2026-02-26",
-   "value": 12311558.0,
-   "src": "backfill",
-   "pre10": 2.82,
-   "after": {
-    "1": 0.072,
-    "3": -0.217,
-    "5": -2.721,
-    "10": 1.872,
-    "20": 5.802
-   },
-   "days": 20,
-   "running": 5.8,
-   "mature": true
-  },
   {
    "ticker": "KELYA",
    "insider": "Hunt James Christopher",
@@ -796,7 +696,7 @@
    "after": {
     "1": 1.106,
     "3": 1.253,
-    "5": 1.454,
+    "5": 1.455,
     "10": 3.53,
     "20": 3.881
    },
@@ -4032,8 +3932,8 @@
     "5": -0.818,
     "10": 5.424
    },
-   "days": 15,
-   "running": 3.97,
+   "days": 16,
+   "running": 6.13,
    "mature": false
   },
   {
@@ -4070,8 +3970,8 @@
     "5": -5.341,
     "10": -7.164
    },
-   "days": 15,
-   "running": 2.29,
+   "days": 16,
+   "running": -2.03,
    "mature": false
   },
   {
@@ -4178,8 +4078,8 @@
     "1": -1.363,
     "3": 1.28
    },
-   "days": 3,
-   "running": 1.28,
+   "days": 4,
+   "running": 1.41,
    "mature": false
   },
   {
@@ -4379,8 +4279,8 @@
    "after": {
     "1": -0.009
    },
-   "days": 1,
-   "running": -0.01,
+   "days": 2,
+   "running": 0.23,
    "mature": false
   },
   {
@@ -4715,8 +4615,8 @@
    "after": {
     "1": -0.009
    },
-   "days": 1,
-   "running": -0.01,
+   "days": 2,
+   "running": 0.23,
    "mature": false
   },
   {
@@ -4795,8 +4695,8 @@
    "after": {
     "1": -2.526
    },
-   "days": 1,
-   "running": -2.53,
+   "days": 2,
+   "running": -4.36,
    "mature": false
   },
   {
@@ -4843,8 +4743,8 @@
    "after": {
     "1": -0.681
    },
-   "days": 1,
-   "running": -0.68,
+   "days": 2,
+   "running": 0.23,
    "mature": false
   },
   {
@@ -4941,6 +4841,86 @@
    },
    "days": 1,
    "running": -1.99,
+   "mature": false
+  },
+  {
+   "ticker": "BYRN",
+   "insider": "Hughes Herbert",
+   "role": "Director",
+   "date": "2026-07-22",
+   "filed": "2026-07-23",
+   "value": 19026.74,
+   "src": "live",
+   "pre10": -12.67,
+   "after": {
+    "1": -8.109
+   },
+   "days": 1,
+   "running": -8.11,
+   "mature": false
+  },
+  {
+   "ticker": "BYRN",
+   "insider": "Davis Conn Q.",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-22",
+   "filed": "2026-07-23",
+   "value": 64963.28,
+   "src": "live",
+   "pre10": -12.67,
+   "after": {
+    "1": -8.109
+   },
+   "days": 1,
+   "running": -8.11,
+   "mature": false
+  },
+  {
+   "ticker": "BYRN",
+   "insider": "Kennedy TJ",
+   "role": "Director",
+   "date": "2026-07-22",
+   "filed": "2026-07-23",
+   "value": 102285.9,
+   "src": "live",
+   "pre10": -12.67,
+   "after": {
+    "1": -8.109
+   },
+   "days": 1,
+   "running": -8.11,
+   "mature": false
+  },
+  {
+   "ticker": "BYRN",
+   "insider": "Davis Conn Q.",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-23",
+   "filed": "2026-07-23",
+   "value": 12039.3,
+   "src": "live",
+   "pre10": -12.67,
+   "after": {
+    "1": -8.109
+   },
+   "days": 1,
+   "running": -8.11,
+   "mature": false
+  },
+  {
+   "ticker": "BYRN",
+   "insider": "Hughes Herbert",
+   "role": "Director",
+   "date": "2026-07-23",
+   "filed": "2026-07-23",
+   "value": 12676.11,
+   "src": "live",
+   "pre10": -12.67,
+   "after": {
+    "1": -8.109
+   },
+   "days": 1,
+   "running": -8.11,
    "mature": false
   }
  ],
