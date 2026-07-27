@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-07-27 13:18 UTC",
+ "updated_utc": "2026-07-27 13:33 UTC",
  "purchases": [
-  {
-   "ticker": "FULC",
-   "company": "Fulcrum Therapeutics, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 50945.0,
-   "price": 3.52,
-   "value": 179326.4,
-   "acc": "0001178579-26-000016",
-   "filed": "2026-07-21"
-  },
-  {
-   "ticker": "FULC",
-   "company": "Fulcrum Therapeutics, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 50945.0,
-   "price": 3.52,
-   "value": 179326.4,
-   "acc": "0001178579-26-000016",
-   "filed": "2026-07-21"
-  },
-  {
-   "ticker": "FULC",
-   "company": "Fulcrum Therapeutics, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 50945.0,
-   "price": 3.52,
-   "value": 179326.4,
-   "acc": "0001178579-26-000016",
-   "filed": "2026-07-21"
-  },
-  {
-   "ticker": "FULC",
-   "company": "Fulcrum Therapeutics, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 50945.0,
-   "price": 3.52,
-   "value": 179326.4,
-   "acc": "0001178579-26-000016",
-   "filed": "2026-07-21"
-  },
-  {
-   "ticker": "FULC",
-   "company": "Fulcrum Therapeutics, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-07-17",
-   "shares": 50945.0,
-   "price": 3.52,
-   "value": 179326.4,
-   "acc": "0001178579-26-000016",
-   "filed": "2026-07-21"
-  },
   {
    "ticker": "FULC",
    "company": "Fulcrum Therapeutics, Inc.",
@@ -4538,6 +4478,30 @@
    "filed": "2026-07-27"
   },
   {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-23",
+   "shares": 2500.0,
+   "price": 13.14,
+   "value": 32850.0,
+   "acc": "0001493152-26-034675",
+   "filed": "2026-07-27"
+  },
+  {
+   "ticker": "PEBO",
+   "company": "PEOPLES BANCORP INC",
+   "insider": "Smith Dwight Eric",
+   "role": "Director",
+   "date": "2026-07-23",
+   "shares": 1000.0,
+   "price": 39.8099,
+   "value": 39809.9,
+   "acc": "0000318300-26-000185",
+   "filed": "2026-07-27"
+  },
+  {
    "ticker": "BYRN",
    "company": "Byrna Technologies Inc.",
    "insider": "Hughes Herbert",
@@ -4548,6 +4512,18 @@
    "value": 42546.25,
    "acc": "0001437749-26-024354",
    "filed": "2026-07-23"
+  },
+  {
+   "ticker": "MKC",
+   "company": "MCCORMICK & CO INC",
+   "insider": "Conway Michael Aaron",
+   "role": "Director",
+   "date": "2026-07-23",
+   "shares": 1100.0,
+   "price": 50.2067,
+   "value": 55227.37,
+   "acc": "0000063754-26-000284",
+   "filed": "2026-07-27"
   },
   {
    "ticker": "MKC",
@@ -4718,6 +4694,18 @@
    "filed": "2026-07-27"
   },
   {
+   "ticker": "NONE",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Staloch Alison",
+   "role": "Treasurer",
+   "date": "2026-07-24",
+   "shares": 41.2201,
+   "price": 12.13,
+   "value": 500.0,
+   "acc": "0001435109-26-000128",
+   "filed": "2026-07-27"
+  },
+  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4739,6 +4727,18 @@
    "price": 3.73,
    "value": 11190.0,
    "acc": "0001493152-26-034723",
+   "filed": "2026-07-27"
+  },
+  {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-24",
+   "shares": 1100.0,
+   "price": 12.88,
+   "value": 14168.0,
+   "acc": "0001493152-26-034675",
    "filed": "2026-07-27"
   },
   {
@@ -4845,11 +4845,6 @@
   }
  ],
  "seen": [
-  "0001493152-26-034723",
-  "0001493152-26-034726",
-  "0001493225-26-000076",
-  "0001493225-26-000077",
-  "0001493225-26-000078",
   "0001493225-26-000079",
   "0001493225-26-000080",
   "0001493225-26-000081",
@@ -6471,6 +6466,9 @@
   "0001839882-26-036292",
   "0001839882-26-036295",
   "0001839882-26-036309",
+  "0001839882-26-036324",
+  "0001839882-26-036325",
+  "0001839882-26-036326",
   "0001840706-26-000247",
   "0001840706-26-000248",
   "0001840706-26-000249",
@@ -7460,6 +7458,7 @@
   "0001918704-26-021225",
   "0001918704-26-021226",
   "0001918704-26-021227",
+  "0001918704-26-021228",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
@@ -7646,6 +7645,7 @@
   "0001999371-26-015853",
   "0001999371-26-015862",
   "0001999371-26-015876",
+  "0001999371-26-015899",
   "0001999488-26-000011",
   "0002004222-26-000006",
   "0002004397-26-000005",
