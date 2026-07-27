@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-27 22:26 UTC",
+ "updated_utc": "2026-07-27 22:41 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-21",
-   "shares": 1000.0,
-   "price": 74.13,
-   "value": 74130.0,
-   "acc": "0001046179-26-000457",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-21",
-   "shares": 1000.0,
-   "price": 74.13,
-   "value": 74130.0,
-   "acc": "0001046179-26-000457",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-21",
-   "shares": 1000.0,
-   "price": 74.13,
-   "value": 74130.0,
-   "acc": "0001046179-26-000457",
-   "filed": "2026-07-23"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -1823,6 +1787,18 @@
    "price": 22.71,
    "value": 9.99,
    "acc": "0001732966-26-000014",
+   "filed": "2026-07-27"
+  },
+  {
+   "ticker": "NA",
+   "company": "FT Vest Total Return Income Fund: Series A2",
+   "insider": "First Trust Capital Management L.P.",
+   "role": "",
+   "date": "2026-07-23",
+   "shares": 0.44,
+   "price": 22.71,
+   "value": 9.99,
+   "acc": "0001604488-26-000079",
    "filed": "2026-07-27"
   },
   {
@@ -3998,6 +3974,30 @@
    "filed": "2026-07-27"
   },
   {
+   "ticker": "FFIN",
+   "company": "FIRST FINANCIAL BANKSHARES INC",
+   "insider": "Nickles Robert Clark Jr",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 700.0,
+   "price": 34.89,
+   "value": 24423.0,
+   "acc": "0001193125-26-318317",
+   "filed": "2026-07-27"
+  },
+  {
+   "ticker": "LGHL",
+   "company": "Lion Group Holding Ltd",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-07-24",
+   "shares": 27702.0,
+   "price": 0.954,
+   "value": 26427.71,
+   "acc": "0001475597-26-000166",
+   "filed": "2026-07-27"
+  },
+  {
    "ticker": "LGHL",
    "company": "Lion Group Holding Ltd",
    "insider": "HRT FINANCIAL LP",
@@ -4826,13 +4826,10 @@
   {
    "ticker": "NA",
    "insiders": 3,
-   "total_value": 59.94
+   "total_value": 69.93
   }
  ],
  "seen": [
-  "0001628280-26-047507",
-  "0001628280-26-047508",
-  "0001628280-26-047516",
   "0001628280-26-047525",
   "0001628280-26-047527",
   "0001628280-26-047528",
@@ -5049,6 +5046,9 @@
   "0001628280-26-049853",
   "0001628280-26-049871",
   "0001628280-26-049875",
+  "0001628280-26-049879",
+  "0001628280-26-049881",
+  "0001628280-26-049886",
   "0001628973-26-000002",
   "0001632468-26-000013",
   "0001632590-26-000010",
