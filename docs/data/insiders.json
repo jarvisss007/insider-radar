@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-07-28 15:39 UTC",
+ "updated_utc": "2026-07-28 15:55 UTC",
  "purchases": [
-  {
-   "ticker": "STFS",
-   "company": "Star Fashion Culture Holdings Ltd",
-   "insider": "ZHANG PINGTING",
-   "role": "Chief Financial Officer",
-   "date": "2026-07-22",
-   "shares": 2000000.0,
-   "price": 1.3,
-   "value": 2600000.0,
-   "acc": "0001213900-26-082081",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "FSBC",
-   "company": "FIVE STAR BANCORP",
-   "insider": "Allbaugh Larry Eugene",
-   "role": "Director",
-   "date": "2026-07-22",
-   "shares": 90909.0,
-   "price": 44.0,
-   "value": 3999996.0,
-   "acc": "0001628280-26-049623",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "BRTMU",
-   "company": "B&R Technology Merger Corp.",
-   "insider": "B&R Technology Sponsor LLC (Cayman)",
-   "role": "10% owner",
-   "date": "2026-07-22",
-   "shares": 687500.0,
-   "price": 10.0,
-   "value": 6875000.0,
-   "acc": "0001193125-26-314704",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "BRTMU",
-   "company": "B&R Technology Merger Corp.",
-   "insider": "B&R Technology Sponsor LLC (Cayman)",
-   "role": "10% owner",
-   "date": "2026-07-22",
-   "shares": 687500.0,
-   "price": 10.0,
-   "value": 6875000.0,
-   "acc": "0001193125-26-314704",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "BRTMU",
-   "company": "B&R Technology Merger Corp.",
-   "insider": "B&R Technology Sponsor LLC (Cayman)",
-   "role": "10% owner",
-   "date": "2026-07-22",
-   "shares": 687500.0,
-   "price": 10.0,
-   "value": 6875000.0,
-   "acc": "0001193125-26-314704",
-   "filed": "2026-07-23"
-  },
   {
    "ticker": "BRTMU",
    "company": "B&R Technology Merger Corp.",
@@ -3758,6 +3698,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 1.0,
+   "price": 409.31,
+   "value": 409.31,
+   "acc": "0001437749-26-024591",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
    "insider": "Maimon Shalom Arik",
@@ -4111,6 +4063,30 @@
    "insider": "Fields Curtland E",
    "role": "Director",
    "date": "2026-07-27",
+   "shares": 358.0,
+   "price": 9.4,
+   "value": 3365.2,
+   "acc": "0001310881-26-000010",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "KRNY",
+   "company": "Kearny Financial Corp.",
+   "insider": "Fields Curtland E",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 700.0,
+   "price": 9.395,
+   "value": 6576.5,
+   "acc": "0001310881-26-000010",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "KRNY",
+   "company": "Kearny Financial Corp.",
+   "insider": "Fields Curtland E",
+   "role": "Director",
+   "date": "2026-07-27",
    "shares": 700.0,
    "price": 9.395,
    "value": 6576.5,
@@ -4199,6 +4175,18 @@
    "price": 3.44,
    "value": 17200.0,
    "acc": "0001493152-26-034952",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "KRNY",
+   "company": "Kearny Financial Corp.",
+   "insider": "Fields Curtland E",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 3900.0,
+   "price": 9.3999,
+   "value": 36659.61,
+   "acc": "0001310881-26-000010",
    "filed": "2026-07-28"
   },
   {
@@ -4800,6 +4788,18 @@
    "value": 91672.22,
    "acc": "0001310881-26-000010",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "KRNY",
+   "company": "Kearny Financial Corp.",
+   "insider": "Fields Curtland E",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 9742.0,
+   "price": 9.41,
+   "value": 91672.22,
+   "acc": "0001310881-26-000010",
+   "filed": "2026-07-28"
   }
  ],
  "clusters": [
@@ -4825,8 +4825,6 @@
   }
  ],
  "seen": [
-  "0001628280-26-049618",
-  "0001628280-26-049619",
   "0001628280-26-049621",
   "0001628280-26-049623",
   "0001628280-26-049632",
@@ -6130,6 +6128,7 @@
   "0001839882-26-036547",
   "0001839882-26-036552",
   "0001839882-26-036554",
+  "0001839882-26-036560",
   "0001840706-26-000247",
   "0001840706-26-000248",
   "0001840706-26-000249",
@@ -6217,6 +6216,7 @@
   "0001885988-26-000001",
   "0001887601-26-000006",
   "0001889687-26-000006",
+  "0001889998-26-000006",
   "0001891037-26-000009",
   "0001891182-26-000008",
   "0001891751-26-000008",
