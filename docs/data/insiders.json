@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-07-28 01:33 UTC",
+ "updated_utc": "2026-07-28 01:49 UTC",
  "purchases": [
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-21",
-   "shares": 1149.0,
-   "price": 74.0276,
-   "value": 85057.71,
-   "acc": "0001193125-26-312801",
-   "filed": "2026-07-22"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-21",
-   "shares": 1149.0,
-   "price": 74.0276,
-   "value": 85057.71,
-   "acc": "0001193125-26-312801",
-   "filed": "2026-07-22"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-21",
-   "shares": 1149.0,
-   "price": 74.0276,
-   "value": 85057.71,
-   "acc": "0001193125-26-312801",
-   "filed": "2026-07-22"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-21",
-   "shares": 1149.0,
-   "price": 74.0276,
-   "value": 85057.71,
-   "acc": "0001193125-26-312801",
-   "filed": "2026-07-22"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-21",
-   "shares": 1149.0,
-   "price": 74.0276,
-   "value": 85057.71,
-   "acc": "0001193125-26-312801",
-   "filed": "2026-07-22"
-  },
   {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
@@ -2498,6 +2438,18 @@
    "filed": "2026-07-23"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Lucas Svetlana",
+   "role": "Chief Business Officer",
+   "date": "2026-07-23",
+   "shares": 3000.0,
+   "price": 15.0,
+   "value": 45000.0,
+   "acc": "0001781292-26-000007",
+   "filed": "2026-07-27"
+  },
+  {
    "ticker": "MKC",
    "company": "MCCORMICK & CO INC",
    "insider": "Conway Michael Aaron",
@@ -2915,6 +2867,18 @@
    "price": 14.3008,
    "value": 25000017.48,
    "acc": "0001011438-26-000438",
+   "filed": "2026-07-27"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-23",
+   "shares": 1131.0,
+   "price": 748119.0,
+   "value": 846122589.0,
+   "acc": "0001193125-26-318541",
    "filed": "2026-07-27"
   },
   {
@@ -3878,6 +3842,18 @@
    "filed": "2026-07-27"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-24",
+   "shares": 1084.0,
+   "price": 79.019,
+   "value": 85656.6,
+   "acc": "0001193125-26-318541",
+   "filed": "2026-07-27"
+  },
+  {
    "ticker": "ENR",
    "company": "ENERGIZER HOLDINGS, INC.",
    "insider": "Aqua Capital, Ltd.",
@@ -4643,6 +4619,18 @@
    "price": 3.37,
    "value": 10743.56,
    "acc": "0001493152-26-034772",
+   "filed": "2026-07-27"
+  },
+  {
+   "ticker": "OVLY",
+   "company": "Oak Valley Bancorp",
+   "insider": "Strong Gary",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 2000.0,
+   "price": 32.5,
+   "value": 65000.0,
+   "acc": "0001437749-26-024534",
    "filed": "2026-07-27"
   },
   {
@@ -4800,6 +4788,18 @@
    "value": 81750.29,
    "acc": "0001193125-26-318541",
    "filed": "2026-07-27"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-27",
+   "shares": 1053.0,
+   "price": 77.6356,
+   "value": 81750.29,
+   "acc": "0001193125-26-318541",
+   "filed": "2026-07-27"
   }
  ],
  "clusters": [
@@ -4824,14 +4824,17 @@
    "total_value": 253537.58
   },
   {
+   "ticker": "SCTX",
+   "insiders": 2,
+   "total_value": 84990.0
+  },
+  {
    "ticker": "NA",
    "insiders": 3,
    "total_value": 79.92
   }
  ],
  "seen": [
-  "0001628280-26-047945",
-  "0001628280-26-047947",
   "0001628280-26-048014",
   "0001628280-26-048015",
   "0001628280-26-048017",
@@ -5036,6 +5039,7 @@
   "0001628280-26-049893",
   "0001628280-26-049895",
   "0001628280-26-049897",
+  "0001628280-26-049906",
   "0001628973-26-000002",
   "0001632468-26-000013",
   "0001632590-26-000010",
@@ -5333,6 +5337,7 @@
   "0001780851-26-000017",
   "0001780915-26-000010",
   "0001781127-26-000012",
+  "0001781292-26-000007",
   "0001783234-26-000001",
   "0001783493-26-000002",
   "0001783879-26-000093",
