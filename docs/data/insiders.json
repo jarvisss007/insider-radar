@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-28 09:43 UTC",
+ "updated_utc": "2026-07-28 10:00 UTC",
  "purchases": [
-  {
-   "ticker": "BBASX",
-   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
-   "insider": "BROWN BROTHERS HARRIMAN CREDIT PARTNERS, LLC",
-   "role": "10% owner",
-   "date": "2026-07-22",
-   "shares": 15255.086,
-   "price": 10.7898,
-   "value": 164599.33,
-   "acc": "0000929638-26-002719",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "BBASX",
-   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
-   "insider": "BROWN BROTHERS HARRIMAN CREDIT PARTNERS, LLC",
-   "role": "10% owner",
-   "date": "2026-07-22",
-   "shares": 15255.086,
-   "price": 10.7898,
-   "value": 164599.33,
-   "acc": "0000929638-26-002719",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "FSBC",
-   "company": "FIVE STAR BANCORP",
-   "insider": "Allbaugh Larry Eugene",
-   "role": "Director",
-   "date": "2026-07-22",
-   "shares": 5682.0,
-   "price": 44.0,
-   "value": 250008.0,
-   "acc": "0001628280-26-049623",
-   "filed": "2026-07-24"
-  },
   {
    "ticker": "FSBC",
    "company": "FIVE STAR BANCORP",
@@ -2186,6 +2150,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-23",
+   "shares": 1131.0,
+   "price": 748119.0,
+   "value": 846122589.0,
+   "acc": "0001193125-26-318541",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
    "insider": "Maimon Shalom Arik",
@@ -3360,6 +3336,18 @@
    "value": 85656.6,
    "acc": "0001193125-26-318541",
    "filed": "2026-07-27"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-24",
+   "shares": 1084.0,
+   "price": 79.019,
+   "value": 85656.6,
+   "acc": "0001193125-26-318541",
+   "filed": "2026-07-28"
   },
   {
    "ticker": "NMM",
@@ -4800,6 +4788,18 @@
    "value": 81750.29,
    "acc": "0001193125-26-318541",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-27",
+   "shares": 1053.0,
+   "price": 77.6356,
+   "value": 81750.29,
+   "acc": "0001193125-26-318541",
+   "filed": "2026-07-28"
   }
  ],
  "clusters": [
@@ -4811,12 +4811,7 @@
   {
    "ticker": "FSBC",
    "insiders": 4,
-   "total_value": 6129992.0
-  },
-  {
-   "ticker": "BBASX",
-   "insiders": 2,
-   "total_value": 2304427.22
+   "total_value": 5879984.0
   },
   {
    "ticker": "SCTX",
