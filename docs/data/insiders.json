@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-28 23:08 UTC",
+ "updated_utc": "2026-07-28 23:24 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 400.0,
-   "price": 0.46,
-   "value": 184.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 79.0,
-   "price": 5.0975,
-   "value": 402.7,
-   "acc": "0001628280-26-049649",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 38.0,
-   "price": 11.18,
-   "value": 424.84,
-   "acc": "0001510281-26-000248",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 1.0,
-   "price": 429.51,
-   "value": 429.51,
-   "acc": "0001437749-26-024380",
-   "filed": "2026-07-24"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -2944,6 +2896,18 @@
   {
    "ticker": "N/A",
    "company": "Crestline Lending Solutions, LLC",
+   "insider": "Bavin Tom",
+   "role": "Chief Development Officer",
+   "date": "2026-07-24",
+   "shares": 10190.823,
+   "price": 19.63,
+   "value": 200045.86,
+   "acc": "0001628280-26-050262",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "N/A",
+   "company": "Crestline Lending Solutions, LLC",
    "insider": "Smith Matthew Eric",
    "role": "Director",
    "date": "2026-07-24",
@@ -3215,6 +3179,30 @@
    "price": 10.46,
    "value": 1894300.0,
    "acc": "0002125773-26-000005",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NONE",
+   "company": "5C Lending Partners Corp.",
+   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
+   "role": "10% owner",
+   "date": "2026-07-24",
+   "shares": 225310.0,
+   "price": 24.29,
+   "value": 5472779.9,
+   "acc": "0001193125-26-321639",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NONE",
+   "company": "5C Lending Partners Corp.",
+   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
+   "role": "10% owner",
+   "date": "2026-07-24",
+   "shares": 337966.0,
+   "price": 24.29,
+   "value": 8209194.14,
+   "acc": "0001193125-26-321639",
    "filed": "2026-07-28"
   },
   {
@@ -3875,6 +3863,18 @@
    "price": 9.4,
    "value": 3365.2,
    "acc": "0001310881-26-000010",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 325.0,
+   "price": 11.28,
+   "value": 3666.0,
+   "acc": "0001510281-26-000251",
    "filed": "2026-07-28"
   },
   {
@@ -4805,13 +4805,13 @@
  "clusters": [
   {
    "ticker": "NONE",
-   "insiders": 5,
-   "total_value": 188149684.65
+   "insiders": 6,
+   "total_value": 201831658.69
   },
   {
    "ticker": "N/A",
    "insiders": 5,
-   "total_value": 3594689.8
+   "total_value": 3794735.66
   },
   {
    "ticker": "BYRN",
@@ -4825,9 +4825,6 @@
   }
  ],
  "seen": [
-  "0001742926-26-000003",
-  "0001742938-26-000007",
-  "0001744712-26-000005",
   "0001745186-26-000007",
   "0001746129-26-000032",
   "0001746129-26-000034",
@@ -6120,6 +6117,7 @@
   "0001907982-26-000103",
   "0001907982-26-000105",
   "0001907982-26-000107",
+  "0001908561-26-000012",
   "0001908625-26-000007",
   "0001912031-26-000015",
   "0001912317-26-000011",
@@ -7747,9 +7745,11 @@
   "0002083536-26-000011",
   "0002083591-26-000005",
   "0002083595-26-000006",
+  "0002083617-26-000012",
   "0002083761-26-000003",
   "0002084264-26-000003",
   "0002084264-26-000004",
+  "0002084812-26-000013",
   "0002085970-26-000005",
   "0002087126-26-000006",
   "0002087127-26-000004",
