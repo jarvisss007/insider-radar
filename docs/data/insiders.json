@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-07-28 20:56 UTC",
+ "updated_utc": "2026-07-28 21:12 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 100.0,
-   "price": 0.45,
-   "value": 45.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 200.0,
-   "price": 0.42,
-   "value": 84.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 200.0,
-   "price": 0.42,
-   "value": 84.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 200.0,
-   "price": 0.42,
-   "value": 84.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 200.0,
-   "price": 0.42,
-   "value": 84.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -3326,6 +3266,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "NONE",
+   "company": "5C Lending Partners Corp.",
+   "insider": "MSD CAPITAL, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-24",
+   "shares": 1274194.0,
+   "price": 24.29,
+   "value": 30950172.26,
+   "acc": "0001193125-26-321223",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
    "insider": "Maimon Shalom Arik",
@@ -4010,6 +3962,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "BYRN",
+   "company": "Byrna Technologies Inc.",
+   "insider": "Hughes Herbert",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 2501.0,
+   "price": 3.77,
+   "value": 9428.77,
+   "acc": "0001437749-26-024689",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "ANIX",
    "company": "Anixa Biosciences Inc",
    "insider": "KUMAR AMIT",
@@ -4103,6 +4067,18 @@
    "price": 0.026,
    "value": 27785.45,
    "acc": "0001475597-26-000172",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Meltzer Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-27",
+   "shares": 36000.0,
+   "price": 0.93,
+   "value": 33480.0,
+   "acc": "0001213900-26-082326",
    "filed": "2026-07-28"
   },
   {
@@ -4778,6 +4754,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "BYRN",
+   "company": "Byrna Technologies Inc.",
+   "insider": "Hughes Herbert",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 1499.0,
+   "price": 3.8633,
+   "value": 5791.09,
+   "acc": "0001437749-26-024689",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
    "insider": "RAN ASSAF",
@@ -4800,13 +4788,25 @@
    "value": 31920.0,
    "acc": "0001493152-26-034977",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "CVBF",
+   "company": "CVB FINANCIAL CORP",
+   "insider": "O Brien Raymond V III",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 20000.0,
+   "price": 22.765,
+   "value": 455300.0,
+   "acc": "0000354647-26-000110",
+   "filed": "2026-07-28"
   }
  ],
  "clusters": [
   {
    "ticker": "NONE",
-   "insiders": 4,
-   "total_value": 126249340.13
+   "insiders": 5,
+   "total_value": 157199512.39
   },
   {
    "ticker": "N/A",
@@ -4816,7 +4816,7 @@
   {
    "ticker": "BYRN",
    "insiders": 3,
-   "total_value": 112066.02
+   "total_value": 127285.88
   },
   {
    "ticker": "SCTX",
@@ -4825,9 +4825,6 @@
   }
  ],
  "seen": [
-  "0001729859-26-000042",
-  "0001729897-26-000033",
-  "0001729897-26-000038",
   "0001729897-26-000040",
   "0001730168-26-000066",
   "0001730168-26-000068",
@@ -5102,6 +5099,7 @@
   "0001829126-26-007902",
   "0001829126-26-007908",
   "0001829126-26-007921",
+  "0001829126-26-007930",
   "0001830165-26-000026",
   "0001830532-26-000008",
   "0001831144-26-000002",
@@ -7277,6 +7275,8 @@
   "0001918704-26-021472",
   "0001918704-26-021473",
   "0001918704-26-021474",
+  "0001918704-26-021475",
+  "0001918704-26-021476",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
