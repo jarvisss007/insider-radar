@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-28 21:59 UTC",
+ "updated_utc": "2026-07-28 22:15 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 300.0,
-   "price": 0.41,
-   "value": 123.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 300.0,
-   "price": 0.41,
-   "value": 123.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 300.0,
-   "price": 0.41,
-   "value": 123.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -804,6 +768,18 @@
    "value": 89980.0,
    "acc": "0002000276-26-000006",
    "filed": "2026-07-27"
+  },
+  {
+   "ticker": "DRIO",
+   "company": "DarioHealth Corp.",
+   "insider": "Matheis Dennis",
+   "role": "Director",
+   "date": "2026-07-23",
+   "shares": 14430.0,
+   "price": 6.93,
+   "value": 99999.9,
+   "acc": "0001104659-26-087626",
+   "filed": "2026-07-28"
   },
   {
    "ticker": "DRIO",
@@ -2980,6 +2956,18 @@
   {
    "ticker": "N/A",
    "company": "Crestline Lending Solutions, LLC",
+   "insider": "Bavin Tom",
+   "role": "Chief Development Officer",
+   "date": "2026-07-24",
+   "shares": 10190.823,
+   "price": 19.63,
+   "value": 200045.86,
+   "acc": "0001628280-26-050262",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "N/A",
+   "company": "Crestline Lending Solutions, LLC",
    "insider": "Smith Matthew Eric",
    "role": "Director",
    "date": "2026-07-24",
@@ -2987,6 +2975,18 @@
    "price": 19.63,
    "value": 250057.32,
    "acc": "0001628280-26-050139",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "ARTV",
+   "company": "Artiva Biotherapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 41319.0,
+   "price": 9.99,
+   "value": 412776.81,
+   "acc": "0001231919-26-000808",
    "filed": "2026-07-28"
   },
   {
@@ -4811,7 +4811,7 @@
   {
    "ticker": "N/A",
    "insiders": 5,
-   "total_value": 2994552.22
+   "total_value": 3194598.08
   },
   {
    "ticker": "BYRN",
