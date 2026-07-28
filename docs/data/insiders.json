@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-28 05:46 UTC",
+ "updated_utc": "2026-07-28 06:02 UTC",
  "purchases": [
-  {
-   "ticker": "GRML",
-   "company": "Greenland Mines Ltd",
-   "insider": "Sawyer Jason David",
-   "role": "Director",
-   "date": "2026-07-22",
-   "shares": 240000.0,
-   "price": 0.2331,
-   "value": 55944.0,
-   "acc": "0001213900-26-080657",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "BYRN",
-   "company": "Byrna Technologies Inc.",
-   "insider": "Davis Conn Q.",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-22",
-   "shares": 18767.9201,
-   "price": 3.4614,
-   "value": 64963.28,
-   "acc": "0001437749-26-024355",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "ACOG",
-   "company": "Alpha Cognition Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-07-22",
-   "shares": 10000.0,
-   "price": 7.8337,
-   "value": 78337.0,
-   "acc": "0001493152-26-034560",
-   "filed": "2026-07-24"
-  },
   {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
@@ -2546,6 +2510,18 @@
    "filed": "2026-07-27"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-23",
+   "shares": 1131.0,
+   "price": 748119.0,
+   "value": 846122589.0,
+   "acc": "0001193125-26-318541",
+   "filed": "2026-07-27"
+  },
+  {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
    "insider": "Maimon Shalom Arik",
@@ -3455,6 +3431,18 @@
    "price": 16.9346,
    "value": 79592.62,
    "acc": "0000052234-26-000010",
+   "filed": "2026-07-27"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-24",
+   "shares": 1084.0,
+   "price": 79.019,
+   "value": 85656.6,
+   "acc": "0001193125-26-318541",
    "filed": "2026-07-27"
   },
   {
@@ -4800,6 +4788,18 @@
    "value": 81750.29,
    "acc": "0001193125-26-318541",
    "filed": "2026-07-27"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-27",
+   "shares": 1053.0,
+   "price": 77.6356,
+   "value": 81750.29,
+   "acc": "0001193125-26-318541",
+   "filed": "2026-07-27"
   }
  ],
  "clusters": [
@@ -4821,7 +4821,7 @@
   {
    "ticker": "BYRN",
    "insiders": 3,
-   "total_value": 234510.84
+   "total_value": 169547.56
   },
   {
    "ticker": "SCTX",
