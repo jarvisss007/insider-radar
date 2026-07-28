@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-28 23:24 UTC",
+ "updated_utc": "2026-07-28 23:40 UTC",
  "purchases": [
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 1.0,
-   "price": 429.51,
-   "value": 429.51,
-   "acc": "0001437749-26-024380",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 1.0,
-   "price": 429.51,
-   "value": 429.51,
-   "acc": "0001437749-26-024380",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 1.0,
-   "price": 429.51,
-   "value": 429.51,
-   "acc": "0001437749-26-024380",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 1000.0,
-   "price": 0.45,
-   "value": 450.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -3199,6 +3151,30 @@
    "insider": "LIBERTY MUTUAL HOLDING Co INC.",
    "role": "10% owner",
    "date": "2026-07-24",
+   "shares": 225310.0,
+   "price": 24.29,
+   "value": 5472779.9,
+   "acc": "0001193125-26-321639",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NONE",
+   "company": "5C Lending Partners Corp.",
+   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
+   "role": "10% owner",
+   "date": "2026-07-24",
+   "shares": 337966.0,
+   "price": 24.29,
+   "value": 8209194.14,
+   "acc": "0001193125-26-321639",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NONE",
+   "company": "5C Lending Partners Corp.",
+   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
+   "role": "10% owner",
+   "date": "2026-07-24",
    "shares": 337966.0,
    "price": 24.29,
    "value": 8209194.14,
@@ -3863,6 +3839,18 @@
    "price": 9.4,
    "value": 3365.2,
    "acc": "0001310881-26-000010",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 325.0,
+   "price": 11.28,
+   "value": 3666.0,
+   "acc": "0001510281-26-000251",
    "filed": "2026-07-28"
   },
   {
@@ -4718,6 +4706,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "ACI",
+   "company": "Albertsons Companies, Inc.",
+   "insider": "Moriarty Thomas M",
+   "role": "EVP, M&A and Corporate Affairs",
+   "date": "2026-07-27",
+   "shares": 170500.0,
+   "price": 11.509,
+   "value": 1962284.5,
+   "acc": "0001628280-26-050285",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "MTAK",
    "company": "Market Technology Acquisition Corp",
    "insider": "Market Technology Acquisition Sponsor LLC",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "NONE",
    "insiders": 6,
-   "total_value": 201831658.69
+   "total_value": 215513632.73
   },
   {
    "ticker": "N/A",
