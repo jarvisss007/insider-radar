@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-07-28 22:53 UTC",
+ "updated_utc": "2026-07-28 23:08 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 400.0,
-   "price": 0.46,
-   "value": 184.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 400.0,
-   "price": 0.46,
-   "value": 184.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -2956,6 +2932,18 @@
   {
    "ticker": "N/A",
    "company": "Crestline Lending Solutions, LLC",
+   "insider": "Bavin Tom",
+   "role": "Chief Development Officer",
+   "date": "2026-07-24",
+   "shares": 10190.823,
+   "price": 19.63,
+   "value": 200045.86,
+   "acc": "0001628280-26-050262",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "N/A",
+   "company": "Crestline Lending Solutions, LLC",
    "insider": "Smith Matthew Eric",
    "role": "Director",
    "date": "2026-07-24",
@@ -3902,6 +3890,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 325.0,
+   "price": 11.28,
+   "value": 3666.0,
+   "acc": "0001510281-26-000251",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "KRNY",
    "company": "Kearny Financial Corp.",
    "insider": "Fields Curtland E",
@@ -4811,7 +4811,7 @@
   {
    "ticker": "N/A",
    "insiders": 5,
-   "total_value": 3394643.94
+   "total_value": 3594689.8
   },
   {
    "ticker": "BYRN",
@@ -4825,8 +4825,6 @@
   }
  ],
  "seen": [
-  "0001742734-26-000018",
-  "0001742771-26-000012",
   "0001742926-26-000003",
   "0001742938-26-000007",
   "0001744712-26-000005",
@@ -4868,6 +4866,7 @@
   "0001766502-26-000059",
   "0001766502-26-000060",
   "0001766502-26-000061",
+  "0001769208-26-000004",
   "0001769421-26-000010",
   "0001769628-26-000319",
   "0001769628-26-000320",
@@ -7587,6 +7586,7 @@
   "0001999371-26-016253",
   "0001999371-26-016261",
   "0001999488-26-000011",
+  "0001999525-26-000002",
   "0002000276-26-000006",
   "0002004222-26-000006",
   "0002004397-26-000005",
