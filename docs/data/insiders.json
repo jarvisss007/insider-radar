@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-07-29 22:21 UTC",
+ "updated_utc": "2026-07-29 22:53 UTC",
  "purchases": [
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 20.9348,
-   "value": 418696.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 20.9348,
-   "value": 418696.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "ENR",
    "company": "ENERGIZER HOLDINGS, INC.",
@@ -3350,6 +3326,30 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000734",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000733",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4804,6 +4804,11 @@
  ],
  "clusters": [
   {
+   "ticker": "SCTX",
+   "insiders": 3,
+   "total_value": 1589169733.75
+  },
+  {
    "ticker": "NONE",
    "insiders": 3,
    "total_value": 131507487.45
@@ -4820,7 +4825,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-033598",
   "0001839882-26-033599",
   "0001839882-26-033601",
   "0001839882-26-033602",
@@ -5935,6 +5939,7 @@
   "0001898468-26-000004",
   "0001899338-26-000002",
   "0001903115-26-000003",
+  "0001903739-26-000013",
   "0001904610-26-000002",
   "0001904829-26-000004",
   "0001907056-26-000018",
