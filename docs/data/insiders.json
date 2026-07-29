@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-29 22:53 UTC",
+ "updated_utc": "2026-07-29 23:09 UTC",
  "purchases": [
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 20.9348,
-   "value": 418696.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 20.9348,
-   "value": 418696.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 21.0866,
-   "value": 421732.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "ENR",
    "company": "ENERGIZER HOLDINGS, INC.",
@@ -2030,6 +1994,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-27",
+   "shares": 4400.0,
+   "price": 1.11,
+   "value": 4884.0,
+   "acc": "0001079973-26-000995",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "KRNY",
    "company": "Kearny Financial Corp.",
    "insider": "Fields Curtland E",
@@ -3324,6 +3300,30 @@
    "value": 4525000.0,
    "acc": "0001213900-26-082229",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000734",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000733",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "SCTX",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "SCTX",
    "insiders": 3,
-   "total_value": 1589169733.75
+   "total_value": 1619169733.75
   },
   {
    "ticker": "NONE",
