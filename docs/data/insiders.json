@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-07-29 12:38 UTC",
+ "updated_utc": "2026-07-29 12:54 UTC",
  "purchases": [
-  {
-   "ticker": "BYRN",
-   "company": "Byrna Technologies Inc.",
-   "insider": "Reed Chris Lavern",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 8150.0,
-   "price": 3.63,
-   "value": 29584.5,
-   "acc": "0001437749-26-024664",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "NONE",
-   "company": "Sterling Real Estate Trust",
-   "insider": "Korsmo Michelle L.",
-   "role": "",
-   "date": "2026-07-24",
-   "shares": 1960.0,
-   "price": 25.5,
-   "value": 49980.0,
-   "acc": "0001709430-26-000008",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "BXSY",
-   "company": "BEXIL INVESTMENT TRUST",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-07-24",
-   "shares": 4700.0,
-   "price": 16.9346,
-   "value": 79592.62,
-   "acc": "0000052234-26-000010",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
@@ -1262,6 +1166,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 50000.0,
+   "price": 22.31,
+   "value": 1115500.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "N/A",
    "company": "Calamos Aksia Hedged Strategies Fund",
    "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
@@ -1632,6 +1548,18 @@
    "value": 34999995.0,
    "acc": "0000902664-26-003270",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 2333333.0,
+   "price": 15.0,
+   "value": 34999995.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "SCTX",
@@ -2858,6 +2786,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-27",
+   "shares": 1500.0,
+   "price": 13.62,
+   "value": 20430.0,
+   "acc": "0001493152-26-035085",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "ZNB",
    "company": "Zeta Network Group",
    "insider": "HRT FINANCIAL LP",
@@ -2914,6 +2854,30 @@
    "shares": 25000.0,
    "price": 0.92,
    "value": 23000.0,
+   "acc": "0001213900-26-082543",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Suesskind Dan S",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 25000.0,
+   "price": 0.92,
+   "value": 23000.0,
+   "acc": "0001213900-26-082543",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Suesskind Dan S",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 25000.0,
+   "price": 0.94,
+   "value": 23500.0,
    "acc": "0001213900-26-082543",
    "filed": "2026-07-29"
   },
@@ -3782,6 +3746,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Kainan Noga",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 33000.0,
+   "price": 0.9,
+   "value": 29700.0,
+   "acc": "0001213900-26-082533",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
    "insider": "RAN ASSAF",
@@ -4286,16 +4262,16 @@
    "filed": "2026-07-29"
   },
   {
-   "ticker": "MPLT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Cox Troy",
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
    "role": "Director",
    "date": "2026-07-28",
-   "shares": 15620.0,
-   "price": 9.52,
-   "value": 148702.4,
-   "acc": "0001696923-26-000007",
-   "filed": "2026-07-28"
+   "shares": 7905.0,
+   "price": 18.25,
+   "value": 144266.25,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "MPLT",
@@ -4512,6 +4488,30 @@
    "value": 148702.4,
    "acc": "0001696923-26-000007",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "MPLT",
@@ -4805,8 +4805,8 @@
  "clusters": [
   {
    "ticker": "NONE",
-   "insiders": 4,
-   "total_value": 131557467.45
+   "insiders": 3,
+   "total_value": 131507487.45
   },
   {
    "ticker": "N/A",
@@ -4816,12 +4816,7 @@
   {
    "ticker": "NNOX",
    "insiders": 3,
-   "total_value": 371760.0
-  },
-  {
-   "ticker": "BYRN",
-   "insiders": 2,
-   "total_value": 60024.22
+   "total_value": 447960.0
   }
  ],
  "seen": [
