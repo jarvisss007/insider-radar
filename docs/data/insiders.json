@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-29 00:11 UTC",
+ "updated_utc": "2026-07-29 00:27 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 2500.0,
-   "price": 0.35,
-   "value": 875.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 2500.0,
-   "price": 0.37,
-   "value": 925.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 2500.0,
-   "price": 0.37,
-   "value": 925.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -3091,6 +3055,30 @@
    "insider": "LIBERTY MUTUAL HOLDING Co INC.",
    "role": "10% owner",
    "date": "2026-07-24",
+   "shares": 225310.0,
+   "price": 24.29,
+   "value": 5472779.9,
+   "acc": "0001193125-26-321639",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NONE",
+   "company": "5C Lending Partners Corp.",
+   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
+   "role": "10% owner",
+   "date": "2026-07-24",
+   "shares": 337966.0,
+   "price": 24.29,
+   "value": 8209194.14,
+   "acc": "0001193125-26-321639",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NONE",
+   "company": "5C Lending Partners Corp.",
+   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
+   "role": "10% owner",
+   "date": "2026-07-24",
    "shares": 337966.0,
    "price": 24.29,
    "value": 8209194.14,
@@ -4718,6 +4706,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "ACI",
+   "company": "Albertsons Companies, Inc.",
+   "insider": "Moriarty Thomas M",
+   "role": "EVP, M&A and Corporate Affairs",
+   "date": "2026-07-27",
+   "shares": 170500.0,
+   "price": 11.509,
+   "value": 1962284.5,
+   "acc": "0001628280-26-050285",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "MTAK",
    "company": "Market Technology Acquisition Corp",
    "insider": "Market Technology Acquisition Sponsor LLC",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "NONE",
    "insiders": 6,
-   "total_value": 242877580.81
+   "total_value": 256559554.85
   },
   {
    "ticker": "N/A",
