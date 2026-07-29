@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-29 02:49 UTC",
+ "updated_utc": "2026-07-29 03:05 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 414.0,
-   "price": 21.11,
-   "value": 8739.54,
-   "acc": "0001510281-26-000247",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "SWZ",
-   "company": "Total Return Securities Fund",
-   "insider": "SELL MORITZ A",
-   "role": "Director",
-   "date": "2026-07-23",
-   "shares": 2000.0,
-   "price": 5.86,
-   "value": 11720.0,
-   "acc": "0001398344-26-012674",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "BYRN",
-   "company": "Byrna Technologies Inc.",
-   "insider": "Davis Conn Q.",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-23",
-   "shares": 3430.0,
-   "price": 3.51,
-   "value": 12039.3,
-   "acc": "0001437749-26-024355",
-   "filed": "2026-07-23"
-  },
-  {
-   "ticker": "BYRN",
-   "company": "Byrna Technologies Inc.",
-   "insider": "Hughes Herbert",
-   "role": "Director",
-   "date": "2026-07-23",
-   "shares": 3703.0,
-   "price": 3.4232,
-   "value": 12676.11,
-   "acc": "0001437749-26-024354",
-   "filed": "2026-07-23"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -2822,6 +2774,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 50000.0,
+   "price": 22.31,
+   "value": 1115500.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "N/A",
    "company": "Calamos Aksia Hedged Strategies Fund",
    "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
@@ -2975,6 +2939,18 @@
    "price": 24.29,
    "value": 30950172.26,
    "acc": "0001193125-26-321223",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 2333333.0,
+   "price": 15.0,
+   "value": 34999995.0,
+   "acc": "0000902664-26-003270",
    "filed": "2026-07-28"
   },
   {
@@ -4718,6 +4694,30 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 7905.0,
+   "price": 18.25,
+   "value": 144266.25,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "MPLT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Cox Troy",
@@ -4811,7 +4811,7 @@
   {
    "ticker": "SCTX",
    "insiders": 3,
-   "total_value": 145124035.0
+   "total_value": 181383796.25
   },
   {
    "ticker": "N/A",
@@ -4820,8 +4820,8 @@
   },
   {
    "ticker": "BYRN",
-   "insiders": 3,
-   "total_value": 127285.88
+   "insiders": 2,
+   "total_value": 102570.47
   }
  ],
  "seen": [
