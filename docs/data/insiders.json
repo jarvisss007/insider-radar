@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-07-29 10:31 UTC",
+ "updated_utc": "2026-07-29 10:47 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-24",
-   "shares": 500.0,
-   "price": 0.51,
-   "value": 255.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-24",
-   "shares": 500.0,
-   "price": 0.51,
-   "value": 255.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-24",
-   "shares": 500.0,
-   "price": 0.51,
-   "value": 255.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-24",
-   "shares": 500.0,
-   "price": 0.51,
-   "value": 255.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-24",
-   "shares": 500.0,
-   "price": 0.51,
-   "value": 255.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -1790,6 +1730,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 50000.0,
+   "price": 22.31,
+   "value": 1115500.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "N/A",
    "company": "Calamos Aksia Hedged Strategies Fund",
    "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
@@ -2160,6 +2112,18 @@
    "value": 34999995.0,
    "acc": "0000902664-26-003270",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 2333333.0,
+   "price": 15.0,
+   "value": 34999995.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "SCTX",
@@ -3168,6 +3132,18 @@
    "value": 17200.0,
    "acc": "0001493152-26-034952",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-27",
+   "shares": 1500.0,
+   "price": 13.62,
+   "value": 20430.0,
+   "acc": "0001493152-26-035085",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "GLSI",
@@ -4382,16 +4358,16 @@
    "filed": "2026-07-29"
   },
   {
-   "ticker": "MPLT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Cox Troy",
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
    "role": "Director",
    "date": "2026-07-28",
-   "shares": 15620.0,
-   "price": 9.52,
-   "value": 148702.4,
-   "acc": "0001696923-26-000007",
-   "filed": "2026-07-28"
+   "shares": 7905.0,
+   "price": 18.25,
+   "value": 144266.25,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "MPLT",
@@ -4608,6 +4584,30 @@
    "value": 148702.4,
    "acc": "0001696923-26-000007",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "MPLT",
@@ -4820,8 +4820,6 @@
   }
  ],
  "seen": [
-  "0001746448-26-000007",
-  "0001746738-26-000003",
   "0001747713-26-000001",
   "0001747721-26-000006",
   "0001748614-26-000007",
@@ -4971,6 +4969,7 @@
   "0001817425-26-000009",
   "0001817646-26-000012",
   "0001817646-26-000013",
+  "0001817646-26-000014",
   "0001818383-26-000185",
   "0001818383-26-000186",
   "0001818383-26-000187",
@@ -7259,6 +7258,7 @@
   "0001918704-26-021487",
   "0001918704-26-021489",
   "0001918704-26-021490",
+  "0001918704-26-021491",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
