@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-07-29 11:50 UTC",
+ "updated_utc": "2026-07-29 12:06 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 1024.0,
-   "price": 2.52,
-   "value": 2580.48,
-   "acc": "0001536588-26-000022",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ZNB",
-   "company": "Zeta Network Group",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 21929.0,
-   "price": 0.265,
-   "value": 5811.19,
-   "acc": "0001475597-26-000171",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "ANIX",
-   "company": "Anixa Biosciences Inc",
-   "insider": "KUMAR AMIT",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-24",
-   "shares": 3000.0,
-   "price": 3.73,
-   "value": 11190.0,
-   "acc": "0001493152-26-034723",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ANIX",
-   "company": "Anixa Biosciences Inc",
-   "insider": "KUMAR AMIT",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-24",
-   "shares": 3000.0,
-   "price": 3.73,
-   "value": 11190.0,
-   "acc": "0001493152-26-034723",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ANIX",
-   "company": "Anixa Biosciences Inc",
-   "insider": "KUMAR AMIT",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-24",
-   "shares": 3000.0,
-   "price": 3.73,
-   "value": 11190.0,
-   "acc": "0001493152-26-034723",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ANIX",
-   "company": "Anixa Biosciences Inc",
-   "insider": "KUMAR AMIT",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-24",
-   "shares": 3000.0,
-   "price": 3.73,
-   "value": 11190.0,
-   "acc": "0001493152-26-034723",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "GLSI",
-   "company": "Greenwich LifeSciences, Inc.",
-   "insider": "Patel Snehal",
-   "role": "CEO and CFO",
-   "date": "2026-07-24",
-   "shares": 1100.0,
-   "price": 12.88,
-   "value": 14168.0,
-   "acc": "0001493152-26-034675",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "GLSI",
-   "company": "Greenwich LifeSciences, Inc.",
-   "insider": "Patel Snehal",
-   "role": "CEO and CFO",
-   "date": "2026-07-24",
-   "shares": 1100.0,
-   "price": 12.88,
-   "value": 14168.0,
-   "acc": "0001493152-26-034675",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "GLSI",
    "company": "Greenwich LifeSciences, Inc.",
@@ -1514,6 +1418,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 50000.0,
+   "price": 22.31,
+   "value": 1115500.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "N/A",
    "company": "Calamos Aksia Hedged Strategies Fund",
    "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
@@ -1884,6 +1800,18 @@
    "value": 34999995.0,
    "acc": "0000902664-26-003270",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 2333333.0,
+   "price": 15.0,
+   "value": 34999995.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "SCTX",
@@ -3038,6 +2966,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-27",
+   "shares": 1500.0,
+   "price": 13.62,
+   "value": 20430.0,
+   "acc": "0001493152-26-035085",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "ZNB",
    "company": "Zeta Network Group",
    "insider": "HRT FINANCIAL LP",
@@ -3058,6 +2998,30 @@
    "shares": 25000.0,
    "price": 0.92,
    "value": 23000.0,
+   "acc": "0001213900-26-082543",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Suesskind Dan S",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 25000.0,
+   "price": 0.92,
+   "value": 23000.0,
+   "acc": "0001213900-26-082543",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Suesskind Dan S",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 25000.0,
+   "price": 0.94,
+   "value": 23500.0,
    "acc": "0001213900-26-082543",
    "filed": "2026-07-29"
   },
@@ -3854,6 +3818,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Kainan Noga",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 33000.0,
+   "price": 0.9,
+   "value": 29700.0,
+   "acc": "0001213900-26-082533",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
    "insider": "RAN ASSAF",
@@ -4322,16 +4298,16 @@
    "filed": "2026-07-29"
   },
   {
-   "ticker": "MPLT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Cox Troy",
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
    "role": "Director",
    "date": "2026-07-28",
-   "shares": 15620.0,
-   "price": 9.52,
-   "value": 148702.4,
-   "acc": "0001696923-26-000007",
-   "filed": "2026-07-28"
+   "shares": 7905.0,
+   "price": 18.25,
+   "value": 144266.25,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "MPLT",
@@ -4548,6 +4524,30 @@
    "value": 148702.4,
    "acc": "0001696923-26-000007",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "MPLT",
@@ -4816,7 +4816,7 @@
   {
    "ticker": "NNOX",
    "insiders": 3,
-   "total_value": 143160.0
+   "total_value": 219360.0
   },
   {
    "ticker": "BYRN",
@@ -4825,7 +4825,6 @@
   }
  ],
  "seen": [
-  "0001747713-26-000001",
   "0001747721-26-000006",
   "0001748614-26-000007",
   "0001749623-26-000003",
@@ -7264,6 +7263,7 @@
   "0001918704-26-021489",
   "0001918704-26-021490",
   "0001918704-26-021491",
+  "0001918704-26-021492",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
