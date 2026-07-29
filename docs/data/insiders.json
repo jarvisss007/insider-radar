@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-29 02:03 UTC",
+ "updated_utc": "2026-07-29 02:33 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 2500.0,
-   "price": 0.42,
-   "value": 1050.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 2500.0,
-   "price": 0.42,
-   "value": 1050.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 2500.0,
-   "price": 0.42,
-   "value": 1050.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-23",
-   "shares": 756.0,
-   "price": 3.06,
-   "value": 2313.36,
-   "acc": "0001437749-26-024386",
-   "filed": "2026-07-24"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -2894,6 +2846,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 50000.0,
+   "price": 22.31,
+   "value": 1115500.0,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "N/A",
    "company": "Calamos Aksia Hedged Strategies Fund",
    "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
@@ -3047,6 +3011,18 @@
    "price": 24.29,
    "value": 30950172.26,
    "acc": "0001193125-26-321223",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-24",
+   "shares": 2333333.0,
+   "price": 15.0,
+   "value": 34999995.0,
+   "acc": "0000902664-26-003270",
    "filed": "2026-07-28"
   },
   {
@@ -4742,6 +4718,30 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "Aghazadeh Behzad",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 7905.0,
+   "price": 18.25,
+   "value": 144266.25,
+   "acc": "0000902664-26-003270",
+   "filed": "2026-07-28"
+  },
+  {
+   "ticker": "MPLT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Cox Troy",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 15620.0,
+   "price": 9.52,
+   "value": 148702.4,
+   "acc": "0001696923-26-000007",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "MPLT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Cox Troy",
@@ -4811,7 +4811,7 @@
   {
    "ticker": "SCTX",
    "insiders": 3,
-   "total_value": 72604512.5
+   "total_value": 108864273.75
   },
   {
    "ticker": "N/A",
