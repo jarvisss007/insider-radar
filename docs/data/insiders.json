@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-29 13:25 UTC",
+ "updated_utc": "2026-07-29 13:41 UTC",
  "purchases": [
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-24",
-   "shares": 1084.0,
-   "price": 79.019,
-   "value": 85656.6,
-   "acc": "0001193125-26-318541",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
@@ -2690,6 +2642,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-27",
+   "shares": 1500.0,
+   "price": 13.62,
+   "value": 20430.0,
+   "acc": "0001493152-26-035085",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "ZNB",
    "company": "Zeta Network Group",
    "insider": "HRT FINANCIAL LP",
@@ -2782,6 +2746,30 @@
    "shares": 25000.0,
    "price": 0.92,
    "value": 23000.0,
+   "acc": "0001213900-26-082543",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Suesskind Dan S",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 25000.0,
+   "price": 0.92,
+   "value": 23000.0,
+   "acc": "0001213900-26-082543",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Suesskind Dan S",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 25000.0,
+   "price": 0.94,
+   "value": 23500.0,
    "acc": "0001213900-26-082543",
    "filed": "2026-07-29"
   },
@@ -3636,6 +3624,18 @@
    "value": 5791.09,
    "acc": "0001437749-26-024689",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Kainan Noga",
+   "role": "Director",
+   "date": "2026-07-28",
+   "shares": 33000.0,
+   "price": 0.9,
+   "value": 29700.0,
+   "acc": "0001213900-26-082533",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "NNOX",
@@ -4816,15 +4816,10 @@
   {
    "ticker": "NNOX",
    "insiders": 3,
-   "total_value": 600360.0
+   "total_value": 676560.0
   }
  ],
  "seen": [
-  "0001753926-26-001207",
-  "0001753926-26-001209",
-  "0001753926-26-001217",
-  "0001753926-26-001224",
-  "0001753926-26-001238",
   "0001753926-26-001243",
   "0001754045-26-000008",
   "0001754181-26-000011",
@@ -7258,6 +7253,11 @@
   "0001918704-26-021494",
   "0001918704-26-021495",
   "0001918704-26-021496",
+  "0001918704-26-021497",
+  "0001918704-26-021498",
+  "0001918704-26-021499",
+  "0001918704-26-021500",
+  "0001918704-26-021501",
   "0001919246-26-000100",
   "0001919246-26-000101",
   "0001919246-26-000102",
