@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-29 23:09 UTC",
+ "updated_utc": "2026-07-29 23:24 UTC",
  "purchases": [
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 21.0866,
-   "value": 421732.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 21.0866,
-   "value": 421732.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "ENR",
-   "company": "ENERGIZER HOLDINGS, INC.",
-   "insider": "Aqua Capital, Ltd.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 20000.0,
-   "price": 21.0866,
-   "value": 421732.0,
-   "acc": "0001140361-26-029768",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "N/A",
-   "company": "Crestline Lending Solutions, LLC",
-   "insider": "Semple Christopher James",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-24",
-   "shares": 25477.058,
-   "price": 19.63,
-   "value": 500114.65,
-   "acc": "0001628280-26-050143",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "PNFP",
    "company": "Pinnacle Financial Partners, Inc.",
@@ -2006,6 +1958,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-27",
+   "shares": 4400.0,
+   "price": 1.11,
+   "value": 4884.0,
+   "acc": "0001079973-26-000995",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "KRNY",
    "company": "Kearny Financial Corp.",
    "insider": "Fields Curtland E",
@@ -3300,6 +3264,42 @@
    "value": 4525000.0,
    "acc": "0001213900-26-082229",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "AH Bio Fund II, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 333333.0,
+   "price": 15.0,
+   "value": 4999995.0,
+   "acc": "0001231919-26-000813",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000734",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000733",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "SCTX",
@@ -4805,18 +4805,13 @@
  "clusters": [
   {
    "ticker": "SCTX",
-   "insiders": 3,
-   "total_value": 1619169733.75
+   "insiders": 4,
+   "total_value": 1654169728.75
   },
   {
    "ticker": "NONE",
    "insiders": 3,
    "total_value": 131507487.45
-  },
-  {
-   "ticker": "N/A",
-   "insiders": 2,
-   "total_value": 2394414.65
   },
   {
    "ticker": "NNOX",
@@ -4825,8 +4820,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-033599",
-  "0001839882-26-033601",
   "0001839882-26-033602",
   "0001839882-26-033605",
   "0001839882-26-033608",
@@ -7765,6 +7758,8 @@
   "0002109337-26-000010",
   "0002111103-26-000029",
   "0002111348-26-000011",
+  "0002111465-26-000004",
+  "0002111466-26-000004",
   "0002111867-26-000011",
   "0002114309-26-000005",
   "0002115951-26-000004",
