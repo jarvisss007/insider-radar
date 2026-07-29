@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-29 23:24 UTC",
+ "updated_utc": "2026-07-29 23:40 UTC",
  "purchases": [
-  {
-   "ticker": "PNFP",
-   "company": "Pinnacle Financial Partners, Inc.",
-   "insider": "MCCABE ROBERT A JR",
-   "role": "Chief Banking Officer",
-   "date": "2026-07-24",
-   "shares": 10013.0,
-   "price": 99.9,
-   "value": 1000298.7,
-   "acc": "0001079428-26-000004",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "PNFP",
-   "company": "Pinnacle Financial Partners, Inc.",
-   "insider": "MCCABE ROBERT A JR",
-   "role": "Chief Banking Officer",
-   "date": "2026-07-24",
-   "shares": 10013.0,
-   "price": 99.9,
-   "value": 1000298.7,
-   "acc": "0001079428-26-000004",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "PNFP",
-   "company": "Pinnacle Financial Partners, Inc.",
-   "insider": "MCCABE ROBERT A JR",
-   "role": "Chief Banking Officer",
-   "date": "2026-07-24",
-   "shares": 10013.0,
-   "price": 99.9,
-   "value": 1000298.7,
-   "acc": "0001079428-26-000004",
-   "filed": "2026-07-24"
-  },
-  {
-   "ticker": "PNFP",
-   "company": "Pinnacle Financial Partners, Inc.",
-   "insider": "MCCABE ROBERT A JR",
-   "role": "Chief Banking Officer",
-   "date": "2026-07-24",
-   "shares": 10013.0,
-   "price": 99.9,
-   "value": 1000298.7,
-   "acc": "0001079428-26-000004",
-   "filed": "2026-07-24"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -1970,6 +1922,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-27",
+   "shares": 4400.0,
+   "price": 1.11,
+   "value": 4884.0,
+   "acc": "0001079973-26-000995",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "KRNY",
    "company": "Kearny Financial Corp.",
    "insider": "Fields Curtland E",
@@ -3275,6 +3239,42 @@
    "price": 15.0,
    "value": 4999995.0,
    "acc": "0001231919-26-000813",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "AH Bio Fund II, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 333333.0,
+   "price": 15.0,
+   "value": 4999995.0,
+   "acc": "0001231919-26-000813",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000734",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000733",
    "filed": "2026-07-29"
   },
   {
@@ -4806,7 +4806,7 @@
   {
    "ticker": "SCTX",
    "insiders": 4,
-   "total_value": 1654169728.75
+   "total_value": 1689169723.75
   },
   {
    "ticker": "NONE",
