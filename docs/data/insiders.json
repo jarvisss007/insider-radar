@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-29 00:27 UTC",
+ "updated_utc": "2026-07-29 00:43 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-23",
-   "shares": 2500.0,
-   "price": 0.37,
-   "value": 925.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -4718,6 +4706,18 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "ACI",
+   "company": "Albertsons Companies, Inc.",
+   "insider": "Moriarty Thomas M",
+   "role": "EVP, M&A and Corporate Affairs",
+   "date": "2026-07-27",
+   "shares": 170500.0,
+   "price": 11.509,
+   "value": 1962284.5,
+   "acc": "0001628280-26-050285",
+   "filed": "2026-07-28"
+  },
+  {
    "ticker": "MTAK",
    "company": "Market Technology Acquisition Corp",
    "insider": "Market Technology Acquisition Sponsor LLC",
@@ -4825,7 +4825,6 @@
   }
  ],
  "seen": [
-  "0001746129-26-000032",
   "0001746129-26-000034",
   "0001746201-26-000006",
   "0001746448-26-000007",
@@ -4908,6 +4907,7 @@
   "0001778564-26-000121",
   "0001778564-26-000123",
   "0001778564-26-000125",
+  "0001778564-26-000127",
   "0001778813-26-000005",
   "0001779787-26-000003",
   "0001780660-26-000019",
