@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-07-30 10:14 UTC",
+ "updated_utc": "2026-07-30 10:29 UTC",
  "purchases": [
-  {
-   "ticker": "NONE",
-   "company": "5C Lending Partners Corp.",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 225310.0,
-   "price": 24.29,
-   "value": 5472779.9,
-   "acc": "0001193125-26-321639",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "NONE",
-   "company": "5C Lending Partners Corp.",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 337966.0,
-   "price": 24.29,
-   "value": 8209194.14,
-   "acc": "0001193125-26-321639",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "NONE",
-   "company": "5C Lending Partners Corp.",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 337966.0,
-   "price": 24.29,
-   "value": 8209194.14,
-   "acc": "0001193125-26-321639",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "NONE",
-   "company": "5C Lending Partners Corp.",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 337966.0,
-   "price": 24.29,
-   "value": 8209194.14,
-   "acc": "0001193125-26-321639",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "NONE",
-   "company": "5C Lending Partners Corp.",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 337966.0,
-   "price": 24.29,
-   "value": 8209194.14,
-   "acc": "0001193125-26-321639",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "NONE",
-   "company": "5C Lending Partners Corp.",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-07-24",
-   "shares": 337966.0,
-   "price": 24.29,
-   "value": 8209194.14,
-   "acc": "0001193125-26-321639",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "NONE",
    "company": "5C Lending Partners Corp.",
@@ -2942,16 +2870,16 @@
    "filed": "2026-07-29"
   },
   {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
    "date": "2026-07-28",
-   "shares": 756.0,
-   "price": 3.05,
-   "value": 2305.8,
-   "acc": "0001437749-26-024821",
-   "filed": "2026-07-29"
+   "shares": 5.0,
+   "price": 390.0,
+   "value": 1950.0,
+   "acc": "0001046179-26-000461",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "RCG",
@@ -2988,6 +2916,30 @@
    "value": 2305.8,
    "acc": "0001437749-26-024821",
    "filed": "2026-07-29"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-07-28",
+   "shares": 756.0,
+   "price": 3.05,
+   "value": 2305.8,
+   "acc": "0001437749-26-024821",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-28",
+   "shares": 10.0,
+   "price": 390.0,
+   "value": 3900.0,
+   "acc": "0001046179-26-000461",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "BYRN",
@@ -3012,6 +2964,18 @@
    "value": 5791.09,
    "acc": "0001437749-26-024689",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-28",
+   "shares": 1500.0,
+   "price": 13.59,
+   "value": 20385.0,
+   "acc": "0001493152-26-035310",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "GLSI",
@@ -3242,6 +3206,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-28",
+   "shares": 1000.0,
+   "price": 67.97,
+   "value": 67970.0,
+   "acc": "0001046179-26-000461",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
    "insider": "Aghazadeh Behzad",
@@ -4560,6 +4536,18 @@
    "value": 3900.0,
    "acc": "0001437749-26-024925",
    "filed": "2026-07-29"
+  },
+  {
+   "ticker": "BCDA",
+   "company": "BioCardia, Inc.",
+   "insider": "Altman Peter",
+   "role": "President and CEO",
+   "date": "2026-07-29",
+   "shares": 5000.0,
+   "price": 0.78,
+   "value": 3900.0,
+   "acc": "0001437749-26-024925",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "BCDA",
@@ -4766,6 +4754,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-29",
+   "shares": 700.0,
+   "price": 13.1,
+   "value": 9170.0,
+   "acc": "0001493152-26-035310",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4810,8 +4810,8 @@
   },
   {
    "ticker": "NONE",
-   "insiders": 3,
-   "total_value": 109616367.85
+   "insiders": 2,
+   "total_value": 63097617.25
   },
   {
    "ticker": "NNOX",
