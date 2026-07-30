@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-07-30 12:35 UTC",
+ "updated_utc": "2026-07-30 12:50 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-27",
-   "shares": 100.0,
-   "price": 0.64,
-   "value": 64.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-27",
-   "shares": 100.0,
-   "price": 0.64,
-   "value": 64.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-27",
-   "shares": 100.0,
-   "price": 0.64,
-   "value": 64.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-27",
-   "shares": 100.0,
-   "price": 0.64,
-   "value": 64.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-27",
-   "shares": 100.0,
-   "price": 0.64,
-   "value": 64.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-27",
-   "shares": 490.0,
-   "price": 0.5,
-   "value": 245.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-07-27",
-   "shares": 490.0,
-   "price": 0.5,
-   "value": 245.0,
-   "acc": "0001213900-26-081871",
-   "filed": "2026-07-27"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -2378,16 +2294,16 @@
    "filed": "2026-07-30"
   },
   {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
    "date": "2026-07-28",
-   "shares": 756.0,
-   "price": 3.05,
-   "value": 2305.8,
-   "acc": "0001437749-26-024821",
-   "filed": "2026-07-29"
+   "shares": 5.0,
+   "price": 390.0,
+   "value": 1950.0,
+   "acc": "0001046179-26-000461",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "RCG",
@@ -2424,6 +2340,30 @@
    "value": 2305.8,
    "acc": "0001437749-26-024821",
    "filed": "2026-07-29"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-07-28",
+   "shares": 756.0,
+   "price": 3.05,
+   "value": 2305.8,
+   "acc": "0001437749-26-024821",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-28",
+   "shares": 10.0,
+   "price": 390.0,
+   "value": 3900.0,
+   "acc": "0001046179-26-000461",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "TSM",
@@ -2556,6 +2496,18 @@
    "value": 5791.09,
    "acc": "0001437749-26-024689",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-28",
+   "shares": 1500.0,
+   "price": 13.59,
+   "value": 20385.0,
+   "acc": "0001493152-26-035310",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "GLSI",
@@ -2892,6 +2844,18 @@
    "value": 56228.48,
    "acc": "0001510281-26-000252",
    "filed": "2026-07-29"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-07-28",
+   "shares": 1000.0,
+   "price": 67.97,
+   "value": 67970.0,
+   "acc": "0001046179-26-000461",
+   "filed": "2026-07-30"
   },
   {
    "ticker": "TSM",
@@ -4051,6 +4015,30 @@
    "insider": "MORRIS SUSAN",
    "role": "Chief Executive Officer",
    "date": "2026-07-28",
+   "shares": 19132.0,
+   "price": 11.377,
+   "value": 217664.76,
+   "acc": "0001628280-26-050831",
+   "filed": "2026-07-30"
+  },
+  {
+   "ticker": "ACI",
+   "company": "Albertsons Companies, Inc.",
+   "insider": "MORRIS SUSAN",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-28",
+   "shares": 20277.0,
+   "price": 11.455,
+   "value": 232273.04,
+   "acc": "0001628280-26-050831",
+   "filed": "2026-07-30"
+  },
+  {
+   "ticker": "ACI",
+   "company": "Albertsons Companies, Inc.",
+   "insider": "MORRIS SUSAN",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-28",
    "shares": 20277.0,
    "price": 11.455,
    "value": 232273.04,
@@ -4766,6 +4754,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "GLSI",
+   "company": "Greenwich LifeSciences, Inc.",
+   "insider": "Patel Snehal",
+   "role": "CEO and CFO",
+   "date": "2026-07-29",
+   "shares": 700.0,
+   "price": 13.1,
+   "value": 9170.0,
+   "acc": "0001493152-26-035310",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4811,7 +4811,7 @@
   {
    "ticker": "ACI",
    "insiders": 2,
-   "total_value": 10261360.3
+   "total_value": 10711298.1
   },
   {
    "ticker": "NNOX",
