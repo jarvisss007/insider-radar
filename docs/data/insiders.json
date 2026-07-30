@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-29 23:56 UTC",
+ "updated_utc": "2026-07-30 00:12 UTC",
  "purchases": [
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -1898,6 +1850,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-27",
+   "shares": 4400.0,
+   "price": 1.11,
+   "value": 4884.0,
+   "acc": "0001079973-26-000995",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "KRNY",
    "company": "Kearny Financial Corp.",
    "insider": "Fields Curtland E",
@@ -3227,6 +3191,42 @@
    "price": 15.0,
    "value": 4999995.0,
    "acc": "0001231919-26-000813",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "AH Bio Fund II, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 333333.0,
+   "price": 15.0,
+   "value": 4999995.0,
+   "acc": "0001231919-26-000813",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000734",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-07-27",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000733",
    "filed": "2026-07-29"
   },
   {
@@ -4806,7 +4806,7 @@
   {
    "ticker": "SCTX",
    "insiders": 4,
-   "total_value": 1719707718.75
+   "total_value": 1750245713.75
   },
   {
    "ticker": "NONE",
@@ -4820,9 +4820,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-033602",
-  "0001839882-26-033605",
-  "0001839882-26-033608",
   "0001839882-26-033614",
   "0001839882-26-033619",
   "0001839882-26-033621",
@@ -5877,7 +5874,9 @@
   "0001865200-26-000054",
   "0001865200-26-000059",
   "0001865200-26-000061",
+  "0001865418-26-000007",
   "0001865525-26-000022",
+  "0001866018-26-000017",
   "0001866044-26-000005",
   "0001866161-26-000004",
   "0001866503-26-000006",
@@ -7568,6 +7567,7 @@
   "0002008400-26-000003",
   "0002008790-26-000006",
   "0002008989-26-000008",
+  "0002009989-26-000019",
   "0002010019-26-000016",
   "0002010300-26-000023",
   "0002011525-26-000002",
