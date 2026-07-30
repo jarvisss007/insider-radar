@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-07-30 00:12 UTC",
+ "updated_utc": "2026-07-30 00:27 UTC",
  "purchases": [
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -1862,6 +1838,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-27",
+   "shares": 4400.0,
+   "price": 1.11,
+   "value": 4884.0,
+   "acc": "0001079973-26-000995",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "KRNY",
    "company": "Kearny Financial Corp.",
    "insider": "Fields Curtland E",
@@ -3156,6 +3144,18 @@
    "value": 4525000.0,
    "acc": "0001213900-26-082229",
    "filed": "2026-07-28"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
+   "insider": "AH Bio Fund II, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 333333.0,
+   "price": 15.0,
+   "value": 4999995.0,
+   "acc": "0001231919-26-000813",
+   "filed": "2026-07-29"
   },
   {
    "ticker": "SCTX",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "SCTX",
    "insiders": 4,
-   "total_value": 1750245713.75
+   "total_value": 1753014708.75
   },
   {
    "ticker": "NONE",
