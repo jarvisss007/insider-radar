@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-30 06:32 UTC",
+ "updated_utc": "2026-07-30 06:48 UTC",
  "purchases": [
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-29"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -4730,6 +4718,18 @@
    "filed": "2026-07-29"
   },
   {
+   "ticker": "BCDA",
+   "company": "BioCardia, Inc.",
+   "insider": "Altman Peter",
+   "role": "President and CEO",
+   "date": "2026-07-29",
+   "shares": 5000.0,
+   "price": 0.78,
+   "value": 3900.0,
+   "acc": "0001437749-26-024925",
+   "filed": "2026-07-29"
+  },
+  {
    "ticker": "GVH",
    "company": "Globavend Holdings Ltd",
    "insider": "Fung Kai Man",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "SCTX",
    "insiders": 4,
-   "total_value": 1733473703.75
+   "total_value": 1732358203.75
   },
   {
    "ticker": "NONE",
