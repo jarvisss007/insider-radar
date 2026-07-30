@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-30 22:39 UTC",
+ "updated_utc": "2026-07-30 22:55 UTC",
  "purchases": [
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-27",
-   "shares": 325.0,
-   "price": 11.28,
-   "value": 3666.0,
-   "acc": "0001510281-26-000251",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-27",
-   "shares": 325.0,
-   "price": 11.28,
-   "value": 3666.0,
-   "acc": "0001510281-26-000251",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-27",
-   "shares": 325.0,
-   "price": 11.28,
-   "value": 3666.0,
-   "acc": "0001510281-26-000251",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-27",
-   "shares": 325.0,
-   "price": 11.28,
-   "value": 3666.0,
-   "acc": "0001510281-26-000251",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
@@ -3794,6 +3746,30 @@
    "filed": "2026-07-28"
   },
   {
+   "ticker": "MLPT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Catalyst4, Inc.",
+   "role": "10% owner",
+   "date": "2026-07-28",
+   "shares": 65137.0,
+   "price": 11.6891,
+   "value": 761392.91,
+   "acc": "0001900201-26-000003",
+   "filed": "2026-07-30"
+  },
+  {
+   "ticker": "MLPT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Catalyst4, Inc.",
+   "role": "10% owner",
+   "date": "2026-07-28",
+   "shares": 141088.0,
+   "price": 10.7416,
+   "value": 1515510.86,
+   "acc": "0001900201-26-000003",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "NONE",
    "company": "Overland Advantage",
    "insider": "Abu Dhabi Investment Authority",
@@ -4634,6 +4610,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "MLPT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Catalyst4, Inc.",
+   "role": "10% owner",
+   "date": "2026-07-29",
+   "shares": 3000.0,
+   "price": 12.63,
+   "value": 37890.0,
+   "acc": "0001900201-26-000003",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "PKBK",
    "company": "PARKE BANCORP, INC.",
    "insider": "PANTILIONE VITO S",
@@ -4800,6 +4788,18 @@
    "value": 18309.33,
    "acc": "0001193125-26-325452",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "MLPT",
+   "company": "MapLight Therapeutics, Inc.",
+   "insider": "Catalyst4, Inc.",
+   "role": "10% owner",
+   "date": "2026-07-30",
+   "shares": 1000000.0,
+   "price": 13.0,
+   "value": 13000000.0,
+   "acc": "0001900201-26-000003",
+   "filed": "2026-07-30"
   }
  ],
  "clusters": [
@@ -4830,7 +4830,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-035622",
   "0001839882-26-035624",
   "0001839882-26-035629",
   "0001839882-26-035632",
@@ -5641,6 +5640,7 @@
   "0001897636-26-000005",
   "0001898468-26-000004",
   "0001899338-26-000002",
+  "0001900201-26-000003",
   "0001903115-26-000003",
   "0001903739-26-000013",
   "0001904610-26-000002",
