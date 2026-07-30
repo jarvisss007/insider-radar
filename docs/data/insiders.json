@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-30 00:27 UTC",
+ "updated_utc": "2026-07-30 00:43 UTC",
  "purchases": [
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-24",
-   "shares": 50000.0,
-   "price": 22.31,
-   "value": 1115500.0,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -3208,6 +3196,18 @@
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
+   "insider": "AH Bio Fund II, L.P.",
+   "role": "10% owner",
+   "date": "2026-07-27",
+   "shares": 333333.0,
+   "price": 15.0,
+   "value": 4999995.0,
+   "acc": "0001231919-26-000813",
+   "filed": "2026-07-29"
+  },
+  {
+   "ticker": "SCTX",
+   "company": "Scribe Therapeutics, Inc.",
    "insider": "GORDON CARL L",
    "role": "Director",
    "date": "2026-07-27",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "SCTX",
    "insiders": 4,
-   "total_value": 1753014708.75
+   "total_value": 1756899203.75
   },
   {
    "ticker": "NONE",
