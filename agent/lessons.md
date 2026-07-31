@@ -19,3 +19,10 @@ Empty sections mean no scored history yet — earn the opinions.
 
 ## Process lessons
 (none yet)
+
+## Process lessons (appended 2026-07-31)
+- [insider] Collector bug, not a market observation: `clusters` contains an
+  entry with ticker `[NONE]` (2 insiders, $12.5M) — Form 4s whose issuer symbol
+  failed to parse are being aggregated into one fake "ticker". Not logged to
+  the ledger (unscoreable), but it means real clusters may be hiding inside
+  that bucket, i.e. the feed under-reports. Needs a fix in collector_edgar.py.
