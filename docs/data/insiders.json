@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-31 12:11 UTC",
+ "updated_utc": "2026-07-31 12:26 UTC",
  "purchases": [
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-28",
-   "shares": 1.0,
-   "price": 393.09,
-   "value": 393.09,
-   "acc": "0001437749-26-024804",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-28",
-   "shares": 1.0,
-   "price": 393.09,
-   "value": 393.09,
-   "acc": "0001437749-26-024804",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 5.0,
-   "price": 390.0,
-   "value": 1950.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 5.0,
-   "price": 390.0,
-   "value": 1950.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -1164,6 +1116,18 @@
    "value": 84245.8,
    "acc": "0001193125-26-326536",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-28",
+   "shares": 1072.0,
+   "price": 78.5875,
+   "value": 84245.8,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "NMM",
@@ -4046,6 +4010,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-29",
+   "shares": 1051.0,
+   "price": 78.5495,
+   "value": 82555.52,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4140,6 +4116,18 @@
    "value": 140000.09,
    "acc": "0001477932-26-004606",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-30",
+   "shares": 500.0,
+   "price": 1.8628,
+   "value": 931.4,
+   "acc": "0001193125-26-326663",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "YQ",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-30",
+   "shares": 1068.0,
+   "price": 78.3705,
+   "value": 83699.69,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "MLPT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Catalyst4, Inc.",
@@ -4810,7 +4810,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-035870",
   "0001839882-26-035871",
   "0001839882-26-035875",
   "0001839882-26-035876",
@@ -5461,6 +5460,7 @@
   "0001839882-26-037375",
   "0001839882-26-037377",
   "0001839882-26-037382",
+  "0001839882-26-037399",
   "0001840706-26-000247",
   "0001840706-26-000248",
   "0001840706-26-000249",
