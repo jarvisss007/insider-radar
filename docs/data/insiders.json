@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-31 11:08 UTC",
+ "updated_utc": "2026-07-31 11:24 UTC",
  "purchases": [
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "AH Bio Fund II, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-27",
-   "shares": 333333.0,
-   "price": 15.0,
-   "value": 4999995.0,
-   "acc": "0001231919-26-000813",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "AH Bio Fund II, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-27",
-   "shares": 333333.0,
-   "price": 15.0,
-   "value": 4999995.0,
-   "acc": "0001231919-26-000813",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-27",
-   "shares": 451320.0,
-   "price": 16.97,
-   "value": 7658900.4,
-   "acc": "0002029760-26-000004",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 1000000.0,
-   "price": 15.0,
-   "value": 15000000.0,
-   "acc": "0000947871-26-000734",
-   "filed": "2026-07-29"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -1356,6 +1308,18 @@
    "value": 84245.8,
    "acc": "0001193125-26-326536",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-28",
+   "shares": 1072.0,
+   "price": 78.5875,
+   "value": 84245.8,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "NMM",
@@ -4142,6 +4106,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-29",
+   "shares": 1051.0,
+   "price": 78.5495,
+   "value": 82555.52,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4236,6 +4212,18 @@
    "value": 140000.09,
    "acc": "0001477932-26-004606",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-30",
+   "shares": 500.0,
+   "price": 1.8628,
+   "value": 931.4,
+   "acc": "0001193125-26-326663",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "YQ",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-30",
+   "shares": 1068.0,
+   "price": 78.3705,
+   "value": 83699.69,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "MLPT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Catalyst4, Inc.",
@@ -4805,8 +4805,8 @@
  "clusters": [
   {
    "ticker": "SCTX",
-   "insiders": 4,
-   "total_value": 196203438.75
+   "insiders": 3,
+   "total_value": 171203448.75
   },
   {
    "ticker": "[NONE]",
