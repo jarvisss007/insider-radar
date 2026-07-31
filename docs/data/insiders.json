@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-31 05:17 UTC",
+ "updated_utc": "2026-07-31 05:34 UTC",
  "purchases": [
-  {
-   "ticker": "NNOX",
-   "company": "Nano-X Imaging Ltd.",
-   "insider": "Suesskind Dan S",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 25000.0,
-   "price": 0.94,
-   "value": 23500.0,
-   "acc": "0001213900-26-082543",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "NNOX",
-   "company": "Nano-X Imaging Ltd.",
-   "insider": "Suesskind Dan S",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 25000.0,
-   "price": 0.94,
-   "value": 23500.0,
-   "acc": "0001213900-26-082543",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "LBGJ",
-   "company": "Li Bang International Corp Inc.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-07-27",
-   "shares": 1068671.0,
-   "price": 0.026,
-   "value": 27785.45,
-   "acc": "0001475597-26-000172",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "NNOX",
    "company": "Nano-X Imaging Ltd.",
@@ -1931,6 +1895,18 @@
    "price": 67.97,
    "value": 67970.0,
    "acc": "0001046179-26-000461",
+   "filed": "2026-07-30"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-28",
+   "shares": 1072.0,
+   "price": 78.5875,
+   "value": 84245.8,
+   "acc": "0001193125-26-326536",
    "filed": "2026-07-30"
   },
   {
@@ -4466,6 +4442,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-29",
+   "shares": 1051.0,
+   "price": 78.5495,
+   "value": 82555.52,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-30",
+   "shares": 1068.0,
+   "price": 78.3705,
+   "value": 83699.69,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "MLPT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Catalyst4, Inc.",
@@ -4825,8 +4825,8 @@
   },
   {
    "ticker": "NNOX",
-   "insiders": 3,
-   "total_value": 351560.0
+   "insiders": 2,
+   "total_value": 304560.0
   }
  ],
  "seen": [
