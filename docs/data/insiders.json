@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-31 16:23 UTC",
+ "updated_utc": "2026-07-31 16:39 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 10.0,
-   "price": 390.0,
-   "value": 3900.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -3926,6 +3914,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "BBASX",
+   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "insider": "BROWN BROTHERS HARRIMAN CREDIT PARTNERS, LLC",
+   "role": "10% owner",
+   "date": "2026-07-29",
+   "shares": 20464.956,
+   "price": 10.9622,
+   "value": 224340.94,
+   "acc": "0000929638-26-002848",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "[NONE]",
    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
    "insider": "VEP Group, LLC",
@@ -4815,9 +4815,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-036264",
-  "0001839882-26-036265",
-  "0001839882-26-036266",
   "0001839882-26-036267",
   "0001839882-26-036268",
   "0001839882-26-036269",
@@ -7151,6 +7148,9 @@
   "0001918704-26-022103",
   "0001918704-26-022104",
   "0001918704-26-022105",
+  "0001918704-26-022106",
+  "0001918704-26-022107",
+  "0001918704-26-022108",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
