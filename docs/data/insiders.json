@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-31 10:21 UTC",
+ "updated_utc": "2026-07-31 10:37 UTC",
  "purchases": [
-  {
-   "ticker": "KRNY",
-   "company": "Kearny Financial Corp.",
-   "insider": "Fields Curtland E",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 9742.0,
-   "price": 9.41,
-   "value": 91672.22,
-   "acc": "0001310881-26-000010",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "BWMX",
-   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
-   "insider": "Campos Luis",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 46830.0,
-   "price": 16.41,
-   "value": 768480.3,
-   "acc": "0001213900-26-082849",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "ACI",
-   "company": "Albertsons Companies, Inc.",
-   "insider": "Moriarty Thomas M",
-   "role": "EVP, M&A and Corporate Affairs",
-   "date": "2026-07-27",
-   "shares": 170500.0,
-   "price": 11.509,
-   "value": 1962284.5,
-   "acc": "0001628280-26-050285",
-   "filed": "2026-07-28"
-  },
-  {
-   "ticker": "ACI",
-   "company": "Albertsons Companies, Inc.",
-   "insider": "Moriarty Thomas M",
-   "role": "EVP, M&A and Corporate Affairs",
-   "date": "2026-07-27",
-   "shares": 170500.0,
-   "price": 11.509,
-   "value": 1962284.5,
-   "acc": "0001628280-26-050285",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "ACI",
    "company": "Albertsons Companies, Inc.",
@@ -1500,6 +1452,18 @@
    "value": 84245.8,
    "acc": "0001193125-26-326536",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-28",
+   "shares": 1072.0,
+   "price": 78.5875,
+   "value": 84245.8,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "NMM",
@@ -4214,6 +4178,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-29",
+   "shares": 1051.0,
+   "price": 78.5495,
+   "value": 82555.52,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4308,6 +4284,18 @@
    "value": 140000.09,
    "acc": "0001477932-26-004606",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-30",
+   "shares": 500.0,
+   "price": 1.8628,
+   "value": 931.4,
+   "acc": "0001193125-26-326663",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "YQ",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-30",
+   "shares": 1068.0,
+   "price": 78.3705,
+   "value": 83699.69,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "MLPT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Catalyst4, Inc.",
@@ -4816,13 +4816,10 @@
   {
    "ticker": "ACI",
    "insiders": 2,
-   "total_value": 12061111.5
+   "total_value": 8136542.5
   }
  ],
  "seen": [
-  "0001839882-26-035846",
-  "0001839882-26-035854",
-  "0001839882-26-035856",
   "0001839882-26-035862",
   "0001839882-26-035866",
   "0001839882-26-035870",
@@ -7173,6 +7170,9 @@
   "0001918704-26-021980",
   "0001918704-26-021981",
   "0001918704-26-021982",
+  "0001918704-26-022001",
+  "0001918704-26-022008",
+  "0001918704-26-022009",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
