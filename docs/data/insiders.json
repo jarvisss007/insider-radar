@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-07-31 21:25 UTC",
+ "updated_utc": "2026-07-31 21:40 UTC",
  "purchases": [
-  {
-   "ticker": "GLSI",
-   "company": "Greenwich LifeSciences, Inc.",
-   "insider": "Patel Snehal",
-   "role": "CEO and CFO",
-   "date": "2026-07-28",
-   "shares": 1500.0,
-   "price": 13.59,
-   "value": 20385.0,
-   "acc": "0001493152-26-035310",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "GLSI",
-   "company": "Greenwich LifeSciences, Inc.",
-   "insider": "Patel Snehal",
-   "role": "CEO and CFO",
-   "date": "2026-07-28",
-   "shares": 1500.0,
-   "price": 13.59,
-   "value": 20385.0,
-   "acc": "0001493152-26-035310",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "GLSI",
    "company": "Greenwich LifeSciences, Inc.",
@@ -3758,6 +3734,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "ARTV",
+   "company": "Artiva Biotherapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-07-29",
+   "shares": 20824.0,
+   "price": 9.99,
+   "value": 208031.76,
+   "acc": "0001231919-26-000817",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "BBASX",
    "company": "AMG BBH Asset-Backed Credit Fund, LLC",
    "insider": "BROWN BROTHERS HARRIMAN CREDIT PARTNERS, LLC",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "ARTV",
+   "company": "Artiva Biotherapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-07-31",
+   "shares": 24944.0,
+   "price": 9.93,
+   "value": 247693.92,
+   "acc": "0001231919-26-000817",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "IONS",
    "company": "IONIS PHARMACEUTICALS INC",
    "insider": "Hayden Michael R",
@@ -4825,9 +4825,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-036608",
-  "0001839882-26-036609",
-  "0001839882-26-036610",
   "0001839882-26-036611",
   "0001839882-26-036612",
   "0001839882-26-036613",
@@ -5263,6 +5260,7 @@
   "0001839882-26-037582",
   "0001839882-26-037583",
   "0001839882-26-037587",
+  "0001839882-26-037588",
   "0001840706-26-000247",
   "0001840706-26-000248",
   "0001840706-26-000249",
@@ -7115,6 +7113,7 @@
   "0001918704-26-022195",
   "0001918704-26-022196",
   "0001918704-26-022197",
+  "0001918704-26-022198",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7527,6 +7526,7 @@
   "0001999371-26-016661",
   "0001999371-26-016672",
   "0001999371-26-016674",
+  "0001999371-26-016687",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0002000276-26-000006",
