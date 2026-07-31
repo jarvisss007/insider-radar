@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-07-31 12:42 UTC",
+ "updated_utc": "2026-07-31 12:58 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 5.0,
-   "price": 390.0,
-   "value": 1950.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4226,6 +4214,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-30",
+   "shares": 500.0,
+   "price": 1.8628,
+   "value": 931.4,
+   "acc": "0001193125-26-326663",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "UROY",
    "company": "Uranium Royalty Corp.",
    "insider": "MELBYE SCOTT",
@@ -4810,7 +4810,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-035888",
   "0001839882-26-035890",
   "0001839882-26-035894",
   "0001839882-26-035896",
@@ -5607,6 +5606,7 @@
   "0001908561-26-000012",
   "0001908625-26-000007",
   "0001910132-26-000007",
+  "0001911501-26-000006",
   "0001912031-26-000015",
   "0001912317-26-000011",
   "0001912317-26-000015",
