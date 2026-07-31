@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-31 11:55 UTC",
+ "updated_utc": "2026-07-31 12:11 UTC",
  "purchases": [
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 1000000.0,
-   "price": 15.0,
-   "value": 15000000.0,
-   "acc": "0000947871-26-000733",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 1000000.0,
-   "price": 15.0,
-   "value": 15000000.0,
-   "acc": "0000947871-26-000734",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-07-27",
-   "shares": 1000000.0,
-   "price": 15.0,
-   "value": 15000000.0,
-   "acc": "0000947871-26-000733",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-28",
-   "shares": 1.0,
-   "price": 393.09,
-   "value": 393.09,
-   "acc": "0001437749-26-024804",
-   "filed": "2026-07-29"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -1212,6 +1164,18 @@
    "value": 84245.8,
    "acc": "0001193125-26-326536",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-28",
+   "shares": 1072.0,
+   "price": 78.5875,
+   "value": 84245.8,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "NMM",
@@ -4070,6 +4034,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-29",
+   "shares": 1051.0,
+   "price": 78.5495,
+   "value": 82555.52,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4164,6 +4140,18 @@
    "value": 140000.09,
    "acc": "0001477932-26-004606",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-30",
+   "shares": 500.0,
+   "price": 1.8628,
+   "value": 931.4,
+   "acc": "0001193125-26-326663",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "YQ",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-30",
+   "shares": 1068.0,
+   "price": 78.3705,
+   "value": 83699.69,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "MLPT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Catalyst4, Inc.",
@@ -4804,18 +4804,12 @@
  ],
  "clusters": [
   {
-   "ticker": "SCTX",
-   "insiders": 3,
-   "total_value": 51203448.75
-  },
-  {
    "ticker": "[NONE]",
    "insiders": 2,
    "total_value": 12490762.59
   }
  ],
  "seen": [
-  "0001839882-26-035866",
   "0001839882-26-035870",
   "0001839882-26-035871",
   "0001839882-26-035875",
@@ -7799,6 +7793,7 @@
   "0002140626-26-000006",
   "0002141303-26-000005",
   "0002141496-26-000001",
+  "0002141713-26-000004",
   "0002141901-26-000005",
   "0002142208-26-000015",
   "0002142653-26-000004",
