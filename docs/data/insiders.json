@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-07-31 01:18 UTC",
+ "updated_utc": "2026-07-31 01:34 UTC",
  "purchases": [
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-27",
-   "shares": 4400.0,
-   "price": 1.11,
-   "value": 4884.0,
-   "acc": "0001079973-26-000995",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-27",
-   "shares": 4400.0,
-   "price": 1.11,
-   "value": 4884.0,
-   "acc": "0001079973-26-000995",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-27",
-   "shares": 4400.0,
-   "price": 1.11,
-   "value": 4884.0,
-   "acc": "0001079973-26-000995",
-   "filed": "2026-07-29"
-  },
   {
    "ticker": "KRNY",
    "company": "Kearny Financial Corp.",
@@ -2486,6 +2450,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-28",
+   "shares": 1072.0,
+   "price": 78.5875,
+   "value": 84245.8,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "NWFL",
    "company": "NORWOOD FINANCIAL CORP",
    "insider": "Shook James",
@@ -4646,6 +4622,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-29",
+   "shares": 1051.0,
+   "price": 78.5495,
+   "value": 82555.52,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4790,6 +4778,18 @@
    "filed": "2026-07-30"
   },
   {
+   "ticker": "NMM",
+   "company": "Navios Maritime Partners L.P.",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-07-30",
+   "shares": 1068.0,
+   "price": 78.3705,
+   "value": 83699.69,
+   "acc": "0001193125-26-326536",
+   "filed": "2026-07-30"
+  },
+  {
    "ticker": "MLPT",
    "company": "MapLight Therapeutics, Inc.",
    "insider": "Catalyst4, Inc.",
@@ -4830,7 +4830,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-035632",
   "0001839882-26-035635",
   "0001839882-26-035750",
   "0001839882-26-035751",
@@ -7740,6 +7739,7 @@
   "0002083761-26-000003",
   "0002084264-26-000003",
   "0002084264-26-000004",
+  "0002084264-26-000006",
   "0002084812-26-000013",
   "0002085970-26-000005",
   "0002087126-26-000006",
