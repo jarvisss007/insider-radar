@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-01 12:58 UTC",
+ "updated_utc": "2026-08-01 13:14 UTC",
  "purchases": [
-  {
-   "ticker": "SCTX",
-   "company": "Scribe Therapeutics, Inc.",
-   "insider": "Aghazadeh Behzad",
-   "role": "Director",
-   "date": "2026-07-28",
-   "shares": 7905.0,
-   "price": 18.25,
-   "value": 144266.25,
-   "acc": "0000902664-26-003270",
-   "filed": "2026-07-28"
-  },
   {
    "ticker": "SCTX",
    "company": "Scribe Therapeutics, Inc.",
@@ -3362,6 +3350,18 @@
    "filed": "2026-08-01"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-08-01"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4811,7 +4811,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 11124910.08
+   "total_value": 11324908.8
   },
   {
    "ticker": "BBASX",
