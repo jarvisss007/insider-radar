@@ -29,6 +29,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import yfinance as yf
+from scipy.stats import t as tdist
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE / "docs" / "data"
@@ -208,20 +209,31 @@ def study():
     # research/EVENT_STUDY_VALIDATION.md (2026-07-25) showed the old naive |t|>=2 headline
     # collapsing to week-clustered t = 1.31 (ticker-clustered 1.17), with a week-block
     # bootstrap CI of [-0.36%, +1.90%] straddling zero. So the gate below reads t_week.
+    #
+    # The threshold is also Bonferroni-corrected across HORIZONS. Judging five
+    # correlated horizons against an uncorrected |t|>=2 gives a family-wise error
+    # rate near 0.20, not 0.05: "significant at the strongest horizon" is a
+    # max-over-five statistic and has to be priced as one. Critical value uses
+    # t(G-1) on the number of week clusters rather than the normal 1.96.
     m = [agg[str(h)] for h in HORIZONS if agg[str(h)].get("n", 0) >= 30]
-    sig = [a for a in m if abs(a.get("t_week", 0)) >= 2]
+    n_tests = max(len(m), 1)
+    df = max(min((a.get("n_weeks", 0) for a in m), default=2) - 1, 1)
+    crit = float(tdist.ppf(1 - 0.05 / n_tests / 2, df))
+    sig = [a for a in m if abs(a.get("t_week", 0)) >= crit]
     if not m:
         verdict = "TOO EARLY — not enough matured events yet; conclusions need N ≥ 30 per horizon."
     elif sig and all(a["mean"] > 0 for a in sig):
         best = max(sig, key=lambda a: a["mean"])
-        verdict = (f"SURVIVES CLUSTERING: positive abnormal returns with week-clustered |t|≥2; "
+        verdict = (f"SURVIVES CLUSTERING: positive abnormal returns with week-clustered "
+                   f"|t|≥{crit:.2f} (Bonferroni over {n_tests} horizons); "
                    f"strongest at +{HORIZONS[[agg[str(h)] for h in HORIZONS].index(best)]}d. "
                    f"Still a statistical tendency — costs and regime remain untested.")
     elif sig:
         verdict = "Significant but NEGATIVE/mixed — following these buys did not pay after market adjustment."
     else:
-        verdict = ("NO significant edge at any horizon after market adjustment and cluster-robust "
-                   "inference (all week-clustered |t|<2) — the honest null.")
+        verdict = (f"NO significant edge at any horizon after market adjustment and cluster-robust "
+                   f"inference (all week-clustered |t| < {crit:.2f}, the Bonferroni threshold for "
+                   f"{n_tests} horizons) — the honest null.")
         naive_sig = [a for a in m if abs(a.get("t", 0)) >= 2]
         if naive_sig:
             b = max(naive_sig, key=lambda a: abs(a["t"]))

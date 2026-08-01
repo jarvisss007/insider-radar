@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-01 21:09 UTC",
+ "updated_utc": "2026-08-01 21:45 UTC",
  "n_events": 686,
  "n_mature": 668,
  "pre10_mean": 1.0,
@@ -41,7 +41,7 @@
   "10": {
    "n": 668,
    "mean": 0.87,
-   "median": 0.122,
+   "median": 0.123,
    "win": 50.4,
    "t": 1.98,
    "t_week": 1.41,
@@ -149,7 +149,7 @@
   },
   {
    "day": 18,
-   "car": 0.596,
+   "car": 0.595,
    "n": 668
   },
   {
@@ -1496,7 +1496,7 @@
    "after": {
     "1": 1.106,
     "3": 1.253,
-    "5": 1.455,
+    "5": 1.454,
     "10": 3.53,
     "20": 3.881
    },
@@ -5095,7 +5095,7 @@
    "mature": false
   }
  ],
- "verdict": "NO significant edge at any horizon after market adjustment and cluster-robust inference (all week-clustered |t|<2) \u2014 the honest null. The naive t reaches +4.28 at one horizon, but that assumes 686 independent events spread over only 54 weeks; clustered by week it is +1.52. See research/EVENT_STUDY_VALIDATION.md.",
+ "verdict": "NO significant edge at any horizon after market adjustment and cluster-robust inference (all week-clustered |t| < 2.67, the Bonferroni threshold for 5 horizons) \u2014 the honest null. The naive t reaches +4.28 at one horizon, but that assumes 686 independent events spread over only 54 weeks; clustered by week it is +1.52. See research/EVENT_STUDY_VALIDATION.md.",
  "excluded": {
   "penny_under_1usd": 47,
   "split_glitch": 7
