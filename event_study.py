@@ -7,9 +7,9 @@ event ticker + SPY, and computes market-adjusted (abnormal) returns around each 
 
   BEFORE  — the stock's excess return over the 10 trading days into the buy
             (are insiders buying dips?)
-  AFTER   — excess return at +1, +3, +5, +10, +20 trading days from the day you could
-            realistically FOLLOW (the filing date close, not the insider's trade date),
-            plus the full day-by-day CAR path out to +20 for the exit question.
+  AFTER   — excess return at +1, +3, +5, +10, +20 trading days from the first price a
+            follower could actually fill (the next trading day's open after the filing,
+            not the insider's own trade date), plus the day-by-day CAR path out to +20.
 
 Honest choices:
   * entry = the OPEN of the next trading day after the filing date → what a follower could
@@ -121,6 +121,7 @@ def study():
 
     per_event, car_paths = [], []
     n_penny = n_glitch = 0
+    glitch_tickers = []
     for e in events:
         p, po = px.get(e["ticker"]), pxo.get(e["ticker"])
         if p is None or po is None:
@@ -141,11 +142,18 @@ def study():
         if entry_px < 1.0:
             n_penny += 1
             continue
-        # hygiene: a >75% single-day move in the window ⇒ almost always a
-        # mis-adjusted split/data glitch (e.g. INLF +8800%); drop and disclose
-        win = p.iloc[max(0, i_t - PRE_DAYS):min(len(p), i_t + MAX_H + 1)]
+        # hygiene: a >75% single-day move ⇒ almost always a mis-adjusted split or
+        # data glitch (e.g. INLF +8800%); drop and disclose.
+        #
+        # The window ends at ENTRY. It used to run to i_t + MAX_H + 1, i.e. 20
+        # trading days PAST the trade, which decided whether to keep an event using
+        # prices that had not happened yet. That is look-ahead, and it was not
+        # neutral: the events it removed averaged -29.5% at +5d, so the filter was
+        # quietly deleting losers on future information and flattering the mean.
+        win = p.iloc[max(0, i_t - PRE_DAYS):i_t + 1]
         if win.pct_change().abs().max() > 0.75:
             n_glitch += 1
+            glitch_tickers.append(e["ticker"])
             continue
         # BEFORE: 10 trading days into the event
         pre = None
@@ -251,7 +259,8 @@ def study():
         "agg": agg, "curve": curve,
         "events": sorted(per_event, key=lambda x: x["filed"] or x["date"])[-250:],
         "verdict": verdict,
-        "excluded": {"penny_under_1usd": n_penny, "split_glitch": n_glitch},
+        "excluded": {"penny_under_1usd": n_penny, "split_glitch": n_glitch,
+                     "split_glitch_tickers": sorted(set(glitch_tickers))},
         "method": ("STRICT entry = next trading day's OPEN after the filing date (filing-day "
                    "close is often not fillable — many Form 4s arrive after hours). "
                    "Abnormal = stock − SPY. Horizons = closes N trading days after filing. "

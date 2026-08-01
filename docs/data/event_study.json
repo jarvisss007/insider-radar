@@ -1,189 +1,169 @@
 {
- "updated_utc": "2026-08-01 21:45 UTC",
- "n_events": 686,
- "n_mature": 668,
- "pre10_mean": 1.0,
- "pre10_n": 668,
+ "updated_utc": "2026-08-01 22:02 UTC",
+ "n_events": 687,
+ "n_mature": 669,
+ "pre10_mean": 0.97,
+ "pre10_n": 669,
  "agg": {
   "1": {
-   "n": 686,
-   "mean": 0.763,
-   "median": 0.014,
-   "win": 50.6,
-   "t": 4.28,
-   "t_week": 1.52,
+   "n": 687,
+   "mean": 0.714,
+   "median": 0.008,
+   "win": 50.5,
+   "t": 3.86,
+   "t_week": 1.42,
    "n_weeks": 54,
-   "t_ticker": 1.56,
-   "n_tickers": 387
+   "t_ticker": 1.45,
+   "n_tickers": 388
   },
   "3": {
-   "n": 670,
-   "mean": 0.337,
-   "median": -0.03,
-   "win": 49.9,
-   "t": 1.43,
-   "t_week": 0.96,
+   "n": 671,
+   "mean": 0.288,
+   "median": -0.035,
+   "win": 49.8,
+   "t": 1.2,
+   "t_week": 0.82,
    "n_weeks": 54,
-   "t_ticker": 0.86,
-   "n_tickers": 375
+   "t_ticker": 0.73,
+   "n_tickers": 376
   },
   "5": {
-   "n": 668,
-   "mean": 0.861,
-   "median": -0.009,
-   "win": 49.7,
-   "t": 2.58,
-   "t_week": 1.28,
+   "n": 669,
+   "mean": 0.792,
+   "median": -0.01,
+   "win": 49.6,
+   "t": 2.33,
+   "t_week": 1.17,
    "n_weeks": 53,
-   "t_ticker": 1.29,
-   "n_tickers": 373
+   "t_ticker": 1.18,
+   "n_tickers": 374
   },
   "10": {
-   "n": 668,
-   "mean": 0.87,
-   "median": 0.123,
+   "n": 669,
+   "mean": 0.791,
+   "median": 0.121,
    "win": 50.4,
-   "t": 1.98,
-   "t_week": 1.41,
+   "t": 1.78,
+   "t_week": 1.29,
    "n_weeks": 53,
-   "t_ticker": 1.19,
-   "n_tickers": 373
+   "t_ticker": 1.08,
+   "n_tickers": 374
   },
   "20": {
-   "n": 668,
-   "mean": 0.706,
+   "n": 669,
+   "mean": 0.676,
    "median": -0.699,
-   "win": 46.3,
-   "t": 0.99,
-   "t_week": 0.56,
+   "win": 46.2,
+   "t": 0.95,
+   "t_week": 0.54,
    "n_weeks": 53,
-   "t_ticker": 0.53,
-   "n_tickers": 373
+   "t_ticker": 0.51,
+   "n_tickers": 374
   }
  },
  "curve": [
   {
    "day": 1,
-   "car": 0.763,
-   "n": 686
+   "car": 0.714,
+   "n": 687
   },
   {
    "day": 2,
-   "car": 0.182,
-   "n": 674
+   "car": 0.132,
+   "n": 675
   },
   {
    "day": 3,
-   "car": 0.337,
-   "n": 670
+   "car": 0.288,
+   "n": 671
   },
   {
    "day": 4,
-   "car": 0.166,
-   "n": 668
+   "car": 0.109,
+   "n": 669
   },
   {
    "day": 5,
-   "car": 0.861,
-   "n": 668
+   "car": 0.792,
+   "n": 669
   },
   {
    "day": 6,
-   "car": 0.668,
-   "n": 668
+   "car": 0.596,
+   "n": 669
   },
   {
    "day": 7,
-   "car": 1.308,
-   "n": 668
+   "car": 1.23,
+   "n": 669
   },
   {
    "day": 8,
-   "car": 1.359,
-   "n": 668
+   "car": 1.28,
+   "n": 669
   },
   {
    "day": 9,
-   "car": 1.28,
-   "n": 668
+   "car": 1.204,
+   "n": 669
   },
   {
    "day": 10,
-   "car": 0.87,
-   "n": 668
+   "car": 0.791,
+   "n": 669
   },
   {
    "day": 11,
-   "car": 1.037,
-   "n": 668
+   "car": 0.957,
+   "n": 669
   },
   {
    "day": 12,
-   "car": 0.259,
-   "n": 668
+   "car": 0.178,
+   "n": 669
   },
   {
    "day": 13,
-   "car": 0.835,
-   "n": 668
+   "car": 0.759,
+   "n": 669
   },
   {
    "day": 14,
-   "car": 0.874,
-   "n": 668
+   "car": 0.8,
+   "n": 669
   },
   {
    "day": 15,
-   "car": 0.471,
-   "n": 668
+   "car": 0.398,
+   "n": 669
   },
   {
    "day": 16,
-   "car": 0.548,
-   "n": 668
+   "car": 0.469,
+   "n": 669
   },
   {
    "day": 17,
-   "car": 0.945,
-   "n": 668
+   "car": 0.864,
+   "n": 669
   },
   {
    "day": 18,
-   "car": 0.595,
-   "n": 668
+   "car": 0.518,
+   "n": 669
   },
   {
    "day": 19,
-   "car": 0.881,
-   "n": 668
+   "car": 0.891,
+   "n": 669
   },
   {
    "day": 20,
-   "car": 0.706,
-   "n": 668
+   "car": 0.676,
+   "n": 669
   }
  ],
  "events": [
-  {
-   "ticker": "VIRC",
-   "insider": "VIRTUE ROBERT A",
-   "role": "CEO",
-   "date": "2026-01-13",
-   "filed": "2026-01-13",
-   "value": 15800.0,
-   "src": "backfill",
-   "pre10": -1.02,
-   "after": {
-    "1": -0.066,
-    "3": 0.854,
-    "5": 3.817,
-    "10": -0.165,
-    "20": -3.778
-   },
-   "days": 20,
-   "running": -3.78,
-   "mature": true
-  },
   {
    "ticker": "GF",
    "insider": "Saba Capital Management, L.P.",
@@ -4745,6 +4725,26 @@
    "mature": true
   },
   {
+   "ticker": "NCRA",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-06-29",
+   "filed": "2026-07-01",
+   "value": 12109.19,
+   "src": "backfill",
+   "pre10": -15.48,
+   "after": {
+    "1": -32.983,
+    "3": -32.701,
+    "5": -45.358,
+    "10": -51.959,
+    "20": -19.101
+   },
+   "days": 20,
+   "running": -19.1,
+   "mature": true
+  },
+  {
    "ticker": "NVCT",
    "insider": "BENTSUR RON",
    "role": "Chairman & CEO",
@@ -5095,10 +5095,16 @@
    "mature": false
   }
  ],
- "verdict": "NO significant edge at any horizon after market adjustment and cluster-robust inference (all week-clustered |t| < 2.67, the Bonferroni threshold for 5 horizons) \u2014 the honest null. The naive t reaches +4.28 at one horizon, but that assumes 686 independent events spread over only 54 weeks; clustered by week it is +1.52. See research/EVENT_STUDY_VALIDATION.md.",
+ "verdict": "NO significant edge at any horizon after market adjustment and cluster-robust inference (all week-clustered |t| < 2.67, the Bonferroni threshold for 5 horizons) \u2014 the honest null. The naive t reaches +3.86 at one horizon, but that assumes 687 independent events spread over only 54 weeks; clustered by week it is +1.42. See research/EVENT_STUDY_VALIDATION.md.",
  "excluded": {
   "penny_under_1usd": 47,
-  "split_glitch": 7
+  "split_glitch": 6,
+  "split_glitch_tickers": [
+   "AIMD",
+   "EDSA",
+   "INLF",
+   "KTTA"
+  ]
  },
- "method": "STRICT entry = next trading day's OPEN after the filing date (filing-day close is often not fillable \u2014 many Form 4s arrive after hours). Abnormal = stock \u2212 SPY. Horizons = closes N trading days after filing. Immature events excluded per-horizon. SIGNIFICANCE uses the cluster-robust t by entry week (Liang-Zeger), not the naive t: events cluster heavily in calendar weeks and repeat by ticker, so naive \u221aN inference overstates precision. Both are reported per horizon as t (naive) and t_week / t_ticker (clustered). Hygiene: 47 sub-$1 events and 7 split/data-glitch events excluded."
+ "method": "STRICT entry = next trading day's OPEN after the filing date (filing-day close is often not fillable \u2014 many Form 4s arrive after hours). Abnormal = stock \u2212 SPY. Horizons = closes N trading days after filing. Immature events excluded per-horizon. SIGNIFICANCE uses the cluster-robust t by entry week (Liang-Zeger), not the naive t: events cluster heavily in calendar weeks and repeat by ticker, so naive \u221aN inference overstates precision. Both are reported per horizon as t (naive) and t_week / t_ticker (clustered). Hygiene: 47 sub-$1 events and 6 split/data-glitch events excluded."
 }
