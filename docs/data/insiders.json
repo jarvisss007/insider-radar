@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-07-31 23:47 UTC",
+ "updated_utc": "2026-08-01 00:02 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 1000.0,
-   "price": 67.97,
-   "value": 67970.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 1000.0,
-   "price": 67.97,
-   "value": 67970.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 1000.0,
-   "price": 67.97,
-   "value": 67970.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-07-28",
-   "shares": 1000.0,
-   "price": 67.97,
-   "value": 67970.0,
-   "acc": "0001046179-26-000461",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -2858,6 +2810,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "MOORHEAD DANIEL J",
+   "role": "Chief Financial Officer",
+   "date": "2026-07-29",
+   "shares": 4340.0,
+   "price": 5.76,
+   "value": 24998.4,
+   "acc": "0001493152-26-035700",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "[NONE]",
    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
    "insider": "Riddick Stephen A",
@@ -3554,6 +3518,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4020,6 +3996,18 @@
    "value": 18309.33,
    "acc": "0001193125-26-325452",
    "filed": "2026-07-30"
+  },
+  {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-07-30",
+   "shares": 7944.0,
+   "price": 4.9596,
+   "value": 39399.06,
+   "acc": "0001628280-26-051497",
+   "filed": "2026-07-31"
   },
   {
    "ticker": "DLHC",
@@ -4754,6 +4742,18 @@
    "filed": "2026-07-31"
   },
   {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-07-31",
+   "shares": 441.0,
+   "price": 4.864,
+   "value": 2145.02,
+   "acc": "0001628280-26-051497",
+   "filed": "2026-07-31"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4816,7 +4816,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 949985.28
+   "total_value": 1174982.4
   },
   {
    "ticker": "HCWB",
@@ -4825,9 +4825,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-036621",
-  "0001839882-26-036624",
-  "0001839882-26-036625",
   "0001839882-26-036626",
   "0001839882-26-036627",
   "0001839882-26-036628",
@@ -5332,6 +5329,7 @@
   "0001863328-26-000002",
   "0001864148-26-000007",
   "0001864158-26-000004",
+  "0001864158-26-000006",
   "0001864247-26-000007",
   "0001864438-26-000008",
   "0001865200-26-000054",
@@ -7689,6 +7687,8 @@
   "0002071844-26-000902",
   "0002073180-26-000006",
   "0002073591-26-000028",
+  "0002073592-26-000029",
+  "0002073801-26-000035",
   "0002074644-26-000006",
   "0002074666-26-000006",
   "0002074905-26-000006",
