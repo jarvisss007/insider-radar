@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-01 07:42 UTC",
+ "updated_utc": "2026-08-01 07:58 UTC",
  "purchases": [
-  {
-   "ticker": "NWFL",
-   "company": "NORWOOD FINANCIAL CORP",
-   "insider": "Shook James",
-   "role": "Director",
-   "date": "2026-07-28",
-   "shares": 3100.0,
-   "price": 34.55,
-   "value": 107105.0,
-   "acc": "0001193125-26-325161",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "NWFL",
    "company": "NORWOOD FINANCIAL CORP",
@@ -3362,6 +3350,18 @@
    "filed": "2026-08-01"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-08-01"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4811,7 +4811,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 7124935.68
+   "total_value": 7324934.4
   },
   {
    "ticker": "BBASX",
