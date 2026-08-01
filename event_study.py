@@ -12,10 +12,14 @@ event ticker + SPY, and computes market-adjusted (abnormal) returns around each 
             plus the full day-by-day CAR path out to +20 for the exit question.
 
 Honest choices:
-  * entry = filing-date CLOSE → measures what a follower could capture, not the insider.
+  * entry = the OPEN of the next trading day after the filing date → what a follower could
+    actually fill, not the insider's own price and no look-ahead.
   * abnormal = stock return − SPY return → strips market drift.
   * events too recent for a horizon are excluded from that horizon (no peeking).
   * per-horizon t-stats; small N reported as small N, not hidden.
+  * significance is judged on the CLUSTER-ROBUST t by entry week, never the naive t.
+    Events pile into weeks and repeat by ticker, so naive sqrt(N) inference is wrong here.
+    See research/EVENT_STUDY_VALIDATION.md for the full teardown.
 
 Writes docs/data/event_study.json for the viewer.
 """
@@ -31,6 +35,32 @@ DATA = HERE / "docs" / "data"
 HORIZONS = [1, 3, 5, 10, 20]
 PRE_DAYS = 10
 MAX_H = 20
+
+
+def event_week(ev):
+    """ISO year-week of the filing date — the clustering unit for inference.
+
+    Same-week events share market and sector shocks, so they are not independent draws.
+    """
+    d = (ev.get("filed") or ev.get("date") or "")[:10]
+    try:
+        y, w, _ = datetime.date.fromisoformat(d).isocalendar()
+        return f"{y}-W{w:02d}"
+    except ValueError:
+        return d or "unknown"
+
+
+def cluster_t(x, groups):
+    """Cluster-robust t for the mean (Liang-Zeger, CR0). Returns (t, n_clusters).
+
+    Mirrors research/validate_event_study.py so the dashboard and the validation report
+    cannot drift apart again.
+    """
+    x = np.asarray(x, float)
+    m = x.mean()
+    s = pd.Series(x - m).groupby(pd.Series(list(groups))).sum().to_numpy()
+    se = np.sqrt((s ** 2).sum()) / len(x)
+    return (m / se if se > 0 else 0.0), len(s)
 
 
 def load_purchase_events():
@@ -148,15 +178,20 @@ def study():
     # aggregates per horizon
     agg = {}
     for h in HORIZONS:
-        v = np.array([ev["after"][str(h)] for ev in per_event if str(h) in ev["after"]])
+        rows = [ev for ev in per_event if str(h) in ev["after"]]
+        v = np.array([ev["after"][str(h)] for ev in rows])
         if len(v) < 3:
             agg[str(h)] = {"n": int(len(v))}
             continue
         t = v.mean() / (v.std(ddof=1) / np.sqrt(len(v))) if v.std() > 0 else 0.0
+        t_wk, n_wk = cluster_t(v, [event_week(ev) for ev in rows])
+        t_tk, n_tk = cluster_t(v, [ev["ticker"] for ev in rows])
         agg[str(h)] = {"n": int(len(v)), "mean": round(float(v.mean()), 3),
                        "median": round(float(np.median(v)), 3),
                        "win": round(float((v > 0).mean() * 100), 1),
-                       "t": round(float(t), 2)}
+                       "t": round(float(t), 2),
+                       "t_week": round(float(t_wk), 2), "n_weeks": int(n_wk),
+                       "t_ticker": round(float(t_tk), 2), "n_tickers": int(n_tk)}
     # average CAR curve day 0..20 (varying N disclosed per day)
     curve = []
     for h in range(1, MAX_H + 1):
@@ -165,20 +200,35 @@ def study():
             curve.append({"day": h, "car": round(float(np.mean(v)), 3), "n": len(v)})
     pre_all = np.array([ev["pre10"] for ev in per_event if ev["pre10"] is not None])
 
-    # honest verdict
+    # honest verdict — inference is CLUSTER-ROBUST BY ENTRY WEEK, not naive.
+    #
+    # These events are nowhere near independent: they pile into calendar weeks (85 in the
+    # heaviest) and repeat by ticker (ONMD 22x, CPIX 21x). The naive t divides by sd/sqrt(N)
+    # as if every event were a fresh draw, which overstates precision badly.
+    # research/EVENT_STUDY_VALIDATION.md (2026-07-25) showed the old naive |t|>=2 headline
+    # collapsing to week-clustered t = 1.31 (ticker-clustered 1.17), with a week-block
+    # bootstrap CI of [-0.36%, +1.90%] straddling zero. So the gate below reads t_week.
     m = [agg[str(h)] for h in HORIZONS if agg[str(h)].get("n", 0) >= 30]
-    sig = [a for a in m if abs(a.get("t", 0)) >= 2]
+    sig = [a for a in m if abs(a.get("t_week", 0)) >= 2]
     if not m:
         verdict = "TOO EARLY — not enough matured events yet; conclusions need N ≥ 30 per horizon."
     elif sig and all(a["mean"] > 0 for a in sig):
         best = max(sig, key=lambda a: a["mean"])
-        verdict = (f"SIGNAL DETECTED so far: positive abnormal returns with |t|≥2; "
+        verdict = (f"SURVIVES CLUSTERING: positive abnormal returns with week-clustered |t|≥2; "
                    f"strongest at +{HORIZONS[[agg[str(h)] for h in HORIZONS].index(best)]}d. "
-                   f"Still a statistical tendency — validate before any real use.")
+                   f"Still a statistical tendency — costs and regime remain untested.")
     elif sig:
         verdict = "Significant but NEGATIVE/mixed — following these buys did not pay after market adjustment."
     else:
-        verdict = "NO significant edge at any horizon after market adjustment (all |t|<2) — the honest null."
+        verdict = ("NO significant edge at any horizon after market adjustment and cluster-robust "
+                   "inference (all week-clustered |t|<2) — the honest null.")
+        naive_sig = [a for a in m if abs(a.get("t", 0)) >= 2]
+        if naive_sig:
+            b = max(naive_sig, key=lambda a: abs(a["t"]))
+            verdict += (f" The naive t reaches {b['t']:+.2f} at one horizon, but that assumes "
+                        f"{b['n']} independent events spread over only {b.get('n_weeks', '?')} "
+                        f"weeks; clustered by week it is {b.get('t_week', 0):+.2f}. See "
+                        f"research/EVENT_STUDY_VALIDATION.md.")
 
     out = {
         "updated_utc": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
@@ -194,6 +244,10 @@ def study():
                    "close is often not fillable — many Form 4s arrive after hours). "
                    "Abnormal = stock − SPY. Horizons = closes N trading days after filing. "
                    "Immature events excluded per-horizon. "
+                   "SIGNIFICANCE uses the cluster-robust t by entry week (Liang-Zeger), not "
+                   "the naive t: events cluster heavily in calendar weeks and repeat by "
+                   "ticker, so naive √N inference overstates precision. Both are reported "
+                   "per horizon as t (naive) and t_week / t_ticker (clustered). "
                    f"Hygiene: {n_penny} sub-$1 events and {n_glitch} split/data-glitch events excluded."),
     }
     (DATA / "event_study.json").write_text(json.dumps(out, indent=1))

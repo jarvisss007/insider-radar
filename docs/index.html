@@ -164,7 +164,8 @@ async function loadStudy(){
     ${d.pre10_mean<0?'insiders lean dip-buyers here':'not obviously dip-driven'} · ${d.method}</span>`;
   $('hstats').innerHTML=Object.entries(d.agg).map(([h,a])=>a.n>=3?
     `<div class="stat"><div class="n" style="color:${a.mean>=0?'var(--up)':'var(--down)'}">${a.mean>0?'+':''}${a.mean}%</div>
-     <div class="l">+${h}d abnormal · win ${a.win}% · t=${a.t} · n=${a.n}</div></div>`
+     <div class="l">+${h}d abnormal · win ${a.win}% · t<sub>week</sub>=${a.t_week==null?'—':a.t_week} · n=${a.n}
+     <span style="color:var(--dimmer)">(naive t=${a.t} — overstated, events cluster)</span></div></div>`
     :`<div class="stat"><div class="n" style="color:var(--dimmer)">n=${a.n}</div><div class="l">+${h}d — too few matured</div></div>`).join('');
   drawCurve(d.curve||[]);
   $('carnote').textContent=(d.curve&&d.curve.length)?`N varies by day (${d.curve[0].n} at day 1 → ${d.curve[d.curve.length-1].n} at day ${d.curve[d.curve.length-1].day}) — recent events haven't matured yet. Peak of this curve ≈ where the edge (if any) stops compounding: the exit answer.`:'';
