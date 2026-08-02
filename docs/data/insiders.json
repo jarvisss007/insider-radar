@@ -1,6 +1,18 @@
 {
- "updated_utc": "2026-08-02 03:35 UTC",
+ "updated_utc": "2026-08-02 04:06 UTC",
  "purchases": [
+  {
+   "ticker": "STRR",
+   "company": "Star Equity Holdings, Inc.",
+   "insider": "Coleman Richard Kenneth Jr.",
+   "role": "Chief Operating Officer",
+   "date": "2026-03-25",
+   "shares": 977.0,
+   "price": 9.95,
+   "value": 9721.15,
+   "acc": "0001556224-26-000006",
+   "filed": "2026-08-01"
+  },
   {
    "ticker": "MPLT",
    "company": "MapLight Therapeutics, Inc.",
@@ -3362,6 +3374,18 @@
    "filed": "2026-08-01"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-08-01"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -3458,30 +3482,6 @@
    "filed": "2026-07-31"
   },
   {
-   "ticker": "NONE",
-   "company": "Diameter Dynamic Credit Fund",
-   "insider": "Green Joshua Michael",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 124501.992,
-   "price": 10.04,
-   "value": 1250000.0,
-   "acc": "0001193125-26-328828",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "NONE",
-   "company": "Diameter Dynamic Credit Fund",
-   "insider": "Green Joshua Michael",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 124501.992,
-   "price": 10.04,
-   "value": 1250000.0,
-   "acc": "0001193125-26-328828",
-   "filed": "2026-07-31"
-  },
-  {
    "ticker": "[NONE]",
    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
    "insider": "VEP Group, LLC",
@@ -3504,18 +3504,6 @@
    "value": 6229806.78,
    "acc": "0001193125-26-325432",
    "filed": "2026-07-30"
-  },
-  {
-   "ticker": "N/A",
-   "company": "TPG Twin Brook Capital Income Fund",
-   "insider": "TPG GP A, LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 1984182.1,
-   "price": 25.1993,
-   "value": 49999999.99,
-   "acc": "0001999371-26-016672",
-   "filed": "2026-07-31"
   },
   {
    "ticker": "COSM",
@@ -4806,7 +4794,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 19724855.04
+   "total_value": 19924853.76
   },
   {
    "ticker": "[NONE]",
