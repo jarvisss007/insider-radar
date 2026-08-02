@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-02 08:40 UTC",
+ "updated_utc": "2026-08-02 08:56 UTC",
  "purchases": [
-  {
-   "ticker": "MPLT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Cox Troy",
-   "role": "Director",
-   "date": "2026-07-28",
-   "shares": 15620.0,
-   "price": 9.52,
-   "value": 148702.4,
-   "acc": "0001696923-26-000007",
-   "filed": "2026-07-29"
-  },
   {
    "ticker": "MPLT",
    "company": "MapLight Therapeutics, Inc.",
@@ -3398,6 +3386,18 @@
    "filed": "2026-08-02"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-08-02"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 23324832.0
+   "total_value": 23524830.72
   },
   {
    "ticker": "[NONE]",
