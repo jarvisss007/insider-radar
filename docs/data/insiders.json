@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-02 22:22 UTC",
+ "updated_utc": "2026-08-02 22:38 UTC",
  "purchases": [
-  {
-   "ticker": "ACI",
-   "company": "Albertsons Companies, Inc.",
-   "insider": "MORRIS SUSAN",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-28",
-   "shares": 19132.0,
-   "price": 11.377,
-   "value": 217664.76,
-   "acc": "0001628280-26-050831",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "ACI",
    "company": "Albertsons Companies, Inc.",
@@ -3398,6 +3386,18 @@
    "filed": "2026-08-02"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-08-02"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 26324812.8
+   "total_value": 26524811.52
   },
   {
    "ticker": "[NONE]",
