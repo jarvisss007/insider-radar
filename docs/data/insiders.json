@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-02 04:06 UTC",
+ "updated_utc": "2026-08-02 04:27 UTC",
  "purchases": [
   {
    "ticker": "STRR",
@@ -3386,6 +3386,18 @@
    "filed": "2026-08-01"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-08-01"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4794,7 +4806,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 19924853.76
+   "total_value": 20124852.48
   },
   {
    "ticker": "[NONE]",
