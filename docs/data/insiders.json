@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-02 04:27 UTC",
+ "updated_utc": "2026-08-02 04:43 UTC",
  "purchases": [
-  {
-   "ticker": "STRR",
-   "company": "Star Equity Holdings, Inc.",
-   "insider": "Coleman Richard Kenneth Jr.",
-   "role": "Chief Operating Officer",
-   "date": "2026-03-25",
-   "shares": 977.0,
-   "price": 9.95,
-   "value": 9721.15,
-   "acc": "0001556224-26-000006",
-   "filed": "2026-08-01"
-  },
   {
    "ticker": "MPLT",
    "company": "MapLight Therapeutics, Inc.",
@@ -3398,6 +3386,18 @@
    "filed": "2026-08-01"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Goodman Robert Scott",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-29",
+   "shares": 34722.0,
+   "price": 5.76,
+   "value": 199998.72,
+   "acc": "0001493152-26-035702",
+   "filed": "2026-08-01"
+  },
+  {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "XAIR",
    "insiders": 2,
-   "total_value": 20124852.48
+   "total_value": 20324851.2
   },
   {
    "ticker": "[NONE]",
