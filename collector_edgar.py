@@ -28,8 +28,13 @@ ATOM = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
         "&type=4&company=&dateb=&owner=include&count=100&output=atom")
 KEEP = 400            # purchases retained in the feed
 CLUSTER_DAYS = 14     # window for "multiple insiders buying" clusters
-BAD_TICKERS = {"", "NONE", "N/A", "NA", "NULL"}  # placeholder symbols filers use for unlisted issuers
+# Placeholder strings filers put in issuerTradingSymbol for unlisted issuers.
+# Compared AFTER norm_symbol() strips brackets/parens, so "[NONE]", "(none)", "N.A." etc. all match.
+BAD_TICKERS = {"", "NONE", "N/A", "NA", "N.A.", "NULL", "NOT APPLICABLE", "NOT LISTED", "UNLISTED"}
 PAUSE = 0.25          # seconds between EDGAR requests (≈4 req/s worst case)
+TICKER_MAP_URL = "https://www.sec.gov/files/company_tickers.json"
+TICKER_MAP_CACHE = HERE / "company_tickers_cache.json"
+TICKER_MAP_MAX_AGE = 7 * 86400   # refresh weekly
 
 
 def get(url, **kw):
@@ -70,6 +75,53 @@ def t(el, path):
     return x.text.strip() if x is not None and x.text else ""
 
 
+def norm_symbol(s):
+    """'[NONE]' → 'NONE', ' aapl ' → 'AAPL'. Only strips wrapping brackets/parens,
+    never characters inside a real symbol (BRK.B etc. survive)."""
+    return (s or "").strip().strip("[]()").strip().upper()
+
+
+def local_text(root, name):
+    """Namespace/casing-agnostic: text of the first element whose local tag name matches."""
+    want = name.lower()
+    for el in root.iter():
+        if el.tag.rsplit("}", 1)[-1].lower() == want and el.text and el.text.strip():
+            return el.text.strip()
+    return ""
+
+
+_CIK_TICKERS = None
+
+
+def cik_to_ticker(cik):
+    """Official SEC CIK→ticker map (company_tickers.json), cached locally for a week."""
+    global _CIK_TICKERS
+    if _CIK_TICKERS is None:
+        try:
+            if (not TICKER_MAP_CACHE.exists()
+                    or time.time() - TICKER_MAP_CACHE.stat().st_mtime > TICKER_MAP_MAX_AGE):
+                TICKER_MAP_CACHE.write_text(get(TICKER_MAP_URL).text)
+            raw = json.loads(TICKER_MAP_CACHE.read_text())
+            _CIK_TICKERS = {int(v["cik_str"]): v["ticker"].upper() for v in raw.values()}
+        except Exception as e:
+            print(f"  ticker-map unavailable ({e}); using name+CIK fallback", flush=True)
+            _CIK_TICKERS = {}
+    return _CIK_TICKERS.get(int(cik)) if cik else None
+
+
+def resolve_ticker(symbol_raw, cik, company):
+    """Never returns a shared placeholder. Order: filing symbol → SEC CIK→ticker map →
+    issuer name + CIK bucket (unique per issuer, never guessed)."""
+    sym = norm_symbol(symbol_raw)
+    if sym and sym not in BAD_TICKERS:
+        return sym
+    mapped = cik_to_ticker(cik)
+    if mapped:
+        return mapped
+    name = (company or "UNKNOWN ISSUER").strip().upper()
+    return f"{name} (CIK {int(cik)})" if cik else f"{name} (CIK unknown)"
+
+
 def parse_form4(xml_text):
     """Extract issuer, owner, and open-market purchase/sale transactions."""
     root = ET.fromstring(xml_text)
@@ -98,16 +150,28 @@ def parse_form4(xml_text):
             continue
         rows.append({
             "code": code,
-            "date": t(tx, "transactionDate/value"),
+            # some filers append a timezone ("2026-07-29-05:00"); keep the date part only
+            "date": t(tx, "transactionDate/value")[:10],
             "shares": shares,
             "price": price,
             "value": round(shares * price, 2),
         })
     if not rows:
         return None
+    # symbol: normal location first, then namespace/casing-agnostic scan of the whole doc
+    symbol = t(issuer, "issuerTradingSymbol") if issuer is not None else ""
+    if not symbol:
+        symbol = local_text(root, "issuerTradingSymbol")
+    cik_txt = (t(issuer, "issuerCik") if issuer is not None else "") or local_text(root, "issuerCik")
+    try:
+        cik = int(cik_txt)
+    except ValueError:
+        cik = None
+    company = (t(issuer, "issuerName") if issuer is not None else "") or local_text(root, "issuerName")
     return {
-        "ticker": t(issuer, "issuerTradingSymbol").upper(),
-        "company": t(issuer, "issuerName"),
+        "ticker": resolve_ticker(symbol, cik, company),
+        "cik": cik,
+        "company": company,
         "insider": t(owner, "reportingOwnerId/rptOwnerName"),
         "role": role,
         "tx": rows,
@@ -143,11 +207,14 @@ def clusters(purchases):
 def one_pass():
     state = load_existing()
     seen = set(state.get("seen", []))
-    purchases = [p for p in state.get("purchases", [])
-                 if p.get("ticker", "").strip().upper() not in BAD_TICKERS]
+    purchases = list(state.get("purchases", []))
+    # guard against re-processing an accession evicted from the trimmed `seen` list:
+    # a filing already represented in the feed must never be appended twice
+    have_acc = {p.get("acc") for p in purchases}
     new_p = new_s = 0
     for cik, acc in latest_form4_accessions():
-        if acc in seen:
+        if acc in seen or acc in have_acc:
+            seen.add(acc)
             continue
         seen.add(acc)
         try:
@@ -158,7 +225,7 @@ def one_pass():
         except Exception as e:
             print(f"  skip {acc}: {e}", flush=True)
             continue
-        if not f or f["ticker"] in BAD_TICKERS:
+        if not f:
             continue
         for tx in f["tx"]:
             row = {"ticker": f["ticker"], "company": f["company"],
