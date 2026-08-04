@@ -26,3 +26,18 @@ Empty sections mean no scored history yet — earn the opinions.
   failed to parse are being aggregated into one fake "ticker". Not logged to
   the ledger (unscoreable), but it means real clusters may be hiding inside
   that bucket, i.e. the feed under-reports. Needs a fix in collector_edgar.py.
+
+## Process lessons (appended 2026-08-03)
+- [insider] Nothing scored today — the oldest open row (07-17 batch) checks
+  2026-08-16. First real evidence is still 13 days away; every opinion in this
+  file is still a prior, not a finding.
+- [insider] The `[NONE]` ticker bug flagged on 07-31 is STILL live: this run's
+  cluster list is XAIR, `[NONE]` ($12.5M, 2 insiders), BBASX, HCWB. One in four
+  clusters is unscoreable. Second consecutive run, so this is now a standing
+  defect in collector_edgar.py, not a one-off — and it biases the ledger toward
+  whatever names happen to parse.
+- [insider] Size skew worth watching before it becomes a story: XAIR logged at
+  $27.7M from 2 insiders in a ~$6 stock, and SCTX at $216.2M on 07-31. Dollar
+  values that large relative to the float are the kind of number that is either
+  the strongest form of the signal or a parsing error. Do not narrate them as
+  conviction until at least one has been scored.
