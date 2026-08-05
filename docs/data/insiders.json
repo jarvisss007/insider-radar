@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-05 20:32 UTC",
+ "updated_utc": "2026-08-05 20:48 UTC",
  "purchases": [
   {
    "ticker": "GLSI",
@@ -914,6 +914,18 @@
    "filed": "2026-08-05"
   },
   {
+   "ticker": "SHBI",
+   "company": "SHORE BANCSHARES INC",
+   "insider": "LAMON JOHN",
+   "role": "Director",
+   "date": "2026-08-03",
+   "shares": 300.0,
+   "price": 24.5698,
+   "value": 7370.94,
+   "acc": "0001463254-26-000006",
+   "filed": "2026-08-05"
+  },
+  {
    "ticker": "PFSA",
    "company": "Profusa, Inc.",
    "insider": "HRT FINANCIAL LP",
@@ -1106,6 +1118,18 @@
    "filed": "2026-08-05"
   },
   {
+   "ticker": "TSCO",
+   "company": "TRACTOR SUPPLY CO /DE/",
+   "insider": "MORRIS EDNA",
+   "role": "Director",
+   "date": "2026-08-04",
+   "shares": 1560.0,
+   "price": 32.44,
+   "value": 50606.4,
+   "acc": "0001170836-26-000004",
+   "filed": "2026-08-05"
+  },
+  {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
    "insider": "Frangou Angeliki",
@@ -1118,6 +1142,18 @@
    "filed": "2026-08-04"
   },
   {
+   "ticker": "TSCO",
+   "company": "TRACTOR SUPPLY CO /DE/",
+   "insider": "Lawton III Harry A",
+   "role": "President & CEO",
+   "date": "2026-08-04",
+   "shares": 2655.0,
+   "price": 31.9,
+   "value": 84694.5,
+   "acc": "0001647222-26-000012",
+   "filed": "2026-08-05"
+  },
+  {
    "ticker": "GTE",
    "company": "GRAN TIERRA ENERGY INC.",
    "insider": "LM Asset Management Inc.",
@@ -1127,6 +1163,18 @@
    "price": 6.8841,
    "value": 234059.4,
    "acc": "0000935836-26-000372",
+   "filed": "2026-08-05"
+  },
+  {
+   "ticker": "TSCO",
+   "company": "TRACTOR SUPPLY CO /DE/",
+   "insider": "Lawton III Harry A",
+   "role": "President & CEO",
+   "date": "2026-08-04",
+   "shares": 12945.0,
+   "price": 32.2,
+   "value": 416829.0,
+   "acc": "0001647222-26-000012",
    "filed": "2026-08-05"
   },
   {
@@ -1190,6 +1238,11 @@
    "total_value": 1121524.62
   },
   {
+   "ticker": "TSCO",
+   "insiders": 2,
+   "total_value": 552129.9
+  },
+  {
    "ticker": "XAIR",
    "insiders": 2,
    "total_value": 224997.12
@@ -1211,8 +1264,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-037259",
-  "0001839882-26-037260",
   "0001839882-26-037261",
   "0001839882-26-037263",
   "0001839882-26-037264",
@@ -3492,6 +3543,7 @@
   "0001939403-26-000002",
   "0001940272-26-000010",
   "0001940272-26-000012",
+  "0001940727-26-000004",
   "0001941739-26-000006",
   "0001942745-26-000004",
   "0001943943-26-000014",
@@ -3993,6 +4045,7 @@
   "0002045848-26-000007",
   "0002046471-26-000001",
   "0002046701-26-000009",
+  "0002047652-26-000002",
   "0002050035-26-000011",
   "0002050167-26-000019",
   "0002050576-26-000004",
