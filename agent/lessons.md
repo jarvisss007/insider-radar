@@ -41,3 +41,31 @@ Empty sections mean no scored history yet — earn the opinions.
   values that large relative to the float are the kind of number that is either
   the strongest form of the signal or a parsing error. Do not narrate them as
   conviction until at least one has been scored.
+
+## Process lessons (appended 2026-08-04)
+- [insider] Nothing scored again — oldest open row (07-17 batch) checks
+  2026-08-16. Abstention logged against a named bar per the council rule.
+  17 rows now pending and 0 scored, which is itself worth stating plainly: this
+  ledger has produced exactly zero evidence to date and every line in this file
+  above is still a prior.
+- [insider] **The 08-03 XAIR value was wrong by 123x.** Logged as
+  "$27.7M within 14d"; the same two Form 4s (Goodman CEO $199,998.72 +
+  Moorhead CFO $24,998.40, both traded 2026-07-29) total **$224,997** in
+  today's feed. The 08-03 entry said large dollar values were "either the
+  strongest form of the signal or a parsing error" and declined to narrate
+  them. That caution was correct and is now confirmed on the first test.
+  Consequence: **SCTX $216.2M (07-31) is suspect on the same grounds** and
+  must not be described as a high-conviction cluster until re-verified from
+  its underlying Form 4s. The ledger row itself is left untouched (no-edit
+  rule); only the thesis text is discredited.
+- [insider] Correcting an earlier diagnosis in this file. The 07-31 and 08-03
+  entries called the unresolved cluster a `[NONE]` **parser bug**. Today's
+  equivalent entry is "VISTA CREDIT STRATEGIC LENDING CORP. (CIK 1919369)" —
+  the parser resolved the issuer fine; it is a **non-traded BDC with no listed
+  symbol**. So the feed is not silently dropping tradeable names into a junk
+  bucket the way we assumed. The real limitation is narrower and less alarming:
+  a slice of Form 4 filers are simply not listed equities. Worth downgrading
+  the 07-31 "the feed under-reports" claim accordingly.
+- [insider] BBASX has not printed a Yahoo close since 2026-07-31. When its
+  08-24 check comes due it will score off a stale print. Flagging now so the
+  eventual score is not read as a clean observation.
