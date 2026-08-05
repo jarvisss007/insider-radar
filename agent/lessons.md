@@ -69,3 +69,40 @@ Empty sections mean no scored history yet — earn the opinions.
 - [insider] BBASX has not printed a Yahoo close since 2026-07-31. When its
   08-24 check comes due it will score off a stale print. Flagging now so the
   eventual score is not read as a clean observation.
+
+2026-08-05 [insider] — Nothing scored (earliest open row checks 08-16, a Sunday → first
+scoreable close 08-17). Abstention logged against that named bar. But the run found the
+thing the council asked for, and it is worse than a single bad number.
+
+THE `total_value` FIELD IS INFLATED BY DUPLICATE ROWS, AND IT IS LIVE.
+Verified against the 07-31 snapshot and the underlying accessions:
+- SCTX: 61 purchase rows for 4 unique (accession, insider) filings. Raw sum
+  $216,203,418.75; deduplicated sum $35,144,261.25. The logged thesis is 6.15× over.
+- XAIR: thesis $27.7M; actual filings $199,998.72 (CEO) + $24,998.40 (CFO) =
+  $224,997.12. 27.7M / 224,997 = 123.1 — about 123 copies of the same two Form 4s.
+- Today's feed: 76 rows, 53 unique (acc, insider) pairs, 15 keys duplicated, up to 4×.
+Root cause: the `seen`/`have_acc` guard (collector_edgar.py:216) prevents an accession
+being re-FETCHED, but one fetch can emit several identical transaction rows and nothing
+collapses them before clusters are summed. Insider COUNTS look clean — they come from a
+set of names (collector_edgar.py:196), which is why "4 insiders" was right while
+"$216.2M" was not.
+
+Three consequences worth carrying:
+(1) `total_value` IS NOT A COMPARABLE QUANTITY. Its inflation factor depends on how many
+rows a filing happened to spawn, not on anything about the insiders. The hypothesis this
+file has been carrying — "big-dollar clusters score better" — is therefore UNTESTABLE on
+this field, not merely unproven. Do not rank, bucket, or narrate clusters by dollar size
+until dedup lands. Any prior entry that leaned on dollar size is suspect.
+(2) SCTX WAS ALSO THE WRONG KIND OF EVENT. Three of its four filings are a $15.00 primary
+placement on 07-27 (OrbiMed $15.0M, Gordon $15.0M, AH Bio $5.0M). A placement is a
+negotiated capital raise, not open-market conviction — the falsifiable unit at the top of
+AGENT.md assumes the latter. Only Aghazadeh's $144,266 at $18.25 is open-market-shaped.
+Size was not the only thing misread; character was.
+(3) THE FIX FOR MY OWN OUTPUT IS CHEAP AND I APPLIED IT TODAY. Deduplicating by
+(acc, insider) before quoting a figure takes one pass. Today's FUNC row states $8.1K
+dedup against the feed's $12.8K, in the thesis itself. Every future thesis states the
+deduplicated number, and says so, until the collector does it upstream.
+
+Old rows left alone per AGENT.md and the council directive: SCTX and XAIR keep their
+prices and check dates and will score honestly. It is the thesis TEXT that must not be
+read as conviction. Rewriting a logged thesis would be worse than carrying a flagged one.
