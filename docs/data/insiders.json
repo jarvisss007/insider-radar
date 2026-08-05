@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-05 10:38 UTC",
+ "updated_utc": "2026-08-05 12:28 UTC",
  "purchases": [
   {
    "ticker": "GLSI",
@@ -782,6 +782,42 @@
    "filed": "2026-08-04"
   },
   {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
+   "insider": "Sturm Tonya K.",
+   "role": "EVP & CFO",
+   "date": "2026-08-03",
+   "shares": 2.469,
+   "price": 45.84,
+   "value": 113.18,
+   "acc": "0001014100-26-000023",
+   "filed": "2026-08-05"
+  },
+  {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
+   "insider": "Rush Jason Barry",
+   "role": "Chairman, President & CEO",
+   "date": "2026-08-03",
+   "shares": 63.671,
+   "price": 45.84,
+   "value": 2918.68,
+   "acc": "0001014100-26-000024",
+   "filed": "2026-08-05"
+  },
+  {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
+   "insider": "Boal Brian R.",
+   "role": "Director",
+   "date": "2026-08-03",
+   "shares": 73.591,
+   "price": 45.84,
+   "value": 3373.41,
+   "acc": "0001014100-26-000022",
+   "filed": "2026-08-05"
+  },
+  {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
    "insider": "Frangou Angeliki",
@@ -838,6 +874,11 @@
    "ticker": "HCWB",
    "insiders": 2,
    "total_value": 79995.41
+  },
+  {
+   "ticker": "FUNC",
+   "insiders": 3,
+   "total_value": 6405.27
   }
  ],
  "seen": [
