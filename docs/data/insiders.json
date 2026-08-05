@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-05 12:28 UTC",
+ "updated_utc": "2026-08-05 12:43 UTC",
  "purchases": [
   {
    "ticker": "GLSI",
@@ -796,6 +796,18 @@
   {
    "ticker": "FUNC",
    "company": "FIRST UNITED CORP/MD/",
+   "insider": "Rodeheaver Carissa Lynn",
+   "role": "",
+   "date": "2026-08-03",
+   "shares": 36.8835,
+   "price": 45.32,
+   "value": 1671.56,
+   "acc": "0001014100-26-000025",
+   "filed": "2026-08-05"
+  },
+  {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
    "insider": "Rush Jason Barry",
    "role": "Chairman, President & CEO",
    "date": "2026-08-03",
@@ -815,6 +827,18 @@
    "price": 45.84,
    "value": 3373.41,
    "acc": "0001014100-26-000022",
+   "filed": "2026-08-05"
+  },
+  {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
+   "insider": "Rodeheaver Carissa Lynn",
+   "role": "",
+   "date": "2026-08-03",
+   "shares": 103.054,
+   "price": 45.84,
+   "value": 4724.0,
+   "acc": "0001014100-26-000025",
    "filed": "2026-08-05"
   },
   {
@@ -877,8 +901,8 @@
   },
   {
    "ticker": "FUNC",
-   "insiders": 3,
-   "total_value": 6405.27
+   "insiders": 4,
+   "total_value": 12800.83
   }
  ],
  "seen": [
