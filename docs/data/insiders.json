@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-06 22:20 UTC",
+ "updated_utc": "2026-08-06 22:35 UTC",
  "purchases": [
   {
    "ticker": "GLSI",
@@ -1482,6 +1482,18 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-05",
+   "shares": 155.0,
+   "price": 2.7365,
+   "value": 424.16,
+   "acc": "0001536588-26-000024",
+   "filed": "2026-08-06"
+  },
+  {
    "ticker": "ADAG",
    "company": "Adagene Inc.",
    "insider": "Luo Peter",
@@ -1516,6 +1528,18 @@
    "value": 2503.5,
    "acc": "0001899338-26-000005",
    "filed": "2026-08-05"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-05",
+   "shares": 2979.0,
+   "price": 2.7713,
+   "value": 8255.7,
+   "acc": "0001536588-26-000024",
+   "filed": "2026-08-06"
   },
   {
    "ticker": "COCP",
@@ -1587,6 +1611,30 @@
    "price": 47.3342,
    "value": 4999958.88,
    "acc": "0001193125-26-337965",
+   "filed": "2026-08-06"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "shares": 15.0,
+   "price": 2.798,
+   "value": 41.97,
+   "acc": "0001536588-26-000024",
+   "filed": "2026-08-06"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "shares": 413.0,
+   "price": 2.805,
+   "value": 1158.47,
+   "acc": "0001536588-26-000024",
    "filed": "2026-08-06"
   },
   {
@@ -1722,8 +1770,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-038888",
-  "0001839882-26-038889",
   "0001839882-26-038891",
   "0001839882-26-038893",
   "0001839882-26-038894",
@@ -1926,7 +1972,9 @@
   "0001895101-26-000015",
   "0001895101-26-000016",
   "0001895106-26-000016",
+  "0001895106-26-000017",
   "0001895111-26-000015",
+  "0001895111-26-000016",
   "0001895148-26-000014",
   "0001895585-26-000001",
   "0001895944-26-000008",
