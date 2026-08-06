@@ -88,12 +88,14 @@ def main():
                 for tx in f["tx"]:
                     if tx["code"] != "P":
                         continue
-                    doc["events"].append({
-                        "ticker": f["ticker"], "company": f["company"],
-                        "insider": f["insider"], "role": f["role"],
-                        "date": tx["date"], "shares": tx["shares"],
-                        "price": tx["price"], "value": tx["value"],
-                        "acc": acc, "filed": d.isoformat(), "src": "backfill"})
+                    ev = {"ticker": f["ticker"], "company": f["company"],
+                          "insider": f["insider"], "role": f["role"],
+                          "date": tx["date"], "shares": tx["shares"],
+                          "price": tx["price"], "value": tx["value"],
+                          "acc": acc, "filed": d.isoformat(), "src": "backfill"}
+                    if tx.get("placement"):   # offering/placement buy, not open-market
+                        ev["placement"] = True
+                    doc["events"].append(ev)
                     n_new += 1
                     day_hits += 1
             print(f"{d} · sampled {len(sample):3d}/{len(filings):4d} form4s · "

@@ -96,6 +96,12 @@
     not tick-by-tick; filings themselves lag trades by up to 2 days; and insider buying is a
     <i>slow, statistical</i> tendency, not a trade trigger. Educational only — not investment
     advice.
+    <br><br>
+    <b>2026-08-05 correction:</b> cluster dollar totals before this date were inflated by
+    duplicate feed rows (observed up to 123&times;) and could include IPO/placement
+    allocations. Totals are now summed over deduplicated filings, count open-market buying
+    only, and show placement/offering dollars separately. Dollar history before 2026-08-05
+    is not comparable.
   </div>
 </div>
 
@@ -108,7 +114,7 @@ function render(){
   const rows=P.filter(p=>!q||[p.ticker,p.insider,p.role,p.company].join(' ').toLowerCase().includes(q));
   $('rows').innerHTML=rows.map(p=>`<tr>
     <td>${p.date}</td><td class="tick" title="${p.company}">${p.ticker}</td>
-    <td>${p.insider}</td><td class="role">${p.role||'—'}</td>
+    <td>${p.insider}</td><td class="role">${p.role||'—'}${p.placement?' <span style="color:var(--accent)">· placement</span>':''}</td>
     <td class="val">${fmt(p.shares)}</td><td class="val">$${p.price.toFixed(2)}</td>
     <td class="val ${p.value>=250000?'big':''}">$${fmt(p.value)}</td></tr>`).join('');
   $('count').textContent=rows.length+' purchases shown';
@@ -117,7 +123,10 @@ async function load(){
   const d=await(await fetch('data/insiders.json?'+Date.now())).json();
   P=d.purchases.slice().reverse();
   $('upd').textContent='feed updated '+d.updated_utc;
-  const tot=P.reduce((a,p)=>a+p.value,0);
+  // sum over unique (acc, insider, date, shares, price) keys — never raw rows
+  const uniq=new Map();
+  P.forEach(p=>uniq.set([p.acc,p.insider,p.date,p.shares,p.price].join('|'),p));
+  const tot=[...uniq.values()].reduce((a,p)=>a+p.value,0);
   const tickers=new Set(P.map(p=>p.ticker)), insiders=new Set(P.map(p=>p.insider));
   $('stats').innerHTML=`
     <div class="stat"><div class="n">${P.length}</div><div class="l">purchases in feed</div></div>
@@ -126,7 +135,8 @@ async function load(){
     <div class="stat"><div class="n">${insiders.size}</div><div class="l">distinct insiders</div></div>
     <div class="stat"><div class="n">${d.clusters.length}</div><div class="l">buy clusters</div></div>`;
   $('clusters').innerHTML=d.clusters.length?d.clusters.map(c=>
-    `<div class="cluster"><b>${c.ticker}</b><span>${c.insiders} insiders · $${fmt(c.total_value)} total</span></div>`).join('')
+    `<div class="cluster"><b>${c.ticker}</b><span>${c.insiders} insiders · $${fmt(c.total_value)} open-market</span>${
+      c.other_value?`<span style="color:var(--dimmer)">+ $${fmt(c.other_value)} placement/offering (excluded)</span>`:''}</div>`).join('')
     :'<span class="empty">none right now — clusters appear when ≥2 insiders buy the same stock within 14 days</span>';
   render();
 }

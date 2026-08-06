@@ -26,6 +26,31 @@ python collector_edgar.py --loop 15 --push --max-hours 24   # auto-stop after a 
 Server-side collection is required by design: EDGAR's document archive doesn't send CORS
 headers, so a browser-only app can't read the transaction details.
 
+## Data honesty — 2026-08-05 correction (read before using dollar history)
+
+Two defects, found by the council audit and fixed on 2026-08-05:
+
+1. **Duplicate-row inflation.** Cluster `total_value` used to sum raw feed rows, and the
+   feed could carry the same (accession, insider, transaction) row many times — observed
+   inflation 6.15x (SCTX, $216.2M shown vs $35.1M real) and 123x (XAIR, $27.7M shown vs
+   $225.0k real). Dollar sums are now computed over deduplicated
+   (accession, insider, date, shares, price) keys, and the feed refuses to store the same
+   transaction twice.
+2. **Placements counted as conviction.** Form 4 code P covers both open-market buying and
+   negotiated offering/placement purchases (e.g. three of SCTX's four 07-27 filings were
+   $15.00 IPO allocations totaling $35.0M). The transaction's own footnotes are the only
+   machine-readable marker; flagged placement buys are now excluded from the headline
+   `total_value` and reported separately as `other_value`. Detection is deliberately
+   conservative — it fires only when the filing itself says so on the transaction line
+   (a filer who omits the disclosure, as one SCTX holder did, will still land in
+   `total_value`), so treat the split as a floor on placement dollars, not a ceiling.
+
+**Consequence:** every `total_value` recorded before 2026-08-05 is unreliable, and the
+"big-dollar clusters" hypothesis restarts its sample from 2026-08-05. Ledger rows logged
+before then are left untouched (no retro-editing of scored history) — their thesis text
+is simply not to be trusted on dollar size. Insider *counts* were always set-based and
+were never affected.
+
 ## Fair access & honesty
 
 - Identifies itself to the SEC via User-Agent and stays far below the 10 req/s guideline.

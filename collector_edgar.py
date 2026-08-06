@@ -35,6 +35,16 @@ PAUSE = 0.25          # seconds between EDGAR requests (≈4 req/s worst case)
 TICKER_MAP_URL = "https://www.sec.gov/files/company_tickers.json"
 TICKER_MAP_CACHE = HERE / "company_tickers_cache.json"
 TICKER_MAP_MAX_AGE = 7 * 86400   # refresh weekly
+# Form 4 transaction code P covers BOTH open-market buying and negotiated purchases
+# (IPO allocations, private placements, buys directly from the issuer) — SEC's own
+# definition. The code alone cannot tell them apart; the filer's transaction footnotes
+# can. Conservative phrase list: flag a purchase as a placement/offering buy only when
+# the footnote attached to THAT transaction plainly says the shares came from an
+# offering or the issuer. Generic text ("open market transactions") must never match.
+PLACEMENT_RE = re.compile(
+    r"initial public offering|\bipo\b|public offering price|underwritten offering"
+    r"|from (the )?underwriters?|private placement|securities purchase agreement"
+    r"|subscription agreement|direct(ly)? from the (issuer|company)", re.I)
 
 
 def get(url, **kw):
@@ -136,6 +146,8 @@ def parse_form4(xml_text):
             role = "Director"
         elif t(rel, "isTenPercentOwner") in ("1", "true"):
             role = "10% owner"
+    footnotes = {fn.get("id"): " ".join(fn.itertext()).strip()
+                 for fn in root.iter("footnote")}
     rows = []
     for tx in root.iter("nonDerivativeTransaction"):
         code = t(tx, "transactionCoding/transactionCode")
@@ -148,14 +160,28 @@ def parse_form4(xml_text):
             continue
         if shares <= 0 or price <= 0:
             continue
-        rows.append({
+        # footnotes referenced by THIS transaction's trade facts only (security, date,
+        # coding, amounts) — never the whole document, and never the holdings columns
+        # (postTransactionAmounts / ownershipNature): those describe the owner's stake,
+        # not the trade, and routinely mention the IPO for unrelated reasons. Verified
+        # against SCTX 07-27/28 filings, which mix IPO-allocation and open-market lines.
+        notes = " ".join(
+            footnotes.get(f.get("id"), "")
+            for part in ("securityTitle", "transactionDate", "transactionCoding",
+                         "transactionTimeliness", "transactionAmounts")
+            for el in tx.iter(part)
+            for f in el.iter("footnoteId"))
+        row = {
             "code": code,
             # some filers append a timezone ("2026-07-29-05:00"); keep the date part only
             "date": t(tx, "transactionDate/value")[:10],
             "shares": shares,
             "price": price,
             "value": round(shares * price, 2),
-        })
+        }
+        if code == "P" and PLACEMENT_RE.search(notes):
+            row["placement"] = True
+        rows.append(row)
     if not rows:
         return None
     # symbol: normal location first, then namespace/casing-agnostic scan of the whole doc
@@ -187,8 +213,23 @@ def load_existing():
     return {"purchases": [], "seen": []}
 
 
+def tx_key(p):
+    """Identity of one reported transaction: (accession, insider, date, shares, price).
+    Rows sharing this key are collector artifacts (the same filing re-emitted across
+    passes), never two verifiable trades. Distinct lots inside one filing differ on at
+    least one of date/shares/price and always survive."""
+    return (p.get("acc"), p["insider"], p["date"], p["shares"], p["price"])
+
+
 def clusters(purchases):
-    """Tickers where ≥2 distinct insiders bought within CLUSTER_DAYS."""
+    """Tickers where ≥2 distinct insiders bought within CLUSTER_DAYS.
+
+    Dollar figures are summed over DEDUPLICATED (accession, insider, transaction) keys —
+    raw rows historically contained repeats (see agent/lessons.md 2026-08-05: SCTX 6.15x,
+    XAIR 123x inflated) and must never be summed as-is. `total_value` is open-market
+    buying only; purchases flagged as placement/offering buys are broken out into
+    `other_value` (reported, never headline — the lab's thesis is open-market conviction).
+    Insider COUNTS were always set-based and are unchanged."""
     cut = (datetime.date.today() - datetime.timedelta(days=CLUSTER_DAYS)).isoformat()
     by = {}
     for p in purchases:
@@ -197,17 +238,30 @@ def clusters(purchases):
     out = []
     for tick, insiders in by.items():
         if len(insiders) >= 2:
-            tot = sum(p["value"] for p in purchases
-                      if p["ticker"] == tick and p["date"] >= cut)
-            out.append({"ticker": tick, "insiders": len(insiders),
-                        "total_value": round(tot, 2)})
+            uniq = {tx_key(p): p for p in purchases
+                    if p["ticker"] == tick and p["date"] >= cut}
+            open_v = sum(p["value"] for p in uniq.values() if not p.get("placement"))
+            other_v = sum(p["value"] for p in uniq.values() if p.get("placement"))
+            row = {"ticker": tick, "insiders": len(insiders),
+                   "total_value": round(open_v, 2)}
+            if other_v:
+                row["other_value"] = round(other_v, 2)
+            out.append(row)
     return sorted(out, key=lambda x: -x["total_value"])
 
 
 def one_pass():
     state = load_existing()
     seen = set(state.get("seen", []))
-    purchases = list(state.get("purchases", []))
+    # collapse exact-duplicate rows left behind by past collector runs (same filing
+    # re-emitted). Aggregation in clusters() dedupes independently, so totals are safe
+    # either way; this keeps the displayed feed honest too.
+    purchases, have_rows = [], set()
+    for p in state.get("purchases", []):
+        k = tx_key(p)
+        if k not in have_rows:
+            have_rows.add(k)
+            purchases.append(p)
     # guard against re-processing an accession evicted from the trimmed `seen` list:
     # a filing already represented in the feed must never be appended twice
     have_acc = {p.get("acc") for p in purchases}
@@ -233,7 +287,12 @@ def one_pass():
                    "date": tx["date"], "shares": tx["shares"],
                    "price": tx["price"], "value": tx["value"],
                    "acc": acc, "filed": datetime.date.today().isoformat()}
+            if tx.get("placement"):
+                row["placement"] = True
             if tx["code"] == "P":
+                if tx_key(row) in have_rows:      # never store the same transaction twice
+                    continue
+                have_rows.add(tx_key(row))
                 purchases.append(row)
                 new_p += 1
             else:

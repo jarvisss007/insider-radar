@@ -106,3 +106,25 @@ deduplicated number, and says so, until the collector does it upstream.
 Old rows left alone per AGENT.md and the council directive: SCTX and XAIR keep their
 prices and check dates and will score honestly. It is the thesis TEXT that must not be
 read as conviction. Rewriting a logged thesis would be worse than carrying a flagged one.
+
+2026-08-05 [coach] — THE FIX LANDED, upstream in collector_edgar.py, same day:
+- `clusters()` now sums over deduplicated (accession, insider, date, shares, price) keys;
+  raw rows are never dollar-summed anywhere again. `one_pass()` additionally refuses to
+  store an exact-duplicate transaction row, and collapses any it inherits.
+- Placement/offering buys (SEC code P covers those too — SCTX's $15.00 IPO allocations
+  were code P with an "initial public offering" footnote) are now flagged from the
+  transaction's own footnotes. Headline cluster `total_value` = deduplicated OPEN-MARKET
+  dollars only; flagged placement dollars appear separately as `other_value`.
+- Verified on the diagnostic snapshot: SCTX $216,203,418.75 raw → $5,144,261.25
+  open-market + $30,000,000.00 flagged placement; XAIR $27.7M-era inflation →
+  $224,997.12. Honest limit, stated plainly: AH Bio's $4,999,995 IPO allocation stays
+  in the open-market column because its Form 4 nowhere says the purchase was in the
+  IPO — not even in a transaction footnote (only a nominee-ownership note). Flagging it
+  would have required inferring from the $15.00 price, i.e. guessing. Detection only
+  fires on what the filing itself states (OrbiMed and Gordon both say "purchased in the
+  Issuer's initial public offering" on the transaction line; they are flagged).
+- Insider counts untouched (they were correct). Ledger rows untouched (no retro-edits).
+- Standing consequence stands: `total_value` history BEFORE 2026-08-05 is unreliable;
+  the "big-dollar clusters" hypothesis restarts its sample from today. Every future
+  thesis can quote `total_value` directly again — it is now the deduplicated open-market
+  number by construction.
