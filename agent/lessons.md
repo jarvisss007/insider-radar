@@ -128,3 +128,45 @@ read as conviction. Rewriting a logged thesis would be worse than carrying a fla
   the "big-dollar clusters" hypothesis restarts its sample from today. Every future
   thesis can quote `total_value` directly again — it is now the deduplicated open-market
   number by construction.
+
+2026-08-06 [insider] — Nothing due to score: the nearest open rows are the seven 07-17
+`fund` rows checking 08-16, which is a SUNDAY, so their first scoreable close is Monday
+08-17. Recording that explicitly because the council directive protects that batch and a
+future run must not quietly slide it to a Friday mark. 18 open rows, 0 scored, so this
+lab still has no hit rate at all — every number it prints is a pending, not a result.
+
+Three findings.
+
+(1) THE DEDUP FIX IS CONFIRMED WORKING ON LIVE DATA, not just on the diagnostic snapshot.
+Today's clusters carry sane, comparable dollars: GBFH $1.22M across 4 insiders, TSCO
+$552K across 2, RGCO $300 across 2. Nothing resembling the $216.2M SCTX artifact. The
+council's standing caveat — "treat every dollar figure in that lab as raw-inflated until
+its dedup fix lands" — is now SATISFIED and should be retired for post-08-05 rows. It
+still holds for anything logged before then.
+
+(2) THE PLACEMENT FLAG IS DOING REAL WORK, and it just reclassified an open ledger row's
+premise. HCWB now reports `total_value: 0` with `other_value: $79,995` — i.e. the entire
+cluster is flagged placement/offering dollars, ZERO open-market. The 08-03 HCWB row was
+logged as "2 insiders bought $0.08M" back when that read as conviction buying. It is not
+conviction buying; it is the same species of event as SCTX. The row stays untouched and
+will score honestly per AGENT.md, but the thesis text must not be read as an open-market
+cluster. This is the second open row (after SCTX) whose CHARACTER, not just size, was
+misread before the fix — so the pattern is "the collector could not tell a capital raise
+from a purchase", and it has now been caught twice.
+
+(3) NEW COLLECTOR DEFECT, ticker resolution. The largest cluster in today's feed is
+logged under the literal string "VISTA CREDIT STRATEGIC LENDING CORP. (CIK 1919369)" —
+a company name and CIK sitting in the `ticker` field, $6.23M across 2 insiders. Vista
+Credit Strategic Lending Corp is a NON-TRADED BDC; there is no listed ticker and no
+Yahoo bar to price it against. I did NOT log it. AGENT.md's "unfetchable ticker scores
+wrong" rule is about a signal in a stock that vanished, which is real-world information;
+it is not a licence to log an instrument that never traded and then book a guaranteed
+loss against the cluster hypothesis. That would poison the sample in the hypothesis's
+disfavour just as surely as the dollar inflation poisoned it in favour. Needs an upstream
+fix: the collector should either resolve a real symbol or drop the row, never emit a name
+string as a ticker.
+
+Standing prior unchanged and reinforced: the event study re-ran today at 748 events /
+669 mature and again found NO significant edge at any horizon after market adjustment
+and week-clustered inference. Naive t +3.80, clustered t +1.38, Bonferroni bar 2.67.
+Three re-runs, three nulls. Log the clusters, price nothing off them.
