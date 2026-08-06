@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-06 21:48 UTC",
+ "updated_utc": "2026-08-06 22:20 UTC",
  "purchases": [
   {
    "ticker": "GLSI",
@@ -1266,6 +1266,18 @@
    "filed": "2026-08-04"
   },
   {
+   "ticker": "ADAG",
+   "company": "Adagene Inc.",
+   "insider": "Luo Peter",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-04",
+   "shares": 22966.0,
+   "price": 3.6465,
+   "value": 83745.52,
+   "acc": "0001104659-26-092176",
+   "filed": "2026-08-06"
+  },
+  {
    "ticker": "TSCO",
    "company": "TRACTOR SUPPLY CO /DE/",
    "insider": "Lawton III Harry A",
@@ -1470,6 +1482,18 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "ADAG",
+   "company": "Adagene Inc.",
+   "insider": "Luo Peter",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-05",
+   "shares": 279.0,
+   "price": 3.65,
+   "value": 1018.35,
+   "acc": "0001104659-26-092176",
+   "filed": "2026-08-06"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -1602,6 +1626,18 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "ETR",
+   "company": "ENTERGY CORP /DE/",
+   "insider": "Ropp Ralph Lewis",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 1000.0,
+   "price": 106.075,
+   "value": 106075.0,
+   "acc": "0000065984-26-000287",
+   "filed": "2026-08-06"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "CLEMONS JAMES RANDALL",
@@ -1686,12 +1722,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-038882",
-  "0001839882-26-038883",
-  "0001839882-26-038884",
-  "0001839882-26-038885",
-  "0001839882-26-038886",
-  "0001839882-26-038887",
   "0001839882-26-038888",
   "0001839882-26-038889",
   "0001839882-26-038891",
@@ -1911,6 +1941,11 @@
   "0001899338-26-000005",
   "0001899338-26-000006",
   "0001900201-26-000003",
+  "0001902733-26-000086",
+  "0001902733-26-000088",
+  "0001902733-26-000090",
+  "0001902733-26-000092",
+  "0001902733-26-000094",
   "0001903115-26-000003",
   "0001903739-26-000013",
   "0001904058-26-000013",
@@ -4685,7 +4720,8 @@
   "0002147429-26-000003",
   "0002147807-26-000005",
   "0002147955-26-000004",
-  "0002147992-26-000003"
+  "0002147992-26-000003",
+  "0002148361-26-000003"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
