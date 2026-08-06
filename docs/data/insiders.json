@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-06 21:17 UTC",
+ "updated_utc": "2026-08-06 21:48 UTC",
  "purchases": [
   {
    "ticker": "GLSI",
@@ -749,6 +749,18 @@
    "filed": "2026-08-04"
   },
   {
+   "ticker": "SAGT",
+   "company": "SAGTEC GLOBAL Ltd",
+   "insider": "LOONG XIN YEE",
+   "role": "Chief Operating Officer",
+   "date": "2026-07-31",
+   "shares": 62500.0,
+   "price": 0.77,
+   "value": 48125.0,
+   "acc": "0001213900-26-086252",
+   "filed": "2026-08-06"
+  },
+  {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
    "insider": "Frangou Angeliki",
@@ -771,6 +783,18 @@
    "value": 147525.0,
    "acc": "0001628280-26-052202",
    "filed": "2026-08-04"
+  },
+  {
+   "ticker": "SAGT",
+   "company": "SAGTEC GLOBAL Ltd",
+   "insider": "Ng Chen Lok",
+   "role": "Chief Executive Officer",
+   "date": "2026-07-31",
+   "shares": 300000.0,
+   "price": 0.77,
+   "value": 231000.0,
+   "acc": "0001213900-26-086253",
+   "filed": "2026-08-06"
   },
   {
    "ticker": "ARTV",
@@ -1362,6 +1386,30 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "SITE",
+   "company": "SiteOne Landscape Supply, Inc.",
+   "insider": "BLACK DOUG",
+   "role": "CEO",
+   "date": "2026-08-04",
+   "shares": 4000.0,
+   "price": 101.94,
+   "value": 407760.0,
+   "acc": "0001104659-26-092153",
+   "filed": "2026-08-06"
+  },
+  {
+   "ticker": "SITE",
+   "company": "SiteOne Landscape Supply, Inc.",
+   "insider": "BLACK DOUG",
+   "role": "CEO",
+   "date": "2026-08-04",
+   "shares": 4000.0,
+   "price": 102.13,
+   "value": 408520.0,
+   "acc": "0001104659-26-092153",
+   "filed": "2026-08-06"
+  },
+  {
    "ticker": "TSCO",
    "company": "TRACTOR SUPPLY CO /DE/",
    "insider": "Lawton III Harry A",
@@ -1372,6 +1420,18 @@
    "value": 416829.0,
    "acc": "0001647222-26-000012",
    "filed": "2026-08-05"
+  },
+  {
+   "ticker": "THRY",
+   "company": "Thryv Holdings, Inc.",
+   "insider": "PAULSON & CO. INC.",
+   "role": "10% owner",
+   "date": "2026-08-04",
+   "shares": 254573.0,
+   "price": 2.82,
+   "value": 717895.86,
+   "acc": "0001013594-26-000824",
+   "filed": "2026-08-06"
   },
   {
    "ticker": "CSGP",
@@ -1482,6 +1542,18 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "THRY",
+   "company": "Thryv Holdings, Inc.",
+   "insider": "PAULSON & CO. INC.",
+   "role": "10% owner",
+   "date": "2026-08-05",
+   "shares": 144975.0,
+   "price": 2.79,
+   "value": 404480.25,
+   "acc": "0001013594-26-000824",
+   "filed": "2026-08-06"
+  },
+  {
    "ticker": "APTV",
    "company": "Aptiv PLC",
    "insider": "MEISTER PAUL M",
@@ -1540,6 +1612,18 @@
    "value": 248847.9,
    "acc": "0001899338-26-000006",
    "filed": "2026-08-06"
+  },
+  {
+   "ticker": "ATTO",
+   "company": "Attovia Therapeutics, Inc.",
+   "insider": "Frazier Life Sciences XI, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "shares": 588235.0,
+   "price": 17.0,
+   "value": 9999995.0,
+   "acc": "0001231919-26-000838",
+   "filed": "2026-08-06"
   }
  ],
  "clusters": [
@@ -1563,6 +1647,11 @@
    "ticker": "TSCO",
    "insiders": 2,
    "total_value": 552129.9
+  },
+  {
+   "ticker": "SAGT",
+   "insiders": 2,
+   "total_value": 279125.0
   },
   {
    "ticker": "WBHC",
@@ -1597,13 +1686,6 @@
   }
  ],
  "seen": [
-  "0001839882-26-038873",
-  "0001839882-26-038874",
-  "0001839882-26-038875",
-  "0001839882-26-038876",
-  "0001839882-26-038878",
-  "0001839882-26-038880",
-  "0001839882-26-038881",
   "0001839882-26-038882",
   "0001839882-26-038883",
   "0001839882-26-038884",
@@ -1648,6 +1730,8 @@
   "0001839882-26-038948",
   "0001839882-26-038949",
   "0001839882-26-038951",
+  "0001839882-26-038953",
+  "0001839882-26-038954",
   "0001840706-26-000247",
   "0001840706-26-000248",
   "0001840706-26-000249",
@@ -3748,6 +3832,10 @@
   "0001918704-26-023092",
   "0001918704-26-023093",
   "0001918704-26-023094",
+  "0001918704-26-023095",
+  "0001918704-26-023096",
+  "0001918704-26-023097",
+  "0001918704-26-023098",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -4573,6 +4661,7 @@
   "0002140626-26-000006",
   "0002141303-26-000005",
   "0002141496-26-000001",
+  "0002141590-26-000008",
   "0002141655-26-000008",
   "0002141713-26-000004",
   "0002141901-26-000005",
