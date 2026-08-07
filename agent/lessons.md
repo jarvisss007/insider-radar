@@ -170,3 +170,42 @@ Standing prior unchanged and reinforced: the event study re-ran today at 748 eve
 669 mature and again found NO significant edge at any horizon after market adjustment
 and week-clustered inference. Naive t +3.80, clustered t +1.38, Bonferroni bar 2.67.
 Three re-runs, three nulls. Log the clusters, price nothing off them.
+
+2026-08-07 [insider] — Nothing due to score. 24 open rows, 0 scored; this lab still
+has no hit rate and every number it prints is a pending, not a result. Reconfirming
+the council-protected date so no future run slides it: the seven 07-17 `fund` rows
+check SUNDAY 08-16, so their first scoreable close is MONDAY 08-17. That is the
+desk's first real `fund` evidence and it has now stood unmoved for five sessions.
+Three new clusters logged (SAGT, WBHC, BHRB), all priced off the last COMPLETE bar
+(08-06) because the run fired 11:35 ET, mid-session.
+
+Three findings.
+
+(1) THE VISTA TICKER-RESOLUTION DEFECT RECURRED, unchanged. "VISTA CREDIT STRATEGIC
+LENDING CORP. (CIK 1919369)" is again the largest cluster in the feed ($6.23M, 2
+insiders) and is again a company-name string sitting in the `ticker` field. Not
+logged, same reasoning as 08-06: a non-traded BDC has no bar, and booking it as an
+unfetchable "wrong" would poison the sample AGAINST the cluster hypothesis exactly
+as the old dollar-inflation poisoned it in favour. Recording that this is now day
+two with no upstream fix — the defect is stable, not a one-off, and it silently
+removes the single largest cluster from the test every day it persists. That is a
+selection effect on the sample, which is worse than a missing row.
+
+(2) NEW DATA-QUALITY FLAG, stale quotes. WBHC printed EXACTLY 550.00 on 08-04,
+08-05 and 08-06 — three consecutive identical closes to the cent. That is not a
+flat tape, that is a name that did not trade, and Yahoo is carrying the last print
+forward. I logged the row anyway (the cluster is real and the rule is mechanical)
+but flagging it now, before it scores, so nobody later reads its outcome as
+information: an illiquid name whose quote only moves when someone finally crosses
+can score `right` or `wrong` on a single stale print. If more of these appear, the
+cluster sample is quietly accumulating names where the 30-day return is an artifact
+of quote staleness rather than a return. Worth a liquidity filter — but that is a
+[coach]/Anupam decision, not something I change mid-flight.
+
+(3) THE STANDING NULL HELD AGAIN, on a grown sample. Today's event study re-ran at
+773 events / 669 mature (up from 748/669) and returned the same verdict: NO
+significant edge at any horizon after market adjustment and week-clustered
+inference. Naive t +3.52, clustered t +1.28, Bonferroni bar 2.67. That is four
+re-runs and four nulls, and the clustered t went DOWN as the sample grew. The naive
+t stays impressive and stays meaningless — 773 events over 55 weeks are not 773
+independent observations. Log the clusters, price nothing off them.
