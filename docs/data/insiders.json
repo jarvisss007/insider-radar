@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-08 01:20 UTC",
+ "updated_utc": "2026-08-08 01:51 UTC",
  "purchases": [
   {
    "ticker": "DGAC",
@@ -2170,6 +2170,18 @@
   {
    "ticker": "ATTO",
    "company": "Attovia Therapeutics, Inc.",
+   "insider": "Redmile Group, LLC",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "shares": 200000.0,
+   "price": 17.0,
+   "value": 3400000.0,
+   "acc": "0001104659-26-092867",
+   "filed": "2026-08-07"
+  },
+  {
+   "ticker": "ATTO",
+   "company": "Attovia Therapeutics, Inc.",
    "insider": "Sanofi",
    "role": "10% owner",
    "date": "2026-08-06",
@@ -2179,6 +2191,18 @@
    "acc": "0001193125-26-340173",
    "filed": "2026-08-07",
    "placement": true
+  },
+  {
+   "ticker": "ATTO",
+   "company": "Attovia Therapeutics, Inc.",
+   "insider": "Redmile Group, LLC",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "shares": 400000.0,
+   "price": 17.0,
+   "value": 6800000.0,
+   "acc": "0001104659-26-092867",
+   "filed": "2026-08-07"
   },
   {
    "ticker": "ATTO",
@@ -2369,8 +2393,8 @@
   },
   {
    "ticker": "ATTO",
-   "insiders": 2,
-   "total_value": 9999995.0,
+   "insiders": 3,
+   "total_value": 20199995.0,
    "other_value": 5100000.0
   },
   {
