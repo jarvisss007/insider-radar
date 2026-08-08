@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-07 23:14 UTC",
+ "updated_utc": "2026-08-08 00:02 UTC",
  "purchases": [
   {
    "ticker": "DGAC",
@@ -1844,6 +1844,18 @@
    "filed": "2026-08-07"
   },
   {
+   "ticker": "CCB",
+   "company": "COASTAL FINANCIAL CORP",
+   "insider": "HOVDE STEVEN D",
+   "role": "Director",
+   "date": "2026-08-05",
+   "shares": 5000.0,
+   "price": 44.0,
+   "value": 220000.0,
+   "acc": "0001019966-26-000004",
+   "filed": "2026-08-07"
+  },
+  {
    "ticker": "THRY",
    "company": "Thryv Holdings, Inc.",
    "insider": "PAULSON & CO. INC.",
@@ -2072,6 +2084,30 @@
    "filed": "2026-08-07"
   },
   {
+   "ticker": "CCB",
+   "company": "COASTAL FINANCIAL CORP",
+   "insider": "HOVDE STEVEN D",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 10000.0,
+   "price": 43.825,
+   "value": 438250.0,
+   "acc": "0001019966-26-000004",
+   "filed": "2026-08-07"
+  },
+  {
+   "ticker": "CCB",
+   "company": "COASTAL FINANCIAL CORP",
+   "insider": "Sprink Eric M",
+   "role": "CEO",
+   "date": "2026-08-06",
+   "shares": 10000.0,
+   "price": 44.45,
+   "value": 444500.0,
+   "acc": "0001299647-26-000020",
+   "filed": "2026-08-07"
+  },
+  {
    "ticker": "LUMN",
    "company": "Lumen Technologies, Inc.",
    "insider": "Johnson Kathleen E",
@@ -2154,6 +2190,18 @@
    "price": 0.3976,
    "value": 7952.0,
    "acc": "0001683168-26-006107",
+   "filed": "2026-08-07"
+  },
+  {
+   "ticker": "CCB",
+   "company": "COASTAL FINANCIAL CORP",
+   "insider": "Adams Christopher D",
+   "role": "Executive Chair",
+   "date": "2026-08-07",
+   "shares": 290.0,
+   "price": 45.15,
+   "value": 13093.5,
+   "acc": "0001743622-26-000004",
    "filed": "2026-08-07"
   },
   {
@@ -2282,6 +2330,11 @@
    "total_value": 1121524.62
   },
   {
+   "ticker": "CCB",
+   "insiders": 3,
+   "total_value": 1115843.5
+  },
+  {
    "ticker": "TSCO",
    "insiders": 2,
    "total_value": 552129.9
@@ -2324,7 +2377,6 @@
   }
  ],
  "seen": [
-  "0001891751-26-000008",
   "0001891792-26-000002",
   "0001892081-26-000002",
   "0001892579-26-000006",
@@ -4416,6 +4468,7 @@
   "0001935294-26-000003",
   "0001936727-26-000006",
   "0001937010-26-000008",
+  "0001937263-26-000008",
   "0001938359-26-000003",
   "0001938704-26-000004",
   "0001938861-26-000019",
