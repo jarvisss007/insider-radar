@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-10 21:26 UTC",
+ "updated_utc": "2026-08-10 21:58 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -3009,6 +3009,18 @@
    "filed": "2026-08-07"
   },
   {
+   "ticker": "MKZR",
+   "company": "MacKenzie Realty Capital, Inc.",
+   "insider": "PATTERSON CHARLES E. II",
+   "role": "General Counsel/Secretary",
+   "date": "2026-08-07",
+   "shares": 10000.0,
+   "price": 1.59,
+   "value": 15900.0,
+   "acc": "0001582328-26-000010",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "NWPP",
    "company": "NEW PEOPLES BANKSHARES INC",
    "insider": "White Blaine Scott II",
@@ -3043,6 +3055,18 @@
    "value": 25435.69,
    "acc": "0001493152-26-036700",
    "filed": "2026-08-07"
+  },
+  {
+   "ticker": "MRP",
+   "company": "Millrose Properties, Inc.",
+   "insider": "MIGOYA CARLOS A.",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 1000.0,
+   "price": 29.18,
+   "value": 29180.0,
+   "acc": "0001193125-26-342802",
+   "filed": "2026-08-10"
   },
   {
    "ticker": "PRTA",
@@ -3417,6 +3441,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "MKZR",
+   "company": "MacKenzie Realty Capital, Inc.",
+   "insider": "PATTERSON CHARLES E. II",
+   "role": "General Counsel/Secretary",
+   "date": "2026-08-10",
+   "shares": 23400.0,
+   "price": 1.6,
+   "value": 37440.0,
+   "acc": "0001582328-26-000010",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "CLNE",
    "company": "Clean Energy Fuels Corp.",
    "insider": "Corbus Barclay",
@@ -3438,6 +3474,18 @@
    "price": 35.35,
    "value": 74270.35,
    "acc": "0002146558-26-000006",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "MRP",
+   "company": "Millrose Properties, Inc.",
+   "insider": "Gorson Matthew B.",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 3000.0,
+   "price": 28.8,
+   "value": 86400.0,
+   "acc": "0001193125-26-342752",
    "filed": "2026-08-10"
   },
   {
@@ -3553,6 +3601,11 @@
    "total_value": 191968.82
   },
   {
+   "ticker": "MRP",
+   "insiders": 2,
+   "total_value": 115580.0
+  },
+  {
    "ticker": "BHRB",
    "insiders": 2,
    "total_value": 80618.0
@@ -3590,9 +3643,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-019461",
-  "0001918704-26-019462",
-  "0001918704-26-019463",
   "0001918704-26-019464",
   "0001918704-26-019465",
   "0001918704-26-019466",
@@ -5701,6 +5751,7 @@
   "0001965586-26-000017",
   "0001965920-26-000007",
   "0001966530-26-000010",
+  "0001966530-26-000012",
   "0001966857-26-000009",
   "0001966942-26-000004",
   "0001966946-26-000007",
@@ -6392,9 +6443,11 @@
   "0002073865-26-000005",
   "0002074644-26-000006",
   "0002074666-26-000006",
+  "0002074844-26-000012",
   "0002074905-26-000006",
   "0002075052-26-000004",
   "0002075704-26-000024",
+  "0002076000-26-000012",
   "0002076243-26-000002",
   "0002076715-26-000005",
   "0002076763-26-000006",
