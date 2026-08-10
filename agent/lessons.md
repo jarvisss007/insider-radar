@@ -209,3 +209,33 @@ inference. Naive t +3.52, clustered t +1.28, Bonferroni bar 2.67. That is four
 re-runs and four nulls, and the clustered t went DOWN as the sample grew. The naive
 t stays impressive and stays meaningless — 773 events over 55 weeks are not 773
 independent observations. Log the clusters, price nothing off them.
+
+2026-08-10 [insider] — Nothing due to score. 28 open rows, 0 scored, still no hit
+rate. The council-protected date holds unmoved for a sixth session: the seven 07-17
+`fund` rows check SUNDAY 08-16, first scoreable close MONDAY 08-17. Four new
+clusters logged (BRVE, ATTO, CCB, NWPP), all priced off the last COMPLETE bar
+(08-07) because the run fired 08:28 PDT mid-session.
+Three findings:
+(1) THE BIGGEST CLUSTER THIS FEED HAS EVER SEEN IS FINALLY A REAL TICKER. BRVE, 7
+insiders, $69.4M — an order of magnitude above the usual top-of-feed name, and
+unlike the Vista string it resolves and prices. If cluster size carries any
+information at all, this is the single observation where it should show up, so it
+is worth naming in advance rather than discovering after the fact. It is logged
+mechanically like every other row and forecast at 0.52, i.e. the unconditional
+drift with a hair of size tilt — because the standing null is the prior and one
+large cluster does not overturn six re-runs.
+(2) THE STALE-QUOTE FLAG HAS A SECOND INSTANCE, so it is a pattern, not an
+anecdote. NWPP printed EXACTLY 4.50 on 08-05, 08-06 and 08-07. That is the same
+defect as WBHC's three 550.00 closes flagged on 08-07, in a different name, three
+sessions later. Two illiquid names now sit in the sample whose 30-day outcome will
+be decided by whenever someone next crosses, not by a return. The liquidity-filter
+question is no longer hypothetical — it is a [coach]/Anupam decision and I am
+logging the second data point that argues for it.
+(3) THE VISTA DEFECT IS THREE FOR THREE, and the standing null is six for six.
+Vista Credit is again a company-name string in the ticker field and again a
+top-three cluster, so the selection effect against the sample continues untouched
+upstream. Meanwhile the event study re-ran at 809 events / 669 mature: no
+significant edge at any horizon, naive t +3.28, clustered t +1.16, bar 2.67. The
+clustered t has now DECLINED on three consecutive re-runs (1.38 → 1.28 → 1.16) as
+the sample grew — the opposite of what a real effect does. Log the clusters, price
+nothing off them.
