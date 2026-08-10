@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-10 20:39 UTC",
+ "updated_utc": "2026-08-10 21:10 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -2336,6 +2336,18 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "FBIN",
+   "company": "Fortune Brands Innovations, Inc.",
+   "insider": "Singh Jesse G",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-06",
+   "shares": 5281.0,
+   "price": 52.2301,
+   "value": 275827.16,
+   "acc": "0001193125-26-342627",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -2382,6 +2394,18 @@
    "value": 612680.0,
    "acc": "0001831269-26-000002",
    "filed": "2026-08-06"
+  },
+  {
+   "ticker": "FBIN",
+   "company": "Fortune Brands Innovations, Inc.",
+   "insider": "Singh Jesse G",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-06",
+   "shares": 14444.0,
+   "price": 51.4576,
+   "value": 743253.57,
+   "acc": "0001193125-26-342627",
+   "filed": "2026-08-10"
   },
   {
    "ticker": "VEON",
@@ -3165,6 +3189,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "GPOR",
+   "company": "GULFPORT ENERGY CORP",
+   "insider": "DELL'OSSO DOMENIC J JR",
+   "role": "President & CEO",
+   "date": "2026-08-07",
+   "shares": 1600.0,
+   "price": 160.61,
+   "value": 256976.0,
+   "acc": "0001504988-26-000012",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "SEIDMAN LAWRENCE B",
@@ -3225,6 +3261,18 @@
    "filed": "2026-08-07"
   },
   {
+   "ticker": "LINE",
+   "company": "Lineage, Inc.",
+   "insider": "LeMasters Robb A.",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-07",
+   "shares": 20000.0,
+   "price": 41.3319,
+   "value": 826638.0,
+   "acc": "0001645808-26-000002",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "PSN",
    "company": "PARSONS CORP",
    "insider": "Ball George L.",
@@ -3234,6 +3282,18 @@
    "price": 47.97,
    "value": 959400.0,
    "acc": "0001193125-26-342501",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "FBIN",
+   "company": "Fortune Brands Innovations, Inc.",
+   "insider": "Singh Jesse G",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-07",
+   "shares": 19560.0,
+   "price": 50.9336,
+   "value": 996261.22,
+   "acc": "0001193125-26-342627",
    "filed": "2026-08-10"
   },
   {
@@ -3518,7 +3578,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-019455",
   "0001918704-26-019456",
   "0001918704-26-019457",
   "0001918704-26-019458",
@@ -5524,6 +5583,7 @@
   "0001918704-26-023331",
   "0001918704-26-023332",
   "0001918704-26-023333",
+  "0001918704-26-023341",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
