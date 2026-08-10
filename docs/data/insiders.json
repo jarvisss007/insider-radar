@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-10 16:13 UTC",
+ "updated_utc": "2026-08-10 17:06 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -2144,6 +2144,30 @@
    "filed": "2026-08-07"
   },
   {
+   "ticker": "BOTJ",
+   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
+   "insider": "FOSTER WATT R JR",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 447.0,
+   "price": 28.01,
+   "value": 12520.47,
+   "acc": "0001437749-26-026718",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "BOTJ",
+   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
+   "insider": "BRYANT WILLIAM C III",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 650.0,
+   "price": 27.1,
+   "value": 17615.0,
+   "acc": "0001437749-26-026712",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -2190,6 +2214,18 @@
    "value": 59699.9,
    "acc": "0001437749-26-026192",
    "filed": "2026-08-06"
+  },
+  {
+   "ticker": "VEON",
+   "company": "VEON Ltd.",
+   "insider": "Fabela Augie K II",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 1174.0,
+   "price": 55.3048,
+   "value": 64927.84,
+   "acc": "0000905148-26-003544",
+   "filed": "2026-08-10"
   },
   {
    "ticker": "BHRB",
@@ -2286,6 +2322,18 @@
    "value": 612680.0,
    "acc": "0001831269-26-000002",
    "filed": "2026-08-06"
+  },
+  {
+   "ticker": "VEON",
+   "company": "VEON Ltd.",
+   "insider": "Fabela Augie K II",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 13826.0,
+   "price": 56.0547,
+   "value": 775012.28,
+   "acc": "0000905148-26-003544",
+   "filed": "2026-08-10"
   },
   {
    "ticker": "ABTC",
@@ -2925,6 +2973,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "SON",
+   "company": "SONOCO PRODUCTS CO",
+   "insider": "Coker R. Howard",
+   "role": "President & CEO",
+   "date": "2026-08-07",
+   "shares": 4345.0,
+   "price": 57.4099,
+   "value": 249446.02,
+   "acc": "0001225208-26-007040",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "SEIDMAN LAWRENCE B",
@@ -2934,6 +2994,18 @@
    "price": 66.62,
    "value": 262083.08,
    "acc": "0001505732-26-000106",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "VEON",
+   "company": "VEON Ltd.",
+   "insider": "Fabela Augie K II",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 5000.0,
+   "price": 56.0226,
+   "value": 280113.0,
+   "acc": "0000905148-26-003544",
    "filed": "2026-08-10"
   },
   {
@@ -3085,6 +3157,11 @@
    "total_value": 80618.0
   },
   {
+   "ticker": "BOTJ",
+   "insiders": 2,
+   "total_value": 30135.47
+  },
+  {
    "ticker": "NWPP",
    "insiders": 2,
    "total_value": 26969.8
@@ -3107,9 +3184,6 @@
   }
  ],
  "seen": [
-  "0001914275-26-000008",
-  "0001914999-26-000011",
-  "0001915220-26-000011",
   "0001916048-26-000009",
   "0001916473-26-000032",
   "0001916473-26-000034",
@@ -5132,6 +5206,9 @@
   "0001918704-26-023276",
   "0001918704-26-023277",
   "0001918704-26-023278",
+  "0001918704-26-023279",
+  "0001918704-26-023280",
+  "0001918704-26-023281",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
