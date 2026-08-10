@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-10 21:58 UTC",
+ "updated_utc": "2026-08-10 22:14 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -3021,6 +3021,30 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "MKZR",
+   "company": "MacKenzie Realty Capital, Inc.",
+   "insider": "DIXON ROBERT E",
+   "role": "CEO/President",
+   "date": "2026-08-07",
+   "shares": 10000.0,
+   "price": 1.59,
+   "value": 15900.0,
+   "acc": "0001582328-26-000012",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "MKZR",
+   "company": "MacKenzie Realty Capital, Inc.",
+   "insider": "FULLER GLEN W",
+   "role": "Treasurer",
+   "date": "2026-08-07",
+   "shares": 10000.0,
+   "price": 1.59,
+   "value": 15900.0,
+   "acc": "0001582328-26-000011",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "NWPP",
    "company": "NEW PEOPLES BANKSHARES INC",
    "insider": "White Blaine Scott II",
@@ -3222,6 +3246,18 @@
    "price": 57.4099,
    "value": 249446.02,
    "acc": "0001225208-26-007040",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "ET",
+   "company": "Energy Transfer LP",
+   "insider": "Perry James Richard",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 12359.372,
+   "price": 20.2276,
+   "value": 250000.43,
+   "acc": "0001193125-26-342811",
    "filed": "2026-08-10"
   },
   {
@@ -3453,6 +3489,30 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "MKZR",
+   "company": "MacKenzie Realty Capital, Inc.",
+   "insider": "DIXON ROBERT E",
+   "role": "CEO/President",
+   "date": "2026-08-10",
+   "shares": 23400.0,
+   "price": 1.6,
+   "value": 37440.0,
+   "acc": "0001582328-26-000012",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "MKZR",
+   "company": "MacKenzie Realty Capital, Inc.",
+   "insider": "FULLER GLEN W",
+   "role": "Treasurer",
+   "date": "2026-08-10",
+   "shares": 23400.0,
+   "price": 1.6,
+   "value": 37440.0,
+   "acc": "0001582328-26-000011",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "CLNE",
    "company": "Clean Energy Fuels Corp.",
    "insider": "Corbus Barclay",
@@ -3535,6 +3595,18 @@
    "value": 148999.07,
    "acc": "0001628280-26-055200",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "HUBS",
+   "company": "HUBSPOT INC",
+   "insider": "Dischler Gerald",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 925.0,
+   "price": 215.93,
+   "value": 199735.25,
+   "acc": "0001193125-26-342825",
+   "filed": "2026-08-10"
   }
  ],
  "clusters": [
@@ -3601,6 +3673,11 @@
    "total_value": 191968.82
   },
   {
+   "ticker": "MKZR",
+   "insiders": 3,
+   "total_value": 160020.0
+  },
+  {
    "ticker": "MRP",
    "insiders": 2,
    "total_value": 115580.0
@@ -3643,7 +3720,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-019464",
   "0001918704-26-019465",
   "0001918704-26-019466",
   "0001918704-26-019467",
@@ -6327,6 +6403,7 @@
   "0002051619-26-000018",
   "0002052034-26-000004",
   "0002052113-26-000768",
+  "0002052113-26-000810",
   "0002052319-26-000004",
   "0002052319-26-000006",
   "0002052319-26-000008",
