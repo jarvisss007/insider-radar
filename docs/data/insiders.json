@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-10 22:30 UTC",
+ "updated_utc": "2026-08-10 23:01 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -37,6 +37,30 @@
    "value": 16650.0,
    "acc": "0001213900-26-086696",
    "filed": "2026-08-07"
+  },
+  {
+   "ticker": "VALE",
+   "company": "Vale S.A.",
+   "insider": "Viana Madeira Andre",
+   "role": "Director",
+   "date": "2026-07-01",
+   "shares": 1.0,
+   "price": 15.02,
+   "value": 15.02,
+   "acc": "0001292814-26-004168",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "VALE",
+   "company": "Vale S.A.",
+   "insider": "Viana Madeira Andre",
+   "role": "Director",
+   "date": "2026-07-02",
+   "shares": 1.0,
+   "price": 15.06,
+   "value": 15.06,
+   "acc": "0001292814-26-004168",
+   "filed": "2026-08-10"
   },
   {
    "ticker": "VALE",
@@ -1015,6 +1039,18 @@
    "filed": "2026-08-04"
   },
   {
+   "ticker": "VALE",
+   "company": "Vale S.A.",
+   "insider": "Viana Madeira Andre",
+   "role": "Director",
+   "date": "2026-08-03",
+   "shares": 5.0,
+   "price": 14.63,
+   "value": 73.15,
+   "acc": "0001292814-26-004168",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "Miles Christen Brooke",
@@ -1207,6 +1243,18 @@
    "filed": "2026-08-04"
   },
   {
+   "ticker": "BWMX",
+   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "insider": "Campos Luis",
+   "role": "Director",
+   "date": "2026-08-03",
+   "shares": 3186.0,
+   "price": 17.0,
+   "value": 54162.0,
+   "acc": "0001213900-26-087391",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "COCP",
    "company": "Cocrystal Pharma, Inc.",
    "insider": "FROST PHILLIP MD ET AL",
@@ -1362,6 +1410,18 @@
    "value": 10.19,
    "acc": "0000070858-26-000411",
    "filed": "2026-08-06"
+  },
+  {
+   "ticker": "VALE",
+   "company": "Vale S.A.",
+   "insider": "Viana Madeira Andre",
+   "role": "Director",
+   "date": "2026-08-04",
+   "shares": 4.0,
+   "price": 14.99,
+   "value": 59.96,
+   "acc": "0001292814-26-004168",
+   "filed": "2026-08-10"
   },
   {
    "ticker": "TPL",
@@ -1590,6 +1650,18 @@
    "value": 358705.2,
    "acc": "0001663529-26-000011",
    "filed": "2026-08-06"
+  },
+  {
+   "ticker": "BWMX",
+   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "insider": "Campos Luis",
+   "role": "Director",
+   "date": "2026-08-04",
+   "shares": 21829.0,
+   "price": 17.0,
+   "value": 371093.0,
+   "acc": "0001213900-26-087391",
+   "filed": "2026-08-10"
   },
   {
    "ticker": "SITE",
@@ -2060,6 +2132,30 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "FRST",
+   "company": "Primis Financial Corp.",
+   "insider": "Weichert Margaret M",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 100.0,
+   "price": 16.27,
+   "value": 1627.0,
+   "acc": "0001193125-26-342883",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "FRST",
+   "company": "Primis Financial Corp.",
+   "insider": "Weichert Margaret M",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 100.0,
+   "price": 16.37,
+   "value": 1637.0,
+   "acc": "0001193125-26-342883",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -2189,6 +2285,18 @@
    "price": 27.1,
    "value": 17615.0,
    "acc": "0001437749-26-026712",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "shares": 15000.0,
+   "price": 1.2962,
+   "value": 19443.0,
+   "acc": "0000902664-26-003373",
    "filed": "2026-08-10"
   },
   {
@@ -2985,6 +3093,18 @@
    "filed": "2026-08-07"
   },
   {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-08-07",
+   "shares": 6490.0,
+   "price": 1.2977,
+   "value": 8422.07,
+   "acc": "0000902664-26-003373",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Wei Che-Chia",
@@ -3597,6 +3717,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "BLSM",
+   "company": "BlossomHill Therapeutics, Inc.",
+   "insider": "Schmid John P.",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 6000.0,
+   "price": 16.0,
+   "value": 96000.0,
+   "acc": "0001478916-26-000015",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "MATW",
    "company": "MATTHEWS INTERNATIONAL CORP",
    "insider": "SCHAWK DAVID A",
@@ -3643,6 +3775,18 @@
    "value": 199735.25,
    "acc": "0001193125-26-342825",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "BLSM",
+   "company": "BlossomHill Therapeutics, Inc.",
+   "insider": "Chen Bihua",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 312500.0,
+   "price": 16.0,
+   "value": 5000000.0,
+   "acc": "0001231919-26-000852",
+   "filed": "2026-08-10"
   }
  ],
  "clusters": [
@@ -3662,6 +3806,11 @@
    "insiders": 2,
    "total_value": 6229806.78,
    "other_value": 31149.03
+  },
+  {
+   "ticker": "BLSM",
+   "insiders": 4,
+   "total_value": 5181900.0
   },
   {
    "ticker": "GBFH",
@@ -3719,11 +3868,6 @@
    "total_value": 115580.0
   },
   {
-   "ticker": "BLSM",
-   "insiders": 2,
-   "total_value": 85900.0
-  },
-  {
    "ticker": "BHRB",
    "insiders": 2,
    "total_value": 80618.0
@@ -3761,7 +3905,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-019469",
   "0001918704-26-019470",
   "0001918704-26-019471",
   "0001918704-26-019472",
@@ -6617,6 +6760,7 @@
   "0002084264-26-000006",
   "0002084812-26-000013",
   "0002084956-26-000052",
+  "0002084956-26-000054",
   "0002085970-26-000005",
   "0002087126-26-000006",
   "0002087127-26-000004",
