@@ -250,6 +250,60 @@ def clusters(purchases):
     return sorted(out, key=lambda x: -x["total_value"])
 
 
+EXCLUSIONS = HERE / "agent" / "exclusions.csv"
+# A cluster whose issuer never resolved to a ticker (resolve_ticker() falls back to
+# "ISSUER NAME (CIK n)") has no tradeable bar, so event_study.py drops it at
+# `e["ticker"].isalpha()` and the agent declines to log it. Both are correct. What was
+# missing is the RECORD: INS-003 (council 2026-08-10) — VISTA CREDIT, $6.23M and third
+# in the feed, had been dropped for three sessions with a sentence in a markdown brief
+# as the only trace. That is a selection filter on the lab's own hypothesis test with no
+# log. This writes the filter down. It excludes nothing new and sets no size bar — the
+# criterion is purely "we cannot price it", which the pipeline had already decided.
+CLUSTER_NO_TICKER = re.compile(r"\(CIK ")
+
+
+def write_exclusions(cluster_rows, today=None):
+    """Upsert un-priceable clusters into agent/exclusions.csv. Returns rows written."""
+    today = today or datetime.date.today().isoformat()
+    cols = ["first_seen", "last_seen", "sessions", "ticker_raw", "cik",
+            "insiders", "total_value", "reason"]
+    prior = {}
+    if EXCLUSIONS.exists():
+        import csv as _csv
+        with EXCLUSIONS.open() as f:
+            for r in _csv.DictReader(f):
+                prior[r["ticker_raw"]] = r
+    for c in cluster_rows:
+        tk = c["ticker"]
+        if not CLUSTER_NO_TICKER.search(tk):
+            continue
+        m = re.search(r"\(CIK (\d+)\)", tk)
+        old = prior.get(tk)
+        prior[tk] = {
+            "first_seen": old["first_seen"] if old else today,
+            "last_seen": today,
+            # a cluster seen twice in one day is one session, not two
+            "sessions": str(int(old["sessions"]) + 1) if old and old["last_seen"] != today
+                        else (old["sessions"] if old else "1"),
+            "ticker_raw": tk,
+            "cik": m.group(1) if m else "",
+            "insiders": str(c.get("insiders", "")),
+            "total_value": f'{c.get("total_value", 0):.2f}',
+            "reason": "no ticker resolved from filing symbol, SEC CIK map or issuer name "
+                      "— no price series exists, so the cluster cannot be priced or scored",
+        }
+    if not prior:
+        return 0
+    import csv as _csv
+    EXCLUSIONS.parent.mkdir(parents=True, exist_ok=True)
+    with EXCLUSIONS.open("w", newline="") as f:
+        w = _csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        for r in sorted(prior.values(), key=lambda x: -float(x["total_value"] or 0)):
+            w.writerow({k: r.get(k, "") for k in cols})
+    return len(prior)
+
+
 def one_pass():
     state = load_existing()
     seen = set(state.get("seen", []))
@@ -307,8 +361,10 @@ def one_pass():
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(doc, indent=1))
+    n_ex = write_exclusions(doc["clusters"])
     print(f"[{datetime.datetime.now():%H:%M:%S}] pass done: +{new_p} purchases "
-          f"(+{new_s} sales ignored) · feed {len(purchases)} · clusters {len(doc['clusters'])}",
+          f"(+{new_s} sales ignored) · feed {len(purchases)} · clusters {len(doc['clusters'])}"
+          f" · excluded {n_ex}",
           flush=True)
     return new_p > 0
 
