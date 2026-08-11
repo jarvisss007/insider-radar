@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-11 22:56 UTC",
+ "updated_utc": "2026-08-11 23:28 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -3525,6 +3525,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "AMRC",
+   "company": "Ameresco, Inc.",
+   "insider": "Sakellaris George P",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-07",
+   "shares": 5000.0,
+   "price": 25.95,
+   "value": 129750.0,
+   "acc": "0001628280-26-055891",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "FRPH",
    "company": "FRP HOLDINGS, INC.",
    "insider": "Baker John D. III",
@@ -4153,6 +4165,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "AMRC",
+   "company": "Ameresco, Inc.",
+   "insider": "Sakellaris George P",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-10",
+   "shares": 1000.0,
+   "price": 25.27,
+   "value": 25270.0,
+   "acc": "0001628280-26-055891",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "LAW",
    "company": "CS Disco, Inc.",
    "insider": "Friedrichsen Eric",
@@ -4513,6 +4537,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "AMRC",
+   "company": "Ameresco, Inc.",
+   "insider": "Cox Brian C",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 39700.0,
+   "price": 25.07,
+   "value": 995279.0,
+   "acc": "0001628280-26-055890",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "LTGO",
    "company": "Latigo Biotherapeutics, Inc.",
    "insider": "Tananbaum James B.",
@@ -4594,6 +4630,18 @@
    "price": 15.2013,
    "value": 4682.0,
    "acc": "0001493152-26-037181",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "AMRC",
+   "company": "Ameresco, Inc.",
+   "insider": "Sakellaris George P",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-11",
+   "shares": 1000.0,
+   "price": 25.9,
+   "value": 25900.0,
+   "acc": "0001628280-26-055891",
    "filed": "2026-08-11"
   },
   {
@@ -4716,6 +4764,11 @@
    "total_value": 1742873.54
   },
   {
+   "ticker": "AMRC",
+   "insiders": 2,
+   "total_value": 1176199.0
+  },
+  {
    "ticker": "BBASX",
    "insiders": 2,
    "total_value": 1121524.62
@@ -4818,7 +4871,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020085",
   "0001918704-26-020086",
   "0001918704-26-020087",
   "0001918704-26-020088",
@@ -7775,6 +7827,7 @@
   "0002135960-26-000002",
   "0002136215-26-000006",
   "0002136327-26-000005",
+  "0002137024-26-000012",
   "0002137444-26-000007",
   "0002137699-26-000004",
   "0002137987-26-000003",
