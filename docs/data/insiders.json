@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-11 21:53 UTC",
+ "updated_utc": "2026-08-11 22:09 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -3961,6 +3961,18 @@
   {
    "ticker": "BRVE",
    "company": "Braveheart Bio, Inc.",
+   "insider": "AH Bio Fund IV, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-07",
+   "shares": 1100000.0,
+   "price": 18.0,
+   "value": 19800000.0,
+   "acc": "0001231919-26-000859",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "BRVE",
+   "company": "Braveheart Bio, Inc.",
    "insider": "Chimovits Erez",
    "role": "Director",
    "date": "2026-08-07",
@@ -4321,6 +4333,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "KMPR",
+   "company": "KEMPER Corp",
+   "insider": "Gorevic Jason N",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 5000.0,
+   "price": 25.91,
+   "value": 129550.0,
+   "acc": "0001208500-26-000004",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "CW",
    "company": "CURTISS WRIGHT CORP",
    "insider": "Lyash Jeffrey J.",
@@ -4573,6 +4597,30 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "KMPR",
+   "company": "KEMPER Corp",
+   "insider": "Camden Bradley T",
+   "role": "EVP and CFO",
+   "date": "2026-08-11",
+   "shares": 1000.0,
+   "price": 26.34,
+   "value": 26340.0,
+   "acc": "0001993636-26-000009",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "KMPR",
+   "company": "KEMPER Corp",
+   "insider": "LADERMAN GERALD",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 4000.0,
+   "price": 26.49,
+   "value": 105960.0,
+   "acc": "0001201007-26-000005",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "SMRT",
    "company": "SmartRent, Inc.",
    "insider": "Martell Frank",
@@ -4612,8 +4660,8 @@
  "clusters": [
   {
    "ticker": "BRVE",
-   "insiders": 9,
-   "total_value": 69394950.0,
+   "insiders": 10,
+   "total_value": 89194950.0,
    "other_value": 69840000.0
   },
   {
@@ -4679,6 +4727,11 @@
    "total_value": 279125.0
   },
   {
+   "ticker": "KMPR",
+   "insiders": 3,
+   "total_value": 261850.0
+  },
+  {
    "ticker": "WBHC",
    "insiders": 2,
    "total_value": 251351.4
@@ -4741,7 +4794,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020075",
   "0001918704-26-020076",
   "0001918704-26-020077",
   "0001918704-26-020078",
@@ -6908,6 +6960,7 @@
   "0001992104-26-000305",
   "0001992104-26-000306",
   "0001992808-26-000022",
+  "0001993636-26-000009",
   "0001993684-26-000006",
   "0001994071-26-000006",
   "0001994131-26-000008",
