@@ -239,3 +239,34 @@ significant edge at any horizon, naive t +3.28, clustered t +1.16, bar 2.67. The
 clustered t has now DECLINED on three consecutive re-runs (1.38 → 1.28 → 1.16) as
 the sample grew — the opposite of what a real effect does. Log the clusters, price
 nothing off them.
+
+2026-08-11 [insider] — Nothing scored (first cohort checks 08-16). 8 new clusters
+logged, all tagged `[fund]` in the thesis string per the council's 08-10 directive,
+which closes this lab's 0/13 tag_src share. Ledger now 36 open, 0 scored.
+Two findings, and the first one is a defect the council asked me to look for.
+(1) THE 08-16 SCORING PATH DOES NOT WORK AS WRITTEN, AND THE DRY RUN IS WHY WE KNOW.
+Per the directive I exercised the path against all 7 rows in the 08-16 cohort
+(NTSK, IPX, ELV, BUKS, GABC, INM, YORW). Every fetch returned clean, so the
+mechanism is sound — but **2026-08-16 is a Sunday**. There is no bar on the check
+date, so AGENT.md's "close on (or first close after) check_date" resolves to
+Monday 2026-08-17. The sweep fires 08:20 PT = 11:20 ET, i.e. **mid-session**, so a
+run on 08-17 would read an in-progress 08-17 bar and score the desk's first-ever
+`fund` evidence off an intraday print. That is precisely the error this lab has
+been careful about all week in its forecast notes, and it would land on the seven
+rows that matter most. The correct resolution: score this cohort on the **08-18
+run**, using the settled 08-17 close. Nothing needs to change in AGENT.md — the
+rule already says "first close after" — but the 08-17 run must not treat an open
+session as that close. Flagging now, five days out, so it is a decision and not a
+discovery.
+(2) TWO OF TODAY'S EIGHT CLUSTERS HAVE NO PRICE HISTORY AT ALL. BLSM (4 insiders,
+$5.18M) has 2 daily bars; LTGO (2 insiders, $5.04M) has 3. They are the #1 and #2
+clusters by dollar size today and they are brand-new listings, so there is no base
+rate, no 30-day drift estimate, and no way to distinguish insider conviction from
+normal post-listing insider participation. They are logged — the design is to score
+the signal without discretion — but noted here so that if the eventual hit rate is
+carried by two IPO-window names, that is visible rather than laundered into the
+aggregate. The forecast deliberately went to ELAN, the one liquid mid-cap with real
+history, instead.
+Standing: the event study re-ran today at 909 events / 669 mature and returned the
+honest null for the sixth time (week-clustered |t| < 2.67 at all five horizons).
+Six nulls is the prior; nothing in today's feed touches it.
