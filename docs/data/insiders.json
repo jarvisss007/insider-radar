@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-11 20:33 UTC",
+ "updated_utc": "2026-08-11 21:21 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -3825,6 +3825,18 @@
    "filed": "2026-08-07"
   },
   {
+   "ticker": "TXO",
+   "company": "TXO Partners, L.P.",
+   "insider": "SIMPSON BOB R",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 100000.0,
+   "price": 13.5189,
+   "value": 1351890.0,
+   "acc": "0001182684-26-000017",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
    "insider": "MALONE JOHN C",
@@ -3859,6 +3871,30 @@
    "value": 1499994.0,
    "acc": "0001470831-26-000798",
    "filed": "2026-08-07"
+  },
+  {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-07",
+   "shares": 150000.0,
+   "price": 15.0,
+   "value": 2250000.0,
+   "acc": "0001493152-26-037181",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-07",
+   "shares": 250000.0,
+   "price": 15.15,
+   "value": 3787500.0,
+   "acc": "0001493152-26-037181",
+   "filed": "2026-08-11"
   },
   {
    "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
@@ -3945,6 +3981,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "shares": 500.0,
+   "price": 15.222,
+   "value": 7611.0,
+   "acc": "0001493152-26-037181",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "RDGL",
    "company": "VIVOS INC",
    "insider": "Korenko Michael K",
@@ -4015,6 +4063,18 @@
    "value": 16381.96,
    "acc": "0001770071-26-000010",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "LAW",
+   "company": "CS Disco, Inc.",
+   "insider": "Friedrichsen Eric",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-10",
+   "shares": 7500.0,
+   "price": 4.26,
+   "value": 31950.0,
+   "acc": "0001625641-26-000165",
+   "filed": "2026-08-11"
   },
   {
    "ticker": "BLSM",
@@ -4317,6 +4377,30 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "PLNT",
+   "company": "Planet Fitness, Inc.",
+   "insider": "Spinelli Stephen JR",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 10000.0,
+   "price": 49.28,
+   "value": 492800.0,
+   "acc": "0001361944-26-000005",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "TXO",
+   "company": "TXO Partners, L.P.",
+   "insider": "SIMPSON BOB R",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 50000.0,
+   "price": 14.1652,
+   "value": 708260.0,
+   "acc": "0001182684-26-000017",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
    "insider": "MALONE JOHN C",
@@ -4353,6 +4437,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "shares": 250000.0,
+   "price": 15.75,
+   "value": 3937500.0,
+   "acc": "0001493152-26-037181",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "BLSM",
    "company": "BlossomHill Therapeutics, Inc.",
    "insider": "Chen Bihua",
@@ -4386,6 +4482,30 @@
    "price": 30.95,
    "value": 4642.5,
    "acc": "0001437749-26-027015",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 308.0,
+   "price": 15.2013,
+   "value": 4682.0,
+   "acc": "0001493152-26-037181",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "TXO",
+   "company": "TXO Partners, L.P.",
+   "insider": "SIMPSON BOB R",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 100000.0,
+   "price": 14.2748,
+   "value": 1427480.0,
+   "acc": "0001182684-26-000017",
    "filed": "2026-08-11"
   }
  ],
@@ -4520,15 +4640,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020060",
-  "0001918704-26-020061",
-  "0001918704-26-020062",
-  "0001918704-26-020063",
-  "0001918704-26-020064",
-  "0001918704-26-020065",
-  "0001918704-26-020066",
-  "0001918704-26-020067",
-  "0001918704-26-020068",
   "0001918704-26-020069",
   "0001918704-26-020070",
   "0001918704-26-020071",
@@ -6488,6 +6599,10 @@
   "0001918704-26-023473",
   "0001918704-26-023479",
   "0001918704-26-023480",
+  "0001918704-26-023485",
+  "0001918704-26-023489",
+  "0001918704-26-023490",
+  "0001918704-26-023491",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -6562,7 +6677,9 @@
   "0001951665-26-000018",
   "0001951665-26-000020",
   "0001951912-26-000005",
+  "0001951912-26-000007",
   "0001952636-26-000004",
+  "0001952898-26-000004",
   "0001954190-26-000005",
   "0001954327-26-000043",
   "0001954327-26-000046",
@@ -7139,6 +7256,7 @@
   "0002034012-26-000021",
   "0002034458-26-000006",
   "0002034458-26-000007",
+  "0002034782-26-000012",
   "0002034826-26-000008",
   "0002034870-26-000001",
   "0002034870-26-000002",
@@ -7146,6 +7264,8 @@
   "0002034870-26-000004",
   "0002034956-26-000010",
   "0002034984-26-000006",
+  "0002035446-26-000022",
+  "0002035754-26-000020",
   "0002035815-26-000004",
   "0002035875-26-000002",
   "0002035875-26-000004",
