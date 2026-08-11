@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-11 20:01 UTC",
+ "updated_utc": "2026-08-11 20:17 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -3309,6 +3309,30 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "CC",
+   "company": "Chemours Co",
+   "insider": "Foley Michael Robert",
+   "role": "See Remarks",
+   "date": "2026-08-07",
+   "shares": 1934.2313,
+   "price": 15.51,
+   "value": 29999.93,
+   "acc": "0001193125-26-344634",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "CC",
+   "company": "Chemours Co",
+   "insider": "Martinko Joseph T.",
+   "role": "See Remarks",
+   "date": "2026-08-07",
+   "shares": 1939.8014,
+   "price": 15.47,
+   "value": 30008.73,
+   "acc": "0001193125-26-344633",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
    "insider": "SCULLY WILLIAM P",
@@ -3441,6 +3465,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "CC",
+   "company": "Chemours Co",
+   "insider": "CRANSTON MARY B",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 6000.0,
+   "price": 15.825,
+   "value": 94950.0,
+   "acc": "0001193125-26-344632",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "ELAN",
    "company": "Elanco Animal Health Inc",
    "insider": "VanHimbergen Robert M",
@@ -3501,6 +3537,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "SUNS",
+   "company": "Sunrise Realty Trust, Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Executive Chairman",
+   "date": "2026-08-07",
+   "shares": 23109.0,
+   "price": 7.73,
+   "value": 178632.57,
+   "acc": "0001628280-26-055710",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "OBK",
    "company": "Origin Bancorp, Inc.",
    "insider": "Jones Cecil W.",
@@ -3511,6 +3559,18 @@
    "value": 199282.0,
    "acc": "0002040255-26-000006",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "CC",
+   "company": "Chemours Co",
+   "insider": "Cowan Alister",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 13000.0,
+   "price": 15.62,
+   "value": 203060.0,
+   "acc": "0001193125-26-344635",
+   "filed": "2026-08-11"
   },
   {
    "ticker": "ELAN",
@@ -3667,6 +3727,18 @@
    "value": 500400.0,
    "acc": "0001166152-26-000010",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "FISV",
+   "company": "FISERV INC",
+   "insider": "FRITZ LANCE M",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 10000.0,
+   "price": 51.95,
+   "value": 519500.0,
+   "acc": "0000798354-26-000033",
+   "filed": "2026-08-11"
   },
   {
    "ticker": "LINE",
@@ -4089,6 +4161,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "SUNS",
+   "company": "Sunrise Realty Trust, Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Executive Chairman",
+   "date": "2026-08-10",
+   "shares": 25000.0,
+   "price": 7.79,
+   "value": 194750.0,
+   "acc": "0001628280-26-055710",
+   "filed": "2026-08-11"
+  },
+  {
    "ticker": "CIA",
    "company": "CITIZENS, INC.",
    "insider": "Stenberg Jon",
@@ -4183,6 +4267,30 @@
    "value": 5000000.0,
    "acc": "0001231919-26-000852",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "CBKM",
+   "company": "CONSUMERS BANCORP INC /OH/",
+   "insider": "Bickerton David R",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 50.0,
+   "price": 31.25,
+   "value": 1562.5,
+   "acc": "0001437749-26-027015",
+   "filed": "2026-08-11"
+  },
+  {
+   "ticker": "CBKM",
+   "company": "CONSUMERS BANCORP INC /OH/",
+   "insider": "Bickerton David R",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 150.0,
+   "price": 30.95,
+   "value": 4642.5,
+   "acc": "0001437749-26-027015",
+   "filed": "2026-08-11"
   }
  ],
  "clusters": [
@@ -4232,6 +4340,11 @@
    "ticker": "TSCO",
    "insiders": 2,
    "total_value": 552129.9
+  },
+  {
+   "ticker": "CC",
+   "insiders": 5,
+   "total_value": 408067.66
   },
   {
    "ticker": "AHCO",
@@ -4311,11 +4424,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020050",
-  "0001918704-26-020051",
-  "0001918704-26-020052",
-  "0001918704-26-020053",
-  "0001918704-26-020054",
   "0001918704-26-020055",
   "0001918704-26-020056",
   "0001918704-26-020057",
@@ -6328,11 +6436,13 @@
   "0001933414-26-000100",
   "0001934188-26-000002",
   "0001934887-26-000002",
+  "0001934960-26-000011",
   "0001934972-26-000004",
   "0001935294-26-000003",
   "0001936727-26-000006",
   "0001937010-26-000008",
   "0001937263-26-000008",
+  "0001938261-26-000008",
   "0001938359-26-000003",
   "0001938704-26-000004",
   "0001938861-26-000019",
@@ -6876,6 +6986,7 @@
   "0002014191-26-000014",
   "0002014240-26-000006",
   "0002014440-26-000010",
+  "0002014560-26-000008",
   "0002014633-26-000014",
   "0002015793-26-000012",
   "0002015968-26-000006",
@@ -6889,6 +7000,7 @@
   "0002020287-26-000002",
   "0002021233-26-000012",
   "0002021238-26-000010",
+  "0002021896-26-000008",
   "0002022654-26-000004",
   "0002023454-26-000004",
   "0002023657-26-000005",
@@ -6961,6 +7073,7 @@
   "0002040255-26-000006",
   "0002040815-26-000018",
   "0002041211-26-000014",
+  "0002043233-26-000006",
   "0002043764-26-000006",
   "0002043885-26-000006",
   "0002044800-26-000006",
