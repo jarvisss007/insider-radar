@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-10 23:48 UTC",
+ "updated_utc": "2026-08-11 00:19 UTC",
  "purchases": [
   {
    "ticker": "BPRN",
@@ -2468,6 +2468,30 @@
    "filed": "2026-08-06"
   },
   {
+   "ticker": "AHCO",
+   "company": "AdaptHealth Corp.",
+   "insider": "WOLF DALE B",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 20000.0,
+   "price": 6.37,
+   "value": 127400.0,
+   "acc": "0001104659-26-093575",
+   "filed": "2026-08-10"
+  },
+  {
+   "ticker": "AHCO",
+   "company": "AdaptHealth Corp.",
+   "insider": "SAMET KENNETH A",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 23500.0,
+   "price": 6.38,
+   "value": 149930.0,
+   "acc": "0001104659-26-093576",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "CLEMONS JAMES RANDALL",
@@ -3393,6 +3417,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "AHCO",
+   "company": "AdaptHealth Corp.",
+   "insider": "WOLF DALE B",
+   "role": "Director",
+   "date": "2026-08-07",
+   "shares": 20000.0,
+   "price": 5.86,
+   "value": 117200.0,
+   "acc": "0001104659-26-093575",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
    "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
@@ -3945,6 +3981,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "LTGO",
+   "company": "Latigo Biotherapeutics, Inc.",
+   "insider": "Tananbaum James B.",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 140000.0,
+   "price": 18.0,
+   "value": 2520000.0,
+   "acc": "0001581754-26-000006",
+   "filed": "2026-08-10"
+  },
+  {
    "ticker": "BLSM",
    "company": "BlossomHill Therapeutics, Inc.",
    "insider": "Chen Bihua",
@@ -3999,6 +4047,11 @@
    "ticker": "TSCO",
    "insiders": 2,
    "total_value": 552129.9
+  },
+  {
+   "ticker": "AHCO",
+   "insiders": 2,
+   "total_value": 394530.0
   },
   {
    "ticker": "ELAN",
