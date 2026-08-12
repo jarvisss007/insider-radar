@@ -193,3 +193,20 @@ never make it blind to something it already caught.**
 
 `price_at_call` is UNCHANGED. Redefining it would rewrite reference prices on
 rows already written, which BENCH-002 forbids.
+
+
+## Hypothesis registry (2026-08-12)
+
+`REGISTRY.md` holds this lab's pre-registered hypotheses and the standing verdict
+they sit on top of. Read it before citing any insider result.
+
+The standing verdict is the important part: **there is no established insider
+edge.** 669 events, median abnormal −0.010%, win rate 49.6%, week-clustered
+t=1.31, bootstrap 95% CI [-0.36%, +1.90%] — containing zero. The headline t≥2 was
+an artifact of treating clustered events as independent.
+
+Three hypotheses are registered (the $100k stratum, the placebo gap, the
+second-half strengthening), all tested on FORWARD events only, none on the 669
+that suggested them. **Open marks are never evidence for any of them.** On
+2026-08-12 this book showed +2.89% mean on open rows with 0 scored — a number
+with no benchmark, no survivorship charge, and no resolved outcome behind it.
