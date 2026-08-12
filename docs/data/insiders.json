@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-12 20:22 UTC",
+ "updated_utc": "2026-08-12 20:38 UTC",
  "purchases": [
-  {
-   "ticker": "COSM",
-   "company": "Cosmos Health Inc.",
-   "insider": "Siokas Grigorios",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-29",
-   "shares": 766284.0,
-   "price": 0.1827,
-   "value": 140000.09,
-   "acc": "0001477932-26-004606",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "XAIR",
-   "company": "Beyond Air, Inc.",
-   "insider": "Goodman Robert Scott",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-29",
-   "shares": 34722.0,
-   "price": 5.76,
-   "value": 199998.72,
-   "acc": "0001493152-26-035702",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "ARTV",
-   "company": "Artiva Biotherapeutics, Inc.",
-   "insider": "RA CAPITAL MANAGEMENT, L.P.",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 20824.0,
-   "price": 9.99,
-   "value": 208031.76,
-   "acc": "0001231919-26-000817",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "BBASX",
-   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
-   "insider": "BROWN BROTHERS HARRIMAN CREDIT PARTNERS, LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 20464.956,
-   "price": 10.9622,
-   "value": 224340.94,
-   "acc": "0000929638-26-002848",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "HDSN",
-   "company": "HUDSON TECHNOLOGIES INC /NY",
-   "insider": "Hartree Partners, LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 52104.0,
-   "price": 5.99,
-   "value": 312102.96,
-   "acc": "0000921895-26-001914",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "BBASX",
-   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
-   "insider": "AMG New York Holdings Corp.",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 81859.825,
-   "price": 10.96,
-   "value": 897183.68,
-   "acc": "0001193125-26-328053",
-   "filed": "2026-07-31"
-  },
   {
    "ticker": "COE",
    "company": "51Talk Online Education Group",
@@ -3590,6 +3518,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "PRMB",
+   "company": "Primo Brands Corp",
+   "insider": "FOSS ERIC J",
+   "role": "Exec. Chair and CEO",
+   "date": "2026-08-10",
+   "shares": 100.0,
+   "price": 24.3,
+   "value": 2430.0,
+   "acc": "0001493152-26-037375",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "PFSA",
    "company": "Profusa, Inc.",
    "insider": "HRT FINANCIAL LP",
@@ -3780,6 +3720,18 @@
    "value": 25270.0,
    "acc": "0001628280-26-055891",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "STRZ",
+   "company": "STARZ ENTERTAINMENT CORP /CN/",
+   "insider": "Kapenstein James M.",
+   "role": "SEE REMARKS",
+   "date": "2026-08-10",
+   "shares": 1000.0,
+   "price": 25.73,
+   "value": 25730.0,
+   "acc": "0002140162-26-000006",
+   "filed": "2026-08-12"
   },
   {
    "ticker": "LAW",
@@ -4262,6 +4214,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "PRMB",
+   "company": "Primo Brands Corp",
+   "insider": "FOSS ERIC J",
+   "role": "Exec. Chair and CEO",
+   "date": "2026-08-10",
+   "shares": 83900.0,
+   "price": 23.7967,
+   "value": 1996543.13,
+   "acc": "0001493152-26-037375",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4523,6 +4487,18 @@
    "price": 21.67,
    "value": 18896.24,
    "acc": "0001437749-26-027263",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "CRBP",
+   "company": "Corbus Pharmaceuticals Holdings, Inc.",
+   "insider": "Saxena Nishant C",
+   "role": "Chief Business Officer",
+   "date": "2026-08-11",
+   "shares": 2600.0,
+   "price": 9.6294,
+   "value": 25036.44,
+   "acc": "0001193125-26-346966",
    "filed": "2026-08-12"
   },
   {
@@ -4790,6 +4766,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "OVBC",
+   "company": "OHIO VALLEY BANC CORP",
+   "insider": "Michael Seth Isaac",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 67.4321,
+   "price": 44.4892,
+   "value": 3000.0,
+   "acc": "0000894671-26-000050",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "WES",
    "company": "Western Midstream Partners, LP",
    "insider": "Forthuber Frederick A.",
@@ -4799,6 +4787,18 @@
    "price": 48.62,
    "value": 249906.8,
    "acc": "0001423902-26-000095",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "PTLO",
+   "company": "Portillo's Inc.",
+   "insider": "LEE EUGENE I JR",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 65355.0,
+   "price": 4.59,
+   "value": 299979.45,
+   "acc": "0001242843-26-000010",
    "filed": "2026-08-12"
   },
   {
@@ -4863,11 +4863,6 @@
    "total_value": 1176199.0
   },
   {
-   "ticker": "BBASX",
-   "insiders": 2,
-   "total_value": 1121524.62
-  },
-  {
    "ticker": "CCB",
    "insiders": 3,
    "total_value": 1115843.5
@@ -4906,6 +4901,11 @@
    "ticker": "SAGT",
    "insiders": 2,
    "total_value": 279125.0
+  },
+  {
+   "ticker": "STRZ",
+   "insiders": 2,
+   "total_value": 273730.0
   },
   {
    "ticker": "WBHC",
@@ -4985,13 +4985,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020402",
-  "0001918704-26-020403",
-  "0001918704-26-020404",
-  "0001918704-26-020405",
-  "0001918704-26-020406",
-  "0001918704-26-020407",
-  "0001918704-26-020408",
   "0001918704-26-020409",
   "0001918704-26-020410",
   "0001918704-26-020411",
@@ -6899,6 +6892,8 @@
   "0001918704-26-023589",
   "0001918704-26-023596",
   "0001918704-26-023597",
+  "0001918704-26-023602",
+  "0001918704-26-023603",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7088,6 +7083,7 @@
   "0001979234-26-000005",
   "0001979917-26-000023",
   "0001980648-26-000019",
+  "0001981393-26-000008",
   "0001981412-26-000001",
   "0001981592-26-000001",
   "0001983112-26-000008",
@@ -7505,6 +7501,7 @@
   "0002012427-26-000004",
   "0002012721-26-000006",
   "0002012793-26-000004",
+  "0002013412-26-000003",
   "0002013812-26-000012",
   "0002013812-26-000019",
   "0002013944-26-000003",
@@ -7677,6 +7674,7 @@
   "0002061268-26-000011",
   "0002061361-26-000009",
   "0002061361-26-000011",
+  "0002061394-26-000008",
   "0002061480-26-000004",
   "0002061670-26-000069",
   "0002061801-26-000011",
@@ -7694,6 +7692,7 @@
   "0002064538-26-000002",
   "0002064832-26-000250",
   "0002064832-26-000266",
+  "0002064832-26-000268",
   "0002064953-26-000088",
   "0002065340-26-000017",
   "0002065675-26-000004",
@@ -7947,6 +7946,7 @@
   "0002138368-26-000005",
   "0002139240-26-000002",
   "0002139756-26-000006",
+  "0002140162-26-000006",
   "0002140626-26-000006",
   "0002141303-26-000005",
   "0002141496-26-000001",
