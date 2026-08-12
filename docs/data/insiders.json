@@ -1,115 +1,6 @@
 {
- "updated_utc": "2026-08-12 22:14 UTC",
+ "updated_utc": "2026-08-12 22:45 UTC",
  "purchases": [
-  {
-   "ticker": "BMI",
-   "company": "BADGER METER INC",
-   "insider": "Callahan Edward F.",
-   "role": "VP-Engineering",
-   "date": "2026-07-30",
-   "shares": 751.0,
-   "price": 135.2489,
-   "value": 101571.92,
-   "acc": "0001193125-26-328240",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "IONS",
-   "company": "IONIS PHARMACEUTICALS INC",
-   "insider": "Hayden Michael R",
-   "role": "Director",
-   "date": "2026-07-30",
-   "shares": 15000.0,
-   "price": 53.38,
-   "value": 800700.0,
-   "acc": "0000874015-26-000254",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "ONMD",
-   "company": "OneMedNet Corp",
-   "insider": "Kosasa Thomas",
-   "role": "Director",
-   "date": "2026-07-30",
-   "shares": 1449275.0,
-   "price": 0.69,
-   "value": 999999.75,
-   "acc": "0001493152-26-036660",
-   "filed": "2026-08-07",
-   "placement": true
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-30",
-   "shares": 194460.0,
-   "price": 17.21,
-   "value": 3346656.6,
-   "acc": "0002029760-26-000005",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "MLPT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Catalyst4, Inc.",
-   "role": "10% owner",
-   "date": "2026-07-30",
-   "shares": 1000000.0,
-   "price": 13.0,
-   "value": 13000000.0,
-   "acc": "0001900201-26-000003",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "USVC VENTURE CAPITAL ACCESS FUND (CIK 1858660)",
-   "company": "USVC Venture Capital Access Fund",
-   "insider": "Syvertsen Erik",
-   "role": "President and CEO",
-   "date": "2026-07-31",
-   "shares": 44.543,
-   "price": 22.01,
-   "value": 980.39,
-   "acc": "0000945621-26-000976",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-07-31",
-   "shares": 441.0,
-   "price": 4.864,
-   "value": 2145.02,
-   "acc": "0001628280-26-051497",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-07-31",
-   "shares": 20000.0,
-   "price": 0.2895,
-   "value": 5790.0,
-   "acc": "0001683168-26-005990",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "BHRB",
-   "company": "Burke & Herbert Financial Services Corp.",
-   "insider": "WILSON DAVID",
-   "role": "Director",
-   "date": "2026-07-31",
-   "shares": 100.0,
-   "price": 73.68,
-   "value": 7368.0,
-   "acc": "0001208842-26-000008",
-   "filed": "2026-08-04"
-  },
   {
    "ticker": "SAGT",
    "company": "SAGTEC GLOBAL Ltd",
@@ -205,6 +96,18 @@
    "value": 10870000.0,
    "acc": "0001846718-26-000015",
    "filed": "2026-08-04"
+  },
+  {
+   "ticker": "AWRE",
+   "company": "AWARE INC /MA/",
+   "insider": "Amlani Ajay K",
+   "role": "President & CEO",
+   "date": "2026-08-01",
+   "shares": 109.0,
+   "price": 1.25,
+   "value": 136.25,
+   "acc": "0001193125-26-347341",
+   "filed": "2026-08-12"
   },
   {
    "ticker": "VALE",
@@ -4178,6 +4081,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "GLIBK",
+   "company": "Liberty Capital Corp/NV",
+   "insider": "MALONE JOHN C",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 147050.0,
+   "price": 24.5058,
+   "value": 3603577.89,
+   "acc": "0001225208-26-007097",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "QVCG",
    "company": "QVC Group, Inc.",
    "insider": "GOLDENTREE ASSET MANAGEMENT LP",
@@ -4212,6 +4127,18 @@
    "value": 5000000.0,
    "acc": "0001231919-26-000852",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "GLIBK",
+   "company": "Liberty Capital Corp/NV",
+   "insider": "MALONE JOHN C",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 259680.0,
+   "price": 25.0802,
+   "value": 6512826.34,
+   "acc": "0001225208-26-007097",
+   "filed": "2026-08-12"
   },
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
@@ -4392,6 +4319,18 @@
    "price": 7.37,
    "value": 5527.5,
    "acc": "0001628280-26-056349",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AWRE",
+   "company": "AWARE INC /MA/",
+   "insider": "Amlani Ajay K",
+   "role": "President & CEO",
+   "date": "2026-08-11",
+   "shares": 5000.0,
+   "price": 1.25,
+   "value": 6250.0,
+   "acc": "0001193125-26-347341",
    "filed": "2026-08-12"
   },
   {
@@ -4635,6 +4574,30 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "ALTO",
+   "company": "Alto Ingredients, Inc.",
+   "insider": "NATHAN GILBERT E",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 50000.0,
+   "price": 4.15,
+   "value": 207500.0,
+   "acc": "0001213900-26-088530",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "VIA",
+   "company": "Via Transportation, Inc.",
+   "insider": "Peres Nechemia Jacob",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 10080.0,
+   "price": 24.7391,
+   "value": 249370.13,
+   "acc": "0001628280-26-056412",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "APTV",
    "company": "Aptiv PLC",
    "insider": "Mahoney Sean O",
@@ -4719,6 +4682,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "GLIBK",
+   "company": "Liberty Capital Corp/NV",
+   "insider": "MALONE JOHN C",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 68800.0,
+   "price": 25.2246,
+   "value": 1735452.48,
+   "acc": "0001225208-26-007097",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4752,6 +4727,18 @@
    "price": 216.3966,
    "value": 45826524.38,
    "acc": "0001104659-26-094887",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AWRE",
+   "company": "AWARE INC /MA/",
+   "insider": "Amlani Ajay K",
+   "role": "President & CEO",
+   "date": "2026-08-12",
+   "shares": 994.0,
+   "price": 1.23,
+   "value": 1222.62,
+   "acc": "0001193125-26-347341",
    "filed": "2026-08-12"
   },
   {
@@ -4812,6 +4799,18 @@
    "price": 26.34,
    "value": 1000920.0,
    "acc": "0001225208-26-007083",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "GLIBK",
+   "company": "Liberty Capital Corp/NV",
+   "insider": "MALONE JOHN C",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 66702.0,
+   "price": 25.5708,
+   "value": 1705623.5,
+   "acc": "0001225208-26-007097",
    "filed": "2026-08-12"
   }
  ],
@@ -4950,11 +4949,6 @@
    "total_value": 115580.0
   },
   {
-   "ticker": "BHRB",
-   "insiders": 2,
-   "total_value": 80618.0
-  },
-  {
    "ticker": "BOTJ",
    "insiders": 3,
    "total_value": 32840.47
@@ -4997,11 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020445",
-  "0001918704-26-020446",
-  "0001918704-26-020447",
-  "0001918704-26-020448",
-  "0001918704-26-020449",
   "0001918704-26-020450",
   "0001918704-26-020451",
   "0001918704-26-020452",
@@ -7079,6 +7068,8 @@
   "0001981393-26-000008",
   "0001981412-26-000001",
   "0001981592-26-000001",
+  "0001981599-26-000117",
+  "0001981599-26-000118",
   "0001983112-26-000008",
   "0001983680-26-000001",
   "0001983938-26-000006",
@@ -7573,6 +7564,7 @@
   "0002034458-26-000006",
   "0002034458-26-000007",
   "0002034782-26-000012",
+  "0002034782-26-000017",
   "0002034826-26-000008",
   "0002034870-26-000001",
   "0002034870-26-000002",
@@ -7821,6 +7813,7 @@
   "0002080588-26-000005",
   "0002080671-26-000014",
   "0002080878-26-000012",
+  "0002081396-26-000008",
   "0002081604-26-000008",
   "0002081627-26-000013",
   "0002082975-26-000008",
@@ -7965,6 +7958,7 @@
   "0002141655-26-000008",
   "0002141713-26-000004",
   "0002141901-26-000005",
+  "0002141966-26-000002",
   "0002142092-26-000004",
   "0002142208-26-000015",
   "0002142262-26-000006",
