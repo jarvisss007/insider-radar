@@ -68,21 +68,47 @@ def is_stale(closes, sessions: int = STALE_SESSIONS) -> bool:
 
     A flat tape does not print the same number three sessions running. A name
     that did not trade does — the vendor carries the last print forward.
+
+    INS-006 (2026-08-12): the window now ends at the CALL DATE rather than the day
+    before it, so that a quote frozen only on the call date is visible. But
+    checking just the final `sessions` bars of that widened window would SLIDE it
+    forward and drop the oldest bar — implemented that way, NWPP flipped yes->no
+    even though the lab had recorded it printing exactly 4.50 on 08-05, 06 and 07.
+    Widening a detector must never make it blind to something it already caught.
+
+    So the test is now: does ANY run of `sessions` consecutive identical closes
+    appear anywhere in the window? That is strictly more sensitive than the old
+    tail-only check and cannot turn an existing `yes` into a `no`.
     """
-    vals = [c for c in closes if c is not None]
+    vals = [round(float(c), 2) for c in closes if c is not None]
     if len(vals) < sessions:
         return False
-    tail = [round(float(v), 2) for v in vals[-sessions:]]
-    return len(set(tail)) == 1
+    for i in range(len(vals) - sessions + 1):
+        if len(set(vals[i:i + sessions])) == 1:
+            return True
+    return False
 
 
 def closes_before(ticker: str, asof: str | None = None, rng: str = "3mo"):
-    """Complete daily closes strictly BEFORE `asof` (YYYY-MM-DD, default today).
+    """Complete daily closes up to and INCLUDING `asof` (YYYY-MM-DD, default today).
 
-    Strictly before, not up to and including, for the same reason AGENT.md
-    prices calls off the last COMPLETE bar: these runs fire mid-session, so the
-    call-date bar is intraday and unusable. Excluding it also means this
-    function can never see a price at or after the call it describes.
+    INS-006, ruled by Anupam 2026-08-12. This was strictly-before until then, and
+    that left the freshness check unable to see the bar the reference price
+    actually came from: AGENT.md defines price_at_call as the "latest daily
+    close", and on NTSK that was 13.59 — the settled close of the CALL DATE
+    itself — while this window read only 14.27 / 13.25 / 13.50 from the three
+    days before. A quote that froze only ON the call date was therefore
+    invisible to the exact check written to catch frozen quotes.
+
+    The window now includes the call-date bar. The alternative fix — redefining
+    price_at_call as the last COMPLETE close — was rejected because it rewrites
+    reference prices on rows already written, which BENCH-002 forbids.
+
+    Still safe against lookahead: this only ever reads CLOSES on or before the
+    call date, never a price after it. A same-day run fires mid-session and the
+    call-date bar is then incomplete, which shows up as a live intraday value
+    rather than a settled close — the same condition the lab already discloses,
+    and never a future price.
     """
     req = urllib.request.Request(CHART.format(t=ticker, r=rng),
                                  headers={"User-Agent": "Mozilla/5.0"})
@@ -96,7 +122,7 @@ def closes_before(ticker: str, asof: str | None = None, rng: str = "3mo"):
         if c is None:
             continue
         day = date.fromtimestamp(ts).isoformat()
-        if day < cutoff:
+        if day <= cutoff:          # INS-006: was `<`
             out.append((day, round(float(c), 2)))
     return out
 
@@ -114,9 +140,16 @@ def flag_for(ticker: str, asof: str | None = None,
         return "", f"{ticker}: no series ({type(e).__name__})"
     if len(series) < sessions:
         return "", f"{ticker}: only {len(series)} complete bars, cannot establish"
-    tail = series[-sessions:]
+    # INS-006: the window ends at the call date, so it must be LONGER than the run
+    # being looked for — otherwise widening it merely slides it forward and drops
+    # the oldest bar. Implemented that way first, and NWPP flipped yes->no despite
+    # the lab having recorded it printing exactly 4.50 on 08-05, 06 and 07: the
+    # slice had moved to 08-06..08-10 and could no longer see the freeze. A window
+    # of sessions+1 holds both the run before the call date and the call-date bar,
+    # and is_stale() scans it for a run anywhere rather than only at its tail.
+    tail = series[-(sessions + 1):]
     vals = [c for _, c in tail]
-    flag = "yes" if len(set(vals)) == 1 else "no"
+    flag = "yes" if is_stale(vals, sessions) else "no"
     span = f"{tail[0][0]}..{tail[-1][0]}"
     return flag, f"{ticker}: closes {vals} over {span} -> stale_quote={flag}"
 

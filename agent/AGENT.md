@@ -146,3 +146,39 @@ setting `outcome` to 1 (YES) or 0 (NO), mechanically. Then run:
 
 You are graded on **calibration, not on being right.** Saying 60% and being
 wrong is fine. Saying 90% and being wrong repeatedly is not.
+
+## Cluster size — the $100k stratum (Anupam, 2026-08-12, INS-002)
+
+Ruled four days before the first seven rows score, deliberately: a size bar set
+after outcomes are visible would be threshold-tuning on realised results.
+
+**Log every cluster, whatever its size.** A row not logged is gone forever, and
+the council confirmed a size bar would have excluded nothing yet scored.
+
+**But the headline hit rate is computed on clusters >= $100,000 only.** Rows below
+that are reported SEPARATELY and are NEVER blended into it. The book spans $22.0M
+down to $0.03M — three orders of magnitude — and a $300 purchase (RGCO, 08-06)
+cannot express the conviction the signal hypothesis is about; BHRB $0.08M and
+NWPP $0.027M are the same. $100k was chosen on that principle, not on any outcome:
+large enough to read as a considered investment decision rather than an
+administrative purchase.
+
+Never report a blended figure across the two strata. If asked for "the" insider
+hit rate, give both with their n.
+
+## Staleness window (Anupam, 2026-08-12, INS-006)
+
+The window now ends at the CALL DATE rather than the day before it, so a quote
+frozen only on the call date is visible — `price_at_call` is the "latest daily
+close", which on NTSK was the call date's own settled close (13.59), a bar the
+old check never looked at.
+
+The window is `STALE_SESSIONS + 1` bars and is SCANNED for a run of identical
+closes anywhere inside it, not just at its tail. That detail is the whole fix:
+implemented as a plain tail check on a widened window, NWPP flipped yes->no even
+though the lab had recorded it printing exactly 4.50 on 08-05, 06 and 07 — the
+slice had simply moved forward and dropped the freeze. **Widening a detector must
+never make it blind to something it already caught.**
+
+`price_at_call` is UNCHANGED. Redefining it would rewrite reference prices on
+rows already written, which BENCH-002 forbids.
