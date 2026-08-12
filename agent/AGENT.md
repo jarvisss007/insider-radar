@@ -166,6 +166,17 @@ administrative purchase.
 Never report a blended figure across the two strata. If asked for "the" insider
 hit rate, give both with their n.
 
+**Implemented in `agent/strata.py`** (2026-08-12). Run it whenever the ledger is
+scored; it splits headline / sub-floor / unknown and prints no combined figure by
+construction. An UNPARSEABLE cluster size reports as `unknown`, never as
+sub-floor — an unknown must not be silently sorted into the small bucket where it
+would look like a deliberate decision.
+
+Measured effect on the first cohort: of the 7 rows checking 2026-08-16, **5 are
+headline (NTSK, IPX, ELV, BUKS, GABC) and 2 are sub-floor (INM and YORW, $30,000
+each)**. Without the ruling those two would have gone straight into the desk's
+first insider result.
+
 ## Staleness window (Anupam, 2026-08-12, INS-006)
 
 The window now ends at the CALL DATE rather than the day before it, so a quote
