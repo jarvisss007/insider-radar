@@ -44,13 +44,41 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
 5. **Log new clusters**: for each entry in `clusters` in `docs/data/insiders.json`
    whose ticker does NOT already have an open (outcome-empty) row in the
    ledger: append one row —
-   `date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome`
+   `date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote`
    with `call = long`, `check_date = date + 30 calendar days`,
    `price_at_call` = latest daily close from the Yahoo endpoint above,
    thesis under 15 words STARTING with `[insider]` (state insider count and
-   total value, e.g. `[insider] 2 insiders bought $22.0M within 14d`), last
-   two fields empty. One open row per ticker at a time; a ticker may be
-   re-logged after its prior row is scored.
+   total value, e.g. `[insider] 2 insiders bought $22.0M within 14d`),
+   `price_at_check` and `outcome` empty, and `stale_quote` filled per the
+   section below — **every run, no exceptions**. One open row per ticker at a
+   time; a ticker may be re-logged after its prior row is scored.
+
+   **`stale_quote` — mandatory disclosure, decided at CALL time.** For each
+   row you log, run:
+
+   ```
+   /opt/anaconda3/bin/python agent/stale_quote.py --check TICKER --asof YYYY-MM-DD
+   ```
+
+   (`--asof` = the call date; the tool reads only COMPLETE bars strictly
+   before it, so it can never see the outcome.) Write the printed value —
+   `yes`, `no`, or empty — into the row's `stale_quote` field. Empty means the
+   series could not be established (unreachable ticker, brand-new listing with
+   under 3 bars); an empty cell is honest, a guessed one is not. Never leave
+   the field off, and never fill it from memory or by eye.
+
+   Why: WBHC was priced off a quote printing exactly 550.00 for three sessions
+   and NWPP off 4.50 for three sessions. Both were caught — in brief prose,
+   which no scoring script can read. Without a column, the person scoring on
+   the due date has to decide THEN which references were frozen, i.e. after the
+   outcomes are visible. This field removes that judgement.
+
+   It is a DISCLOSURE column and nothing else. It changes no bar, drops no row,
+   excludes nothing, and scores nothing differently — step 2 still marks
+   `right` iff `price_at_check > price_at_call`, for flagged rows exactly as
+   for clean ones. Do not use it to filter the ledger or adjust a hit rate
+   unless Anupam decides otherwise; report flagged and unflagged rows side by
+   side instead. Never back-edit an already-written `stale_quote`.
 
 6. **Write the brief**: create `agent/briefs/YYYY-MM-DD.md` (short):
    - **Feed state** (2 lines): purchases in feed, clusters live, data age
@@ -59,9 +87,17 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
      caveat that Form 4s lag the trade by up to 2 business days, so the
      insiders' entry price is not our entry price.
    - **Scorecard line**: hit rate so far and pending count. If hit rate exists,
-     state it against the ~50% coin-flip bar plainly.
+     state it against the ~50% coin-flip bar plainly. Once rows start scoring,
+     state the hit rate on all rows AND on `stale_quote != yes` rows, both
+     with their n. Report both; do not pick one.
+   - **Stale-quote line**: name any row logged today with `stale_quote = yes`
+     or empty, and say which. Prose still helps a reader — it just is no
+     longer the only place the flag exists.
 
 ## Hard rules
+- `stale_quote` is written at call time and never revised afterwards. If a
+  frozen name starts trading again, that is the NEXT call's business, not a
+  reason to edit a written row.
 - Never present a cluster as a buy signal or advice. The whole feed is
   "slow, statistical signal — not a trade trigger" (README); the ledger tests
   even that.

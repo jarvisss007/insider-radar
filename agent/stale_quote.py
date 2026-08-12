@@ -1,0 +1,220 @@
+#!/usr/bin/env python3
+"""stale_quote — the insider ledger's frozen-reference disclosure column.
+
+WHY THIS EXISTS (council INS-004, 2026-08-10)
+--------------------------------------------
+Two rows in this ledger were priced off quotes that had stopped moving: WBHC
+printed exactly 550.00 on 08-04/08-05/08-06, NWPP exactly 4.50 on
+08-05/08-06/08-07. The lab caught both itself and said so in the brief — in
+prose. Prose does not survive contact with a scoring script. On 2026-08-16 the
+first seven rows come due, and without a machine-readable field somebody has to
+decide THEN which references were frozen: a judgement made after outcomes are
+visible, in the one week it matters.
+
+WHAT IT IS AND IS NOT
+---------------------
+`stale_quote` is a DISCLOSURE field, decided at CALL time from the price series
+that existed BEFORE the call. It changes no bar, drops no row, and scores
+nothing differently. Scoring rules in AGENT.md are untouched: `outcome` is still
+`right` iff `price_at_check > price_at_call`, for every row, flagged or not. The
+only thing this column buys is the ability to split the sample honestly later.
+
+VALUES
+------
+  yes    the last N complete closes before the call were identical to the cent
+  no     they were not — the reference moved
+  (empty) not established. Honest ignorance. Never guess this field; an empty
+         cell is a true statement, a guessed one is a fabricated observation.
+"""
+
+from __future__ import annotations
+
+import argparse
+import csv
+import json
+import os
+import sys
+import urllib.request
+from datetime import date
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+LEDGER = os.path.join(HERE, "ledger.csv")
+
+# The ledger schema. `stale_quote` is appended LAST so every existing positional
+# reader keeps working; the first eight fields are exactly as they always were.
+LEDGER_HEADER = [
+    "date",
+    "ticker",
+    "call",
+    "thesis",
+    "price_at_call",
+    "check_date",
+    "price_at_check",
+    "outcome",
+    "stale_quote",
+]
+
+# Three identical closes to the cent is the bar the lab used when it caught WBHC
+# and NWPP by eye. Keeping the same bar keeps the backfilled rows and every
+# future row on one definition.
+STALE_SESSIONS = 3
+
+CHART = ("https://query1.finance.yahoo.com/v8/finance/chart/"
+         "{t}?range={r}&interval=1d")
+
+
+def is_stale(closes, sessions: int = STALE_SESSIONS) -> bool:
+    """True iff the last `sessions` complete closes are identical to the cent.
+
+    A flat tape does not print the same number three sessions running. A name
+    that did not trade does — the vendor carries the last print forward.
+    """
+    vals = [c for c in closes if c is not None]
+    if len(vals) < sessions:
+        return False
+    tail = [round(float(v), 2) for v in vals[-sessions:]]
+    return len(set(tail)) == 1
+
+
+def closes_before(ticker: str, asof: str | None = None, rng: str = "3mo"):
+    """Complete daily closes strictly BEFORE `asof` (YYYY-MM-DD, default today).
+
+    Strictly before, not up to and including, for the same reason AGENT.md
+    prices calls off the last COMPLETE bar: these runs fire mid-session, so the
+    call-date bar is intraday and unusable. Excluding it also means this
+    function can never see a price at or after the call it describes.
+    """
+    req = urllib.request.Request(CHART.format(t=ticker, r=rng),
+                                 headers={"User-Agent": "Mozilla/5.0"})
+    d = json.load(urllib.request.urlopen(req, timeout=30))
+    res = d["chart"]["result"][0]
+    stamps = res["timestamp"]
+    closes = res["indicators"]["quote"][0]["close"]
+    cutoff = asof or date.today().isoformat()
+    out = []
+    for ts, c in zip(stamps, closes):
+        if c is None:
+            continue
+        day = date.fromtimestamp(ts).isoformat()
+        if day < cutoff:
+            out.append((day, round(float(c), 2)))
+    return out
+
+
+def flag_for(ticker: str, asof: str | None = None,
+             sessions: int = STALE_SESSIONS):
+    """Return (flag, detail) for a call being written now.
+
+    flag is "yes"/"no", or "" when the series cannot be established — an
+    unreachable or barless ticker is unknown, not clean.
+    """
+    try:
+        series = closes_before(ticker, asof)
+    except Exception as e:  # network, delisting, junk symbol
+        return "", f"{ticker}: no series ({type(e).__name__})"
+    if len(series) < sessions:
+        return "", f"{ticker}: only {len(series)} complete bars, cannot establish"
+    tail = series[-sessions:]
+    vals = [c for _, c in tail]
+    flag = "yes" if len(set(vals)) == 1 else "no"
+    span = f"{tail[0][0]}..{tail[-1][0]}"
+    return flag, f"{ticker}: closes {vals} over {span} -> stale_quote={flag}"
+
+
+def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS):
+    """Append ONE call to the ledger with stale_quote already decided.
+
+    This is the write path. Anything logging a call goes through here so the
+    disclosure cannot be forgotten: if the caller does not supply stale_quote,
+    it is computed from the pre-call series. `price_at_check` and `outcome` are
+    always written empty — a call is never born scored.
+    """
+    if "stale_quote" not in row or row["stale_quote"] is None:
+        flag, _ = flag_for(row["ticker"], row.get("date"), sessions)
+        row["stale_quote"] = flag
+    row.setdefault("price_at_check", "")
+    row.setdefault("outcome", "")
+    missing = [k for k in LEDGER_HEADER if k not in row]
+    if missing:
+        raise ValueError(f"call is missing fields: {missing}")
+    new = not os.path.exists(ledger) or os.path.getsize(ledger) == 0
+    with open(ledger, "a", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=LEDGER_HEADER)
+        if new:
+            w.writeheader()
+        w.writerow({k: row[k] for k in LEDGER_HEADER})
+    return row
+
+
+def verify(ledger: str = LEDGER) -> int:
+    """Parse the ledger back and print its schema and disclosure state."""
+    with open(ledger) as f:
+        rows = list(csv.DictReader(f))
+    header = list(rows[0].keys()) if rows else []
+    print("schema:", ",".join(header))
+    ok = header == LEDGER_HEADER
+    print("matches LEDGER_HEADER:", ok)
+    counts = {"yes": 0, "no": 0, "": 0}
+    for r in rows:
+        counts[(r.get("stale_quote") or "").strip()] = counts.get(
+            (r.get("stale_quote") or "").strip(), 0) + 1
+    print(f"rows: {len(rows)}   stale_quote yes={counts.get('yes', 0)} "
+          f"no={counts.get('no', 0)} empty={counts.get('', 0)}")
+    for r in rows:
+        if (r.get("stale_quote") or "").strip() == "yes":
+            print(f"  flagged: {r['date']} {r['ticker']} ref {r['price_at_call']}")
+    # A disclosure column must never have touched scoring.
+    scored = [r for r in rows if (r.get("outcome") or "").strip()]
+    print(f"scored rows: {len(scored)} (this lab scores nothing before 2026-08-16)")
+    return 0 if ok else 1
+
+
+def audit(ledger: str = LEDGER) -> int:
+    """Print — never write — the computed flag for every row in the ledger.
+
+    Read-only on purpose. The backfill committed for INS-004 marks only the two
+    rows the lab had already established in its own briefs (WBHC, NWPP); every
+    other cell is empty because empty is a true statement and a guess is not.
+    This mode shows what the same pre-call rule computes for the rest, so
+    filling them is a mechanical decision someone takes deliberately rather
+    than a judgement made on 08-16 with outcomes already on the screen.
+    """
+    with open(ledger) as f:
+        rows = list(csv.DictReader(f))
+    print(f"{'date':<12}{'ticker':<8}{'logged':<8}{'computed':<10}detail")
+    for r in rows:
+        flag, detail = flag_for(r["ticker"], r["date"])
+        logged = (r.get("stale_quote") or "").strip() or "-"
+        mark = "" if logged in ("-", flag) else "   <-- DISAGREES"
+        print(f"{r['date']:<12}{r['ticker']:<8}{logged:<8}"
+              f"{(flag or '-'):<10}{detail}{mark}")
+    return 0
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--check", metavar="TICKER",
+                    help="print the stale_quote flag for a ticker")
+    ap.add_argument("--asof", metavar="YYYY-MM-DD",
+                    help="treat this as the call date (default: today)")
+    ap.add_argument("--sessions", type=int, default=STALE_SESSIONS)
+    ap.add_argument("--verify", action="store_true",
+                    help="parse ledger.csv back and print the schema")
+    ap.add_argument("--audit", action="store_true",
+                    help="print (never write) the computed flag for every row")
+    a = ap.parse_args()
+    if a.check:
+        flag, detail = flag_for(a.check, a.asof, a.sessions)
+        print(detail)
+        print(flag)
+        return 0
+    if a.verify:
+        return verify()
+    if a.audit:
+        return audit()
+    ap.print_help()
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
