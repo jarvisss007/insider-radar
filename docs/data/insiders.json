@@ -1,31 +1,6 @@
 {
- "updated_utc": "2026-08-12 11:14 UTC",
+ "updated_utc": "2026-08-12 11:30 UTC",
  "purchases": [
-  {
-   "ticker": "CRESCENT PRIVATE CREDIT INCOME CORP (CIK 1954360)",
-   "company": "Crescent Private Credit Income Corp",
-   "insider": "BlueArc Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-06-01",
-   "shares": 135598.4,
-   "price": 26.32,
-   "value": 3568949.89,
-   "acc": "0001104659-26-094030",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "DGAC",
-   "company": "DISCIPLINED GROWTH ACQUISITION Corp",
-   "insider": "Disciplined Growth Sponsor LLC",
-   "role": "10% owner",
-   "date": "2026-06-04",
-   "shares": 181750.0,
-   "price": 10.0,
-   "value": 1817500.0,
-   "acc": "0001185185-26-003311",
-   "filed": "2026-08-06",
-   "placement": true
-  },
   {
    "ticker": "TLSA",
    "company": "Tiziana Life Sciences Ltd",
@@ -4446,6 +4421,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Foran Joseph Wm",
+   "role": "Chairman and CEO",
+   "date": "2026-08-10",
+   "shares": 3130.0,
+   "price": 51.04,
+   "value": 159755.2,
+   "acc": "0001540655-26-000015",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
    "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
@@ -4756,6 +4743,18 @@
    "value": 26530.0,
    "acc": "0001641823-26-000009",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Foran Joseph Wm",
+   "role": "Chairman and CEO",
+   "date": "2026-08-11",
+   "shares": 709.0,
+   "price": 51.68,
+   "value": 36641.12,
+   "acc": "0001540655-26-000015",
+   "filed": "2026-08-12"
   },
   {
    "ticker": "KMPR",
