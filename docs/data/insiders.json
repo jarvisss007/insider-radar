@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-08-12 18:48 UTC",
+ "updated_utc": "2026-08-12 19:04 UTC",
  "purchases": [
-  {
-   "ticker": "MLPT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Catalyst4, Inc.",
-   "role": "10% owner",
-   "date": "2026-07-28",
-   "shares": 65137.0,
-   "price": 11.6891,
-   "value": 761392.91,
-   "acc": "0001900201-26-000003",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "MLPT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Catalyst4, Inc.",
-   "role": "10% owner",
-   "date": "2026-07-28",
-   "shares": 141088.0,
-   "price": 10.7416,
-   "value": 1515510.86,
-   "acc": "0001900201-26-000003",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-28",
-   "shares": 169980.0,
-   "price": 16.88,
-   "value": 2869262.4,
-   "acc": "0002029760-26-000005",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 155.0,
-   "price": 2.527,
-   "value": 391.69,
-   "acc": "0001536588-26-000023",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 1.0,
-   "price": 394.14,
-   "value": 394.14,
-   "acc": "0001437749-26-024994",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "FRAF",
-   "company": "FRANKLIN FINANCIAL SERVICES CORP /PA/",
-   "insider": "Duffey Gregory A",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 16.0,
-   "price": 64.08,
-   "value": 1025.28,
-   "acc": "0001638509-26-000007",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 423.0,
-   "price": 2.545,
-   "value": 1076.54,
-   "acc": "0001536588-26-000023",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "PFSA",
-   "company": "Profusa, Inc.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 1310.0,
-   "price": 1.01,
-   "value": 1323.1,
-   "acc": "0001475597-26-000178",
-   "filed": "2026-07-30"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -4265,6 +4169,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
+   "company": "HPS Real Assets Lending Co LP",
+   "insider": "Busch Robert W",
+   "role": "See Remarks",
+   "date": "2026-08-10",
+   "shares": 4000.0,
+   "price": 25.0,
+   "value": 100000.0,
+   "acc": "0001193125-26-346579",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "MATW",
    "company": "MATTHEWS INTERNATIONAL CORP",
    "insider": "SCHAWK DAVID A",
@@ -4625,6 +4541,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Saul Kennedy O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 13.0,
+   "price": 21.61,
+   "value": 280.93,
+   "acc": "0001437749-26-027263",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
    "insider": "Starr Gayle P",
@@ -4649,6 +4577,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Saul Kennedy O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 79.0,
+   "price": 21.64,
+   "value": 1709.56,
+   "acc": "0001437749-26-027263",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4658,6 +4598,18 @@
    "price": 2.99,
    "value": 2260.44,
    "acc": "0001437749-26-027250",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Saul Kennedy O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 145.0,
+   "price": 21.63,
+   "value": 3136.35,
+   "acc": "0001437749-26-027263",
    "filed": "2026-08-12"
   },
   {
@@ -4683,6 +4635,30 @@
    "value": 4682.0,
    "acc": "0001493152-26-037181",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Saul Kennedy O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 513.0,
+   "price": 21.62,
+   "value": 11091.06,
+   "acc": "0001437749-26-027263",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Saul Kennedy O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 872.0,
+   "price": 21.67,
+   "value": 18896.24,
+   "acc": "0001437749-26-027263",
+   "filed": "2026-08-12"
   },
   {
    "ticker": "AMRC",
@@ -4754,6 +4730,30 @@
    "price": 167.5945,
    "value": 50278.35,
    "acc": "0000731802-26-000104",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Saul Kennedy O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 4278.0,
+   "price": 21.65,
+   "value": 92618.7,
+   "acc": "0001437749-26-027263",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Grimaldo Joseph F",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 4655.0,
+   "price": 21.4364,
+   "value": 99786.44,
+   "acc": "0001437749-26-027261",
    "filed": "2026-08-12"
   },
   {
@@ -4832,8 +4832,8 @@
   },
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
-   "insiders": 3,
-   "total_value": 10900000.0
+   "insiders": 4,
+   "total_value": 11000000.0
   },
   {
    "ticker": "VISTA CREDIT STRATEGIC LENDING CORP. (CIK 1919369)",
@@ -4917,6 +4917,11 @@
    "total_value": 251351.4
   },
   {
+   "ticker": "AVBC",
+   "insiders": 2,
+   "total_value": 227519.28
+  },
+  {
    "ticker": "XAIR",
    "insiders": 2,
    "total_value": 224997.12
@@ -4995,8 +5000,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020363",
-  "0001918704-26-020364",
   "0001918704-26-020365",
   "0001918704-26-020366",
   "0001918704-26-020367",
@@ -6918,6 +6921,8 @@
   "0001918704-26-023557",
   "0001918704-26-023558",
   "0001918704-26-023559",
+  "0001918704-26-023560",
+  "0001918704-26-023561",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
