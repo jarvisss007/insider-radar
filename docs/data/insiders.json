@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-08-12 00:31 UTC",
+ "updated_utc": "2026-08-12 00:46 UTC",
  "purchases": [
   {
    "ticker": "CAPS",
@@ -3201,6 +3201,19 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "FEMY",
+   "company": "FEMASYS INC",
+   "insider": "Sipos Jeremy Alexander",
+   "role": "Chief Technology Officer",
+   "date": "2026-08-07",
+   "shares": 3125.0,
+   "price": 3.2,
+   "value": 10000.0,
+   "acc": "0001140361-26-032324",
+   "filed": "2026-08-11",
+   "placement": true
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Wei Che-Chia",
@@ -3223,6 +3236,19 @@
    "value": 13093.5,
    "acc": "0001743622-26-000004",
    "filed": "2026-08-07"
+  },
+  {
+   "ticker": "FEMY",
+   "company": "FEMASYS INC",
+   "insider": "Canning John Charles",
+   "role": "Chief Operating Officer",
+   "date": "2026-08-07",
+   "shares": 4375.0,
+   "price": 3.2,
+   "value": 14000.0,
+   "acc": "0001140361-26-032320",
+   "filed": "2026-08-11",
+   "placement": true
   },
   {
    "ticker": "MKZR",
@@ -3391,6 +3417,32 @@
    "value": 41423.99,
    "acc": "0001193125-26-344786",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "FEMY",
+   "company": "FEMASYS INC",
+   "insider": "Elefant Dov",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-07",
+   "shares": 15625.0,
+   "price": 3.2,
+   "value": 50000.0,
+   "acc": "0001140361-26-032317",
+   "filed": "2026-08-11",
+   "placement": true
+  },
+  {
+   "ticker": "FEMY",
+   "company": "FEMASYS INC",
+   "insider": "Lee-Sepsick Kathy",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-07",
+   "shares": 15625.0,
+   "price": 3.2,
+   "value": 50000.0,
+   "acc": "0001140361-26-032314",
+   "filed": "2026-08-11",
+   "placement": true
   },
   {
    "ticker": "EEFT",
@@ -4892,6 +4944,12 @@
    "insiders": 2,
    "total_value": 0,
    "other_value": 79995.41
+  },
+  {
+   "ticker": "FEMY",
+   "insiders": 4,
+   "total_value": 0,
+   "other_value": 124000.0
   }
  ],
  "seen": [
