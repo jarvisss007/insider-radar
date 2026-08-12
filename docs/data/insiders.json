@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-12 19:35 UTC",
+ "updated_utc": "2026-08-12 20:07 UTC",
  "purchases": [
-  {
-   "ticker": "GVH",
-   "company": "Globavend Holdings Ltd",
-   "insider": "Fung Kai Man",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 4634.0,
-   "price": 0.91,
-   "value": 4216.94,
-   "acc": "0001213900-26-082891",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "LOOP",
-   "company": "Loop Industries, Inc.",
-   "insider": "GEYGAN JEFFREY RICHART",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 6610.0,
-   "price": 0.7278,
-   "value": 4810.76,
-   "acc": "0001193125-26-328705",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "NXTC",
-   "company": "NextCure, Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 1600.0,
-   "price": 5.0,
-   "value": 8000.0,
-   "acc": "0001940272-26-000012",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "NXTC",
-   "company": "NextCure, Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 1810.0,
-   "price": 5.0,
-   "value": 9050.0,
-   "acc": "0001940272-26-000012",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "GLSI",
-   "company": "Greenwich LifeSciences, Inc.",
-   "insider": "Patel Snehal",
-   "role": "CEO and CFO",
-   "date": "2026-07-29",
-   "shares": 700.0,
-   "price": 13.1,
-   "value": 9170.0,
-   "acc": "0001493152-26-035310",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "CBNA",
-   "company": "CHAIN BRIDGE BANCORP INC",
-   "insider": "MARTINELLI MARK",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 400.0,
-   "price": 44.0,
-   "value": 17600.0,
-   "acc": "0001393085-26-000003",
-   "filed": "2026-07-31"
-  },
   {
    "ticker": "HCWB",
    "company": "HCW Biologics Inc.",
@@ -3833,6 +3761,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "SWZ",
+   "company": "Total Return Securities Fund",
+   "insider": "SELL MORITZ A",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 1000.0,
+   "price": 5.91,
+   "value": 5910.0,
+   "acc": "0001398344-26-014213",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "MSS",
    "company": "Maison Solutions Inc.",
    "insider": "HRT FINANCIAL LP",
@@ -4649,6 +4589,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "FSK",
+   "company": "FS KKR Capital Corp",
+   "insider": "KROPP JAMES H",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 1100.0,
+   "price": 12.075,
+   "value": 13282.5,
+   "acc": "0001104659-26-094847",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "AVBC",
    "company": "Avidia Bancorp, Inc.",
    "insider": "Saul Kennedy O",
@@ -4733,6 +4685,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "APTV",
+   "company": "Aptiv PLC",
+   "insider": "Mahoney Sean O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 1000.0,
+   "price": 50.28,
+   "value": 50280.0,
+   "acc": "0001193125-26-346801",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "AVBC",
    "company": "Avidia Bancorp, Inc.",
    "insider": "Saul Kennedy O",
@@ -4781,6 +4745,30 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "APTV",
+   "company": "Aptiv PLC",
+   "insider": "Mahoney Sean O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 4000.0,
+   "price": 50.287,
+   "value": 201148.0,
+   "acc": "0001193125-26-346801",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "APTV",
+   "company": "Aptiv PLC",
+   "insider": "Mahoney Sean O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 6000.0,
+   "price": 50.2092,
+   "value": 301255.2,
+   "acc": "0001193125-26-346801",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "HPP",
    "company": "Hudson Pacific Properties, Inc.",
    "insider": "BORTZ JON E",
@@ -4815,6 +4803,18 @@
    "value": 1427480.0,
    "acc": "0001182684-26-000017",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "PFE",
+   "company": "PFIZER INC",
+   "insider": "BOURLA ALBERT",
+   "role": "Chairman & CEO",
+   "date": "2026-08-12",
+   "shares": 38000.0,
+   "price": 26.34,
+   "value": 1000920.0,
+   "acc": "0001225208-26-007083",
+   "filed": "2026-08-12"
   }
  ],
  "clusters": [
@@ -4840,6 +4840,11 @@
    "insiders": 2,
    "total_value": 6229806.78,
    "other_value": 31149.03
+  },
+  {
+   "ticker": "APTV",
+   "insiders": 2,
+   "total_value": 5552642.08
   },
   {
    "ticker": "BLSM",
@@ -5000,21 +5005,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020379",
-  "0001918704-26-020380",
-  "0001918704-26-020381",
-  "0001918704-26-020382",
-  "0001918704-26-020383",
-  "0001918704-26-020384",
-  "0001918704-26-020385",
-  "0001918704-26-020386",
-  "0001918704-26-020387",
-  "0001918704-26-020388",
-  "0001918704-26-020389",
-  "0001918704-26-020390",
-  "0001918704-26-020391",
-  "0001918704-26-020392",
-  "0001918704-26-020393",
   "0001918704-26-020394",
   "0001918704-26-020395",
   "0001918704-26-020396",
@@ -6923,6 +6913,18 @@
   "0001918704-26-023573",
   "0001918704-26-023574",
   "0001918704-26-023575",
+  "0001918704-26-023576",
+  "0001918704-26-023577",
+  "0001918704-26-023578",
+  "0001918704-26-023579",
+  "0001918704-26-023582",
+  "0001918704-26-023583",
+  "0001918704-26-023584",
+  "0001918704-26-023585",
+  "0001918704-26-023586",
+  "0001918704-26-023587",
+  "0001918704-26-023588",
+  "0001918704-26-023589",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7002,6 +7004,7 @@
   "0001951912-26-000007",
   "0001952636-26-000004",
   "0001952898-26-000004",
+  "0001953063-26-000009",
   "0001954190-26-000005",
   "0001954327-26-000043",
   "0001954327-26-000046",
@@ -7500,6 +7503,7 @@
   "0002005790-26-000024",
   "0002006416-26-000013",
   "0002006852-26-000005",
+  "0002007420-26-000002",
   "0002007928-26-000003",
   "0002008126-26-000003",
   "0002008217-26-000003",
@@ -7660,6 +7664,7 @@
   "0002053125-26-000003",
   "0002053424-26-000018",
   "0002053876-26-000006",
+  "0002054688-26-000008",
   "0002055009-26-000006",
   "0002055138-26-000008",
   "0002055311-26-000002",
