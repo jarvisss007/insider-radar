@@ -1,141 +1,6 @@
 {
- "updated_utc": "2026-08-12 20:07 UTC",
+ "updated_utc": "2026-08-12 20:22 UTC",
  "purchases": [
-  {
-   "ticker": "HCWB",
-   "company": "HCW Biologics Inc.",
-   "insider": "GARRETT SCOTT T",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 7736.0,
-   "price": 2.585,
-   "value": 19997.56,
-   "acc": "0001493152-26-035619",
-   "filed": "2026-07-31",
-   "placement": true
-  },
-  {
-   "ticker": "XAIR",
-   "company": "Beyond Air, Inc.",
-   "insider": "MOORHEAD DANIEL J",
-   "role": "Chief Financial Officer",
-   "date": "2026-07-29",
-   "shares": 4340.0,
-   "price": 5.76,
-   "value": 24998.4,
-   "acc": "0001493152-26-035700",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "VISTA CREDIT STRATEGIC LENDING CORP. (CIK 1919369)",
-   "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
-   "insider": "Riddick Stephen A",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 1628.282,
-   "price": 19.13,
-   "value": 31149.03,
-   "acc": "0001747310-26-000004",
-   "filed": "2026-07-30",
-   "placement": true
-  },
-  {
-   "ticker": "MLPT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Catalyst4, Inc.",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 3000.0,
-   "price": 12.63,
-   "value": 37890.0,
-   "acc": "0001900201-26-000003",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "PKBK",
-   "company": "PARKE BANCORP, INC.",
-   "insider": "PANTILIONE VITO S",
-   "role": "President & CEO",
-   "date": "2026-07-29",
-   "shares": 1300.0,
-   "price": 33.68,
-   "value": 43784.0,
-   "acc": "0001437749-26-024996",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "NTRS",
-   "company": "NORTHERN TRUST CORP",
-   "insider": "Moritz Robert Edward Jr.",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 255.0,
-   "price": 179.57,
-   "value": 45790.35,
-   "acc": "0002033834-26-000019",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "HCWB",
-   "company": "HCW Biologics Inc.",
-   "insider": "Wong Hing C",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-29",
-   "shares": 23210.0,
-   "price": 2.585,
-   "value": 59997.85,
-   "acc": "0001493152-26-035634",
-   "filed": "2026-07-31",
-   "placement": true
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 3077.0,
-   "price": 21.34,
-   "value": 65663.18,
-   "acc": "0001510281-26-000255",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-29",
-   "shares": 1051.0,
-   "price": 78.5495,
-   "value": 82555.52,
-   "acc": "0001193125-26-326536",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "BXSY",
-   "company": "BEXIL INVESTMENT TRUST",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-07-29",
-   "shares": 5000.0,
-   "price": 17.0271,
-   "value": 85135.5,
-   "acc": "0001628873-26-000046",
-   "filed": "2026-07-29"
-  },
-  {
-   "ticker": "OTLK",
-   "company": "Outlook Therapeutics, Inc.",
-   "insider": "Sukhtian Faisal Ghiath",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 95398.0,
-   "price": 1.0482,
-   "value": 99996.18,
-   "acc": "0001649989-26-000008",
-   "filed": "2026-07-29"
-  },
   {
    "ticker": "COSM",
    "company": "Cosmos Health Inc.",
@@ -4385,6 +4250,30 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "shares": 7467.0,
+   "price": 216.1514,
+   "value": 1614002.5,
+   "acc": "0001104659-26-094887",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-10",
+   "shares": 93243.0,
+   "price": 22.45,
+   "value": 2093305.35,
+   "acc": "0001221359-26-000037",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "LTGO",
    "company": "Latigo Biotherapeutics, Inc.",
    "insider": "Tananbaum James B.",
@@ -4454,6 +4343,30 @@
    "price": 25.0,
    "value": 10000000.0,
    "acc": "0001193125-26-346569",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "shares": 88102.0,
+   "price": 214.4323,
+   "value": 18891914.49,
+   "acc": "0001104659-26-094887",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "shares": 166095.0,
+   "price": 215.0725,
+   "value": 35722466.89,
+   "acc": "0001104659-26-094887",
    "filed": "2026-08-12"
   },
   {
@@ -4733,6 +4646,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "CHCT",
+   "company": "Community Healthcare Trust Inc",
+   "insider": "Hensley Robert Z",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 8000.0,
+   "price": 15.21,
+   "value": 121680.0,
+   "acc": "0001628280-26-056206",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "SMRT",
    "company": "SmartRent, Inc.",
    "insider": "Martell Frank",
@@ -4781,6 +4706,30 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 3200.0,
+   "price": 214.6723,
+   "value": 686951.36,
+   "acc": "0001104659-26-094887",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 3991.0,
+   "price": 217.0873,
+   "value": 866395.41,
+   "acc": "0001104659-26-094887",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "DINO",
    "company": "HF Sinclair Corp",
    "insider": "MYERS FRANKLIN",
@@ -4803,6 +4752,54 @@
    "value": 1427480.0,
    "acc": "0001182684-26-000017",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-11",
+   "shares": 100000.0,
+   "price": 22.52,
+   "value": 2252000.0,
+   "acc": "0001221359-26-000037",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 21038.0,
+   "price": 215.6815,
+   "value": 4537507.4,
+   "acc": "0001104659-26-094887",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 211771.0,
+   "price": 216.3966,
+   "value": 45826524.38,
+   "acc": "0001104659-26-094887",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "WES",
+   "company": "Western Midstream Partners, LP",
+   "insider": "Forthuber Frederick A.",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 5140.0,
+   "price": 48.62,
+   "value": 249906.8,
+   "acc": "0001423902-26-000095",
+   "filed": "2026-08-12"
   },
   {
    "ticker": "PFE",
@@ -4834,12 +4831,6 @@
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
    "insiders": 4,
    "total_value": 11000000.0
-  },
-  {
-   "ticker": "VISTA CREDIT STRATEGIC LENDING CORP. (CIK 1919369)",
-   "insiders": 2,
-   "total_value": 6229806.78,
-   "other_value": 31149.03
   },
   {
    "ticker": "APTV",
@@ -4927,11 +4918,6 @@
    "total_value": 227519.28
   },
   {
-   "ticker": "XAIR",
-   "insiders": 2,
-   "total_value": 224997.12
-  },
-  {
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 191968.82
@@ -4992,12 +4978,6 @@
    "total_value": 300.0
   },
   {
-   "ticker": "HCWB",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 79995.41
-  },
-  {
    "ticker": "FEMY",
    "insiders": 5,
    "total_value": 0,
@@ -5005,14 +4985,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020394",
-  "0001918704-26-020395",
-  "0001918704-26-020396",
-  "0001918704-26-020397",
-  "0001918704-26-020398",
-  "0001918704-26-020399",
-  "0001918704-26-020400",
-  "0001918704-26-020401",
   "0001918704-26-020402",
   "0001918704-26-020403",
   "0001918704-26-020404",
@@ -6925,6 +6897,8 @@
   "0001918704-26-023587",
   "0001918704-26-023588",
   "0001918704-26-023589",
+  "0001918704-26-023596",
+  "0001918704-26-023597",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7044,10 +7018,12 @@
   "0001966942-26-000004",
   "0001966946-26-000007",
   "0001967048-26-000010",
+  "0001967575-26-000010",
   "0001967680-26-000036",
   "0001967680-26-000038",
   "0001967680-26-000040",
   "0001967837-26-000010",
+  "0001968164-26-000005",
   "0001968243-26-000040",
   "0001968268-26-000005",
   "0001968269-26-000002",
@@ -7139,6 +7115,7 @@
   "0001992104-26-000304",
   "0001992104-26-000305",
   "0001992104-26-000306",
+  "0001992352-26-000005",
   "0001992808-26-000022",
   "0001993636-26-000009",
   "0001993684-26-000006",
@@ -7594,6 +7571,7 @@
   "0002032765-26-000012",
   "0002032799-26-000006",
   "0002033015-26-000004",
+  "0002033015-26-000006",
   "0002033348-26-000008",
   "0002033834-26-000019",
   "0002034012-26-000021",
@@ -7713,6 +7691,7 @@
   "0002063236-26-000012",
   "0002063597-26-000004",
   "0002063881-26-000004",
+  "0002064538-26-000002",
   "0002064832-26-000250",
   "0002064832-26-000266",
   "0002064953-26-000088",
@@ -7975,6 +7954,7 @@
   "0002141655-26-000008",
   "0002141713-26-000004",
   "0002141901-26-000005",
+  "0002142092-26-000004",
   "0002142208-26-000015",
   "0002142262-26-000006",
   "0002142653-26-000004",
