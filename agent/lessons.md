@@ -270,3 +270,33 @@ history, instead.
 Standing: the event study re-ran today at 909 events / 669 mature and returned the
 honest null for the sixth time (week-clustered |t| < 2.67 at all five horizons).
 Six nulls is the prior; nothing in today's feed touches it.
+
+### 2026-08-11 [stale] The freshness check does not examine the bar the price came from
+
+INS-004's `stale_quote` column was filled for every establishable row today
+(`stale_quote.py --fill`), five days before the first seven rows score on
+08-16 — deliberately, while outcomes are still invisible. 31 written `no`,
+2 already `yes` (WBHC, NWPP) and untouched, 3 left empty (BRVE, BLSM, LTGO:
+under three complete bars, honest ignorance rather than a clean bill).
+
+Filling it surfaced a rule inconsistency worth stating before Sunday, not after.
+
+`price_at_call` is defined as "latest daily close", and NTSK's 13.59 is the
+settled close of **2026-07-17 — the call date itself**. The staleness rule reads
+the three complete bars **strictly before** the call date (for NTSK: 14.27,
+13.25, 13.50). So the two mechanisms disagree about which bar the reference is:
+the price is taken from the call date's close, and the freshness check never
+looks at that bar.
+
+Nothing on the ledger is wrong because of it. WBHC and NWPP were frozen for many
+sessions and were caught regardless. But a quote that freezes only ON the call
+date is invisible to the current check, and that is exactly the case the column
+was written to catch. Two honest fixes exist — extend the window to include the
+call-date bar, or define `price_at_call` as the last COMPLETE close before the
+call date — and they are not equivalent: the second changes recorded reference
+prices on rows already written, which is a BENCH-002-shaped question and belongs
+to Anupam, not to this lab.
+
+Recorded rather than resolved. `--fill` refuses to write to a row that already
+has an outcome, so whichever way the rule goes, no flag can be back-edited once
+scoring starts.

@@ -191,6 +191,48 @@ def audit(ledger: str = LEDGER) -> int:
     return 0
 
 
+def fill(ledger: str = LEDGER) -> int:
+    """Write the computed flag into every row that has none. Never overwrites.
+
+    The deliberate counterpart to --audit. Run BEFORE outcomes exist: the rule
+    reads only complete bars strictly earlier than each call date, so what it
+    writes cannot depend on how any call turned out. Rows it cannot establish
+    (a listing with fewer than STALE_SESSIONS complete bars) stay empty —
+    honest ignorance, not a clean bill.
+
+    An already-written flag is never touched. Back-editing a disclosure after
+    the fact is the defect this column exists to prevent, so the code refuses
+    to do it rather than trusting the operator to remember.
+    """
+    with open(ledger) as f:
+        rows = list(csv.DictReader(f))
+        header = list(rows[0].keys()) if rows else LEDGER_HEADER
+    wrote = skipped = blocked = 0
+    for r in rows:
+        cur = (r.get("stale_quote") or "").strip()
+        if cur:
+            blocked += 1
+            continue
+        if (r.get("outcome") or "").strip():
+            print(f"  REFUSED {r['date']} {r['ticker']}: already scored — a flag written "
+                  f"after an outcome is visible is not a disclosure")
+            skipped += 1
+            continue
+        flag, detail = flag_for(r["ticker"], r["date"])
+        if not flag:
+            skipped += 1
+            continue
+        r["stale_quote"] = flag
+        wrote += 1
+    with open(ledger, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=header)
+        w.writeheader()
+        w.writerows(rows)
+    print(f"filled {wrote}; left {skipped} unestablished; {blocked} already declared "
+          f"and untouched")
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--check", metavar="TICKER",
@@ -200,6 +242,9 @@ def main() -> int:
     ap.add_argument("--sessions", type=int, default=STALE_SESSIONS)
     ap.add_argument("--verify", action="store_true",
                     help="parse ledger.csv back and print the schema")
+    ap.add_argument("--fill", action="store_true",
+                    help="write the computed flag into rows that have none; never "
+                         "overwrites, never writes to an already-scored row")
     ap.add_argument("--audit", action="store_true",
                     help="print (never write) the computed flag for every row")
     a = ap.parse_args()
@@ -210,6 +255,8 @@ def main() -> int:
         return 0
     if a.verify:
         return verify()
+    if a.fill:
+        return fill()
     if a.audit:
         return audit()
     ap.print_help()

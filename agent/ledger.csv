@@ -1,37 +1,37 @@
 date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote
-2026-07-17,NTSK,long,[insider] 2 insiders bought $22.0M cluster,13.59,2026-08-16,,,
-2026-07-17,IPX,long,[insider] 2 insiders bought $2.4M cluster,22.94,2026-08-16,,,
-2026-07-17,ELV,long,[insider] 2 insiders bought $1.4M cluster,373.11,2026-08-16,,,
-2026-07-17,BUKS,long,[insider] 2 insiders bought $0.16M cluster,4.86,2026-08-16,,,
-2026-07-17,GABC,long,[insider] 5 insiders bought $0.10M cluster,48.57,2026-08-16,,,
-2026-07-17,INM,long,[insider] 2 insiders bought $0.03M cluster,1.52,2026-08-16,,,
-2026-07-17,YORW,long,[insider] 6 insiders bought $0.03M cluster,31.45,2026-08-16,,,
-2026-07-25,FSBC,long,[insider] 6 insiders bought $6.3M cluster,46.81,2026-08-24,,,
-2026-07-25,CLBK,long,[insider] 16 insiders bought $4.8M cluster,10.88,2026-08-24,,,
-2026-07-25,TSM,long,[insider] 2 insiders bought $4.4M cluster,403.41,2026-08-24,,,
-2026-07-25,BBASX,long,[insider] 2 insiders bought $2.6M cluster,10.96,2026-08-24,,,
-2026-07-25,BYRN,long,[insider] 3 insiders bought $0.25M cluster,3.37,2026-08-24,,,
-2026-07-25,GRML,long,[insider] 2 insiders bought $0.14M cluster,0.19,2026-08-24,,,
-2026-07-31,SCTX,long,[insider] 4 insiders bought $216.2M cluster,20.40,2026-08-30,,,
-2026-07-31,ACI,long,[insider] 2 insiders bought $12.1M cluster,11.60,2026-08-30,,,
-2026-08-03,XAIR,long,[insider] 2 insiders bought $27.7M within 14d,6.33,2026-09-02,,,
-2026-08-03,HCWB,long,[insider] 2 insiders bought $0.08M within 14d,3.34,2026-09-02,,,
-2026-08-05,FUNC,long,[insider] 4 insiders bought $8.1K dedup (feed says $12.8K); trivial size,44.70,2026-09-04,,,
-2026-08-06,GBFH,long,[insider] 4 insiders bought $1.22M open-market cluster,20.39,2026-09-05,,,
-2026-08-06,TSCO,long,[insider] 2 insiders bought $0.55M open-market cluster,33.41,2026-09-05,,,
-2026-08-06,RGCO,long,[insider] 2 insiders bought $300 total; noise-scale cluster,21.70,2026-09-05,,,
-2026-08-07,SAGT,long,[insider] 2 insiders bought $0.28M open-market cluster; sub-$1 micro-cap,0.721,2026-09-06,,,
+2026-07-17,NTSK,long,[insider] 2 insiders bought $22.0M cluster,13.59,2026-08-16,,,no
+2026-07-17,IPX,long,[insider] 2 insiders bought $2.4M cluster,22.94,2026-08-16,,,no
+2026-07-17,ELV,long,[insider] 2 insiders bought $1.4M cluster,373.11,2026-08-16,,,no
+2026-07-17,BUKS,long,[insider] 2 insiders bought $0.16M cluster,4.86,2026-08-16,,,no
+2026-07-17,GABC,long,[insider] 5 insiders bought $0.10M cluster,48.57,2026-08-16,,,no
+2026-07-17,INM,long,[insider] 2 insiders bought $0.03M cluster,1.52,2026-08-16,,,no
+2026-07-17,YORW,long,[insider] 6 insiders bought $0.03M cluster,31.45,2026-08-16,,,no
+2026-07-25,FSBC,long,[insider] 6 insiders bought $6.3M cluster,46.81,2026-08-24,,,no
+2026-07-25,CLBK,long,[insider] 16 insiders bought $4.8M cluster,10.88,2026-08-24,,,no
+2026-07-25,TSM,long,[insider] 2 insiders bought $4.4M cluster,403.41,2026-08-24,,,no
+2026-07-25,BBASX,long,[insider] 2 insiders bought $2.6M cluster,10.96,2026-08-24,,,no
+2026-07-25,BYRN,long,[insider] 3 insiders bought $0.25M cluster,3.37,2026-08-24,,,no
+2026-07-25,GRML,long,[insider] 2 insiders bought $0.14M cluster,0.19,2026-08-24,,,no
+2026-07-31,SCTX,long,[insider] 4 insiders bought $216.2M cluster,20.40,2026-08-30,,,no
+2026-07-31,ACI,long,[insider] 2 insiders bought $12.1M cluster,11.60,2026-08-30,,,no
+2026-08-03,XAIR,long,[insider] 2 insiders bought $27.7M within 14d,6.33,2026-09-02,,,no
+2026-08-03,HCWB,long,[insider] 2 insiders bought $0.08M within 14d,3.34,2026-09-02,,,no
+2026-08-05,FUNC,long,[insider] 4 insiders bought $8.1K dedup (feed says $12.8K); trivial size,44.70,2026-09-04,,,no
+2026-08-06,GBFH,long,[insider] 4 insiders bought $1.22M open-market cluster,20.39,2026-09-05,,,no
+2026-08-06,TSCO,long,[insider] 2 insiders bought $0.55M open-market cluster,33.41,2026-09-05,,,no
+2026-08-06,RGCO,long,[insider] 2 insiders bought $300 total; noise-scale cluster,21.70,2026-09-05,,,no
+2026-08-07,SAGT,long,[insider] 2 insiders bought $0.28M open-market cluster; sub-$1 micro-cap,0.721,2026-09-06,,,no
 2026-08-07,WBHC,long,[insider] 2 insiders bought $0.25M cluster; quote frozen 550.00 three sessions,550.00,2026-09-06,,,yes
-2026-08-07,BHRB,long,[insider] 2 insiders bought $0.08M open-market cluster; community bank,73.76,2026-09-06,,,
+2026-08-07,BHRB,long,[insider] 2 insiders bought $0.08M open-market cluster; community bank,73.76,2026-09-06,,,no
 2026-08-10,BRVE,long,[insider] 7 insiders bought $69.4M open-market cluster; largest seen,30.00,2026-09-09,,,
-2026-08-10,ATTO,long,[insider] 3 insiders bought $20.2M cluster; -7.9% over three sessions,20.17,2026-09-09,,,
-2026-08-10,CCB,long,[insider] 3 insiders bought $1.12M open-market cluster; community bank,45.34,2026-09-09,,,
+2026-08-10,ATTO,long,[insider] 3 insiders bought $20.2M cluster; -7.9% over three sessions,20.17,2026-09-09,,,no
+2026-08-10,CCB,long,[insider] 3 insiders bought $1.12M open-market cluster; community bank,45.34,2026-09-09,,,no
 2026-08-10,NWPP,long,[insider] 2 insiders bought $0.03M; quote frozen 4.50 three sessions,4.50,2026-09-09,,,yes
 2026-08-11,BLSM,long,[insider] [fund] 4 insiders bought $5.18M open-market cluster; only 2 daily bars — brand-new listing,15.99,2026-09-10,,,
 2026-08-11,LTGO,long,[insider] [fund] 2 insiders bought $5.04M open-market cluster; only 3 daily bars — brand-new listing,18.56,2026-09-10,,,
-2026-08-11,AHCO,long,[insider] [fund] 2 insiders bought $0.39M open-market cluster,5.22,2026-09-10,,,
-2026-08-11,ELAN,long,[insider] [fund] 2 insiders bought $0.33M open-market cluster,22.28,2026-09-10,,,
-2026-08-11,MKZR,long,[insider] [fund] 3 insiders bought $0.16M open-market cluster; sub-$2 micro-cap,1.52,2026-09-10,,,
-2026-08-11,MRP,long,[insider] [fund] 2 insiders bought $0.12M open-market cluster,28.80,2026-09-10,,,
-2026-08-11,BOTJ,long,[insider] [fund] 2 insiders bought $0.03M open-market cluster; community bank,27.02,2026-09-10,,,
-2026-08-11,CZNC,long,[insider] [fund] 2 insiders bought $0.005M open-market cluster; trivial size,25.32,2026-09-10,,,
+2026-08-11,AHCO,long,[insider] [fund] 2 insiders bought $0.39M open-market cluster,5.22,2026-09-10,,,no
+2026-08-11,ELAN,long,[insider] [fund] 2 insiders bought $0.33M open-market cluster,22.28,2026-09-10,,,no
+2026-08-11,MKZR,long,[insider] [fund] 3 insiders bought $0.16M open-market cluster; sub-$2 micro-cap,1.52,2026-09-10,,,no
+2026-08-11,MRP,long,[insider] [fund] 2 insiders bought $0.12M open-market cluster,28.80,2026-09-10,,,no
+2026-08-11,BOTJ,long,[insider] [fund] 2 insiders bought $0.03M open-market cluster; community bank,27.02,2026-09-10,,,no
+2026-08-11,CZNC,long,[insider] [fund] 2 insiders bought $0.005M open-market cluster; trivial size,25.32,2026-09-10,,,no
