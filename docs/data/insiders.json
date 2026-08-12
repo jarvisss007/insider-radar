@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-12 22:45 UTC",
+ "updated_utc": "2026-08-12 23:02 UTC",
  "purchases": [
-  {
-   "ticker": "SAGT",
-   "company": "SAGTEC GLOBAL Ltd",
-   "insider": "LOONG XIN YEE",
-   "role": "Chief Operating Officer",
-   "date": "2026-07-31",
-   "shares": 62500.0,
-   "price": 0.77,
-   "value": 48125.0,
-   "acc": "0001213900-26-086252",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-31",
-   "shares": 830.0,
-   "price": 80.0,
-   "value": 66400.0,
-   "acc": "0001193125-26-333500",
-   "filed": "2026-08-04"
-  },
-  {
-   "ticker": "CMCO",
-   "company": "COLUMBUS MCKINNON CORP",
-   "insider": "Linker John R",
-   "role": "EVP, Finance and CFO",
-   "date": "2026-07-31",
-   "shares": 7500.0,
-   "price": 19.67,
-   "value": 147525.0,
-   "acc": "0001628280-26-052202",
-   "filed": "2026-08-04"
-  },
-  {
-   "ticker": "SAGT",
-   "company": "SAGTEC GLOBAL Ltd",
-   "insider": "Ng Chen Lok",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-31",
-   "shares": 300000.0,
-   "price": 0.77,
-   "value": 231000.0,
-   "acc": "0001213900-26-086253",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "ARTV",
    "company": "Artiva Biotherapeutics, Inc.",
@@ -3709,6 +3661,19 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "PNAQ",
+   "company": "Pinnacle Acquisition Corp",
+   "insider": "Martin Karen Lynne",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 10000.0,
+   "price": 10.0,
+   "value": 100000.0,
+   "acc": "0001213900-26-088541",
+   "filed": "2026-08-12",
+   "placement": true
+  },
+  {
    "ticker": "MATW",
    "company": "MATTHEWS INTERNATIONAL CORP",
    "insider": "SCHAWK DAVID A",
@@ -4057,6 +4022,19 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "PNAQ",
+   "company": "Pinnacle Acquisition Corp",
+   "insider": "RECHTSCHAFFEN ANDREW",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 225000.0,
+   "price": 10.0,
+   "value": 2250000.0,
+   "acc": "0001213900-26-088542",
+   "filed": "2026-08-12",
+   "placement": true
+  },
+  {
    "ticker": "LTGO",
    "company": "Latigo Biotherapeutics, Inc.",
    "insider": "Tananbaum James B.",
@@ -4166,6 +4144,19 @@
    "placement": true
   },
   {
+   "ticker": "PNAQ",
+   "company": "Pinnacle Acquisition Corp",
+   "insider": "RECHTSCHAFFEN ANDREW",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 1000000.0,
+   "price": 10.0,
+   "value": 10000000.0,
+   "acc": "0001213900-26-088542",
+   "filed": "2026-08-12",
+   "placement": true
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4235,6 +4226,18 @@
    "price": 352.62,
    "value": 352.62,
    "acc": "0001437749-26-027275",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "PTIX",
+   "company": "Protagenic Therapeutics, Inc.\\new",
+   "insider": "ARMEN GARO H",
+   "role": "EXEC. CHAIR & PRINCIPAL OFF",
+   "date": "2026-08-11",
+   "shares": 2220.0,
+   "price": 0.32,
+   "value": 710.4,
+   "acc": "0001493152-26-037468",
    "filed": "2026-08-12"
   },
   {
@@ -4899,11 +4902,6 @@
    "total_value": 288380.0
   },
   {
-   "ticker": "SAGT",
-   "insiders": 2,
-   "total_value": 279125.0
-  },
-  {
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 273730.0
@@ -4988,11 +4986,15 @@
    "insiders": 5,
    "total_value": 0,
    "other_value": 134000.0
+  },
+  {
+   "ticker": "PNAQ",
+   "insiders": 2,
+   "total_value": 0,
+   "other_value": 12350000.0
   }
  ],
  "seen": [
-  "0001918704-26-020450",
-  "0001918704-26-020451",
   "0001918704-26-020452",
   "0001918704-26-020453",
   "0001918704-26-020454",
@@ -7707,6 +7709,8 @@
   "0002070264-26-000008",
   "0002070849-26-000044",
   "0002070849-26-000052",
+  "0002070849-26-000058",
+  "0002070849-26-000062",
   "0002070858-26-000012",
   "0002071761-26-000009",
   "0002071844-26-000880",
