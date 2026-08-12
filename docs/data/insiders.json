@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-12 19:04 UTC",
+ "updated_utc": "2026-08-12 19:19 UTC",
  "purchases": [
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 756.0,
-   "price": 3.04,
-   "value": 2298.24,
-   "acc": "0001437749-26-025012",
-   "filed": "2026-07-30"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "shares": 1000.0,
-   "price": 2.525,
-   "value": 2525.0,
-   "acc": "0001536588-26-000023",
-   "filed": "2026-07-31"
-  },
-  {
-   "ticker": "ASPS",
-   "company": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
-   "insider": "Winkler Matthew T.",
-   "role": "Director",
-   "date": "2026-07-29",
-   "shares": 701.0,
-   "price": 5.1,
-   "value": 3575.1,
-   "acc": "0001785467-26-000005",
-   "filed": "2026-07-31"
-  },
   {
    "ticker": "BCDA",
    "company": "BioCardia, Inc.",
@@ -2492,6 +2456,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "BOTJ",
+   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
+   "insider": "SYREK MICHAEL A",
+   "role": "President - Bank of the James",
+   "date": "2026-08-07",
+   "shares": 100.0,
+   "price": 27.05,
+   "value": 2705.0,
+   "acc": "0001437749-26-027272",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lu Chin-Sheng",
@@ -3833,6 +3809,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "PFSA",
+   "company": "Profusa, Inc.",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "shares": 4016.0,
+   "price": 0.944,
+   "value": 3791.1,
+   "acc": "0001475597-26-000194",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "MUNEX",
    "company": "BlackRock Municipal Credit Alpha Portfolio, Inc.",
    "insider": "BANK OF AMERICA CORP /DE/",
@@ -4565,6 +4553,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 1.0,
+   "price": 352.62,
+   "value": 352.62,
+   "acc": "0001437749-26-027275",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "CBKM",
    "company": "CONSUMERS BANCORP INC /OH/",
    "insider": "Bickerton David R",
@@ -4953,8 +4953,8 @@
   },
   {
    "ticker": "BOTJ",
-   "insiders": 2,
-   "total_value": 30135.47
+   "insiders": 3,
+   "total_value": 32840.47
   },
   {
    "ticker": "NWPP",
@@ -5000,11 +5000,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020365",
-  "0001918704-26-020366",
-  "0001918704-26-020367",
-  "0001918704-26-020368",
-  "0001918704-26-020369",
   "0001918704-26-020370",
   "0001918704-26-020371",
   "0001918704-26-020372",
@@ -6923,6 +6918,11 @@
   "0001918704-26-023559",
   "0001918704-26-023560",
   "0001918704-26-023561",
+  "0001918704-26-023562",
+  "0001918704-26-023563",
+  "0001918704-26-023564",
+  "0001918704-26-023565",
+  "0001918704-26-023566",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
