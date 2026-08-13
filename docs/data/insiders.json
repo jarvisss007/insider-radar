@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-13 22:18 UTC",
+ "updated_utc": "2026-08-13 22:34 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "shares": 2979.0,
-   "price": 2.7713,
-   "value": 8255.7,
-   "acc": "0001536588-26-000024",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "FNRN",
-   "company": "FIRST NORTHERN COMMUNITY BANCORP",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 500.0,
-   "price": 18.321,
-   "value": 9160.5,
-   "acc": "0001437749-26-026603",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "COCP",
-   "company": "Cocrystal Pharma, Inc.",
-   "insider": "FROST PHILLIP MD ET AL",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 10000.0,
-   "price": 0.9816,
-   "value": 9816.0,
-   "acc": "0001493152-26-036396",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "AWRE",
    "company": "AWARE INC /MA/",
@@ -4617,6 +4581,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "CODI",
+   "company": "Compass Diversified Holdings",
+   "insider": "Keller Stephen",
+   "role": "",
+   "date": "2026-08-12",
+   "shares": 10000.0,
+   "price": 12.0143,
+   "value": 120143.0,
+   "acc": "0001193125-26-349764",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "EMBC",
    "company": "Embecta Corp.",
    "insider": "Kurdikar Devdatt",
@@ -4687,6 +4663,18 @@
    "value": 249906.8,
    "acc": "0001423902-26-000095",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "CODI",
+   "company": "Compass Diversified Holdings",
+   "insider": "Sawtelle Zachary T.",
+   "role": "",
+   "date": "2026-08-12",
+   "shares": 25000.0,
+   "price": 11.9863,
+   "value": 299657.5,
+   "acc": "0001193125-26-349762",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "PTLO",
@@ -4819,6 +4807,18 @@
    "value": 79500.0,
    "acc": "0001976684-26-000011",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "CODI",
+   "company": "Compass Diversified Holdings",
+   "insider": "Sawtelle Zachary T.",
+   "role": "",
+   "date": "2026-08-13",
+   "shares": 7000.0,
+   "price": 12.45,
+   "value": 87150.0,
+   "acc": "0001193125-26-349762",
+   "filed": "2026-08-13"
   }
  ],
  "clusters": [
@@ -4899,6 +4899,11 @@
    "ticker": "EMBC",
    "insiders": 4,
    "total_value": 557945.0
+  },
+  {
+   "ticker": "CODI",
+   "insiders": 2,
+   "total_value": 506950.5
   },
   {
    "ticker": "CC",
