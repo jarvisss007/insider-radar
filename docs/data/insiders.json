@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-13 04:39 UTC",
+ "updated_utc": "2026-08-13 13:32 UTC",
  "purchases": [
-  {
-   "ticker": "HEPA",
-   "company": "Hepion Pharmaceuticals, Inc.",
-   "insider": "Appajosyula Sireesh",
-   "role": "Chief Operating Officer",
-   "date": "2026-08-03",
-   "shares": 2000000.0,
-   "price": 0.05,
-   "value": 100000.0,
-   "acc": "0001493152-26-037490",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "GBFH",
-   "company": "GBank Financial Holdings Inc.",
-   "insider": "NEWGARD JEFFREY K",
-   "role": "President/CEO (GBank)",
-   "date": "2026-08-03",
-   "shares": 6309.0,
-   "price": 21.7545,
-   "value": 137249.14,
-   "acc": "0001193125-26-335471",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "GTE",
-   "company": "GRAN TIERRA ENERGY INC.",
-   "insider": "LM Asset Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-03",
-   "shares": 24000.0,
-   "price": 6.8945,
-   "value": 165468.0,
-   "acc": "0000935836-26-000372",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "GBFH",
-   "company": "GBank Financial Holdings Inc.",
-   "insider": "NEWGARD JEFFREY K",
-   "role": "President/CEO (GBank)",
-   "date": "2026-08-03",
-   "shares": 12889.0,
-   "price": 21.7545,
-   "value": 280393.75,
-   "acc": "0001193125-26-335471",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "HEPA",
-   "company": "Hepion Pharmaceuticals, Inc.",
-   "insider": "LoPriore Vincent S",
-   "role": "Executive Chairman",
-   "date": "2026-08-03",
-   "shares": 8000000.0,
-   "price": 0.05,
-   "value": 400000.0,
-   "acc": "0001493152-26-037489",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "HLI",
-   "company": "HOULIHAN LOKEY, INC.",
-   "insider": "ALLEY J LINDSEY",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-03",
-   "shares": 4020.0,
-   "price": 124.52,
-   "value": 500570.4,
-   "acc": "0001302215-26-000069",
-   "filed": "2026-08-05"
-  },
   {
    "ticker": "TLSA",
    "company": "Tiziana Life Sciences Ltd",
@@ -4258,6 +4186,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "XRN",
+   "company": "Chiron Real Estate Inc.",
+   "insider": "Decker Mark Okey Jr",
+   "role": "CEO and President",
+   "date": "2026-08-11",
+   "shares": 550.0,
+   "price": 36.0,
+   "value": 19800.0,
+   "acc": "0001104659-26-095430",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "CRBP",
    "company": "Corbus Pharmaceuticals Holdings, Inc.",
    "insider": "Saxena Nishant C",
@@ -4510,6 +4450,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "EVGN",
+   "company": "Evogene Ltd.",
+   "insider": "RECANATI LEON",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 460000.0,
+   "price": 0.635,
+   "value": 292100.0,
+   "acc": "0001178913-26-004095",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "APTV",
    "company": "Aptiv PLC",
    "insider": "Mahoney Sean O",
@@ -4544,6 +4496,18 @@
    "value": 335000.0,
    "acc": "0001229310-26-000012",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "XRN",
+   "company": "Chiron Real Estate Inc.",
+   "insider": "Fitzgerald Charles",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 14000.0,
+   "price": 35.78,
+   "value": 500920.0,
+   "acc": "0001104659-26-095423",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "SUJA",
@@ -4654,6 +4618,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "COE",
+   "company": "51Talk Online Education Group",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-11",
+   "shares": 254820.0,
+   "price": 19.61,
+   "value": 4997020.2,
+   "acc": "0002029760-26-000008",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4750,6 +4726,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "BTDR",
+   "company": "Bitdeer Technologies Group",
+   "insider": "Potter Michael G",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-12",
+   "shares": 25000.0,
+   "price": 9.04,
+   "value": 226000.0,
+   "acc": "0001213900-26-088668",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "WES",
    "company": "Western Midstream Partners, LP",
    "insider": "Forthuber Frederick A.",
@@ -4820,6 +4808,18 @@
    "value": 1705623.5,
    "acc": "0001225208-26-007097",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "COE",
+   "company": "51Talk Online Education Group",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-12",
+   "shares": 337500.0,
+   "price": 20.17,
+   "value": 6807375.0,
+   "acc": "0002029760-26-000008",
+   "filed": "2026-08-13"
   }
  ],
  "clusters": [
@@ -4862,14 +4862,14 @@
    "total_value": 4018492.45
   },
   {
-   "ticker": "GBFH",
-   "insiders": 5,
-   "total_value": 1742873.54
-  },
-  {
    "ticker": "XRN",
    "insiders": 2,
-   "total_value": 1278984.0
+   "total_value": 1799704.0
+  },
+  {
+   "ticker": "GBFH",
+   "insiders": 5,
+   "total_value": 1325230.65
   },
   {
    "ticker": "AMRC",
@@ -4890,11 +4890,6 @@
    "ticker": "TSCO",
    "insiders": 2,
    "total_value": 552129.9
-  },
-  {
-   "ticker": "HEPA",
-   "insiders": 2,
-   "total_value": 500000.0
   },
   {
    "ticker": "CC",
@@ -5000,12 +4995,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020464",
-  "0001918704-26-020465",
-  "0001918704-26-020466",
-  "0001918704-26-020467",
-  "0001918704-26-020471",
-  "0001918704-26-020472",
   "0001918704-26-020473",
   "0001918704-26-020474",
   "0001918704-26-020477",
@@ -6868,6 +6857,7 @@
   "0001918704-26-023611",
   "0001918704-26-023612",
   "0001918704-26-023613",
+  "0001918704-26-023625",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7452,6 +7442,9 @@
   "0001999371-26-017684",
   "0001999371-26-017719",
   "0001999371-26-017721",
+  "0001999371-26-017737",
+  "0001999371-26-017742",
+  "0001999371-26-017746",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999846-26-000004",
@@ -7546,6 +7539,7 @@
   "0002029760-26-000005",
   "0002029760-26-000006",
   "0002029760-26-000007",
+  "0002029760-26-000008",
   "0002030396-26-000003",
   "0002030650-26-000006",
   "0002031182-26-000005",
@@ -7910,6 +7904,7 @@
   "0002122338-26-000005",
   "0002122338-26-000006",
   "0002122341-26-000005",
+  "0002122342-26-000005",
   "0002122411-26-000001",
   "0002122712-26-000004",
   "0002123155-26-000002",
