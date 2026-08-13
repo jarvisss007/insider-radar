@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-13 22:03 UTC",
+ "updated_utc": "2026-08-13 22:18 UTC",
  "purchases": [
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 20000.0,
-   "price": 0.3945,
-   "value": 7890.0,
-   "acc": "0001683168-26-006107",
-   "filed": "2026-08-07"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4185,6 +4173,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "BRACKEN CHARLES H R",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 17425.0,
+   "price": 20.9294,
+   "value": 364694.8,
+   "acc": "0001091974-26-000018",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "CEG",
    "company": "Constellation Energy Corp",
    "insider": "CRANDALL ROGER W",
@@ -4859,6 +4859,11 @@
    "ticker": "ACDC",
    "insiders": 2,
    "total_value": 4018492.45
+  },
+  {
+   "ticker": "LILA",
+   "insiders": 2,
+   "total_value": 3269466.55
   },
   {
    "ticker": "XRN",
