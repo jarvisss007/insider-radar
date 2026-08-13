@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-13 00:20 UTC",
+ "updated_utc": "2026-08-13 00:36 UTC",
  "purchases": [
-  {
-   "ticker": "ANIK",
-   "company": "Anika Therapeutics, Inc.",
-   "insider": "Fischetti Gary P",
-   "role": "Director",
-   "date": "2026-08-03",
-   "shares": 1000.0,
-   "price": 20.745,
-   "value": 20745.0,
-   "acc": "0001193125-26-335269",
-   "filed": "2026-08-05"
-  },
   {
    "ticker": "FIDELITY CORE REAL ESTATE FUND (CIK 1953520)",
    "company": "Fidelity Core Real Estate Fund",
@@ -4786,6 +4774,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-12",
+   "shares": 60000.0,
+   "price": 7.0498,
+   "value": 422988.0,
+   "acc": "0000905148-26-003613",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
    "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
@@ -4995,7 +4995,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020457",
   "0001918704-26-020458",
   "0001918704-26-020459",
   "0001918704-26-020461",
@@ -6993,6 +6992,7 @@
   "0001966942-26-000004",
   "0001966946-26-000007",
   "0001967048-26-000010",
+  "0001967050-26-000008",
   "0001967575-26-000010",
   "0001967680-26-000036",
   "0001967680-26-000038",
