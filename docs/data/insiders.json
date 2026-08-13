@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-13 15:59 UTC",
+ "updated_utc": "2026-08-13 16:15 UTC",
  "purchases": [
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-04",
-   "shares": 1041.0,
-   "price": 78.9391,
-   "value": 82175.6,
-   "acc": "0001193125-26-333500",
-   "filed": "2026-08-04"
-  },
-  {
-   "ticker": "ADAG",
-   "company": "Adagene Inc.",
-   "insider": "Luo Peter",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-04",
-   "shares": 22966.0,
-   "price": 3.6465,
-   "value": 83745.52,
-   "acc": "0001104659-26-092176",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "TSCO",
    "company": "TRACTOR SUPPLY CO /DE/",
@@ -4029,6 +4005,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "CIA",
+   "company": "CITIZENS, INC.",
+   "insider": "Hoxworth Seth Alan",
+   "role": "Chief Actuary",
+   "date": "2026-08-11",
+   "shares": 5376.0,
+   "price": 3.83,
+   "value": 20590.08,
+   "acc": "0002120865-26-000007",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "CRBP",
    "company": "Corbus Pharmaceuticals Holdings, Inc.",
    "insider": "Saxena Nishant C",
@@ -4557,6 +4545,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "RVSB",
+   "company": "RIVERVIEW BANCORP INC",
+   "insider": "Lightheart Charmaine",
+   "role": "EVP/CRDEO",
+   "date": "2026-08-12",
+   "shares": 250.0,
+   "price": 5.309,
+   "value": 1327.25,
+   "acc": "0002050978-26-000006",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4921,6 +4921,11 @@
    "total_value": 273730.0
   },
   {
+   "ticker": "CIA",
+   "insiders": 2,
+   "total_value": 264015.28
+  },
+  {
    "ticker": "WBHC",
    "insiders": 2,
    "total_value": 251351.4
@@ -4999,9 +5004,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020499",
-  "0001918704-26-020500",
-  "0001918704-26-020501",
   "0001918704-26-020502",
   "0001918704-26-020503",
   "0001918704-26-020504",
@@ -6853,6 +6855,7 @@
   "0001918704-26-023665",
   "0001918704-26-023666",
   "0001918704-26-023675",
+  "0001918704-26-023676",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7612,6 +7615,7 @@
   "0002050035-26-000011",
   "0002050167-26-000019",
   "0002050576-26-000004",
+  "0002050978-26-000006",
   "0002051008-26-000002",
   "0002051575-26-000004",
   "0002051619-26-000018",
@@ -7900,6 +7904,7 @@
   "0002116333-26-000001",
   "0002120466-26-000002",
   "0002120714-26-000004",
+  "0002120865-26-000007",
   "0002120899-26-000006",
   "0002121122-26-000001",
   "0002121472-26-000001",
