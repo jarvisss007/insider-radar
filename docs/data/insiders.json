@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-13 21:31 UTC",
+ "updated_utc": "2026-08-13 21:47 UTC",
  "purchases": [
-  {
-   "ticker": "WBHC",
-   "company": "WILSON BANK HOLDING CO",
-   "insider": "RICHERSON HERBERT ELMER",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 30.0,
-   "price": 83.45,
-   "value": 2503.5,
-   "acc": "0001899338-26-000005",
-   "filed": "2026-08-05"
-  },
   {
    "ticker": "NWPP",
    "company": "NEW PEOPLES BANKSHARES INC",
@@ -4797,6 +4785,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "BCDA",
+   "company": "BioCardia, Inc.",
+   "insider": "Altman Peter",
+   "role": "President and CEO",
+   "date": "2026-08-13",
+   "shares": 1900.0,
+   "price": 0.92,
+   "value": 1748.0,
+   "acc": "0001437749-26-027743",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "ALT",
    "company": "Altimmune, Inc.",
    "insider": "Durso Jerome Benedict",
@@ -4926,11 +4926,6 @@
    "total_value": 264015.28
   },
   {
-   "ticker": "WBHC",
-   "insiders": 2,
-   "total_value": 251351.4
-  },
-  {
    "ticker": "MTDR",
    "insiders": 2,
    "total_value": 239695.32
@@ -5004,7 +4999,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020599",
   "0001918704-26-020600",
   "0001918704-26-020601",
   "0001918704-26-020602",
@@ -7090,6 +7084,7 @@
   "0001997584-26-000006",
   "0001998242-26-000004",
   "0001998256-26-000007",
+  "0001998256-26-000011",
   "0001998460-26-000009",
   "0001998544-26-000004",
   "0001998544-26-000006",
