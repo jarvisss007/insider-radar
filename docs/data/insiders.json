@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-13 21:47 UTC",
+ "updated_utc": "2026-08-13 22:03 UTC",
  "purchases": [
-  {
-   "ticker": "NWPP",
-   "company": "NEW PEOPLES BANKSHARES INC",
-   "insider": "White Blaine Scott",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 1716.0,
-   "price": 4.35,
-   "value": 7464.6,
-   "acc": "0001903596-26-000292",
-   "filed": "2026-08-07"
-  },
   {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
@@ -4437,6 +4425,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "LXU",
+   "company": "LSB INDUSTRIES, INC.",
+   "insider": "Ackerman Jonathan Z.",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 1000.0,
+   "price": 9.89,
+   "value": 9890.0,
+   "acc": "0001193125-26-349713",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "FNRN",
    "company": "FIRST NORTHERN COMMUNITY BANCORP",
    "insider": "Servat Jean-Luc",
@@ -4964,11 +4964,6 @@
    "ticker": "BOTJ",
    "insiders": 3,
    "total_value": 32840.47
-  },
-  {
-   "ticker": "NWPP",
-   "insiders": 2,
-   "total_value": 26969.8
   },
   {
    "ticker": "CZNC",
