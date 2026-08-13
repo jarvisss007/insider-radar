@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-12 23:48 UTC",
+ "updated_utc": "2026-08-13 00:04 UTC",
  "purchases": [
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-03",
-   "shares": 20000.0,
-   "price": 0.29,
-   "value": 5800.0,
-   "acc": "0001683168-26-005990",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "SHBI",
-   "company": "SHORE BANCSHARES INC",
-   "insider": "LAMON JOHN",
-   "role": "Director",
-   "date": "2026-08-03",
-   "shares": 300.0,
-   "price": 24.5698,
-   "value": 7370.94,
-   "acc": "0001463254-26-000006",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "PFSA",
-   "company": "Profusa, Inc.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-03",
-   "shares": 14556.0,
-   "price": 0.958,
-   "value": 13944.65,
-   "acc": "0001475597-26-000185",
-   "filed": "2026-08-05"
-  },
   {
    "ticker": "ANIK",
    "company": "Anika Therapeutics, Inc.",
@@ -3663,6 +3627,18 @@
    "filed": "2026-08-10"
   },
   {
+   "ticker": "UTI",
+   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+   "insider": "DEVINCENZI ROBERT THOMAS",
+   "role": "Director",
+   "date": "2026-08-10",
+   "shares": 8000.0,
+   "price": 28.2095,
+   "value": 225676.0,
+   "acc": "0001193125-26-347428",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "STRZ",
    "company": "STARZ ENTERTAINMENT CORP /CN/",
    "insider": "Hirsch Jeffrey",
@@ -4738,6 +4714,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "FNRN",
+   "company": "FIRST NORTHERN COMMUNITY BANCORP",
+   "insider": "Servat Jean-Luc",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 400.0,
+   "price": 17.29,
+   "value": 6916.0,
+   "acc": "0001437749-26-027431",
+   "filed": "2026-08-12"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -4747,6 +4735,18 @@
    "price": 0.3721,
    "value": 7442.0,
    "acc": "0001683168-26-006291",
+   "filed": "2026-08-12"
+  },
+  {
+   "ticker": "FNRN",
+   "company": "FIRST NORTHERN COMMUNITY BANCORP",
+   "insider": "Servat Jean-Luc",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 600.0,
+   "price": 17.2899,
+   "value": 10373.94,
+   "acc": "0001437749-26-027431",
    "filed": "2026-08-12"
   },
   {
