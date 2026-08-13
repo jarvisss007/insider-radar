@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-13 21:15 UTC",
+ "updated_utc": "2026-08-13 21:31 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "shares": 155.0,
-   "price": 2.7365,
-   "value": 424.16,
-   "acc": "0001536588-26-000024",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "ADAG",
-   "company": "Adagene Inc.",
-   "insider": "Luo Peter",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-05",
-   "shares": 279.0,
-   "price": 3.65,
-   "value": 1018.35,
-   "acc": "0001104659-26-092176",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "PTIX",
-   "company": "Protagenic Therapeutics, Inc.\\new",
-   "insider": "ARMEN GARO H",
-   "role": "EXEC. CHAIR & PRINCIPAL OFF",
-   "date": "2026-08-05",
-   "shares": 5000.0,
-   "price": 0.2588,
-   "value": 1294.0,
-   "acc": "0001493152-26-036442",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "shares": 756.0,
-   "price": 2.97,
-   "value": 2245.32,
-   "acc": "0001437749-26-026079",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
@@ -3945,6 +3897,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "CC",
+   "company": "Chemours Co",
+   "insider": "Dignam Denise",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-11",
+   "shares": 3378.0,
+   "price": 14.95,
+   "value": 50501.1,
+   "acc": "0001193125-26-349607",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4243,6 +4207,18 @@
    "value": 335000.0,
    "acc": "0001229310-26-000012",
    "filed": "2026-08-11"
+  },
+  {
+   "ticker": "CEG",
+   "company": "Constellation Energy Corp",
+   "insider": "CRANDALL ROGER W",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 1500.0,
+   "price": 278.6206,
+   "value": 417930.9,
+   "acc": "0000905148-26-003642",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "XRN",
@@ -4557,6 +4533,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "CC",
+   "company": "Chemours Co",
+   "insider": "Familiar Calderon Gerardo",
+   "role": "See Remarks",
+   "date": "2026-08-12",
+   "shares": 1935.0,
+   "price": 15.53,
+   "value": 30050.55,
+   "acc": "0001193125-26-349656",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4723,6 +4711,18 @@
    "value": 299979.45,
    "acc": "0001242843-26-000010",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "BDSX",
+   "company": "BIODESIX INC",
+   "insider": "SCHULER JACK W",
+   "role": "10% owner",
+   "date": "2026-08-12",
+   "shares": 15000.0,
+   "price": 24.4661,
+   "value": 366991.5,
+   "acc": "0000905148-26-003641",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "OPFI",
@@ -4897,8 +4897,8 @@
   },
   {
    "ticker": "CC",
-   "insiders": 5,
-   "total_value": 408067.66
+   "insiders": 7,
+   "total_value": 488619.31
   },
   {
    "ticker": "AHCO",
@@ -5004,10 +5004,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020595",
-  "0001918704-26-020596",
-  "0001918704-26-020597",
-  "0001918704-26-020598",
   "0001918704-26-020599",
   "0001918704-26-020600",
   "0001918704-26-020601",
@@ -6830,6 +6826,9 @@
   "0001918704-26-023736",
   "0001918704-26-023737",
   "0001918704-26-023741",
+  "0001918704-26-023742",
+  "0001918704-26-023743",
+  "0001918704-26-023744",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6867,6 +6866,7 @@
   "0001931495-26-000002",
   "0001931824-26-000017",
   "0001931967-26-000019",
+  "0001932551-26-000008",
   "0001932635-26-000005",
   "0001932635-26-000007",
   "0001932973-26-000021",
