@@ -1,16 +1,16 @@
 {
- "updated_utc": "2026-08-13 01:39 UTC",
+ "updated_utc": "2026-08-13 01:55 UTC",
  "purchases": [
   {
    "ticker": "HEPA",
    "company": "Hepion Pharmaceuticals, Inc.",
-   "insider": "LoPriore Vincent S",
-   "role": "Executive Chairman",
+   "insider": "Appajosyula Sireesh",
+   "role": "Chief Operating Officer",
    "date": "2026-08-03",
    "shares": 2000000.0,
    "price": 0.05,
    "value": 100000.0,
-   "acc": "0001493152-26-037489",
+   "acc": "0001493152-26-037490",
    "filed": "2026-08-12"
   },
   {
@@ -4890,6 +4890,11 @@
    "ticker": "TSCO",
    "insiders": 2,
    "total_value": 552129.9
+  },
+  {
+   "ticker": "HEPA",
+   "insiders": 2,
+   "total_value": 500000.0
   },
   {
    "ticker": "CC",
