@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-13 15:11 UTC",
+ "updated_utc": "2026-08-13 15:27 UTC",
  "purchases": [
-  {
-   "ticker": "NMZ",
-   "company": "NUVEEN MUNICIPAL HIGH INCOME OPPORTUNITY FUND",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "shares": 1.0,
-   "price": 10.175,
-   "value": 10.18,
-   "acc": "0000070858-26-000411",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "NMZ",
-   "company": "NUVEEN MUNICIPAL HIGH INCOME OPPORTUNITY FUND",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "shares": 1.0,
-   "price": 10.1887,
-   "value": 10.19,
-   "acc": "0000070858-26-000411",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "NMZ",
-   "company": "NUVEEN MUNICIPAL HIGH INCOME OPPORTUNITY FUND",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "shares": 1.0,
-   "price": 10.185,
-   "value": 10.19,
-   "acc": "0000070858-26-000411",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "VALE",
-   "company": "Vale S.A.",
-   "insider": "Viana Madeira Andre",
-   "role": "Director",
-   "date": "2026-08-04",
-   "shares": 4.0,
-   "price": 14.99,
-   "value": 59.96,
-   "acc": "0001292814-26-004168",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -4257,6 +4209,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Hill Jaime",
+   "role": "President, Building Materials",
+   "date": "2026-08-11",
+   "shares": 1500.0,
+   "price": 47.12,
+   "value": 70680.0,
+   "acc": "0002069377-26-000002",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "NMM",
    "company": "Navios Maritime Partners L.P.",
    "insider": "Frangou Angeliki",
@@ -4339,6 +4303,18 @@
    "value": 122366.33,
    "acc": "0001696102-26-000008",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Oran Baris",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-11",
+   "shares": 3000.0,
+   "price": 47.38,
+   "value": 142140.0,
+   "acc": "0001874231-26-000007",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "SMRT",
@@ -4653,6 +4629,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "RICK",
+   "company": "RCI HOSPITALITY HOLDINGS, INC.",
+   "insider": "Barabash Yura V",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 888.0,
+   "price": 27.2899,
+   "value": 24233.43,
+   "acc": "0001628280-26-056563",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4710,6 +4698,18 @@
    "price": 4.6979,
    "value": 140937.0,
    "acc": "0000947871-26-000789",
+   "filed": "2026-08-13"
+  },
+  {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Oran Baris",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-12",
+   "shares": 3000.0,
+   "price": 47.13,
+   "value": 141390.0,
+   "acc": "0001874231-26-000007",
    "filed": "2026-08-13"
   },
   {
@@ -4906,6 +4906,11 @@
    "total_value": 394530.0
   },
   {
+   "ticker": "AMRZ",
+   "insiders": 2,
+   "total_value": 354210.0
+  },
+  {
    "ticker": "ELAN",
    "insiders": 2,
    "total_value": 333775.92
@@ -4999,10 +5004,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020491",
-  "0001918704-26-020492",
-  "0001918704-26-020493",
-  "0001918704-26-020494",
   "0001918704-26-020495",
   "0001918704-26-020496",
   "0001918704-26-020497",
@@ -6857,6 +6858,9 @@
   "0001918704-26-023661",
   "0001918704-26-023662",
   "0001918704-26-023663",
+  "0001918704-26-023664",
+  "0001918704-26-023665",
+  "0001918704-26-023666",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7706,6 +7710,7 @@
   "0002068307-26-000004",
   "0002068536-26-000004",
   "0002069148-26-000002",
+  "0002069377-26-000002",
   "0002069860-26-000010",
   "0002070264-26-000008",
   "0002070849-26-000044",
