@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-08-13 19:39 UTC",
+ "updated_utc": "2026-08-13 20:12 UTC",
  "purchases": [
-  {
-   "ticker": "BXMT",
-   "company": "BLACKSTONE MORTGAGE TRUST, INC.",
-   "insider": "NASSAU HENRY N",
-   "role": "Director",
-   "date": "2026-08-04",
-   "shares": 10000.0,
-   "price": 14.3357,
-   "value": 143357.0,
-   "acc": "0001061630-26-000073",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "GBFH",
-   "company": "GBank Financial Holdings Inc.",
-   "insider": "NEWGARD JEFFREY K",
-   "role": "President/CEO (GBank)",
-   "date": "2026-08-04",
-   "shares": 8772.0,
-   "price": 21.5371,
-   "value": 188923.44,
-   "acc": "0001193125-26-335471",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "GBFH",
-   "company": "GBank Financial Holdings Inc.",
-   "insider": "NIGRO EDWARD MICHAEL",
-   "role": "CEO and Executive Chairman",
-   "date": "2026-08-04",
-   "shares": 9200.0,
-   "price": 21.5057,
-   "value": 197852.44,
-   "acc": "0001193125-26-335505",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "GBFH",
-   "company": "GBank Financial Holdings Inc.",
-   "insider": "Herbst Timothy P",
-   "role": "Director",
-   "date": "2026-08-04",
-   "shares": 10000.0,
-   "price": 21.4971,
-   "value": 214971.0,
-   "acc": "0001193125-26-335498",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "GTE",
-   "company": "GRAN TIERRA ENERGY INC.",
-   "insider": "LM Asset Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "shares": 34000.0,
-   "price": 6.8841,
-   "value": 234059.4,
-   "acc": "0000935836-26-000372",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "WCC",
-   "company": "WESCO INTERNATIONAL INC",
-   "insider": "Castillo Daniel J",
-   "role": "EVP & GM, EES",
-   "date": "2026-08-04",
-   "shares": 960.0,
-   "price": 365.89,
-   "value": 351254.4,
-   "acc": "0001193125-26-335628",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "DMC",
-   "company": "DEL MONTE CORP",
-   "insider": "Abbas Mohammed",
-   "role": "President & COO",
-   "date": "2026-08-04",
-   "shares": 12000.0,
-   "price": 29.8921,
-   "value": 358705.2,
-   "acc": "0001663529-26-000011",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "BWMX",
    "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
@@ -4041,6 +3957,18 @@
    "filed": "2026-08-11"
   },
   {
+   "ticker": "CE",
+   "company": "Celanese Corp",
+   "insider": "Duffie Ashley B",
+   "role": "SVP & GC",
+   "date": "2026-08-11",
+   "shares": 600.0,
+   "price": 45.6,
+   "value": 27360.0,
+   "acc": "0002000487-26-000003",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4051,6 +3979,18 @@
    "value": 30409.3,
    "acc": "0001628873-26-000064",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AMH",
+   "company": "American Homes 4 Rent",
+   "insider": "BENHAM DOUGLAS N",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 1500.0,
+   "price": 22.6,
+   "value": 33900.0,
+   "acc": "0001275331-26-000012",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "MTDR",
@@ -4075,6 +4015,18 @@
    "value": 43795.2,
    "acc": "0002015793-26-000014",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "AMH",
+   "company": "American Homes 4 Rent",
+   "insider": "BENHAM DOUGLAS N",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 2000.0,
+   "price": 23.7,
+   "value": 47400.0,
+   "acc": "0001275331-26-000012",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "ATO",
@@ -4605,6 +4557,30 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "AMH",
+   "company": "American Homes 4 Rent",
+   "insider": "BENHAM DOUGLAS N",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 500.0,
+   "price": 22.51,
+   "value": 11255.0,
+   "acc": "0001275331-26-000012",
+   "filed": "2026-08-13"
+  },
+  {
+   "ticker": "OCSL",
+   "company": "Oaktree Specialty Lending Corp",
+   "insider": "Panossian Armen",
+   "role": "See Remarks",
+   "date": "2026-08-12",
+   "shares": 1700.0,
+   "price": 12.6945,
+   "value": 21580.65,
+   "acc": "0001193125-26-349145",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "BLBD",
    "company": "Blue Bird Corp",
    "insider": "Thau Daniel Mark",
@@ -4639,6 +4615,18 @@
    "value": 32192.2,
    "acc": "0001628873-26-000064",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "BW",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "insider": "Young Kenneth M",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-12",
+   "shares": 7000.0,
+   "price": 9.65,
+   "value": 67550.0,
+   "acc": "0001630805-26-000071",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "NMM",
@@ -4819,6 +4807,18 @@
    "value": 6807375.0,
    "acc": "0002029760-26-000008",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "ALT",
+   "company": "Altimmune, Inc.",
+   "insider": "Durso Jerome Benedict",
+   "role": "President and CEO",
+   "date": "2026-08-13",
+   "shares": 15000.0,
+   "price": 2.95,
+   "value": 44250.0,
+   "acc": "0001698665-26-000007",
+   "filed": "2026-08-13"
   }
  ],
  "clusters": [
@@ -4869,11 +4869,6 @@
    "ticker": "AMRC",
    "insiders": 2,
    "total_value": 1176199.0
-  },
-  {
-   "ticker": "GBFH",
-   "insiders": 4,
-   "total_value": 1127421.88
   },
   {
    "ticker": "CCB",
@@ -5004,15 +4999,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020541",
-  "0001918704-26-020542",
-  "0001918704-26-020543",
-  "0001918704-26-020552",
-  "0001918704-26-020553",
-  "0001918704-26-020554",
-  "0001918704-26-020555",
-  "0001918704-26-020556",
-  "0001918704-26-020557",
   "0001918704-26-020558",
   "0001918704-26-020559",
   "0001918704-26-020560",
@@ -6855,6 +6841,11 @@
   "0001918704-26-023716",
   "0001918704-26-023717",
   "0001918704-26-023718",
+  "0001918704-26-023719",
+  "0001918704-26-023720",
+  "0001918704-26-023722",
+  "0001918704-26-023723",
+  "0001918704-26-023724",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -6996,6 +6987,7 @@
   "0001969106-26-000004",
   "0001969292-26-000009",
   "0001970613-26-000004",
+  "0001971363-26-000006",
   "0001971511-26-000004",
   "0001971797-26-000010",
   "0001972724-26-000010",
@@ -7453,6 +7445,7 @@
   "0001999846-26-000004",
   "0002000276-26-000006",
   "0002000358-26-000016",
+  "0002000487-26-000003",
   "0002002763-26-000006",
   "0002004222-26-000006",
   "0002004222-26-000007",
@@ -7497,6 +7490,7 @@
   "0002014440-26-000010",
   "0002014560-26-000008",
   "0002014633-26-000014",
+  "0002014966-26-000011",
   "0002015287-26-000015",
   "0002015793-26-000012",
   "0002015793-26-000014",
@@ -7822,6 +7816,7 @@
   "0002080588-26-000005",
   "0002080671-26-000014",
   "0002080878-26-000012",
+  "0002080948-26-000008",
   "0002081396-26-000008",
   "0002081604-26-000008",
   "0002081627-26-000013",
