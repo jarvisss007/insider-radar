@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-13 16:15 UTC",
+ "updated_utc": "2026-08-13 17:02 UTC",
  "purchases": [
-  {
-   "ticker": "TSCO",
-   "company": "TRACTOR SUPPLY CO /DE/",
-   "insider": "Lawton III Harry A",
-   "role": "President & CEO",
-   "date": "2026-08-04",
-   "shares": 2655.0,
-   "price": 31.9,
-   "value": 84694.5,
-   "acc": "0001647222-26-000012",
-   "filed": "2026-08-05"
-  },
-  {
-   "ticker": "GBFH",
-   "company": "GBank Financial Holdings Inc.",
-   "insider": "NEWGARD JEFFREY K",
-   "role": "President/CEO (GBank)",
-   "date": "2026-08-04",
-   "shares": 4293.0,
-   "price": 21.5371,
-   "value": 92458.77,
-   "acc": "0001193125-26-335471",
-   "filed": "2026-08-05"
-  },
   {
    "ticker": "GBFH",
    "company": "GBank Financial Holdings Inc.",
@@ -3849,6 +3825,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 200.0,
+   "price": 9.93,
+   "value": 1986.0,
+   "acc": "0001510281-26-000266",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4123,6 +4111,18 @@
    "value": 50280.0,
    "acc": "0001193125-26-346801",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "shares": 4758.0,
+   "price": 11.59,
+   "value": 55145.22,
+   "acc": "0001510281-26-000267",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "AMRZ",
@@ -4868,7 +4868,7 @@
   {
    "ticker": "GBFH",
    "insiders": 5,
-   "total_value": 1325230.65
+   "total_value": 1232771.88
   },
   {
    "ticker": "AMRC",
@@ -5004,10 +5004,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020502",
-  "0001918704-26-020503",
-  "0001918704-26-020504",
-  "0001918704-26-020505",
   "0001918704-26-020506",
   "0001918704-26-020507",
   "0001918704-26-020508",
@@ -6856,6 +6852,10 @@
   "0001918704-26-023666",
   "0001918704-26-023675",
   "0001918704-26-023676",
+  "0001918704-26-023677",
+  "0001918704-26-023678",
+  "0001918704-26-023679",
+  "0001918704-26-023680",
   "0001918845-26-000024",
   "0001919246-26-000100",
   "0001919246-26-000101",
