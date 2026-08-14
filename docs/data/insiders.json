@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-14 11:52 UTC",
+ "updated_utc": "2026-08-14 12:23 UTC",
  "purchases": [
-  {
-   "ticker": "YQ",
-   "company": "17 Education & Technology Group Inc.",
-   "insider": "Liu Chang",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-06",
-   "shares": 1857.0,
-   "price": 2.1315,
-   "value": 3958.2,
-   "acc": "0001193125-26-341197",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "PCF",
    "company": "HIGH INCOME SECURITIES FUND",
@@ -4819,6 +4807,18 @@
    "value": 1789787.5,
    "acc": "0001182684-26-000020",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 1500000.0,
+   "price": 4.0245,
+   "value": 6036750.0,
+   "acc": "0001628280-26-056941",
+   "filed": "2026-08-14"
   }
  ],
  "clusters": [
@@ -4838,6 +4838,11 @@
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
    "insiders": 4,
    "total_value": 11000000.0
+  },
+  {
+   "ticker": "BORR",
+   "insiders": 2,
+   "total_value": 6538387.5
   },
   {
    "ticker": "BLSM",
