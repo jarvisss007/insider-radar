@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-14 00:40 UTC",
+ "updated_utc": "2026-08-14 01:11 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 15.0,
-   "price": 2.798,
-   "value": 41.97,
-   "acc": "0001536588-26-000024",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "AWRE",
    "company": "AWARE INC /MA/",
@@ -4809,6 +4797,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-13",
+   "shares": 60000.0,
+   "price": 7.128,
+   "value": 427680.0,
+   "acc": "0000905148-26-003647",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "TXO",
    "company": "TXO Partners, L.P.",
    "insider": "SIMPSON BOB R",
@@ -4999,7 +4999,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020606",
   "0001918704-26-020607",
   "0001918704-26-020608",
   "0001918704-26-020609",
@@ -7030,6 +7029,7 @@
   "0001979234-26-000005",
   "0001979917-26-000023",
   "0001980648-26-000019",
+  "0001980648-26-000024",
   "0001980790-26-000012",
   "0001981393-26-000008",
   "0001981412-26-000001",
