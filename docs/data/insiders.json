@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-14 12:38 UTC",
+ "updated_utc": "2026-08-14 12:54 UTC",
  "purchases": [
-  {
-   "ticker": "QNTO",
-   "company": "QUAINT OAK BANCORP, INC.",
-   "insider": "GONZALEZ WILLIAM R",
-   "role": "President***",
-   "date": "2026-08-06",
-   "shares": 489.0,
-   "price": 14.25,
-   "value": 6968.25,
-   "acc": "0001437749-26-026966",
-   "filed": "2026-08-11"
-  },
   {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
@@ -4305,6 +4293,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "VVV",
+   "company": "VALVOLINE INC",
+   "insider": "Denny Jordan M.",
+   "role": "Chief Accounting Officer",
+   "date": "2026-08-12",
+   "shares": 1506.0,
+   "price": 33.2,
+   "value": 49999.2,
+   "acc": "0002120008-26-000006",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "Young Kenneth M",
@@ -5009,7 +5009,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020610",
   "0001918704-26-020611",
   "0001918704-26-020612",
   "0001918704-26-020613",
@@ -7904,6 +7903,7 @@
   "0002114987-26-000002",
   "0002115951-26-000004",
   "0002116333-26-000001",
+  "0002120008-26-000006",
   "0002120466-26-000002",
   "0002120714-26-000004",
   "0002120865-26-000007",
