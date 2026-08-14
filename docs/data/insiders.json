@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-14 17:39 UTC",
+ "updated_utc": "2026-08-14 17:55 UTC",
  "purchases": [
-  {
-   "ticker": "BYRN",
-   "company": "Byrna Technologies Inc.",
-   "insider": "ELMORE LEONARD J",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 10000.0,
-   "price": 4.64,
-   "value": 46400.0,
-   "acc": "0001437749-26-026647",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "APHP",
-   "company": "American Picture House Corp",
-   "insider": "Battles Timothy Southgate",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 500000.0,
-   "price": 0.1,
-   "value": 50000.0,
-   "acc": "0001493152-26-037444",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "ADTN",
    "company": "ADTRAN Holdings, Inc.",
@@ -853,6 +829,18 @@
    "value": 5278.32,
    "acc": "0001046179-26-000523",
    "filed": "2026-08-10"
+  },
+  {
+   "ticker": "STPEX",
+   "company": "StepStone Private Equity Strategies Fund",
+   "insider": "StepStone Group LP",
+   "role": "10% owner",
+   "date": "2026-08-07",
+   "shares": 557.769,
+   "price": 12.55,
+   "value": 7000.0,
+   "acc": "0001193125-26-351756",
+   "filed": "2026-08-14"
   },
   {
    "ticker": "APCX",
@@ -4713,6 +4701,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "KEEL",
+   "company": "Keel Infrastructure Corp.",
+   "insider": "Gagnon Benjamin",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-13",
+   "shares": 58888.0,
+   "price": 3.33,
+   "value": 196097.04,
+   "acc": "0001812477-26-000025",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
    "insider": "MALONE JOHN C",
@@ -5009,7 +5009,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020679",
   "0001918704-26-020680",
   "0001918704-26-020681",
   "0001918704-26-020757",
@@ -6811,6 +6810,7 @@
   "0001918704-26-023791",
   "0001918704-26-023792",
   "0001918704-26-023793",
+  "0001918704-26-023794",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
