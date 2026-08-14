@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-14 15:48 UTC",
+ "updated_utc": "2026-08-14 16:19 UTC",
  "purchases": [
-  {
-   "ticker": "FNRN",
-   "company": "FIRST NORTHERN COMMUNITY BANCORP",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 500.0,
-   "price": 18.12,
-   "value": 9060.0,
-   "acc": "0001437749-26-026603",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "TLRY",
-   "company": "Tilray Brands, Inc.",
-   "insider": "Gendel Mitchell",
-   "role": "Global General Counsel",
-   "date": "2026-08-06",
-   "shares": 2500.0,
-   "price": 4.43,
-   "value": 11075.0,
-   "acc": "0001171843-26-005348",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "BOTJ",
-   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
-   "insider": "FOSTER WATT R JR",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 447.0,
-   "price": 28.01,
-   "value": 12520.47,
-   "acc": "0001437749-26-026718",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "BOTJ",
-   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
-   "insider": "BRYANT WILLIAM C III",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 650.0,
-   "price": 27.1,
-   "value": 17615.0,
-   "acc": "0001437749-26-026712",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "SNES",
    "company": "SenesTech, Inc.",
@@ -4545,6 +4497,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "ABCL",
+   "company": "AbCellera Biologics Inc.",
+   "insider": "Hayden Michael R",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 46387.0,
+   "price": 10.37,
+   "value": 481033.19,
+   "acc": "0001628280-26-057007",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "XRN",
    "company": "Chiron Real Estate Inc.",
    "insider": "Roseth Aaron Robert",
@@ -4627,6 +4591,18 @@
    "value": 6807375.0,
    "acc": "0002029760-26-000008",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 1.0,
+   "price": 343.02,
+   "value": 343.02,
+   "acc": "0001437749-26-027889",
+   "filed": "2026-08-14"
   },
   {
    "ticker": "BCDA",
@@ -4819,6 +4795,30 @@
    "value": 6036750.0,
    "acc": "0001628280-26-056941",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "SODI",
+   "company": "SOLITRON DEVICES INC",
+   "insider": "Eriksen Howard Timothy",
+   "role": "CEO",
+   "date": "2026-08-14",
+   "shares": 8000.0,
+   "price": 28.5,
+   "value": 228000.0,
+   "acc": "0001437749-26-027903",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "ABCL",
+   "company": "AbCellera Biologics Inc.",
+   "insider": "Booth Andrew",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-14",
+   "shares": 37200.0,
+   "price": 10.32,
+   "value": 383904.0,
+   "acc": "0001834411-26-000008",
+   "filed": "2026-08-14"
   }
  ],
  "clusters": [
@@ -4889,6 +4889,11 @@
    "ticker": "AXIA3",
    "insiders": 2,
    "total_value": 884146.0
+  },
+  {
+   "ticker": "ABCL",
+   "insiders": 2,
+   "total_value": 864937.19
   },
   {
    "ticker": "AMRZ",
@@ -4976,11 +4981,6 @@
    "total_value": 115580.0
   },
   {
-   "ticker": "BOTJ",
-   "insiders": 3,
-   "total_value": 32840.47
-  },
-  {
    "ticker": "CZNC",
    "insiders": 2,
    "total_value": 5446.44
@@ -5009,13 +5009,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020664",
-  "0001918704-26-020665",
-  "0001918704-26-020666",
-  "0001918704-26-020667",
-  "0001918704-26-020668",
-  "0001918704-26-020669",
-  "0001918704-26-020670",
   "0001918704-26-020671",
   "0001918704-26-020672",
   "0001918704-26-020673",
@@ -6815,6 +6808,12 @@
   "0001918704-26-023780",
   "0001918704-26-023781",
   "0001918704-26-023782",
+  "0001918704-26-023783",
+  "0001918704-26-023784",
+  "0001918704-26-023785",
+  "0001918704-26-023786",
+  "0001918704-26-023787",
+  "0001918704-26-023788",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7912,6 +7911,7 @@
   "0002121472-26-000001",
   "0002121472-26-000002",
   "0002121472-26-000003",
+  "0002121472-26-000004",
   "0002122338-26-000005",
   "0002122338-26-000006",
   "0002122341-26-000005",
