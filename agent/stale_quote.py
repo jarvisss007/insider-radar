@@ -170,6 +170,20 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS)
     missing = [k for k in LEDGER_HEADER if k not in row]
     if missing:
         raise ValueError(f"call is missing fields: {missing}")
+    # INS-007, ruled by Anupam 2026-08-14. A call with no entry price can NEVER
+    # score: it sits `pending` forever, counts as open exposure in a book that
+    # cannot resolve it, and is what made PORT-001 regress on 2026-08-13. Six such
+    # rows had accumulated (VISTA, AXIA3, PNAQ and three CIK-only names — non-traded
+    # BDCs and unlisted filers with no quote anywhere).
+    #
+    # An unpriceable cluster is a DISCLOSED EXCLUSION, not a position. The write
+    # path refuses it here rather than trusting each caller to remember, which is
+    # the same reason stale_quote is computed here instead of by the caller.
+    if not str(row.get("price_at_call") or "").strip():
+        raise ValueError(
+            f"refusing to log {row.get('ticker')}: no price_at_call. An unpriceable "
+            f"cluster can never score — record it as a disclosed exclusion, not an "
+            f"open position (INS-007).")
     new = not os.path.exists(ledger) or os.path.getsize(ledger) == 0
     with open(ledger, "a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=LEDGER_HEADER)

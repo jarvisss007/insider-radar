@@ -210,3 +210,20 @@ second-half strengthening), all tested on FORWARD events only, none on the 669
 that suggested them. **Open marks are never evidence for any of them.** On
 2026-08-12 this book showed +2.89% mean on open rows with 0 scored — a number
 with no benchmark, no survivorship charge, and no resolved outcome behind it.
+
+## Unpriceable clusters are a disclosed exclusion (Anupam, 2026-08-14, INS-007)
+
+**Never log a call on an instrument you cannot price.** A row with no
+`price_at_call` can never score: it sits `pending` forever and counts as open
+exposure in a book that cannot resolve it. Six had accumulated — VISTA, AXIA3,
+PNAQ and three CIK-only filers (non-traded BDCs and unlisted registrants with no
+quote anywhere). They are what made PORT-001 regress.
+
+Those six are marked `outcome=void` with the reason written into the thesis, and
+`append_call()` now REFUSES a row with a blank `price_at_call` rather than
+trusting each caller to remember — the same reason it computes `stale_quote`
+itself.
+
+Voided rows are kept, never deleted: the record should show what was attempted
+and why it could not be scored. They are excluded from every hit rate, and
+`void` is not a third outcome to be counted alongside right/wrong.

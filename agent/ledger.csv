@@ -35,15 +35,15 @@ date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_qu
 2026-08-11,MRP,long,[insider] [fund] 2 insiders bought $0.12M open-market cluster,28.80,2026-09-10,,,no
 2026-08-11,BOTJ,long,[insider] [fund] 2 insiders bought $0.03M open-market cluster; community bank,27.02,2026-09-10,,,no
 2026-08-11,CZNC,long,[insider] [fund] 2 insiders bought $0.005M open-market cluster; trivial size,25.32,2026-09-10,,,no
-2026-08-12,VISTA,long,[insider] [fund] 2 insiders bought $6.23M; non-traded BDC (CIK 1919369) no quote,,2026-09-11,,,
+2026-08-12,VISTA,long,"[insider] [fund] 2 insiders bought $6.23M; non-traded BDC (CIK 1919369) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-11,,void,
 2026-08-12,XRN,long,[insider] [fund] 2 insiders bought $1.28M open-market cluster,36.78,2026-09-11,,,no
 2026-08-12,AMRC,long,[insider] [fund] 2 insiders bought $1.18M open-market cluster,27.17,2026-09-11,,,no
-2026-08-12,AXIA3,long,[insider] [fund] 2 insiders bought $0.88M; ticker unfetchable from Yahoo,,2026-09-11,,,
+2026-08-12,AXIA3,long,"[insider] [fund] 2 insiders bought $0.88M; ticker unfetchable from Yahoo | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-11,,void,
 2026-08-12,CC,long,[insider] [fund] 5 insiders bought $0.41M open-market cluster,15.10,2026-09-11,,,no
 2026-08-12,KMPR,long,[insider] [fund] 4 insiders bought $0.29M open-market cluster,26.80,2026-09-11,,,no
 2026-08-12,MATW,long,[insider] [fund] 2 insiders bought $0.16M open-market cluster,23.16,2026-09-11,,,no
 2026-08-12,FEMY,long,[insider] [fund] 5 insiders non-open-market $0.13M; sub-$3 micro-cap,2.24,2026-09-11,,,no
-2026-08-13,CIK2089975,long,[insider] [fund] 4 insiders bought $11.00M; non-traded fund (CIK2089975) no quote,,2026-09-12,,,
+2026-08-13,CIK2089975,long,"[insider] [fund] 4 insiders bought $11.00M; non-traded fund (CIK2089975) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
 2026-08-13,ACDC,long,[insider] [fund] 2 insiders bought $4.02M open-market cluster,5.26,2026-09-12,,,no
 2026-08-13,LILA,long,[insider] [fund] 2 insiders bought $3.70M open-market cluster,8.55,2026-09-12,,,no
 2026-08-13,AMRZ,long,[insider] [fund] 5 insiders bought $0.839M open-market cluster,46.75,2026-09-12,,,no
@@ -55,6 +55,6 @@ date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_qu
 2026-08-13,MTDR,long,[insider] [fund] 2 insiders bought $0.240M open-market cluster,51.60,2026-09-12,,,no
 2026-08-13,AVBC,long,[insider] [fund] 2 insiders bought $0.228M open-market cluster,22.05,2026-09-12,,,no
 2026-08-13,SMRT,long,[insider] [fund] 2 insiders bought $0.149M open-market cluster,1.44,2026-09-12,,,no
-2026-08-13,CIK1885551,long,[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1885551) no quote,,2026-09-12,,,
-2026-08-13,CIK1777677,long,[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1777677) no quote,,2026-09-12,,,
-2026-08-13,PNAQ,long,"[insider] [fund] 6 insiders non-open-market $29.8M; SPAC, no Yahoo quote",,2026-09-12,,,
+2026-08-13,CIK1885551,long,"[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1885551) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
+2026-08-13,CIK1777677,long,"[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1777677) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
+2026-08-13,PNAQ,long,"[insider] [fund] 6 insiders non-open-market $29.8M; SPAC, no Yahoo quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
