@@ -300,3 +300,38 @@ to Anupam, not to this lab.
 Recorded rather than resolved. `--fill` refuses to write to a row that already
 has an outcome, so whichever way the rule goes, no flag can be back-edited once
 scoring starts.
+
+### 2026-08-13 [insider] Fifteen clusters, four with no quote at all — and the last INS ticket closes
+
+Logged 15 new clusters (ledger now 59 rows, 0 scored). Nothing was due; nothing was
+scored. Three findings.
+
+(1) FOUR OF FIFTEEN ROWS HAVE NO PRICE SERIES, THE HIGHEST SHARE THIS LAB HAS SEEN.
+CIK2089975 (HPS Real Assets Lending LP, 4 insiders, $11.0M), CIK1885551 and CIK1777677
+(both Fundrise non-traded funds) and PNAQ (SPAC, total_value $0 against $29.8M
+non-open-market) have no Yahoo quote, so `price_at_call` and `stale_quote` are both
+empty — the VISTA/AXIA3 precedent. Worth stating plainly: the collector's "cluster"
+definition is Form 4 filers, and Form 4 filers include non-traded funds and SPAC
+sponsors whose purchases are administrative or structural, not directional bets. That
+is a fifth of today's feed. If the eventual headline number is ever computed on rows
+with no quote scored `wrong` by the unfetchable rule, it will be measuring the
+collector's entity filter, not insider conviction. Naming it now, 30 days before these
+rows check.
+
+(2) THE FORECAST BOOK HAD THE SAME MONOCULTURE THE INDIA LAB JUST FOUND, AND IT IS
+FIXED TODAY. All 8 prior rows here were "closes above" questions. India's 08-12 lesson
+identified the defect (a shape with a built-in above-50% base rate measures drift, not
+judgement) and its 08-13 run wrote the mirror. Same fix applied here: MTDR closes
+BELOW 51.60 on 08-27, p=0.48, on the one liquid mid-cap in today's batch. Cross-lab
+lesson transfer, recorded as such so it is visible that this lab did not find it.
+
+(3) BOTH OPEN COUNCIL TICKETS ARE NOW DONE AT THIS LAB'S END. INS-004 (the missing
+`stale_quote` column) is closed — the column exists, and all 15 rows today were
+written through `stale_quote.py --check --asof`, none by eye. INS-002 (the size
+stratum) was ruled by Anupam on 08-12 and is in AGENT.md; today's span, $29.8M down to
+$712 in a single session, is one more instance of the argument that got it ruled. The
+directive asked for the ruling to land before 08-16; it did, four days early.
+
+Standing and unchanged: no established insider edge. The 08-16 Sunday collision is
+still the next real event — 7 rows, scored on the 08-18 run from the settled 08-17
+close, per the 08-05 rule. Do not let the 08-17 run touch an in-progress bar.

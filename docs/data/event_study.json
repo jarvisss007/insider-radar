@@ -1,53 +1,53 @@
 {
- "updated_utc": "2026-08-12 15:25 UTC",
- "n_events": 887,
+ "updated_utc": "2026-08-14 03:18 UTC",
+ "n_events": 866,
  "n_mature": 669,
- "pre10_mean": -0.17,
- "pre10_n": 868,
+ "pre10_mean": -0.2,
+ "pre10_n": 845,
  "agg": {
   "1": {
-   "n": 887,
-   "mean": 0.515,
+   "n": 866,
+   "mean": 0.454,
    "median": 0.008,
-   "win": 53.2,
-   "t": 3.46,
-   "t_week": 1.25,
-   "n_weeks": 56,
-   "t_ticker": 1.32,
-   "n_tickers": 457
+   "win": 50.7,
+   "t": 2.97,
+   "t_week": 1.02,
+   "n_weeks": 55,
+   "t_ticker": 1.13,
+   "n_tickers": 450
   },
   "3": {
-   "n": 789,
-   "mean": -0.032,
-   "median": -0.198,
-   "win": 47.8,
-   "t": -0.15,
-   "t_week": -0.09,
+   "n": 766,
+   "mean": 0.349,
+   "median": 0.16,
+   "win": 53.3,
+   "t": 1.62,
+   "t_week": 1.13,
    "n_weeks": 55,
-   "t_ticker": -0.09,
-   "n_tickers": 426
+   "t_ticker": 0.99,
+   "n_tickers": 409
   },
   "5": {
-   "n": 730,
-   "mean": 0.622,
-   "median": -0.123,
-   "win": 48.5,
-   "t": 1.93,
-   "t_week": 0.98,
-   "n_weeks": 55,
-   "t_ticker": 1.0,
-   "n_tickers": 403
+   "n": 674,
+   "mean": 0.79,
+   "median": -0.009,
+   "win": 49.7,
+   "t": 2.34,
+   "t_week": 1.18,
+   "n_weeks": 54,
+   "t_ticker": 1.19,
+   "n_tickers": 379
   },
   "10": {
-   "n": 671,
-   "mean": 0.782,
+   "n": 669,
+   "mean": 0.791,
    "median": 0.121,
    "win": 50.4,
-   "t": 1.76,
-   "t_week": 1.28,
-   "n_weeks": 54,
-   "t_ticker": 1.07,
-   "n_tickers": 376
+   "t": 1.78,
+   "t_week": 1.29,
+   "n_weeks": 53,
+   "t_ticker": 1.08,
+   "n_tickers": 374
   },
   "20": {
    "n": 669,
@@ -64,58 +64,58 @@
  "curve": [
   {
    "day": 1,
-   "car": 0.515,
-   "n": 887
+   "car": 0.454,
+   "n": 866
   },
   {
    "day": 2,
-   "car": 0.049,
-   "n": 864
+   "car": 0.115,
+   "n": 803
   },
   {
    "day": 3,
-   "car": -0.032,
-   "n": 789
+   "car": 0.349,
+   "n": 766
   },
   {
    "day": 4,
-   "car": -0.039,
-   "n": 765
+   "car": 0.117,
+   "n": 689
   },
   {
    "day": 5,
-   "car": 0.622,
-   "n": 730
+   "car": 0.79,
+   "n": 674
   },
   {
    "day": 6,
-   "car": 0.425,
-   "n": 715
+   "car": 0.596,
+   "n": 669
   },
   {
    "day": 7,
-   "car": 1.111,
-   "n": 709
+   "car": 1.23,
+   "n": 669
   },
   {
    "day": 8,
-   "car": 1.196,
-   "n": 701
+   "car": 1.28,
+   "n": 669
   },
   {
    "day": 9,
-   "car": 1.156,
-   "n": 682
+   "car": 1.204,
+   "n": 669
   },
   {
    "day": 10,
-   "car": 0.782,
-   "n": 671
+   "car": 0.791,
+   "n": 669
   },
   {
    "day": 11,
-   "car": 0.949,
-   "n": 670
+   "car": 0.957,
+   "n": 669
   },
   {
    "day": 12,
@@ -164,6 +164,426 @@
   }
  ],
  "events": [
+  {
+   "ticker": "SRI",
+   "insider": "Kaplan Ira C.",
+   "role": "Director",
+   "date": "2026-06-03",
+   "filed": "2026-06-04",
+   "value": 37700.0,
+   "src": "backfill",
+   "pre10": 5.41,
+   "after": {
+    "1": -2.227,
+    "3": -2.972,
+    "5": 2.069,
+    "10": 3.187,
+    "20": -3.093
+   },
+   "days": 20,
+   "running": -3.09,
+   "mature": true
+  },
+  {
+   "ticker": "INR",
+   "insider": "Quinn William J",
+   "role": "Director",
+   "date": "2026-06-03",
+   "filed": "2026-06-05",
+   "value": 138639.6,
+   "src": "backfill",
+   "pre10": -7.79,
+   "after": {
+    "1": 1.9,
+    "3": 5.845,
+    "5": -1.798,
+    "10": -5.023,
+    "20": -5.994
+   },
+   "days": 20,
+   "running": -5.99,
+   "mature": true
+  },
+  {
+   "ticker": "LOGC",
+   "insider": "LEVY PAUL S",
+   "role": "Director",
+   "date": "2026-06-03",
+   "filed": "2026-06-05",
+   "value": 319367.93,
+   "src": "backfill",
+   "pre10": 7.55,
+   "after": {
+    "1": 1.103,
+    "3": 7.986,
+    "5": 10.599,
+    "10": -1.817,
+    "20": -1.609
+   },
+   "days": 20,
+   "running": -1.61,
+   "mature": true
+  },
+  {
+   "ticker": "LOGC",
+   "insider": "LEVY PAUL S",
+   "role": "Director",
+   "date": "2026-06-04",
+   "filed": "2026-06-05",
+   "value": 9040.0,
+   "src": "backfill",
+   "pre10": 7.55,
+   "after": {
+    "1": 1.103,
+    "3": 7.986,
+    "5": 10.599,
+    "10": -1.817,
+    "20": -1.609
+   },
+   "days": 20,
+   "running": -1.61,
+   "mature": true
+  },
+  {
+   "ticker": "LOGC",
+   "insider": "LEVY PAUL S",
+   "role": "Director",
+   "date": "2026-06-05",
+   "filed": "2026-06-05",
+   "value": 571210.52,
+   "src": "backfill",
+   "pre10": 7.55,
+   "after": {
+    "1": 1.103,
+    "3": 7.986,
+    "5": 10.599,
+    "10": -1.817,
+    "20": -1.609
+   },
+   "days": 20,
+   "running": -1.61,
+   "mature": true
+  },
+  {
+   "ticker": "CLIK",
+   "insider": "Chan Chun Sing",
+   "role": "Chief Executive Officer",
+   "date": "2026-06-04",
+   "filed": "2026-06-08",
+   "value": 28800.0,
+   "src": "backfill",
+   "pre10": 31.36,
+   "after": {
+    "1": -14.671,
+    "3": -9.766,
+    "5": -14.284,
+    "10": -14.458,
+    "20": -23.274
+   },
+   "days": 20,
+   "running": -23.27,
+   "mature": true
+  },
+  {
+   "ticker": "CLIK",
+   "insider": "Chan Chun Sing",
+   "role": "Chief Executive Officer",
+   "date": "2026-06-05",
+   "filed": "2026-06-08",
+   "value": 19200.0,
+   "src": "backfill",
+   "pre10": 31.36,
+   "after": {
+    "1": -14.671,
+    "3": -9.766,
+    "5": -14.284,
+    "10": -14.458,
+    "20": -23.274
+   },
+   "days": 20,
+   "running": -23.27,
+   "mature": true
+  },
+  {
+   "ticker": "SVRE",
+   "insider": "VisionWave Holdings, Inc.",
+   "role": "Director",
+   "date": "2026-05-21",
+   "filed": "2026-06-08",
+   "value": 864000000.0,
+   "src": "backfill",
+   "pre10": 1.71,
+   "after": {
+    "1": -7.371,
+    "3": 0.092,
+    "5": 0.819,
+    "10": -15.182,
+    "20": -41.426
+   },
+   "days": 20,
+   "running": -41.43,
+   "mature": true
+  },
+  {
+   "ticker": "SVRE",
+   "insider": "VisionWave Holdings, Inc.",
+   "role": "Director",
+   "date": "2026-05-28",
+   "filed": "2026-06-08",
+   "value": 3587328000.0,
+   "src": "backfill",
+   "pre10": 1.71,
+   "after": {
+    "1": -7.371,
+    "3": 0.092,
+    "5": 0.819,
+    "10": -15.182,
+    "20": -41.426
+   },
+   "days": 20,
+   "running": -41.43,
+   "mature": true
+  },
+  {
+   "ticker": "SVRE",
+   "insider": "VisionWave Holdings, Inc.",
+   "role": "Director",
+   "date": "2026-06-03",
+   "filed": "2026-06-08",
+   "value": 22118400.0,
+   "src": "backfill",
+   "pre10": 1.71,
+   "after": {
+    "1": -7.371,
+    "3": 0.092,
+    "5": 0.819,
+    "10": -15.182,
+    "20": -41.426
+   },
+   "days": 20,
+   "running": -41.43,
+   "mature": true
+  },
+  {
+   "ticker": "SVRE",
+   "insider": "VisionWave Holdings, Inc.",
+   "role": "Director",
+   "date": "2026-06-04",
+   "filed": "2026-06-08",
+   "value": 307641600.0,
+   "src": "backfill",
+   "pre10": 1.71,
+   "after": {
+    "1": -7.371,
+    "3": 0.092,
+    "5": 0.819,
+    "10": -15.182,
+    "20": -41.426
+   },
+   "days": 20,
+   "running": -41.43,
+   "mature": true
+  },
+  {
+   "ticker": "SVRE",
+   "insider": "VisionWave Holdings, Inc.",
+   "role": "Director",
+   "date": "2026-06-05",
+   "filed": "2026-06-08",
+   "value": 2060121600.0,
+   "src": "backfill",
+   "pre10": 1.71,
+   "after": {
+    "1": -7.371,
+    "3": 0.092,
+    "5": 0.819,
+    "10": -15.182,
+    "20": -41.426
+   },
+   "days": 20,
+   "running": -41.43,
+   "mature": true
+  },
+  {
+   "ticker": "MXF",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-06-04",
+   "filed": "2026-06-08",
+   "value": 693724.22,
+   "src": "backfill",
+   "pre10": -0.89,
+   "after": {
+    "1": -0.608,
+    "3": 2.422,
+    "5": 2.505,
+    "10": 2.077,
+    "20": -0.356
+   },
+   "days": 20,
+   "running": -0.36,
+   "mature": true
+  },
+  {
+   "ticker": "MXF",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-06-05",
+   "filed": "2026-06-08",
+   "value": 430765.84,
+   "src": "backfill",
+   "pre10": -0.89,
+   "after": {
+    "1": -0.608,
+    "3": 2.422,
+    "5": 2.505,
+    "10": 2.077,
+    "20": -0.356
+   },
+   "days": 20,
+   "running": -0.36,
+   "mature": true
+  },
+  {
+   "ticker": "KNSL",
+   "insider": "Tangard Christopher R.",
+   "role": "SVP, Chief Accounting Officer",
+   "date": "2026-06-08",
+   "filed": "2026-06-09",
+   "value": 100320.0,
+   "src": "backfill",
+   "pre10": -0.93,
+   "after": {
+    "1": 2.745,
+    "3": -0.19,
+    "5": -0.935,
+    "10": 0.392,
+    "20": 7.006
+   },
+   "days": 20,
+   "running": 7.01,
+   "mature": true
+  },
+  {
+   "ticker": "AIMD",
+   "insider": "chiang yao-chung",
+   "role": "Director",
+   "date": "2026-06-05",
+   "filed": "2026-06-09",
+   "value": 7175.0,
+   "src": "backfill",
+   "pre10": -33.64,
+   "after": {
+    "1": -3.94,
+    "3": -5.16,
+    "5": -7.837,
+    "10": -9.785,
+    "20": -6.782
+   },
+   "days": 20,
+   "running": -6.78,
+   "mature": true
+  },
+  {
+   "ticker": "MP",
+   "insider": "Rosenthal Michael Stuart",
+   "role": "Chief Operating Officer",
+   "date": "2026-06-09",
+   "filed": "2026-06-10",
+   "value": 543000.0,
+   "src": "backfill",
+   "pre10": -14.7,
+   "after": {
+    "1": 5.544,
+    "3": 5.218,
+    "5": 11.939,
+    "10": 2.846,
+    "20": -6.363
+   },
+   "days": 20,
+   "running": -6.36,
+   "mature": true
+  },
+  {
+   "ticker": "NUVB",
+   "insider": "Mashal Robert",
+   "role": "Director",
+   "date": "2026-06-09",
+   "filed": "2026-06-11",
+   "value": 118250.0,
+   "src": "backfill",
+   "pre10": 2.44,
+   "after": {
+    "1": 1.094,
+    "3": 4.051,
+    "5": 13.329,
+    "10": 17.584,
+    "20": 17.322
+   },
+   "days": 20,
+   "running": 17.32,
+   "mature": true
+  },
+  {
+   "ticker": "GRNT",
+   "insider": "MCCARTNEY JOHN",
+   "role": "Director",
+   "date": "2026-06-10",
+   "filed": "2026-06-11",
+   "value": 19840.0,
+   "src": "backfill",
+   "pre10": 2.65,
+   "after": {
+    "1": 0.473,
+    "3": -5.389,
+    "5": -5.164,
+    "10": -5.829,
+    "20": -6.106
+   },
+   "days": 20,
+   "running": -6.11,
+   "mature": true
+  },
+  {
+   "ticker": "SMMT",
+   "insider": "DUGGAN ROBERT W",
+   "role": "Co-Chief Executive Officer",
+   "date": "2026-06-12",
+   "filed": "2026-06-12",
+   "value": 49987200.0,
+   "src": "backfill",
+   "pre10": -18.18,
+   "after": {
+    "1": -2.55,
+    "3": -1.121,
+    "5": -0.378,
+    "10": 0.351,
+    "20": 6.871
+   },
+   "days": 20,
+   "running": 6.87,
+   "mature": true
+  },
+  {
+   "ticker": "EML",
+   "insider": "DiSanto Frederick D.",
+   "role": "Director",
+   "date": "2026-06-11",
+   "filed": "2026-06-12",
+   "value": 21250.0,
+   "src": "backfill",
+   "pre10": 2.97,
+   "after": {
+    "1": -3.168,
+    "3": 1.04,
+    "5": 6.326,
+    "10": 19.272,
+    "20": 14.965
+   },
+   "days": 20,
+   "running": 14.97,
+   "mature": true
+  },
   {
    "ticker": "EML",
    "insider": "DiSanto Frederick D.",
@@ -805,1732 +1225,21 @@
    "mature": true
   },
   {
-   "ticker": "CVBF",
-   "insider": "O Brien Raymond V III",
-   "role": "Director",
-   "date": "2026-07-28",
-   "filed": "2026-07-28",
-   "value": 455300.0,
-   "src": "live",
-   "pre10": 2.39,
-   "after": {
-    "1": 0.984,
-    "3": -3.396,
-    "5": -3.497,
-    "10": -4.614
-   },
-   "days": 11,
-   "running": -4.62,
-   "mature": false
-  },
-  {
-   "ticker": "GVH",
-   "insider": "Fung Kai Man",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-29",
-   "value": 4216.94,
-   "src": "live",
-   "pre10": -77.07,
-   "after": {
-    "1": -0.766,
-    "3": -6.957,
-    "5": -18.309
-   },
-   "days": 9,
-   "running": -10.57,
-   "mature": false
-  },
-  {
-   "ticker": "NXTC",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "filed": "2026-07-29",
-   "value": 8000.0,
-   "src": "live",
-   "pre10": -20.93,
-   "after": {
-    "1": 0.238,
-    "3": -14.584,
-    "5": 0.838
-   },
-   "days": 9,
-   "running": 34.17,
-   "mature": false
-  },
-  {
-   "ticker": "BXSY",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-07-29",
-   "filed": "2026-07-29",
-   "value": 85135.5,
-   "src": "live",
-   "pre10": 3.18,
-   "after": {
-    "1": -0.415,
-    "3": -1.884,
-    "5": -1.366,
-    "10": 0.164
-   },
-   "days": 10,
-   "running": 0.16,
-   "mature": false
-  },
-  {
-   "ticker": "OTLK",
-   "insider": "Sukhtian Faisal Ghiath",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-29",
-   "value": 99996.18,
-   "src": "live",
-   "pre10": -32.54,
-   "after": {
-    "1": 1.195,
-    "3": -13.427,
-    "5": -3.604
-   },
-   "days": 9,
-   "running": 7.09,
-   "mature": false
-  },
-  {
-   "ticker": "GLSI",
-   "insider": "Patel Snehal",
-   "role": "CEO and CFO",
-   "date": "2026-07-28",
-   "filed": "2026-07-30",
-   "value": 20385.0,
-   "src": "live",
-   "pre10": -25.05,
-   "after": {
-    "1": -5.312,
-    "3": -2.593,
-    "5": -2.996
-   },
-   "days": 8,
-   "running": 12.08,
-   "mature": false
-  },
-  {
-   "ticker": "NMM",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-28",
-   "filed": "2026-07-30",
-   "value": 84245.8,
-   "src": "live",
-   "pre10": 7.71,
-   "after": {
-    "1": 0.824,
-    "3": -5.507,
-    "5": -4.234
-   },
-   "days": 9,
-   "running": -4.91,
-   "mature": false
-  },
-  {
-   "ticker": "LBRT",
-   "insider": "Murti Arjun N",
-   "role": "Director",
-   "date": "2026-07-28",
-   "filed": "2026-07-30",
-   "value": 250008.51,
-   "src": "live",
-   "pre10": -22.28,
-   "after": {
-    "1": 0.384,
-    "3": 3.041,
-    "5": 4.651
-   },
-   "days": 8,
-   "running": 11.86,
-   "mature": false
-  },
-  {
-   "ticker": "TPL",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 394.14,
-   "src": "live",
-   "pre10": -4.04,
-   "after": {
-    "1": 1.511,
-    "3": -3.538,
-    "5": -13.253
-   },
-   "days": 9,
-   "running": -15.6,
-   "mature": false
-  },
-  {
-   "ticker": "FRAF",
-   "insider": "Duffey Gregory A",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 1025.28,
-   "src": "live",
-   "pre10": 0.6,
-   "after": {
-    "1": 0.146,
-    "3": -2.131,
-    "5": -2.936
-   },
-   "days": 9,
-   "running": -3.05,
-   "mature": false
-  },
-  {
-   "ticker": "PFSA",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 1323.1,
-   "src": "live",
-   "pre10": -41.81,
-   "after": {
-    "1": 1.607,
-    "3": -9.348,
-    "5": -12.918
-   },
-   "days": 8,
-   "running": -11.17,
-   "mature": false
-  },
-  {
-   "ticker": "RCG",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 2298.24,
-   "src": "live",
-   "pre10": 0.54,
-   "after": {
-    "1": -0.316,
-    "3": -5.897,
-    "5": -7.18
-   },
-   "days": 9,
-   "running": -7.63,
-   "mature": false
-  },
-  {
-   "ticker": "GLSI",
-   "insider": "Patel Snehal",
-   "role": "CEO and CFO",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 9170.0,
-   "src": "live",
-   "pre10": -25.05,
-   "after": {
-    "1": -5.312,
-    "3": -2.593,
-    "5": -2.996
-   },
-   "days": 8,
-   "running": 12.08,
-   "mature": false
-  },
-  {
-   "ticker": "PKBK",
-   "insider": "PANTILIONE VITO S",
-   "role": "President & CEO",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 43784.0,
-   "src": "live",
-   "pre10": -0.74,
-   "after": {
-    "1": 0.244,
-    "3": -2.813,
-    "5": -2.235
-   },
-   "days": 9,
-   "running": -1.86,
-   "mature": false
-  },
-  {
-   "ticker": "NTRS",
-   "insider": "Moritz Robert Edward Jr.",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 45790.35,
-   "src": "live",
-   "pre10": -1.99,
-   "after": {
-    "1": -0.381,
-    "3": -3.524,
-    "5": -2.203
-   },
-   "days": 9,
-   "running": 0.83,
-   "mature": false
-  },
-  {
-   "ticker": "NMM",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-29",
-   "filed": "2026-07-30",
-   "value": 82555.52,
-   "src": "live",
-   "pre10": 7.71,
-   "after": {
-    "1": 0.824,
-    "3": -5.507,
-    "5": -4.234
-   },
-   "days": 9,
-   "running": -4.91,
-   "mature": false
-  },
-  {
-   "ticker": "UROY",
-   "insider": "MELBYE SCOTT",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-30",
-   "filed": "2026-07-30",
-   "value": 12480.0,
-   "src": "live",
-   "pre10": 32.24,
-   "after": {
-    "1": 1.177,
-    "3": -3.28,
-    "5": 15.002
-   },
-   "days": 8,
-   "running": 20.55,
-   "mature": false
-  },
-  {
-   "ticker": "NMM",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-30",
-   "filed": "2026-07-30",
-   "value": 83699.69,
-   "src": "live",
-   "pre10": 7.71,
-   "after": {
-    "1": 0.824,
-    "3": -5.507,
-    "5": -4.234
-   },
-   "days": 9,
-   "running": -4.91,
-   "mature": false
-  },
-  {
-   "ticker": "JCTC",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 391.69,
-   "src": "live",
-   "pre10": -4.84,
-   "after": {
-    "1": 0.4,
-    "3": 1.03,
-    "5": 14.425
-   },
-   "days": 8,
-   "running": 4.5,
-   "mature": false
-  },
-  {
-   "ticker": "ASPS",
-   "insider": "Winkler Matthew T.",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 3575.1,
-   "src": "live",
-   "pre10": -12.79,
-   "after": {
-    "1": -2.859,
-    "3": -4.3,
-    "5": -1.77
-   },
-   "days": 8,
-   "running": -1.1,
-   "mature": false
-  },
-  {
-   "ticker": "CBNA",
-   "insider": "MARTINELLI MARK",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 17600.0,
-   "src": "live",
-   "pre10": 8.11,
-   "after": {
-    "1": 2.171,
-    "3": 1.034,
-    "5": -1.478
-   },
-   "days": 7,
-   "running": 1.3,
-   "mature": false
-  },
-  {
-   "ticker": "HCWB",
-   "insider": "GARRETT SCOTT T",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 19997.56,
-   "src": "live",
-   "pre10": -20.5,
-   "after": {
-    "1": 0.114,
-    "3": 1.224,
-    "5": 0.155
-   },
-   "days": 7,
-   "running": -2.82,
-   "mature": false
-  },
-  {
-   "ticker": "XAIR",
-   "insider": "MOORHEAD DANIEL J",
-   "role": "Chief Financial Officer",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 24998.4,
-   "src": "live",
-   "pre10": -5.97,
-   "after": {
-    "1": 5.468,
-    "3": -6.924,
-    "5": -12.943
-   },
-   "days": 7,
-   "running": -8.37,
-   "mature": false
-  },
-  {
-   "ticker": "HCWB",
-   "insider": "Wong Hing C",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 59997.85,
-   "src": "live",
-   "pre10": -20.5,
-   "after": {
-    "1": 0.114,
-    "3": 1.224,
-    "5": 0.155
-   },
-   "days": 7,
-   "running": -2.82,
-   "mature": false
-  },
-  {
-   "ticker": "MXF",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 65663.18,
-   "src": "live",
-   "pre10": 2.49,
-   "after": {
-    "1": -1.925,
-    "3": -2.807,
-    "5": -2.765
-   },
-   "days": 8,
-   "running": -3.18,
-   "mature": false
-  },
-  {
-   "ticker": "XAIR",
-   "insider": "Goodman Robert Scott",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 199998.72,
-   "src": "live",
-   "pre10": -5.97,
-   "after": {
-    "1": 5.468,
-    "3": -6.924,
-    "5": -12.943
-   },
-   "days": 7,
-   "running": -8.37,
-   "mature": false
-  },
-  {
-   "ticker": "ARTV",
-   "insider": "RA CAPITAL MANAGEMENT, L.P.",
-   "role": "Director",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 208031.76,
-   "src": "live",
-   "pre10": 2.98,
-   "after": {
-    "1": 6.502,
-    "3": 13.185,
-    "5": 9.522
-   },
-   "days": 7,
-   "running": 15.88,
-   "mature": false
-  },
-  {
-   "ticker": "HDSN",
-   "insider": "Hartree Partners, LP",
-   "role": "10% owner",
-   "date": "2026-07-29",
-   "filed": "2026-07-31",
-   "value": 312102.96,
-   "src": "live",
-   "pre10": -2.61,
-   "after": {
-    "1": -0.289,
-    "3": -2.068,
-    "5": -12.563
-   },
-   "days": 8,
-   "running": -13.82,
-   "mature": false
-  },
-  {
-   "ticker": "TPL",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 389.14,
-   "src": "live",
-   "pre10": -3.66,
-   "after": {
-    "1": 3.294,
-    "3": -4.561,
-    "5": -15.621
-   },
-   "days": 8,
-   "running": -13.52,
-   "mature": false
-  },
-  {
-   "ticker": "YQ",
-   "insider": "Liu Chang",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 931.4,
-   "src": "live",
-   "pre10": -12.78,
-   "after": {
-    "1": 3.761,
-    "3": 0.098,
-    "5": 19.481
-   },
-   "days": 7,
-   "running": 22.5,
-   "mature": false
-  },
-  {
-   "ticker": "RCG",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 2313.36,
-   "src": "live",
-   "pre10": 0.5,
-   "after": {
-    "1": -0.436,
-    "3": -6.689,
-    "5": -4.172
-   },
-   "days": 8,
-   "running": -6.97,
-   "mature": false
-  },
-  {
-   "ticker": "ASPS",
-   "insider": "Winkler Matthew T.",
-   "role": "Director",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 5045.0,
-   "src": "live",
-   "pre10": -12.79,
-   "after": {
-    "1": -2.859,
-    "3": -4.3,
-    "5": -1.77
-   },
-   "days": 8,
-   "running": -1.1,
-   "mature": false
-  },
-  {
-   "ticker": "BMRC",
-   "insider": "Anderson Nicolas C",
-   "role": "Director",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 5053.7,
-   "src": "live",
-   "pre10": 0.33,
-   "after": {
-    "1": -1.404,
-    "3": -3.566,
-    "5": -5.814
-   },
-   "days": 8,
-   "running": -4.89,
-   "mature": false
-  },
-  {
-   "ticker": "JCTC",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 9634.8,
-   "src": "live",
-   "pre10": -4.84,
-   "after": {
-    "1": 0.4,
-    "3": 1.03,
-    "5": 14.425
-   },
-   "days": 8,
-   "running": 4.5,
-   "mature": false
-  },
-  {
-   "ticker": "DLHC",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 39399.06,
-   "src": "live",
-   "pre10": -11.78,
-   "after": {
-    "1": 0.316,
-    "3": -4.938,
-    "5": -5.805
-   },
-   "days": 8,
-   "running": -8.39,
-   "mature": false
-  },
-  {
-   "ticker": "BMI",
-   "insider": "Callahan Edward F.",
-   "role": "VP-Engineering",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 101571.92,
-   "src": "live",
-   "pre10": -10.62,
-   "after": {
-    "1": -1.084,
-    "3": -0.882,
-    "5": -1.769
-   },
-   "days": 8,
-   "running": -7.43,
-   "mature": false
-  },
-  {
-   "ticker": "IONS",
-   "insider": "Hayden Michael R",
-   "role": "Director",
-   "date": "2026-07-30",
-   "filed": "2026-07-31",
-   "value": 800700.0,
-   "src": "live",
-   "pre10": -5.32,
-   "after": {
-    "1": 2.377,
-    "3": 0.19,
-    "5": 4.228
-   },
-   "days": 8,
-   "running": 4.2,
-   "mature": false
-  },
-  {
-   "ticker": "DLHC",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-07-31",
-   "filed": "2026-07-31",
-   "value": 2145.02,
-   "src": "live",
-   "pre10": -11.78,
-   "after": {
-    "1": 0.316,
-    "3": -4.938,
-    "5": -5.805
-   },
-   "days": 8,
-   "running": -8.39,
-   "mature": false
-  },
-  {
-   "ticker": "ARTV",
-   "insider": "RA CAPITAL MANAGEMENT, L.P.",
-   "role": "Director",
-   "date": "2026-07-31",
-   "filed": "2026-07-31",
-   "value": 247693.92,
-   "src": "live",
-   "pre10": 2.98,
-   "after": {
-    "1": 6.502,
-    "3": 13.185,
-    "5": 9.522
-   },
-   "days": 7,
-   "running": 15.88,
-   "mature": false
-  },
-  {
-   "ticker": "IONS",
-   "insider": "Hayden Michael R",
-   "role": "Director",
-   "date": "2026-07-31",
-   "filed": "2026-07-31",
-   "value": 258000.0,
-   "src": "live",
-   "pre10": -5.32,
-   "after": {
-    "1": 2.377,
-    "3": 0.19,
-    "5": 4.228
-   },
-   "days": 8,
-   "running": 4.2,
-   "mature": false
-  },
-  {
-   "ticker": "BHRB",
-   "insider": "WILSON DAVID",
-   "role": "Director",
-   "date": "2026-07-31",
-   "filed": "2026-08-04",
-   "value": 7368.0,
-   "src": "live",
-   "pre10": 1.66,
-   "after": {
-    "1": 0.084,
-    "3": -1.301,
-    "5": -0.685
-   },
-   "days": 6,
-   "running": -0.84,
-   "mature": false
-  },
-  {
-   "ticker": "NMM",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-07-31",
-   "filed": "2026-08-04",
-   "value": 66400.0,
-   "src": "live",
-   "pre10": 2.32,
-   "after": {
-    "1": -1.404,
-    "3": -0.59,
-    "5": -1.342
-   },
-   "days": 6,
-   "running": -1.04,
-   "mature": false
-  },
-  {
-   "ticker": "CMCO",
-   "insider": "Linker John R",
-   "role": "EVP, Finance and CFO",
-   "date": "2026-07-31",
-   "filed": "2026-08-04",
-   "value": 147525.0,
-   "src": "live",
-   "pre10": 42.9,
-   "after": {
-    "1": 0.735,
-    "3": -5.345,
-    "5": -8.123
-   },
-   "days": 6,
-   "running": -10.09,
-   "mature": false
-  },
-  {
-   "ticker": "NMM",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-03",
-   "filed": "2026-08-04",
-   "value": 52182.93,
-   "src": "live",
-   "pre10": 2.32,
-   "after": {
-    "1": -1.404,
-    "3": -0.59,
-    "5": -1.342
-   },
-   "days": 6,
-   "running": -1.04,
-   "mature": false
-  },
-  {
-   "ticker": "TSM",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-08-03",
-   "filed": "2026-08-04",
-   "value": 73060.0,
-   "src": "live",
-   "pre10": -4.83,
-   "after": {
-    "1": -0.488,
-    "3": 0.506,
-    "5": 1.335
-   },
-   "days": 6,
-   "running": 2.95,
-   "mature": false
-  },
-  {
-   "ticker": "NMM",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-04",
-   "filed": "2026-08-04",
-   "value": 82175.6,
-   "src": "live",
-   "pre10": 2.32,
-   "after": {
-    "1": -1.404,
-    "3": -0.59,
-    "5": -1.342
-   },
-   "days": 6,
-   "running": -1.04,
-   "mature": false
-  },
-  {
-   "ticker": "COE",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-28",
-   "filed": "2026-08-05",
-   "value": 2869262.4,
-   "src": "live",
-   "pre10": 18.74,
-   "after": {
-    "1": -1.376,
-    "3": 1.173
-   },
-   "days": 4,
-   "running": 2.57,
-   "mature": false
-  },
-  {
-   "ticker": "COE",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-29",
-   "filed": "2026-08-05",
-   "value": 1844542.8,
-   "src": "live",
-   "pre10": 18.74,
-   "after": {
-    "1": -1.376,
-    "3": 1.173
-   },
-   "days": 4,
-   "running": 2.57,
-   "mature": false
-  },
-  {
-   "ticker": "COE",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-07-30",
-   "filed": "2026-08-05",
-   "value": 3346656.6,
-   "src": "live",
-   "pre10": 18.74,
-   "after": {
-    "1": -1.376,
-    "3": 1.173
-   },
-   "days": 4,
-   "running": 2.57,
-   "mature": false
-  },
-  {
-   "ticker": "RGCO",
-   "insider": "Miles Christen Brooke",
-   "role": "VP, Human Resources",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 99.99,
-   "src": "live",
-   "pre10": -8.93,
-   "after": {
-    "1": 2.69,
-    "3": 0.475,
-    "5": 0.063
-   },
-   "days": 5,
-   "running": 0.06,
-   "mature": false
-  },
-  {
-   "ticker": "FUNC",
-   "insider": "Sturm Tonya K.",
-   "role": "EVP & CFO",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 113.18,
-   "src": "live",
-   "pre10": -1.29,
-   "after": {
-    "1": 0.658,
-    "3": -1.785
-   },
-   "days": 4,
-   "running": 0.6,
-   "mature": false
-  },
-  {
-   "ticker": "RGCO",
-   "insider": "Oliver Lawrence T.",
-   "role": "Senior VP and Secretary",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 200.01,
-   "src": "live",
-   "pre10": -8.93,
-   "after": {
-    "1": 2.69,
-    "3": 0.475,
-    "5": 0.063
-   },
-   "days": 5,
-   "running": 0.06,
-   "mature": false
-  },
-  {
-   "ticker": "FUNC",
-   "insider": "Rodeheaver Carissa Lynn",
-   "role": "",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 1671.56,
-   "src": "live",
-   "pre10": -1.29,
-   "after": {
-    "1": 0.658,
-    "3": -1.785
-   },
-   "days": 4,
-   "running": 0.6,
-   "mature": false
-  },
-  {
-   "ticker": "FUSB",
-   "insider": "Pierce Staci",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 2248.08,
-   "src": "live",
-   "pre10": -1.6,
-   "after": {
-    "1": 1.795,
-    "3": 0.546
-   },
-   "days": 4,
-   "running": -0.05,
-   "mature": false
-  },
-  {
-   "ticker": "FUNC",
-   "insider": "Rush Jason Barry",
-   "role": "Chairman, President & CEO",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 2918.68,
-   "src": "live",
-   "pre10": -1.29,
-   "after": {
-    "1": 0.658,
-    "3": -1.785
-   },
-   "days": 4,
-   "running": 0.6,
-   "mature": false
-  },
-  {
-   "ticker": "FUNC",
-   "insider": "Boal Brian R.",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 3373.41,
-   "src": "live",
-   "pre10": -1.29,
-   "after": {
-    "1": 0.658,
-    "3": -1.785
-   },
-   "days": 4,
-   "running": 0.6,
-   "mature": false
-  },
-  {
-   "ticker": "RVSB",
-   "insider": "Girod Jon Louis",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 5407.5,
-   "src": "live",
-   "pre10": -0.91,
-   "after": {
-    "1": 0.955,
-    "3": -2.218,
-    "5": -1.143
-   },
-   "days": 5,
-   "running": -1.14,
-   "mature": false
-  },
-  {
-   "ticker": "SHBI",
-   "insider": "LAMON JOHN",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 7370.94,
-   "src": "live",
-   "pre10": 3.56,
-   "after": {
-    "1": -1.738,
-    "3": -4.392,
-    "5": -2.861
-   },
-   "days": 5,
-   "running": -2.86,
-   "mature": false
-  },
-  {
-   "ticker": "ANIK",
-   "insider": "Fischetti Gary P",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 20745.0,
-   "src": "live",
-   "pre10": 24.85,
-   "after": {
-    "1": 4.132,
-    "3": 6.232,
-    "5": 9.551
-   },
-   "days": 5,
-   "running": 9.55,
-   "mature": false
-  },
-  {
-   "ticker": "COCP",
-   "insider": "FROST PHILLIP MD ET AL",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 70590.0,
-   "src": "live",
-   "pre10": 5.52,
-   "after": {
-    "1": 0.214,
-    "3": 4.488
-   },
-   "days": 4,
-   "running": 6.27,
-   "mature": false
-  },
-  {
-   "ticker": "GBFH",
-   "insider": "NEWGARD JEFFREY K",
-   "role": "President/CEO (GBank)",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 137249.14,
-   "src": "live",
-   "pre10": -36.01,
-   "after": {
-    "1": -4.797,
-    "3": -5.332
-   },
-   "days": 4,
-   "running": -2.32,
-   "mature": false
-  },
-  {
-   "ticker": "GTE",
-   "insider": "LM Asset Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 165468.0,
-   "src": "live",
-   "pre10": 26.85,
-   "after": {
-    "1": 0.745,
-    "3": -5.356,
-    "5": 0.473
-   },
-   "days": 5,
-   "running": 0.47,
-   "mature": false
-  },
-  {
-   "ticker": "HLI",
-   "insider": "ALLEY J LINDSEY",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 500570.4,
-   "src": "live",
-   "pre10": -11.02,
-   "after": {
-    "1": -3.861,
-    "3": -7.592
-   },
-   "days": 4,
-   "running": -5.74,
-   "mature": false
-  },
-  {
-   "ticker": "TLSA",
-   "insider": "Elrifi Ivor",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 667000.0,
-   "src": "live",
-   "pre10": 1.22,
-   "after": {
-    "1": -4.688,
-    "3": -1.347
-   },
-   "days": 4,
-   "running": -4.66,
-   "mature": false
-  },
-  {
-   "ticker": "IR",
-   "insider": "Satpathy Aurobind",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 1000090.76,
-   "src": "live",
-   "pre10": 4.74,
-   "after": {
-    "1": -3.643,
-    "3": -5.977
-   },
-   "days": 4,
-   "running": -8.3,
-   "mature": false
-  },
-  {
-   "ticker": "XIIIU",
-   "insider": "Klein Michael Stuart",
-   "role": "See Remarks",
-   "date": "2026-08-03",
-   "filed": "2026-08-05",
-   "value": 3500000.0,
-   "src": "live",
-   "pre10": null,
-   "after": {
-    "1": -0.546,
-    "3": -1.221
-   },
-   "days": 4,
-   "running": -0.33,
-   "mature": false
-  },
-  {
-   "ticker": "TPL",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 403.53,
-   "src": "live",
-   "pre10": -14.82,
-   "after": {
-    "1": -9.574,
-    "3": -11.474,
-    "5": -11.916
-   },
-   "days": 5,
-   "running": -11.92,
-   "mature": false
-  },
-  {
-   "ticker": "RCG",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 2313.36,
-   "src": "live",
-   "pre10": -6.33,
-   "after": {
-    "1": -0.471,
-    "3": -1.051,
-    "5": -0.902
-   },
-   "days": 5,
-   "running": -0.9,
-   "mature": false
-  },
-  {
-   "ticker": "FUSB",
-   "insider": "Pierce Staci",
-   "role": "Director",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 10201.12,
-   "src": "live",
-   "pre10": -1.6,
-   "after": {
-    "1": 1.795,
-    "3": 0.546
-   },
-   "days": 4,
-   "running": -0.05,
-   "mature": false
-  },
-  {
-   "ticker": "ANIK",
-   "insider": "Fischetti Gary P",
-   "role": "Director",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 20315.0,
-   "src": "live",
-   "pre10": 24.85,
-   "after": {
-    "1": 4.132,
-    "3": 6.232,
-    "5": 9.551
-   },
-   "days": 5,
-   "running": 9.55,
-   "mature": false
-  },
-  {
-   "ticker": "TSCO",
-   "insider": "MORRIS EDNA",
-   "role": "Director",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 50606.4,
-   "src": "live",
-   "pre10": 10.8,
-   "after": {
-    "1": 0.804,
-    "3": 1.788,
-    "5": 4.95
-   },
-   "days": 5,
-   "running": 4.95,
-   "mature": false
-  },
-  {
-   "ticker": "TSCO",
-   "insider": "Lawton III Harry A",
-   "role": "President & CEO",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 84694.5,
-   "src": "live",
-   "pre10": 10.8,
-   "after": {
-    "1": 0.804,
-    "3": 1.788,
-    "5": 4.95
-   },
-   "days": 5,
-   "running": 4.95,
-   "mature": false
-  },
-  {
-   "ticker": "GBFH",
-   "insider": "NEWGARD JEFFREY K",
-   "role": "President/CEO (GBank)",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 92458.77,
-   "src": "live",
-   "pre10": -36.01,
-   "after": {
-    "1": -4.797,
-    "3": -5.332
-   },
-   "days": 4,
-   "running": -2.32,
-   "mature": false
-  },
-  {
-   "ticker": "GBFH",
-   "insider": "Nigro Todd Anthony",
-   "role": "SECRETARY",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 105350.0,
-   "src": "live",
-   "pre10": -36.01,
-   "after": {
-    "1": -4.797,
-    "3": -5.332
-   },
-   "days": 4,
-   "running": -2.32,
-   "mature": false
-  },
-  {
-   "ticker": "GBFH",
-   "insider": "NIGRO EDWARD MICHAEL",
-   "role": "CEO and Executive Chairman",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 197852.44,
-   "src": "live",
-   "pre10": -36.01,
-   "after": {
-    "1": -4.797,
-    "3": -5.332
-   },
-   "days": 4,
-   "running": -2.32,
-   "mature": false
-  },
-  {
-   "ticker": "GBFH",
-   "insider": "Herbst Timothy P",
-   "role": "Director",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 214971.0,
-   "src": "live",
-   "pre10": -36.01,
-   "after": {
-    "1": -4.797,
-    "3": -5.332
-   },
-   "days": 4,
-   "running": -2.32,
-   "mature": false
-  },
-  {
-   "ticker": "GTE",
-   "insider": "LM Asset Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 234059.4,
-   "src": "live",
-   "pre10": 26.85,
-   "after": {
-    "1": 0.745,
-    "3": -5.356,
-    "5": 0.473
-   },
-   "days": 5,
-   "running": 0.47,
-   "mature": false
-  },
-  {
-   "ticker": "WCC",
-   "insider": "Castillo Daniel J",
-   "role": "EVP & GM, EES",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 351254.4,
-   "src": "live",
-   "pre10": 9.87,
-   "after": {
-    "1": -0.95,
-    "3": -2.918,
-    "5": -2.198
-   },
-   "days": 5,
-   "running": -2.2,
-   "mature": false
-  },
-  {
-   "ticker": "CSGP",
-   "insider": "FLORANCE ANDREW C",
-   "role": "Founder and CEO",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 2489837.0,
-   "src": "live",
-   "pre10": 6.11,
-   "after": {
-    "1": -0.823,
-    "3": 4.953,
-    "5": 2.041
-   },
-   "days": 5,
-   "running": 2.04,
-   "mature": false
-  },
-  {
-   "ticker": "NFRX",
-   "insider": "Harrison Street Real Assets Fund LLC",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "filed": "2026-08-05",
-   "value": 9999997.92,
-   "src": "live",
-   "pre10": -5.53,
-   "after": {
-    "1": -0.011,
-    "3": -1.268
-   },
-   "days": 4,
-   "running": -0.42,
-   "mature": false
-  },
-  {
-   "ticker": "WBHC",
-   "insider": "RICHERSON HERBERT ELMER",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-05",
-   "value": 2503.5,
-   "src": "live",
-   "pre10": -2.99,
-   "after": {
-    "1": 0.214,
-    "3": -0.366
-   },
-   "days": 4,
-   "running": -0.05,
-   "mature": false
-  },
-  {
-   "ticker": "CCNE",
-   "insider": "Peduzzi Michael D",
-   "role": "President & CEO",
-   "date": "2026-08-05",
-   "filed": "2026-08-05",
-   "value": 38908.32,
-   "src": "live",
-   "pre10": 2.4,
-   "after": {
-    "1": -1.106,
-    "3": -4.101,
-    "5": -2.998
-   },
-   "days": 5,
-   "running": -3.0,
-   "mature": false
-  },
-  {
-   "ticker": "INDV",
-   "insider": "Anderson Woodrow D",
-   "role": "Chief Accounting Officer",
-   "date": "2026-08-05",
-   "filed": "2026-08-05",
-   "value": 54420.0,
-   "src": "live",
-   "pre10": -7.25,
-   "after": {
-    "1": -0.734,
-    "3": -1.826
-   },
-   "days": 4,
-   "running": -1.94,
-   "mature": false
-  },
-  {
-   "ticker": "NMZ",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "filed": "2026-08-06",
-   "value": 10.18,
-   "src": "live",
-   "pre10": -4.5,
-   "after": {
-    "1": -0.096,
-    "3": 0.157
-   },
-   "days": 4,
-   "running": -0.49,
-   "mature": false
-  },
-  {
-   "ticker": "ADAG",
-   "insider": "Luo Peter",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-04",
-   "filed": "2026-08-06",
-   "value": 83745.52,
-   "src": "live",
-   "pre10": 18.73,
-   "after": {
-    "1": -3.585,
-    "3": -8.058
-   },
-   "days": 3,
-   "running": -8.06,
-   "mature": false
-  },
-  {
-   "ticker": "BXMT",
-   "insider": "NASSAU HENRY N",
-   "role": "Director",
-   "date": "2026-08-04",
-   "filed": "2026-08-06",
-   "value": 143357.0,
-   "src": "live",
-   "pre10": -20.19,
-   "after": {
-    "1": 0.853,
-    "3": 4.706
-   },
-   "days": 4,
-   "running": 2.96,
-   "mature": false
-  },
-  {
-   "ticker": "DMC",
-   "insider": "Abbas Mohammed",
-   "role": "President & COO",
-   "date": "2026-08-04",
-   "filed": "2026-08-06",
-   "value": 358705.2,
-   "src": "live",
-   "pre10": 1.39,
-   "after": {
-    "1": -2.048,
-    "3": -1.985
-   },
-   "days": 4,
-   "running": -3.63,
-   "mature": false
-  },
-  {
-   "ticker": "SITE",
-   "insider": "BLACK DOUG",
-   "role": "CEO",
-   "date": "2026-08-04",
-   "filed": "2026-08-06",
-   "value": 407760.0,
-   "src": "live",
-   "pre10": -4.24,
-   "after": {
-    "1": 0.349,
-    "3": -5.58
-   },
-   "days": 3,
-   "running": -5.58,
-   "mature": false
-  },
-  {
-   "ticker": "THRY",
-   "insider": "PAULSON & CO. INC.",
-   "role": "10% owner",
-   "date": "2026-08-04",
-   "filed": "2026-08-06",
-   "value": 717895.86,
-   "src": "live",
-   "pre10": -38.52,
-   "after": {
-    "1": -11.885,
-    "3": -22.948
-   },
-   "days": 3,
-   "running": -22.95,
-   "mature": false
-  },
-  {
-   "ticker": "TPL",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 385.95,
-   "src": "live",
-   "pre10": -20.54,
-   "after": {
-    "1": -5.886,
-    "3": 1.204
-   },
-   "days": 4,
-   "running": -3.64,
-   "mature": false
-  },
-  {
-   "ticker": "JCTC",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 424.16,
-   "src": "live",
-   "pre10": 6.12,
-   "after": {
-    "1": 10.664,
-    "3": 5.36
-   },
-   "days": 4,
-   "running": 1.3,
-   "mature": false
-  },
-  {
-   "ticker": "ADAG",
-   "insider": "Luo Peter",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 1018.35,
-   "src": "live",
-   "pre10": 18.73,
-   "after": {
-    "1": -3.585,
-    "3": -8.058
-   },
-   "days": 3,
-   "running": -8.06,
-   "mature": false
-  },
-  {
-   "ticker": "RCG",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 2245.32,
-   "src": "live",
-   "pre10": -7.77,
-   "after": {
-    "1": 0.383,
-    "3": -1.961
-   },
-   "days": 4,
-   "running": -2.47,
-   "mature": false
-  },
-  {
-   "ticker": "COCP",
-   "insider": "FROST PHILLIP MD ET AL",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 9816.0,
-   "src": "live",
-   "pre10": 7.84,
-   "after": {
-    "1": -0.291,
-    "3": 3.362
-   },
-   "days": 3,
-   "running": 3.36,
-   "mature": false
-  },
-  {
-   "ticker": "BXSY",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 89000.0,
-   "src": "live",
-   "pre10": 0.85,
-   "after": {
-    "1": 0.615,
-    "3": 1.532
-   },
-   "days": 4,
-   "running": 1.53,
-   "mature": false
-  },
-  {
-   "ticker": "THRY",
-   "insider": "PAULSON & CO. INC.",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 404480.25,
-   "src": "live",
-   "pre10": -38.52,
-   "after": {
-    "1": -11.885,
-    "3": -22.948
-   },
-   "days": 3,
-   "running": -22.95,
-   "mature": false
-  },
-  {
-   "ticker": "APTV",
-   "insider": "MEISTER PAUL M",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-06",
-   "value": 4999958.88,
-   "src": "live",
-   "pre10": -21.58,
-   "after": {
-    "1": 3.916,
-    "3": 4.413
-   },
-   "days": 4,
-   "running": 3.58,
-   "mature": false
-  },
-  {
    "ticker": "JCTC",
    "insider": "AJB Investment Fund II, LP",
    "role": "10% owner",
    "date": "2026-08-06",
    "filed": "2026-08-06",
-   "value": 41.97,
+   "value": 1158.47,
    "src": "live",
    "pre10": 6.12,
    "after": {
     "1": 10.664,
-    "3": 5.36
+    "3": 5.36,
+    "5": 1.584
    },
-   "days": 4,
-   "running": 1.3,
+   "days": 5,
+   "running": 1.58,
    "mature": false
   },
   {
@@ -2544,10 +1253,11 @@
    "pre10": 0.85,
    "after": {
     "1": 0.615,
-    "3": 1.532
+    "3": 1.532,
+    "5": 1.262
    },
-   "days": 4,
-   "running": 1.53,
+   "days": 5,
+   "running": 1.26,
    "mature": false
   },
   {
@@ -2561,10 +1271,10 @@
    "pre10": -2.74,
    "after": {
     "1": -1.247,
-    "3": 0.219
+    "3": 1.814
    },
-   "days": 3,
-   "running": 0.22,
+   "days": 4,
+   "running": 1.32,
    "mature": false
   },
   {
@@ -2578,10 +1288,11 @@
    "pre10": 0.11,
    "after": {
     "1": -0.9,
-    "3": -0.279
+    "3": -0.279,
+    "5": -1.797
    },
-   "days": 4,
-   "running": -0.44,
+   "days": 5,
+   "running": -1.8,
    "mature": false
   },
   {
@@ -2595,10 +1306,11 @@
    "pre10": -12.16,
    "after": {
     "1": -0.328,
-    "3": -0.547
+    "3": -0.547,
+    "5": -0.584
    },
-   "days": 4,
-   "running": 0.01,
+   "days": 5,
+   "running": -0.58,
    "mature": false
   },
   {
@@ -2614,8 +1326,8 @@
     "1": -0.291,
     "3": 0.06
    },
-   "days": 3,
-   "running": 0.06,
+   "days": 4,
+   "running": -0.19,
    "mature": false
   },
   {
@@ -2629,305 +1341,28 @@
    "pre10": -13.76,
    "after": {
     "1": 0.193,
-    "3": 2.797
+    "3": 2.797,
+    "5": 2.17
+   },
+   "days": 5,
+   "running": 2.17,
+   "mature": false
+  },
+  {
+   "ticker": "ATTO",
+   "insider": "Frazier Life Sciences XI, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "filed": "2026-08-06",
+   "value": 9999995.0,
+   "src": "live",
+   "pre10": null,
+   "after": {
+    "1": 0.008,
+    "3": -10.134
    },
    "days": 4,
-   "running": 2.21,
-   "mature": false
-  },
-  {
-   "ticker": "OKYO",
-   "insider": "JACOB GARY S",
-   "role": "CHIEF DEVELOPMENT OFFICER",
-   "date": "2026-07-21",
-   "filed": "2026-08-07",
-   "value": 4900.0,
-   "src": "live",
-   "pre10": -8.52,
-   "after": {
-    "1": 1.235
-   },
-   "days": 2,
-   "running": 0.59,
-   "mature": false
-  },
-  {
-   "ticker": "OKYO",
-   "insider": "BRANCACCIO JOHN P",
-   "role": "Director",
-   "date": "2026-07-21",
-   "filed": "2026-08-07",
-   "value": 7385.0,
-   "src": "live",
-   "pre10": -8.52,
-   "after": {
-    "1": 1.235
-   },
-   "days": 2,
-   "running": 0.59,
-   "mature": false
-  },
-  {
-   "ticker": "OKYO",
-   "insider": "Mantelli Flavio",
-   "role": "CHIEF MEDICAL OFFICER",
-   "date": "2026-07-21",
-   "filed": "2026-08-07",
-   "value": 28000.0,
-   "src": "live",
-   "pre10": -8.52,
-   "after": {
-    "1": 1.235
-   },
-   "days": 2,
-   "running": 0.59,
-   "mature": false
-  },
-  {
-   "ticker": "OKYO",
-   "insider": "CERRONE GABRIELE M",
-   "role": "Director",
-   "date": "2026-07-21",
-   "filed": "2026-08-07",
-   "value": 32625.0,
-   "src": "live",
-   "pre10": -8.52,
-   "after": {
-    "1": 1.235
-   },
-   "days": 2,
-   "running": 0.59,
-   "mature": false
-  },
-  {
-   "ticker": "TLSA",
-   "insider": "CERRONE GABRIELE M",
-   "role": "Director",
-   "date": "2026-07-21",
-   "filed": "2026-08-07",
-   "value": 41933.43,
-   "src": "live",
-   "pre10": 7.71,
-   "after": {
-    "1": -1.997
-   },
-   "days": 2,
-   "running": -5.28,
-   "mature": false
-  },
-  {
-   "ticker": "OKYO",
-   "insider": "Dempsey Robert John",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-07-22",
-   "filed": "2026-08-07",
-   "value": 23085.0,
-   "src": "live",
-   "pre10": -8.52,
-   "after": {
-    "1": 1.235
-   },
-   "days": 2,
-   "running": 0.59,
-   "mature": false
-  },
-  {
-   "ticker": "OKYO",
-   "insider": "Patil Rajkumar V.",
-   "role": "Chief Scientific Officer",
-   "date": "2026-07-27",
-   "filed": "2026-08-07",
-   "value": 5010.87,
-   "src": "live",
-   "pre10": -8.52,
-   "after": {
-    "1": 1.235
-   },
-   "days": 2,
-   "running": 0.59,
-   "mature": false
-  },
-  {
-   "ticker": "NWPP",
-   "insider": "White Blaine Scott",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 7464.6,
-   "src": "live",
-   "pre10": -4.42,
-   "after": {
-    "1": -2.857
-   },
-   "days": 1,
-   "running": -2.86,
-   "mature": false
-  },
-  {
-   "ticker": "FNRN",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 9160.5,
-   "src": "live",
-   "pre10": -13.99,
-   "after": {
-    "1": 5.096,
-    "3": 4.577
-   },
-   "days": 3,
-   "running": 4.58,
-   "mature": false
-  },
-  {
-   "ticker": "AWRE",
-   "insider": "Amlani Ajay K",
-   "role": "President & CEO",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 12437.2,
-   "src": "live",
-   "pre10": 11.87,
-   "after": {
-    "1": 1.544,
-    "3": -3.907
-   },
-   "days": 3,
-   "running": -3.91,
-   "mature": false
-  },
-  {
-   "ticker": "ETD",
-   "insider": "Tsai Cynthia Ekberg",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 24610.0,
-   "src": "live",
-   "pre10": -0.75,
-   "after": {
-    "1": -0.983,
-    "3": -5.154
-   },
-   "days": 3,
-   "running": -5.15,
-   "mature": false
-  },
-  {
-   "ticker": "PMN",
-   "insider": "Kaplan Johanne",
-   "role": "Chief Development Officer",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 30324.0,
-   "src": "live",
-   "pre10": 15.93,
-   "after": {
-    "1": -1.66,
-    "3": -0.141
-   },
-   "days": 3,
-   "running": -0.14,
-   "mature": false
-  },
-  {
-   "ticker": "NMM",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 83431.75,
-   "src": "live",
-   "pre10": -4.33,
-   "after": {
-    "1": -0.674,
-    "3": -0.538
-   },
-   "days": 3,
-   "running": -0.54,
-   "mature": false
-  },
-  {
-   "ticker": "BSX",
-   "insider": "Habiger David C",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 99936.9,
-   "src": "live",
-   "pre10": 6.79,
-   "after": {
-    "1": 1.801,
-    "3": 3.161
-   },
-   "days": 3,
-   "running": 3.16,
-   "mature": false
-  },
-  {
-   "ticker": "CCB",
-   "insider": "HOVDE STEVEN D",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 220000.0,
-   "src": "live",
-   "pre10": -41.84,
-   "after": {
-    "1": 3.37
-   },
-   "days": 2,
-   "running": 6.83,
-   "mature": false
-  },
-  {
-   "ticker": "GBFH",
-   "insider": "Griege Charles William Jr.",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 525675.0,
-   "src": "live",
-   "pre10": -37.29,
-   "after": {
-    "1": -1.659
-   },
-   "days": 2,
-   "running": 1.44,
-   "mature": false
-  },
-  {
-   "ticker": "ABTC",
-   "insider": "Mateen Justin",
-   "role": "Director",
-   "date": "2026-08-05",
-   "filed": "2026-08-07",
-   "value": 924554.85,
-   "src": "live",
-   "pre10": 8.47,
-   "after": {
-    "1": -3.865
-   },
-   "days": 2,
-   "running": -4.29,
-   "mature": false
-  },
-  {
-   "ticker": "AWRE",
-   "insider": "Amlani Ajay K",
-   "role": "President & CEO",
-   "date": "2026-08-06",
-   "filed": "2026-08-07",
-   "value": 49.14,
-   "src": "live",
-   "pre10": 11.87,
-   "after": {
-    "1": 1.544,
-    "3": -3.907
-   },
-   "days": 3,
-   "running": -3.91,
+   "running": -4.82,
    "mature": false
   },
   {
@@ -2941,10 +1376,10 @@
    "pre10": -23.43,
    "after": {
     "1": 1.14,
-    "3": 0.615
+    "3": -1.005
    },
-   "days": 3,
-   "running": 0.62,
+   "days": 4,
+   "running": -0.47,
    "mature": false
   },
   {
@@ -2958,10 +1393,10 @@
    "pre10": -3.29,
    "after": {
     "1": -2.413,
-    "3": -2.264
+    "3": -3.689
    },
-   "days": 3,
-   "running": -2.26,
+   "days": 4,
+   "running": -6.07,
    "mature": false
   },
   {
@@ -2975,10 +1410,10 @@
    "pre10": -3.25,
    "after": {
     "1": 1.27,
-    "3": 1.544
+    "3": 1.781
    },
-   "days": 3,
-   "running": 1.54,
+   "days": 4,
+   "running": 1.75,
    "mature": false
   },
   {
@@ -2992,10 +1427,10 @@
    "pre10": -13.99,
    "after": {
     "1": 5.096,
-    "3": 4.577
+    "3": 4.56
    },
-   "days": 3,
-   "running": 4.58,
+   "days": 4,
+   "running": 5.44,
    "mature": false
   },
   {
@@ -3008,10 +1443,11 @@
    "src": "live",
    "pre10": 13.14,
    "after": {
-    "1": -2.484
+    "1": -2.484,
+    "3": 3.325
    },
-   "days": 2,
-   "running": 2.92,
+   "days": 4,
+   "running": 3.07,
    "mature": false
   },
   {
@@ -3025,10 +1461,10 @@
    "pre10": -27.89,
    "after": {
     "1": -4.201,
-    "3": 3.547
+    "3": 2.527
    },
-   "days": 3,
-   "running": 3.55,
+   "days": 4,
+   "running": 0.7,
    "mature": false
   },
   {
@@ -3042,10 +1478,10 @@
    "pre10": -4.33,
    "after": {
     "1": -0.674,
-    "3": -0.538
+    "3": 0.443
    },
-   "days": 3,
-   "running": -0.54,
+   "days": 4,
+   "running": 1.79,
    "mature": false
   },
   {
@@ -3059,10 +1495,10 @@
    "pre10": -1.08,
    "after": {
     "1": -3.069,
-    "3": -3.128
+    "3": -3.103
    },
-   "days": 3,
-   "running": -3.13,
+   "days": 4,
+   "running": -3.28,
    "mature": false
   },
   {
@@ -3075,10 +1511,11 @@
    "src": "live",
    "pre10": -41.84,
    "after": {
-    "1": 3.37
+    "1": 3.37,
+    "3": 7.738
    },
-   "days": 2,
-   "running": 6.83,
+   "days": 3,
+   "running": 7.74,
    "mature": false
   },
   {
@@ -3091,10 +1528,11 @@
    "src": "live",
    "pre10": -41.84,
    "after": {
-    "1": 3.37
+    "1": 3.37,
+    "3": 7.738
    },
-   "days": 2,
-   "running": 6.83,
+   "days": 3,
+   "running": 7.74,
    "mature": false
   },
   {
@@ -3107,10 +1545,45 @@
    "src": "live",
    "pre10": 8.47,
    "after": {
-    "1": -3.865
+    "1": -3.865,
+    "3": -5.7
    },
-   "days": 2,
-   "running": -4.29,
+   "days": 4,
+   "running": -1.09,
+   "mature": false
+  },
+  {
+   "ticker": "ATTO",
+   "insider": "Redmile Group, LLC",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "filed": "2026-08-07",
+   "value": 3400000.0,
+   "src": "live",
+   "pre10": null,
+   "after": {
+    "1": -1.692,
+    "3": -4.894
+   },
+   "days": 3,
+   "running": -4.89,
+   "mature": false
+  },
+  {
+   "ticker": "ATTO",
+   "insider": "Sanofi",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "filed": "2026-08-07",
+   "value": 5100000.0,
+   "src": "live",
+   "pre10": null,
+   "after": {
+    "1": -1.692,
+    "3": -4.894
+   },
+   "days": 3,
+   "running": -4.89,
    "mature": false
   },
   {
@@ -3123,10 +1596,11 @@
    "src": "live",
    "pre10": -4.32,
    "after": {
-    "1": -0.056
+    "1": -0.056,
+    "3": 0.055
    },
-   "days": 1,
-   "running": -0.06,
+   "days": 3,
+   "running": 0.05,
    "mature": false
   },
   {
@@ -3139,10 +1613,11 @@
    "src": "live",
    "pre10": -4.34,
    "after": {
-    "1": 0.918
+    "1": 0.918,
+    "3": 0.075
    },
-   "days": 2,
-   "running": 0.32,
+   "days": 4,
+   "running": -0.47,
    "mature": false
   },
   {
@@ -3155,10 +1630,11 @@
    "src": "live",
    "pre10": -41.84,
    "after": {
-    "1": 3.37
+    "1": 3.37,
+    "3": 7.738
    },
-   "days": 2,
-   "running": 6.83,
+   "days": 3,
+   "running": 7.74,
    "mature": false
   },
   {
@@ -3172,10 +1648,10 @@
    "pre10": -3.25,
    "after": {
     "1": 1.27,
-    "3": 1.544
+    "3": 1.781
    },
-   "days": 3,
-   "running": 1.54,
+   "days": 4,
+   "running": 1.75,
    "mature": false
   },
   {
@@ -3189,42 +1665,10 @@
    "pre10": -4.33,
    "after": {
     "1": -0.674,
-    "3": -0.538
+    "3": 0.443
    },
-   "days": 3,
-   "running": -0.54,
-   "mature": false
-  },
-  {
-   "ticker": "VALE",
-   "insider": "Viana Madeira Andre",
-   "role": "Director",
-   "date": "2026-08-03",
-   "filed": "2026-08-10",
-   "value": 73.15,
-   "src": "live",
-   "pre10": -3.85,
-   "after": {
-    "1": -3.829
-   },
-   "days": 2,
-   "running": -2.9,
-   "mature": false
-  },
-  {
-   "ticker": "VALE",
-   "insider": "Viana Madeira Andre",
-   "role": "Director",
-   "date": "2026-08-04",
-   "filed": "2026-08-10",
-   "value": 59.96,
-   "src": "live",
-   "pre10": -3.85,
-   "after": {
-    "1": -3.829
-   },
-   "days": 2,
-   "running": -2.9,
+   "days": 4,
+   "running": 1.79,
    "mature": false
   },
   {
@@ -3237,10 +1681,11 @@
    "src": "live",
    "pre10": -1.75,
    "after": {
-    "1": 1.253
+    "1": 1.253,
+    "3": 2.405
    },
-   "days": 2,
-   "running": 1.82,
+   "days": 3,
+   "running": 2.41,
    "mature": false
   },
   {
@@ -3253,10 +1698,11 @@
    "src": "live",
    "pre10": -3.08,
    "after": {
-    "1": 1.256
+    "1": 1.256,
+    "3": 1.798
    },
-   "days": 2,
-   "running": 2.01,
+   "days": 3,
+   "running": 1.8,
    "mature": false
   },
   {
@@ -3269,10 +1715,11 @@
    "src": "live",
    "pre10": -4.56,
    "after": {
-    "1": 0.917
+    "1": 0.917,
+    "3": 1.626
    },
-   "days": 2,
-   "running": 0.82,
+   "days": 3,
+   "running": 1.63,
    "mature": false
   },
   {
@@ -3285,10 +1732,28 @@
    "src": "live",
    "pre10": -4.56,
    "after": {
-    "1": 0.917
+    "1": 0.917,
+    "3": 1.626
    },
-   "days": 2,
-   "running": 0.82,
+   "days": 3,
+   "running": 1.63,
+   "mature": false
+  },
+  {
+   "ticker": "SNES",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-08-06",
+   "filed": "2026-08-10",
+   "value": 19443.0,
+   "src": "live",
+   "pre10": -9.1,
+   "after": {
+    "1": -4.033,
+    "3": -5.357
+   },
+   "days": 3,
+   "running": -5.36,
    "mature": false
   },
   {
@@ -3301,10 +1766,11 @@
    "src": "live",
    "pre10": -28.04,
    "after": {
-    "1": -1.868
+    "1": -1.868,
+    "3": -7.026
    },
-   "days": 2,
-   "running": -0.15,
+   "days": 3,
+   "running": -7.03,
    "mature": false
   },
   {
@@ -3317,10 +1783,28 @@
    "src": "live",
    "pre10": 12.84,
    "after": {
-    "1": -2.993
+    "1": -2.993,
+    "3": -12.185
    },
-   "days": 2,
-   "running": -11.0,
+   "days": 3,
+   "running": -12.19,
+   "mature": false
+  },
+  {
+   "ticker": "CC",
+   "insider": "HOSTETTER SHANE",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-06",
+   "filed": "2026-08-10",
+   "value": 50049.0,
+   "src": "live",
+   "pre10": -18.67,
+   "after": {
+    "1": -0.491,
+    "3": 1.641
+   },
+   "days": 3,
+   "running": 1.64,
    "mature": false
   },
   {
@@ -3333,10 +1817,11 @@
    "src": "live",
    "pre10": 3.53,
    "after": {
-    "1": 2.037
+    "1": 2.037,
+    "3": 1.863
    },
-   "days": 2,
-   "running": 1.85,
+   "days": 3,
+   "running": 1.86,
    "mature": false
   },
   {
@@ -3349,10 +1834,62 @@
    "src": "live",
    "pre10": 0.88,
    "after": {
-    "1": 2.175
+    "1": 2.175,
+    "3": 0.665
    },
-   "days": 2,
-   "running": 3.4,
+   "days": 3,
+   "running": 0.67,
+   "mature": false
+  },
+  {
+   "ticker": "MBLY",
+   "insider": "Yeboah-Amankwah Safroadu",
+   "role": "Director",
+   "date": "2026-08-06",
+   "filed": "2026-08-10",
+   "value": 100174.86,
+   "src": "live",
+   "pre10": 4.65,
+   "after": {
+    "1": 0.4,
+    "3": -0.207
+   },
+   "days": 3,
+   "running": -0.21,
+   "mature": false
+  },
+  {
+   "ticker": "AHCO",
+   "insider": "WOLF DALE B",
+   "role": "Director",
+   "date": "2026-08-06",
+   "filed": "2026-08-10",
+   "value": 127400.0,
+   "src": "live",
+   "pre10": -56.96,
+   "after": {
+    "1": 5.142,
+    "3": 5.123
+   },
+   "days": 3,
+   "running": 5.12,
+   "mature": false
+  },
+  {
+   "ticker": "AHCO",
+   "insider": "SAMET KENNETH A",
+   "role": "Director",
+   "date": "2026-08-06",
+   "filed": "2026-08-10",
+   "value": 149930.0,
+   "src": "live",
+   "pre10": -56.96,
+   "after": {
+    "1": 5.142,
+    "3": 5.123
+   },
+   "days": 3,
+   "running": 5.12,
    "mature": false
   },
   {
@@ -3365,10 +1902,11 @@
    "src": "live",
    "pre10": -11.37,
    "after": {
-    "1": 1.502
+    "1": 1.502,
+    "3": -2.614
    },
-   "days": 2,
-   "running": -1.99,
+   "days": 3,
+   "running": -2.61,
    "mature": false
   },
   {
@@ -3381,10 +1919,11 @@
    "src": "live",
    "pre10": -0.52,
    "after": {
-    "1": 1.3
+    "1": 1.3,
+    "3": 1.97
    },
-   "days": 2,
-   "running": 0.85,
+   "days": 3,
+   "running": 1.97,
    "mature": false
   },
   {
@@ -3397,10 +1936,11 @@
    "src": "live",
    "pre10": -16.24,
    "after": {
-    "1": 4.79
+    "1": 4.79,
+    "3": -1.278
    },
-   "days": 2,
-   "running": -0.2,
+   "days": 3,
+   "running": -1.28,
    "mature": false
   },
   {
@@ -3413,10 +1953,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3429,10 +1970,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3445,10 +1987,11 @@
    "src": "live",
    "pre10": -9.2,
    "after": {
-    "1": 4.071
+    "1": 4.071,
+    "3": -0.433
    },
-   "days": 2,
-   "running": 3.54,
+   "days": 3,
+   "running": -0.43,
    "mature": false
   },
   {
@@ -3461,10 +2004,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3477,10 +2021,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3493,10 +2038,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3509,10 +2055,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3525,10 +2072,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3541,10 +2089,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3557,10 +2106,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3573,10 +2123,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3589,10 +2140,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3605,10 +2157,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3621,10 +2174,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3637,10 +2191,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3653,10 +2208,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3669,10 +2225,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3685,10 +2242,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3701,10 +2259,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3717,10 +2276,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3733,10 +2293,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3749,10 +2310,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3765,10 +2327,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3781,10 +2344,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3797,10 +2361,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3813,10 +2378,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3829,10 +2395,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3845,10 +2412,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3861,10 +2429,11 @@
    "src": "live",
    "pre10": -0.52,
    "after": {
-    "1": 1.3
+    "1": 1.3,
+    "3": 1.97
    },
-   "days": 2,
-   "running": 0.85,
+   "days": 3,
+   "running": 1.97,
    "mature": false
   },
   {
@@ -3877,10 +2446,11 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
    "mature": false
   },
   {
@@ -3893,10 +2463,28 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
+   "mature": false
+  },
+  {
+   "ticker": "SNES",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-08-07",
+   "filed": "2026-08-10",
+   "value": 8422.07,
+   "src": "live",
+   "pre10": -9.1,
+   "after": {
+    "1": -4.033,
+    "3": -5.357
+   },
+   "days": 3,
+   "running": -5.36,
    "mature": false
   },
   {
@@ -3909,10 +2497,62 @@
    "src": "live",
    "pre10": 0.26,
    "after": {
-    "1": 0.008
+    "1": 0.008,
+    "3": 1.05
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 1.05,
+   "mature": false
+  },
+  {
+   "ticker": "MKZR",
+   "insider": "PATTERSON CHARLES E. II",
+   "role": "General Counsel/Secretary",
+   "date": "2026-08-07",
+   "filed": "2026-08-10",
+   "value": 15900.0,
+   "src": "live",
+   "pre10": 17.01,
+   "after": {
+    "1": -3.918,
+    "3": 2.732
+   },
+   "days": 3,
+   "running": 2.73,
+   "mature": false
+  },
+  {
+   "ticker": "MKZR",
+   "insider": "DIXON ROBERT E",
+   "role": "CEO/President",
+   "date": "2026-08-07",
+   "filed": "2026-08-10",
+   "value": 15900.0,
+   "src": "live",
+   "pre10": 17.01,
+   "after": {
+    "1": -3.918,
+    "3": 2.732
+   },
+   "days": 3,
+   "running": 2.73,
+   "mature": false
+  },
+  {
+   "ticker": "MKZR",
+   "insider": "FULLER GLEN W",
+   "role": "Treasurer",
+   "date": "2026-08-07",
+   "filed": "2026-08-10",
+   "value": 15900.0,
+   "src": "live",
+   "pre10": 17.01,
+   "after": {
+    "1": -3.918,
+    "3": 2.732
+   },
+   "days": 3,
+   "running": 2.73,
    "mature": false
   },
   {
@@ -3925,10 +2565,11 @@
    "src": "live",
    "pre10": -28.04,
    "after": {
-    "1": -1.868
+    "1": -1.868,
+    "3": -7.026
    },
-   "days": 2,
-   "running": -0.15,
+   "days": 3,
+   "running": -7.03,
    "mature": false
   },
   {
@@ -3941,10 +2582,11 @@
    "src": "live",
    "pre10": -0.46,
    "after": {
-    "1": 1.915
+    "1": 1.915,
+    "3": 0.984
    },
-   "days": 2,
-   "running": 2.49,
+   "days": 3,
+   "running": 0.98,
    "mature": false
   },
   {
@@ -3957,10 +2599,28 @@
    "src": "live",
    "pre10": -15.06,
    "after": {
-    "1": -0.08
+    "1": -0.08,
+    "3": 4.279
    },
-   "days": 2,
-   "running": -1.49,
+   "days": 3,
+   "running": 4.28,
+   "mature": false
+  },
+  {
+   "ticker": "AHCO",
+   "insider": "WOLF DALE B",
+   "role": "Director",
+   "date": "2026-08-07",
+   "filed": "2026-08-10",
+   "value": 117200.0,
+   "src": "live",
+   "pre10": -56.96,
+   "after": {
+    "1": 5.142,
+    "3": 5.123
+   },
+   "days": 3,
+   "running": 5.12,
    "mature": false
   },
   {
@@ -3973,10 +2633,11 @@
    "src": "live",
    "pre10": -5.05,
    "after": {
-    "1": 0.912
+    "1": 0.912,
+    "3": 0.853
    },
-   "days": 2,
-   "running": 0.71,
+   "days": 3,
+   "running": 0.85,
    "mature": false
   },
   {
@@ -3989,10 +2650,11 @@
    "src": "live",
    "pre10": 0.55,
    "after": {
-    "1": 1.484
+    "1": 1.484,
+    "3": 0.442
    },
-   "days": 2,
-   "running": 1.7,
+   "days": 3,
+   "running": 0.44,
    "mature": false
   },
   {
@@ -4005,10 +2667,28 @@
    "src": "live",
    "pre10": 3.53,
    "after": {
-    "1": 2.037
+    "1": 2.037,
+    "3": 1.863
    },
-   "days": 2,
-   "running": 1.85,
+   "days": 3,
+   "running": 1.86,
+   "mature": false
+  },
+  {
+   "ticker": "PRCT",
+   "insider": "Wood Larry L",
+   "role": "President, CEO",
+   "date": "2026-08-07",
+   "filed": "2026-08-10",
+   "value": 498315.0,
+   "src": "live",
+   "pre10": 18.13,
+   "after": {
+    "1": 6.978,
+    "3": 1.661
+   },
+   "days": 3,
+   "running": 1.66,
    "mature": false
   },
   {
@@ -4021,10 +2701,11 @@
    "src": "live",
    "pre10": -11.37,
    "after": {
-    "1": 1.502
+    "1": 1.502,
+    "3": -2.614
    },
-   "days": 2,
-   "running": -1.99,
+   "days": 3,
+   "running": -2.61,
    "mature": false
   },
   {
@@ -4037,10 +2718,11 @@
    "src": "live",
    "pre10": -6.41,
    "after": {
-    "1": 2.382
+    "1": 2.382,
+    "3": 13.586
    },
-   "days": 2,
-   "running": 6.88,
+   "days": 3,
+   "running": 13.59,
    "mature": false
   },
   {
@@ -4053,10 +2735,62 @@
    "src": "live",
    "pre10": -28.04,
    "after": {
-    "1": -1.868
+    "1": -1.868,
+    "3": -7.026
    },
-   "days": 2,
-   "running": -0.15,
+   "days": 3,
+   "running": -7.03,
+   "mature": false
+  },
+  {
+   "ticker": "MKZR",
+   "insider": "PATTERSON CHARLES E. II",
+   "role": "General Counsel/Secretary",
+   "date": "2026-08-10",
+   "filed": "2026-08-10",
+   "value": 37440.0,
+   "src": "live",
+   "pre10": 17.01,
+   "after": {
+    "1": -3.918,
+    "3": 2.732
+   },
+   "days": 3,
+   "running": 2.73,
+   "mature": false
+  },
+  {
+   "ticker": "MKZR",
+   "insider": "DIXON ROBERT E",
+   "role": "CEO/President",
+   "date": "2026-08-10",
+   "filed": "2026-08-10",
+   "value": 37440.0,
+   "src": "live",
+   "pre10": 17.01,
+   "after": {
+    "1": -3.918,
+    "3": 2.732
+   },
+   "days": 3,
+   "running": 2.73,
+   "mature": false
+  },
+  {
+   "ticker": "MKZR",
+   "insider": "FULLER GLEN W",
+   "role": "Treasurer",
+   "date": "2026-08-10",
+   "filed": "2026-08-10",
+   "value": 37440.0,
+   "src": "live",
+   "pre10": 17.01,
+   "after": {
+    "1": -3.918,
+    "3": 2.732
+   },
+   "days": 3,
+   "running": 2.73,
    "mature": false
   },
   {
@@ -4069,10 +2803,11 @@
    "src": "live",
    "pre10": -22.45,
    "after": {
-    "1": 1.696
+    "1": 1.696,
+    "3": 5.485
    },
-   "days": 2,
-   "running": 3.6,
+   "days": 3,
+   "running": 5.48,
    "mature": false
   },
   {
@@ -4085,10 +2820,11 @@
    "src": "live",
    "pre10": -3.94,
    "after": {
-    "1": 1.66
+    "1": 1.66,
+    "3": 2.45
    },
-   "days": 2,
-   "running": 1.6,
+   "days": 3,
+   "running": 2.45,
    "mature": false
   },
   {
@@ -4101,10 +2837,11 @@
    "src": "live",
    "pre10": -22.07,
    "after": {
-    "1": 1.328
+    "1": 1.328,
+    "3": -1.119
    },
-   "days": 2,
-   "running": -0.32,
+   "days": 3,
+   "running": -1.12,
    "mature": false
   },
   {
@@ -4117,10 +2854,11 @@
    "src": "live",
    "pre10": -5.59,
    "after": {
-    "1": 1.825
+    "1": 1.825,
+    "3": 3.147
    },
-   "days": 2,
-   "running": 2.45,
+   "days": 3,
+   "running": 3.15,
    "mature": false
   },
   {
@@ -4133,10 +2871,155 @@
    "src": "live",
    "pre10": -11.24,
    "after": {
-    "1": -0.541
+    "1": -0.541,
+    "3": -3.887
+   },
+   "days": 3,
+   "running": -3.89,
+   "mature": false
+  },
+  {
+   "ticker": "QNTO",
+   "insider": "GONZALEZ WILLIAM R",
+   "role": "President***",
+   "date": "2026-08-06",
+   "filed": "2026-08-11",
+   "value": 6968.25,
+   "src": "live",
+   "pre10": -2.25,
+   "after": {
+    "1": 0.287
    },
    "days": 2,
-   "running": 1.19,
+   "running": -0.41,
+   "mature": false
+  },
+  {
+   "ticker": "FEMY",
+   "insider": "Sipos Jeremy Alexander",
+   "role": "Chief Technology Officer",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 10000.0,
+   "src": "live",
+   "pre10": -23.53,
+   "after": {
+    "1": -9.329
+   },
+   "days": 2,
+   "running": -12.33,
+   "mature": false
+  },
+  {
+   "ticker": "FEMY",
+   "insider": "Mifek Jeffrey Gerald",
+   "role": "Chief Clinical-Medical Affairs",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 10000.0,
+   "src": "live",
+   "pre10": -23.53,
+   "after": {
+    "1": -9.329
+   },
+   "days": 2,
+   "running": -12.33,
+   "mature": false
+  },
+  {
+   "ticker": "FEMY",
+   "insider": "Canning John Charles",
+   "role": "Chief Operating Officer",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 14000.0,
+   "src": "live",
+   "pre10": -23.53,
+   "after": {
+    "1": -9.329
+   },
+   "days": 2,
+   "running": -12.33,
+   "mature": false
+  },
+  {
+   "ticker": "CC",
+   "insider": "Foley Michael Robert",
+   "role": "See Remarks",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 29999.93,
+   "src": "live",
+   "pre10": -17.31,
+   "after": {
+    "1": 0.352
+   },
+   "days": 2,
+   "running": -0.21,
+   "mature": false
+  },
+  {
+   "ticker": "CC",
+   "insider": "Martinko Joseph T.",
+   "role": "See Remarks",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 30008.73,
+   "src": "live",
+   "pre10": -17.31,
+   "after": {
+    "1": 0.352
+   },
+   "days": 2,
+   "running": -0.21,
+   "mature": false
+  },
+  {
+   "ticker": "TRIN",
+   "insider": "Brown Kyle Steven",
+   "role": "CEO, President and CIO",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 41423.99,
+   "src": "live",
+   "pre10": -1.24,
+   "after": {
+    "1": -0.311
+   },
+   "days": 2,
+   "running": -0.25,
+   "mature": false
+  },
+  {
+   "ticker": "FEMY",
+   "insider": "Elefant Dov",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 50000.0,
+   "src": "live",
+   "pre10": -23.53,
+   "after": {
+    "1": -9.329
+   },
+   "days": 2,
+   "running": -12.33,
+   "mature": false
+  },
+  {
+   "ticker": "FEMY",
+   "insider": "Lee-Sepsick Kathy",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 50000.0,
+   "src": "live",
+   "pre10": -23.53,
+   "after": {
+    "1": -9.329
+   },
+   "days": 2,
+   "running": -12.33,
    "mature": false
   },
   {
@@ -4149,10 +3032,26 @@
    "src": "live",
    "pre10": -16.79,
    "after": {
-    "1": 0.041
+    "1": 0.416
    },
-   "days": 1,
-   "running": 0.04,
+   "days": 2,
+   "running": 1.27,
+   "mature": false
+  },
+  {
+   "ticker": "CC",
+   "insider": "CRANSTON MARY B",
+   "role": "Director",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 94950.0,
+   "src": "live",
+   "pre10": -17.31,
+   "after": {
+    "1": 0.352
+   },
+   "days": 2,
+   "running": -0.21,
    "mature": false
   },
   {
@@ -4165,10 +3064,10 @@
    "src": "live",
    "pre10": 27.68,
    "after": {
-    "1": -3.185
+    "1": -1.701
    },
-   "days": 1,
-   "running": -3.19,
+   "days": 2,
+   "running": -1.76,
    "mature": false
   },
   {
@@ -4181,10 +3080,42 @@
    "src": "live",
    "pre10": -9.44,
    "after": {
-    "1": -4.914
+    "1": -5.013
    },
-   "days": 1,
-   "running": -4.91,
+   "days": 2,
+   "running": -5.79,
+   "mature": false
+  },
+  {
+   "ticker": "CC",
+   "insider": "Cowan Alister",
+   "role": "Director",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 203060.0,
+   "src": "live",
+   "pre10": -17.31,
+   "after": {
+    "1": 0.352
+   },
+   "days": 2,
+   "running": -0.21,
+   "mature": false
+  },
+  {
+   "ticker": "LILA",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-08-07",
+   "filed": "2026-08-11",
+   "value": 253902.58,
+   "src": "live",
+   "pre10": -0.82,
+   "after": {
+    "1": -1.863
+   },
+   "days": 2,
+   "running": -3.69,
    "mature": false
   },
   {
@@ -4197,10 +3128,10 @@
    "src": "live",
    "pre10": -4.65,
    "after": {
-    "1": -1.538
+    "1": -1.445
    },
-   "days": 1,
-   "running": -1.54,
+   "days": 2,
+   "running": -0.88,
    "mature": false
   },
   {
@@ -4213,10 +3144,10 @@
    "src": "live",
    "pre10": -6.76,
    "after": {
-    "1": -2.946
+    "1": -2.117
    },
-   "days": 1,
-   "running": -2.95,
+   "days": 2,
+   "running": 4.64,
    "mature": false
   },
   {
@@ -4229,10 +3160,10 @@
    "src": "live",
    "pre10": -10.29,
    "after": {
-    "1": -3.171
+    "1": -4.729
    },
-   "days": 1,
-   "running": -3.17,
+   "days": 2,
+   "running": -4.24,
    "mature": false
   },
   {
@@ -4245,10 +3176,10 @@
    "src": "live",
    "pre10": -5.03,
    "after": {
-    "1": 0.365
+    "1": -1.093
    },
-   "days": 1,
-   "running": 0.36,
+   "days": 2,
+   "running": -3.51,
    "mature": false
   },
   {
@@ -4261,10 +3192,10 @@
    "src": "live",
    "pre10": 27.68,
    "after": {
-    "1": -3.185
+    "1": -1.701
    },
-   "days": 1,
-   "running": -3.19,
+   "days": 2,
+   "running": -1.76,
    "mature": false
   },
   {
@@ -4277,10 +3208,10 @@
    "src": "live",
    "pre10": -5.25,
    "after": {
-    "1": 1.055
+    "1": 1.454
    },
-   "days": 1,
-   "running": 1.05,
+   "days": 2,
+   "running": 1.5,
    "mature": false
   },
   {
@@ -4293,10 +3224,10 @@
    "src": "live",
    "pre10": -16.79,
    "after": {
-    "1": 0.041
+    "1": 0.416
    },
-   "days": 1,
-   "running": 0.04,
+   "days": 2,
+   "running": 1.27,
    "mature": false
   },
   {
@@ -4309,10 +3240,10 @@
    "src": "live",
    "pre10": -19.34,
    "after": {
-    "1": 0.552
+    "1": -0.611
    },
-   "days": 1,
-   "running": 0.55,
+   "days": 2,
+   "running": 0.19,
    "mature": false
   },
   {
@@ -4325,10 +3256,10 @@
    "src": "live",
    "pre10": -15.2,
    "after": {
-    "1": -0.986
+    "1": 2.3
    },
-   "days": 1,
-   "running": -0.99,
+   "days": 2,
+   "running": -2.25,
    "mature": false
   },
   {
@@ -4341,10 +3272,10 @@
    "src": "live",
    "pre10": -30.78,
    "after": {
-    "1": 2.453
+    "1": 2.636
    },
-   "days": 1,
-   "running": 2.45,
+   "days": 2,
+   "running": 1.42,
    "mature": false
   },
   {
@@ -4357,10 +3288,42 @@
    "src": "live",
    "pre10": -2.38,
    "after": {
-    "1": 0.601
+    "1": -0.001
    },
-   "days": 1,
-   "running": 0.6,
+   "days": 2,
+   "running": -1.11,
+   "mature": false
+  },
+  {
+   "ticker": "LILA",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "filed": "2026-08-11",
+   "value": 321334.72,
+   "src": "live",
+   "pre10": -0.82,
+   "after": {
+    "1": -1.863
+   },
+   "days": 2,
+   "running": -3.69,
+   "mature": false
+  },
+  {
+   "ticker": "PLNT",
+   "insider": "Spinelli Stephen JR",
+   "role": "Director",
+   "date": "2026-08-10",
+   "filed": "2026-08-11",
+   "value": 492800.0,
+   "src": "live",
+   "pre10": -18.35,
+   "after": {
+    "1": -0.8
+   },
+   "days": 2,
+   "running": 0.23,
    "mature": false
   },
   {
@@ -4373,10 +3336,26 @@
    "src": "live",
    "pre10": 27.68,
    "after": {
-    "1": -3.185
+    "1": -1.701
    },
-   "days": 1,
-   "running": -3.19,
+   "days": 2,
+   "running": -1.76,
+   "mature": false
+  },
+  {
+   "ticker": "CBKM",
+   "insider": "Bickerton David R",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-11",
+   "value": 1562.5,
+   "src": "live",
+   "pre10": 0.23,
+   "after": {
+    "1": 0.287
+   },
+   "days": 2,
+   "running": -0.35,
    "mature": false
   },
   {
@@ -4389,10 +3368,10 @@
    "src": "live",
    "pre10": 27.68,
    "after": {
-    "1": -3.185
+    "1": -1.701
    },
-   "days": 1,
-   "running": -3.19,
+   "days": 2,
+   "running": -1.76,
    "mature": false
   },
   {
@@ -4405,10 +3384,10 @@
    "src": "live",
    "pre10": -19.34,
    "after": {
-    "1": 0.552
+    "1": -0.611
    },
-   "days": 1,
-   "running": 0.55,
+   "days": 2,
+   "running": 0.19,
    "mature": false
   },
   {
@@ -4421,10 +3400,10 @@
    "src": "live",
    "pre10": -19.34,
    "after": {
-    "1": 0.552
+    "1": -0.611
    },
-   "days": 1,
-   "running": 0.55,
+   "days": 2,
+   "running": 0.19,
    "mature": false
   },
   {
@@ -4437,10 +3416,26 @@
    "src": "live",
    "pre10": -19.34,
    "after": {
-    "1": 0.552
+    "1": -0.611
    },
-   "days": 1,
-   "running": 0.55,
+   "days": 2,
+   "running": 0.19,
+   "mature": false
+  },
+  {
+   "ticker": "SMRT",
+   "insider": "Martell Frank",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-11",
+   "filed": "2026-08-11",
+   "value": 142260.0,
+   "src": "live",
+   "pre10": 36.99,
+   "after": {
+    "1": -0.398
+   },
+   "days": 2,
+   "running": -1.78,
    "mature": false
   },
   {
@@ -4453,10 +3448,10 @@
    "src": "live",
    "pre10": -9.4,
    "after": {
-    "1": 0.436
+    "1": 1.776
    },
-   "days": 1,
-   "running": 0.44,
+   "days": 2,
+   "running": 2.43,
    "mature": false
   },
   {
@@ -4469,16 +3464,1024 @@
    "src": "live",
    "pre10": -7.61,
    "after": {
-    "1": 0.365
+    "1": 1.775
+   },
+   "days": 2,
+   "running": 5.63,
+   "mature": false
+  },
+  {
+   "ticker": "COE",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-06",
+   "filed": "2026-08-12",
+   "value": 2027764.8,
+   "src": "live",
+   "pre10": 15.34,
+   "after": {
+    "1": -3.766
+   },
+   "days": 1,
+   "running": -3.77,
+   "mature": false
+  },
+  {
+   "ticker": "BOTJ",
+   "insider": "SYREK MICHAEL A",
+   "role": "President - Bank of the James",
+   "date": "2026-08-07",
+   "filed": "2026-08-12",
+   "value": 2705.0,
+   "src": "live",
+   "pre10": -6.91,
+   "after": {
+    "1": -0.352
+   },
+   "days": 1,
+   "running": -0.35,
+   "mature": false
+  },
+  {
+   "ticker": "COE",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-07",
+   "filed": "2026-08-12",
+   "value": 1754407.2,
+   "src": "live",
+   "pre10": 15.34,
+   "after": {
+    "1": -3.766
+   },
+   "days": 1,
+   "running": -3.77,
+   "mature": false
+  },
+  {
+   "ticker": "PRMB",
+   "insider": "FOSS ERIC J",
+   "role": "Exec. Chair and CEO",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 2430.0,
+   "src": "live",
+   "pre10": -2.03,
+   "after": {
+    "1": -0.024
+   },
+   "days": 1,
+   "running": -0.02,
+   "mature": false
+  },
+  {
+   "ticker": "MUNEX",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 3957.38,
+   "src": "live",
+   "pre10": -6.11,
+   "after": {
+    "1": -0.388
+   },
+   "days": 1,
+   "running": -0.39,
+   "mature": false
+  },
+  {
+   "ticker": "SWZ",
+   "insider": "SELL MORITZ A",
+   "role": "Director",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 5910.0,
+   "src": "live",
+   "pre10": -5.22,
+   "after": {
+    "1": 0.287
+   },
+   "days": 1,
+   "running": 0.29,
+   "mature": false
+  },
+  {
+   "ticker": "MSS",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 6139.28,
+   "src": "live",
+   "pre10": -19.92,
+   "after": {
+    "1": -1.093
+   },
+   "days": 1,
+   "running": -1.09,
+   "mature": false
+  },
+  {
+   "ticker": "BX",
+   "insider": "Porat Ruth",
+   "role": "Director",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 11540.96,
+   "src": "live",
+   "pre10": 8.4,
+   "after": {
+    "1": 0.976
+   },
+   "days": 1,
+   "running": 0.98,
+   "mature": false
+  },
+  {
+   "ticker": "STRZ",
+   "insider": "Kapenstein James M.",
+   "role": "SEE REMARKS",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 25730.0,
+   "src": "live",
+   "pre10": -8.55,
+   "after": {
+    "1": 9.329
+   },
+   "days": 1,
+   "running": 9.33,
+   "mature": false
+  },
+  {
+   "ticker": "MTDR",
+   "insider": "Elsener William Thomas",
+   "role": "EVP, Reservoir Engineering",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 43299.0,
+   "src": "live",
+   "pre10": 8.83,
+   "after": {
+    "1": -0.563
+   },
+   "days": 1,
+   "running": -0.56,
+   "mature": false
+  },
+  {
+   "ticker": "MATW",
+   "insider": "Nauman J Michael",
+   "role": "Director",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 45940.0,
+   "src": "live",
+   "pre10": -23.2,
+   "after": {
+    "1": -1.668
+   },
+   "days": 1,
+   "running": -1.67,
+   "mature": false
+  },
+  {
+   "ticker": "NMM",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 83044.71,
+   "src": "live",
+   "pre10": -3.74,
+   "after": {
+    "1": 0.543
+   },
+   "days": 1,
+   "running": 0.54,
+   "mature": false
+  },
+  {
+   "ticker": "VISN",
+   "insider": "Gilstrap Charles A",
+   "role": "SVP, Treasury, Tax & CAO",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 107500.0,
+   "src": "live",
+   "pre10": -7.93,
+   "after": {
+    "1": -4.12
+   },
+   "days": 1,
+   "running": -4.12,
+   "mature": false
+  },
+  {
+   "ticker": "MTDR",
+   "insider": "Foran Joseph Wm",
+   "role": "Chairman and CEO",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 159755.2,
+   "src": "live",
+   "pre10": 8.83,
+   "after": {
+    "1": -0.563
+   },
+   "days": 1,
+   "running": -0.56,
+   "mature": false
+  },
+  {
+   "ticker": "UTI",
+   "insider": "DEVINCENZI ROBERT THOMAS",
+   "role": "Director",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 225676.0,
+   "src": "live",
+   "pre10": -43.42,
+   "after": {
+    "1": -3.099
+   },
+   "days": 1,
+   "running": -3.1,
+   "mature": false
+  },
+  {
+   "ticker": "ACDC",
+   "insider": "Wilks Matthew",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 279484.82,
+   "src": "live",
+   "pre10": 32.65,
+   "after": {
+    "1": -6.123
+   },
+   "days": 1,
+   "running": -6.12,
+   "mature": false
+  },
+  {
+   "ticker": "XRN",
+   "insider": "Decker Mark Okey Jr",
+   "role": "CEO and President",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 287040.0,
+   "src": "live",
+   "pre10": -8.79,
+   "after": {
+    "1": -1.094
+   },
+   "days": 1,
+   "running": -1.09,
+   "mature": false
+  },
+  {
+   "ticker": "BDSX",
+   "insider": "SCHULER JACK W",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 337029.13,
+   "src": "live",
+   "pre10": 9.27,
+   "after": {
+    "1": -5.645
+   },
+   "days": 1,
+   "running": -5.65,
+   "mature": false
+  },
+  {
+   "ticker": "SUJA",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 719703.47,
+   "src": "live",
+   "pre10": -47.95,
+   "after": {
+    "1": 5.112
+   },
+   "days": 1,
+   "running": 5.11,
+   "mature": false
+  },
+  {
+   "ticker": "XRN",
+   "insider": "Fitzgerald Charles",
+   "role": "Director",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 991944.0,
+   "src": "live",
+   "pre10": -8.79,
+   "after": {
+    "1": -1.094
+   },
+   "days": 1,
+   "running": -1.09,
+   "mature": false
+  },
+  {
+   "ticker": "RSG",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 1614002.5,
+   "src": "live",
+   "pre10": -8.02,
+   "after": {
+    "1": -0.407
+   },
+   "days": 1,
+   "running": -0.41,
+   "mature": false
+  },
+  {
+   "ticker": "AAT",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 2093305.35,
+   "src": "live",
+   "pre10": -10.79,
+   "after": {
+    "1": 0.357
    },
    "days": 1,
    "running": 0.36,
    "mature": false
+  },
+  {
+   "ticker": "ACDC",
+   "insider": "Wilks Dan H.",
+   "role": "10% owner",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 2515353.67,
+   "src": "live",
+   "pre10": 32.65,
+   "after": {
+    "1": -6.123
+   },
+   "days": 1,
+   "running": -6.12,
+   "mature": false
+  },
+  {
+   "ticker": "GLIBK",
+   "insider": "MALONE JOHN C",
+   "role": "Director",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 3603577.89,
+   "src": "live",
+   "pre10": 4.54,
+   "after": {
+    "1": 1.172
+   },
+   "days": 1,
+   "running": 1.17,
+   "mature": false
+  },
+  {
+   "ticker": "COE",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-10",
+   "filed": "2026-08-12",
+   "value": 3943605.6,
+   "src": "live",
+   "pre10": 15.34,
+   "after": {
+    "1": -3.766
+   },
+   "days": 1,
+   "running": -3.77,
+   "mature": false
+  },
+  {
+   "ticker": "AVBC",
+   "insider": "Saul Kennedy O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 280.93,
+   "src": "live",
+   "pre10": -6.97,
+   "after": {
+    "1": -1.064
+   },
+   "days": 1,
+   "running": -1.06,
+   "mature": false
+  },
+  {
+   "ticker": "TPL",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 352.62,
+   "src": "live",
+   "pre10": -17.88,
+   "after": {
+    "1": 2.747
+   },
+   "days": 1,
+   "running": 2.75,
+   "mature": false
+  },
+  {
+   "ticker": "RCG",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 2260.44,
+   "src": "live",
+   "pre10": -8.95,
+   "after": {
+    "1": -3.157
+   },
+   "days": 1,
+   "running": -3.16,
+   "mature": false
+  },
+  {
+   "ticker": "SVCO",
+   "insider": "Ngai Anthony K.K.",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 5527.5,
+   "src": "live",
+   "pre10": -7.49,
+   "after": {
+    "1": -1.988
+   },
+   "days": 1,
+   "running": -1.99,
+   "mature": false
+  },
+  {
+   "ticker": "AWRE",
+   "insider": "Amlani Ajay K",
+   "role": "President & CEO",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 6250.0,
+   "src": "live",
+   "pre10": 1.31,
+   "after": {
+    "1": 0.445
+   },
+   "days": 1,
+   "running": 0.44,
+   "mature": false
+  },
+  {
+   "ticker": "SMRT",
+   "insider": "Bohjalian Thomas N",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 6700.0,
+   "src": "live",
+   "pre10": 39.83,
+   "after": {
+    "1": -1.078
+   },
+   "days": 1,
+   "running": -1.08,
+   "mature": false
+  },
+  {
+   "ticker": "FSK",
+   "insider": "KROPP JAMES H",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 13282.5,
+   "src": "live",
+   "pre10": 4.84,
+   "after": {
+    "1": 2.88
+   },
+   "days": 1,
+   "running": 2.88,
+   "mature": false
+  },
+  {
+   "ticker": "CRBP",
+   "insider": "Saxena Nishant C",
+   "role": "Chief Business Officer",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 25036.44,
+   "src": "live",
+   "pre10": 1.53,
+   "after": {
+    "1": -1.662
+   },
+   "days": 1,
+   "running": -1.66,
+   "mature": false
+  },
+  {
+   "ticker": "SELF",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 30409.3,
+   "src": "live",
+   "pre10": -5.7,
+   "after": {
+    "1": -0.775
+   },
+   "days": 1,
+   "running": -0.77,
+   "mature": false
+  },
+  {
+   "ticker": "MTDR",
+   "insider": "Foran Joseph Wm",
+   "role": "Chairman and CEO",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 36641.12,
+   "src": "live",
+   "pre10": 8.83,
+   "after": {
+    "1": -0.563
+   },
+   "days": 1,
+   "running": -0.56,
+   "mature": false
+  },
+  {
+   "ticker": "CIA",
+   "insider": "Stenberg Jon",
+   "role": "President & CEO",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 43795.2,
+   "src": "live",
+   "pre10": -25.9,
+   "after": {
+    "1": -1.404
+   },
+   "days": 1,
+   "running": -1.4,
+   "mature": false
+  },
+  {
+   "ticker": "ATO",
+   "insider": "WARE WILLIAM JAMES",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 50278.35,
+   "src": "live",
+   "pre10": -10.45,
+   "after": {
+    "1": -0.588
+   },
+   "days": 1,
+   "running": -0.59,
+   "mature": false
+  },
+  {
+   "ticker": "APTV",
+   "insider": "Mahoney Sean O",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 50280.0,
+   "src": "live",
+   "pre10": -22.27,
+   "after": {
+    "1": -0.551
+   },
+   "days": 1,
+   "running": -0.55,
+   "mature": false
+  },
+  {
+   "ticker": "NMM",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 82864.89,
+   "src": "live",
+   "pre10": -3.74,
+   "after": {
+    "1": 0.543
+   },
+   "days": 1,
+   "running": 0.54,
+   "mature": false
+  },
+  {
+   "ticker": "AVBC",
+   "insider": "Grimaldo Joseph F",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 99786.44,
+   "src": "live",
+   "pre10": -6.97,
+   "after": {
+    "1": -1.064
+   },
+   "days": 1,
+   "running": -1.06,
+   "mature": false
+  },
+  {
+   "ticker": "UA",
+   "insider": "Taleghani Reza",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 100180.85,
+   "src": "live",
+   "pre10": -31.8,
+   "after": {
+    "1": -0.579
+   },
+   "days": 1,
+   "running": -0.58,
+   "mature": false
+  },
+  {
+   "ticker": "CHCT",
+   "insider": "Hensley Robert Z",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 121680.0,
+   "src": "live",
+   "pre10": -26.98,
+   "after": {
+    "1": -0.915
+   },
+   "days": 1,
+   "running": -0.91,
+   "mature": false
+  },
+  {
+   "ticker": "ACDC",
+   "insider": "Wilks Matthew",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 122366.33,
+   "src": "live",
+   "pre10": 32.65,
+   "after": {
+    "1": -6.123
+   },
+   "days": 1,
+   "running": -6.12,
+   "mature": false
+  },
+  {
+   "ticker": "ALTO",
+   "insider": "NATHAN GILBERT E",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 207500.0,
+   "src": "live",
+   "pre10": -12.78,
+   "after": {
+    "1": -0.862
+   },
+   "days": 1,
+   "running": -0.86,
+   "mature": false
+  },
+  {
+   "ticker": "FMX",
+   "insider": "KAHN MICHAEL DAVID",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 248073.0,
+   "src": "live",
+   "pre10": -8.84,
+   "after": {
+    "1": -1.86
+   },
+   "days": 1,
+   "running": -1.86,
+   "mature": false
+  },
+  {
+   "ticker": "VIA",
+   "insider": "Peres Nechemia Jacob",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 249370.13,
+   "src": "live",
+   "pre10": 15.76,
+   "after": {
+    "1": 0.996
+   },
+   "days": 1,
+   "running": 1.0,
+   "mature": false
+  },
+  {
+   "ticker": "BDSX",
+   "insider": "SCHULER JACK W",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 328910.97,
+   "src": "live",
+   "pre10": 9.27,
+   "after": {
+    "1": -5.645
+   },
+   "days": 1,
+   "running": -5.65,
+   "mature": false
+  },
+  {
+   "ticker": "SUJA",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 660399.6,
+   "src": "live",
+   "pre10": -47.95,
+   "after": {
+    "1": 5.112
+   },
+   "days": 1,
+   "running": 5.11,
+   "mature": false
+  },
+  {
+   "ticker": "RSG",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 686951.36,
+   "src": "live",
+   "pre10": -8.02,
+   "after": {
+    "1": -0.407
+   },
+   "days": 1,
+   "running": -0.41,
+   "mature": false
+  },
+  {
+   "ticker": "ACDC",
+   "insider": "Wilks Dan H.",
+   "role": "10% owner",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 1101287.63,
+   "src": "live",
+   "pre10": 32.65,
+   "after": {
+    "1": -6.123
+   },
+   "days": 1,
+   "running": -6.12,
+   "mature": false
+  },
+  {
+   "ticker": "GLIBK",
+   "insider": "MALONE JOHN C",
+   "role": "Director",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 1735452.48,
+   "src": "live",
+   "pre10": 4.54,
+   "after": {
+    "1": 1.172
+   },
+   "days": 1,
+   "running": 1.17,
+   "mature": false
+  },
+  {
+   "ticker": "AAT",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-11",
+   "filed": "2026-08-12",
+   "value": 2252000.0,
+   "src": "live",
+   "pre10": -10.79,
+   "after": {
+    "1": 0.357
+   },
+   "days": 1,
+   "running": 0.36,
+   "mature": false
+  },
+  {
+   "ticker": "AWRE",
+   "insider": "Amlani Ajay K",
+   "role": "President & CEO",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 1222.62,
+   "src": "live",
+   "pre10": 1.31,
+   "after": {
+    "1": 0.445
+   },
+   "days": 1,
+   "running": 0.44,
+   "mature": false
+  },
+  {
+   "ticker": "OVBC",
+   "insider": "Michael Seth Isaac",
+   "role": "Director",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 3000.0,
+   "src": "live",
+   "pre10": 1.47,
+   "after": {
+    "1": 1.899
+   },
+   "days": 1,
+   "running": 1.9,
+   "mature": false
+  },
+  {
+   "ticker": "FNRN",
+   "insider": "Servat Jean-Luc",
+   "role": "Director",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 6916.0,
+   "src": "live",
+   "pre10": -13.65,
+   "after": {
+    "1": 0.825
+   },
+   "days": 1,
+   "running": 0.83,
+   "mature": false
+  },
+  {
+   "ticker": "SELF",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 32192.2,
+   "src": "live",
+   "pre10": -5.7,
+   "after": {
+    "1": -0.775
+   },
+   "days": 1,
+   "running": -0.77,
+   "mature": false
+  },
+  {
+   "ticker": "NMM",
+   "insider": "Frangou Angeliki",
+   "role": "See Remarks",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 84068.34,
+   "src": "live",
+   "pre10": -3.74,
+   "after": {
+    "1": 0.543
+   },
+   "days": 1,
+   "running": 0.54,
+   "mature": false
+  },
+  {
+   "ticker": "WES",
+   "insider": "Forthuber Frederick A.",
+   "role": "Director",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 249906.8,
+   "src": "live",
+   "pre10": -1.34,
+   "after": {
+    "1": -0.492
+   },
+   "days": 1,
+   "running": -0.49,
+   "mature": false
+  },
+  {
+   "ticker": "PTLO",
+   "insider": "LEE EUGENE I JR",
+   "role": "Director",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 299979.45,
+   "src": "live",
+   "pre10": -4.19,
+   "after": {
+    "1": 1.332
+   },
+   "days": 1,
+   "running": 1.33,
+   "mature": false
+  },
+  {
+   "ticker": "OPFI",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 422988.0,
+   "src": "live",
+   "pre10": -33.84,
+   "after": {
+    "1": -2.717
+   },
+   "days": 1,
+   "running": -2.72,
+   "mature": false
+  },
+  {
+   "ticker": "SUJA",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 686124.77,
+   "src": "live",
+   "pre10": -47.95,
+   "after": {
+    "1": 5.112
+   },
+   "days": 1,
+   "running": 5.11,
+   "mature": false
+  },
+  {
+   "ticker": "PFE",
+   "insider": "BOURLA ALBERT",
+   "role": "Chairman & CEO",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 1000920.0,
+   "src": "live",
+   "pre10": -1.29,
+   "after": {
+    "1": 0.782
+   },
+   "days": 1,
+   "running": 0.78,
+   "mature": false
+  },
+  {
+   "ticker": "GLIBK",
+   "insider": "MALONE JOHN C",
+   "role": "Director",
+   "date": "2026-08-12",
+   "filed": "2026-08-12",
+   "value": 1705623.5,
+   "src": "live",
+   "pre10": 4.54,
+   "after": {
+    "1": 1.172
+   },
+   "days": 1,
+   "running": 1.17,
+   "mature": false
   }
  ],
- "verdict": "NO significant edge at any horizon after market adjustment and cluster-robust inference (all week-clustered |t| < 2.67, the Bonferroni threshold for 5 horizons) \u2014 the honest null. The naive t reaches +3.46 at one horizon, but that assumes 887 independent events spread over only 56 weeks; clustered by week it is +1.25. See research/EVENT_STUDY_VALIDATION.md.",
+ "verdict": "NO significant edge at any horizon after market adjustment and cluster-robust inference (all week-clustered |t| < 2.67, the Bonferroni threshold for 5 horizons) \u2014 the honest null. The naive t reaches +2.97 at one horizon, but that assumes 866 independent events spread over only 55 weeks; clustered by week it is +1.02. See research/EVENT_STUDY_VALIDATION.md.",
  "excluded": {
-  "penny_under_1usd": 65,
+  "penny_under_1usd": 56,
   "split_glitch": 6,
   "split_glitch_tickers": [
    "AIMD",
@@ -4487,5 +4490,5 @@
    "KTTA"
   ]
  },
- "method": "STRICT entry = next trading day's OPEN after the filing date (filing-day close is often not fillable \u2014 many Form 4s arrive after hours). Abnormal = stock \u2212 SPY. Horizons = closes N trading days after filing. Immature events excluded per-horizon. SIGNIFICANCE uses the cluster-robust t by entry week (Liang-Zeger), not the naive t: events cluster heavily in calendar weeks and repeat by ticker, so naive \u221aN inference overstates precision. Both are reported per horizon as t (naive) and t_week / t_ticker (clustered). Hygiene: 65 sub-$1 events and 6 split/data-glitch events excluded."
+ "method": "STRICT entry = next trading day's OPEN after the filing date (filing-day close is often not fillable \u2014 many Form 4s arrive after hours). Abnormal = stock \u2212 SPY. Horizons = closes N trading days after filing. Immature events excluded per-horizon. SIGNIFICANCE uses the cluster-robust t by entry week (Liang-Zeger), not the naive t: events cluster heavily in calendar weeks and repeat by ticker, so naive \u221aN inference overstates precision. Both are reported per horizon as t (naive) and t_week / t_ticker (clustered). Hygiene: 56 sub-$1 events and 6 split/data-glitch events excluded."
 }
