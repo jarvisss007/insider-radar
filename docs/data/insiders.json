@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-14 21:53 UTC",
+ "updated_utc": "2026-08-14 22:09 UTC",
  "purchases": [
-  {
-   "ticker": "ATTO",
-   "company": "Attovia Therapeutics, Inc.",
-   "insider": "GOLDMAN SACHS GROUP INC",
-   "role": "",
-   "date": "2026-08-06",
-   "shares": 500000.0,
-   "price": 17.0,
-   "value": 8500000.0,
-   "acc": "0000886982-26-000495",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "ATTO",
-   "company": "Attovia Therapeutics, Inc.",
-   "insider": "Frazier Life Sciences XI, L.P.",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 588235.0,
-   "price": 17.0,
-   "value": 9999995.0,
-   "acc": "0001231919-26-000838",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "SCISX",
    "company": "MA Specialty Credit Income Fund",
@@ -4280,6 +4256,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "ANGX",
+   "company": "Angel Studios, Inc.",
+   "insider": "Sarowitz Steven I",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 246153.0,
+   "price": 3.7063,
+   "value": 912316.86,
+   "acc": "0001865200-26-000075",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "PFE",
    "company": "PFIZER INC",
    "insider": "BOURLA ALBERT",
@@ -4640,6 +4628,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "ANGX",
+   "company": "Angel Studios, Inc.",
+   "insider": "Sarowitz Steven I",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 107662.0,
+   "price": 4.1173,
+   "value": 443276.75,
+   "acc": "0001865200-26-000075",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Currie Jeffrey",
@@ -4828,11 +4828,6 @@
    "other_value": 69840000.0
   },
   {
-   "ticker": "ATTO",
-   "insiders": 2,
-   "total_value": 18499995.0
-  },
-  {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
    "insiders": 4,
    "total_value": 11000000.0
@@ -4867,6 +4862,11 @@
    "ticker": "XRN",
    "insiders": 3,
    "total_value": 2542509.0
+  },
+  {
+   "ticker": "ANGX",
+   "insiders": 2,
+   "total_value": 1480600.83
   },
   {
    "ticker": "AMRC",
@@ -4997,7 +4997,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020869",
   "0001918704-26-020870",
   "0001918704-26-020871",
   "0001918704-26-020876",
@@ -7434,6 +7433,7 @@
   "0002008415-26-000003",
   "0002008790-26-000006",
   "0002008989-26-000008",
+  "0002009849-26-000010",
   "0002009989-26-000019",
   "0002010019-26-000016",
   "0002010019-26-000021",
