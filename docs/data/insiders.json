@@ -1,91 +1,6 @@
 {
- "updated_utc": "2026-08-14 21:22 UTC",
+ "updated_utc": "2026-08-14 21:38 UTC",
  "purchases": [
-  {
-   "ticker": "LUMN",
-   "company": "Lumen Technologies, Inc.",
-   "insider": "Johnson Kathleen E",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-06",
-   "shares": 100000.0,
-   "price": 6.1268,
-   "value": 612680.0,
-   "acc": "0001831269-26-000002",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "FBIN",
-   "company": "Fortune Brands Innovations, Inc.",
-   "insider": "Singh Jesse G",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-06",
-   "shares": 14444.0,
-   "price": 51.4576,
-   "value": 743253.57,
-   "acc": "0001193125-26-342627",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "VEON",
-   "company": "VEON Ltd.",
-   "insider": "Fabela Augie K II",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 13826.0,
-   "price": 56.0547,
-   "value": 775012.28,
-   "acc": "0000905148-26-003544",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "ABTC",
-   "company": "American Bitcoin Corp.",
-   "insider": "Mateen Justin",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 162438.0,
-   "price": 6.1873,
-   "value": 1005052.64,
-   "acc": "0001193125-26-340270",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-06",
-   "shares": 105120.0,
-   "price": 19.29,
-   "value": 2027764.8,
-   "acc": "0002029760-26-000007",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "ATTO",
-   "company": "Attovia Therapeutics, Inc.",
-   "insider": "Redmile Group, LLC",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 200000.0,
-   "price": 17.0,
-   "value": 3400000.0,
-   "acc": "0001104659-26-092867",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "ATTO",
-   "company": "Attovia Therapeutics, Inc.",
-   "insider": "Sanofi",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 300000.0,
-   "price": 17.0,
-   "value": 5100000.0,
-   "acc": "0001193125-26-340173",
-   "filed": "2026-08-07",
-   "placement": true
-  },
   {
    "ticker": "ATTO",
    "company": "Attovia Therapeutics, Inc.",
@@ -3741,6 +3656,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-12",
+   "shares": 2.0,
+   "price": 2.89,
+   "value": 5.78,
+   "acc": "0001536588-26-000025",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -3799,6 +3726,18 @@
    "value": 2355.8,
    "acc": "0001628280-26-056895",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-12",
+   "shares": 1000.0,
+   "price": 2.885,
+   "value": 2885.0,
+   "acc": "0001536588-26-000025",
+   "filed": "2026-08-14"
   },
   {
    "ticker": "OVBC",
@@ -4425,6 +4364,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 457.0,
+   "price": 2.905,
+   "value": 1327.58,
+   "acc": "0001536588-26-000025",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "BCDA",
    "company": "BioCardia, Inc.",
    "insider": "Altman Peter",
@@ -4506,6 +4457,30 @@
    "price": 1.4,
    "value": 10574.2,
    "acc": "0001475597-26-000202",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 5000.0,
+   "price": 2.9047,
+   "value": 14523.5,
+   "acc": "0001536588-26-000025",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 5000.0,
+   "price": 2.905,
+   "value": 14525.0,
+   "acc": "0001536588-26-000025",
    "filed": "2026-08-14"
   },
   {
@@ -4737,6 +4712,30 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-08-14",
+   "shares": 1800.0,
+   "price": 0.062,
+   "value": 111.6,
+   "acc": "0001035422-26-000004",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 519.0,
+   "price": 2.905,
+   "value": 1507.69,
+   "acc": "0001536588-26-000025",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "TONX",
    "company": "TON Strategy Co",
    "insider": "Wilson Kevin Mark",
@@ -4830,9 +4829,8 @@
   },
   {
    "ticker": "ATTO",
-   "insiders": 6,
-   "total_value": 43699979.0,
-   "other_value": 5100000.0
+   "insiders": 5,
+   "total_value": 40299979.0
   },
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
@@ -4999,7 +4997,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020866",
   "0001918704-26-020867",
   "0001918704-26-020868",
   "0001918704-26-020869",
@@ -6823,6 +6820,7 @@
   "0001932551-26-000008",
   "0001932635-26-000005",
   "0001932635-26-000007",
+  "0001932651-26-000003",
   "0001932973-26-000021",
   "0001933414-26-000099",
   "0001933414-26-000100",
