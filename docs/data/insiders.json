@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-08-14 20:18 UTC",
+ "updated_utc": "2026-08-14 20:34 UTC",
  "purchases": [
-  {
-   "ticker": "BHRB",
-   "company": "Burke & Herbert Financial Services Corp.",
-   "insider": "McLaughlin Shawn Patrick",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 1000.0,
-   "price": 73.25,
-   "value": 73250.0,
-   "acc": "0001964493-26-000008",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-06",
-   "shares": 1063.0,
-   "price": 79.5271,
-   "value": 84537.31,
-   "acc": "0001193125-26-340786",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "TRNS",
-   "company": "TRANSCAT INC",
-   "insider": "Cairns Craig D.",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 1050.0,
-   "price": 93.965,
-   "value": 98663.25,
-   "acc": "0000891839-26-000347",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "MBLY",
-   "company": "Mobileye Global Inc.",
-   "insider": "Yeboah-Amankwah Safroadu",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 11841.0,
-   "price": 8.46,
-   "value": 100174.86,
-   "acc": "0000950103-26-012124",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "ETR",
-   "company": "ENTERGY CORP /DE/",
-   "insider": "Ropp Ralph Lewis",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 1000.0,
-   "price": 106.075,
-   "value": 106075.0,
-   "acc": "0000065984-26-000287",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "AHCO",
-   "company": "AdaptHealth Corp.",
-   "insider": "WOLF DALE B",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 20000.0,
-   "price": 6.37,
-   "value": 127400.0,
-   "acc": "0001104659-26-093575",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "AHCO",
-   "company": "AdaptHealth Corp.",
-   "insider": "SAMET KENNETH A",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 23500.0,
-   "price": 6.38,
-   "value": 149930.0,
-   "acc": "0001104659-26-093576",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "WBHC",
-   "company": "WILSON BANK HOLDING CO",
-   "insider": "CLEMONS JAMES RANDALL",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 2982.0,
-   "price": 83.45,
-   "value": 248847.9,
-   "acc": "0001899338-26-000006",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "FBIN",
-   "company": "Fortune Brands Innovations, Inc.",
-   "insider": "Singh Jesse G",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-06",
-   "shares": 5281.0,
-   "price": 52.2301,
-   "value": 275827.16,
-   "acc": "0001193125-26-342627",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
@@ -3873,6 +3765,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "INTC",
+   "company": "INTEL CORP",
+   "insider": "TAN LIP BU",
+   "role": "CEO",
+   "date": "2026-08-11",
+   "shares": 105263.0,
+   "price": 95.0,
+   "value": 9999985.0,
+   "acc": "0000050863-26-000177",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4605,6 +4509,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "BURKE RUSSELL E III",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 1625.0,
+   "price": 5.2055,
+   "value": 8458.94,
+   "acc": "0001628873-26-000072",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "MSS",
    "company": "Maison Solutions Inc.",
    "insider": "HRT FINANCIAL LP",
@@ -4614,6 +4530,18 @@
    "price": 1.4,
    "value": 10574.2,
    "acc": "0001475597-26-000202",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-13",
+   "shares": 5629.0,
+   "price": 5.2011,
+   "value": 29276.99,
+   "acc": "0001628873-26-000070",
    "filed": "2026-08-14"
   },
   {
@@ -4677,6 +4605,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "BXSY",
+   "company": "BEXIL INVESTMENT TRUST",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-13",
+   "shares": 5250.0,
+   "price": 18.01,
+   "value": 94552.5,
+   "acc": "0001628873-26-000071",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "CMC",
    "company": "COMMERCIAL METALS Co",
    "insider": "McPherson John R",
@@ -4686,6 +4626,18 @@
    "price": 71.92,
    "value": 99968.8,
    "acc": "0001531183-26-000018",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "ANGX",
+   "company": "Angel Studios, Inc.",
+   "insider": "Harmon Neal",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-13",
+   "shares": 29035.659,
+   "price": 4.3053,
+   "value": 125007.22,
+   "acc": "0001865200-26-000074",
    "filed": "2026-08-14"
   },
   {
@@ -4785,6 +4737,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-13",
+   "shares": 100000.0,
+   "price": 22.86,
+   "value": 2286000.0,
+   "acc": "0001221359-26-000040",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4794,6 +4758,30 @@
    "price": 4.0245,
    "value": 6036750.0,
    "acc": "0001628280-26-056941",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-14",
+   "shares": 6029.0,
+   "price": 5.2265,
+   "value": 31510.57,
+   "acc": "0001628873-26-000070",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "BXSY",
+   "company": "BEXIL INVESTMENT TRUST",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-14",
+   "shares": 5200.0,
+   "price": 18.08,
+   "value": 94016.0,
+   "acc": "0001628873-26-000071",
    "filed": "2026-08-14"
   },
   {
@@ -4818,6 +4806,18 @@
    "price": 10.32,
    "value": 383904.0,
    "acc": "0001834411-26-000008",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-14",
+   "shares": 50000.0,
+   "price": 22.79,
+   "value": 1139500.0,
+   "acc": "0001221359-26-000040",
    "filed": "2026-08-14"
   }
  ],
@@ -4921,11 +4921,6 @@
    "total_value": 438570.31
   },
   {
-   "ticker": "AHCO",
-   "insiders": 2,
-   "total_value": 394530.0
-  },
-  {
    "ticker": "KMPR",
    "insiders": 5,
    "total_value": 367880.0
@@ -4956,11 +4951,6 @@
    "total_value": 163940.0
   },
   {
-   "ticker": "BHRB",
-   "insiders": 2,
-   "total_value": 161648.12
-  },
-  {
    "ticker": "MKZR",
    "insiders": 3,
    "total_value": 160020.0
@@ -4969,6 +4959,11 @@
    "ticker": "SMRT",
    "insiders": 2,
    "total_value": 148960.0
+  },
+  {
+   "ticker": "SELF",
+   "insiders": 2,
+   "total_value": 131848.0
   },
   {
    "ticker": "TSM",
@@ -5009,12 +5004,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020779",
-  "0001918704-26-020780",
-  "0001918704-26-020848",
-  "0001918704-26-020850",
-  "0001918704-26-020851",
-  "0001918704-26-020852",
   "0001918704-26-020853",
   "0001918704-26-020854",
   "0001918704-26-020855",
@@ -6805,6 +6794,8 @@
   "0001918704-26-023812",
   "0001918704-26-023813",
   "0001918704-26-023815",
+  "0001918704-26-023819",
+  "0001918704-26-023820",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7496,6 +7487,7 @@
   "0002018274-26-000003",
   "0002019143-26-000017",
   "0002019295-26-000010",
+  "0002019804-26-000027",
   "0002019976-26-000010",
   "0002020287-26-000002",
   "0002021233-26-000012",
@@ -7876,6 +7868,7 @@
   "0002104019-26-000006",
   "0002104070-26-000005",
   "0002104631-26-000012",
+  "0002104954-26-000001",
   "0002106395-26-000005",
   "0002106873-26-000012",
   "0002107246-26-000012",
@@ -7900,6 +7893,7 @@
   "0002114987-26-000002",
   "0002115951-26-000004",
   "0002116333-26-000001",
+  "0002119130-26-000007",
   "0002120008-26-000006",
   "0002120298-26-000002",
   "0002120466-26-000002",
@@ -7967,6 +7961,7 @@
   "0002138368-26-000005",
   "0002139240-26-000002",
   "0002139756-26-000006",
+  "0002139953-26-000004",
   "0002140162-26-000006",
   "0002140626-26-000006",
   "0002141303-26-000005",
