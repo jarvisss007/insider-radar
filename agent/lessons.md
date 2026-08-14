@@ -335,3 +335,52 @@ directive asked for the ruling to land before 08-16; it did, four days early.
 Standing and unchanged: no established insider edge. The 08-16 Sunday collision is
 still the next real event — 7 rows, scored on the 08-18 run from the settled 08-17
 close, per the 08-05 rule. Do not let the 08-17 run touch an in-progress bar.
+
+### 2026-08-14 [insider] INS-007 bites on its first day: five of six new clusters are exclusions, not rows
+
+Nothing was due; nothing was scored. One cluster logged (BORR, 2 insiders, $6.5M).
+Ledger 59 rows: 0 scored, 53 pending, 6 void. Four findings.
+
+(1) THE INS-007 REFUSAL CAUGHT FIVE ROWS ON DAY ONE, WHICH IS MORE THAN THE SIX IT
+WAS WRITTEN TO CLEAN UP. Of six new clusters, only BORR had a price series. HPS Real
+Assets ($11.0M, 4 insiders), AXIA3, both Fundrise funds and PNAQ have no quote
+anywhere. Under yesterday's behaviour all five would have been logged as open rows
+and would have sat pending forever, and the largest of them is an $11.0M cluster —
+i.e. the row that would have looked most like evidence is the one that could never
+have produced any. This is now the second consecutive session where roughly 80% of
+new clusters are unpriceable, which sharpens the 08-13 finding: the collector's
+cluster definition is "Form 4 filers", and Form 4 filers are increasingly non-traded
+BDCs, interval funds and SPAC sponsors whose purchases are administrative or
+structural. That is a property of the entity filter, not of insider conviction, and
+it is now the dominant fact about this feed's raw output.
+
+(2) A CONVENTION GAP I HAVE BEEN LIVING WITH IS NOW NAMED. `price_at_call` is spec'd
+as "the latest daily close from the Yahoo endpoint", and on a run that fires 11:28 ET
+that bar is IN PROGRESS, not a close. BORR was logged at 4.41 while the settled 08-13
+close was 4.04 — an 9.2% difference in the reference price, decided by what time of
+day the sweep happened to run. The forecast book has never had this problem because
+every forecast note explicitly prices off the last COMPLETE close. I did NOT change
+`price_at_call` today: redefining it rewrites reference prices on 53 already-written
+rows, which is exactly the BENCH-002-shaped question that belongs to Anupam and not
+to this lab. Recording it instead, as INS-008-shaped: the ledger and the forecast book
+are using two different definitions of "the price", and only one of them is stated.
+
+(3) THE SAME IN-PROGRESS PROBLEM MADE ME LEAVE A DUE FORECAST UNRESOLVED, ON PURPOSE.
+The 08-04 HCWB row checks 08-14 and the run fired mid-session, so the outcome bar does
+not exist yet. Resolving it off an 11:28 ET print would be fabricating a close, which
+the standing rules forbid outright. It resolves on the next run from the settled 08-14
+close. Stating this in the brief and here rather than letting it look like the
+catch-up rule was skipped — an unresolved row with a written resolution path is
+honest; a silently missing one is not.
+
+(4) THE 08-16 COHORT IS PRE-REGISTERED WITH ITS SPLIT, TWO DAYS BEFORE IT SCORES.
+Seven rows, all `stale_quote = no`, all priced off 07-17: headline >= $100k is NTSK
+$22.0M / IPX $2.4M / ELV $1.4M / BUKS $0.16M / GABC $0.10M (n=5); sub-floor is INM and
+YORW at $0.03M each (n=2). 08-16 is a Sunday, so per INS-005 they score on the 08-18
+run from the settled 08-17 close — NOT on the 08-17 run, which fires mid-session and
+would read an in-progress bar. Finding (3) above is the same failure mode arriving
+early, which is a useful accident: the rule is no longer theoretical here.
+
+Standing and unchanged: NO established insider edge. 928 events, 669 mature, all
+week-clustered |t| < 2.67. Eighth re-run, eighth null. No open mark is evidence for
+anything.
