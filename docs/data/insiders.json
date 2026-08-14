@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-14 12:23 UTC",
+ "updated_utc": "2026-08-14 12:38 UTC",
  "purchases": [
-  {
-   "ticker": "PCF",
-   "company": "HIGH INCOME SECURITIES FUND",
-   "insider": "GOLDSTEIN PHILLIP",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 819.0,
-   "price": 5.3,
-   "value": 4340.7,
-   "acc": "0001398344-26-013937",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "LARK",
-   "company": "LANDMARK BANCORP INC",
-   "insider": "Kohlrus Mark J.",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 201.0,
-   "price": 31.5,
-   "value": 6331.5,
-   "acc": "0001493152-26-036700",
-   "filed": "2026-08-07"
-  },
   {
    "ticker": "QNTO",
    "company": "QUAINT OAK BANCORP, INC.",
@@ -4353,6 +4329,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "BHRB",
+   "company": "Burke & Herbert Financial Services Corp.",
+   "insider": "Poillon Diane",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 1200.0,
+   "price": 73.6651,
+   "value": 88398.12,
+   "acc": "0001945031-26-000013",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "EMBC",
    "company": "Embecta Corp.",
    "insider": "Elguicze Jacob",
@@ -4737,6 +4725,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "CMC",
+   "company": "COMMERCIAL METALS Co",
+   "insider": "McPherson John R",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 1390.0,
+   "price": 71.92,
+   "value": 99968.8,
+   "acc": "0001531183-26-000018",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "DFH",
    "company": "Dream Finders Homes, Inc.",
    "insider": "BECKWITT RICHARD",
@@ -4951,6 +4951,11 @@
    "total_value": 163940.0
   },
   {
+   "ticker": "BHRB",
+   "insiders": 2,
+   "total_value": 161648.12
+  },
+  {
    "ticker": "MKZR",
    "insiders": 3,
    "total_value": 160020.0
@@ -5004,8 +5009,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020608",
-  "0001918704-26-020609",
   "0001918704-26-020610",
   "0001918704-26-020611",
   "0001918704-26-020612",
@@ -6890,6 +6893,7 @@
   "0001944373-26-000004",
   "0001944970-26-000021",
   "0001944970-26-000023",
+  "0001945031-26-000013",
   "0001945277-26-000004",
   "0001945691-26-000008",
   "0001946684-26-000013",
@@ -7433,6 +7437,7 @@
   "0001999371-26-017869",
   "0001999371-26-017877",
   "0001999371-26-017886",
+  "0001999371-26-017913",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999846-26-000004",
