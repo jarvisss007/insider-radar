@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-14 21:38 UTC",
+ "updated_utc": "2026-08-14 21:53 UTC",
  "purchases": [
-  {
-   "ticker": "ATTO",
-   "company": "Attovia Therapeutics, Inc.",
-   "insider": "venBio Global Strategic Fund IV, L.P.",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 382352.0,
-   "price": 17.0,
-   "value": 6499984.0,
-   "acc": "0000905148-26-003548",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "ATTO",
-   "company": "Attovia Therapeutics, Inc.",
-   "insider": "Redmile Group, LLC",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 400000.0,
-   "price": 17.0,
-   "value": 6800000.0,
-   "acc": "0001104659-26-092867",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "ATTO",
-   "company": "Attovia Therapeutics, Inc.",
-   "insider": "WALSH COLIN",
-   "role": "Director",
-   "date": "2026-08-06",
-   "shares": 500000.0,
-   "price": 17.0,
-   "value": 8500000.0,
-   "acc": "0001866174-26-000009",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "ATTO",
    "company": "Attovia Therapeutics, Inc.",
@@ -4124,6 +4088,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 69172.0,
+   "price": 3.0869,
+   "value": 213527.05,
+   "acc": "0001539497-26-002267",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "EMBC",
    "company": "Embecta Corp.",
    "insider": "HOMBACH ROBERT J.",
@@ -4640,6 +4616,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 81647.0,
+   "price": 3.2125,
+   "value": 262290.99,
+   "acc": "0001539497-26-002267",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -4760,6 +4748,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 3945.0,
+   "price": 3.2897,
+   "value": 12977.87,
+   "acc": "0001539497-26-002267",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4829,8 +4829,8 @@
   },
   {
    "ticker": "ATTO",
-   "insiders": 5,
-   "total_value": 40299979.0
+   "insiders": 2,
+   "total_value": 18499995.0
   },
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
@@ -4997,8 +4997,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020867",
-  "0001918704-26-020868",
   "0001918704-26-020869",
   "0001918704-26-020870",
   "0001918704-26-020871",
@@ -7561,6 +7559,7 @@
   "0002037321-26-000003",
   "0002038003-26-000003",
   "0002038003-26-000006",
+  "0002038687-26-000007",
   "0002039219-26-000008",
   "0002039801-26-000008",
   "0002039852-26-000117",
@@ -7733,6 +7732,7 @@
   "0002071844-26-001030",
   "0002071844-26-001033",
   "0002071876-26-000190",
+  "0002071948-26-000005",
   "0002073180-26-000006",
   "0002073587-26-000028",
   "0002073590-26-000026",
