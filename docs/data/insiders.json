@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-14 16:19 UTC",
+ "updated_utc": "2026-08-14 16:35 UTC",
  "purchases": [
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "GLENBROOK CAPITAL MANAGEMENT",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 15000.0,
-   "price": 1.2962,
-   "value": 19443.0,
-   "acc": "0000902664-26-003373",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-06",
-   "shares": 2000.0,
-   "price": 16.35,
-   "value": 32700.0,
-   "acc": "0001166152-26-000010",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "BXSY",
-   "company": "BEXIL INVESTMENT TRUST",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-06",
-   "shares": 2310.0,
-   "price": 17.54,
-   "value": 40517.4,
-   "acc": "0001628873-26-000055",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
@@ -4077,6 +4041,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "PFSA",
+   "company": "Profusa, Inc.",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-12",
+   "shares": 5585.0,
+   "price": 0.964,
+   "value": 5383.94,
+   "acc": "0001475597-26-000201",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "FNRN",
    "company": "FIRST NORTHERN COMMUNITY BANCORP",
    "insider": "Servat Jean-Luc",
@@ -4219,6 +4195,18 @@
    "value": 30050.55,
    "acc": "0001193125-26-349656",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "MSS",
+   "company": "Maison Solutions Inc.",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-12",
+   "shares": 22559.0,
+   "price": 1.42,
+   "value": 32033.78,
+   "acc": "0001475597-26-000202",
+   "filed": "2026-08-14"
   },
   {
    "ticker": "SELF",
@@ -4653,6 +4641,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "MSS",
+   "company": "Maison Solutions Inc.",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 7553.0,
+   "price": 1.4,
+   "value": 10574.2,
+   "acc": "0001475597-26-000202",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "ALT",
    "company": "Altimmune, Inc.",
    "insider": "Durso Jerome Benedict",
@@ -5009,8 +5009,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020671",
-  "0001918704-26-020672",
   "0001918704-26-020673",
   "0001918704-26-020674",
   "0001918704-26-020675",
@@ -6814,6 +6812,7 @@
   "0001918704-26-023786",
   "0001918704-26-023787",
   "0001918704-26-023788",
+  "0001918704-26-023789",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7434,6 +7433,7 @@
   "0001999371-26-017934",
   "0001999371-26-017936",
   "0001999371-26-017946",
+  "0001999371-26-017959",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999846-26-000004",
