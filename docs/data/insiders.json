@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-08-13 23:06 UTC",
+ "updated_utc": "2026-08-14 00:40 UTC",
  "purchases": [
-  {
-   "ticker": "BSX",
-   "company": "BOSTON SCIENTIFIC CORP",
-   "insider": "Habiger David C",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 2100.0,
-   "price": 47.589,
-   "value": 99936.9,
-   "acc": "0001225208-26-007031",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "CCB",
-   "company": "COASTAL FINANCIAL CORP",
-   "insider": "HOVDE STEVEN D",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 5000.0,
-   "price": 44.0,
-   "value": 220000.0,
-   "acc": "0001019966-26-000004",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "THRY",
-   "company": "Thryv Holdings, Inc.",
-   "insider": "PAULSON & CO. INC.",
-   "role": "10% owner",
-   "date": "2026-08-05",
-   "shares": 144975.0,
-   "price": 2.79,
-   "value": 404480.25,
-   "acc": "0001013594-26-000824",
-   "filed": "2026-08-06"
-  },
-  {
-   "ticker": "GBFH",
-   "company": "GBank Financial Holdings Inc.",
-   "insider": "Griege Charles William Jr.",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 25000.0,
-   "price": 21.027,
-   "value": 525675.0,
-   "acc": "0001193125-26-340296",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "ABTC",
-   "company": "American Bitcoin Corp.",
-   "insider": "Mateen Justin",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 144543.0,
-   "price": 6.3964,
-   "value": 924554.85,
-   "acc": "0001193125-26-340270",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-05",
-   "shares": 158460.0,
-   "price": 19.2,
-   "value": 3042432.0,
-   "acc": "0002029760-26-000006",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "APTV",
-   "company": "Aptiv PLC",
-   "insider": "MEISTER PAUL M",
-   "role": "Director",
-   "date": "2026-08-05",
-   "shares": 105631.0,
-   "price": 47.3342,
-   "value": 4999958.88,
-   "acc": "0001193125-26-337965",
-   "filed": "2026-08-06"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -3885,6 +3801,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "LTC",
+   "company": "LTC PROPERTIES INC",
+   "insider": "Gruber David L",
+   "role": "Director",
+   "date": "2026-08-11",
+   "shares": 3500.0,
+   "price": 38.3,
+   "value": 134050.0,
+   "acc": "0001987058-26-000003",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "AMRZ",
    "company": "Amrize Ltd",
    "insider": "Oran Baris",
@@ -3979,6 +3907,18 @@
    "value": 207500.0,
    "acc": "0001213900-26-088530",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "XRN",
+   "company": "Chiron Real Estate Inc.",
+   "insider": "Decker Mark Okey Jr",
+   "role": "CEO and President",
+   "date": "2026-08-11",
+   "shares": 6875.0,
+   "price": 35.92,
+   "value": 246950.0,
+   "acc": "0001104659-26-096150",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "FMX",
@@ -4377,6 +4317,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "LTC",
+   "company": "LTC PROPERTIES INC",
+   "insider": "Gruber David L",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 500.0,
+   "price": 38.3,
+   "value": 19150.0,
+   "acc": "0001987058-26-000003",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "OCSL",
    "company": "Oaktree Specialty Lending Corp",
    "insider": "Panossian Armen",
@@ -4653,6 +4605,18 @@
    "filed": "2026-08-12"
   },
   {
+   "ticker": "TXO",
+   "company": "TXO Partners, L.P.",
+   "insider": "SIMPSON BOB R",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 25000.0,
+   "price": 14.4303,
+   "value": 360757.5,
+   "acc": "0001182684-26-000020",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "BDSX",
    "company": "BIODESIX INC",
    "insider": "SCHULER JACK W",
@@ -4675,6 +4639,18 @@
    "value": 422988.0,
    "acc": "0000905148-26-003613",
    "filed": "2026-08-12"
+  },
+  {
+   "ticker": "XRN",
+   "company": "Chiron Real Estate Inc.",
+   "insider": "Roseth Aaron Robert",
+   "role": "COO",
+   "date": "2026-08-12",
+   "shares": 13500.0,
+   "price": 36.73,
+   "value": 495855.0,
+   "acc": "0001104659-26-096149",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "TNC",
@@ -4773,6 +4749,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "CVRX",
+   "company": "CVRx, Inc.",
+   "insider": "Binkowski Brent",
+   "role": "CHIEF OPERATING OFFICER",
+   "date": "2026-08-13",
+   "shares": 26223.0,
+   "price": 2.9147,
+   "value": 76432.18,
+   "acc": "0001644355-26-000007",
+   "filed": "2026-08-13"
+  },
+  {
    "ticker": "KMPR",
    "company": "KEMPER Corp",
    "insider": "McAnena Stephen J",
@@ -4819,6 +4807,18 @@
    "value": 239858.68,
    "acc": "0000937797-26-000022",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "TXO",
+   "company": "TXO Partners, L.P.",
+   "insider": "SIMPSON BOB R",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 125000.0,
+   "price": 14.3183,
+   "value": 1789787.5,
+   "acc": "0001182684-26-000020",
+   "filed": "2026-08-13"
   }
  ],
  "clusters": [
@@ -4838,11 +4838,6 @@
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
    "insiders": 4,
    "total_value": 11000000.0
-  },
-  {
-   "ticker": "APTV",
-   "insiders": 2,
-   "total_value": 5552642.08
   },
   {
    "ticker": "BLSM",
@@ -4867,8 +4862,8 @@
   },
   {
    "ticker": "XRN",
-   "insiders": 2,
-   "total_value": 1799704.0
+   "insiders": 3,
+   "total_value": 2542509.0
   },
   {
    "ticker": "AMRC",
@@ -4878,7 +4873,7 @@
   {
    "ticker": "CCB",
    "insiders": 3,
-   "total_value": 1115843.5
+   "total_value": 895843.5
   },
   {
    "ticker": "AXIA3",
@@ -5004,7 +4999,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020605",
   "0001918704-26-020606",
   "0001918704-26-020607",
   "0001918704-26-020608",
@@ -7050,6 +7044,7 @@
   "0001985370-26-000002",
   "0001985704-26-000011",
   "0001986157-26-000016",
+  "0001987058-26-000003",
   "0001987126-26-000002",
   "0001987164-26-000014",
   "0001988238-26-000004",
