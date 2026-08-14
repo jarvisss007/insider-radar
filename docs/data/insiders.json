@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-14 01:43 UTC",
+ "updated_utc": "2026-08-14 01:59 UTC",
  "purchases": [
-  {
-   "ticker": "AWRE",
-   "company": "AWARE INC /MA/",
-   "insider": "Amlani Ajay K",
-   "role": "President & CEO",
-   "date": "2026-08-06",
-   "shares": 39.0,
-   "price": 1.26,
-   "value": 49.14,
-   "acc": "0001193125-26-340202",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "PTIX",
-   "company": "Protagenic Therapeutics, Inc.\\new",
-   "insider": "ARMEN GARO H",
-   "role": "EXEC. CHAIR & PRINCIPAL OFF",
-   "date": "2026-08-06",
-   "shares": 685.0,
-   "price": 0.22,
-   "value": 150.7,
-   "acc": "0001493152-26-036782",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -637,6 +613,30 @@
    "value": 6800000.0,
    "acc": "0001104659-26-092867",
    "filed": "2026-08-07"
+  },
+  {
+   "ticker": "ATTO",
+   "company": "Attovia Therapeutics, Inc.",
+   "insider": "WALSH COLIN",
+   "role": "Director",
+   "date": "2026-08-06",
+   "shares": 500000.0,
+   "price": 17.0,
+   "value": 8500000.0,
+   "acc": "0001866174-26-000009",
+   "filed": "2026-08-13"
+  },
+  {
+   "ticker": "ATTO",
+   "company": "Attovia Therapeutics, Inc.",
+   "insider": "GOLDMAN SACHS GROUP INC",
+   "role": "",
+   "date": "2026-08-06",
+   "shares": 500000.0,
+   "price": 17.0,
+   "value": 8500000.0,
+   "acc": "0000886982-26-000495",
+   "filed": "2026-08-13"
   },
   {
    "ticker": "ATTO",
@@ -4830,8 +4830,8 @@
   },
   {
    "ticker": "ATTO",
-   "insiders": 4,
-   "total_value": 26699979.0,
+   "insiders": 6,
+   "total_value": 43699979.0,
    "other_value": 5100000.0
   },
   {
