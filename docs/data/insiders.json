@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-15 00:00 UTC",
+ "updated_utc": "2026-08-15 00:15 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-08-07",
-   "shares": 7700.0,
-   "price": 0.065,
-   "value": 500.5,
-   "acc": "0001035422-26-000001",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 7.0,
-   "price": 73.31,
-   "value": 513.17,
-   "acc": "0001046179-26-000519",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Hall Bjorn",
-   "role": "Secretary and CCO",
-   "date": "2026-08-07",
-   "shares": 98.7167,
-   "price": 10.13,
-   "value": 1000.0,
-   "acc": "0001435109-26-000131",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Huang Jen-Chau",
-   "role": "SVP and CFO",
-   "date": "2026-08-07",
-   "shares": 29.0,
-   "price": 73.31,
-   "value": 2125.99,
-   "acc": "0001046179-26-000501",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 756.0,
-   "price": 3.0,
-   "value": 2268.0,
-   "acc": "0001437749-26-026721",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chen Chih-Ho",
-   "role": "Controller",
-   "date": "2026-08-07",
-   "shares": 33.0,
-   "price": 73.31,
-   "value": 2419.23,
-   "acc": "0001046179-26-000482",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "BOTJ",
    "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
@@ -3800,6 +3728,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "UTI",
+   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+   "insider": "DEVINCENZI ROBERT THOMAS",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 1000.0,
+   "price": 25.945,
+   "value": 25945.0,
+   "acc": "0001193125-26-352890",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "HDSN",
    "company": "HUDSON TECHNOLOGIES INC /NY",
    "insider": "Hartree Partners, LP",
@@ -4353,6 +4293,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Rice Amy F.",
+   "role": "President and COO",
+   "date": "2026-08-13",
+   "shares": 995.0,
+   "price": 5.55,
+   "value": 5522.25,
+   "acc": "0001213900-26-090365",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "BURKE RUSSELL E III",
@@ -4410,6 +4362,18 @@
    "price": 2.905,
    "value": 14525.0,
    "acc": "0001536588-26-000025",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Wright Bradley J.",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-13",
+   "shares": 4000.0,
+   "price": 5.55,
+   "value": 22200.0,
+   "acc": "0001213900-26-090366",
    "filed": "2026-08-14"
   },
   {
@@ -4554,6 +4518,18 @@
    "price": 3.33,
    "value": 196097.04,
    "acc": "0001812477-26-000025",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Lal Rohit",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 40000.0,
+   "price": 5.43,
+   "value": 217200.0,
+   "acc": "0001213900-26-090367",
    "filed": "2026-08-14"
   },
   {
@@ -4749,6 +4725,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Lal Rohit",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 10000.0,
+   "price": 5.53,
+   "value": 55300.0,
+   "acc": "0001213900-26-090367",
+   "filed": "2026-08-14"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -4806,6 +4794,18 @@
    "price": 10.32,
    "value": 383904.0,
    "acc": "0001834411-26-000008",
+   "filed": "2026-08-14"
+  },
+  {
+   "ticker": "INFQ",
+   "company": "Infleqtion, Inc.",
+   "insider": "MAVERICK CAPITAL LTD",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 52071.0,
+   "price": 12.4222,
+   "value": 646836.38,
+   "acc": "0001012975-26-000796",
    "filed": "2026-08-14"
   },
   {
@@ -4925,6 +4925,11 @@
    "total_value": 333775.92
   },
   {
+   "ticker": "PAL",
+   "insiders": 3,
+   "total_value": 300222.25
+  },
+  {
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 273730.0
@@ -4960,19 +4965,14 @@
    "total_value": 131848.0
   },
   {
-   "ticker": "TSM",
-   "insiders": 30,
-   "total_value": 118908.82
-  },
-  {
    "ticker": "MRP",
    "insiders": 2,
    "total_value": 115580.0
   },
   {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "insiders": 2,
-   "total_value": 1287.68
+   "ticker": "TSM",
+   "insiders": 28,
+   "total_value": 113850.43
   },
   {
    "ticker": "FEMY",
