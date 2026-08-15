@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-14 23:44 UTC",
+ "updated_utc": "2026-08-15 00:00 UTC",
  "purchases": [
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Booth Richard Whitaker",
-   "role": "",
-   "date": "2026-08-07",
-   "shares": 41.9463,
-   "price": 11.92,
-   "value": 500.0,
-   "acc": "0001435109-26-000132",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4268,6 +4256,19 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "OTLK",
+   "company": "Outlook Therapeutics, Inc.",
+   "insider": "Sukhtian Ghiath M.",
+   "role": "Director",
+   "date": "2026-08-12",
+   "shares": 2525252.0,
+   "price": 0.99,
+   "value": 2499999.48,
+   "acc": "0000899140-26-000894",
+   "filed": "2026-08-14",
+   "placement": true
+  },
+  {
    "ticker": "COE",
    "company": "51Talk Online Education Group",
    "insider": "Huang Jack Jiajia",
@@ -4972,11 +4973,6 @@
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "insiders": 2,
    "total_value": 1287.68
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 2,
-   "total_value": 712.32
   },
   {
    "ticker": "FEMY",
