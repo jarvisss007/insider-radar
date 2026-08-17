@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-17 18:43 UTC",
+ "updated_utc": "2026-08-17 19:15 UTC",
  "purchases": [
-  {
-   "ticker": "MRP",
-   "company": "Millrose Properties, Inc.",
-   "insider": "MIGOYA CARLOS A.",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 1000.0,
-   "price": 29.18,
-   "value": 29180.0,
-   "acc": "0001193125-26-342802",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "CC",
    "company": "Chemours Co",
@@ -4374,6 +4362,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "ATLO",
+   "company": "AMES NATIONAL CORP",
+   "insider": "Schreier Richard",
+   "role": "",
+   "date": "2026-08-14",
+   "shares": 316.0,
+   "price": 31.6,
+   "value": 9985.6,
+   "acc": "0001434609-26-000002",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "GRX",
    "company": "Gabelli Healthcare & WellnessRx Trust",
    "insider": "Saba Capital Management, L.P.",
@@ -4987,11 +4987,6 @@
    "total_value": 131848.0
   },
   {
-   "ticker": "MRP",
-   "insiders": 2,
-   "total_value": 115580.0
-  },
-  {
    "ticker": "MKZR",
    "insiders": 3,
    "total_value": 112320.0
@@ -5030,10 +5025,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020993",
-  "0001918704-26-020994",
-  "0001918704-26-020995",
-  "0001918704-26-020996",
   "0001918704-26-020997",
   "0001918704-26-020998",
   "0001918704-26-020999",
@@ -6784,6 +6775,10 @@
   "0001918704-26-023907",
   "0001918704-26-023908",
   "0001918704-26-023909",
+  "0001918704-26-023910",
+  "0001918704-26-023911",
+  "0001918704-26-023912",
+  "0001918704-26-023913",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
