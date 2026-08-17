@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-17 20:50 UTC",
+ "updated_utc": "2026-08-17 21:07 UTC",
  "purchases": [
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-07",
-   "shares": 1054.0,
-   "price": 78.938,
-   "value": 83200.65,
-   "acc": "0001193125-26-340786",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "GLRE",
-   "company": "GREENLIGHT CAPITAL RE, LTD.",
-   "insider": "Goldberg Leonard R",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 6000.0,
-   "price": 15.62,
-   "value": 93720.0,
-   "acc": "0001385613-26-000119",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "CC",
-   "company": "Chemours Co",
-   "insider": "CRANSTON MARY B",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 6000.0,
-   "price": 15.825,
-   "value": 94950.0,
-   "acc": "0001193125-26-344632",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "ELAN",
-   "company": "Elanco Animal Health Inc",
-   "insider": "VanHimbergen Robert M",
-   "role": "EVP and CFO",
-   "date": "2026-08-07",
-   "shares": 4200.0,
-   "price": 23.0776,
-   "value": 96925.92,
-   "acc": "0001724169-26-000037",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "AHCO",
-   "company": "AdaptHealth Corp.",
-   "insider": "WOLF DALE B",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 20000.0,
-   "price": 5.86,
-   "value": 117200.0,
-   "acc": "0001104659-26-093575",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "MGY",
    "company": "Magnolia Oil & Gas Corp",
@@ -3592,6 +3532,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 20000.0,
+   "price": 0.38,
+   "value": 7600.0,
+   "acc": "0001683168-26-006536",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "BURKE RUSSELL E III",
@@ -4132,6 +4084,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "Edell Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-14",
+   "shares": 1000.0,
+   "price": 1.21,
+   "value": 1210.0,
+   "acc": "0001628280-26-057423",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4214,6 +4178,18 @@
    "value": 5064.07,
    "acc": "0001493152-26-038473",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 20000.0,
+   "price": 0.3899,
+   "value": 7798.0,
+   "acc": "0001683168-26-006536",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "ACCS",
@@ -4756,6 +4732,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 20000.0,
+   "price": 0.3911,
+   "value": 7822.0,
+   "acc": "0001683168-26-006536",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "LCNB",
    "company": "LCNB CORP",
    "insider": "Haines Robert C II",
@@ -4801,6 +4789,18 @@
    "price": 1.099,
    "value": 65940.0,
    "acc": "0001193125-26-353994",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "KEEL",
+   "company": "Keel Infrastructure Corp.",
+   "insider": "WILSON LIAM DANIEL",
+   "role": "Chief Operating Officer",
+   "date": "2026-08-17",
+   "shares": 26472.0,
+   "price": 3.78,
+   "value": 100064.16,
+   "acc": "0001812477-26-000027",
    "filed": "2026-08-17"
   },
   {
@@ -4930,24 +4930,24 @@
    "total_value": 408500.0
   },
   {
-   "ticker": "CC",
-   "insiders": 4,
-   "total_value": 378561.65
-  },
-  {
    "ticker": "KMPR",
    "insiders": 5,
    "total_value": 367880.0
   },
   {
-   "ticker": "ELAN",
-   "insiders": 2,
-   "total_value": 333775.92
-  },
-  {
    "ticker": "PAL",
    "insiders": 3,
    "total_value": 300222.25
+  },
+  {
+   "ticker": "KEEL",
+   "insiders": 2,
+   "total_value": 296161.2
+  },
+  {
+   "ticker": "CC",
+   "insiders": 3,
+   "total_value": 283611.65
   },
   {
    "ticker": "STRZ",
@@ -5032,16 +5032,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021124",
-  "0001918704-26-021125",
-  "0001918704-26-021126",
-  "0001918704-26-021127",
-  "0001918704-26-021128",
-  "0001918704-26-021129",
-  "0001918704-26-021130",
-  "0001918704-26-021131",
-  "0001918704-26-021132",
-  "0001918704-26-021133",
   "0001918704-26-021134",
   "0001918704-26-021135",
   "0001918704-26-021136",
@@ -6766,6 +6756,13 @@
   "0001918704-26-023930",
   "0001918704-26-023933",
   "0001918704-26-023934",
+  "0001918704-26-023935",
+  "0001918704-26-023936",
+  "0001918704-26-023937",
+  "0001918704-26-023938",
+  "0001918704-26-023939",
+  "0001918704-26-023940",
+  "0001918704-26-023941",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7684,6 +7681,7 @@
   "0002063236-26-000012",
   "0002063597-26-000004",
   "0002063881-26-000004",
+  "0002064348-26-000003",
   "0002064538-26-000002",
   "0002064832-26-000250",
   "0002064832-26-000266",
@@ -8031,7 +8029,9 @@
   "0002148161-26-000008",
   "0002148361-26-000003",
   "0002148900-26-000005",
-  "0002149159-26-000004"
+  "0002149159-26-000004",
+  "0002149324-26-000005",
+  "0002149694-26-000006"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
