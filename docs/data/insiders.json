@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-08-17 12:24 UTC",
+ "updated_utc": "2026-08-17 12:40 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lee Chun-Hsien",
-   "role": "SVP",
-   "date": "2026-08-07",
-   "shares": 54.0,
-   "price": 73.31,
-   "value": 3958.74,
-   "acc": "0001046179-26-000510",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Hsu Kuo-Chin",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 54.0,
-   "price": 73.31,
-   "value": 3958.74,
-   "acc": "0001046179-26-000502",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Cao Min",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 55.0,
-   "price": 73.31,
-   "value": 4032.05,
-   "acc": "0001046179-26-000480",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wang Ying-Lang",
-   "role": "SVP",
-   "date": "2026-08-07",
-   "shares": 55.0,
-   "price": 73.31,
-   "value": 4032.05,
-   "acc": "0001046179-26-000522",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "FUSB",
-   "company": "FIRST US BANCSHARES, INC.",
-   "insider": "Pierce Staci",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 245.0,
-   "price": 16.51,
-   "value": 4044.95,
-   "acc": "0001193125-26-340412",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Fang Shu-Hua",
-   "role": "SVP and GC",
-   "date": "2026-08-07",
-   "shares": 57.0,
-   "price": 73.31,
-   "value": 4178.67,
-   "acc": "0001046179-26-000489",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yeap Choh Fei",
-   "role": "SVP",
-   "date": "2026-08-07",
-   "shares": 57.0,
-   "price": 73.31,
-   "value": 4178.67,
-   "acc": "0001046179-26-000533",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wu Shien-Yang",
-   "role": "SVP",
-   "date": "2026-08-07",
-   "shares": 57.0,
-   "price": 73.31,
-   "value": 4178.67,
-   "acc": "0001046179-26-000520",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4089,6 +3993,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Wesemann William",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 2150.0,
+   "price": 2.34,
+   "value": 5031.0,
+   "acc": "0001683168-26-006514",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "PAL",
    "company": "Proficient Auto Logistics, Inc",
    "insider": "Rice Amy F.",
@@ -4137,6 +4053,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Ness Brent",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-13",
+   "shares": 5234.0,
+   "price": 2.31,
+   "value": 12090.54,
+   "acc": "0001683168-26-006512",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "BRLT",
    "company": "Brilliant Earth Group, Inc.",
    "insider": "Kuo Jeffrey Chuenhong",
@@ -4171,6 +4099,18 @@
    "value": 14525.0,
    "acc": "0001536588-26-000025",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Neal David K",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 7500.0,
+   "price": 2.4,
+   "value": 18000.0,
+   "acc": "0001683168-26-006513",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "PAL",
@@ -4230,6 +4170,18 @@
    "price": 9.8544,
    "value": 49272.0,
    "acc": "0001493152-26-038600",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Bond Ryan",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 21122.0,
+   "price": 2.37,
+   "value": 50059.14,
+   "acc": "0001683168-26-006516",
    "filed": "2026-08-17"
   },
   {
@@ -4545,6 +4497,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "ACCS",
+   "company": "ACCESS Newswire Inc.",
+   "insider": "Pollard Wesley T",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 2000.0,
+   "price": 4.99,
+   "value": 9980.0,
+   "acc": "0001683168-26-006515",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "CLPR",
    "company": "Clipper Realty Inc.",
    "insider": "Levinson Sam",
@@ -4641,6 +4605,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "ACCS",
+   "company": "ACCESS Newswire Inc.",
+   "insider": "BALBIRNIE BRIAN R",
+   "role": "Director, CEO",
+   "date": "2026-08-14",
+   "shares": 10000.0,
+   "price": 4.95,
+   "value": 49500.0,
+   "acc": "0001683168-26-006517",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "RICK",
    "company": "RCI HOSPITALITY HOLDINGS, INC.",
    "insider": "LANGAN ERIC SCOTT",
@@ -4711,6 +4687,18 @@
    "value": 144012.0,
    "acc": "0000905148-26-003768",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "BTDR",
+   "company": "Bitdeer Technologies Group",
+   "insider": "Basit Haris Fozan",
+   "role": "Chief Strategy Officer",
+   "date": "2026-08-14",
+   "shares": 25000.0,
+   "price": 8.84,
+   "value": 221000.0,
+   "acc": "0001213900-26-090516",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "SODI",
@@ -4809,6 +4797,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "ONON",
+   "company": "On Holding AG",
+   "insider": "Bernhard Olivier",
+   "role": "Executive Officer",
+   "date": "2026-08-14",
+   "shares": 65000.0,
+   "price": 30.6737,
+   "value": 1993790.5,
+   "acc": "0001859889-26-000006",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4853,6 +4853,11 @@
    "ticker": "ACDC",
    "insiders": 2,
    "total_value": 4018492.45
+  },
+  {
+   "ticker": "ONON",
+   "insiders": 2,
+   "total_value": 3987581.0
   },
   {
    "ticker": "LILA",
@@ -4908,6 +4913,11 @@
    "ticker": "CODI",
    "insiders": 2,
    "total_value": 506950.5
+  },
+  {
+   "ticker": "BTDR",
+   "insiders": 2,
+   "total_value": 447000.0
   },
   {
    "ticker": "CC",
@@ -4980,14 +4990,24 @@
    "total_value": 115580.0
   },
   {
+   "ticker": "ACON",
+   "insiders": 4,
+   "total_value": 85180.68
+  },
+  {
    "ticker": "RICK",
    "insiders": 2,
    "total_value": 74437.43
   },
   {
+   "ticker": "ACCS",
+   "insiders": 2,
+   "total_value": 59480.0
+  },
+  {
    "ticker": "TSM",
-   "insiders": 12,
-   "total_value": 59454.41
+   "insiders": 5,
+   "total_value": 30936.82
   },
   {
    "ticker": "FEMY",
@@ -5003,9 +5023,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020888",
-  "0001918704-26-020889",
-  "0001918704-26-020890",
   "0001918704-26-020891",
   "0001918704-26-020892",
   "0001918704-26-020893",
@@ -6960,6 +6977,9 @@
   "0001976408-26-000731",
   "0001976408-26-000743",
   "0001976408-26-000744",
+  "0001976408-26-000745",
+  "0001976408-26-000746",
+  "0001976408-26-000747",
   "0001976672-26-000057",
   "0001976672-26-000059",
   "0001976684-26-000011",
