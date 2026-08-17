@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-17 22:42 UTC",
+ "updated_utc": "2026-08-17 22:58 UTC",
  "purchases": [
-  {
-   "ticker": "FBIN",
-   "company": "Fortune Brands Innovations, Inc.",
-   "insider": "Singh Jesse G",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-07",
-   "shares": 19560.0,
-   "price": 50.9336,
-   "value": 996261.22,
-   "acc": "0001193125-26-342627",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "Lubner David Charles",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 55555.0,
-   "price": 18.0,
-   "value": 999990.0,
-   "acc": "0001470831-26-000796",
-   "filed": "2026-08-07"
-  },
   {
    "ticker": "TXO",
    "company": "TXO Partners, L.P.",
@@ -4096,6 +4072,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "Heshmatpour Amir F",
+   "role": "CEO, President",
+   "date": "2026-08-14",
+   "shares": 12000.0,
+   "price": 3.7883,
+   "value": 45459.6,
+   "acc": "0001213900-26-090894",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "EDAP",
    "company": "EDAP TMS SA",
    "insider": "Horn David R.",
@@ -4732,6 +4720,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "Heshmatpour Amir F",
+   "role": "CEO, President",
+   "date": "2026-08-17",
+   "shares": 3000.0,
+   "price": 4.3733,
+   "value": 13119.9,
+   "acc": "0001213900-26-090894",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
    "insider": "Corso Matte Ana Silvia",
@@ -4819,8 +4819,8 @@
  "clusters": [
   {
    "ticker": "BRVE",
-   "insiders": 7,
-   "total_value": 88599978.0,
+   "insiders": 6,
+   "total_value": 87599988.0,
    "other_value": 69840000.0
   },
   {
