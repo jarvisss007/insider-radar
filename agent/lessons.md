@@ -384,3 +384,60 @@ early, which is a useful accident: the rule is no longer theoretical here.
 Standing and unchanged: NO established insider edge. 928 events, 669 mature, all
 week-clustered |t| < 2.67. Eighth re-run, eighth null. No open mark is evidence for
 anything.
+
+## 2026-08-17 [insider]
+
+THE COHORT MATURED TODAY AND I SCORED NONE OF IT — ON PURPOSE, AND THE REASON IS
+STRUCTURAL, NOT AN EXCUSE. Seven rows (NTSK, IPX, ELV, BUKS, GABC, INM, YORW) carry
+`check_date = 2026-08-16`, a Sunday. Step 2 says take the close ON or the FIRST CLOSE
+AFTER the check date. The first close after Sunday 08-16 is Monday 08-17's close.
+**It does not exist yet at the time this agent runs.** The sweep fires at 08:20 PT,
+about two hours into the session, and Yahoo's last daily row at that moment is a LIVE
+PARTIAL bar whose `close` is just the current quote — verified today: NTSK's last daily
+"close" was 15.155 and `regularMarketPrice` was 15.155; SPY's were 775.7396 and 775.74.
+Identical to the cent, because they are the same number.
+
+(1) SCORING SEVEN 30-DAY CALLS OFF A 2-HOUR-OLD INTRADAY PRINT WOULD HAVE BEEN THE
+WORST THING THIS LEDGER HAS EVER DONE. This lab built an entire disclosure column
+because prices frozen at CALL time contaminate a reference. A bad price at SCORE time
+is strictly worse: it decides the outcome. Five of these seven are headline-stratum
+rows (NTSK, IPX, ELV, BUKS, GABC) and they are the desk's FIRST insider result — the
+number everything downstream will quote. It gets a settled close or it gets nothing.
+
+(2) THE FIX IS TO WAIT ONE DAY, AND THE SYSTEM ALREADY DOES IT. Tomorrow's run sees
+`check_date 2026-08-16 <= 2026-08-18` with the 08-17 bar complete, and the catch-up
+rule scores all seven off a settled close. No code change is needed. What IS needed is
+this note, so nobody reads today's "0 scored" as the lab going silent again — that
+misreading is exactly what kept INS-001 flagged STALE for six days.
+
+(3) THIS WILL RECUR AND SOMEONE SHOULD DECIDE IT DELIBERATELY. Every cohort whose
+check_date lands on a weekend, holiday, or the current session hits the same wall,
+because the sweep will always run mid-session. Two defensible policies: score off the
+first settled close at-or-after check_date (what I did — costs one day, always clean),
+or move the sweep after the US close (costs nothing, changes every other lab's timing).
+That is Anupam's call, not mine. I am recording the choice, not making policy.
+
+Consistency note: I applied the same rule at CALL time today. All 11 new rows are
+priced off the 2026-08-14 settled close, not today's partial bar. A lab that refuses a
+live bar for scoring and accepts one for pricing is not being careful, it is being
+selective.
+
+**Logged today: 11 clusters** — ONON $3.99M, ANGX $1.48M, ABCL $0.86M, REZI $0.62M,
+BTDR $0.45M, FOCL $0.41M, PAL $0.30M (headline stratum, >= $100k) and SELF $0.13M,
+ACON $0.09M, RICK $0.07M, ACCS $0.06M (sub-floor, never blended). All 11 came back
+`stale_quote = no`.
+
+**4 disclosed exclusions**, now written into `exclusions.csv` instead of being silently
+re-attempted every morning: HPS REAL ASSETS LENDING (CIK 2089975, $11.0M — the largest
+cluster in today's feed and unpriceable), AXIA3 and PNAQ (404 on every attempt since
+08-12/08-13, already voided in the ledger), and **EDAP, which is new and which I do not
+believe is the same kind of failure.** EDAP TMS is a plausible real ADR listing; a 404
+there smells like a SYMBOL-MAPPING bug, not an unlisted entity. Excluding it is correct
+today under INS-007 — an unpriceable row can never score — but if the mapping is broken
+we are dropping genuine signal and calling it hygiene. Flagged for a hand check; NOT
+resolved here.
+
+No lesson is claimed from the attribution table today: it rebuilt clean (76 calls, 76
+with vintage features, 0 unrecoverable) but reports **0 scored**, so every feature
+column sits against an empty outcome. n too small — written exactly that way, per the
+attribution rule. The first real reading of it is tomorrow.

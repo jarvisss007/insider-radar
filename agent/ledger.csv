@@ -59,3 +59,14 @@ date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_qu
 2026-08-13,CIK1777677,long,"[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1777677) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
 2026-08-13,PNAQ,long,"[insider] [fund] 6 insiders non-open-market $29.8M; SPAC, no Yahoo quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
 2026-08-14,BORR,long,[insider] [fund] 2 insiders bought $6.5M,4.41,2026-09-13,,,no
+2026-08-17,ONON,long,[insider] 2 insiders bought $3.99M cluster,32.22,2026-09-16,,,no
+2026-08-17,ANGX,long,[insider] 2 insiders bought $1.48M cluster,4.37,2026-09-16,,,no
+2026-08-17,ABCL,long,[insider] 2 insiders bought $0.86M cluster,11.38,2026-09-16,,,no
+2026-08-17,REZI,long,[insider] 2 insiders bought $0.62M cluster,20.50,2026-09-16,,,no
+2026-08-17,BTDR,long,[insider] 2 insiders bought $0.45M cluster,9.13,2026-09-16,,,no
+2026-08-17,FOCL,long,[insider] 4 insiders bought $0.41M cluster,4.76,2026-09-16,,,no
+2026-08-17,PAL,long,[insider] 3 insiders bought $0.30M cluster,5.50,2026-09-16,,,no
+2026-08-17,SELF,long,[insider] 2 insiders bought $0.13M cluster,5.35,2026-09-16,,,no
+2026-08-17,ACON,long,[insider] 4 insiders bought $0.09M cluster,2.46,2026-09-16,,,no
+2026-08-17,RICK,long,[insider] 2 insiders bought $0.07M cluster,30.87,2026-09-16,,,no
+2026-08-17,ACCS,long,[insider] 2 insiders bought $0.06M cluster,4.97,2026-09-16,,,no
