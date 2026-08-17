@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-17 10:20 UTC",
+ "updated_utc": "2026-08-17 11:07 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chuang Juiping",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 49.0,
-   "price": 73.31,
-   "value": 3592.19,
-   "acc": "0001046179-26-000490",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lin Chris Horng-Dar",
-   "role": "VP and CIO",
-   "date": "2026-08-07",
-   "shares": 49.0,
-   "price": 73.31,
-   "value": 3592.19,
-   "acc": "0001046179-26-000513",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4449,6 +4425,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "VFC",
+   "company": "V F CORP",
+   "insider": "Carucci Richard",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 20000.0,
+   "price": 14.73,
+   "value": 294600.0,
+   "acc": "0000103379-26-000120",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -4819,6 +4807,18 @@
    "value": 1139500.0,
    "acc": "0001221359-26-000040",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 500000.0,
+   "price": 4.3868,
+   "value": 2193400.0,
+   "acc": "0001628280-26-057216",
+   "filed": "2026-08-17"
   }
  ],
  "clusters": [
@@ -4836,7 +4836,7 @@
   {
    "ticker": "BORR",
    "insiders": 2,
-   "total_value": 6538387.5
+   "total_value": 8731787.5
   },
   {
    "ticker": "BLSM",
@@ -4981,8 +4981,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 18,
-   "total_value": 81813.96
+   "insiders": 16,
+   "total_value": 74629.58
   },
   {
    "ticker": "FEMY",
