@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-17 15:48 UTC",
+ "updated_utc": "2026-08-17 16:04 UTC",
  "purchases": [
-  {
-   "ticker": "MKZR",
-   "company": "MacKenzie Realty Capital, Inc.",
-   "insider": "FULLER GLEN W",
-   "role": "Treasurer",
-   "date": "2026-08-07",
-   "shares": 10000.0,
-   "price": 1.59,
-   "value": 15900.0,
-   "acc": "0001582328-26-000011",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
@@ -4242,6 +4230,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "MLAB",
+   "company": "MESA LABORATORIES INC /CO/",
+   "insider": "Kadia Siddhartha",
+   "role": "President and CEO",
+   "date": "2026-08-13",
+   "shares": 7093.0,
+   "price": 112.8,
+   "value": 800090.4,
+   "acc": "0000724004-26-000084",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "TDIC",
    "company": "Dreamland Ltd",
    "insider": "Seto Wai Yue",
@@ -4882,6 +4882,11 @@
    "total_value": 1018495.32
   },
   {
+   "ticker": "MLAB",
+   "insiders": 2,
+   "total_value": 902411.4
+  },
+  {
    "ticker": "AXIA3",
    "insiders": 2,
    "total_value": 884146.0
@@ -4982,14 +4987,14 @@
    "total_value": 131848.0
   },
   {
-   "ticker": "MKZR",
-   "insiders": 3,
-   "total_value": 128220.0
-  },
-  {
    "ticker": "MRP",
    "insiders": 2,
    "total_value": 115580.0
+  },
+  {
+   "ticker": "MKZR",
+   "insiders": 3,
+   "total_value": 112320.0
   },
   {
    "ticker": "ACON",
