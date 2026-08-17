@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-17 12:55 UTC",
+ "updated_utc": "2026-08-17 13:58 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Hou Yung-Chin",
-   "role": "SVP and Deputy Co-COO",
-   "date": "2026-08-07",
-   "shares": 63.0,
-   "price": 73.31,
-   "value": 4618.53,
-   "acc": "0001046179-26-000491",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Zhang Kevin Xiaoqiang",
-   "role": "SVP and Deputy Co-COO",
-   "date": "2026-08-07",
-   "shares": 63.0,
-   "price": 73.31,
-   "value": 4618.53,
-   "acc": "0001046179-26-000532",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "CZNC",
-   "company": "CITIZENS & NORTHERN CORP",
-   "insider": "Pellegrino Frank G",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 208.0,
-   "price": 25.215,
-   "value": 5244.72,
-   "acc": "0001667211-26-000022",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4677,6 +4641,42 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "NRGV",
+   "company": "Energy Vault Holdings, Inc.",
+   "insider": "Hixon Dylan",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 26809.0,
+   "price": 3.733,
+   "value": 100078.0,
+   "acc": "0001828536-26-000103",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "NRGV",
+   "company": "Energy Vault Holdings, Inc.",
+   "insider": "Hixon Dylan",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 26845.0,
+   "price": 3.733,
+   "value": 100212.39,
+   "acc": "0001828536-26-000103",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "NRGV",
+   "company": "Energy Vault Holdings, Inc.",
+   "insider": "Hixon Dylan",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 31864.0,
+   "price": 3.75,
+   "value": 119490.0,
+   "acc": "0001828536-26-000103",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -5006,8 +5006,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 5,
-   "total_value": 30936.82
+   "insiders": 3,
+   "total_value": 21699.76
   },
   {
    "ticker": "FEMY",
@@ -5023,13 +5023,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020892",
-  "0001918704-26-020893",
-  "0001918704-26-020894",
-  "0001918704-26-020895",
-  "0001918704-26-020896",
-  "0001918704-26-020897",
-  "0001918704-26-020898",
   "0001918704-26-020899",
   "0001918704-26-020900",
   "0001918704-26-020901",
@@ -6786,6 +6779,11 @@
   "0001918704-26-023830",
   "0001918704-26-023831",
   "0001918704-26-023833",
+  "0001918704-26-023834",
+  "0001918704-26-023835",
+  "0001918704-26-023836",
+  "0001918704-26-023837",
+  "0001918704-26-023838",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7423,6 +7421,7 @@
   "0001999371-26-017997",
   "0001999371-26-017999",
   "0001999371-26-018050",
+  "0001999371-26-018055",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999846-26-000004",
@@ -7710,6 +7709,7 @@
   "0002069377-26-000002",
   "0002069860-26-000010",
   "0002070264-26-000008",
+  "0002070403-26-000013",
   "0002070849-26-000044",
   "0002070849-26-000052",
   "0002070849-26-000058",
