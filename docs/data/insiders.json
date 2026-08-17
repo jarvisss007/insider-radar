@@ -1,138 +1,6 @@
 {
- "updated_utc": "2026-08-17 06:42 UTC",
+ "updated_utc": "2026-08-17 10:20 UTC",
  "purchases": [
-  {
-   "ticker": "BOTJ",
-   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
-   "insider": "SYREK MICHAEL A",
-   "role": "President - Bank of the James",
-   "date": "2026-08-07",
-   "shares": 100.0,
-   "price": 27.05,
-   "value": 2705.0,
-   "acc": "0001437749-26-027272",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lu Chin-Sheng",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 39.0,
-   "price": 73.31,
-   "value": 2859.09,
-   "acc": "0001046179-26-000509",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Hwang Yuan-Ko",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 40.0,
-   "price": 73.31,
-   "value": 2932.4,
-   "acc": "0001046179-26-000500",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wu Yi-Huang",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 41.0,
-   "price": 73.31,
-   "value": 3005.71,
-   "acc": "0001046179-26-000530",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yuan Lipen",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 42.0,
-   "price": 73.31,
-   "value": 3079.02,
-   "acc": "0001046179-26-000531",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 42.0,
-   "price": 73.31,
-   "value": 3079.02,
-   "acc": "0001046179-26-000519",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "He Jun",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 46.0,
-   "price": 73.31,
-   "value": 3372.26,
-   "acc": "0001046179-26-000493",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chen Pei-Hung",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 46.0,
-   "price": 73.31,
-   "value": 3372.26,
-   "acc": "0001046179-26-000481",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Ku Yao-Ching",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 47.0,
-   "price": 73.31,
-   "value": 3445.57,
-   "acc": "0001046179-26-000499",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chuang Tzu-Sou",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 47.0,
-   "price": 73.31,
-   "value": 3445.57,
-   "acc": "0001046179-26-000492",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lin Shyue-Shyh",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 47.0,
-   "price": 73.31,
-   "value": 3445.57,
-   "acc": "0001046179-26-000511",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4413,6 +4281,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "ECOR",
+   "company": "electroCore, Inc.",
+   "insider": "Errico Thomas J.",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 5000.0,
+   "price": 9.8544,
+   "value": 49272.0,
+   "acc": "0001493152-26-038600",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "CVRX",
    "company": "CVRx, Inc.",
    "insider": "Binkowski Brent",
@@ -4605,6 +4485,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "TDIC",
+   "company": "Dreamland Ltd",
+   "insider": "Seto Wai Yue",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-13",
+   "shares": 320000.0,
+   "price": 3.75,
+   "value": 1200000.0,
+   "acc": "0001493152-26-038578",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "TXO",
    "company": "TXO Partners, L.P.",
    "insider": "SIMPSON BOB R",
@@ -4713,6 +4605,42 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "EDAP",
+   "company": "EDAP TMS SA",
+   "insider": "Mobeck Kenneth S.",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-14",
+   "shares": 5000.0,
+   "price": 4.75,
+   "value": 23750.0,
+   "acc": "0001829126-26-008924",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "FOCL",
+   "company": "EDAP TMS SA",
+   "insider": "Shah Sanket",
+   "role": "General Counsel & Corp Sec",
+   "date": "2026-08-14",
+   "shares": 5000.0,
+   "price": 4.75,
+   "value": 23750.0,
+   "acc": "0001829126-26-008921",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "EDAP",
+   "company": "EDAP TMS SA",
+   "insider": "Annen Steven",
+   "role": "SVP, Marketing & Product Mgmt.",
+   "date": "2026-08-14",
+   "shares": 5000.0,
+   "price": 4.75,
+   "value": 23750.0,
+   "acc": "0001829126-26-008920",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4723,6 +4651,42 @@
    "value": 31510.57,
    "acc": "0001628873-26-000070",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "EDAP",
+   "company": "EDAP TMS SA",
+   "insider": "Horn David R.",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 10000.0,
+   "price": 4.75,
+   "value": 47500.0,
+   "acc": "0001829126-26-008927",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "FOCL",
+   "company": "EDAP TMS SA",
+   "insider": "Schulz Fran",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 10000.0,
+   "price": 4.75,
+   "value": 47500.0,
+   "acc": "0001829126-26-008926",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "EDAP",
+   "company": "EDAP TMS SA",
+   "insider": "LEVINE JOSHUA",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 10000.0,
+   "price": 4.75,
+   "value": 47500.0,
+   "acc": "0001829126-26-008925",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "PAL",
@@ -4747,6 +4711,18 @@
    "value": 94016.0,
    "acc": "0001628873-26-000071",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "FOCL",
+   "company": "EDAP TMS SA",
+   "insider": "Rhodes Ryan",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-14",
+   "shares": 21000.0,
+   "price": 4.75,
+   "value": 99750.0,
+   "acc": "0001829126-26-008922",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "OPEN",
@@ -4783,6 +4759,30 @@
    "value": 228000.0,
    "acc": "0001437749-26-027903",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "FOCL",
+   "company": "EDAP TMS SA",
+   "insider": "WILLSEY LANCE",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 50000.0,
+   "price": 4.75,
+   "value": 237500.0,
+   "acc": "0001829126-26-008923",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "ENHA",
+   "company": "Enhanced Group Inc.",
+   "insider": "Apeiron Investment Group Ltd.",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 150000.0,
+   "price": 1.9708,
+   "value": 295620.0,
+   "acc": "0001193125-26-353161",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "ABCL",
@@ -4915,6 +4915,11 @@
    "total_value": 438570.31
   },
   {
+   "ticker": "FOCL",
+   "insiders": 4,
+   "total_value": 408500.0
+  },
+  {
    "ticker": "KMPR",
    "insiders": 5,
    "total_value": 367880.0
@@ -4960,6 +4965,11 @@
    "total_value": 148960.0
   },
   {
+   "ticker": "EDAP",
+   "insiders": 4,
+   "total_value": 142500.0
+  },
+  {
    "ticker": "SELF",
    "insiders": 2,
    "total_value": 131848.0
@@ -4971,8 +4981,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 28,
-   "total_value": 113850.43
+   "insiders": 18,
+   "total_value": 81813.96
   },
   {
    "ticker": "FEMY",
@@ -4988,7 +4998,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020878",
   "0001918704-26-020879",
   "0001918704-26-020880",
   "0001918704-26-020881",
@@ -6764,6 +6773,7 @@
   "0001918704-26-023826",
   "0001918704-26-023830",
   "0001918704-26-023831",
+  "0001918704-26-023833",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
