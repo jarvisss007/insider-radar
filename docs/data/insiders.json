@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-17 13:58 UTC",
+ "updated_utc": "2026-08-17 14:14 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chin Yung-Pei",
-   "role": "EVP and Co-COO",
-   "date": "2026-08-07",
-   "shares": 72.0,
-   "price": 73.31,
-   "value": 5278.32,
-   "acc": "0001046179-26-000479",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4605,6 +4593,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "STLN",
+   "company": "Starling Oncology, Inc.",
+   "insider": "Chernett Jorey",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 12000.0,
+   "price": 6.54,
+   "value": 78480.0,
+   "acc": "0000921895-26-002203",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "WINMILL & CO. INC",
@@ -5006,8 +5006,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 3,
-   "total_value": 21699.76
+   "insiders": 2,
+   "total_value": 16421.44
   },
   {
    "ticker": "FEMY",
@@ -5023,10 +5023,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020899",
-  "0001918704-26-020900",
-  "0001918704-26-020901",
-  "0001918704-26-020902",
   "0001918704-26-020903",
   "0001918704-26-020904",
   "0001918704-26-020905",
@@ -6784,6 +6780,10 @@
   "0001918704-26-023836",
   "0001918704-26-023837",
   "0001918704-26-023838",
+  "0001918704-26-023839",
+  "0001918704-26-023840",
+  "0001918704-26-023841",
+  "0001918704-26-023842",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
