@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-17 11:07 UTC",
+ "updated_utc": "2026-08-17 11:22 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Jang Syun-Ming",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 50.0,
-   "price": 73.31,
-   "value": 3665.5,
-   "acc": "0001046179-26-000503",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4773,6 +4761,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "REZI",
+   "company": "RESIDEO TECHNOLOGIES, INC.",
+   "insider": "SURRAN THOMAS A",
+   "role": "President and CEO",
+   "date": "2026-08-14",
+   "shares": 15000.0,
+   "price": 20.46,
+   "value": 306900.0,
+   "acc": "0001104659-26-097540",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Booth Andrew",
@@ -4981,8 +4981,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 16,
-   "total_value": 74629.58
+   "insiders": 15,
+   "total_value": 70964.08
   },
   {
    "ticker": "FEMY",
