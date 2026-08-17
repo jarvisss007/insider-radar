@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-17 22:58 UTC",
+ "updated_utc": "2026-08-17 23:30 UTC",
  "purchases": [
-  {
-   "ticker": "TXO",
-   "company": "TXO Partners, L.P.",
-   "insider": "SIMPSON BOB R",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 100000.0,
-   "price": 13.5189,
-   "value": 1351890.0,
-   "acc": "0001182684-26-000017",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 73455.0,
-   "price": 20.4195,
-   "value": 1499914.37,
-   "acc": "0000937797-26-000019",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "Viehbacher Christopher",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 83333.0,
-   "price": 18.0,
-   "value": 1499994.0,
-   "acc": "0001470831-26-000801",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "Murdoch Travis",
-   "role": "CEO and President",
-   "date": "2026-08-07",
-   "shares": 83333.0,
-   "price": 18.0,
-   "value": 1499994.0,
-   "acc": "0001470831-26-000798",
-   "filed": "2026-08-07"
-  },
   {
    "ticker": "COE",
    "company": "51Talk Online Education Group",
@@ -4480,6 +4432,19 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "APLM",
+   "company": "Apollomics Inc.",
+   "insider": "LIN PETER KUAN-HOW",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-14",
+   "shares": 26667.0,
+   "price": 15.0,
+   "value": 400005.0,
+   "acc": "0001193125-26-354465",
+   "filed": "2026-08-17",
+   "placement": true
+  },
+  {
    "ticker": "CDNL",
    "company": "Cardinal Infrastructure Group Inc.",
    "insider": "Spivey Jeremy Simmons",
@@ -4624,6 +4589,19 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "APLM",
+   "company": "Apollomics Inc.",
+   "insider": "Chen Hung-Wen",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-14",
+   "shares": 103333.0,
+   "price": 15.0,
+   "value": 1549995.0,
+   "acc": "0001193125-26-354457",
+   "filed": "2026-08-17",
+   "placement": true
+  },
+  {
    "ticker": "CDNL",
    "company": "Cardinal Infrastructure Group Inc.",
    "insider": "Spivey Jeremy Simmons",
@@ -4660,6 +4638,19 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "APLM",
+   "company": "Apollomics Inc.",
+   "insider": "Chen Hung-Wen",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-14",
+   "shares": 166667.0,
+   "price": 12.0,
+   "value": 2000004.0,
+   "acc": "0001193125-26-354457",
+   "filed": "2026-08-17",
+   "placement": true
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4670,6 +4661,19 @@
    "value": 2193400.0,
    "acc": "0001628280-26-057216",
    "filed": "2026-08-17"
+  },
+  {
+   "ticker": "APLM",
+   "company": "Apollomics Inc.",
+   "insider": "Chen Hung-Wen",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-14",
+   "shares": 266667.0,
+   "price": 15.0,
+   "value": 4000005.0,
+   "acc": "0001193125-26-354457",
+   "filed": "2026-08-17",
+   "placement": true
   },
   {
    "ticker": "ISBA",
@@ -4819,8 +4823,8 @@
  "clusters": [
   {
    "ticker": "BRVE",
-   "insiders": 6,
-   "total_value": 87599988.0,
+   "insiders": 4,
+   "total_value": 84600000.0,
    "other_value": 69840000.0
   },
   {
@@ -4860,11 +4864,6 @@
    "total_value": 3987581.0
   },
   {
-   "ticker": "LILA",
-   "insiders": 2,
-   "total_value": 3446477.15
-  },
-  {
    "ticker": "ANGX",
    "insiders": 3,
    "total_value": 2801122.83
@@ -4873,6 +4872,11 @@
    "ticker": "XRN",
    "insiders": 3,
    "total_value": 2542509.0
+  },
+  {
+   "ticker": "LILA",
+   "insiders": 2,
+   "total_value": 1946562.78
   },
   {
    "ticker": "AMRC",
@@ -5029,15 +5033,15 @@
    "insiders": 6,
    "total_value": 0,
    "other_value": 29800000.0
+  },
+  {
+   "ticker": "APLM",
+   "insiders": 2,
+   "total_value": 0,
+   "other_value": 7950009.0
   }
  ],
  "seen": [
-  "0001918704-26-021147",
-  "0001918704-26-021148",
-  "0001918704-26-021149",
-  "0001918704-26-021150",
-  "0001918704-26-021151",
-  "0001918704-26-021152",
   "0001918704-26-021153",
   "0001918704-26-021154",
   "0001918704-26-021155",
@@ -6835,6 +6839,7 @@
   "0001945031-26-000013",
   "0001945277-26-000004",
   "0001945691-26-000008",
+  "0001946411-26-000006",
   "0001946684-26-000013",
   "0001948433-26-000006",
   "0001949911-26-000014",
@@ -6846,6 +6851,7 @@
   "0001951288-26-000004",
   "0001951665-26-000018",
   "0001951665-26-000020",
+  "0001951665-26-000022",
   "0001951912-26-000005",
   "0001951912-26-000007",
   "0001952636-26-000004",
@@ -7479,6 +7485,7 @@
   "0002017190-26-000003",
   "0002017618-26-000002",
   "0002018274-26-000003",
+  "0002018689-26-000007",
   "0002019046-26-000003",
   "0002019143-26-000017",
   "0002019295-26-000010",
@@ -7606,6 +7613,7 @@
   "0002051008-26-000002",
   "0002051575-26-000004",
   "0002051619-26-000018",
+  "0002051813-26-000010",
   "0002052022-26-000005",
   "0002052025-26-000005",
   "0002052034-26-000004",
@@ -7847,6 +7855,7 @@
   "0002084956-26-000054",
   "0002084956-26-000056",
   "0002084956-26-000058",
+  "0002084956-26-000060",
   "0002085970-26-000005",
   "0002087126-26-000006",
   "0002087127-26-000004",
@@ -7915,6 +7924,7 @@
   "0002114987-26-000002",
   "0002115951-26-000004",
   "0002116333-26-000001",
+  "0002117102-26-000004",
   "0002119130-26-000007",
   "0002120008-26-000006",
   "0002120298-26-000002",
