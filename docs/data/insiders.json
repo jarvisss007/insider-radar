@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-17 21:54 UTC",
+ "updated_utc": "2026-08-17 22:26 UTC",
  "purchases": [
-  {
-   "ticker": "FISV",
-   "company": "FISERV INC",
-   "insider": "FRITZ LANCE M",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 10000.0,
-   "price": 51.95,
-   "value": 519500.0,
-   "acc": "0000798354-26-000033",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "LINE",
-   "company": "Lineage, Inc.",
-   "insider": "LeMasters Robb A.",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-07",
-   "shares": 20000.0,
-   "price": 41.3319,
-   "value": 826638.0,
-   "acc": "0001645808-26-000002",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
@@ -4192,6 +4168,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "WULF",
+   "company": "TERAWULF INC.",
+   "insider": "Bucella Michael C.",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 3023.0,
+   "price": 16.535,
+   "value": 49985.31,
+   "acc": "0001083301-26-000170",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "RICK",
    "company": "RCI HOSPITALITY HOLDINGS, INC.",
    "insider": "LANGAN ERIC SCOTT",
@@ -4768,6 +4756,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "WULF",
+   "company": "TERAWULF INC.",
+   "insider": "Bucella Michael C.",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 2860.0,
+   "price": 17.47,
+   "value": 49964.2,
+   "acc": "0001083301-26-000170",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "HGBL",
    "company": "Heritage Global Inc.",
    "insider": "Dove Nicholas Kirk",
@@ -5037,8 +5037,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021145",
-  "0001918704-26-021146",
   "0001918704-26-021147",
   "0001918704-26-021148",
   "0001918704-26-021149",
@@ -7414,6 +7412,7 @@
   "0001999371-26-018081",
   "0001999488-26-000011",
   "0001999525-26-000002",
+  "0001999598-26-000010",
   "0001999846-26-000004",
   "0002000276-26-000006",
   "0002000358-26-000016",
@@ -7989,6 +7988,7 @@
   "0002137987-26-000003",
   "0002138148-26-000002",
   "0002138368-26-000005",
+  "0002138368-26-000007",
   "0002139240-26-000002",
   "0002139756-26-000006",
   "0002139953-26-000004",
