@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-17 11:38 UTC",
+ "updated_utc": "2026-08-17 12:09 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lu Lee-Chung",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 52.0,
-   "price": 73.31,
-   "value": 3812.12,
-   "acc": "0001046179-26-000512",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4161,6 +4149,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "BRLT",
+   "company": "Brilliant Earth Group, Inc.",
+   "insider": "Kuo Jeffrey Chuenhong",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-13",
+   "shares": 10000.0,
+   "price": 1.36,
+   "value": 13600.0,
+   "acc": "0001628280-26-057223",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4986,8 +4986,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 14,
-   "total_value": 67225.27
+   "insiders": 13,
+   "total_value": 63413.15
   },
   {
    "ticker": "FEMY",
@@ -5003,8 +5003,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020879",
-  "0001918704-26-020880",
   "0001918704-26-020881",
   "0001918704-26-020882",
   "0001918704-26-020883",
@@ -6967,6 +6965,8 @@
   "0001976408-26-000729",
   "0001976408-26-000730",
   "0001976408-26-000731",
+  "0001976408-26-000743",
+  "0001976408-26-000744",
   "0001976672-26-000057",
   "0001976672-26-000059",
   "0001976684-26-000011",
