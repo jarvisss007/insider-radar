@@ -227,3 +227,19 @@ itself.
 Voided rows are kept, never deleted: the record should show what was attempted
 and why it could not be scored. They are excluded from every hit rate, and
 `void` is not a third outcome to be counted alongside right/wrong.
+
+## Attribution — the information-to-outcome join (built 2026-08-17, Anupam's ask)
+
+After ANY scoring pass (step 2), run:
+    /opt/anaconda3/bin/python attribution.py
+It rebuilds agent/attribution.csv — every call joined to the cluster features
+that existed ON THE CALL DATE (vintage feed from git history, no lookahead):
+n_insiders, total dollars, CEO/CFO/director mix, placement share, the price
+insiders actually paid, and the run-up between their purchase and our call.
+
+Step 3 (lessons) now CITES THIS TABLE, not prose impressions. A lesson of the
+form "micro-caps score worse" must quote the strata line (hit rate, avg return,
+n AND dates — dates are the honest denominator, since calls cluster by day).
+If the table's n is too small to support the lesson, the lesson is "n too
+small", written exactly that way. The table never writes lessons itself; you
+read it and you argue from it.
