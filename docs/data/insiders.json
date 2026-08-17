@@ -1,67 +1,6 @@
 {
- "updated_utc": "2026-08-17 14:14 UTC",
+ "updated_utc": "2026-08-17 14:30 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Mii Yuh-Jier",
-   "role": "EVP and Co-COO",
-   "date": "2026-08-07",
-   "shares": 72.0,
-   "price": 73.31,
-   "value": 5278.32,
-   "acc": "0001046179-26-000523",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "STPEX",
-   "company": "StepStone Private Equity Strategies Fund",
-   "insider": "StepStone Group LP",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 557.769,
-   "price": 12.55,
-   "value": 7000.0,
-   "acc": "0001193125-26-351756",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 20000.0,
-   "price": 0.3976,
-   "value": 7952.0,
-   "acc": "0001683168-26-006107",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "GLENBROOK CAPITAL MANAGEMENT",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 6490.0,
-   "price": 1.2977,
-   "value": 8422.07,
-   "acc": "0000902664-26-003373",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "FEMY",
-   "company": "FEMASYS INC",
-   "insider": "Sipos Jeremy Alexander",
-   "role": "Chief Technology Officer",
-   "date": "2026-08-07",
-   "shares": 3125.0,
-   "price": 3.2,
-   "value": 10000.0,
-   "acc": "0001140361-26-032324",
-   "filed": "2026-08-11",
-   "placement": true
-  },
   {
    "ticker": "FEMY",
    "company": "FEMASYS INC",
@@ -4101,6 +4040,18 @@
    "filed": "2026-08-13"
   },
   {
+   "ticker": "TISI",
+   "company": "TEAM INC",
+   "insider": "McGinnis Pamela J.",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 2000.0,
+   "price": 22.9,
+   "value": 45800.0,
+   "acc": "0002019046-26-000003",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "FGBI",
    "company": "First Guaranty Bancshares, Inc.",
    "insider": "WALKER ROBERT W",
@@ -4413,6 +4364,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 1.0,
+   "price": 357.56,
+   "value": 357.56,
+   "acc": "0001437749-26-028127",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4423,6 +4386,18 @@
    "value": 1507.69,
    "acc": "0001536588-26-000025",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 756.0,
+   "price": 2.8,
+   "value": 2116.8,
+   "acc": "0001437749-26-028126",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "TONX",
@@ -4519,6 +4494,18 @@
    "value": 31510.57,
    "acc": "0001628873-26-000070",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "STIM",
+   "company": "Neuronetics, Inc.",
+   "insider": "Chernett Jorey",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 14000.0,
+   "price": 3.16,
+   "value": 44240.0,
+   "acc": "0000921895-26-002204",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "EDAP",
@@ -4749,6 +4736,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "REZI",
+   "company": "RESIDEO TECHNOLOGIES, INC.",
+   "insider": "Foster Joshua Peter",
+   "role": "SVP, GC & Corp Sec",
+   "date": "2026-08-14",
+   "shares": 15317.0,
+   "price": 20.58,
+   "value": 315223.86,
+   "acc": "0002147248-26-000003",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Booth Andrew",
@@ -4905,6 +4904,11 @@
    "total_value": 640990.0
   },
   {
+   "ticker": "REZI",
+   "insiders": 2,
+   "total_value": 622123.86
+  },
+  {
    "ticker": "EMBC",
    "insiders": 4,
    "total_value": 557945.0
@@ -5005,15 +5009,10 @@
    "total_value": 59480.0
   },
   {
-   "ticker": "TSM",
-   "insiders": 2,
-   "total_value": 16421.44
-  },
-  {
    "ticker": "FEMY",
-   "insiders": 5,
+   "insiders": 4,
    "total_value": 0,
-   "other_value": 134000.0
+   "other_value": 124000.0
   },
   {
    "ticker": "PNAQ",
@@ -5023,9 +5022,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-020903",
-  "0001918704-26-020904",
-  "0001918704-26-020905",
   "0001918704-26-020906",
   "0001918704-26-020907",
   "0001918704-26-020908",
@@ -6784,6 +6780,7 @@
   "0001918704-26-023840",
   "0001918704-26-023841",
   "0001918704-26-023842",
+  "0001918704-26-023843",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7493,6 +7490,7 @@
   "0002017190-26-000003",
   "0002017618-26-000002",
   "0002018274-26-000003",
+  "0002019046-26-000003",
   "0002019143-26-000017",
   "0002019295-26-000010",
   "0002019804-26-000027",
@@ -8013,6 +8011,7 @@
   "0002146558-26-000006",
   "0002146717-26-000004",
   "0002147247-26-000004",
+  "0002147248-26-000003",
   "0002147277-26-000003",
   "0002147380-26-000006",
   "0002147429-26-000003",
