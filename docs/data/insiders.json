@@ -1,56 +1,6 @@
 {
- "updated_utc": "2026-08-17 20:19 UTC",
+ "updated_utc": "2026-08-17 20:35 UTC",
  "purchases": [
-  {
-   "ticker": "FEMY",
-   "company": "FEMASYS INC",
-   "insider": "Elefant Dov",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-07",
-   "shares": 15625.0,
-   "price": 3.2,
-   "value": 50000.0,
-   "acc": "0001140361-26-032317",
-   "filed": "2026-08-11",
-   "placement": true
-  },
-  {
-   "ticker": "FEMY",
-   "company": "FEMASYS INC",
-   "insider": "Lee-Sepsick Kathy",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-07",
-   "shares": 15625.0,
-   "price": 3.2,
-   "value": 50000.0,
-   "acc": "0001140361-26-032314",
-   "filed": "2026-08-11",
-   "placement": true
-  },
-  {
-   "ticker": "EEFT",
-   "company": "EURONET WORLDWIDE, INC.",
-   "insider": "MCDONNELL THOMAS A",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 781.0,
-   "price": 70.6,
-   "value": 55138.6,
-   "acc": "0001554855-26-001756",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 853.0,
-   "price": 66.64,
-   "value": 56843.92,
-   "acc": "0001505732-26-000106",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
@@ -4074,6 +4024,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 23321.0,
+   "price": 15.2152,
+   "value": 354833.68,
+   "acc": "0001493152-26-038750",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -4311,6 +4273,18 @@
    "price": 31.6,
    "value": 9985.6,
    "acc": "0001434609-26-000002",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "TELA",
+   "company": "TELA Bio, Inc.",
+   "insider": "Getz Heather C",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-14",
+   "shares": 15000.0,
+   "price": 0.6978,
+   "value": 10467.0,
+   "acc": "0001481485-26-000006",
    "filed": "2026-08-17"
   },
   {
@@ -4710,6 +4684,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 22017.0,
+   "price": 15.17,
+   "value": 333997.89,
+   "acc": "0001493152-26-038750",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Booth Andrew",
@@ -4803,6 +4789,18 @@
    "price": 19.75,
    "value": 9875.0,
    "acc": "0001437749-26-028149",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "HGBL",
+   "company": "Heritage Global Inc.",
+   "insider": "Hounsell Bruce Kenneth",
+   "role": "President, Heritage DebtX LLC",
+   "date": "2026-08-17",
+   "shares": 10000.0,
+   "price": 1.1395,
+   "value": 11395.0,
+   "acc": "0001193125-26-354151",
    "filed": "2026-08-17"
   },
   {
@@ -5012,6 +5010,11 @@
    "total_value": 78202.3
   },
   {
+   "ticker": "HGBL",
+   "insiders": 2,
+   "total_value": 77335.0
+  },
+  {
    "ticker": "RICK",
    "insiders": 2,
    "total_value": 74437.43
@@ -5022,12 +5025,6 @@
    "total_value": 59480.0
   },
   {
-   "ticker": "FEMY",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 100000.0
-  },
-  {
    "ticker": "PNAQ",
    "insiders": 6,
    "total_value": 0,
@@ -5035,9 +5032,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021110",
-  "0001918704-26-021111",
-  "0001918704-26-021114",
   "0001918704-26-021115",
   "0001918704-26-021116",
   "0001918704-26-021117",
@@ -6777,6 +6771,8 @@
   "0001918704-26-023918",
   "0001918704-26-023919",
   "0001918704-26-023922",
+  "0001918704-26-023929",
+  "0001918704-26-023930",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6923,6 +6919,7 @@
   "0001968269-26-000002",
   "0001968347-26-000004",
   "0001968347-26-000007",
+  "0001968347-26-000009",
   "0001969106-26-000004",
   "0001969292-26-000009",
   "0001970613-26-000004",
