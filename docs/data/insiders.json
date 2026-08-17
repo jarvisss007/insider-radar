@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-08-17 21:07 UTC",
+ "updated_utc": "2026-08-17 21:23 UTC",
  "purchases": [
-  {
-   "ticker": "MGY",
-   "company": "Magnolia Oil & Gas Corp",
-   "insider": "Ropp Ralph Lewis",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 5000.0,
-   "price": 24.625,
-   "value": 123125.0,
-   "acc": "0001104659-26-094079",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "AMRC",
-   "company": "Ameresco, Inc.",
-   "insider": "Sakellaris George P",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-07",
-   "shares": 5000.0,
-   "price": 25.95,
-   "value": 129750.0,
-   "acc": "0001628280-26-055891",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "FRPH",
-   "company": "FRP HOLDINGS, INC.",
-   "insider": "Baker John D. III",
-   "role": "CEO",
-   "date": "2026-08-07",
-   "shares": 6800.0,
-   "price": 21.91,
-   "value": 148988.0,
-   "acc": "0000897069-26-001606",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 10000.0,
-   "price": 16.46,
-   "value": 164600.0,
-   "acc": "0001166152-26-000010",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 10000.0,
-   "price": 16.72,
-   "value": 167200.0,
-   "acc": "0001166152-26-000010",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 2621.0,
-   "price": 66.62,
-   "value": 174611.02,
-   "acc": "0001505732-26-000106",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "SUNS",
-   "company": "Sunrise Realty Trust, Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Executive Chairman",
-   "date": "2026-08-07",
-   "shares": 23109.0,
-   "price": 7.73,
-   "value": 178632.57,
-   "acc": "0001628280-26-055710",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "OBK",
-   "company": "Origin Bancorp, Inc.",
-   "insider": "Jones Cecil W.",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 3700.0,
-   "price": 53.86,
-   "value": 199282.0,
-   "acc": "0002040255-26-000006",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "CC",
    "company": "Chemours Co",
@@ -3676,6 +3580,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "CRT",
+   "company": "CROSS TIMBERS ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 3087.0,
+   "price": 10.12,
+   "value": 31240.44,
+   "acc": "0001104659-26-097936",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "ALT",
    "company": "Altimmune, Inc.",
    "insider": "Durso Jerome Benedict",
@@ -3736,6 +3652,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "RWAY",
+   "company": "Runway Growth Finance Corp.",
+   "insider": "Thomson Carmela",
+   "role": "CFO, Treasurer and Secretary",
+   "date": "2026-08-13",
+   "shares": 8000.0,
+   "price": 6.9679,
+   "value": 55743.2,
+   "acc": "0001104659-26-097933",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -3770,6 +3698,18 @@
    "value": 79500.0,
    "acc": "0001976684-26-000011",
    "filed": "2026-08-13"
+  },
+  {
+   "ticker": "GAIA",
+   "company": "GAIA, INC",
+   "insider": "Sutherland Paul Howard",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 70750.0,
+   "price": 1.2166,
+   "value": 86074.45,
+   "acc": "0001193125-26-354277",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "CODI",
@@ -3974,6 +3914,18 @@
    "value": 501637.5,
    "acc": "0001628280-26-056928",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "ANGX",
+   "company": "Angel Studios, Inc.",
+   "insider": "Harmon Jeffrey",
+   "role": "Chief Content Officer",
+   "date": "2026-08-13",
+   "shares": 178700.0,
+   "price": 4.0828,
+   "value": 729596.36,
+   "acc": "0001865200-26-000080",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "MLAB",
@@ -4528,6 +4480,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "CRT",
+   "company": "CROSS TIMBERS ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 9609.0,
+   "price": 10.44,
+   "value": 100317.96,
+   "acc": "0001104659-26-097936",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "NRGV",
    "company": "Energy Vault Holdings, Inc.",
    "insider": "Hixon Dylan",
@@ -4537,6 +4501,18 @@
    "price": 3.75,
    "value": 119490.0,
    "acc": "0001828536-26-000103",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "ANGX",
+   "company": "Angel Studios, Inc.",
+   "insider": "Harmon Neal",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-14",
+   "shares": 29193.1,
+   "price": 4.282,
+   "value": 125004.85,
+   "acc": "0001865200-26-000081",
    "filed": "2026-08-17"
   },
   {
@@ -4561,6 +4537,18 @@
    "price": 15.13,
    "value": 151300.0,
    "acc": "0001628280-26-057376",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "ANGX",
+   "company": "Angel Studios, Inc.",
+   "insider": "Harmon Jeffrey",
+   "role": "Chief Content Officer",
+   "date": "2026-08-14",
+   "shares": 51380.0,
+   "price": 4.2646,
+   "value": 219115.15,
+   "acc": "0001865200-26-000080",
    "filed": "2026-08-17"
   },
   {
@@ -4597,6 +4585,18 @@
    "price": 4.75,
    "value": 237500.0,
    "acc": "0001829126-26-008923",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "ANGX",
+   "company": "Angel Studios, Inc.",
+   "insider": "Sarowitz Steven I",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 57922.0,
+   "price": 4.261,
+   "value": 246805.64,
+   "acc": "0001865200-26-000079",
    "filed": "2026-08-17"
   },
   {
@@ -4860,19 +4860,19 @@
    "total_value": 3700379.73
   },
   {
+   "ticker": "ANGX",
+   "insiders": 3,
+   "total_value": 2801122.83
+  },
+  {
    "ticker": "XRN",
    "insiders": 3,
    "total_value": 2542509.0
   },
   {
-   "ticker": "ANGX",
-   "insiders": 2,
-   "total_value": 1480600.83
-  },
-  {
    "ticker": "AMRC",
    "insiders": 2,
-   "total_value": 1176199.0
+   "total_value": 1046449.0
   },
   {
    "ticker": "MTDR",
@@ -5032,15 +5032,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021134",
-  "0001918704-26-021135",
-  "0001918704-26-021136",
-  "0001918704-26-021137",
-  "0001918704-26-021138",
-  "0001918704-26-021139",
-  "0001918704-26-021140",
-  "0001918704-26-021141",
-  "0001918704-26-021142",
   "0001918704-26-021143",
   "0001918704-26-021144",
   "0001918704-26-021145",
@@ -6763,6 +6754,15 @@
   "0001918704-26-023939",
   "0001918704-26-023940",
   "0001918704-26-023941",
+  "0001918704-26-023942",
+  "0001918704-26-023943",
+  "0001918704-26-023944",
+  "0001918704-26-023945",
+  "0001918704-26-023946",
+  "0001918704-26-023947",
+  "0001918704-26-023948",
+  "0001918704-26-023949",
+  "0001918704-26-023950",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
