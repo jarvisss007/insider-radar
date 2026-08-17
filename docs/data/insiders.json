@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-17 11:22 UTC",
+ "updated_utc": "2026-08-17 11:38 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yoo Chue-San",
-   "role": "VP",
-   "date": "2026-08-07",
-   "shares": 51.0,
-   "price": 73.31,
-   "value": 3738.81,
-   "acc": "0001046179-26-000529",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4665,6 +4653,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "RICK",
+   "company": "RCI HOSPITALITY HOLDINGS, INC.",
+   "insider": "LANGAN ERIC SCOTT",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 1630.0,
+   "price": 30.8,
+   "value": 50204.0,
+   "acc": "0001628280-26-057220",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "PAL",
    "company": "Proficient Auto Logistics, Inc",
    "insider": "Lal Rohit",
@@ -4980,9 +4980,14 @@
    "total_value": 115580.0
   },
   {
+   "ticker": "RICK",
+   "insiders": 2,
+   "total_value": 74437.43
+  },
+  {
    "ticker": "TSM",
-   "insiders": 15,
-   "total_value": 70964.08
+   "insiders": 14,
+   "total_value": 67225.27
   },
   {
    "ticker": "FEMY",
