@@ -1,32 +1,6 @@
 {
- "updated_utc": "2026-08-18 00:02 UTC",
+ "updated_utc": "2026-08-18 00:17 UTC",
  "purchases": [
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "Chimovits Erez",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 273333.0,
-   "price": 18.0,
-   "value": 4919994.0,
-   "acc": "0000947871-26-000783",
-   "filed": "2026-08-11",
-   "placement": true
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 273333.0,
-   "price": 18.0,
-   "value": 4919994.0,
-   "acc": "0000947871-26-000782",
-   "filed": "2026-08-11",
-   "placement": true
-  },
   {
    "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
    "company": "Privacore VPC Asset Backed Credit Fund",
@@ -3448,6 +3422,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "DKL",
+   "company": "Delek Logistics Partners, LP",
+   "insider": "Soreq Avigal",
+   "role": "President",
+   "date": "2026-08-13",
+   "shares": 2500.0,
+   "price": 50.0,
+   "value": 125000.0,
+   "acc": "0001642080-26-000015",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "ANGX",
    "company": "Angel Studios, Inc.",
    "insider": "Harmon Neal",
@@ -3482,6 +3468,18 @@
    "value": 196097.04,
    "acc": "0001812477-26-000025",
    "filed": "2026-08-14"
+  },
+  {
+   "ticker": "DKL",
+   "company": "Delek Logistics Partners, LP",
+   "insider": "Hobbs Mark Wayne",
+   "role": "EVP",
+   "date": "2026-08-13",
+   "shares": 4000.0,
+   "price": 50.0,
+   "value": 200000.0,
+   "acc": "0002044248-26-000015",
+   "filed": "2026-08-17"
   },
   {
    "ticker": "PAL",
@@ -4826,7 +4824,7 @@
    "ticker": "BRVE",
    "insiders": 4,
    "total_value": 84600000.0,
-   "other_value": 69840000.0
+   "other_value": 60000012.0
   },
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
@@ -4905,6 +4903,11 @@
    "total_value": 838852.44
   },
   {
+   "ticker": "DKL",
+   "insiders": 5,
+   "total_value": 750000.0
+  },
+  {
    "ticker": "TNC",
    "insiders": 2,
    "total_value": 640990.0
@@ -4928,11 +4931,6 @@
    "ticker": "BTDR",
    "insiders": 2,
    "total_value": 447000.0
-  },
-  {
-   "ticker": "DKL",
-   "insiders": 3,
-   "total_value": 425000.0
   },
   {
    "ticker": "FOCL",
@@ -5048,9 +5046,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021159",
-  "0001918704-26-021160",
-  "0001918704-26-021161",
   "0001918704-26-021162",
   "0001918704-26-021163",
   "0001918704-26-021164",
@@ -7489,6 +7484,7 @@
   "0002018274-26-000003",
   "0002018307-26-000005",
   "0002018324-26-000005",
+  "0002018350-26-000005",
   "0002018394-26-000005",
   "0002018689-26-000007",
   "0002019046-26-000003",
@@ -7596,8 +7592,10 @@
   "0002043506-26-000005",
   "0002043764-26-000006",
   "0002043885-26-000006",
+  "0002044248-26-000015",
   "0002044800-26-000006",
   "0002045034-26-000003",
+  "0002045034-26-000005",
   "0002045458-26-000033",
   "0002045458-26-000035",
   "0002045458-26-000037",
