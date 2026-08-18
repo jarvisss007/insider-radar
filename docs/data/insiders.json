@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-18 17:59 UTC",
+ "updated_utc": "2026-08-18 18:47 UTC",
  "purchases": [
-  {
-   "ticker": "NNOX",
-   "company": "Nano-X Imaging Ltd.",
-   "insider": "Meltzer Erez",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-10",
-   "shares": 9443.0,
-   "price": 1.03,
-   "value": 9726.29,
-   "acc": "0001213900-26-087547",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Corso Matte Ana Silvia",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 1100.0,
-   "price": 9.86,
-   "value": 10846.0,
-   "acc": "0001213900-26-088099",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "BLSM",
    "company": "BlossomHill Therapeutics, Inc.",
@@ -4815,6 +4791,30 @@
    "value": 42060.0,
    "acc": "0001713730-26-000009",
    "filed": "2026-08-18"
+  },
+  {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "Heshmatpour Amir F",
+   "role": "CEO, President",
+   "date": "2026-08-18",
+   "shares": 9000.0,
+   "price": 5.54,
+   "value": 49860.0,
+   "acc": "0001213900-26-091150",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "ABCL",
+   "company": "AbCellera Biologics Inc.",
+   "insider": "Montalbano John S.",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 10000.0,
+   "price": 11.03,
+   "value": 110300.0,
+   "acc": "0001834423-26-000008",
+   "filed": "2026-08-18"
   }
  ],
  "clusters": [
@@ -4880,6 +4880,11 @@
    "total_value": 1018495.32
   },
   {
+   "ticker": "ABCL",
+   "insiders": 3,
+   "total_value": 975237.19
+  },
+  {
    "ticker": "AMRZ",
    "insiders": 6,
    "total_value": 956621.64
@@ -4888,11 +4893,6 @@
    "ticker": "MLAB",
    "insiders": 2,
    "total_value": 902411.4
-  },
-  {
-   "ticker": "ABCL",
-   "insiders": 2,
-   "total_value": 864937.19
   },
   {
    "ticker": "REZI",
@@ -5043,10 +5043,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021294",
-  "0001918704-26-021295",
-  "0001918704-26-021296",
-  "0001918704-26-021297",
   "0001918704-26-021298",
   "0001918704-26-021299",
   "0001918704-26-021300",
@@ -6734,6 +6730,10 @@
   "0001918704-26-024070",
   "0001918704-26-024071",
   "0001918704-26-024072",
+  "0001918704-26-024073",
+  "0001918704-26-024074",
+  "0001918704-26-024075",
+  "0001918704-26-024076",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
