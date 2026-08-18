@@ -1,0 +1,115 @@
+{
+  "as_of": "2026-08-18",
+  "note": "Hand-curated editorial dataset — NOT machine-collected like insiders.json. Every number is sourced in research/IPO_ANALYSIS_2026.md; update this file by hand when the picture changes.",
+  "market_2026": {
+    "proceeds_ytd": "$251B",
+    "deals_ytd": 86,
+    "through": "late July 2026",
+    "avg_gain_large_deals": "+20% avg for IPOs raising >$50M, through Jun 30",
+    "context": "Strongest IPO market since 2021. SpaceX alone is roughly a third of all US IPO proceeds this year — the boom is concentrated in mega-deals, not broad."
+  },
+  "class_2026": [
+    {
+      "company": "SpaceX",
+      "ticker": "SPCX",
+      "ipo_date": "2026-06-12",
+      "offer": 135.0,
+      "raised": "$75B — largest IPO in history",
+      "day1": "+19% (closed $160.95; intraday >+30%, briefly >$2.25T)",
+      "latest": "≈$140 on Aug 17 — +3.7% vs offer, −13% vs day-1 close; ~$1.85T market cap",
+      "note": "Dipped below the $135 offer price in July–Aug, reclaimed it Aug 10. Anyone who bought the day-one close is underwater."
+    },
+    {
+      "company": "Cerebras",
+      "ticker": "CBRS",
+      "ipo_date": "2026-05-14",
+      "offer": 185.0,
+      "raised": "$5.55B",
+      "day1": "+108% (opened $385; priced far above the original $115–125 range)",
+      "latest": "~$46B market cap (vs ~$23B private mark in early 2026)",
+      "note": "First big tech IPO of 2026; the debut that reopened the window. Classic pop = classic money-left-on-the-table."
+    }
+  ],
+  "pipeline": [
+    {
+      "company": "Anthropic",
+      "status": "Confidential draft S-1 submitted to the SEC on 2026-06-01 (confirmed by the company itself).",
+      "valuation": "$965B post-money (Series H, May 2026: raised $65B)",
+      "watch": "Forecasters' median: lists ~Nov 30, 2026; prediction markets ~76% odds of listing by Dec 31, 2026. NOTHING is set: no price, share count, ticker, exchange, or date. A confidential S-1 is an option, not a commitment.",
+      "flag": "conflict-of-interest note: this page was drafted by Claude, an Anthropic model — apply extra skepticism to anything here that sounds favorable."
+    },
+    {
+      "company": "OpenAI",
+      "status": "Confidential S-1 reportedly filed ~May 22–Jun 8, 2026 (CNBC). Was targeting Sept 2026 at $1T+; Reuters later reported it may wait until 2027.",
+      "valuation": "~$1T+ target (reported)",
+      "watch": "Timeline in flux. Goldman Sachs and Morgan Stanley reportedly on the paperwork."
+    },
+    {
+      "company": "Databricks",
+      "status": "No filing. CEO called 2026 'a terrible year to go public' — not a bad market, a crowded queue.",
+      "valuation": "long-rumored candidate",
+      "watch": "2027 candidate."
+    },
+    {
+      "company": "Revolut",
+      "status": "No filing. Reports conflict wildly on valuation ($45B to $150B+ depending on source and structure) — treat all of them as rumor.",
+      "valuation": "disputed",
+      "watch": "UK banking license secured; listing venue still an open question."
+    },
+    {
+      "company": "Anduril",
+      "status": "No filing. ~$28B private mark; 2025 revenue ~$2.2B (doubled); $20B US Army counter-drone award in March.",
+      "valuation": "~$28B",
+      "watch": "Defense-tech bellwether if it files."
+    },
+    {
+      "company": "Shein",
+      "status": "London listing long pending; regulatory limbo.",
+      "valuation": "~$66B (reported)",
+      "watch": "Slow-moving."
+    }
+  ],
+  "dotcom": {
+    "stats": [
+      { "n": "476", "l": "US IPOs in 1999 alone" },
+      { "n": "+71%", "l": "avg FIRST-DAY return, 1999 (vs ~15% in the pre-bubble 90s)" },
+      { "n": "−78%", "l": "Nasdaq peak (5,048, Mar 10 2000) to trough (Oct 2002)" },
+      { "n": "~$65B", "l": "'money left on the table' by issuers, 1999–2000" },
+      { "n": "~80", "l": "US IPOs in 2001 — the window slammed shut" }
+    ],
+    "deals": [
+      { "company": "Netscape", "date": "Aug 1995", "offer": "$28", "day1": "+108%", "fate": "The starting gun of the era. Acquired by AOL in 1999.", "outcome": "mixed" },
+      { "company": "Amazon", "date": "May 1997", "offer": "$18", "day1": "+31%", "fate": "Survivor. Fell ~95% in 2000–01, then compounded into one of the best stocks ever. Holding through was the trade — and almost nobody did.", "outcome": "win" },
+      { "company": "eBay", "date": "Sep 1998", "offer": "$18", "day1": "+163%", "fate": "Survivor — real unit economics from day one.", "outcome": "win" },
+      { "company": "theglobe.com", "date": "Nov 1998", "offer": "$9", "day1": "+606%", "fate": "Then-record pop. Delisted 2001, effectively zero.", "outcome": "zero" },
+      { "company": "Priceline", "date": "Mar 1999", "offer": "$16", "day1": "+331%", "fate": "Fell ~99% in the crash — then survived and became Booking Holdings. A 99% loss that was still, eventually, a win.", "outcome": "mixed" },
+      { "company": "eToys", "date": "May 1999", "offer": "$20", "day1": "+283%", "fate": "Bankrupt 2001.", "outcome": "zero" },
+      { "company": "Webvan", "date": "Nov 1999", "offer": "$15", "day1": "+65%", "fate": "~$8B valued at debut; bankrupt Jul 2001 after burning >$800M. The idea (grocery delivery) was right — 20 years early.", "outcome": "zero" },
+      { "company": "VA Linux", "date": "Dec 1999", "offer": "$30", "day1": "+698%", "fate": "All-time record first-day pop. Down >90% within a year.", "outcome": "zero" },
+      { "company": "Pets.com", "date": "Feb 2000", "offer": "$11", "day1": "+27%", "fate": "Liquidated Nov 2000 — 268 days from IPO to shutdown.", "outcome": "zero" },
+      { "company": "Palm", "date": "Mar 2000", "offer": "$38", "day1": "+150%", "fate": "Briefly worth more than its parent 3Com's entire stake implied — an arithmetic impossibility the market shrugged at. Top-ticked the bubble almost to the day.", "outcome": "zero" }
+    ],
+    "lessons": [
+      "The first-day pop is a cost, not a gift: retail buys at the close, which is historically the single worst systematic entry.",
+      "Survivorship is brutal and unpredictable in real time: Amazon and Pets.com looked like the same bet in 1999. Both fell >90% or died; only one came back.",
+      "Narrative eras produce clustered IPOs, and clustered IPOs produce clustered wreckage — the 2000-01 vintage underperformed for years.",
+      "The window closes fast: 476 IPOs in 1999, ~80 in 2001. Companies that waited for a better price got no price.",
+      "Even the era's TRUE story (the internet changes everything) didn't save buyers who paid any price for it. Being right about the technology is not the same trade as being right about the stock."
+    ]
+  },
+  "base_rates": [
+    { "n": "+10.4%", "l": "MEAN 1-yr return from day-1 close, last 30 yrs of US IPOs" },
+    { "n": "−4.7%", "l": "MEDIAN 1-yr return from day-1 close — the average is carried by a few huge winners" },
+    { "n": "−2 to −3%/yr", "l": "avg 3-yr underperformance vs comparable stocks (Ritter, 1980–present)" },
+    { "n": "~180 days", "l": "typical lockup — insider supply hits ~6 months after listing" }
+  ],
+  "spacex_outlook": {
+    "position": "≈$140 (Aug 17) vs $135 offer; ~$1.85T market cap; 12-mo sell-side avg target ~$227 (treat sell-side targets on a 2-month-old mega-IPO with heavy skepticism — most raters were underwriters).",
+    "scenarios": [
+      { "name": "Bull", "text": "Starlink subscriber growth compounds, Starship reaches operational cadence, index inclusion (already in Nasdaq-100) forces passive buying, and the scarcity premium of THE space asset holds. Sell-side path: $200+." },
+      { "name": "Base", "text": "Base rates apply: median mega-IPO chops around its offer price for quarters. At ~$1.85T the market already prices decades of execution; revenue (~mid-tens of $B) implies a multiple where good news is expected, not rewarding. Lockup expiry ~Dec 2026 adds supply. Range-bound $110–170." },
+      { "name": "Bear", "text": "Any Starship setback, Starlink competition (Kuiper), key-person/political volatility around Musk, or a broader AI/space sentiment unwind. The July slide below offer showed how little floor there is. $100 or below revisits the post-IPO low." }
+    ]
+  },
+  "sources_note": "Full source list with URLs in research/IPO_ANALYSIS_2026.md (repo)."
+}

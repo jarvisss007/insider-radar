@@ -1,0 +1,156 @@
+<meta charset="utf-8">
+<title>IPO Radar — pipeline, history, honest odds</title>
+<style>
+  :root{
+    --bg:#0b0e14; --panel:#131824; --panel2:#0f1420; --line:#212838;
+    --txt:#e6edf3; --dim:#8b98a9; --dimmer:#5a6675; --accent:#f0b90b;
+    --up:#0ecb81; --down:#f6465d; --blue:#58a6ff;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font:13.5px/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  header{padding:16px 22px 10px;border-bottom:1px solid var(--line);background:var(--panel2);
+    display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+  h1{font-size:15px;margin:0;letter-spacing:.5px}
+  h1 span{color:var(--accent)}
+  header a{color:var(--blue);font-size:11.5px;text-decoration:none;margin-left:auto}
+  .wrap{max-width:1080px;margin:0 auto;padding:16px 22px 30px}
+  h2{font-size:11px;text-transform:uppercase;letter-spacing:1.1px;color:var(--dim);
+     margin:26px 0 10px;font-weight:600}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:11px 14px}
+  .stat .n{font-size:19px;font-weight:700;color:var(--accent)}
+  .stat .l{font-size:10px;color:var(--dim);text-transform:uppercase;letter-spacing:.5px;margin-top:2px}
+  table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+  th{font-size:10px;text-transform:uppercase;letter-spacing:.6px;color:var(--dim);
+     text-align:left;padding:7px 10px;border-bottom:1px solid var(--line)}
+  td{padding:7px 10px;border-bottom:1px solid #191f2c;font-size:12.5px;vertical-align:top}
+  tr:hover td{background:rgba(255,255,255,.02)}
+  td.tick{color:var(--up);font-weight:700;white-space:nowrap}
+  td.num{text-align:right;font-weight:600;white-space:nowrap}
+  .zero{color:var(--down)} .win{color:var(--up)} .mixed{color:var(--accent)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:13px 16px;margin-top:10px}
+  .card b.name{color:var(--txt);font-size:13.5px}
+  .card .sub{color:var(--dim);font-size:12px;margin-top:4px;line-height:1.55}
+  .badge{display:inline-block;font-size:10px;text-transform:uppercase;letter-spacing:.5px;
+    border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
+  .b-filed{background:rgba(14,203,129,.12);border:1px solid rgba(14,203,129,.4);color:var(--up)}
+  .b-rumor{background:rgba(240,185,11,.1);border:1px solid rgba(240,185,11,.35);color:var(--accent)}
+  .b-listed{background:rgba(88,166,255,.12);border:1px solid rgba(88,166,255,.4);color:var(--blue)}
+  .note{margin-top:14px;padding:12px 16px;border-radius:10px;background:rgba(240,185,11,.06);
+    border:1px solid rgba(240,185,11,.25);color:var(--dim);font-size:12px;line-height:1.6}
+  .note b{color:var(--accent)}
+  .warn{background:rgba(246,70,93,.06);border-color:rgba(246,70,93,.3)}
+  .warn b{color:var(--down)}
+  .scen{border-left:3px solid var(--line);padding:6px 12px;margin:8px 0}
+  .scen.bull{border-color:var(--up)} .scen.base{border-color:var(--accent)} .scen.bear{border-color:var(--down)}
+  .scen b{font-size:11px;text-transform:uppercase;letter-spacing:.6px}
+  .scen.bull b{color:var(--up)} .scen.base b{color:var(--accent)} .scen.bear b{color:var(--down)}
+  .scen div{color:var(--dim);font-size:12px;margin-top:2px}
+  ul.lessons{margin:6px 0 0;padding-left:18px;color:var(--dim);font-size:12.5px;line-height:1.7}
+  ul.lessons li::marker{color:var(--accent)}
+</style>
+
+<header>
+  <h1>IPO <span>RADAR</span> — pipeline, history, honest odds</h1>
+  <a href="index.html">← insider radar</a>
+</header>
+
+<div class="wrap">
+
+  <h2>The 2026 IPO market, right now</h2>
+  <div class="stats" id="mkt"></div>
+  <div class="note" id="mktnote"></div>
+
+  <h2>Class of 2026 — scoreboard (listed)</h2>
+  <div id="class26"></div>
+
+  <h2>The pipeline — who's next</h2>
+  <div id="pipeline"></div>
+  <div class="note warn" id="coi"></div>
+
+  <h2>SpaceX (SPCX) — the mega-IPO, two months in</h2>
+  <div class="card" id="spacex"></div>
+
+  <h2>History lesson — the dot-com IPO era, 1995–2002</h2>
+  <div class="stats" id="dstats"></div>
+  <table style="margin-top:12px">
+    <thead><tr><th>Company</th><th>IPO</th><th style="text-align:right">Offer</th>
+      <th style="text-align:right">Day 1</th><th>What actually happened</th></tr></thead>
+    <tbody id="drows"></tbody>
+  </table>
+  <div class="card"><b class="name" style="color:var(--accent)">What the era teaches</b>
+    <ul class="lessons" id="dlessons"></ul></div>
+
+  <h2>Base rates — what IPOs do on average (the boring truth)</h2>
+  <div class="stats" id="rates"></div>
+  <div class="note">
+    <b>How to read this.</b> The mean is positive and the median is negative: a handful of
+    huge winners drag the average up while the typical IPO loses money in year one from the
+    day-1 close. Buying the close of a hot debut is, systematically, the worst entry in the
+    dataset. If there is an edge anywhere in IPOs, the literature puts it in <i>getting
+    allocations at the offer price</i> — which retail almost never does — not in chasing
+    the open.
+  </div>
+
+  <div class="note">
+    <b>House rule applies here too.</b> This page states scenarios and base rates, not
+    predictions. No claim of edge without a scored ledger — same standard as the insider
+    feed. Educational only, not investment advice. Curated by hand; full sources in
+    <span style="color:var(--blue)">research/IPO_ANALYSIS_2026.md</span> in the repo.
+    <span id="asof"></span>
+  </div>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+async function load(){
+  let d;
+  try{d=await(await fetch('data/ipos.json?'+Date.now())).json();}
+  catch(e){$('mktnote').textContent='could not load data/ipos.json — open via the web server, not file://';return;}
+  $('asof').textContent='Data as of '+d.as_of+'.';
+
+  const m=d.market_2026;
+  $('mkt').innerHTML=`
+    <div class="stat"><div class="n">${esc(m.proceeds_ytd)}</div><div class="l">US IPO proceeds YTD (${esc(m.through)})</div></div>
+    <div class="stat"><div class="n">${m.deals_ytd}</div><div class="l">deals YTD</div></div>
+    <div class="stat"><div class="n">+20%</div><div class="l">${esc(m.avg_gain_large_deals.replace('+20% ',''))}</div></div>`;
+  $('mktnote').innerHTML='<b>Context.</b> '+esc(m.context);
+
+  $('class26').innerHTML=d.class_2026.map(c=>`
+    <div class="card"><b class="name">${esc(c.company)}</b>
+      <span class="badge b-listed">${esc(c.ticker)} · listed ${esc(c.ipo_date)}</span>
+      <div class="sub"><b style="color:var(--txt)">Offer:</b> $${c.offer} · <b style="color:var(--txt)">Raised:</b> ${esc(c.raised)}<br>
+      <b style="color:var(--txt)">Day 1:</b> ${esc(c.day1)}<br>
+      <b style="color:var(--txt)">Now:</b> ${esc(c.latest)}<br>${esc(c.note)}</div></div>`).join('');
+
+  $('pipeline').innerHTML=d.pipeline.map(p=>`
+    <div class="card"><b class="name">${esc(p.company)}</b>
+      <span class="badge ${/S-1/.test(p.status)?'b-filed':'b-rumor'}">${/S-1/.test(p.status)?'S-1 filed':'no filing'}</span>
+      <div class="sub"><b style="color:var(--txt)">Status:</b> ${esc(p.status)}<br>
+      <b style="color:var(--txt)">Valuation:</b> ${esc(p.valuation)}<br>
+      <b style="color:var(--txt)">Watch:</b> ${esc(p.watch)}</div></div>`).join('');
+  const anth=d.pipeline.find(p=>p.flag);
+  $('coi').innerHTML=anth?'<b>Disclosure.</b> '+esc(anth.flag):'';
+  if(!anth)$('coi').style.display='none';
+
+  const s=d.spacex_outlook;
+  $('spacex').innerHTML=`<b class="name">Where it stands</b>
+    <div class="sub">${esc(s.position)}</div>`+
+    s.scenarios.map(x=>`<div class="scen ${x.name.toLowerCase()}"><b>${esc(x.name)}</b><div>${esc(x.text)}</div></div>`).join('');
+
+  $('dstats').innerHTML=d.dotcom.stats.map(x=>
+    `<div class="stat"><div class="n">${esc(x.n)}</div><div class="l">${esc(x.l)}</div></div>`).join('');
+  $('drows').innerHTML=d.dotcom.deals.map(x=>`<tr>
+    <td class="tick ${x.outcome}">${esc(x.company)}</td><td>${esc(x.date)}</td>
+    <td class="num">${esc(x.offer)}</td><td class="num ${x.day1.startsWith('+')?'win':''}">${esc(x.day1)}</td>
+    <td style="color:var(--dim)">${esc(x.fate)}</td></tr>`).join('');
+  $('dlessons').innerHTML=d.dotcom.lessons.map(l=>`<li>${esc(l)}</li>`).join('');
+
+  $('rates').innerHTML=d.base_rates.map(x=>
+    `<div class="stat"><div class="n" style="color:${x.n.startsWith('−')?'var(--down)':'var(--up)'}">${esc(x.n)}</div><div class="l">${esc(x.l)}</div></div>`).join('');
+}
+load();
+</script>
