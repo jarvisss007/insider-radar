@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-18 12:28 UTC",
+ "updated_utc": "2026-08-18 12:44 UTC",
  "purchases": [
-  {
-   "ticker": "RRBI",
-   "company": "RED RIVER BANCSHARES INC",
-   "insider": "Price Teddy Ray",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 15.0,
-   "price": 101.31,
-   "value": 1519.65,
-   "acc": "0001770071-26-000010",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -3864,6 +3852,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Gould Gregory A",
+   "role": "CFO",
+   "date": "2026-08-14",
+   "shares": 10000.0,
+   "price": 2.45,
+   "value": 24500.0,
+   "acc": "0001683168-26-006545",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4996,8 +4996,8 @@
   },
   {
    "ticker": "ACON",
-   "insiders": 4,
-   "total_value": 85180.68
+   "insiders": 5,
+   "total_value": 109680.68
   },
   {
    "ticker": "CC",
@@ -5038,7 +5038,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021168",
   "0001918704-26-021169",
   "0001918704-26-021170",
   "0001918704-26-021171",
@@ -6745,6 +6744,7 @@
   "0001918704-26-023949",
   "0001918704-26-023950",
   "0001918704-26-023958",
+  "0001918704-26-023969",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
