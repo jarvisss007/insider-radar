@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-08-18 23:20 UTC",
+ "updated_utc": "2026-08-18 23:35 UTC",
  "purchases": [
-  {
-   "ticker": "SUNS",
-   "company": "Sunrise Realty Trust, Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Executive Chairman",
-   "date": "2026-08-10",
-   "shares": 25000.0,
-   "price": 7.79,
-   "value": 194750.0,
-   "acc": "0001628280-26-055710",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "CIA",
-   "company": "CITIZENS, INC.",
-   "insider": "Stenberg Jon",
-   "role": "President & CEO",
-   "date": "2026-08-10",
-   "shares": 50000.0,
-   "price": 3.9926,
-   "value": 199630.0,
-   "acc": "0002015793-26-000012",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "HUBS",
-   "company": "HUBSPOT INC",
-   "insider": "Dischler Gerald",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 925.0,
-   "price": 215.93,
-   "value": 199735.25,
-   "acc": "0001193125-26-342825",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 13072.0,
-   "price": 15.78,
-   "value": 206276.16,
-   "acc": "0001166152-26-000010",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "UTI",
-   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
-   "insider": "DEVINCENZI ROBERT THOMAS",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 8000.0,
-   "price": 28.2095,
-   "value": 225676.0,
-   "acc": "0001193125-26-347428",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "STRZ",
-   "company": "STARZ ENTERTAINMENT CORP /CN/",
-   "insider": "Hirsch Jeffrey",
-   "role": "President and CEO",
-   "date": "2026-08-10",
-   "shares": 10000.0,
-   "price": 24.8,
-   "value": 248000.0,
-   "acc": "0001647660-26-000017",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "BCML",
-   "company": "BayCom Corp",
-   "insider": "Baron Christopher F",
-   "role": "President and CEO",
-   "date": "2026-08-10",
-   "shares": 8250.0,
-   "price": 30.39,
-   "value": 250717.5,
-   "acc": "0001437749-26-026919",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 16928.0,
-   "price": 15.8,
-   "value": 267462.4,
-   "acc": "0001166152-26-000010",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "ACDC",
    "company": "ProFrac Holding Corp.",
@@ -3286,6 +3190,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 3073.0,
+   "price": 7.11,
+   "value": 21849.03,
+   "acc": "0000912282-26-001130",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "EDAP",
    "company": "EDAP TMS SA",
    "insider": "Mobeck Kenneth S.",
@@ -3331,6 +3247,18 @@
    "price": 2.45,
    "value": 24500.0,
    "acc": "0001683168-26-006545",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 4090.0,
+   "price": 6.35,
+   "value": 25971.5,
+   "acc": "0000912282-26-001130",
    "filed": "2026-08-18"
   },
   {
@@ -3586,6 +3514,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 11927.0,
+   "price": 6.55,
+   "value": 78121.85,
+   "acc": "0000912282-26-001130",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "STLN",
    "company": "Starling Oncology, Inc.",
    "insider": "Chernett Jorey",
@@ -3704,6 +3644,18 @@
    "value": 125004.85,
    "acc": "0001865200-26-000081",
    "filed": "2026-08-17"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 20000.0,
+   "price": 6.83,
+   "value": 136600.0,
+   "acc": "0000912282-26-001130",
+   "filed": "2026-08-18"
   },
   {
    "ticker": "OPFI",
@@ -4251,6 +4203,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 100.0,
+   "price": 7.11,
+   "value": 711.0,
+   "acc": "0000912282-26-001130",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
    "insider": "Hansen Kent A",
@@ -4308,6 +4272,18 @@
    "price": 3.13,
    "value": 3130.0,
    "acc": "0001628280-26-057771",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 500.0,
+   "price": 6.91,
+   "value": 3455.0,
+   "acc": "0000912282-26-001130",
    "filed": "2026-08-18"
   },
   {
@@ -4563,6 +4539,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 14000.0,
+   "price": 7.19,
+   "value": 100660.0,
+   "acc": "0000912282-26-001130",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "NRGV",
    "company": "Energy Vault Holdings, Inc.",
    "insider": "Hixon Dylan",
@@ -4791,6 +4779,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 16000.0,
+   "price": 6.73,
+   "value": 107680.0,
+   "acc": "0000912282-26-001130",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Montalbano John S.",
@@ -4938,11 +4938,6 @@
    "total_value": 272980.0
   },
   {
-   "ticker": "CIA",
-   "insiders": 2,
-   "total_value": 264015.28
-  },
-  {
    "ticker": "KMPR",
    "insiders": 4,
    "total_value": 238330.0
@@ -5003,6 +4998,11 @@
    "total_value": 74437.43
   },
   {
+   "ticker": "CIA",
+   "insiders": 2,
+   "total_value": 64385.28
+  },
+  {
    "ticker": "RWAY",
    "insiders": 2,
    "total_value": 62632.3
@@ -5051,11 +5051,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021467",
-  "0001918704-26-021468",
-  "0001918704-26-021469",
-  "0001918704-26-021470",
-  "0001918704-26-021471",
   "0001918704-26-021472",
   "0001918704-26-021473",
   "0001918704-26-021474",
@@ -7432,8 +7427,10 @@
   "0002018307-26-000005",
   "0002018324-26-000005",
   "0002018350-26-000005",
+  "0002018385-26-000005",
   "0002018394-26-000005",
   "0002018689-26-000007",
+  "0002018997-26-000006",
   "0002019046-26-000003",
   "0002019143-26-000017",
   "0002019295-26-000010",
@@ -7704,6 +7701,7 @@
   "0002070849-26-000062",
   "0002070858-26-000012",
   "0002071761-26-000009",
+  "0002071761-26-000010",
   "0002071844-26-000880",
   "0002071844-26-000883",
   "0002071844-26-000901",
@@ -7759,6 +7757,7 @@
   "0002073865-26-000005",
   "0002074644-26-000006",
   "0002074666-26-000006",
+  "0002074795-26-000005",
   "0002074844-26-000012",
   "0002074886-26-000006",
   "0002074905-26-000006",
@@ -7908,6 +7907,7 @@
   "0002111465-26-000004",
   "0002111466-26-000004",
   "0002111867-26-000011",
+  "0002111867-26-000012",
   "0002112008-26-000011",
   "0002112189-26-000013",
   "0002113531-26-000004",
