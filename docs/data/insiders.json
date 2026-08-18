@@ -1,55 +1,6 @@
 {
- "updated_utc": "2026-08-18 01:20 UTC",
+ "updated_utc": "2026-08-18 02:07 UTC",
  "purchases": [
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 1666667.0,
-   "price": 18.0,
-   "value": 30000006.0,
-   "acc": "0000947871-26-000782",
-   "filed": "2026-08-11",
-   "placement": true
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 1680000.0,
-   "price": 18.0,
-   "value": 30240000.0,
-   "acc": "0001193125-26-340528",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 1920000.0,
-   "price": 18.0,
-   "value": 34560000.0,
-   "acc": "0001193125-26-340528",
-   "filed": "2026-08-07"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-08-10",
-   "shares": 500.0,
-   "price": 0.62,
-   "value": 310.0,
-   "acc": "0001213900-26-089449",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -3529,6 +3480,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "MOBI",
+   "company": "Mobia Medical, Inc.",
+   "insider": "Tansey Casey M",
+   "role": "Director",
+   "date": "2026-08-13",
+   "shares": 35572.0,
+   "price": 11.5073,
+   "value": 409337.68,
+   "acc": "0001193125-26-354538",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -3718,6 +3681,18 @@
    "price": 1.21,
    "value": 1210.0,
    "acc": "0001628280-26-057423",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "MOBI",
+   "company": "Mobia Medical, Inc.",
+   "insider": "Tansey Casey M",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 100.0,
+   "price": 12.53,
+   "value": 1253.0,
+   "acc": "0001193125-26-354538",
    "filed": "2026-08-17"
   },
   {
@@ -4246,6 +4221,18 @@
    "price": 15.13,
    "value": 151300.0,
    "acc": "0001628280-26-057376",
+   "filed": "2026-08-17"
+  },
+  {
+   "ticker": "MOBI",
+   "company": "Mobia Medical, Inc.",
+   "insider": "Tansey Casey M",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 15721.0,
+   "price": 11.65,
+   "value": 183149.65,
+   "acc": "0001193125-26-354538",
    "filed": "2026-08-17"
   },
   {
@@ -4782,6 +4769,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "MOBI",
+   "company": "Mobia Medical, Inc.",
+   "insider": "Tansey Casey M",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 17166.0,
+   "price": 11.8509,
+   "value": 203432.55,
+   "acc": "0001193125-26-354538",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "LWAY",
    "company": "Lifeway Foods, Inc.",
    "insider": "Divisadero Street Capital Management, LP",
@@ -4819,12 +4818,6 @@
   }
  ],
  "clusters": [
-  {
-   "ticker": "BRVE",
-   "insiders": 2,
-   "total_value": 64800000.0,
-   "other_value": 30000006.0
-  },
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
    "insiders": 4,
@@ -5045,7 +5038,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021164",
   "0001918704-26-021165",
   "0001918704-26-021166",
   "0001918704-26-021167",
@@ -7667,6 +7659,7 @@
   "0002059447-26-000004",
   "0002060000-26-000002",
   "0002060030-26-000010",
+  "0002060030-26-000012",
   "0002060697-26-000012",
   "0002060774-26-000013",
   "0002061058-26-000005",
