@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-18 19:35 UTC",
+ "updated_utc": "2026-08-18 19:51 UTC",
  "purchases": [
-  {
-   "ticker": "AMRC",
-   "company": "Ameresco, Inc.",
-   "insider": "Sakellaris George P",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-10",
-   "shares": 1000.0,
-   "price": 25.27,
-   "value": 25270.0,
-   "acc": "0001628280-26-055891",
-   "filed": "2026-08-11"
-  },
   {
    "ticker": "STRZ",
    "company": "STARZ ENTERTAINMENT CORP /CN/",
@@ -4517,6 +4505,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "RVSB",
+   "company": "RIVERVIEW BANCORP INC",
+   "insider": "Lam David",
+   "role": "EVP/CFO",
+   "date": "2026-08-17",
+   "shares": 1000.0,
+   "price": 5.17,
+   "value": 5170.0,
+   "acc": "0001713974-26-000002",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "SNBH",
    "company": "SENTIENT BRANDS HOLDINGS INC.",
    "insider": "Knazev Sergei",
@@ -4872,7 +4872,7 @@
   {
    "ticker": "AMRC",
    "insiders": 2,
-   "total_value": 1046449.0
+   "total_value": 1021179.0
   },
   {
    "ticker": "MTDR",
@@ -5035,6 +5035,11 @@
    "total_value": 8321.0
   },
   {
+   "ticker": "RVSB",
+   "insiders": 2,
+   "total_value": 6497.25
+  },
+  {
    "ticker": "PNAQ",
    "insiders": 6,
    "total_value": 0,
@@ -5048,9 +5053,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021355",
-  "0001918704-26-021356",
-  "0001918704-26-021357",
   "0001918704-26-021358",
   "0001918704-26-021359",
   "0001918704-26-021360",
@@ -6735,6 +6737,9 @@
   "0001918704-26-024126",
   "0001918704-26-024127",
   "0001918704-26-024128",
+  "0001918704-26-024129",
+  "0001918704-26-024130",
+  "0001918704-26-024131",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
