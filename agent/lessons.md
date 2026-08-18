@@ -441,3 +441,68 @@ No lesson is claimed from the attribution table today: it rebuilt clean (76 call
 with vintage features, 0 unrecoverable) but reports **0 scored**, so every feature
 column sits against an empty outcome. n too small — written exactly that way, per the
 attribution rule. The first real reading of it is tomorrow.
+
+## 2026-08-18 [insider]
+
+NOTHING SCORED TODAY — and for once that is the correct state, not the failure it
+was last week. The seven 07-17 rows that INS-009 was opened for (NTSK, IPX, ELV,
+BUKS, GABC, INM, YORW) were graded on 2026-08-17: 5 right, 2 wrong. The next ledger
+row does not come due until 2026-09-02 (XAIR). No forecast row is due until 08-19
+(FUNC). Overdue check: zero pending rows anywhere in this lab with check_date on or
+before today.
+
+THE FIRST RESULT IS ONE DAY WIDE AND EVERY STRATUM IN THE ATTRIBUTION TABLE SAYS SO.
+`attribution.py` now joins 85 calls, 7 scored, and every single stratum line reads
+`dates=1`:
+
+    big cluster (>= $5M)      n=1  dates=1  hit 100%  avg +12.2%
+    small cluster (< $5M)     n=6  dates=1  hit  67%  avg  +1.9%
+    CEO buying                n=3  dates=1  hit 100%  avg  +5.6%
+    directors only            n=5  dates=1  hit  60%  avg  +2.3%
+    3+ insiders               n=2  dates=1  hit 100%  avg  +5.0%
+    bought the run-up (>10%)  n=3  dates=1  hit  67%  avg  +4.3%
+
+Three "100%" lines sit in that table and not one of them is a finding. All seven
+calls were entered on 2026-07-17 and all seven checked on 2026-08-16, so the whole
+book resolved into a single 30-day window of a single market. n counts rows; dates
+is the honest denominator, and the honest denominator here is ONE. Per the standing
+rule the lesson is written exactly this way: **n too small.** "CEO buying wins 100%"
+is three rows from one morning, and anyone who quotes it is quoting the weather on
+2026-08-16.
+
+Strata, never blended (floor $100k): headline 63 logged / 5 scored / 80%; sub-floor
+16 logged / 2 scored / 50%; unknown 1 logged / 0 scored. Both scored figures are on
+one entry day. The 80% is not evidence for the cluster hypothesis and the collector
+said so itself today, re-running the event study on 870 events (669 mature) and
+reaching the same verdict as REGISTRY.md: no significant edge at any horizon, all
+week-clustered |t| < 2.67, the naive +3.13 collapsing to +1.14 once the 870 events
+are treated as the ~54 weeks they actually span.
+
+NINE NEW CLUSTERS LOGGED, and from today every thesis carries its own prior in the
+row (directive 2026-08-17): `[insider] N insiders bought $X.XXM; prior 669ev -0.010%
+med, 49.6% win`. The row is now gradeable against the base rate without opening
+REGISTRY.md. Logged: CDNL ($8.25M, 6), MLAB ($0.90M), DKL ($0.75M), KEEL ($0.30M),
+CHCT ($0.27M), CE ($0.13M) — headline; MXF ($0.078M), HGBL ($0.077M) — sub-floor;
+APLM — unknown. All nine priced, all nine `stale_quote=no`.
+
+APLM NEEDS A HUMAN EYE AND IS FLAGGED, NOT SILENTLY BINNED. The feed reports its
+3-insider cluster with `total_value = 0`, which is what PNAQ reported before it was
+excluded as non-open-market. APLM differs in one respect only: it is priceable, so
+INS-007 does not bar it. Per INS-002 a size that will not parse reports as
+**unknown**, never as sub-floor — it must not be sorted into the small bucket where
+a data gap would masquerade as a deliberate small purchase. It is also up +38% in
+two sessions (17.37 -> 23.40 -> 24.00), so if that $0 is an award or conversion
+rather than an open-market buy, this row is testing the wrong thing entirely.
+
+Excluded again today, unchanged: HPS REAL ASSETS (CIK 2089975, $11M, 4 insiders —
+7 sessions on the exclusion register now, the largest cluster this lab has never
+been able to price), PNAQ, EDAP. EDAP still looks like a symbol-mapping failure
+against a real listing (EDAP TMS ADR) rather than an unlisted entity, and it has now
+been unfetchable on two consecutive days. That hand check is still owed.
+
+Today's forecast is CDNL, p=**0.50 exactly**, and a BELOW shape. The 0.50 is the
+honest number, not a shrug: this lab's own pre-registered verdict is that clusters
+carry no edge, so it has no view to express on a cluster-driven question and saying
+so is real information. The below shape is a deliberate correction — 8 of the 11
+prior rows were "closes above", the same built-in-base-rate problem India Radar
+caught in its own book on 08-12.
