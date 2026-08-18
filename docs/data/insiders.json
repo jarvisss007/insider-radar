@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-18 11:26 UTC",
+ "updated_utc": "2026-08-18 11:41 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-08-10",
-   "shares": 600.0,
-   "price": 0.7,
-   "value": 420.0,
-   "acc": "0001213900-26-089449",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -4781,6 +4769,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "REZI",
+   "company": "RESIDEO TECHNOLOGIES, INC.",
+   "insider": "Mehta Amit Ashvin",
+   "role": "SVP, Strategy & Business Ops",
+   "date": "2026-08-17",
+   "shares": 10928.4,
+   "price": 20.68,
+   "value": 225999.31,
+   "acc": "0002148580-26-000003",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "LWAY",
    "company": "Lifeway Foods, Inc.",
    "insider": "Divisadero Street Capital Management, LP",
@@ -4890,6 +4890,11 @@
    "total_value": 864937.19
   },
   {
+   "ticker": "REZI",
+   "insiders": 3,
+   "total_value": 848123.17
+  },
+  {
    "ticker": "AMRZ",
    "insiders": 5,
    "total_value": 838852.44
@@ -4903,11 +4908,6 @@
    "ticker": "TNC",
    "insiders": 2,
    "total_value": 640990.0
-  },
-  {
-   "ticker": "REZI",
-   "insiders": 2,
-   "total_value": 622123.86
   },
   {
    "ticker": "EMBC",
@@ -5038,8 +5038,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021166",
-  "0001918704-26-021167",
   "0001918704-26-021168",
   "0001918704-26-021169",
   "0001918704-26-021170",
@@ -6948,6 +6946,7 @@
   "0001976408-26-000745",
   "0001976408-26-000746",
   "0001976408-26-000747",
+  "0001976408-26-000752",
   "0001976672-26-000057",
   "0001976672-26-000059",
   "0001976684-26-000011",
@@ -8034,6 +8033,7 @@
   "0002147992-26-000003",
   "0002148161-26-000008",
   "0002148361-26-000003",
+  "0002148580-26-000003",
   "0002148900-26-000005",
   "0002149159-26-000004",
   "0002149324-26-000005",
