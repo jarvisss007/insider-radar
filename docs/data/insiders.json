@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-18 23:04 UTC",
+ "updated_utc": "2026-08-18 23:20 UTC",
  "purchases": [
-  {
-   "ticker": "CW",
-   "company": "CURTISS WRIGHT CORP",
-   "insider": "Lyash Jeffrey J.",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 209.3801,
-   "price": 711.62,
-   "value": 148999.07,
-   "acc": "0001628280-26-055200",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Foran Joseph Wm",
-   "role": "Chairman and CEO",
-   "date": "2026-08-10",
-   "shares": 3130.0,
-   "price": 51.04,
-   "value": 159755.2,
-   "acc": "0001540655-26-000015",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 10000.0,
-   "price": 16.01,
-   "value": 160100.0,
-   "acc": "0001166152-26-000010",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "SNEX",
-   "company": "StoneX Group Inc.",
-   "insider": "Thamodaran Dhamu R.",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 2500.0,
-   "price": 64.4824,
-   "value": 161206.0,
-   "acc": "0001531352-26-000011",
-   "filed": "2026-08-11"
-  },
   {
    "ticker": "SUNS",
    "company": "Sunrise Realty Trust, Inc.",
@@ -3442,6 +3394,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks William J.",
+   "role": "Founder & President",
+   "date": "2026-08-14",
+   "shares": 1850.0,
+   "price": 20.81,
+   "value": 38498.5,
+   "acc": "0000950103-26-012589",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "STIM",
    "company": "Neuronetics, Inc.",
    "insider": "Chernett Jorey",
@@ -4491,6 +4455,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks William J.",
+   "role": "Founder & President",
+   "date": "2026-08-17",
+   "shares": 1002.0,
+   "price": 21.29,
+   "value": 21332.58,
+   "acc": "0000950103-26-012589",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
    "insider": "Corso Matte Ana Silvia",
@@ -4513,6 +4489,18 @@
    "value": 31640.0,
    "acc": "0001213900-26-090890",
    "filed": "2026-08-17"
+  },
+  {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks William J.",
+   "role": "Founder & President",
+   "date": "2026-08-17",
+   "shares": 2098.0,
+   "price": 21.36,
+   "value": 44813.28,
+   "acc": "0000950103-26-012589",
+   "filed": "2026-08-18"
   },
   {
    "ticker": "WULF",
@@ -4776,6 +4764,18 @@
    "price": 5.54,
    "value": 49860.0,
    "acc": "0001213900-26-091150",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks William J.",
+   "role": "Founder & President",
+   "date": "2026-08-18",
+   "shares": 4000.0,
+   "price": 19.56,
+   "value": 78240.0,
+   "acc": "0000950103-26-012589",
    "filed": "2026-08-18"
   },
   {
@@ -5051,10 +5051,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021463",
-  "0001918704-26-021464",
-  "0001918704-26-021465",
-  "0001918704-26-021466",
   "0001918704-26-021467",
   "0001918704-26-021468",
   "0001918704-26-021469",
@@ -7408,6 +7404,7 @@
   "0002012427-26-000004",
   "0002012721-26-000006",
   "0002012793-26-000004",
+  "0002013319-26-000007",
   "0002013412-26-000003",
   "0002013812-26-000012",
   "0002013812-26-000019",
@@ -7418,6 +7415,7 @@
   "0002014440-26-000010",
   "0002014560-26-000008",
   "0002014633-26-000014",
+  "0002014694-26-000006",
   "0002014966-26-000011",
   "0002015287-26-000015",
   "0002015472-26-000004",
@@ -7860,6 +7858,7 @@
   "0002090083-26-000016",
   "0002090083-26-000018",
   "0002090083-26-000020",
+  "0002090083-26-000021",
   "0002090751-26-000004",
   "0002090789-26-000009",
   "0002091022-26-000010",
@@ -7999,6 +7998,7 @@
   "0002139756-26-000006",
   "0002139953-26-000004",
   "0002140162-26-000006",
+  "0002140365-26-000005",
   "0002140626-26-000006",
   "0002141303-26-000005",
   "0002141496-26-000001",
