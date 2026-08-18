@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-18 16:25 UTC",
+ "updated_utc": "2026-08-18 16:40 UTC",
  "purchases": [
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 500.0,
-   "price": 15.222,
-   "value": 7611.0,
-   "acc": "0001493152-26-037181",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "RDGL",
-   "company": "VIVOS INC",
-   "insider": "Korenko Michael K",
-   "role": "CEO AND PRESIDENT",
-   "date": "2026-08-10",
-   "shares": 150000.0,
-   "price": 0.0531,
-   "value": 7965.0,
-   "acc": "0001486806-26-000008",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "YQ",
    "company": "17 Education & Technology Group Inc.",
@@ -4733,6 +4709,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Poletti Samuel Jonas",
+   "role": "Chief Strategy & M&A Officer",
+   "date": "2026-08-17",
+   "shares": 2510.0,
+   "price": 46.92,
+   "value": 117769.2,
+   "acc": "0002035989-26-000069",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "ECG",
    "company": "Everus Construction Group, Inc.",
    "insider": "SPARBY DAVID M",
@@ -4815,6 +4803,18 @@
    "value": 1136950.65,
    "acc": "0001140361-26-033407",
    "filed": "2026-08-17"
+  },
+  {
+   "ticker": "SRI",
+   "company": "STONERIDGE INC",
+   "insider": "Humphrey Scott Randall",
+   "role": "CFO and Treasurer",
+   "date": "2026-08-18",
+   "shares": 6000.0,
+   "price": 7.01,
+   "value": 42060.0,
+   "acc": "0001713730-26-000009",
+   "filed": "2026-08-18"
   }
  ],
  "clusters": [
@@ -4880,6 +4880,11 @@
    "total_value": 1018495.32
   },
   {
+   "ticker": "AMRZ",
+   "insiders": 6,
+   "total_value": 956621.64
+  },
+  {
    "ticker": "MLAB",
    "insiders": 2,
    "total_value": 902411.4
@@ -4893,11 +4898,6 @@
    "ticker": "REZI",
    "insiders": 3,
    "total_value": 848123.17
-  },
-  {
-   "ticker": "AMRZ",
-   "insiders": 5,
-   "total_value": 838852.44
   },
   {
    "ticker": "DKL",
@@ -5038,8 +5038,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021279",
-  "0001918704-26-021280",
   "0001918704-26-021281",
   "0001918704-26-021282",
   "0001918704-26-021283",
@@ -6734,6 +6732,7 @@
   "0001918704-26-024060",
   "0001918704-26-024061",
   "0001918704-26-024062",
+  "0001918704-26-024063",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7554,6 +7553,7 @@
   "0002035875-26-000004",
   "0002035931-26-000002",
   "0002035959-26-000005",
+  "0002035989-26-000069",
   "0002036507-26-000007",
   "0002036536-26-000010",
   "0002037071-26-000001",
