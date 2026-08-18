@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-18 20:07 UTC",
+ "updated_utc": "2026-08-18 20:24 UTC",
  "purchases": [
-  {
-   "ticker": "BLSM",
-   "company": "BlossomHill Therapeutics, Inc.",
-   "insider": "Liptak Vincent Paul",
-   "role": "General Counsel",
-   "date": "2026-08-10",
-   "shares": 2200.0,
-   "price": 16.0,
-   "value": 35200.0,
-   "acc": "0002143905-26-000003",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "MKZR",
-   "company": "MacKenzie Realty Capital, Inc.",
-   "insider": "PATTERSON CHARLES E. II",
-   "role": "General Counsel/Secretary",
-   "date": "2026-08-10",
-   "shares": 23400.0,
-   "price": 1.6,
-   "value": 37440.0,
-   "acc": "0001582328-26-000010",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "MKZR",
-   "company": "MacKenzie Realty Capital, Inc.",
-   "insider": "DIXON ROBERT E",
-   "role": "CEO/President",
-   "date": "2026-08-10",
-   "shares": 23400.0,
-   "price": 1.6,
-   "value": 37440.0,
-   "acc": "0001582328-26-000012",
-   "filed": "2026-08-10"
-  },
   {
    "ticker": "MKZR",
    "company": "MacKenzie Realty Capital, Inc.",
@@ -3398,6 +3362,18 @@
   {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
+   "insider": "Tannenbaum Robyn",
+   "role": "President and CIO",
+   "date": "2026-08-14",
+   "shares": 1000.0,
+   "price": 3.15,
+   "value": 3150.0,
+   "acc": "0001628280-26-057654",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
    "insider": "Hetzel Brandon",
    "role": "CFO and Treasurer",
    "date": "2026-08-14",
@@ -4661,6 +4637,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "BXSY",
+   "company": "BEXIL INVESTMENT TRUST",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-17",
+   "shares": 5200.0,
+   "price": 18.08,
+   "value": 94016.0,
+   "acc": "0001628873-26-000075",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "KEEL",
    "company": "Keel Infrastructure Corp.",
    "insider": "WILSON LIAM DANIEL",
@@ -4793,6 +4781,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "BXSY",
+   "company": "BEXIL INVESTMENT TRUST",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-18",
+   "shares": 2500.0,
+   "price": 17.97,
+   "value": 44925.0,
+   "acc": "0001628873-26-000075",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "NTHI",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
    "insider": "Heshmatpour Amir F",
@@ -4835,8 +4835,8 @@
   },
   {
    "ticker": "BLSM",
-   "insiders": 4,
-   "total_value": 5131200.0,
+   "insiders": 3,
+   "total_value": 5096000.0,
    "other_value": 10000000.0
   },
   {
@@ -4990,11 +4990,6 @@
    "total_value": 131848.0
   },
   {
-   "ticker": "MKZR",
-   "insiders": 3,
-   "total_value": 112320.0
-  },
-  {
    "ticker": "ACON",
    "insiders": 5,
    "total_value": 109680.68
@@ -5035,6 +5030,11 @@
    "total_value": 8321.0
   },
   {
+   "ticker": "AFCG",
+   "insiders": 2,
+   "total_value": 7539.0
+  },
+  {
    "ticker": "RVSB",
    "insiders": 2,
    "total_value": 6497.25
@@ -5053,17 +5053,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021368",
-  "0001918704-26-021369",
-  "0001918704-26-021370",
-  "0001918704-26-021371",
-  "0001918704-26-021372",
-  "0001918704-26-021373",
-  "0001918704-26-021374",
-  "0001918704-26-021375",
-  "0001918704-26-021376",
-  "0001918704-26-021377",
-  "0001918704-26-021378",
   "0001918704-26-021379",
   "0001918704-26-021380",
   "0001918704-26-021381",
@@ -6731,6 +6720,15 @@
   "0001918704-26-024130",
   "0001918704-26-024131",
   "0001918704-26-024137",
+  "0001918704-26-024143",
+  "0001918704-26-024144",
+  "0001918704-26-024145",
+  "0001918704-26-024146",
+  "0001918704-26-024147",
+  "0001918704-26-024148",
+  "0001918704-26-024149",
+  "0001918704-26-024150",
+  "0001918704-26-024151",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6842,6 +6840,7 @@
   "0001959506-26-000006",
   "0001959770-26-000010",
   "0001960181-26-000002",
+  "0001960794-26-000002",
   "0001960971-26-000003",
   "0001961099-26-000008",
   "0001961294-26-000004",
@@ -7401,6 +7400,7 @@
   "0002000660-26-000004",
   "0002001011-26-000114",
   "0002001011-26-000115",
+  "0002001162-26-000014",
   "0002002093-26-000010",
   "0002002763-26-000006",
   "0002004222-26-000006",
