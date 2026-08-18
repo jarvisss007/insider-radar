@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-08-18 20:40 UTC",
+ "updated_utc": "2026-08-18 20:57 UTC",
  "purchases": [
-  {
-   "ticker": "CLNE",
-   "company": "Clean Energy Fuels Corp.",
-   "insider": "Corbus Barclay",
-   "role": "PRESIDENT AND CEO",
-   "date": "2026-08-10",
-   "shares": 25000.0,
-   "price": 1.62,
-   "value": 40500.0,
-   "acc": "0001411833-26-000012",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Elsener William Thomas",
-   "role": "EVP, Reservoir Engineering",
-   "date": "2026-08-10",
-   "shares": 850.0,
-   "price": 50.94,
-   "value": 43299.0,
-   "acc": "0001934692-26-000004",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "KRNY",
-   "company": "Kearny Financial Corp.",
-   "insider": "MONTANARO LEOPOLD W",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 4773.0,
-   "price": 9.46,
-   "value": 45152.58,
-   "acc": "0001246479-26-000002",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "MATW",
-   "company": "MATTHEWS INTERNATIONAL CORP",
-   "insider": "Nauman J Michael",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 2000.0,
-   "price": 22.97,
-   "value": 45940.0,
-   "acc": "0000063296-26-000082",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "MUNEX",
-   "company": "BlackRock Municipal Credit Alpha Portfolio, Inc.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 4797.0,
-   "price": 12.29,
-   "value": 58955.13,
-   "acc": "0000070858-26-000439",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "UCB",
-   "company": "UNITED COMMUNITY BANKS INC",
-   "insider": "Carande Carl Steven",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 2101.0,
-   "price": 35.35,
-   "value": 74270.35,
-   "acc": "0002146558-26-000006",
-   "filed": "2026-08-10"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-10",
-   "shares": 1050.0,
-   "price": 79.0902,
-   "value": 83044.71,
-   "acc": "0001193125-26-347503",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "MRP",
    "company": "Millrose Properties, Inc.",
@@ -4202,6 +4118,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "FTI",
+   "company": "TechnipFMC plc",
+   "insider": "Mullins Eric D.",
+   "role": "Director",
+   "date": "2026-08-14",
+   "shares": 6365.0,
+   "price": 78.55,
+   "value": 499970.75,
+   "acc": "0001628280-26-057729",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "CDNL",
    "company": "Cardinal Infrastructure Group Inc.",
    "insider": "Zelman Ivy",
@@ -4397,6 +4325,30 @@
    "placement": true
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 49521.0,
+   "price": 215.2686,
+   "value": 10660316.34,
+   "acc": "0001104659-26-098392",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 99729.0,
+   "price": 215.9579,
+   "value": 21537265.41,
+   "acc": "0001104659-26-098392",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "SNBH",
    "company": "SENTIENT BRANDS HOLDINGS INC.",
    "insider": "Wyman Derek Michael",
@@ -4577,6 +4529,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 100.0,
+   "price": 213.0,
+   "value": 21300.0,
+   "acc": "0001104659-26-098392",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
    "insider": "Corso Matte Ana Silvia",
@@ -4634,6 +4598,18 @@
    "price": 18.08,
    "value": 94016.0,
    "acc": "0001628873-26-000075",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "NVRI",
+   "company": "Enviri Corp",
+   "insider": "HAZNEDAR CAROLANN I",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 4875.0,
+   "price": 20.461,
+   "value": 99747.38,
+   "acc": "0002104052-26-000132",
    "filed": "2026-08-18"
   },
   {
@@ -4757,6 +4733,30 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 98155.0,
+   "price": 215.2534,
+   "value": 21128197.48,
+   "acc": "0001104659-26-098392",
+   "filed": "2026-08-18"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 108545.0,
+   "price": 214.6246,
+   "value": 23296427.21,
+   "acc": "0001104659-26-098392",
+   "filed": "2026-08-18"
+  },
+  {
    "ticker": "SRI",
    "company": "STONERIDGE INC",
    "insider": "Humphrey Scott Randall",
@@ -4875,11 +4875,6 @@
    "total_value": 1021179.0
   },
   {
-   "ticker": "MTDR",
-   "insiders": 2,
-   "total_value": 1018495.32
-  },
-  {
    "ticker": "ABCL",
    "insiders": 3,
    "total_value": 975237.19
@@ -4955,14 +4950,14 @@
    "total_value": 264015.28
   },
   {
-   "ticker": "MATW",
-   "insiders": 3,
-   "total_value": 233120.0
-  },
-  {
    "ticker": "AVBC",
    "insiders": 2,
    "total_value": 227519.28
+  },
+  {
+   "ticker": "MATW",
+   "insiders": 2,
+   "total_value": 187180.0
   },
   {
    "ticker": "SMRT",
@@ -5053,20 +5048,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021388",
-  "0001918704-26-021389",
-  "0001918704-26-021390",
-  "0001918704-26-021391",
-  "0001918704-26-021392",
-  "0001918704-26-021393",
-  "0001918704-26-021394",
-  "0001918704-26-021395",
-  "0001918704-26-021396",
-  "0001918704-26-021397",
-  "0001918704-26-021398",
-  "0001918704-26-021399",
-  "0001918704-26-021400",
-  "0001918704-26-021401",
   "0001918704-26-021402",
   "0001918704-26-021403",
   "0001918704-26-021404",
@@ -6726,6 +6707,13 @@
   "0001918704-26-024171",
   "0001918704-26-024172",
   "0001918704-26-024173",
+  "0001918704-26-024183",
+  "0001918704-26-024184",
+  "0001918704-26-024185",
+  "0001918704-26-024186",
+  "0001918704-26-024187",
+  "0001918704-26-024188",
+  "0001918704-26-024189",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6795,6 +6783,7 @@
   "0001940272-26-000012",
   "0001940536-26-000014",
   "0001940727-26-000004",
+  "0001940987-26-000018",
   "0001941739-26-000006",
   "0001942745-26-000004",
   "0001943943-26-000014",
@@ -6826,6 +6815,7 @@
   "0001954190-26-000005",
   "0001954327-26-000043",
   "0001954327-26-000046",
+  "0001954584-26-000019",
   "0001954883-26-000013",
   "0001956006-26-000003",
   "0001957684-26-000011",
@@ -7539,6 +7529,7 @@
   "0002034144-26-000006",
   "0002034458-26-000006",
   "0002034458-26-000007",
+  "0002034568-26-000003",
   "0002034782-26-000012",
   "0002034782-26-000017",
   "0002034826-26-000008",
@@ -7599,6 +7590,7 @@
   "0002049705-26-000012",
   "0002050035-26-000011",
   "0002050167-26-000019",
+  "0002050372-26-000013",
   "0002050576-26-000004",
   "0002050857-26-000012",
   "0002050978-26-000006",
@@ -7694,6 +7686,7 @@
   "0002064832-26-000272",
   "0002064953-26-000088",
   "0002065340-26-000017",
+  "0002065340-26-000019",
   "0002065675-26-000004",
   "0002066491-26-000011",
   "0002066736-26-000004",
@@ -7899,6 +7892,7 @@
   "0002102774-26-000012",
   "0002103514-26-000010",
   "0002104019-26-000006",
+  "0002104052-26-000132",
   "0002104070-26-000005",
   "0002104631-26-000012",
   "0002104954-26-000001",
@@ -8047,6 +8041,7 @@
   "0002147955-26-000004",
   "0002147992-26-000003",
   "0002148161-26-000008",
+  "0002148161-26-000009",
   "0002148361-26-000003",
   "0002148580-26-000003",
   "0002148900-26-000005",
