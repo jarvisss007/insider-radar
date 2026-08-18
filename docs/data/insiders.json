@@ -1,43 +1,6 @@
 {
- "updated_utc": "2026-08-18 00:17 UTC",
+ "updated_utc": "2026-08-18 01:20 UTC",
  "purchases": [
-  {
-   "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
-   "company": "Privacore VPC Asset Backed Credit Fund",
-   "insider": "BANKERS LIFE & CASUALTY CO",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 492610.837,
-   "price": 10.15,
-   "value": 5000000.0,
-   "acc": "0000903939-26-000026",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "AH Bio Fund IV, L.P.",
-   "role": "10% owner",
-   "date": "2026-08-07",
-   "shares": 1100000.0,
-   "price": 18.0,
-   "value": 19800000.0,
-   "acc": "0001231919-26-000859",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "BRVE",
-   "company": "Braveheart Bio, Inc.",
-   "insider": "Chimovits Erez",
-   "role": "Director",
-   "date": "2026-08-07",
-   "shares": 1666667.0,
-   "price": 18.0,
-   "value": 30000006.0,
-   "acc": "0000947871-26-000783",
-   "filed": "2026-08-11",
-   "placement": true
-  },
   {
    "ticker": "BRVE",
    "company": "Braveheart Bio, Inc.",
@@ -3686,6 +3649,18 @@
    "filed": "2026-08-14"
   },
   {
+   "ticker": "LWAY",
+   "company": "Lifeway Foods, Inc.",
+   "insider": "Divisadero Street Capital Management, LP",
+   "role": "10% owner",
+   "date": "2026-08-13",
+   "shares": 195616.0,
+   "price": 24.8729,
+   "value": 4865537.21,
+   "acc": "0000919574-26-005601",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4419,6 +4394,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "LWAY",
+   "company": "Lifeway Foods, Inc.",
+   "insider": "Divisadero Street Capital Management, LP",
+   "role": "10% owner",
+   "date": "2026-08-14",
+   "shares": 15000.0,
+   "price": 24.6901,
+   "value": 370351.5,
+   "acc": "0000919574-26-005601",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Booth Andrew",
@@ -4795,6 +4782,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "LWAY",
+   "company": "Lifeway Foods, Inc.",
+   "insider": "Divisadero Street Capital Management, LP",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 35952.0,
+   "price": 24.7809,
+   "value": 890922.92,
+   "acc": "0000919574-26-005601",
+   "filed": "2026-08-17"
+  },
+  {
    "ticker": "KURA",
    "company": "Kura Oncology, Inc.",
    "insider": "WILSON TROY EDWARD",
@@ -4822,9 +4821,9 @@
  "clusters": [
   {
    "ticker": "BRVE",
-   "insiders": 4,
-   "total_value": 84600000.0,
-   "other_value": 60000012.0
+   "insiders": 2,
+   "total_value": 64800000.0,
+   "other_value": 30000006.0
   },
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
@@ -5046,8 +5045,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021162",
-  "0001918704-26-021163",
   "0001918704-26-021164",
   "0001918704-26-021165",
   "0001918704-26-021166",
@@ -7418,6 +7415,7 @@
   "0002000660-26-000004",
   "0002001011-26-000114",
   "0002001011-26-000115",
+  "0002002093-26-000010",
   "0002002763-26-000006",
   "0002004222-26-000006",
   "0002004222-26-000007",
@@ -7629,6 +7627,7 @@
   "0002052363-26-000043",
   "0002052363-26-000045",
   "0002052363-26-000047",
+  "0002052363-26-000050",
   "0002052896-26-000001",
   "0002052951-26-000007",
   "0002052994-26-000003",
