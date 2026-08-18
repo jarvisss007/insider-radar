@@ -1,11 +1,11 @@
 date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote
-2026-07-17,NTSK,long,[insider] 2 insiders bought $22.0M cluster,13.59,2026-08-16,,,no
-2026-07-17,IPX,long,[insider] 2 insiders bought $2.4M cluster,22.94,2026-08-16,,,no
-2026-07-17,ELV,long,[insider] 2 insiders bought $1.4M cluster,373.11,2026-08-16,,,no
-2026-07-17,BUKS,long,[insider] 2 insiders bought $0.16M cluster,4.86,2026-08-16,,,no
-2026-07-17,GABC,long,[insider] 5 insiders bought $0.10M cluster,48.57,2026-08-16,,,no
-2026-07-17,INM,long,[insider] 2 insiders bought $0.03M cluster,1.52,2026-08-16,,,no
-2026-07-17,YORW,long,[insider] 6 insiders bought $0.03M cluster,31.45,2026-08-16,,,no
+2026-07-17,NTSK,long,[insider] 2 insiders bought $22.0M cluster,13.59,2026-08-16,15.25,right,0
+2026-07-17,IPX,long,[insider] 2 insiders bought $2.4M cluster,22.94,2026-08-16,24.55,right,0
+2026-07-17,ELV,long,[insider] 2 insiders bought $1.4M cluster,373.11,2026-08-16,390.24,right,0
+2026-07-17,BUKS,long,[insider] 2 insiders bought $0.16M cluster,4.86,2026-08-16,4.55,wrong,0
+2026-07-17,GABC,long,[insider] 5 insiders bought $0.10M cluster,48.57,2026-08-16,50.94,right,0
+2026-07-17,INM,long,[insider] 2 insiders bought $0.03M cluster,1.52,2026-08-16,1.46,wrong,0
+2026-07-17,YORW,long,[insider] 6 insiders bought $0.03M cluster,31.45,2026-08-16,33.06,right,0
 2026-07-25,FSBC,long,[insider] 6 insiders bought $6.3M cluster,46.81,2026-08-24,,,no
 2026-07-25,CLBK,long,[insider] 16 insiders bought $4.8M cluster,10.88,2026-08-24,,,no
 2026-07-25,TSM,long,[insider] 2 insiders bought $4.4M cluster,403.41,2026-08-24,,,no
