@@ -1,57 +1,6 @@
 {
- "updated_utc": "2026-08-19 19:19 UTC",
+ "updated_utc": "2026-08-19 19:35 UTC",
  "purchases": [
-  {
-   "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
-   "company": "HPS Real Assets Lending Co LP",
-   "insider": "French Scot",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 400000.0,
-   "price": 25.0,
-   "value": 10000000.0,
-   "acc": "0001193125-26-346569",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "BLSM",
-   "company": "BlossomHill Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 625000.0,
-   "price": 16.0,
-   "value": 10000000.0,
-   "acc": "0000947871-26-000785",
-   "filed": "2026-08-12",
-   "placement": true
-  },
-  {
-   "ticker": "PNAQ",
-   "company": "Pinnacle Acquisition Corp",
-   "insider": "RECHTSCHAFFEN ANDREW",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 1000000.0,
-   "price": 10.0,
-   "value": 10000000.0,
-   "acc": "0001213900-26-088542",
-   "filed": "2026-08-12",
-   "placement": true
-  },
-  {
-   "ticker": "PNAQ",
-   "company": "Pinnacle Acquisition Corp",
-   "insider": "Hudson Steven Kenneth",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-10",
-   "shares": 1250000.0,
-   "price": 10.0,
-   "value": 12500000.0,
-   "acc": "0001213900-26-088545",
-   "filed": "2026-08-12",
-   "placement": true
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -4571,6 +4520,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "JOHNSTON ROBERT B",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 206.0,
+   "price": 21.26,
+   "value": 4379.56,
+   "acc": "0001437749-26-028520",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "ADMQ",
    "company": "ADM ENDEAVORS, INC.",
    "insider": "Johnson Marc",
@@ -4628,6 +4589,30 @@
    "price": 22.39,
    "value": 11195.0,
    "acc": "0001464631-26-000007",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "JOHNSTON ROBERT B",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 600.0,
+   "price": 21.25,
+   "value": 12750.0,
+   "acc": "0001437749-26-028520",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "FGL",
+   "company": "Founder Group Ltd",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 61617.0,
+   "price": 0.381,
+   "value": 23476.08,
+   "acc": "0001475597-26-000208",
    "filed": "2026-08-19"
   },
   {
@@ -4772,6 +4757,18 @@
    "price": 18.5955,
    "value": 185955.0,
    "acc": "0000935596-26-000017",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "UTGN",
+   "company": "UTG INC",
+   "insider": "CORRELL JESSE T",
+   "role": "Chairman & CEO",
+   "date": "2026-08-18",
+   "shares": 4808.0,
+   "price": 59.0,
+   "value": 283672.0,
+   "acc": "0000832480-26-000024",
    "filed": "2026-08-19"
   },
   {
@@ -5033,12 +5030,6 @@
    "total_value": 2000.0
   },
   {
-   "ticker": "PNAQ",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 22500000.0
-  },
-  {
    "ticker": "APLM",
    "insiders": 3,
    "total_value": 0,
@@ -5046,9 +5037,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021567",
-  "0001918704-26-021568",
-  "0001918704-26-021569",
   "0001918704-26-021570",
   "0001918704-26-021571",
   "0001918704-26-021572",
@@ -6617,6 +6605,8 @@
   "0001918704-26-024280",
   "0001918704-26-024282",
   "0001918704-26-024284",
+  "0001918704-26-024285",
+  "0001918704-26-024286",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6791,6 +6781,7 @@
   "0001968347-26-000009",
   "0001969106-26-000004",
   "0001969292-26-000009",
+  "0001970357-26-000014",
   "0001970613-26-000004",
   "0001971363-26-000006",
   "0001971511-26-000004",
