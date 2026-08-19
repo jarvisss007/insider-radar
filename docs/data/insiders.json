@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-08-19 21:28 UTC",
+ "updated_utc": "2026-08-19 21:44 UTC",
  "purchases": [
-  {
-   "ticker": "AMRC",
-   "company": "Ameresco, Inc.",
-   "insider": "Sakellaris George P",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-11",
-   "shares": 1000.0,
-   "price": 25.9,
-   "value": 25900.0,
-   "acc": "0001628280-26-055891",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "KMPR",
-   "company": "KEMPER Corp",
-   "insider": "Camden Bradley T",
-   "role": "EVP and CFO",
-   "date": "2026-08-11",
-   "shares": 1000.0,
-   "price": 26.34,
-   "value": 26340.0,
-   "acc": "0001993636-26-000009",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "KMPR",
-   "company": "KEMPER Corp",
-   "insider": "Evans Carl Thomas Jr.",
-   "role": "EVP, Sec. & General Counsel",
-   "date": "2026-08-11",
-   "shares": 1000.0,
-   "price": 26.53,
-   "value": 26530.0,
-   "acc": "0001641823-26-000009",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "CE",
-   "company": "Celanese Corp",
-   "insider": "Duffie Ashley B",
-   "role": "SVP & GC",
-   "date": "2026-08-11",
-   "shares": 600.0,
-   "price": 45.6,
-   "value": 27360.0,
-   "acc": "0002000487-26-000003",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "SELF",
-   "company": "Global Self Storage, Inc.",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-11",
-   "shares": 5887.0,
-   "price": 5.1655,
-   "value": 30409.3,
-   "acc": "0001628873-26-000064",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "AMH",
-   "company": "American Homes 4 Rent",
-   "insider": "BENHAM DOUGLAS N",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 1500.0,
-   "price": 22.6,
-   "value": 33900.0,
-   "acc": "0001275331-26-000012",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Foran Joseph Wm",
-   "role": "Chairman and CEO",
-   "date": "2026-08-11",
-   "shares": 709.0,
-   "price": 51.68,
-   "value": 36641.12,
-   "acc": "0001540655-26-000015",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "CIA",
-   "company": "CITIZENS, INC.",
-   "insider": "Stenberg Jon",
-   "role": "President & CEO",
-   "date": "2026-08-11",
-   "shares": 12000.0,
-   "price": 3.6496,
-   "value": 43795.2,
-   "acc": "0002015793-26-000014",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "AMH",
    "company": "American Homes 4 Rent",
@@ -3596,6 +3500,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 300.0,
+   "price": 3.8294,
+   "value": 1148.82,
+   "acc": "0001214659-26-010625",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
    "insider": "Hansen Kent A",
@@ -3701,6 +3617,18 @@
    "price": 1.198,
    "value": 4911.8,
    "acc": "0001079973-26-001145",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 1200.0,
+   "price": 4.1208,
+   "value": 4944.96,
+   "acc": "0001214659-26-010625",
    "filed": "2026-08-19"
   },
   {
@@ -3882,6 +3810,18 @@
    "value": 20000.0,
    "acc": "0001746448-26-000008",
    "filed": "2026-08-18"
+  },
+  {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 5000.0,
+   "price": 4.0909,
+   "value": 20454.5,
+   "acc": "0001214659-26-010625",
+   "filed": "2026-08-19"
   },
   {
    "ticker": "FRPH",
@@ -4376,6 +4316,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 700.0,
+   "price": 4.3783,
+   "value": 3064.81,
+   "acc": "0001214659-26-010625",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "ADMQ",
    "company": "ADM ENDEAVORS, INC.",
    "insider": "Johnson Marc",
@@ -4493,6 +4445,18 @@
    "price": 21.25,
    "value": 12750.0,
    "acc": "0001437749-26-028520",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 5275.0,
+   "price": 4.444,
+   "value": 23442.1,
+   "acc": "0001214659-26-010625",
    "filed": "2026-08-19"
   },
   {
@@ -4772,6 +4736,30 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 1000.0,
+   "price": 5.87,
+   "value": 5870.0,
+   "acc": "0001214659-26-010625",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 1500.0,
+   "price": 4.53,
+   "value": 6795.0,
+   "acc": "0001214659-26-010625",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "BRCC",
    "company": "BRC Inc.",
    "insider": "Dickson Kathryn P",
@@ -4781,6 +4769,18 @@
    "price": 0.8495,
    "value": 42475.0,
    "acc": "0001628280-26-057956",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 24328.0,
+   "price": 5.5768,
+   "value": 135672.39,
+   "acc": "0001214659-26-010625",
    "filed": "2026-08-19"
   },
   {
@@ -4920,14 +4920,14 @@
    "total_value": 272980.0
   },
   {
-   "ticker": "KMPR",
-   "insiders": 4,
-   "total_value": 238330.0
-  },
-  {
    "ticker": "AVBC",
    "insiders": 3,
    "total_value": 230912.2
+  },
+  {
+   "ticker": "KMPR",
+   "insiders": 2,
+   "total_value": 185460.0
   },
   {
    "ticker": "NVRI",
@@ -4945,19 +4945,14 @@
    "total_value": 134740.0
   },
   {
-   "ticker": "CE",
-   "insiders": 2,
-   "total_value": 132058.12
+   "ticker": "ACON",
+   "insiders": 6,
+   "total_value": 125670.29
   },
   {
    "ticker": "SELF",
    "insiders": 2,
-   "total_value": 131848.0
-  },
-  {
-   "ticker": "ACON",
-   "insiders": 6,
-   "total_value": 125670.29
+   "total_value": 101438.7
   },
   {
    "ticker": "CC",
@@ -5042,16 +5037,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021622",
-  "0001918704-26-021623",
-  "0001918704-26-021636",
-  "0001918704-26-021637",
-  "0001918704-26-021638",
-  "0001918704-26-021639",
-  "0001918704-26-021640",
-  "0001918704-26-021641",
-  "0001918704-26-021642",
-  "0001918704-26-021643",
   "0001918704-26-021644",
   "0001918704-26-021645",
   "0001918704-26-021646",
@@ -6848,6 +6833,7 @@
   "0001979088-26-000016",
   "0001979088-26-000017",
   "0001979234-26-000005",
+  "0001979391-26-000015",
   "0001979685-26-000008",
   "0001979917-26-000023",
   "0001980648-26-000019",
@@ -7338,6 +7324,7 @@
   "0002010135-26-000019",
   "0002010300-26-000023",
   "0002010300-26-000025",
+  "0002010300-26-000027",
   "0002010445-26-000009",
   "0002011100-26-000006",
   "0002011525-26-000002",
@@ -7596,6 +7583,7 @@
   "0002058966-26-000002",
   "0002059222-26-000003",
   "0002059447-26-000004",
+  "0002059795-26-000011",
   "0002060000-26-000002",
   "0002060030-26-000010",
   "0002060030-26-000012",
@@ -7605,13 +7593,16 @@
   "0002061058-26-000005",
   "0002061058-26-000006",
   "0002061219-26-000011",
+  "0002061219-26-000013",
   "0002061268-26-000011",
   "0002061361-26-000009",
   "0002061361-26-000011",
+  "0002061361-26-000013",
   "0002061394-26-000008",
   "0002061480-26-000004",
   "0002061670-26-000069",
   "0002061801-26-000011",
+  "0002061801-26-000013",
   "0002061851-26-000006",
   "0002062155-26-000002",
   "0002062182-26-000006",
@@ -7735,6 +7726,7 @@
   "0002075063-26-000004",
   "0002075654-26-000002",
   "0002075704-26-000024",
+  "0002075704-26-000029",
   "0002076000-26-000012",
   "0002076243-26-000002",
   "0002076715-26-000005",
@@ -7776,6 +7768,7 @@
   "0002078265-26-000348",
   "0002078265-26-000350",
   "0002078265-26-000352",
+  "0002078265-26-000354",
   "0002078285-26-000005",
   "0002078374-26-000003",
   "0002078580-26-000008",
@@ -7883,6 +7876,7 @@
   "0002109272-26-000008",
   "0002109337-26-000010",
   "0002110304-26-000019",
+  "0002110638-26-000019",
   "0002110643-26-000016",
   "0002110702-26-000004",
   "0002111103-26-000029",
@@ -7951,6 +7945,7 @@
   "0002127674-26-000002",
   "0002127814-26-000004",
   "0002127908-26-000004",
+  "0002128025-26-000013",
   "0002128637-26-000007",
   "0002128786-26-000004",
   "0002128786-26-000006",
