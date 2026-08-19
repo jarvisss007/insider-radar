@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-08-19 20:07 UTC",
+ "updated_utc": "2026-08-19 20:24 UTC",
  "purchases": [
-  {
-   "ticker": "PTIX",
-   "company": "Protagenic Therapeutics, Inc.\\new",
-   "insider": "ARMEN GARO H",
-   "role": "EXEC. CHAIR & PRINCIPAL OFF",
-   "date": "2026-08-11",
-   "shares": 2220.0,
-   "price": 0.32,
-   "value": 710.4,
-   "acc": "0001493152-26-037468",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "CBKM",
-   "company": "CONSUMERS BANCORP INC /OH/",
-   "insider": "Bickerton David R",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 50.0,
-   "price": 31.25,
-   "value": 1562.5,
-   "acc": "0001437749-26-027015",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "AVBC",
-   "company": "Avidia Bancorp, Inc.",
-   "insider": "Saul Kennedy O",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 79.0,
-   "price": 21.64,
-   "value": 1709.56,
-   "acc": "0001437749-26-027263",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 200.0,
-   "price": 9.93,
-   "value": 1986.0,
-   "acc": "0001510281-26-000266",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 756.0,
-   "price": 2.99,
-   "value": 2260.44,
-   "acc": "0001437749-26-027250",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "AVBC",
-   "company": "Avidia Bancorp, Inc.",
-   "insider": "Saul Kennedy O",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 145.0,
-   "price": 21.63,
-   "value": 3136.35,
-   "acc": "0001437749-26-027263",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "CBKM",
-   "company": "CONSUMERS BANCORP INC /OH/",
-   "insider": "Bickerton David R",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 150.0,
-   "price": 30.95,
-   "value": 4642.5,
-   "acc": "0001437749-26-027015",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 308.0,
-   "price": 15.2013,
-   "value": 4682.0,
-   "acc": "0001493152-26-037181",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "SVCO",
-   "company": "Silvaco Group, Inc.",
-   "insider": "Ngai Anthony K.K.",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 750.0,
-   "price": 7.37,
-   "value": 5527.5,
-   "acc": "0001628280-26-056349",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "AWRE",
    "company": "AWARE INC /MA/",
@@ -4136,6 +4028,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Foran Joseph Wm",
+   "role": "Chairman and CEO",
+   "date": "2026-08-17",
+   "shares": 400.0,
+   "price": 53.64,
+   "value": 21456.0,
+   "acc": "0001540655-26-000021",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
    "insider": "Corso Matte Ana Silvia",
@@ -4400,6 +4304,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-17",
+   "shares": 50000.0,
+   "price": 22.55,
+   "value": 1127500.0,
+   "acc": "0001221359-26-000042",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
    "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
@@ -4469,6 +4385,18 @@
    "price": 2.8,
    "value": 2116.8,
    "acc": "0001437749-26-028482",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "ICU",
+   "company": "SeaStar Medical Holding Corp",
+   "insider": "Messinger Michael",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-18",
+   "shares": 750.0,
+   "price": 3.27,
+   "value": 2452.5,
+   "acc": "0001437749-26-028540",
    "filed": "2026-08-19"
   },
   {
@@ -4688,6 +4616,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-18",
+   "shares": 3586.0,
+   "price": 22.69,
+   "value": 81366.34,
+   "acc": "0001221359-26-000042",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "ELAN",
    "company": "Elanco Animal Health Inc",
    "insider": "O'Neill Shiv",
@@ -4722,6 +4662,18 @@
    "value": 110300.0,
    "acc": "0001834423-26-000008",
    "filed": "2026-08-18"
+  },
+  {
+   "ticker": "SGRY",
+   "company": "Surgery Partners, Inc.",
+   "insider": "DeLuca Teresa",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 10000.0,
+   "price": 14.35,
+   "value": 143500.0,
+   "acc": "0001638833-26-000079",
+   "filed": "2026-08-19"
   },
   {
    "ticker": "FRPH",
@@ -4772,6 +4724,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "GLPI",
+   "company": "Gaming & Leisure Properties, Inc.",
+   "insider": "SHANKS EARL C",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 10000.0,
+   "price": 42.24,
+   "value": 422400.0,
+   "acc": "0001575965-26-000065",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "ATXG",
    "company": "ADDENTAX GROUP CORP.",
    "insider": "HONG ZHIWANG",
@@ -4805,6 +4769,42 @@
    "price": 0.059,
    "value": 590.0,
    "acc": "0001035422-26-000005",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "BRCC",
+   "company": "BRC Inc.",
+   "insider": "Dickson Kathryn P",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 50000.0,
+   "price": 0.8495,
+   "value": 42475.0,
+   "acc": "0001628280-26-057956",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "DMLP",
+   "company": "DORCHESTER MINERALS, L.P.",
+   "insider": "MORIYAMA LESLIE A",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-19",
+   "shares": 5197.0,
+   "price": 28.3,
+   "value": 147075.1,
+   "acc": "0001437749-26-028537",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-19",
+   "shares": 10000.0,
+   "price": 22.77,
+   "value": 227700.0,
+   "acc": "0001221359-26-000042",
    "filed": "2026-08-19"
   }
  ],
@@ -4917,7 +4917,7 @@
   {
    "ticker": "AVBC",
    "insiders": 3,
-   "total_value": 265745.41
+   "total_value": 260899.5
   },
   {
    "ticker": "KMPR",
@@ -5047,13 +5047,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021582",
-  "0001918704-26-021583",
-  "0001918704-26-021584",
-  "0001918704-26-021585",
-  "0001918704-26-021586",
-  "0001918704-26-021587",
-  "0001918704-26-021588",
   "0001918704-26-021589",
   "0001918704-26-021591",
   "0001918704-26-021593",
@@ -7336,6 +7329,7 @@
   "0002006416-26-000013",
   "0002006495-26-000012",
   "0002006852-26-000005",
+  "0002006943-26-000012",
   "0002007420-26-000002",
   "0002007443-26-000005",
   "0002007928-26-000003",
@@ -7345,6 +7339,7 @@
   "0002008415-26-000003",
   "0002008790-26-000006",
   "0002008989-26-000008",
+  "0002009110-26-000003",
   "0002009679-26-000008",
   "0002009681-26-000008",
   "0002009786-26-000008",
@@ -7530,6 +7525,7 @@
   "0002043885-26-000006",
   "0002044248-26-000015",
   "0002044248-26-000017",
+  "0002044259-26-000010",
   "0002044800-26-000006",
   "0002045034-26-000003",
   "0002045034-26-000005",
@@ -7555,6 +7551,7 @@
   "0002050857-26-000012",
   "0002050978-26-000006",
   "0002051008-26-000002",
+  "0002051436-26-000003",
   "0002051485-26-000008",
   "0002051575-26-000004",
   "0002051619-26-000018",
@@ -7615,6 +7612,7 @@
   "0002060030-26-000010",
   "0002060030-26-000012",
   "0002060697-26-000012",
+  "0002060697-26-000014",
   "0002060774-26-000013",
   "0002061058-26-000005",
   "0002061058-26-000006",
@@ -7787,6 +7785,7 @@
   "0002078265-26-000347",
   "0002078265-26-000348",
   "0002078265-26-000350",
+  "0002078285-26-000005",
   "0002078374-26-000003",
   "0002078580-26-000008",
   "0002079093-26-000001",
@@ -8005,6 +8004,7 @@
   "0002142092-26-000004",
   "0002142208-26-000015",
   "0002142262-26-000006",
+  "0002142436-26-000004",
   "0002142653-26-000004",
   "0002142755-26-000004",
   "0002142805-26-000005",
