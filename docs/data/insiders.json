@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-19 13:17 UTC",
+ "updated_utc": "2026-08-19 13:33 UTC",
  "purchases": [
-  {
-   "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
-   "company": "HPS Real Assets Lending Co LP",
-   "insider": "Choi Yoohyun",
-   "role": "Chief Legal Officer",
-   "date": "2026-08-10",
-   "shares": 20000.0,
-   "price": 25.0,
-   "value": 500000.0,
-   "acc": "0001193125-26-346560",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "TXO",
-   "company": "TXO Partners, L.P.",
-   "insider": "SIMPSON BOB R",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 50000.0,
-   "price": 14.1652,
-   "value": 708260.0,
-   "acc": "0001182684-26-000017",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 111929.0,
-   "price": 6.43,
-   "value": 719703.47,
-   "acc": "0001140361-26-032563",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -4562,6 +4526,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 10000.0,
+   "price": 18.5239,
+   "value": 185239.0,
+   "acc": "0000935596-26-000017",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "MOBI",
    "company": "Mobia Medical, Inc.",
    "insider": "Tansey Casey M",
@@ -4706,6 +4682,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "SKYH",
+   "company": "Sky Harbour Group Corp",
+   "insider": "Gonzalez Francisco",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 10.05,
+   "value": 10050.0,
+   "acc": "0001437749-26-028472",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "SRI",
    "company": "STONERIDGE INC",
    "insider": "Humphrey Scott Randall",
@@ -4812,14 +4800,21 @@
    "value": 179912.33,
    "acc": "0000897069-26-001700",
    "filed": "2026-08-18"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 10000.0,
+   "price": 18.5955,
+   "value": 185955.0,
+   "acc": "0000935596-26-000017",
+   "filed": "2026-08-19"
   }
  ],
  "clusters": [
-  {
-   "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
-   "insiders": 2,
-   "total_value": 10500000.0
-  },
   {
    "ticker": "BORR",
    "insiders": 2,
@@ -5007,6 +5002,11 @@
    "total_value": 64385.28
   },
   {
+   "ticker": "SKYH",
+   "insiders": 2,
+   "total_value": 64300.0
+  },
+  {
    "ticker": "RWAY",
    "insiders": 2,
    "total_value": 62632.3
@@ -5055,9 +5055,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021502",
-  "0001918704-26-021503",
-  "0001918704-26-021504",
   "0001918704-26-021505",
   "0001918704-26-021506",
   "0001918704-26-021507",
@@ -6639,6 +6636,9 @@
   "0001918704-26-024215",
   "0001918704-26-024216",
   "0001918704-26-024222",
+  "0001918704-26-024223",
+  "0001918704-26-024224",
+  "0001918704-26-024225",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
