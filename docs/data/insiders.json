@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-19 19:35 UTC",
+ "updated_utc": "2026-08-19 19:51 UTC",
  "purchases": [
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 88102.0,
-   "price": 214.4323,
-   "value": 18891914.49,
-   "acc": "0001104659-26-094887",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -4772,6 +4760,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "UTGN",
+   "company": "UTG INC",
+   "insider": "FIRST SOUTHERN FUNDING LLC",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 4808.0,
+   "price": 59.0,
+   "value": 283672.0,
+   "acc": "0000832480-26-000025",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "ATXG",
    "company": "ADDENTAX GROUP CORP.",
    "insider": "HONG ZHIWANG",
@@ -4878,6 +4878,11 @@
    "ticker": "TNC",
    "insiders": 2,
    "total_value": 640990.0
+  },
+  {
+   "ticker": "UTGN",
+   "insiders": 2,
+   "total_value": 567344.0
   },
   {
    "ticker": "EMBC",
@@ -5037,7 +5042,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021570",
   "0001918704-26-021571",
   "0001918704-26-021572",
   "0001918704-26-021575",
@@ -6607,6 +6611,7 @@
   "0001918704-26-024284",
   "0001918704-26-024285",
   "0001918704-26-024286",
+  "0001918704-26-024287",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
