@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-19 12:29 UTC",
+ "updated_utc": "2026-08-19 12:45 UTC",
  "purchases": [
-  {
-   "ticker": "STWI",
-   "company": "StageWise Strategies Corp.",
-   "insider": "Artikkhodjaev Jakhongir Abidovich",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 3000000.0,
-   "price": 0.138,
-   "value": 414000.0,
-   "acc": "0001213900-26-088454",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "PLNT",
    "company": "Planet Fitness, Inc.",
@@ -4346,6 +4334,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Williams Amanda M",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 5857.0,
+   "price": 2.73,
+   "value": 15989.61,
+   "acc": "0001683168-26-006576",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "GABC",
    "company": "GERMAN AMERICAN BANCORP, INC.",
    "insider": "Seger Andrew M",
@@ -4978,8 +4978,8 @@
   },
   {
    "ticker": "ACON",
-   "insiders": 5,
-   "total_value": 109680.68
+   "insiders": 6,
+   "total_value": 125670.29
   },
   {
    "ticker": "CC",
@@ -5055,7 +5055,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021500",
   "0001918704-26-021501",
   "0001918704-26-021502",
   "0001918704-26-021503",
@@ -7797,6 +7796,7 @@
   "0002078265-26-000334",
   "0002078265-26-000338",
   "0002078265-26-000340",
+  "0002078265-26-000347",
   "0002078374-26-000003",
   "0002078580-26-000008",
   "0002079093-26-000001",
