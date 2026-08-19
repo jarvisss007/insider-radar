@@ -506,3 +506,62 @@ carry no edge, so it has no view to express on a cluster-driven question and say
 so is real information. The below shape is a deliberate correction — 8 of the 11
 prior rows were "closes above", the same built-in-base-rate problem India Radar
 caught in its own book on 08-12.
+
+## 2026-08-19 [insider]
+
+NOTHING SCORED IN THE LEDGER TODAY, and that is the true state, not an omission:
+zero rows have `check_date <= 2026-08-19` with an empty outcome. The next batch
+matures 2026-08-24 (FSBC, CLBK, TSM, BBASX, BYRN, GRML), and 67 rows are open.
+
+ONE FORECAST WAS DUE TODAY AND IS DELIBERATELY LEFT PENDING. The 08-05 row asks
+"FUNC closes above 44.70 on 2026-08-19". This run fired at 08:27 PDT with the US
+session live, so the 08-19 settled close does not exist yet. SCORE-001 (closed) is
+directly on point: scoring off whatever intraday quote the sweep happens to hold is
+exactly the defect that ruling convicted, and it found 8 of 14 rows mis-priced that
+way. FCST-001 (closed) grants precisely this one day of grace — "the resolution step
+runs the next morning by design". So: resolve FUNC tomorrow off the settled 08-19
+close, mechanically, and it is overdue the moment it is not resolved then. Writing
+this down so tomorrow's run cannot mistake a deferral for a completed pass.
+
+TEN NEW CLUSTERS LOGGED, one entry day, check 2026-09-18: NVRI $0.159M (2),
+EVLV $0.135M (2), SKYH $0.064M (2), RWAY $0.063M (2), GABC $0.063M (4),
+TISI $0.057M (2), SNBH $0.008M (2), AFCG $0.008M (2), RVSB $0.006M (2),
+KWY $0.004M (2). All ten came back `stale_quote = no` — no frozen references in
+this batch. Only NVRI and EVLV clear the $100k headline floor; the other eight are
+sub-floor and are reported separately, never blended.
+
+TWO CLUSTERS REFUSED AS UNPRICEABLE, per INS-007: EDAP (4 insiders, $0.143M) and
+PNAQ (2 insiders, $0 open-market / $22.5M other). Both 404 on the Yahoo chart
+endpoint on query1 AND query2. append_call() refused them rather than letting an
+unscoreable row into the open book, which is the write path doing its job.
+
+AUTOMATION GAP FOUND, logged and NOT silently patched. `write_exclusions()` in
+collector_edgar.py only upserts clusters whose issuer never resolved to a ticker —
+it filters on the `(CIK n)` form. Ticker-shaped-but-unquotable names (EDAP, PNAQ,
+AXIA3) fall straight through it, so their `last_seen` and `sessions` freeze while
+the cluster is still live in the feed. Evidence: today's collector pass bumped HPS
+REAL ASSETS to last_seen 2026-08-19 but left EDAP and PNAQ reading 2026-08-17
+despite both being in today's cluster list. I upserted those two by hand and wrote
+the reason into the row. The register is a disclosed-exclusion log for a hypothesis
+test — a filter that quietly stops recording is the same failure INS-003 was opened
+for. Someone should decide whether write_exclusions() should key on "no price
+series" rather than "no ticker string".
+
+STRATA, and the discipline the council named. Headline (>= $100k): 65 logged,
+5 scored, 80%. Sub-floor (< $100k): 24 logged, 2 scored, 50%. One unknown, unscored.
+Never blend them. And the standing rule on the combined figure: it is 5 of 7, n=7,
+against a pre-registered verdict of 669 events, median abnormal -0.010%, win rate
+49.6%, bootstrap 95% CI containing zero. Seven rows cannot move that, and 71% must
+never be quoted without both the n and the 49.6% beside it. All seven scored rows
+also share ONE entry day, so `dates=1` is the honest denominator, not `n=7`.
+
+ATTRIBUTION: 96 calls joined, 96 with vintage features, 0 unrecoverable, 7 scored.
+Every stratum in the table is n=1 to n=6 on dates=1. There is no lesson to draw
+from it yet; the correct lesson is "n too small", written exactly that way.
+
+TODAY'S FORECAST: NVRI above 19.66 on 2026-09-02, p = 0.51. The one genuinely new
+feature in the batch is that the run-up is NEGATIVE — our reference 19.66 sits below
+two of NVRI's three insider lots (director at 20.461 on 08-17, CFO at 20.43 and
+19.50 on 08-18), so unlike most rows in this book we are not logging after the Form
+4 has already moved the stock. That is worth recording as a feature; it is not worth
+a probability tilt, because the 669-event null governs and n=3 strata do not.
