@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-19 14:20 UTC",
+ "updated_utc": "2026-08-19 14:36 UTC",
  "purchases": [
-  {
-   "ticker": "AMRC",
-   "company": "Ameresco, Inc.",
-   "insider": "Cox Brian C",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 39700.0,
-   "price": 25.07,
-   "value": 995279.0,
-   "acc": "0001628280-26-055890",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 7467.0,
-   "price": 216.1514,
-   "value": 1614002.5,
-   "acc": "0001104659-26-094887",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "PRMB",
-   "company": "Primo Brands Corp",
-   "insider": "FOSS ERIC J",
-   "role": "Exec. Chair and CEO",
-   "date": "2026-08-10",
-   "shares": 83900.0,
-   "price": 23.7967,
-   "value": 1996543.13,
-   "acc": "0001493152-26-037375",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
@@ -4694,6 +4658,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "GAIN",
+   "company": "GLADSTONE INVESTMENT CORPORATION\\DE",
+   "insider": "Ritchie Taylor",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-18",
+   "shares": 1500.0,
+   "price": 16.2,
+   "value": 24300.0,
+   "acc": "0002045064-26-000004",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "SRI",
    "company": "STONERIDGE INC",
    "insider": "Humphrey Scott Randall",
@@ -4812,6 +4788,30 @@
    "value": 185955.0,
    "acc": "0000935596-26-000017",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "ATXG",
+   "company": "ADDENTAX GROUP CORP.",
+   "insider": "HONG ZHIWANG",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 218750.0,
+   "price": 4.8,
+   "value": 1050000.0,
+   "acc": "0001493152-26-039156",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-08-19",
+   "shares": 10000.0,
+   "price": 0.059,
+   "value": 590.0,
+   "acc": "0001035422-26-000005",
+   "filed": "2026-08-19"
   }
  ],
  "clusters": [
@@ -4855,11 +4855,6 @@
    "ticker": "XRN",
    "insiders": 3,
    "total_value": 1263525.0
-  },
-  {
-   "ticker": "AMRC",
-   "insiders": 2,
-   "total_value": 1021179.0
   },
   {
    "ticker": "ABCL",
@@ -5060,7 +5055,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021510",
   "0001918704-26-021511",
   "0001918704-26-021512",
   "0001918704-26-021513",
@@ -7551,6 +7545,7 @@
   "0002044800-26-000006",
   "0002045034-26-000003",
   "0002045034-26-000005",
+  "0002045064-26-000004",
   "0002045458-26-000033",
   "0002045458-26-000035",
   "0002045458-26-000037",
