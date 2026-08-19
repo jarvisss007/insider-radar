@@ -1,31 +1,6 @@
 {
- "updated_utc": "2026-08-19 11:58 UTC",
+ "updated_utc": "2026-08-19 12:13 UTC",
  "purchases": [
-  {
-   "ticker": "PNAQ",
-   "company": "Pinnacle Acquisition Corp",
-   "insider": "Stoyan Paul J.",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 35000.0,
-   "price": 10.0,
-   "value": 350000.0,
-   "acc": "0001213900-26-088544",
-   "filed": "2026-08-12",
-   "placement": true
-  },
-  {
-   "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
-   "company": "HPS Real Assets Lending Co LP",
-   "insider": "Lawson Hugh J",
-   "role": "Co-Chief Executive Officer",
-   "date": "2026-08-10",
-   "shares": 16000.0,
-   "price": 25.0,
-   "value": 400000.0,
-   "acc": "0001193125-26-346520",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "STWI",
    "company": "StageWise Strategies Corp.",
@@ -4719,6 +4694,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "NVRI",
+   "company": "Enviri Corp",
+   "insider": "Minan Peter Francis",
+   "role": "Executive Vice President & CFO",
+   "date": "2026-08-18",
+   "shares": 507.0,
+   "price": 19.5,
+   "value": 9886.5,
+   "acc": "0002104052-26-000134",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "SRI",
    "company": "STONERIDGE INC",
    "insider": "Humphrey Scott Randall",
@@ -4741,6 +4728,18 @@
    "value": 44925.0,
    "acc": "0001628873-26-000075",
    "filed": "2026-08-18"
+  },
+  {
+   "ticker": "NVRI",
+   "company": "Enviri Corp",
+   "insider": "Minan Peter Francis",
+   "role": "Executive Vice President & CFO",
+   "date": "2026-08-18",
+   "shares": 2439.0,
+   "price": 20.43,
+   "value": 49828.77,
+   "acc": "0002104052-26-000134",
+   "filed": "2026-08-19"
   },
   {
    "ticker": "NTHI",
@@ -4818,8 +4817,8 @@
  "clusters": [
   {
    "ticker": "HPS REAL ASSETS LENDING CO LP (CIK 2089975)",
-   "insiders": 3,
-   "total_value": 10900000.0
+   "insiders": 2,
+   "total_value": 10500000.0
   },
   {
    "ticker": "BORR",
@@ -4948,6 +4947,11 @@
    "total_value": 227519.28
   },
   {
+   "ticker": "NVRI",
+   "insiders": 2,
+   "total_value": 159462.65
+  },
+  {
    "ticker": "SMRT",
    "insiders": 2,
    "total_value": 148960.0
@@ -5039,9 +5043,9 @@
   },
   {
    "ticker": "PNAQ",
-   "insiders": 4,
+   "insiders": 3,
    "total_value": 0,
-   "other_value": 29600000.0
+   "other_value": 29250000.0
   },
   {
    "ticker": "APLM",
@@ -5051,7 +5055,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021498",
   "0001918704-26-021499",
   "0001918704-26-021500",
   "0001918704-26-021501",
@@ -7884,6 +7887,7 @@
   "0002103514-26-000010",
   "0002104019-26-000006",
   "0002104052-26-000132",
+  "0002104052-26-000134",
   "0002104070-26-000005",
   "0002104631-26-000012",
   "0002104954-26-000001",
