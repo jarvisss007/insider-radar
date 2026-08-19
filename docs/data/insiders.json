@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-19 19:51 UTC",
+ "updated_utc": "2026-08-19 20:07 UTC",
  "purchases": [
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 166095.0,
-   "price": 215.0725,
-   "value": 35722466.89,
-   "acc": "0001104659-26-094887",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Starr Gayle P",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 17.842,
-   "price": 11.9,
-   "value": 212.32,
-   "acc": "0001435109-26-000133",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "AVBC",
-   "company": "Avidia Bancorp, Inc.",
-   "insider": "Saul Kennedy O",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 13.0,
-   "price": 21.61,
-   "value": 280.93,
-   "acc": "0001437749-26-027263",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Starr Gayle P",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 28.4269,
-   "price": 10.12,
-   "value": 287.68,
-   "acc": "0001435109-26-000134",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 1.0,
-   "price": 352.62,
-   "value": 352.62,
-   "acc": "0001437749-26-027275",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "PTIX",
    "company": "Protagenic Therapeutics, Inc.\\new",
@@ -3896,6 +3836,30 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "VENU",
+   "company": "Venu Holding Corp",
+   "insider": "ROTH JAY W",
+   "role": "CEO & Chairman",
+   "date": "2026-08-17",
+   "shares": 1000.0,
+   "price": 1.8399,
+   "value": 1839.9,
+   "acc": "0001493152-26-039199",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Fazio Gianni James Lezziere",
+   "role": "Chief Accounting Officer",
+   "date": "2026-08-17",
+   "shares": 200.0,
+   "price": 9.55,
+   "value": 1910.0,
+   "acc": "0001193125-26-356878",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4088,6 +4052,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "HUMA",
+   "company": "Humacyte, Inc.",
+   "insider": "Jones Keith Anthony",
+   "role": "Director",
+   "date": "2026-08-17",
+   "shares": 30000.0,
+   "price": 0.594,
+   "value": 17820.0,
+   "acc": "0001193125-26-356847",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "GABC",
    "company": "GERMAN AMERICAN BANCORP, INC.",
    "insider": "Seger Andrew M",
@@ -4182,6 +4158,18 @@
    "value": 31640.0,
    "acc": "0001213900-26-090890",
    "filed": "2026-08-17"
+  },
+  {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Mahajan Umesh",
+   "role": "Secretary; Co-CIO",
+   "date": "2026-08-17",
+   "shares": 4000.0,
+   "price": 9.6,
+   "value": 38400.0,
+   "acc": "0001193125-26-356876",
+   "filed": "2026-08-19"
   },
   {
    "ticker": "AVBC",
@@ -4556,6 +4544,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "PHIO",
+   "company": "Phio Pharmaceuticals Corp.",
+   "insider": "Bitterman Robert J",
+   "role": "Chairman, Pres. & CEO",
+   "date": "2026-08-18",
+   "shares": 10000.0,
+   "price": 1.06,
+   "value": 10600.0,
+   "acc": "0001683168-26-006592",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "EMYB",
    "company": "Embassy Bancorp, Inc.",
    "insider": "Lobach David M Jr",
@@ -4917,7 +4917,7 @@
   {
    "ticker": "AVBC",
    "insiders": 3,
-   "total_value": 266026.34
+   "total_value": 265745.41
   },
   {
    "ticker": "KMPR",
@@ -5010,6 +5010,11 @@
    "total_value": 57300.0
   },
   {
+   "ticker": "LIEN",
+   "insiders": 2,
+   "total_value": 40310.0
+  },
+  {
    "ticker": "SNBH",
    "insiders": 2,
    "total_value": 8321.0
@@ -5042,13 +5047,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021571",
-  "0001918704-26-021572",
-  "0001918704-26-021575",
-  "0001918704-26-021576",
-  "0001918704-26-021577",
-  "0001918704-26-021580",
-  "0001918704-26-021581",
   "0001918704-26-021582",
   "0001918704-26-021583",
   "0001918704-26-021584",
@@ -6612,6 +6610,11 @@
   "0001918704-26-024285",
   "0001918704-26-024286",
   "0001918704-26-024287",
+  "0001918704-26-024288",
+  "0001918704-26-024289",
+  "0001918704-26-024290",
+  "0001918704-26-024291",
+  "0001918704-26-024292",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6625,6 +6628,7 @@
   "0001921051-26-000012",
   "0001921253-26-000004",
   "0001921640-26-000011",
+  "0001922054-26-000001",
   "0001923149-26-000006",
   "0001923231-26-000003",
   "0001923231-26-000005",
@@ -6903,6 +6907,7 @@
   "0001989065-26-000010",
   "0001989382-26-000014",
   "0001989421-26-000008",
+  "0001989648-26-000012",
   "0001989913-26-000008",
   "0001990106-26-000017",
   "0001990106-26-000019",
