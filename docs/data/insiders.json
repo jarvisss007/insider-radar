@@ -1,57 +1,6 @@
 {
- "updated_utc": "2026-08-19 15:23 UTC",
+ "updated_utc": "2026-08-19 15:39 UTC",
  "purchases": [
-  {
-   "ticker": "PNAQ",
-   "company": "Pinnacle Acquisition Corp",
-   "insider": "RECHTSCHAFFEN ANDREW",
-   "role": "Director",
-   "date": "2026-08-10",
-   "shares": 225000.0,
-   "price": 10.0,
-   "value": 2250000.0,
-   "acc": "0001213900-26-088542",
-   "filed": "2026-08-12",
-   "placement": true
-  },
-  {
-   "ticker": "PNAQ",
-   "company": "Pinnacle Acquisition Corp",
-   "insider": "Hudson Steven Kenneth",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-10",
-   "shares": 225000.0,
-   "price": 10.0,
-   "value": 2250000.0,
-   "acc": "0001213900-26-088545",
-   "filed": "2026-08-12",
-   "placement": true
-  },
-  {
-   "ticker": "PNAQ",
-   "company": "Pinnacle Acquisition Corp",
-   "insider": "PAC Sponsor, LLC",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 225000.0,
-   "price": 10.0,
-   "value": 2250000.0,
-   "acc": "0001213900-26-088543",
-   "filed": "2026-08-12",
-   "placement": true
-  },
-  {
-   "ticker": "ACDC",
-   "company": "ProFrac Holding Corp.",
-   "insider": "Wilks Dan H.",
-   "role": "10% owner",
-   "date": "2026-08-10",
-   "shares": 517669.0,
-   "price": 4.859,
-   "value": 2515353.67,
-   "acc": "0001104659-26-095159",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "LTGO",
    "company": "Latigo Biotherapeutics, Inc.",
@@ -4610,6 +4559,30 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 1.0,
+   "price": 361.16,
+   "value": 361.16,
+   "acc": "0001437749-26-028485",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "ADMQ",
+   "company": "ADM ENDEAVORS, INC.",
+   "insider": "Johnson Marc",
+   "role": "CEO",
+   "date": "2026-08-18",
+   "shares": 23000.0,
+   "price": 0.0378,
+   "value": 869.4,
+   "acc": "0001493152-26-039160",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4632,6 +4605,30 @@
    "value": 3020.0,
    "acc": "0001628280-26-057771",
    "filed": "2026-08-18"
+  },
+  {
+   "ticker": "ADMQ",
+   "company": "ADM ENDEAVORS, INC.",
+   "insider": "Johnson Marc",
+   "role": "CEO",
+   "date": "2026-08-18",
+   "shares": 100000.0,
+   "price": 0.0422,
+   "value": 4220.0,
+   "acc": "0001493152-26-039160",
+   "filed": "2026-08-19"
+  },
+  {
+   "ticker": "ADMQ",
+   "company": "ADM ENDEAVORS, INC.",
+   "insider": "Johnson Marc",
+   "role": "CEO",
+   "date": "2026-08-18",
+   "shares": 120000.0,
+   "price": 0.04,
+   "value": 4800.0,
+   "acc": "0001493152-26-039160",
+   "filed": "2026-08-19"
   },
   {
    "ticker": "NVRI",
@@ -4842,11 +4839,6 @@
    "total_value": 3987581.0
   },
   {
-   "ticker": "ACDC",
-   "insiders": 2,
-   "total_value": 3739007.63
-  },
-  {
    "ticker": "ANGX",
    "insiders": 3,
    "total_value": 2801122.83
@@ -4855,6 +4847,11 @@
    "ticker": "XRN",
    "insiders": 3,
    "total_value": 1263525.0
+  },
+  {
+   "ticker": "ACDC",
+   "insiders": 2,
+   "total_value": 1223653.96
   },
   {
    "ticker": "ABCL",
@@ -5043,9 +5040,9 @@
   },
   {
    "ticker": "PNAQ",
-   "insiders": 3,
+   "insiders": 2,
    "total_value": 0,
-   "other_value": 29250000.0
+   "other_value": 22500000.0
   },
   {
    "ticker": "APLM",
