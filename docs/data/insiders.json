@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-20 17:40 UTC",
+ "updated_utc": "2026-08-20 18:12 UTC",
  "purchases": [
-  {
-   "ticker": "TXO",
-   "company": "TXO Partners, L.P.",
-   "insider": "SIMPSON BOB R",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 100000.0,
-   "price": 14.2748,
-   "value": 1427480.0,
-   "acc": "0001182684-26-000017",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "GLIBK",
-   "company": "Liberty Capital Corp/NV",
-   "insider": "MALONE JOHN C",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 68800.0,
-   "price": 25.2246,
-   "value": 1735452.48,
-   "acc": "0001225208-26-007097",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "AAT",
-   "company": "American Assets Trust, Inc.",
-   "insider": "RADY ERNEST S",
-   "role": "Executive Chairman",
-   "date": "2026-08-11",
-   "shares": 100000.0,
-   "price": 22.52,
-   "value": 2252000.0,
-   "acc": "0001221359-26-000037",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -4520,6 +4484,30 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "HKHC",
+   "company": "Horizon Kinetics Holding Corp",
+   "insider": "Herndon Mark",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-19",
+   "shares": 50.0,
+   "price": 26.5,
+   "value": 1325.0,
+   "acc": "0001437749-26-028621",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 756.0,
+   "price": 2.88,
+   "value": 2177.28,
+   "acc": "0001437749-26-028620",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BY",
    "company": "BYLINE BANCORP, INC.",
    "insider": "KISTNER WILLIAM G",
@@ -4784,6 +4772,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "HKHC",
+   "company": "Horizon Kinetics Holding Corp",
+   "insider": "Herndon Mark",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-20",
+   "shares": 200.0,
+   "price": 26.75,
+   "value": 5350.0,
+   "acc": "0001437749-26-028621",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "COMER JAMES F",
@@ -5027,9 +5027,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021734",
-  "0001918704-26-021735",
-  "0001918704-26-021736",
   "0001918704-26-021737",
   "0001918704-26-021738",
   "0001918704-26-021739",
@@ -6506,6 +6503,8 @@
   "0001918704-26-024351",
   "0001918704-26-024352",
   "0001918704-26-024354",
+  "0001918704-26-024355",
+  "0001918704-26-024356",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7861,6 +7860,7 @@
   "0002108589-26-000018",
   "0002109272-26-000008",
   "0002109337-26-000010",
+  "0002109817-26-000012",
   "0002110304-26-000019",
   "0002110638-26-000019",
   "0002110643-26-000016",
