@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-08-20 21:09 UTC",
+ "updated_utc": "2026-08-20 21:28 UTC",
  "purchases": [
-  {
-   "ticker": "BRK.B",
-   "company": "BERKSHIRE HATHAWAY INC",
-   "insider": "O'Sullivan Michael J.",
-   "role": "See Remarks",
-   "date": "2026-08-12",
-   "shares": 400.0,
-   "price": 512.52,
-   "value": 205008.0,
-   "acc": "0001193125-26-349574",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 69172.0,
-   "price": 3.0869,
-   "value": 213527.05,
-   "acc": "0001539497-26-002267",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "EMBC",
-   "company": "Embecta Corp.",
-   "insider": "HOMBACH ROBERT J.",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 45000.0,
-   "price": 4.9744,
-   "value": 223848.0,
-   "acc": "0000947871-26-000786",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "BTDR",
-   "company": "Bitdeer Technologies Group",
-   "insider": "Potter Michael G",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-12",
-   "shares": 25000.0,
-   "price": 9.04,
-   "value": 226000.0,
-   "acc": "0001213900-26-088668",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "WES",
-   "company": "Western Midstream Partners, LP",
-   "insider": "Forthuber Frederick A.",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 5140.0,
-   "price": 48.62,
-   "value": 249906.8,
-   "acc": "0001423902-26-000095",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "GLXY",
-   "company": "Galaxy Digital Inc.",
-   "insider": "DEASON DOUGLAS R",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 12000.0,
-   "price": 21.536,
-   "value": 258432.0,
-   "acc": "0001079500-26-000008",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "CODI",
-   "company": "Compass Diversified Holdings",
-   "insider": "Sawtelle Zachary T.",
-   "role": "",
-   "date": "2026-08-12",
-   "shares": 25000.0,
-   "price": 11.9863,
-   "value": 299657.5,
-   "acc": "0001193125-26-349762",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "PTLO",
-   "company": "Portillo's Inc.",
-   "insider": "LEE EUGENE I JR",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 65355.0,
-   "price": 4.59,
-   "value": 299979.45,
-   "acc": "0001242843-26-000010",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "TXO",
-   "company": "TXO Partners, L.P.",
-   "insider": "SIMPSON BOB R",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 25000.0,
-   "price": 14.4303,
-   "value": 360757.5,
-   "acc": "0001182684-26-000020",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "BDSX",
    "company": "BIODESIX INC",
@@ -3296,6 +3188,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "FGBI",
+   "company": "First Guaranty Bancshares, Inc.",
+   "insider": "WALKER ROBERT W",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 8.0,
+   "price": 18.95,
+   "value": 151.6,
+   "acc": "0001437749-26-028648",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4040,6 +3944,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 396950.0,
+   "price": 3.345,
+   "value": 1327797.75,
+   "acc": "0002022936-26-000012",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4073,6 +3989,18 @@
    "price": 218.3258,
    "value": 5911607.69,
    "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "ET",
+   "company": "Energy Transfer LP",
+   "insider": "WARREN KELCY L",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 352032.0,
+   "price": 21.27,
+   "value": 7487720.64,
+   "acc": "0001193125-26-359388",
    "filed": "2026-08-20"
   },
   {
@@ -4364,6 +4292,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "AIAI",
+   "company": "AIAI Holdings Corp",
+   "insider": "Affeldt Eric",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 5000.0,
+   "price": 5.96,
+   "value": 29800.0,
+   "acc": "0001493152-26-039510",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4409,6 +4349,18 @@
    "price": 1.398,
    "value": 55920.0,
    "acc": "0001193125-26-359347",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "FGBI",
+   "company": "First Guaranty Bancshares, Inc.",
+   "insider": "WALKER ROBERT W",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 3593.0,
+   "price": 19.12,
+   "value": 68698.16,
+   "acc": "0001437749-26-028648",
    "filed": "2026-08-20"
   },
   {
@@ -4556,6 +4508,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "BWA",
+   "company": "BORGWARNER INC",
+   "insider": "Kalathur Rajesh",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 7407.0,
+   "price": 67.5934,
+   "value": 500664.31,
+   "acc": "0001225208-26-007231",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4592,6 +4556,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 902975.0,
+   "price": 3.339,
+   "value": 3015033.52,
+   "acc": "0002022936-26-000012",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4613,6 +4589,18 @@
    "price": 222.6553,
    "value": 12794664.16,
    "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "ET",
+   "company": "Energy Transfer LP",
+   "insider": "WARREN KELCY L",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 647968.0,
+   "price": 21.26,
+   "value": 13775799.68,
+   "acc": "0001193125-26-359388",
    "filed": "2026-08-20"
   },
   {
@@ -4806,6 +4794,18 @@
    "value": 37416.53,
    "acc": "0001628873-26-000077",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "KEEL",
+   "company": "Keel Infrastructure Corp.",
+   "insider": "WILSON LIAM DANIEL",
+   "role": "Chief Operating Officer",
+   "date": "2026-08-20",
+   "shares": 30769.0,
+   "price": 3.25,
+   "value": 99999.25,
+   "acc": "0001812477-26-000029",
+   "filed": "2026-08-20"
   }
  ],
  "clusters": [
@@ -4870,14 +4870,14 @@
    "total_value": 480728.38
   },
   {
-   "ticker": "BTDR",
-   "insiders": 2,
-   "total_value": 447000.0
-  },
-  {
    "ticker": "FOCL",
    "insiders": 4,
    "total_value": 408500.0
+  },
+  {
+   "ticker": "KEEL",
+   "insiders": 2,
+   "total_value": 396160.45
   },
   {
    "ticker": "PAL",
@@ -4888,11 +4888,6 @@
    "ticker": "LBGJ",
    "insiders": 2,
    "total_value": 299999.0
-  },
-  {
-   "ticker": "KEEL",
-   "insiders": 2,
-   "total_value": 296161.2
   },
   {
    "ticker": "NVRI",
@@ -4970,6 +4965,11 @@
    "total_value": 38828.22
   },
   {
+   "ticker": "AIAI",
+   "insiders": 2,
+   "total_value": 35390.0
+  },
+  {
    "ticker": "PHIO",
    "insiders": 2,
    "total_value": 27700.0
@@ -5007,17 +5007,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021792",
-  "0001918704-26-021793",
-  "0001918704-26-021794",
-  "0001918704-26-021795",
-  "0001918704-26-021796",
-  "0001918704-26-021797",
-  "0001918704-26-021798",
-  "0001918704-26-021799",
-  "0001918704-26-021800",
-  "0001918704-26-021801",
-  "0001918704-26-021802",
   "0001918704-26-021803",
   "0001918704-26-021804",
   "0001918704-26-021805",
@@ -6466,6 +6455,10 @@
   "0001918704-26-024387",
   "0001918704-26-024390",
   "0001918704-26-024391",
+  "0001918704-26-024392",
+  "0001918704-26-024393",
+  "0001918704-26-024394",
+  "0001918704-26-024395",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7322,6 +7315,7 @@
   "0002022050-26-000009",
   "0002022654-26-000004",
   "0002022869-26-000028",
+  "0002022936-26-000012",
   "0002023255-26-000007",
   "0002023454-26-000004",
   "0002023657-26-000005",
@@ -7469,6 +7463,7 @@
   "0002050035-26-000011",
   "0002050167-26-000019",
   "0002050372-26-000013",
+  "0002050372-26-000015",
   "0002050576-26-000004",
   "0002050857-26-000012",
   "0002050978-26-000006",
@@ -7655,6 +7650,7 @@
   "0002071844-26-001033",
   "0002071844-26-001054",
   "0002071844-26-001086",
+  "0002071844-26-001108",
   "0002071876-26-000190",
   "0002071948-26-000005",
   "0002073180-26-000006",
@@ -7861,9 +7857,12 @@
   "0002114987-26-000002",
   "0002115951-26-000004",
   "0002116333-26-000001",
+  "0002116394-26-000003",
   "0002116980-26-000006",
+  "0002117086-26-000002",
   "0002117102-26-000004",
   "0002117905-26-000018",
+  "0002118012-26-000003",
   "0002118402-26-000013",
   "0002119130-26-000007",
   "0002120008-26-000006",
@@ -7961,6 +7960,7 @@
   "0002142208-26-000015",
   "0002142262-26-000006",
   "0002142436-26-000004",
+  "0002142615-26-000003",
   "0002142653-26-000004",
   "0002142755-26-000004",
   "0002142805-26-000005",
