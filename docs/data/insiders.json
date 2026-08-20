@@ -1,246 +1,6 @@
 {
- "updated_utc": "2026-08-20 20:34 UTC",
+ "updated_utc": "2026-08-20 20:50 UTC",
  "purchases": [
-  {
-   "ticker": "FNRN",
-   "company": "FIRST NORTHERN COMMUNITY BANCORP",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 600.0,
-   "price": 17.2899,
-   "value": 10373.94,
-   "acc": "0001437749-26-027431",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "AMH",
-   "company": "American Homes 4 Rent",
-   "insider": "BENHAM DOUGLAS N",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 500.0,
-   "price": 22.51,
-   "value": 11255.0,
-   "acc": "0001275331-26-000012",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "LTC",
-   "company": "LTC PROPERTIES INC",
-   "insider": "Gruber David L",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 500.0,
-   "price": 38.3,
-   "value": 19150.0,
-   "acc": "0001987058-26-000003",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "OCSL",
-   "company": "Oaktree Specialty Lending Corp",
-   "insider": "Panossian Armen",
-   "role": "See Remarks",
-   "date": "2026-08-12",
-   "shares": 1700.0,
-   "price": 12.6945,
-   "value": 21580.65,
-   "acc": "0001193125-26-349145",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "BRK.B",
-   "company": "BERKSHIRE HATHAWAY INC",
-   "insider": "O'Sullivan Michael J.",
-   "role": "See Remarks",
-   "date": "2026-08-12",
-   "shares": 43.0,
-   "price": 513.61,
-   "value": 22085.23,
-   "acc": "0001193125-26-349574",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "BLBD",
-   "company": "Blue Bird Corp",
-   "insider": "Thau Daniel Mark",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 350.0,
-   "price": 64.37,
-   "value": 22529.5,
-   "acc": "0002047774-26-000007",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "BRK.B",
-   "company": "BERKSHIRE HATHAWAY INC",
-   "insider": "O'Sullivan Michael J.",
-   "role": "See Remarks",
-   "date": "2026-08-12",
-   "shares": 45.0,
-   "price": 510.64,
-   "value": 22978.8,
-   "acc": "0001193125-26-349574",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "RICK",
-   "company": "RCI HOSPITALITY HOLDINGS, INC.",
-   "insider": "Barabash Yura V",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 888.0,
-   "price": 27.2899,
-   "value": 24233.43,
-   "acc": "0001628280-26-056563",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "UTI",
-   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
-   "insider": "DEVINCENZI ROBERT THOMAS",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 1000.0,
-   "price": 25.945,
-   "value": 25945.0,
-   "acc": "0001193125-26-352890",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "HDSN",
-   "company": "HUDSON TECHNOLOGIES INC /NY",
-   "insider": "Hartree Partners, LP",
-   "role": "10% owner",
-   "date": "2026-08-12",
-   "shares": 5198.0,
-   "price": 5.5,
-   "value": 28589.0,
-   "acc": "0000921895-26-002194",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "CC",
-   "company": "Chemours Co",
-   "insider": "Familiar Calderon Gerardo",
-   "role": "See Remarks",
-   "date": "2026-08-12",
-   "shares": 1935.0,
-   "price": 15.53,
-   "value": 30050.55,
-   "acc": "0001193125-26-349656",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "MSS",
-   "company": "Maison Solutions Inc.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-12",
-   "shares": 22559.0,
-   "price": 1.42,
-   "value": 32033.78,
-   "acc": "0001475597-26-000202",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "SELF",
-   "company": "Global Self Storage, Inc.",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-12",
-   "shares": 6248.0,
-   "price": 5.1524,
-   "value": 32192.2,
-   "acc": "0001628873-26-000064",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "VVV",
-   "company": "VALVOLINE INC",
-   "insider": "Denny Jordan M.",
-   "role": "Chief Accounting Officer",
-   "date": "2026-08-12",
-   "shares": 1506.0,
-   "price": 33.2,
-   "value": 49999.2,
-   "acc": "0002120008-26-000006",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "BW",
-   "company": "Babcock & Wilcox Enterprises, Inc.",
-   "insider": "Young Kenneth M",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-12",
-   "shares": 7000.0,
-   "price": 9.65,
-   "value": 67550.0,
-   "acc": "0001630805-26-000071",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-12",
-   "shares": 951.0,
-   "price": 71.5,
-   "value": 67996.5,
-   "acc": "0001493152-26-038304",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "NMM",
-   "company": "Navios Maritime Partners L.P.",
-   "insider": "Frangou Angeliki",
-   "role": "See Remarks",
-   "date": "2026-08-12",
-   "shares": 1062.0,
-   "price": 79.1604,
-   "value": 84068.34,
-   "acc": "0001193125-26-347503",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "BHRB",
-   "company": "Burke & Herbert Financial Services Corp.",
-   "insider": "Poillon Diane",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 1200.0,
-   "price": 73.6651,
-   "value": 88398.12,
-   "acc": "0001945031-26-000013",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "EMBC",
-   "company": "Embecta Corp.",
-   "insider": "Elguicze Jacob",
-   "role": "SVP and CFO",
-   "date": "2026-08-12",
-   "shares": 20000.0,
-   "price": 4.668,
-   "value": 93360.0,
-   "acc": "0000947871-26-000788",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "ATMU",
-   "company": "Atmus Filtration Technologies Inc.",
-   "insider": "Macadam Stephen E.",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 2000.0,
-   "price": 49.7756,
-   "value": 99551.2,
-   "acc": "0001432316-26-000007",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "EMBC",
    "company": "Embecta Corp.",
@@ -3800,6 +3560,42 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "ACV",
+   "company": "Virtus Diversified Income & Convertible Fund",
+   "insider": "MCDANIEL CONNIE D",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 221.0,
+   "price": 26.95,
+   "value": 5955.95,
+   "acc": "0001101225-26-000006",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NCV",
+   "company": "Virtus Convertible & Income Fund",
+   "insider": "MCDANIEL CONNIE D",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 356.0,
+   "price": 16.8302,
+   "value": 5991.55,
+   "acc": "0001101225-26-000005",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NCZ",
+   "company": "Virtus Convertible & Income Fund II",
+   "insider": "MCDANIEL CONNIE D",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 382.0,
+   "price": 15.7,
+   "value": 5997.4,
+   "acc": "0001101225-26-000002",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "QVCG",
    "company": "QVC Group, Inc.",
    "insider": "GOLDENTREE ASSET MANAGEMENT LP",
@@ -4304,6 +4100,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 6190.0,
+   "price": 216.839,
+   "value": 1342233.41,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BKKT",
    "company": "Bakkt, Inc.",
    "insider": "ALFRED MICHAEL",
@@ -4314,6 +4122,30 @@
    "value": 2111557.04,
    "acc": "0001628280-26-057900",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 27077.0,
+   "price": 218.3258,
+   "value": 5911607.69,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 166858.0,
+   "price": 217.8728,
+   "value": 36353819.66,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "TPL",
@@ -4409,6 +4241,18 @@
    "price": 21.98,
    "value": 2198.0,
    "acc": "0000063296-26-000086",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 493.0,
+   "price": 4.5373,
+   "value": 2236.89,
+   "acc": "0001628280-26-058269",
    "filed": "2026-08-20"
   },
   {
@@ -4544,6 +4388,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "CCAP",
+   "company": "Crescent Capital BDC, Inc.",
+   "insider": "Lombard Gerhard",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-19",
+   "shares": 2000.0,
+   "price": 10.91,
+   "value": 21820.0,
+   "acc": "0001193125-26-359278",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -4664,6 +4520,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 705.0,
+   "price": 216.6491,
+   "value": 152737.62,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4688,6 +4556,66 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 1400.0,
+   "price": 217.5244,
+   "value": 304534.16,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 2049.0,
+   "price": 218.6433,
+   "value": 448000.12,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 2175.0,
+   "price": 219.4929,
+   "value": 477397.06,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 2778.0,
+   "price": 224.0853,
+   "value": 622508.96,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 4432.0,
+   "price": 220.8164,
+   "value": 978658.28,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "ENHA",
    "company": "Enhanced Group Inc.",
    "insider": "Apeiron Investment Group Ltd.",
@@ -4697,6 +4625,54 @@
    "price": 1.66,
    "value": 2688064.56,
    "acc": "0001193125-26-357979",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 39272.0,
+   "price": 221.4089,
+   "value": 8695170.32,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 57464.0,
+   "price": 222.6553,
+   "value": 12794664.16,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 68569.0,
+   "price": 223.448,
+   "value": 15321605.91,
+   "acc": "0001104659-26-099249",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 70.0,
+   "price": 4.55,
+   "value": 318.5,
+   "acc": "0001628280-26-058269",
    "filed": "2026-08-20"
   },
   {
@@ -4748,6 +4724,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "NWBI",
+   "company": "Northwest Bancshares, Inc.",
+   "insider": "Kranich Charles E.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 385.0,
+   "price": 15.275,
+   "value": 5880.88,
+   "acc": "0001785665-26-000008",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "CDR",
    "company": "CEDAR REALTY TRUST, INC.",
    "insider": "Simone Jason",
@@ -4781,6 +4769,18 @@
    "price": 0.7112,
    "value": 10454.64,
    "acc": "0001182944-26-000005",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NWBI",
+   "company": "Northwest Bancshares, Inc.",
+   "insider": "Kranich Charles E.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 1250.0,
+   "price": 15.275,
+   "value": 19093.75,
+   "acc": "0001785665-26-000008",
    "filed": "2026-08-20"
   },
   {
@@ -4875,14 +4875,14 @@
    "total_value": 567344.0
   },
   {
-   "ticker": "EMBC",
-   "insiders": 4,
-   "total_value": 557945.0
-  },
-  {
    "ticker": "BGDE",
    "insiders": 2,
    "total_value": 480728.38
+  },
+  {
+   "ticker": "EMBC",
+   "insiders": 3,
+   "total_value": 464585.0
   },
   {
    "ticker": "BTDR",
@@ -4915,14 +4915,14 @@
    "total_value": 259159.2
   },
   {
-   "ticker": "SELF",
-   "insiders": 2,
-   "total_value": 176017.85
-  },
-  {
    "ticker": "NVRI",
    "insiders": 2,
    "total_value": 159462.65
+  },
+  {
+   "ticker": "SELF",
+   "insiders": 2,
+   "total_value": 143825.65
   },
   {
    "ticker": "EDAP",
@@ -4940,11 +4940,6 @@
    "total_value": 125670.29
   },
   {
-   "ticker": "BHRB",
-   "insiders": 2,
-   "total_value": 90868.16
-  },
-  {
    "ticker": "MXF",
    "insiders": 2,
    "total_value": 78202.3
@@ -4953,11 +4948,6 @@
    "ticker": "HGBL",
    "insiders": 2,
    "total_value": 77335.0
-  },
-  {
-   "ticker": "RICK",
-   "insiders": 2,
-   "total_value": 74437.43
   },
   {
    "ticker": "MATW",
@@ -5037,14 +5027,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021780",
-  "0001918704-26-021781",
-  "0001918704-26-021782",
-  "0001918704-26-021783",
-  "0001918704-26-021784",
-  "0001918704-26-021785",
-  "0001918704-26-021786",
-  "0001918704-26-021787",
   "0001918704-26-021788",
   "0001918704-26-021789",
   "0001918704-26-021790",
@@ -6504,6 +6486,8 @@
   "0001918704-26-024383",
   "0001918704-26-024384",
   "0001918704-26-024385",
+  "0001918704-26-024386",
+  "0001918704-26-024387",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6622,6 +6606,7 @@
   "0001954584-26-000019",
   "0001954883-26-000013",
   "0001956006-26-000003",
+  "0001957490-26-000004",
   "0001957684-26-000011",
   "0001958010-26-000010",
   "0001958857-26-000003",
@@ -6712,6 +6697,7 @@
   "0001975231-26-000008",
   "0001975231-26-000010",
   "0001975499-26-000004",
+  "0001975669-26-000011",
   "0001976408-26-000642",
   "0001976408-26-000653",
   "0001976408-26-000654",
@@ -7315,7 +7301,9 @@
   "0002014633-26-000018",
   "0002014694-26-000006",
   "0002014966-26-000011",
+  "0002014966-26-000013",
   "0002015287-26-000015",
+  "0002015287-26-000017",
   "0002015472-26-000004",
   "0002015584-26-000008",
   "0002015793-26-000012",
@@ -7353,6 +7341,7 @@
   "0002021896-26-000008",
   "0002022050-26-000009",
   "0002022654-26-000004",
+  "0002022869-26-000028",
   "0002023255-26-000007",
   "0002023454-26-000004",
   "0002023657-26-000005",
@@ -7832,6 +7821,7 @@
   "0002092936-26-000004",
   "0002093210-26-000004",
   "0002093233-26-000014",
+  "0002093849-26-000008",
   "0002094759-26-000002",
   "0002095744-26-000010",
   "0002095744-26-000012",
