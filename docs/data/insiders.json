@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-20 15:50 UTC",
+ "updated_utc": "2026-08-20 16:53 UTC",
  "purchases": [
-  {
-   "ticker": "CEG",
-   "company": "Constellation Energy Corp",
-   "insider": "CRANDALL ROGER W",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 1500.0,
-   "price": 278.6206,
-   "value": 417930.9,
-   "acc": "0000905148-26-003642",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "XRN",
-   "company": "Chiron Real Estate Inc.",
-   "insider": "Fitzgerald Charles",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 14000.0,
-   "price": 35.78,
-   "value": 500920.0,
-   "acc": "0001104659-26-095423",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 108440.0,
-   "price": 6.09,
-   "value": 660399.6,
-   "acc": "0001140361-26-032563",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -4544,6 +4508,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 1.0,
+   "price": 372.1,
+   "value": 372.1,
+   "acc": "0001437749-26-028609",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BRLT",
    "company": "Brilliant Earth Group, Inc.",
    "insider": "Grossberg Eric Scott",
@@ -4652,6 +4628,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "FCNCA",
+   "company": "FIRST CITIZENS BANCSHARES INC /DE/",
+   "insider": "Morais Diane E.",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 4.0,
+   "price": 2167.8049,
+   "value": 8671.22,
+   "acc": "0001193125-26-358811",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
    "insider": "Plott Ronald Todd",
@@ -4721,6 +4709,18 @@
    "price": 1.6433,
    "value": 90381.5,
    "acc": "0001193125-26-357979",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "FCNCA",
+   "company": "FIRST CITIZENS BANCSHARES INC /DE/",
+   "insider": "Morais Diane E.",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 46.0,
+   "price": 2168.1319,
+   "value": 99734.07,
+   "acc": "0001193125-26-358811",
    "filed": "2026-08-20"
   },
   {
@@ -4828,11 +4828,6 @@
    "ticker": "ANGX",
    "insiders": 3,
    "total_value": 2801122.83
-  },
-  {
-   "ticker": "XRN",
-   "insiders": 2,
-   "total_value": 996775.0
   },
   {
    "ticker": "ABCL",
@@ -5022,11 +5017,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021726",
-  "0001918704-26-021727",
-  "0001918704-26-021728",
-  "0001918704-26-021729",
-  "0001918704-26-021730",
   "0001918704-26-021731",
   "0001918704-26-021732",
   "0001918704-26-021733",
@@ -6504,6 +6494,8 @@
   "0001918704-26-024342",
   "0001918704-26-024347",
   "0001918704-26-024348",
+  "0001918704-26-024349",
+  "0001918704-26-024350",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7410,6 +7402,7 @@
   "0002033015-26-000004",
   "0002033015-26-000006",
   "0002033348-26-000008",
+  "0002033633-26-000005",
   "0002033834-26-000019",
   "0002034012-26-000021",
   "0002034144-26-000006",
@@ -7485,6 +7478,7 @@
   "0002046701-26-000009",
   "0002047068-26-000002",
   "0002047319-26-000002",
+  "0002047429-26-000012",
   "0002047535-26-000003",
   "0002047652-26-000002",
   "0002047774-26-000007",
@@ -7562,6 +7556,7 @@
   "0002060166-26-000015",
   "0002060697-26-000012",
   "0002060697-26-000014",
+  "0002060757-26-000051",
   "0002060774-26-000013",
   "0002061058-26-000005",
   "0002061058-26-000006",
