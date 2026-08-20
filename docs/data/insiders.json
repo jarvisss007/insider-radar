@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-20 15:34 UTC",
+ "updated_utc": "2026-08-20 15:50 UTC",
  "purchases": [
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "BORTZ JON E",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 25000.0,
-   "price": 13.4,
-   "value": 335000.0,
-   "acc": "0001229310-26-000012",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "BRACKEN CHARLES H R",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 17425.0,
-   "price": 20.9294,
-   "value": 364694.8,
-   "acc": "0001091974-26-000018",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "CEG",
    "company": "Constellation Energy Corp",
@@ -4712,6 +4688,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "DGXX",
+   "company": "Digi Power X Inc.",
+   "insider": "Amar Michel",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-19",
+   "shares": 20000.0,
+   "price": 3.6,
+   "value": 72000.0,
+   "acc": "0001213900-26-091969",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Yuan Lipen",
@@ -4806,6 +4794,18 @@
    "value": 517.5,
    "acc": "0001035422-26-000006",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "WBHC",
+   "company": "WILSON BANK HOLDING CO",
+   "insider": "COMER JAMES F",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 120.0,
+   "price": 83.45,
+   "value": 10014.0,
+   "acc": "0001899338-26-000009",
+   "filed": "2026-08-20"
   }
  ],
  "clusters": [
@@ -4863,11 +4863,6 @@
    "ticker": "CODI",
    "insiders": 2,
    "total_value": 718097.3
-  },
-  {
-   "ticker": "LILA",
-   "insiders": 2,
-   "total_value": 662021.98
   },
   {
    "ticker": "TNC",
@@ -5027,8 +5022,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021724",
-  "0001918704-26-021725",
   "0001918704-26-021726",
   "0001918704-26-021727",
   "0001918704-26-021728",
@@ -6510,6 +6503,7 @@
   "0001918704-26-024341",
   "0001918704-26-024342",
   "0001918704-26-024347",
+  "0001918704-26-024348",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7232,6 +7226,7 @@
   "0001999371-26-018268",
   "0001999371-26-018270",
   "0001999371-26-018274",
+  "0001999371-26-018277",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
