@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-20 20:50 UTC",
+ "updated_utc": "2026-08-20 21:09 UTC",
  "purchases": [
-  {
-   "ticker": "EMBC",
-   "company": "Embecta Corp.",
-   "insider": "Mann Jeffrey Z",
-   "role": "Pres, Pharm Svc&Prod Mgmt, CLO",
-   "date": "2026-08-12",
-   "shares": 20000.0,
-   "price": 4.99,
-   "value": 99800.0,
-   "acc": "0000947871-26-000787",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "TNC",
-   "company": "TENNANT CO",
-   "insider": "Morse Timothy R.",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 1500.0,
-   "price": 68.18,
-   "value": 102270.0,
-   "acc": "0001388682-26-000004",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "DFH",
-   "company": "Dream Finders Homes, Inc.",
-   "insider": "BECKWITT RICHARD",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 8000.0,
-   "price": 13.83,
-   "value": 110640.0,
-   "acc": "0000897069-26-001671",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "CODI",
-   "company": "Compass Diversified Holdings",
-   "insider": "Keller Stephen",
-   "role": "",
-   "date": "2026-08-12",
-   "shares": 10000.0,
-   "price": 12.0143,
-   "value": 120143.0,
-   "acc": "0001193125-26-349764",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "EMBC",
-   "company": "Embecta Corp.",
-   "insider": "Kurdikar Devdatt",
-   "role": "President and CEO",
-   "date": "2026-08-12",
-   "shares": 30000.0,
-   "price": 4.6979,
-   "value": 140937.0,
-   "acc": "0000947871-26-000789",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "AMRZ",
-   "company": "Amrize Ltd",
-   "insider": "Oran Baris",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-12",
-   "shares": 3000.0,
-   "price": 47.13,
-   "value": 141390.0,
-   "acc": "0001874231-26-000007",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "BRK.B",
    "company": "BERKSHIRE HATHAWAY INC",
@@ -3608,6 +3536,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 20000.0,
+   "price": 0.3541,
+   "value": 7082.0,
+   "acc": "0001683168-26-006635",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BRLT",
    "company": "Brilliant Earth Group, Inc.",
    "insider": "Gerstein Beth Tamara",
@@ -4316,6 +4256,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 20000.0,
+   "price": 0.3674,
+   "value": 7348.0,
+   "acc": "0001683168-26-006635",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Carus Jeffrey A",
@@ -4446,6 +4398,18 @@
    "value": 44686.68,
    "acc": "0001628280-26-058037",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "SMRT",
+   "company": "SmartRent, Inc.",
+   "insider": "Bohjalian Thomas N",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 40000.0,
+   "price": 1.398,
+   "value": 55920.0,
+   "acc": "0001193125-26-359347",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "DGXX",
@@ -4748,6 +4712,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 20000.0,
+   "price": 0.3624,
+   "value": 7248.0,
+   "acc": "0001683168-26-006635",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "COMER JAMES F",
@@ -4784,6 +4760,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "SMRT",
+   "company": "SmartRent, Inc.",
+   "insider": "Bohjalian Thomas N",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 15000.0,
+   "price": 1.365,
+   "value": 20475.0,
+   "acc": "0001193125-26-359347",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "CBAN",
    "company": "COLONY BANKCORP INC",
    "insider": "Canup Edward G",
@@ -4793,6 +4781,18 @@
    "price": 21.25,
    "value": 21250.0,
    "acc": "0002051327-26-000016",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "HGBL",
+   "company": "Heritage Global Inc.",
+   "insider": "COBB BRIAN J.",
+   "role": "CFO",
+   "date": "2026-08-20",
+   "shares": 20000.0,
+   "price": 1.1,
+   "value": 22000.0,
+   "acc": "0001193125-26-359359",
    "filed": "2026-08-20"
   },
   {
@@ -4855,16 +4855,6 @@
    "total_value": 724550.0
   },
   {
-   "ticker": "CODI",
-   "insiders": 2,
-   "total_value": 718097.3
-  },
-  {
-   "ticker": "TNC",
-   "insiders": 2,
-   "total_value": 640990.0
-  },
-  {
    "ticker": "LIEN",
    "insiders": 3,
    "total_value": 606710.0
@@ -4878,11 +4868,6 @@
    "ticker": "BGDE",
    "insiders": 2,
    "total_value": 480728.38
-  },
-  {
-   "ticker": "EMBC",
-   "insiders": 3,
-   "total_value": 464585.0
   },
   {
    "ticker": "BTDR",
@@ -4910,11 +4895,6 @@
    "total_value": 296161.2
   },
   {
-   "ticker": "AMRZ",
-   "insiders": 2,
-   "total_value": 259159.2
-  },
-  {
    "ticker": "NVRI",
    "insiders": 2,
    "total_value": 159462.65
@@ -4940,14 +4920,14 @@
    "total_value": 125670.29
   },
   {
+   "ticker": "HGBL",
+   "insiders": 3,
+   "total_value": 99335.0
+  },
+  {
    "ticker": "MXF",
    "insiders": 2,
    "total_value": 78202.3
-  },
-  {
-   "ticker": "HGBL",
-   "insiders": 2,
-   "total_value": 77335.0
   },
   {
    "ticker": "MATW",
@@ -5027,10 +5007,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021788",
-  "0001918704-26-021789",
-  "0001918704-26-021790",
-  "0001918704-26-021791",
   "0001918704-26-021792",
   "0001918704-26-021793",
   "0001918704-26-021794",
@@ -6488,6 +6464,8 @@
   "0001918704-26-024385",
   "0001918704-26-024386",
   "0001918704-26-024387",
+  "0001918704-26-024390",
+  "0001918704-26-024391",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6552,6 +6530,7 @@
   "0001936006-26-000020",
   "0001936663-26-000008",
   "0001936727-26-000006",
+  "0001936727-26-000010",
   "0001937010-26-000008",
   "0001937263-26-000008",
   "0001937263-26-000010",
@@ -7231,6 +7210,7 @@
   "0002001171-26-000006",
   "0002002093-26-000010",
   "0002002763-26-000006",
+  "0002002763-26-000010",
   "0002004135-26-000004",
   "0002004222-26-000006",
   "0002004222-26-000007",
