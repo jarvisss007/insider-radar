@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-20 01:09 UTC",
+ "updated_utc": "2026-08-20 02:13 UTC",
  "purchases": [
-  {
-   "ticker": "KMPR",
-   "company": "KEMPER Corp",
-   "insider": "LADERMAN GERALD",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 4000.0,
-   "price": 26.49,
-   "value": 105960.0,
-   "acc": "0001201007-26-000005",
-   "filed": "2026-08-11"
-  },
   {
    "ticker": "MTCH",
    "company": "Match Group, Inc.",
@@ -4088,6 +4076,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Mazarakis John",
+   "role": "10% owner",
+   "date": "2026-08-17",
+   "shares": 60000.0,
+   "price": 9.44,
+   "value": 566400.0,
+   "acc": "0001193125-26-357420",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "QVCG",
    "company": "QVC Group, Inc.",
    "insider": "GOLDENTREE ASSET MANAGEMENT LP",
@@ -4885,6 +4885,11 @@
    "total_value": 640990.0
   },
   {
+   "ticker": "LIEN",
+   "insiders": 3,
+   "total_value": 606710.0
+  },
+  {
    "ticker": "UTGN",
    "insiders": 2,
    "total_value": 567344.0
@@ -4923,11 +4928,6 @@
    "ticker": "CHCT",
    "insiders": 2,
    "total_value": 272980.0
-  },
-  {
-   "ticker": "KMPR",
-   "insiders": 2,
-   "total_value": 185460.0
   },
   {
    "ticker": "NVRI",
@@ -5000,11 +5000,6 @@
    "total_value": 52225.68
   },
   {
-   "ticker": "LIEN",
-   "insiders": 2,
-   "total_value": 40310.0
-  },
-  {
    "ticker": "BRLT",
    "insiders": 3,
    "total_value": 38828.22
@@ -5037,7 +5032,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021687",
   "0001918704-26-021688",
   "0001918704-26-021689",
   "0001918704-26-021690",
@@ -6811,6 +6805,7 @@
   "0001981599-26-000117",
   "0001981599-26-000118",
   "0001981599-26-000122",
+  "0001981599-26-000124",
   "0001983112-26-000008",
   "0001983441-26-000016",
   "0001983489-26-000016",
