@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-20 08:13 UTC",
+ "updated_utc": "2026-08-20 10:20 UTC",
  "purchases": [
-  {
-   "ticker": "MTCH",
-   "company": "Match Group, Inc.",
-   "insider": "Schiffman Glenn",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 3000.0,
-   "price": 36.63,
-   "value": 109890.0,
-   "acc": "0000891103-26-000131",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "CHCT",
-   "company": "Community Healthcare Trust Inc",
-   "insider": "Hensley Robert Z",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 8000.0,
-   "price": 15.21,
-   "value": 121680.0,
-   "acc": "0001628280-26-056206",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "ACDC",
    "company": "ProFrac Holding Corp.",
@@ -4208,6 +4184,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "SNBH",
+   "company": "SENTIENT BRANDS HOLDINGS INC.",
+   "insider": "Wyman Derek Michael",
+   "role": "Treasurer",
+   "date": "2026-08-18",
+   "shares": 5000.0,
+   "price": 0.35,
+   "value": 1750.0,
+   "acc": "0001493152-26-039331",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4254,6 +4242,18 @@
    "value": 3064.81,
    "acc": "0001214659-26-010625",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "ZSQR",
+   "company": "Z Squared Inc.",
+   "insider": "Schadel Christopher Ryan",
+   "role": "Chief Marketing Officer",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 3.92,
+   "value": 3920.0,
+   "acc": "0001185185-26-003631",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "ADMQ",
@@ -4925,11 +4925,6 @@
    "total_value": 296161.2
   },
   {
-   "ticker": "CHCT",
-   "insiders": 2,
-   "total_value": 272980.0
-  },
-  {
    "ticker": "NVRI",
    "insiders": 2,
    "total_value": 159462.65
@@ -5007,7 +5002,7 @@
   {
    "ticker": "SNBH",
    "insiders": 2,
-   "total_value": 8321.0
+   "total_value": 10071.0
   },
   {
    "ticker": "RVSB",
