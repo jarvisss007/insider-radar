@@ -275,10 +275,27 @@ def write_exclusions(cluster_rows, today=None):
                 prior[r["ticker_raw"]] = r
     for c in cluster_rows:
         tk = c["ticker"]
-        if not CLUSTER_NO_TICKER.search(tk):
+        old = prior.get(tk)
+        # INS-010 (council 2026-08-19). The predicate used to be CLUSTER_NO_TICKER alone,
+        # so only issuers that never resolved to a ticker at all were upserted. Names that
+        # ARE ticker-shaped but have no quote anywhere (EDAP, PNAQ, AXIA3) fell straight
+        # through: once disclosed, their last_seen/sessions froze while the cluster was
+        # still live in the feed, and the lab kept them current by hand. A disclosed-
+        # exclusion log that quietly stops recording is INS-003 with a different predicate.
+        #
+        # So the rule is now: upsert a cluster if it has no resolvable ticker OR if it is
+        # ALREADY disclosed in this register. The second clause deliberately does not try to
+        # decide "is this priceable?" here — that judgement lives with the agent, and this
+        # function's only job is to keep the record of what was already excluded current for
+        # as long as the feed keeps carrying it.
+        if not CLUSTER_NO_TICKER.search(tk) and old is None:
             continue
         m = re.search(r"\(CIK (\d+)\)", tk)
-        old = prior.get(tk)
+        # INS-010, second constraint: a hand-written `reason` IS the disclosure this
+        # register exists to carry (EDAP's symbol-mapping note, PNAQ's SPAC provenance).
+        # The generic string would overwrite it on every refresh, so an existing reason
+        # always survives the upsert; the generic text is only ever written on first sight.
+        prior_reason = (old.get("reason") or "").strip() if old else ""
         prior[tk] = {
             "first_seen": old["first_seen"] if old else today,
             "last_seen": today,
@@ -289,8 +306,9 @@ def write_exclusions(cluster_rows, today=None):
             "cik": m.group(1) if m else "",
             "insiders": str(c.get("insiders", "")),
             "total_value": f'{c.get("total_value", 0):.2f}',
-            "reason": "no ticker resolved from filing symbol, SEC CIK map or issuer name "
-                      "— no price series exists, so the cluster cannot be priced or scored",
+            "reason": prior_reason or (
+                "no ticker resolved from filing symbol, SEC CIK map or issuer name "
+                "— no price series exists, so the cluster cannot be priced or scored"),
         }
     if not prior:
         return 0

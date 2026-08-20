@@ -565,3 +565,76 @@ two of NVRI's three insider lots (director at 20.461 on 08-17, CFO at 20.43 and
 19.50 on 08-18), so unlike most rows in this book we are not logging after the Form
 4 has already moved the stock. That is worth recording as a feature; it is not worth
 a probability tilt, because the 669-event null governs and n=3 strata do not.
+
+## 2026-08-20 [insider]
+
+SCORED, one morning late and exactly as promised: the 08-05 FUNC forecast
+("closes above 44.70 on 2026-08-19", p=0.52) resolves NO, outcome 0, off the
+SETTLED 08-19 close of 43.59 (Yahoo regularMarketTime 20:00:01 UTC). The 08-19
+brief said this row "resolves on tomorrow's run off the settled 08-19 close, and
+is overdue if it does not" — it did, so the deferral was a deferral and not a
+skip. FCST-001's single morning of grace is now SPENT on this row; there is no
+second morning available on it, and none was taken.
+
+TWO RESOLVED, BOTH NO, AND THE SCORER SAYS "OVERCONFIDENT" TWICE. Read that
+honestly: base rate 0.000 on n=2, so climatology is 0.0000 and the skill figure
+prints nan. Two rows cannot tell this book anything about calibration, and the
+overconfidence flags are one observation each. Both rows were priced AT the base
+rate by design (0.46 and 0.52), which is the correct thing to have done given the
+lab's own 669-event null — a book that priced at the base rate and lost twice has
+learned nothing except that two coins came up tails.
+
+INS-010 FIXED AT THE SOURCE, not by hand. `write_exclusions()` in
+collector_edgar.py filtered on CLUSTER_NO_TICKER alone, so only issuers that never
+resolved to a ticker were upserted and ticker-shaped-but-unquotable names froze.
+The predicate is now "no resolvable ticker OR already disclosed in this register",
+and an existing hand-written `reason` always survives the upsert — the generic
+string is written only on first sight, because EDAP's symbol-mapping note and
+PNAQ's SPAC provenance ARE the disclosure this file exists to carry. The council's
+behaviour test `insider_exclusions_refresh_all_disclosed` now passes (last_seen
+2026-08-18, sessions 2, HANDNOTE intact on the probe row). Verified live: today's
+pass auto-refreshed EDAP to last_seen 2026-08-20 / sessions 3 with its hand note
+untouched, while PNAQ and AXIA3 correctly did NOT move because neither is live in
+today's cluster list. The row stays open until the Resolver closes it; a lab does
+not close its own issue.
+
+NOW THE QUESTION THE BUG EXPOSED, and the answer is the opposite of what was
+expected. Seven clusters have been refused as unpriceable. They are NOT smaller
+than the ones this book keeps — they are among the LARGEST it has ever seen:
+HPS REAL ASSETS LENDING $10.50M, VISTA CREDIT STRATEGIC LENDING $6.23M, AXIA3
+$0.88M, EDAP $0.14M, PNAQ $0.00M open-market (but $22.5M non-open-market), and two
+Fundrise vehicles at $1,288 and $712. The two biggest are non-traded private-credit
+vehicles, and the largest single dollar cluster in the entire feed's history is in
+the refusal set. So the selection effect is real and it runs the OTHER way: the
+refusal set is systematically skewed toward non-traded funds and unlisted
+registrants placing very large sums, which means the headline stratum is a sample
+of LISTED issuers only and its dollar distribution is truncated at the top. That
+is a limit on what this book can ever claim about "big clusters" — the biggest
+ones are, by construction, unobservable here. n=7 refusals is far too small to
+test the foreign-filer or thin-listing question, so that stays open and is written
+as "n too small" rather than guessed.
+
+UTGN IS FROZEN AND IT IS DISCLOSED AT CALL TIME. Logged today at 59.00 with
+stale_quote=yes — four identical closes to the cent, 59.00 on 08-14, 08-17, 08-18
+and 08-19. A tape does not print the same number four sessions running; a name
+that does not trade does. This is exactly what the column was built for after WBHC
+and NWPP, and the point is that the flag is written NOW, in a machine-readable
+field, not decided on 09-19 when the outcome is visible. It changes no bar and
+excludes nothing: UTGN scores `right` iff price_at_check > 59.00 like every other
+row. The other six rows logged today came back `no`.
+
+ATTRIBUTION, and the honest denominator kills every line of it: 105 calls joined,
+7 scored, and every strata line reads dates=1. "CEO buying 100%, n=3" and "big
+cluster 100%, n=1" are one entry day's noise wearing a percentage sign. No lesson
+is drawn from that table today beyond "n too small", written exactly that way as
+the 08-17 rule requires.
+
+COUNCIL / SCHED-001 measurement (nothing changed): this lab fires ~08:27 PDT =
+11:27 ET, mid-session, and every horizon is a US trading day. So a row whose
+check_date is TODAY can never resolve on its own date — the settled close does not
+exist for another 4h33m. This lab is structurally mis-scheduled in exactly the way
+[flow] described, and today it happened again: the 08-06 GBFH row (check 08-20) is
+deferred to tomorrow's run, and the FUNC row scored today was itself a one-day-late
+resolution of the same defect. Every daily row this book has ever written has been
+scored a day late BY CONSTRUCTION. Not fixed here — the council barred the labs
+from moving their own fire times or horizon units, and this is Anupam's ruling.
