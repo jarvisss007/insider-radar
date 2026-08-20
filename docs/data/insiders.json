@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-20 11:54 UTC",
+ "updated_utc": "2026-08-20 12:26 UTC",
  "purchases": [
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 22477.0,
-   "price": 8.5,
-   "value": 191054.5,
-   "acc": "0000937797-26-000022",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "HOG",
    "company": "HARLEY-DAVIDSON, INC.",
@@ -4580,6 +4568,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "PSUS",
+   "company": "Pershing Square USA, Ltd.",
+   "insider": "POLSKY LISA",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 6177.0,
+   "price": 39.45,
+   "value": 243682.65,
+   "acc": "0001193125-26-358101",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "UTGN",
    "company": "UTG INC",
    "insider": "CORRELL JESSE T",
@@ -4845,11 +4845,6 @@
    "total_value": 902411.4
   },
   {
-   "ticker": "LILA",
-   "insiders": 2,
-   "total_value": 853076.48
-  },
-  {
    "ticker": "REZI",
    "insiders": 3,
    "total_value": 848123.17
@@ -4868,6 +4863,11 @@
    "ticker": "CODI",
    "insiders": 2,
    "total_value": 718097.3
+  },
+  {
+   "ticker": "LILA",
+   "insiders": 2,
+   "total_value": 662021.98
   },
   {
    "ticker": "TNC",
