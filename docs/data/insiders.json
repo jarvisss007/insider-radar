@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-20 22:34 UTC",
+ "updated_utc": "2026-08-20 22:52 UTC",
  "purchases": [
-  {
-   "ticker": "GRNT",
-   "company": "Granite Ridge Resources, Inc.",
-   "insider": "MCCARTNEY JOHN",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 2000.0,
-   "price": 5.0,
-   "value": 10000.0,
-   "acc": "0001628280-26-057291",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "TONX",
-   "company": "TON Strategy Co",
-   "insider": "Wilson Kevin Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 3700.0,
-   "price": 2.755,
-   "value": 10193.5,
-   "acc": "0001493152-26-038473",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "MSS",
-   "company": "Maison Solutions Inc.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 7553.0,
-   "price": 1.4,
-   "value": 10574.2,
-   "acc": "0001475597-26-000202",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "ACON",
    "company": "Aclarion, Inc.",
@@ -3355,6 +3319,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 1300.0,
+   "price": 9.75,
+   "value": 12675.0,
+   "acc": "0001104659-26-099299",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "JOHNSTON ROBERT B",
@@ -4279,6 +4255,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 7034.0,
+   "price": 9.8384,
+   "value": 69203.31,
+   "acc": "0001104659-26-099299",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "DGXX",
    "company": "Digi Power X Inc.",
    "insider": "Amar Michel",
@@ -4663,6 +4651,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 769.0,
+   "price": 9.89,
+   "value": 7605.41,
+   "acc": "0001104659-26-099299",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "CLPR",
    "company": "Clipper Realty Inc.",
    "insider": "Levinson Sam",
@@ -4914,6 +4914,11 @@
    "total_value": 99335.0
   },
   {
+   "ticker": "KWY",
+   "insiders": 3,
+   "total_value": 93550.16
+  },
+  {
    "ticker": "MXF",
    "insiders": 2,
    "total_value": 78202.3
@@ -4987,11 +4992,6 @@
    "ticker": "SNBH",
    "insiders": 2,
    "total_value": 10071.0
-  },
-  {
-   "ticker": "KWY",
-   "insiders": 2,
-   "total_value": 4066.44
   },
   {
    "ticker": "APLM",
