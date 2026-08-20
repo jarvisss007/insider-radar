@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-20 22:52 UTC",
+ "updated_utc": "2026-08-20 23:16 UTC",
  "purchases": [
-  {
-   "ticker": "ACON",
-   "company": "Aclarion, Inc.",
-   "insider": "Ness Brent",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 5234.0,
-   "price": 2.31,
-   "value": 12090.54,
-   "acc": "0001683168-26-006512",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "BRLT",
-   "company": "Brilliant Earth Group, Inc.",
-   "insider": "Kuo Jeffrey Chuenhong",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-13",
-   "shares": 10000.0,
-   "price": 1.36,
-   "value": 13600.0,
-   "acc": "0001628280-26-057223",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 5000.0,
-   "price": 2.9047,
-   "value": 14523.5,
-   "acc": "0001536588-26-000025",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 5000.0,
-   "price": 2.905,
-   "value": 14525.0,
-   "acc": "0001536588-26-000025",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "ACON",
    "company": "Aclarion, Inc.",
@@ -4243,6 +4195,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "BAER",
+   "company": "Bridger Aerospace Group Holdings, Inc.",
+   "insider": "KELTER JEFFREY E",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 50000.0,
+   "price": 1.2032,
+   "value": 60160.0,
+   "acc": "0001683168-26-006637",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "FGBI",
    "company": "First Guaranty Bancshares, Inc.",
    "insider": "WALKER ROBERT W",
@@ -4783,6 +4747,42 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "BAER",
+   "company": "Bridger Aerospace Group Holdings, Inc.",
+   "insider": "KELTER JEFFREY E",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 50000.0,
+   "price": 1.1568,
+   "value": 57840.0,
+   "acc": "0001683168-26-006637",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "BAER",
+   "company": "Bridger Aerospace Group Holdings, Inc.",
+   "insider": "KELTER JEFFREY E",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 50000.0,
+   "price": 1.1572,
+   "value": 57860.0,
+   "acc": "0001683168-26-006637",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "BAER",
+   "company": "Bridger Aerospace Group Holdings, Inc.",
+   "insider": "KELTER JEFFREY E",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 50000.0,
+   "price": 1.1574,
+   "value": 57870.0,
+   "acc": "0001683168-26-006637",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "KEEL",
    "company": "Keel Infrastructure Corp.",
    "insider": "WILSON LIAM DANIEL",
@@ -4905,8 +4905,8 @@
   },
   {
    "ticker": "ACON",
-   "insiders": 5,
-   "total_value": 120639.29
+   "insiders": 4,
+   "total_value": 108548.75
   },
   {
    "ticker": "HGBL",
@@ -4959,11 +4959,6 @@
    "total_value": 52225.68
   },
   {
-   "ticker": "BRLT",
-   "insiders": 3,
-   "total_value": 38828.22
-  },
-  {
    "ticker": "AIAI",
    "insiders": 2,
    "total_value": 35390.0
@@ -4972,6 +4967,11 @@
    "ticker": "PHIO",
    "insiders": 2,
    "total_value": 27700.0
+  },
+  {
+   "ticker": "BRLT",
+   "insiders": 2,
+   "total_value": 25228.22
   },
   {
    "ticker": "BY",
