@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-20 12:26 UTC",
+ "updated_utc": "2026-08-20 12:41 UTC",
  "purchases": [
-  {
-   "ticker": "HOG",
-   "company": "HARLEY-DAVIDSON, INC.",
-   "insider": "Littleton Gayle",
-   "role": "CLO, CCO, CAO & Corp Sec",
-   "date": "2026-08-11",
-   "shares": 7500.0,
-   "price": 26.38,
-   "value": 197850.0,
-   "acc": "0001908625-26-000010",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "APTV",
-   "company": "Aptiv PLC",
-   "insider": "Mahoney Sean O",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 4000.0,
-   "price": 50.287,
-   "value": 201148.0,
-   "acc": "0001193125-26-346801",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "ALTO",
-   "company": "Alto Ingredients, Inc.",
-   "insider": "NATHAN GILBERT E",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 50000.0,
-   "price": 4.15,
-   "value": 207500.0,
-   "acc": "0001213900-26-088530",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "XRN",
    "company": "Chiron Real Estate Inc.",
@@ -4316,6 +4280,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "LOOP",
+   "company": "Loop Industries, Inc.",
+   "insider": "GEYGAN JEFFREY RICHART",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 22100.0,
+   "price": 0.6419,
+   "value": 14185.99,
+   "acc": "0001193125-26-358148",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -4664,6 +4640,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "LOOP",
+   "company": "Loop Industries, Inc.",
+   "insider": "GEYGAN JEFFREY RICHART",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 1090.0,
+   "price": 0.6423,
+   "value": 700.11,
+   "acc": "0001193125-26-358148",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BRLT",
    "company": "Brilliant Earth Group, Inc.",
    "insider": "Gerstein Beth Tamara",
@@ -4710,6 +4698,18 @@
    "value": 6795.0,
    "acc": "0001214659-26-010625",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "PHIO",
+   "company": "Phio Pharmaceuticals Corp.",
+   "insider": "Plott Ronald Todd",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 15000.0,
+   "price": 1.14,
+   "value": 17100.0,
+   "acc": "0001683168-26-006620",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "BRCC",
@@ -4993,6 +4993,11 @@
    "ticker": "BRLT",
    "insiders": 3,
    "total_value": 38828.22
+  },
+  {
+   "ticker": "PHIO",
+   "insiders": 2,
+   "total_value": 27700.0
   },
   {
    "ticker": "SNBH",
