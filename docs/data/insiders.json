@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-20 11:38 UTC",
+ "updated_utc": "2026-08-20 11:54 UTC",
  "purchases": [
-  {
-   "ticker": "SMRT",
-   "company": "SmartRent, Inc.",
-   "insider": "Martell Frank",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-11",
-   "shares": 100000.0,
-   "price": 1.4226,
-   "value": 142260.0,
-   "acc": "0001193125-26-345044",
-   "filed": "2026-08-11"
-  },
-  {
-   "ticker": "AMRZ",
-   "company": "Amrize Ltd",
-   "insider": "Gross Mario",
-   "role": "Chief Supply Chain Officer",
-   "date": "2026-08-11",
-   "shares": 3200.0,
-   "price": 46.62,
-   "value": 149184.0,
-   "acc": "0002069180-26-000002",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "SUNS",
-   "company": "Sunrise Realty Trust, Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Executive Chairman",
-   "date": "2026-08-11",
-   "shares": 20000.0,
-   "price": 7.6,
-   "value": 152000.0,
-   "acc": "0001628280-26-056738",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -4400,6 +4364,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yuan Lipen",
+   "role": "VP",
+   "date": "2026-08-18",
+   "shares": 350.0,
+   "price": 73.58,
+   "value": 25753.0,
+   "acc": "0001046179-26-000543",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "MSGM",
    "company": "Motorsport Games Inc.",
    "insider": "Red Oak Partners, LLC",
@@ -4482,6 +4458,18 @@
    "value": 51234.37,
    "acc": "0001325533-26-000004",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yuan Lipen",
+   "role": "VP",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 74.5,
+   "value": 74500.0,
+   "acc": "0001046179-26-000543",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "EQPT",
@@ -4748,6 +4736,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yuan Lipen",
+   "role": "VP",
+   "date": "2026-08-19",
+   "shares": 1000.0,
+   "price": 73.77,
+   "value": 73770.0,
+   "acc": "0001046179-26-000543",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "ENHA",
    "company": "Enhanced Group Inc.",
    "insider": "Apeiron Investment Group Ltd.",
@@ -4870,11 +4870,6 @@
    "total_value": 718097.3
   },
   {
-   "ticker": "AMRZ",
-   "insiders": 4,
-   "total_value": 657193.8
-  },
-  {
    "ticker": "TNC",
    "insiders": 2,
    "total_value": 640990.0
@@ -4893,6 +4888,11 @@
    "ticker": "EMBC",
    "insiders": 4,
    "total_value": 557945.0
+  },
+  {
+   "ticker": "AMRZ",
+   "insiders": 3,
+   "total_value": 508009.8
   },
   {
    "ticker": "BTDR",
