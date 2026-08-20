@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-20 14:15 UTC",
+ "updated_utc": "2026-08-20 14:31 UTC",
  "purchases": [
-  {
-   "ticker": "VIA",
-   "company": "Via Transportation, Inc.",
-   "insider": "Peres Nechemia Jacob",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 10080.0,
-   "price": 24.7391,
-   "value": 249370.13,
-   "acc": "0001628280-26-056412",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "EVGN",
    "company": "Evogene Ltd.",
@@ -4784,6 +4772,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 24102.0,
+   "price": 10.13,
+   "value": 244153.26,
+   "acc": "0001510281-26-000273",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "ENHA",
    "company": "Enhanced Group Inc.",
    "insider": "Apeiron Investment Group Ltd.",
@@ -5027,7 +5027,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021708",
   "0001918704-26-021709",
   "0001918704-26-021710",
   "0001918704-26-021711",
@@ -6513,6 +6512,7 @@
   "0001918704-26-024327",
   "0001918704-26-024328",
   "0001918704-26-024329",
+  "0001918704-26-024330",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
