@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-20 17:09 UTC",
+ "updated_utc": "2026-08-20 17:25 UTC",
  "purchases": [
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 3991.0,
-   "price": 217.0873,
-   "value": 866395.41,
-   "acc": "0001104659-26-094887",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "DFH",
-   "company": "Dream Finders Homes, Inc.",
-   "insider": "BECKWITT RICHARD",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 70000.0,
-   "price": 13.95,
-   "value": 976500.0,
-   "acc": "0000897069-26-001671",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "ACDC",
-   "company": "ProFrac Holding Corp.",
-   "insider": "Wilks Dan H.",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 202331.0,
-   "price": 5.443,
-   "value": 1101287.63,
-   "acc": "0001104659-26-095159",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "DINO",
    "company": "HF Sinclair Corp",
@@ -4568,6 +4532,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "BY",
+   "company": "BYLINE BANCORP, INC.",
+   "insider": "KISTNER WILLIAM G",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 100.0,
+   "price": 38.3,
+   "value": 3830.0,
+   "acc": "0001739310-26-000004",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BRLT",
    "company": "Brilliant Earth Group, Inc.",
    "insider": "Gerstein Beth Tamara",
@@ -4637,6 +4613,18 @@
    "price": 2167.8049,
    "value": 8671.22,
    "acc": "0001193125-26-358811",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "BY",
+   "company": "BYLINE BANCORP, INC.",
+   "insider": "HERSETH MARY JO S.",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 300.0,
+   "price": 38.395,
+   "value": 11518.5,
+   "acc": "0001772766-26-000004",
    "filed": "2026-08-20"
   },
   {
@@ -4796,6 +4784,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "BHRB",
+   "company": "Burke & Herbert Financial Services Corp.",
+   "insider": "WILSON DAVID",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 35.0,
+   "price": 70.5726,
+   "value": 2470.04,
+   "acc": "0001208842-26-000012",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "COMER JAMES F",
@@ -4935,6 +4935,11 @@
    "total_value": 101438.7
   },
   {
+   "ticker": "BHRB",
+   "insiders": 2,
+   "total_value": 90868.16
+  },
+  {
    "ticker": "MXF",
    "insiders": 2,
    "total_value": 78202.3
@@ -4988,6 +4993,11 @@
    "ticker": "PHIO",
    "insiders": 2,
    "total_value": 27700.0
+  },
+  {
+   "ticker": "BY",
+   "insiders": 2,
+   "total_value": 15348.5
   },
   {
    "ticker": "RVSB",
