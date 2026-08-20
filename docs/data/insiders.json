@@ -1,139 +1,6 @@
 {
- "updated_utc": "2026-08-20 21:44 UTC",
+ "updated_utc": "2026-08-20 22:01 UTC",
  "purchases": [
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Sarowitz Steven I",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 246153.0,
-   "price": 3.7063,
-   "value": 912316.86,
-   "acc": "0001865200-26-000075",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "PFE",
-   "company": "PFIZER INC",
-   "insider": "BOURLA ALBERT",
-   "role": "Chairman & CEO",
-   "date": "2026-08-12",
-   "shares": 38000.0,
-   "price": 26.34,
-   "value": 1000920.0,
-   "acc": "0001225208-26-007083",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "GLIBK",
-   "company": "Liberty Capital Corp/NV",
-   "insider": "MALONE JOHN C",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 66702.0,
-   "price": 25.5708,
-   "value": 1705623.5,
-   "acc": "0001225208-26-007097",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "EMPD",
-   "company": "Empery Digital Inc.",
-   "insider": "Empery Asset Management, LP",
-   "role": "10% owner",
-   "date": "2026-08-12",
-   "shares": 650000.0,
-   "price": 2.8211,
-   "value": 1833715.0,
-   "acc": "0001683168-26-006443",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "OTLK",
-   "company": "Outlook Therapeutics, Inc.",
-   "insider": "Sukhtian Ghiath M.",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 2525252.0,
-   "price": 0.99,
-   "value": 2499999.48,
-   "acc": "0000899140-26-000894",
-   "filed": "2026-08-14",
-   "placement": true
-  },
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-12",
-   "shares": 337500.0,
-   "price": 20.17,
-   "value": 6807375.0,
-   "acc": "0002029760-26-000008",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 1.0,
-   "price": 343.02,
-   "value": 343.02,
-   "acc": "0001437749-26-027889",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 457.0,
-   "price": 2.905,
-   "value": 1327.58,
-   "acc": "0001536588-26-000025",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "BCDA",
-   "company": "BioCardia, Inc.",
-   "insider": "Altman Peter",
-   "role": "President and CEO",
-   "date": "2026-08-13",
-   "shares": 1900.0,
-   "price": 0.92,
-   "value": 1748.0,
-   "acc": "0001437749-26-027743",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "YQ",
-   "company": "17 Education & Technology Group Inc.",
-   "insider": "Liu Chang",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 853.0,
-   "price": 2.4085,
-   "value": 2054.45,
-   "acc": "0001193125-26-350208",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 756.0,
-   "price": 2.9,
-   "value": 2192.4,
-   "acc": "0001437749-26-027866",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
@@ -3104,6 +2971,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 93.0,
+   "price": 1.66,
+   "value": 154.38,
+   "acc": "0001493152-26-039526",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -3198,6 +3077,18 @@
    "value": 2452.5,
    "acc": "0001437749-26-028540",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 1747.0,
+   "price": 1.7,
+   "value": 2969.9,
+   "acc": "0001493152-26-039526",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "MLCI",
@@ -3860,6 +3751,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 86983.0,
+   "price": 3.1485,
+   "value": 273865.98,
+   "acc": "0001539497-26-002324",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "UTGN",
    "company": "UTG INC",
    "insider": "CORRELL JESSE T",
@@ -3906,6 +3809,18 @@
    "value": 1050000.0,
    "acc": "0001493152-26-039156",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 189300.0,
+   "price": 6.73,
+   "value": 1273989.0,
+   "acc": "0001140361-26-033922",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "PAM",
@@ -4025,6 +3940,18 @@
    "price": 0.6423,
    "value": 700.11,
    "acc": "0001193125-26-358148",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 465.0,
+   "price": 1.71,
+   "value": 795.15,
+   "acc": "0001493152-26-039526",
    "filed": "2026-08-20"
   },
   {
@@ -4220,6 +4147,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "MGEE",
+   "company": "MGE ENERGY INC",
+   "insider": "Berbee James G",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 261.3641,
+   "price": 81.3,
+   "value": 21248.9,
+   "acc": "0001193125-26-359468",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "CBAN",
    "company": "COLONY BANKCORP INC",
    "insider": "Canup Edward G",
@@ -4265,6 +4204,18 @@
    "price": 7.1581,
    "value": 25053.35,
    "acc": "0000905148-26-003842",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 9260.0,
+   "price": 3.142,
+   "value": 29094.92,
+   "acc": "0001539497-26-002324",
    "filed": "2026-08-20"
   },
   {
@@ -4520,6 +4471,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 189300.0,
+   "price": 7.11,
+   "value": 1345923.0,
+   "acc": "0001140361-26-033922",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "ENHA",
    "company": "Enhanced Group Inc.",
    "insider": "Apeiron Investment Group Ltd.",
@@ -4700,6 +4663,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 2392.0,
+   "price": 3.19,
+   "value": 7630.48,
+   "acc": "0001539497-26-002324",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "MPT",
    "company": "MEDICAL PROPERTIES TRUST INC",
    "insider": "Hanna James Kevin",
@@ -4733,6 +4708,18 @@
    "price": 0.7112,
    "value": 10454.64,
    "acc": "0001182944-26-000005",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 10000.0,
+   "price": 1.73,
+   "value": 17300.0,
+   "acc": "0001493152-26-039526",
    "filed": "2026-08-20"
   },
   {
@@ -4806,6 +4793,18 @@
    "value": 99999.25,
    "acc": "0001812477-26-000029",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 189300.0,
+   "price": 7.63,
+   "value": 1444359.0,
+   "acc": "0001140361-26-033922",
+   "filed": "2026-08-20"
   }
  ],
  "clusters": [
@@ -4827,7 +4826,7 @@
   {
    "ticker": "ANGX",
    "insiders": 3,
-   "total_value": 2801122.83
+   "total_value": 1888805.97
   },
   {
    "ticker": "MLAB",
@@ -5007,7 +5006,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021804",
   "0001918704-26-021805",
   "0001918704-26-021806",
   "0001918704-26-021807",
@@ -7434,6 +7432,7 @@
   "0002041944-26-000005",
   "0002043233-26-000006",
   "0002043379-26-000010",
+  "0002043379-26-000012",
   "0002043506-26-000005",
   "0002043764-26-000006",
   "0002043885-26-000006",
