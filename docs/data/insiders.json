@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-20 16:53 UTC",
+ "updated_utc": "2026-08-20 17:09 UTC",
  "purchases": [
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-11",
-   "shares": 3200.0,
-   "price": 214.6723,
-   "value": 686951.36,
-   "acc": "0001104659-26-094887",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -3908,6 +3896,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "PML",
+   "company": "PIMCO MUNICIPAL INCOME FUND II",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-08-18",
+   "shares": 100.0,
+   "price": 7.45,
+   "value": 745.0,
+   "acc": "0000070858-26-000451",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "ADMQ",
    "company": "ADM ENDEAVORS, INC.",
    "insider": "Johnson Marc",
@@ -5017,7 +5017,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021731",
   "0001918704-26-021732",
   "0001918704-26-021733",
   "0001918704-26-021734",
@@ -6496,6 +6495,7 @@
   "0001918704-26-024348",
   "0001918704-26-024349",
   "0001918704-26-024350",
+  "0001918704-26-024351",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
