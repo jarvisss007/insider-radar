@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-08-20 21:28 UTC",
+ "updated_utc": "2026-08-20 21:44 UTC",
  "purchases": [
-  {
-   "ticker": "BDSX",
-   "company": "BIODESIX INC",
-   "insider": "SCHULER JACK W",
-   "role": "10% owner",
-   "date": "2026-08-12",
-   "shares": 15000.0,
-   "price": 24.4661,
-   "value": 366991.5,
-   "acc": "0000905148-26-003641",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-12",
-   "shares": 60000.0,
-   "price": 7.0498,
-   "value": 422988.0,
-   "acc": "0000905148-26-003613",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "BPRN",
-   "company": "Princeton Bancorp, Inc.",
-   "insider": "TUCHMAN MARTIN",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 10534.0,
-   "price": 42.978,
-   "value": 452730.25,
-   "acc": "0001193125-26-351775",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "ABCL",
-   "company": "AbCellera Biologics Inc.",
-   "insider": "Hayden Michael R",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 46387.0,
-   "price": 10.37,
-   "value": 481033.19,
-   "acc": "0001628280-26-057007",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "XRN",
-   "company": "Chiron Real Estate Inc.",
-   "insider": "Roseth Aaron Robert",
-   "role": "COO",
-   "date": "2026-08-12",
-   "shares": 13500.0,
-   "price": 36.73,
-   "value": 495855.0,
-   "acc": "0001104659-26-096149",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Foran Joseph Wm",
-   "role": "Chairman and CEO",
-   "date": "2026-08-12",
-   "shares": 10000.0,
-   "price": 52.16,
-   "value": 521600.0,
-   "acc": "0001540655-26-000018",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "TNC",
-   "company": "TENNANT CO",
-   "insider": "Mulligan Donal L",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 8000.0,
-   "price": 67.34,
-   "value": 538720.0,
-   "acc": "0001406019-26-000008",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-12",
-   "shares": 111929.0,
-   "price": 6.13,
-   "value": 686124.77,
-   "acc": "0001140361-26-032563",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "ANGX",
    "company": "Angel Studios, Inc.",
@@ -3356,6 +3260,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "NAKA",
+   "company": "Nakamoto Inc.",
+   "insider": "Bailey David F",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-18",
+   "shares": 918.0,
+   "price": 5.0828,
+   "value": 4666.01,
+   "acc": "0001493152-26-039524",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "ADMQ",
    "company": "ADM ENDEAVORS, INC.",
    "insider": "Johnson Marc",
@@ -3389,6 +3305,54 @@
    "price": 5.07,
    "value": 5070.0,
    "acc": "0001629292-26-000002",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NAKA",
+   "company": "Nakamoto Inc.",
+   "insider": "Bailey David F",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 5.0986,
+   "value": 5098.6,
+   "acc": "0001493152-26-039524",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NAKA",
+   "company": "Nakamoto Inc.",
+   "insider": "Bailey David F",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 5.1089,
+   "value": 5108.9,
+   "acc": "0001493152-26-039524",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NAKA",
+   "company": "Nakamoto Inc.",
+   "insider": "Bailey David F",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 5.1377,
+   "value": 5137.7,
+   "acc": "0001493152-26-039524",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "NAKA",
+   "company": "Nakamoto Inc.",
+   "insider": "Bailey David F",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 5.1499,
+   "value": 5149.9,
+   "acc": "0001493152-26-039524",
    "filed": "2026-08-20"
   },
   {
@@ -4064,6 +4028,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "MDRR",
+   "company": "Medalist Diversified, Inc.",
+   "insider": "Winn Charles Brent Jr.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-08-19",
+   "shares": 72.0,
+   "price": 11.5,
+   "value": 828.0,
+   "acc": "0001808471-26-000013",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "PTIX",
    "company": "Protagenic Therapeutics, Inc.\\new",
    "insider": "ARMEN GARO H",
@@ -4616,6 +4592,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "MDRR",
+   "company": "Medalist Diversified, Inc.",
+   "insider": "Winn Charles Brent Jr.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-08-20",
+   "shares": 3.0,
+   "price": 11.5,
+   "value": 34.5,
+   "acc": "0001808471-26-000013",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4709,6 +4697,18 @@
    "price": 0.3624,
    "value": 7248.0,
    "acc": "0001683168-26-006635",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "MPT",
+   "company": "MEDICAL PROPERTIES TRUST INC",
+   "insider": "Hanna James Kevin",
+   "role": "Senior VP, Controller & CAO",
+   "date": "2026-08-20",
+   "shares": 2300.0,
+   "price": 4.15,
+   "value": 9545.0,
+   "acc": "0001193125-26-359423",
    "filed": "2026-08-20"
   },
   {
@@ -4830,11 +4830,6 @@
    "total_value": 2801122.83
   },
   {
-   "ticker": "ABCL",
-   "insiders": 3,
-   "total_value": 975237.19
-  },
-  {
    "ticker": "MLAB",
    "insiders": 2,
    "total_value": 902411.4
@@ -4863,6 +4858,11 @@
    "ticker": "UTGN",
    "insiders": 2,
    "total_value": 567344.0
+  },
+  {
+   "ticker": "ABCL",
+   "insiders": 2,
+   "total_value": 494204.0
   },
   {
    "ticker": "BGDE",
@@ -5007,7 +5007,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021803",
   "0001918704-26-021804",
   "0001918704-26-021805",
   "0001918704-26-021806",
@@ -6581,6 +6580,7 @@
   "0001957490-26-000004",
   "0001957684-26-000011",
   "0001958010-26-000010",
+  "0001958644-26-000028",
   "0001958857-26-000003",
   "0001959033-26-000014",
   "0001959033-26-000016",
