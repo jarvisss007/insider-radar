@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-20 20:18 UTC",
+ "updated_utc": "2026-08-20 20:34 UTC",
  "purchases": [
-  {
-   "ticker": "OVBC",
-   "company": "OHIO VALLEY BANC CORP",
-   "insider": "Michael Seth Isaac",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 67.4321,
-   "price": 44.4892,
-   "value": 3000.0,
-   "acc": "0000894671-26-000050",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "PFSA",
-   "company": "Profusa, Inc.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-12",
-   "shares": 5585.0,
-   "price": 0.964,
-   "value": 5383.94,
-   "acc": "0001475597-26-000201",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "TRST",
-   "company": "TRUSTCO BANK CORP N Y",
-   "insider": "McCormick Lauren Ann",
-   "role": "VP,Treasurer, Asst. Corp. Sec.",
-   "date": "2026-08-12",
-   "shares": 103.0,
-   "price": 56.51,
-   "value": 5820.53,
-   "acc": "0001140361-26-033102",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "FNRN",
-   "company": "FIRST NORTHERN COMMUNITY BANCORP",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 400.0,
-   "price": 17.29,
-   "value": 6916.0,
-   "acc": "0001437749-26-027431",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 20000.0,
-   "price": 0.3721,
-   "value": 7442.0,
-   "acc": "0001683168-26-006291",
-   "filed": "2026-08-12"
-  },
-  {
-   "ticker": "LXU",
-   "company": "LSB INDUSTRIES, INC.",
-   "insider": "Ackerman Jonathan Z.",
-   "role": "Director",
-   "date": "2026-08-12",
-   "shares": 1000.0,
-   "price": 9.89,
-   "value": 9890.0,
-   "acc": "0001193125-26-349713",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "FNRN",
    "company": "FIRST NORTHERN COMMUNITY BANCORP",
@@ -4016,6 +3944,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "CBAN",
+   "company": "COLONY BANKCORP INC",
+   "insider": "Canup Edward G",
+   "role": "CHIEF BANKING OFFICER",
+   "date": "2026-08-18",
+   "shares": 1000.0,
+   "price": 22.0,
+   "value": 22000.0,
+   "acc": "0002051327-26-000016",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -4580,6 +4520,30 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "CBAN",
+   "company": "COLONY BANKCORP INC",
+   "insider": "Canup Edward G",
+   "role": "CHIEF BANKING OFFICER",
+   "date": "2026-08-19",
+   "shares": 1000.0,
+   "price": 21.5,
+   "value": 21500.0,
+   "acc": "0002051327-26-000016",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "CBAN",
+   "company": "COLONY BANKCORP INC",
+   "insider": "Canup Edward G",
+   "role": "CHIEF BANKING OFFICER",
+   "date": "2026-08-19",
+   "shares": 1000.0,
+   "price": 21.75,
+   "value": 21750.0,
+   "acc": "0002051327-26-000016",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -4589,6 +4553,18 @@
    "price": 7.1581,
    "value": 25053.35,
    "acc": "0000905148-26-003842",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-19",
+   "shares": 6877.0,
+   "price": 5.4039,
+   "value": 37162.62,
+   "acc": "0001628873-26-000077",
    "filed": "2026-08-20"
   },
   {
@@ -4806,6 +4782,30 @@
    "value": 10454.64,
    "acc": "0001182944-26-000005",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "CBAN",
+   "company": "COLONY BANKCORP INC",
+   "insider": "Canup Edward G",
+   "role": "CHIEF BANKING OFFICER",
+   "date": "2026-08-20",
+   "shares": 1000.0,
+   "price": 21.25,
+   "value": 21250.0,
+   "acc": "0002051327-26-000016",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-20",
+   "shares": 6901.0,
+   "price": 5.4219,
+   "value": 37416.53,
+   "acc": "0001628873-26-000077",
+   "filed": "2026-08-20"
   }
  ],
  "clusters": [
@@ -4915,6 +4915,11 @@
    "total_value": 259159.2
   },
   {
+   "ticker": "SELF",
+   "insiders": 2,
+   "total_value": 176017.85
+  },
+  {
    "ticker": "NVRI",
    "insiders": 2,
    "total_value": 159462.65
@@ -4933,11 +4938,6 @@
    "ticker": "ACON",
    "insiders": 6,
    "total_value": 125670.29
-  },
-  {
-   "ticker": "SELF",
-   "insiders": 2,
-   "total_value": 101438.7
   },
   {
    "ticker": "BHRB",
@@ -5037,19 +5037,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021766",
-  "0001918704-26-021767",
-  "0001918704-26-021768",
-  "0001918704-26-021769",
-  "0001918704-26-021770",
-  "0001918704-26-021771",
-  "0001918704-26-021772",
-  "0001918704-26-021773",
-  "0001918704-26-021774",
-  "0001918704-26-021775",
-  "0001918704-26-021777",
-  "0001918704-26-021778",
-  "0001918704-26-021779",
   "0001918704-26-021780",
   "0001918704-26-021781",
   "0001918704-26-021782",
@@ -6507,6 +6494,16 @@
   "0001918704-26-024373",
   "0001918704-26-024374",
   "0001918704-26-024375",
+  "0001918704-26-024376",
+  "0001918704-26-024377",
+  "0001918704-26-024378",
+  "0001918704-26-024379",
+  "0001918704-26-024380",
+  "0001918704-26-024381",
+  "0001918704-26-024382",
+  "0001918704-26-024383",
+  "0001918704-26-024384",
+  "0001918704-26-024385",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6819,6 +6816,7 @@
   "0001989382-26-000014",
   "0001989421-26-000008",
   "0001989648-26-000012",
+  "0001989706-26-000010",
   "0001989913-26-000008",
   "0001990106-26-000017",
   "0001990106-26-000019",
@@ -7443,6 +7441,7 @@
   "0002035875-26-000002",
   "0002035875-26-000004",
   "0002035875-26-000006",
+  "0002035875-26-000009",
   "0002035931-26-000002",
   "0002035959-26-000005",
   "0002035989-26-000069",
@@ -7505,6 +7504,7 @@
   "0002050857-26-000012",
   "0002050978-26-000006",
   "0002051008-26-000002",
+  "0002051327-26-000016",
   "0002051436-26-000003",
   "0002051485-26-000008",
   "0002051575-26-000004",
