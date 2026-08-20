@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-20 00:38 UTC",
+ "updated_utc": "2026-08-20 00:54 UTC",
  "purchases": [
-  {
-   "ticker": "AVBC",
-   "company": "Avidia Bancorp, Inc.",
-   "insider": "Saul Kennedy O",
-   "role": "Director",
-   "date": "2026-08-11",
-   "shares": 4278.0,
-   "price": 21.65,
-   "value": 92618.7,
-   "acc": "0001437749-26-027263",
-   "filed": "2026-08-12"
-  },
   {
    "ticker": "AVBC",
    "company": "Avidia Bancorp, Inc.",
@@ -4724,6 +4712,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "AIAI",
+   "company": "AIAI Holdings Corp",
+   "insider": "Furniss Todd Anthony",
+   "role": "CEO",
+   "date": "2026-08-19",
+   "shares": 1000.0,
+   "price": 5.59,
+   "value": 5590.0,
+   "acc": "0001493152-26-039297",
+   "filed": "2026-08-19"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -4920,11 +4920,6 @@
    "total_value": 272980.0
   },
   {
-   "ticker": "AVBC",
-   "insiders": 3,
-   "total_value": 230912.2
-  },
-  {
    "ticker": "KMPR",
    "insiders": 2,
    "total_value": 185460.0
@@ -4938,6 +4933,11 @@
    "ticker": "EDAP",
    "insiders": 4,
    "total_value": 142500.0
+  },
+  {
+   "ticker": "AVBC",
+   "insiders": 2,
+   "total_value": 138293.5
   },
   {
    "ticker": "EVLV",
