@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-21 15:17 UTC",
+ "updated_utc": "2026-08-21 15:33 UTC",
  "purchases": [
-  {
-   "ticker": "VFC",
-   "company": "V F CORP",
-   "insider": "Carucci Richard",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 20000.0,
-   "price": 14.73,
-   "value": 294600.0,
-   "acc": "0000103379-26-000120",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "DKL",
-   "company": "Delek Logistics Partners, LP",
-   "insider": "Yemin Ezra Uzi",
-   "role": "Chairman",
-   "date": "2026-08-13",
-   "shares": 6000.0,
-   "price": 50.0,
-   "value": 300000.0,
-   "acc": "0001361091-26-000017",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "QVCG",
    "company": "QVC Group, Inc.",
@@ -3091,6 +3067,18 @@
    "filed": "2026-08-18"
   },
   {
+   "ticker": "TISI",
+   "company": "TEAM INC",
+   "insider": "Horton Anthony R",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 2000.0,
+   "price": 22.71,
+   "value": 45420.0,
+   "acc": "0001699604-26-000008",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "LIN",
    "company": "LINDE PLC",
    "insider": "Reynolds Paula Rosput",
@@ -4051,6 +4039,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "RAIN",
+   "company": "Rain Enhancement Technologies Holdco, Inc.",
+   "insider": "Seidl Randy",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-19",
+   "shares": 110000.0,
+   "price": 0.9475,
+   "value": 104225.0,
+   "acc": "0001213900-26-092444",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "SENS",
    "company": "Senseonics Holdings, Inc.",
    "insider": "ROEDER DOUGLAS A",
@@ -4929,6 +4929,11 @@
    "total_value": 59480.0
   },
   {
+   "ticker": "TISI",
+   "insiders": 2,
+   "total_value": 56920.0
+  },
+  {
    "ticker": "AFCG",
    "insiders": 3,
    "total_value": 52225.68
@@ -4991,8 +4996,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021915",
-  "0001918704-26-021916",
   "0001918704-26-021917",
   "0001918704-26-021918",
   "0001918704-26-021919",
@@ -6414,6 +6417,8 @@
   "0001918704-26-024431",
   "0001918704-26-024432",
   "0001918704-26-024433",
+  "0001918704-26-024434",
+  "0001918704-26-024435",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",

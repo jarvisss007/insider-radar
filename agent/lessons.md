@@ -638,3 +638,62 @@ deferred to tomorrow's run, and the FUNC row scored today was itself a one-day-l
 resolution of the same defect. Every daily row this book has ever written has been
 scored a day late BY CONSTRUCTION. Not fixed here — the council barred the labs
 from moving their own fire times or horizon units, and this is Anupam's ruling.
+
+## 2026-08-21 [insider]
+
+NO LEDGER ROWS SCORED TODAY — zero rows carry `check_date <= 2026-08-21` with an
+empty outcome. Next batch matures 2026-08-24 (FSBC, CLBK, TSM, BBASX, BYRN, GRML).
+The scorecard is unchanged and stays two strata, never blended: **headline (>=$100k)
+4/5, n=5 on dates=1** · **sub-floor (<$100k) 1/2, n=2 on dates=1**. The SPY line stays
+withheld until 10+ rows have scored. 71% at n=7 remains the most over-readable number
+on this desk and this lab is the reason nobody reads it.
+
+ONE FORECAST RESOLVED, THE DEFERRED ONE. GBFH (filed 08-06, p=0.51, "closes above
+20.39 on 2026-08-20") resolved **YES** off the settled 08-20 close of 20.75. It was
+deferred yesterday because the session was live at fire time, and it resolved on the
+first run at which a settled close existed — exactly as the 08-20 brief promised. That
+is SCHED-001 behaving as documented rather than a row going quietly missing.
+BHRB (p=0.50, check 2026-08-21) is due TODAY and is DEFERRED for the same reason:
+the run fired 08:31 PDT / 11:31 ET with the US session open, the 08-21 bar is intraday
+(71.125 against a 71.00 settled 08-20 close, i.e. it would flip on the afternoon), and
+resolving off a live quote is exactly the judgement-at-check-time this lab removed from
+`stale_quote`. It resolves tomorrow off the settled 08-21 close, and is OVERDUE if it
+does not.
+
+A DEFECT IN THE WRITE PATH, FOUND BY USING IT. `stale_quote.append_call()` still
+declares `LEDGER_HEADER` WITHOUT the `tags` column that TAG-001 added to every ledger
+row on 2026-08-20. The write path therefore emits 9 fields into a 10-column file: had
+today's eight rows gone through it unchanged, every one would have landed with an empty
+`tags`, and the Observatory would have had to guess this lab's classification — the exact
+thing TAG-001 was written to stop. Today's rows were appended against the file's real
+10-field schema with `tags=fund`, and `stale_quote` was still computed by
+`stale_quote.flag_for()` — the same function `append_call()` calls — so the disclosure
+was not weakened by going around the wrapper. **The source is NOT fixed here**: a schema
+change to a shared write path is a Resolver job with a machine-checkable test
+("append_call writes all ten columns"), not something a morning sweep does to itself.
+Logged for the register. Note the shape of this: a column was added to the DATA on 08-20
+and not to the CODE that writes it, and it took a hand-run to notice, because nothing
+scores a missing tag.
+
+EIGHT NEW CLUSTERS LOGGED (check 2026-09-20), all `stale_quote=no`, none empty.
+Headline: IAUX 2 insiders $1.627M · INV 4 $0.808M · BGDE 2 $0.481M · NTHI 2 $0.318M.
+Sub-floor, reported separately and never blended: AIAI $0.040M (3) · BY $0.015M (2) ·
+RCG $0.011M (2) · MLCI $0.009M (2). References are the SETTLED 2026-08-20 closes; the
+session was live at fire time and no intraday bar was used for any of them. The book is
+now 73 headline / 31 sub-floor / 1 unknown logged.
+
+EDAP REFUSED FOR THE FIFTH SESSION (INS-007), and refused through the real write path,
+which raised on the blank `price_at_call` as designed. Still 404 on both Yahoo hosts.
+Unpriceable is a refusal, not a position. The standing skew is unchanged and gets said
+again: the 7-name refusal set is truncated at the TOP of the dollar distribution — HPS
+$10.50M and VISTA $6.23M are the two largest clusters this feed has ever carried — so
+the headline stratum is structurally silent about the biggest clusters in it. n=7
+refusals; that sentence belongs beside the headline number every time it is quoted.
+
+ATTRIBUTION, and why none of it is a lesson yet. 113 calls joined, 7 scored. Every
+single split — big cluster 100% (n=1), CEO buying 100% (n=3), 3+ insiders 100% (n=2),
+directors-only 60% (n=5), bought-the-run-up 67% (n=3) — sits on **dates=1**. One entry
+day. There is no pattern here to name; the honest statement is "n too small", written
+exactly that way, and it will stay that way until the 08-24 and 09-18/19/20 cohorts land
+on genuinely different entry days. Anyone reading a 100% off n=1 in this table is reading
+a coin that has been flipped once.
