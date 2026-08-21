@@ -42,6 +42,14 @@ LEDGER = os.path.join(HERE, "ledger.csv")
 
 # The ledger schema. `stale_quote` is appended LAST so every existing positional
 # reader keeps working; the first eight fields are exactly as they always were.
+#
+# INS-011 (Resolver, 2026-08-21). `tags` was added to ledger.csv on 2026-08-20 under
+# TAG-001 and was NOT added here, so this list ran NINE fields against a TEN-column
+# file: any row written through append_call() would have landed short and silently
+# dropped the very tag declaration TAG-001 was opened to obtain, and verify() reported
+# the lab's own ledger as non-matching. No wrong row was produced -- the eight rows of
+# 2026-08-21 were appended against the file's real schema -- but the write path and the
+# file disagreed for a day. `tags` is appended LAST, in the file's own order.
 LEDGER_HEADER = [
     "date",
     "ticker",
@@ -52,6 +60,7 @@ LEDGER_HEADER = [
     "price_at_check",
     "outcome",
     "stale_quote",
+    "tags",
 ]
 
 # Three identical closes to the cent is the bar the lab used when it caught WBHC
@@ -184,6 +193,18 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS)
             f"refusing to log {row.get('ticker')}: no price_at_call. An unpriceable "
             f"cluster can never score — record it as a disclosed exclusion, not an "
             f"open position (INS-007).")
+
+    # INS-011, 2026-08-21. `tags` is a DECLARATION, not a derivation: TAG-001 exists
+    # because the Calibration Observatory was inferring 81% of the desk's tags from a
+    # regex over the thesis sentence. A default written here would be this file
+    # guessing on the lab's behalf -- the same defect wearing the lab's name -- so the
+    # write path refuses a blank instead. This lab's answer is `fund` on every row by
+    # construction (an SEC Form 4 purchase) and agent/AGENT.md step 5 says so.
+    if not str(row.get("tags") or "").strip():
+        raise ValueError(
+            f"refusing to log {row.get('ticker')}: blank `tags`. The tag is declared "
+            f"at the lab, never inferred downstream (TAG-001); this lab's rows are "
+            f"`fund` by construction -- see agent/AGENT.md step 5 (INS-011).")
     new = not os.path.exists(ledger) or os.path.getsize(ledger) == 0
     with open(ledger, "a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=LEDGER_HEADER)
