@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-21 20:49 UTC",
+ "updated_utc": "2026-08-21 21:05 UTC",
  "purchases": [
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "Hetzel Brandon",
-   "role": "CFO and Treasurer",
-   "date": "2026-08-14",
-   "shares": 1463.0,
-   "price": 3.0,
-   "value": 4389.0,
-   "acc": "0001628280-26-057405",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "TONX",
-   "company": "TON Strategy Co",
-   "insider": "Wilson Kevin Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 1700.0,
-   "price": 2.6763,
-   "value": 4549.71,
-   "acc": "0001493152-26-038473",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "CE",
    "company": "Celanese Corp",
@@ -4531,6 +4507,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "NBBK",
+   "company": "NB Bancorp, Inc.",
+   "insider": "CAMPANELLI JOSEPH P",
+   "role": "President & CEO",
+   "date": "2026-08-20",
+   "shares": 2000.0,
+   "price": 21.75,
+   "value": 43500.0,
+   "acc": "0001104659-26-099729",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "INV",
    "company": "Innventure, Inc.",
    "insider": "Brown Bruce",
@@ -4732,6 +4720,18 @@
    "price": 11.6037,
    "value": 487065.31,
    "acc": "0001213900-26-092479",
+   "filed": "2026-08-21"
+  },
+  {
+   "ticker": "ALK",
+   "company": "ALASKA AIR GROUP, INC.",
+   "insider": "MINICUCCI BENITO",
+   "role": "CEO AND PRESIDENT",
+   "date": "2026-08-20",
+   "shares": 25000.0,
+   "price": 40.0604,
+   "value": 1001510.0,
+   "acc": "0001451455-26-000011",
    "filed": "2026-08-21"
   },
   {
@@ -4944,11 +4944,6 @@
    "total_value": 55680.19
   },
   {
-   "ticker": "AFCG",
-   "insiders": 2,
-   "total_value": 49075.68
-  },
-  {
    "ticker": "CCAP",
    "insiders": 2,
    "total_value": 49045.0
@@ -5016,8 +5011,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022073",
-  "0001918704-26-022074",
   "0001918704-26-022075",
   "0001918704-26-022076",
   "0001918704-26-022077",
@@ -6400,6 +6393,7 @@
   "0001918704-26-024487",
   "0001918704-26-024490",
   "0001918704-26-024491",
+  "0001918704-26-024500",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7364,6 +7358,7 @@
   "0002032799-26-000006",
   "0002033015-26-000004",
   "0002033015-26-000006",
+  "0002033056-26-000016",
   "0002033348-26-000008",
   "0002033633-26-000005",
   "0002033834-26-000019",
