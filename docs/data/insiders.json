@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-21 13:43 UTC",
+ "updated_utc": "2026-08-21 13:59 UTC",
  "purchases": [
-  {
-   "ticker": "DKL",
-   "company": "Delek Logistics Partners, LP",
-   "insider": "Hobbs Mark Wayne",
-   "role": "EVP",
-   "date": "2026-08-13",
-   "shares": 4000.0,
-   "price": 50.0,
-   "value": 200000.0,
-   "acc": "0002044248-26-000015",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "CODI",
    "company": "Compass Diversified Holdings",
@@ -4375,6 +4363,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "YORW",
+   "company": "YORK WATER CO",
+   "insider": "Brossman Douglas S",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 30.126,
+   "price": 33.194,
+   "value": 1000.0,
+   "acc": "0000108985-26-000076",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "AIAI",
    "company": "AIAI Holdings Corp",
    "insider": "Remy Donald Michael",
@@ -4859,11 +4859,6 @@
    "total_value": 567344.0
   },
   {
-   "ticker": "DKL",
-   "insiders": 2,
-   "total_value": 500000.0
-  },
-  {
    "ticker": "ABCL",
    "insiders": 2,
    "total_value": 494204.0
@@ -4991,8 +4986,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021861",
-  "0001918704-26-021862",
   "0001918704-26-021871",
   "0001918704-26-021872",
   "0001918704-26-021875",
@@ -6415,6 +6408,8 @@
   "0001918704-26-024409",
   "0001918704-26-024410",
   "0001918704-26-024411",
+  "0001918704-26-024412",
+  "0001918704-26-024413",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
