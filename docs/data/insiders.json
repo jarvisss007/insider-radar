@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-21 10:20 UTC",
+ "updated_utc": "2026-08-21 10:51 UTC",
  "purchases": [
-  {
-   "ticker": "CODI",
-   "company": "Compass Diversified Holdings",
-   "insider": "Sawtelle Zachary T.",
-   "role": "",
-   "date": "2026-08-13",
-   "shares": 7000.0,
-   "price": 12.45,
-   "value": 87150.0,
-   "acc": "0001193125-26-349762",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
@@ -288,6 +276,18 @@
    "value": 729596.36,
    "acc": "0001865200-26-000080",
    "filed": "2026-08-17"
+  },
+  {
+   "ticker": "COE",
+   "company": "51Talk Online Education Group",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-13",
+   "shares": 35400.0,
+   "price": 20.83,
+   "value": 737382.0,
+   "acc": "0002029760-26-000009",
+   "filed": "2026-08-21"
   },
   {
    "ticker": "MLAB",
@@ -4996,7 +4996,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021820",
   "0001918704-26-021821",
   "0001918704-26-021822",
   "0001918704-26-021823",
@@ -7334,6 +7333,7 @@
   "0002029760-26-000006",
   "0002029760-26-000007",
   "0002029760-26-000008",
+  "0002029760-26-000009",
   "0002030396-26-000003",
   "0002030650-26-000006",
   "0002030650-26-000008",
