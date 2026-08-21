@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-21 22:41 UTC",
+ "updated_utc": "2026-08-21 23:13 UTC",
  "purchases": [
-  {
-   "ticker": "RWAY",
-   "company": "Runway Growth Finance Corp.",
-   "insider": "SPRENG R DAVID",
-   "role": "President and Co-CEO",
-   "date": "2026-08-14",
-   "shares": 1000.0,
-   "price": 6.8891,
-   "value": 6889.1,
-   "acc": "0001104659-26-098403",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "TG",
-   "company": "TREDEGAR CORP",
-   "insider": "DasGupta Arijit",
-   "role": "See Remarks",
-   "date": "2026-08-14",
-   "shares": 907.0,
-   "price": 7.87,
-   "value": 7138.09,
-   "acc": "0001628280-26-057554",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "ADAG",
    "company": "Adagene Inc.",
@@ -3739,6 +3715,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "ZWS",
+   "company": "Zurn Elkay Water Solutions Corp",
+   "insider": "Butler Jacques Donavon",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 2016.0,
+   "price": 49.6,
+   "value": 99993.6,
+   "acc": "0001439288-26-000129",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "RAIN",
    "company": "Rain Enhancement Technologies Holdco, Inc.",
    "insider": "Seidl Randy",
@@ -4615,6 +4603,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "GO",
+   "company": "Grocery Outlet Holding Corp.",
+   "insider": "Miller Paul Blaine",
+   "role": "See Remarks",
+   "date": "2026-08-20",
+   "shares": 8000.0,
+   "price": 10.9,
+   "value": 87200.0,
+   "acc": "0002140135-26-000006",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "KEEL",
    "company": "Keel Infrastructure Corp.",
    "insider": "WILSON LIAM DANIEL",
@@ -5011,8 +5011,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022099",
-  "0001918704-26-022100",
   "0001918704-26-022101",
   "0001918704-26-022102",
   "0001918704-26-022103",
@@ -6580,6 +6578,7 @@
   "0001968347-26-000007",
   "0001968347-26-000009",
   "0001968347-26-000011",
+  "0001968793-26-000006",
   "0001969106-26-000004",
   "0001969292-26-000009",
   "0001970357-26-000014",
@@ -7947,6 +7946,7 @@
   "0002139240-26-000002",
   "0002139756-26-000006",
   "0002139953-26-000004",
+  "0002140135-26-000006",
   "0002140162-26-000006",
   "0002140365-26-000005",
   "0002140626-26-000006",
