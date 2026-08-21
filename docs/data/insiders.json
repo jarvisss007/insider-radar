@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-21 13:59 UTC",
+ "updated_utc": "2026-08-21 14:14 UTC",
  "purchases": [
-  {
-   "ticker": "CODI",
-   "company": "Compass Diversified Holdings",
-   "insider": "Sawtelle Zachary T.",
-   "role": "",
-   "date": "2026-08-13",
-   "shares": 17000.0,
-   "price": 12.4204,
-   "value": 211146.8,
-   "acc": "0001193125-26-355927",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "PAL",
-   "company": "Proficient Auto Logistics, Inc",
-   "insider": "Lal Rohit",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 40000.0,
-   "price": 5.43,
-   "value": 217200.0,
-   "acc": "0001213900-26-090367",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -3667,6 +3643,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "IDAI",
+   "company": "T Stamp Inc",
+   "insider": "Genner Gareth Neville",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-19",
+   "shares": 606.0,
+   "price": 2.55,
+   "value": 1545.3,
+   "acc": "0001910573-26-000009",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4603,6 +4591,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "IDAI",
+   "company": "T Stamp Inc",
+   "insider": "Genner Gareth Neville",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-20",
+   "shares": 9394.0,
+   "price": 3.04,
+   "value": 28557.76,
+   "acc": "0001910573-26-000009",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4986,7 +4986,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021871",
   "0001918704-26-021872",
   "0001918704-26-021875",
   "0001918704-26-021876",
@@ -6410,6 +6409,7 @@
   "0001918704-26-024411",
   "0001918704-26-024412",
   "0001918704-26-024413",
+  "0001918704-26-024414",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
