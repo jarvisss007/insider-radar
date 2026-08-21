@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-21 20:01 UTC",
+ "updated_utc": "2026-08-21 20:17 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-08-14",
-   "shares": 1800.0,
-   "price": 0.062,
-   "value": 111.6,
-   "acc": "0001035422-26-000004",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "SNBH",
-   "company": "SENTIENT BRANDS HOLDINGS INC.",
-   "insider": "Wyman Derek Michael",
-   "role": "Treasurer",
-   "date": "2026-08-14",
-   "shares": 600.0,
-   "price": 0.29,
-   "value": 174.0,
-   "acc": "0001493152-26-038958",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 1.0,
-   "price": 357.56,
-   "value": 357.56,
-   "acc": "0001437749-26-028127",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "Edell Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 1000.0,
-   "price": 1.21,
-   "value": 1210.0,
-   "acc": "0001628280-26-057423",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "MOBI",
-   "company": "Mobia Medical, Inc.",
-   "insider": "Tansey Casey M",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 100.0,
-   "price": 12.53,
-   "value": 1253.0,
-   "acc": "0001193125-26-354538",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "SNBH",
    "company": "SENTIENT BRANDS HOLDINGS INC.",
@@ -3967,6 +3907,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 13980.0,
+   "price": 15.2073,
+   "value": 212598.05,
+   "acc": "0001493152-26-039678",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4291,6 +4243,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 300.0,
+   "price": 15.25,
+   "value": 4575.0,
+   "acc": "0001493152-26-039678",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "IDAI",
    "company": "T Stamp Inc",
    "insider": "Francis Andrew Scott",
@@ -4300,6 +4264,18 @@
    "price": 3.1,
    "value": 4960.0,
    "acc": "0002044398-26-000007",
+   "filed": "2026-08-21"
+  },
+  {
+   "ticker": "CBK",
+   "company": "Commercial Bancgroup, Inc.",
+   "insider": "Metheny Philip J.",
+   "role": "EVP, Chief Financial Officer",
+   "date": "2026-08-20",
+   "shares": 150.0,
+   "price": 33.77,
+   "value": 5065.5,
+   "acc": "0000898432-26-000690",
    "filed": "2026-08-21"
   },
   {
@@ -4361,6 +4337,18 @@
    "value": 7605.41,
    "acc": "0001104659-26-099299",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "OBDC",
+   "company": "Blue Owl Capital Corp",
+   "insider": "Nicholson Logan",
+   "role": "President",
+   "date": "2026-08-20",
+   "shares": 675.0,
+   "price": 11.29,
+   "value": 7620.75,
+   "acc": "0001193125-26-361118",
+   "filed": "2026-08-21"
   },
   {
    "ticker": "CLPR",
@@ -4505,6 +4493,18 @@
    "value": 22000.0,
    "acc": "0001193125-26-359359",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "OBDC",
+   "company": "Blue Owl Capital Corp",
+   "insider": "Nicholson Logan",
+   "role": "President",
+   "date": "2026-08-20",
+   "shares": 2325.0,
+   "price": 11.29,
+   "value": 26249.25,
+   "acc": "0001193125-26-361118",
+   "filed": "2026-08-21"
   },
   {
    "ticker": "IDAI",
@@ -4991,7 +4991,7 @@
   {
    "ticker": "SNBH",
    "insiders": 2,
-   "total_value": 10071.0
+   "total_value": 9897.0
   },
   {
    "ticker": "MLCI",
@@ -5006,15 +5006,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022045",
-  "0001918704-26-022046",
-  "0001918704-26-022047",
-  "0001918704-26-022048",
-  "0001918704-26-022049",
-  "0001918704-26-022050",
-  "0001918704-26-022051",
-  "0001918704-26-022052",
-  "0001918704-26-022053",
   "0001918704-26-022054",
   "0001918704-26-022055",
   "0001918704-26-022056",
@@ -6410,6 +6401,8 @@
   "0001918704-26-024485",
   "0001918704-26-024486",
   "0001918704-26-024487",
+  "0001918704-26-024490",
+  "0001918704-26-024491",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6528,6 +6521,7 @@
   "0001952898-26-000004",
   "0001953063-26-000009",
   "0001954190-26-000005",
+  "0001954239-26-000002",
   "0001954327-26-000043",
   "0001954327-26-000046",
   "0001954584-26-000019",
@@ -6711,6 +6705,7 @@
   "0001983489-26-000016",
   "0001983680-26-000001",
   "0001983938-26-000006",
+  "0001983938-26-000007",
   "0001984140-26-000008",
   "0001984676-26-000005",
   "0001984784-26-000020",
@@ -7160,6 +7155,11 @@
   "0001999371-26-018405",
   "0001999371-26-018408",
   "0001999371-26-018417",
+  "0001999371-26-018422",
+  "0001999371-26-018423",
+  "0001999371-26-018424",
+  "0001999371-26-018425",
+  "0001999371-26-018426",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
