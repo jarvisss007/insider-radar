@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-21 09:02 UTC",
+ "updated_utc": "2026-08-21 10:20 UTC",
  "purchases": [
-  {
-   "ticker": "KMPR",
-   "company": "KEMPER Corp",
-   "insider": "McAnena Stephen J",
-   "role": "President and CEO",
-   "date": "2026-08-13",
-   "shares": 3000.0,
-   "price": 26.5,
-   "value": 79500.0,
-   "acc": "0001976684-26-000011",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "GAIA",
-   "company": "GAIA, INC",
-   "insider": "Sutherland Paul Howard",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 70750.0,
-   "price": 1.2166,
-   "value": 86074.45,
-   "acc": "0001193125-26-354277",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "CODI",
    "company": "Compass Diversified Holdings",
@@ -3835,6 +3811,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "AIAI",
+   "company": "AIAI Holdings Corp",
+   "insider": "Remy Donald Michael",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 540.0,
+   "price": 5.25,
+   "value": 2835.0,
+   "acc": "0001493152-26-039553",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "MLCI",
    "company": "Mount Logan Capital Inc.",
    "insider": "Held David",
@@ -4459,6 +4447,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "AIAI",
+   "company": "AIAI Holdings Corp",
+   "insider": "Remy Donald Michael",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 365.0,
+   "price": 5.4,
+   "value": 1971.0,
+   "acc": "0001493152-26-039553",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "BHRB",
    "company": "Burke & Herbert Financial Services Corp.",
    "insider": "WILSON DAVID",
@@ -4950,8 +4950,8 @@
   },
   {
    "ticker": "AIAI",
-   "insiders": 2,
-   "total_value": 35390.0
+   "insiders": 3,
+   "total_value": 40196.0
   },
   {
    "ticker": "PHIO",
