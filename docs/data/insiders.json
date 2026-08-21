@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-08-21 12:40 UTC",
+ "updated_utc": "2026-08-21 13:27 UTC",
  "purchases": [
-  {
-   "ticker": "CMC",
-   "company": "COMMERCIAL METALS Co",
-   "insider": "McPherson John R",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 1390.0,
-   "price": 71.92,
-   "value": 99968.8,
-   "acc": "0001531183-26-000018",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "MLAB",
-   "company": "MESA LABORATORIES INC /CO/",
-   "insider": "Tripeny R Tony",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 900.0,
-   "price": 113.69,
-   "value": 102321.0,
-   "acc": "0000724004-26-000083",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "BROS",
-   "company": "Dutch Bros Inc.",
-   "insider": "Penegor Todd Allan",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 2000.0,
-   "price": 51.56,
-   "value": 103120.0,
-   "acc": "0001866581-26-000137",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "DKL",
-   "company": "Delek Logistics Partners, LP",
-   "insider": "Soreq Avigal",
-   "role": "President",
-   "date": "2026-08-13",
-   "shares": 2500.0,
-   "price": 50.0,
-   "value": 125000.0,
-   "acc": "0001642080-26-000015",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Harmon Neal",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 29035.659,
-   "price": 4.3053,
-   "value": 125007.22,
-   "acc": "0001865200-26-000074",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "DFH",
-   "company": "Dream Finders Homes, Inc.",
-   "insider": "BECKWITT RICHARD",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 12000.0,
-   "price": 14.8,
-   "value": 177600.0,
-   "acc": "0000897069-26-001671",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "KEEL",
-   "company": "Keel Infrastructure Corp.",
-   "insider": "Gagnon Benjamin",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 58888.0,
-   "price": 3.33,
-   "value": 196097.04,
-   "acc": "0001812477-26-000025",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "DKL",
    "company": "Delek Logistics Partners, LP",
@@ -4231,6 +4147,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 9700.0,
+   "price": 18.6105,
+   "value": 180521.85,
+   "acc": "0000935596-26-000018",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4459,6 +4387,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "GAIA",
+   "company": "GAIA, INC",
+   "insider": "Sutherland Paul Howard",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 1580.0,
+   "price": 1.46,
+   "value": 2306.8,
+   "acc": "0001193125-26-360068",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "BHRB",
    "company": "Burke & Herbert Financial Services Corp.",
    "insider": "WILSON DAVID",
@@ -4675,6 +4615,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "INV",
+   "company": "Innventure, Inc.",
+   "insider": "Brown Bruce",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 30000.0,
+   "price": 1.5133,
+   "value": 45399.0,
+   "acc": "0002001557-26-000156",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "BAER",
    "company": "Bridger Aerospace Group Holdings, Inc.",
    "insider": "KELTER JEFFREY E",
@@ -4723,6 +4675,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "INV",
+   "company": "Innventure, Inc.",
+   "insider": "Haskell Gregory W",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-20",
+   "shares": 50000.0,
+   "price": 1.512,
+   "value": 75600.0,
+   "acc": "0001628280-26-058333",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "KEEL",
    "company": "Keel Infrastructure Corp.",
    "insider": "WILSON LIAM DANIEL",
@@ -4747,6 +4711,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 9815.0,
+   "price": 18.6585,
+   "value": 183133.18,
+   "acc": "0000935596-26-000018",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "AMR",
    "company": "Alpha Metallurgical Resources, Inc.",
    "insider": "Courtis Kenneth S.",
@@ -4769,6 +4745,30 @@
    "value": 237915.2,
    "acc": "0001812746-26-000008",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "INV",
+   "company": "Innventure, Inc.",
+   "insider": "Donnally James O",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 225000.0,
+   "price": 1.5,
+   "value": 337500.0,
+   "acc": "0001628280-26-058331",
+   "filed": "2026-08-21"
+  },
+  {
+   "ticker": "INV",
+   "company": "Innventure, Inc.",
+   "insider": "Otworth Michael",
+   "role": "Executive Chairman",
+   "date": "2026-08-20",
+   "shares": 231000.0,
+   "price": 1.5121,
+   "value": 349295.1,
+   "acc": "0001628280-26-058332",
+   "filed": "2026-08-21"
   },
   {
    "ticker": "AMR",
@@ -4826,7 +4826,7 @@
   {
    "ticker": "ANGX",
    "insiders": 3,
-   "total_value": 1888805.97
+   "total_value": 1763798.75
   },
   {
    "ticker": "IAUX",
@@ -4834,24 +4834,19 @@
    "total_value": 1627274.25
   },
   {
-   "ticker": "MLAB",
-   "insiders": 2,
-   "total_value": 902411.4
-  },
-  {
    "ticker": "REZI",
    "insiders": 3,
    "total_value": 848123.17
   },
   {
+   "ticker": "INV",
+   "insiders": 4,
+   "total_value": 807794.1
+  },
+  {
    "ticker": "REFI",
    "insiders": 2,
    "total_value": 724550.0
-  },
-  {
-   "ticker": "DKL",
-   "insiders": 3,
-   "total_value": 625000.0
   },
   {
    "ticker": "LIEN",
@@ -4862,6 +4857,11 @@
    "ticker": "UTGN",
    "insiders": 2,
    "total_value": 567344.0
+  },
+  {
+   "ticker": "DKL",
+   "insiders": 2,
+   "total_value": 500000.0
   },
   {
    "ticker": "ABCL",
@@ -4877,11 +4877,6 @@
    "ticker": "FOCL",
    "insiders": 4,
    "total_value": 408500.0
-  },
-  {
-   "ticker": "KEEL",
-   "insiders": 2,
-   "total_value": 396160.45
   },
   {
    "ticker": "NTHI",
@@ -4996,20 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021825",
-  "0001918704-26-021828",
-  "0001918704-26-021829",
-  "0001918704-26-021834",
-  "0001918704-26-021835",
-  "0001918704-26-021838",
-  "0001918704-26-021840",
-  "0001918704-26-021842",
-  "0001918704-26-021843",
-  "0001918704-26-021846",
-  "0001918704-26-021847",
-  "0001918704-26-021848",
-  "0001918704-26-021853",
-  "0001918704-26-021854",
   "0001918704-26-021855",
   "0001918704-26-021856",
   "0001918704-26-021857",
@@ -6428,6 +6409,13 @@
   "0001918704-26-024393",
   "0001918704-26-024394",
   "0001918704-26-024395",
+  "0001918704-26-024400",
+  "0001918704-26-024401",
+  "0001918704-26-024402",
+  "0001918704-26-024403",
+  "0001918704-26-024404",
+  "0001918704-26-024405",
+  "0001918704-26-024406",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7162,6 +7150,7 @@
   "0001999371-26-018274",
   "0001999371-26-018277",
   "0001999371-26-018332",
+  "0001999371-26-018347",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
@@ -7175,6 +7164,7 @@
   "0002001011-26-000116",
   "0002001162-26-000014",
   "0002001171-26-000006",
+  "0002001557-26-000156",
   "0002002093-26-000010",
   "0002002763-26-000006",
   "0002002763-26-000010",
@@ -7204,7 +7194,9 @@
   "0002009679-26-000008",
   "0002009681-26-000008",
   "0002009786-26-000008",
+  "0002009786-26-000010",
   "0002009817-26-000006",
+  "0002009817-26-000008",
   "0002009849-26-000010",
   "0002009989-26-000019",
   "0002009989-26-000022",
@@ -7217,6 +7209,7 @@
   "0002010300-26-000025",
   "0002010300-26-000027",
   "0002010445-26-000009",
+  "0002010445-26-000011",
   "0002011100-26-000006",
   "0002011525-26-000002",
   "0002012135-26-000021",
@@ -7322,6 +7315,7 @@
   "0002029118-26-000104",
   "0002029196-26-000011",
   "0002029214-26-000011",
+  "0002029288-26-000004",
   "0002029470-26-000014",
   "0002029692-26-000026",
   "0002029760-26-000001",
@@ -7335,6 +7329,7 @@
   "0002030396-26-000003",
   "0002030650-26-000006",
   "0002030650-26-000008",
+  "0002030650-26-000010",
   "0002030941-26-000010",
   "0002031182-26-000005",
   "0002031256-26-000002",
