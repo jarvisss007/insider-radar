@@ -1,162 +1,6 @@
 {
- "updated_utc": "2026-08-20 23:39 UTC",
+ "updated_utc": "2026-08-21 02:47 UTC",
  "purchases": [
-  {
-   "ticker": "PAL",
-   "company": "Proficient Auto Logistics, Inc",
-   "insider": "Wright Bradley J.",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-13",
-   "shares": 4000.0,
-   "price": 5.55,
-   "value": 22200.0,
-   "acc": "0001213900-26-090366",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "SELF",
-   "company": "Global Self Storage, Inc.",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-13",
-   "shares": 5629.0,
-   "price": 5.2011,
-   "value": 29276.99,
-   "acc": "0001628873-26-000070",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 3087.0,
-   "price": 10.12,
-   "value": 31240.44,
-   "acc": "0001104659-26-097936",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ALT",
-   "company": "Altimmune, Inc.",
-   "insider": "Durso Jerome Benedict",
-   "role": "President and CEO",
-   "date": "2026-08-13",
-   "shares": 15000.0,
-   "price": 2.95,
-   "value": 44250.0,
-   "acc": "0001698665-26-000007",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "TISI",
-   "company": "TEAM INC",
-   "insider": "McGinnis Pamela J.",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 2000.0,
-   "price": 22.9,
-   "value": 45800.0,
-   "acc": "0002019046-26-000003",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "FGBI",
-   "company": "First Guaranty Bancshares, Inc.",
-   "insider": "WALKER ROBERT W",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 5500.0,
-   "price": 8.4,
-   "value": 46200.0,
-   "acc": "0001437749-26-028010",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "ECOR",
-   "company": "electroCore, Inc.",
-   "insider": "Errico Thomas J.",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 5000.0,
-   "price": 9.8544,
-   "value": 49272.0,
-   "acc": "0001493152-26-038600",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "DKL",
-   "company": "Delek Logistics Partners, LP",
-   "insider": "Spiegel Reuven",
-   "role": "Executive Vice President, DKL",
-   "date": "2026-08-13",
-   "shares": 1000.0,
-   "price": 50.0,
-   "value": 50000.0,
-   "acc": "0001615515-26-000023",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ACON",
-   "company": "Aclarion, Inc.",
-   "insider": "Bond Ryan",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 21122.0,
-   "price": 2.37,
-   "value": 50059.14,
-   "acc": "0001683168-26-006516",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "RWAY",
-   "company": "Runway Growth Finance Corp.",
-   "insider": "Thomson Carmela",
-   "role": "CFO, Treasurer and Secretary",
-   "date": "2026-08-13",
-   "shares": 8000.0,
-   "price": 6.9679,
-   "value": 55743.2,
-   "acc": "0001104659-26-097933",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 2952.0,
-   "price": 21.41,
-   "value": 63202.32,
-   "acc": "0001510281-26-000269",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "DKL",
-   "company": "Delek Logistics Partners, LP",
-   "insider": "Wright Robert G.",
-   "role": "EVP, Chief Financial Officer",
-   "date": "2026-08-13",
-   "shares": 1500.0,
-   "price": 50.0,
-   "value": 75000.0,
-   "acc": "0001908422-26-000017",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "CVRX",
-   "company": "CVRx, Inc.",
-   "insider": "Binkowski Brent",
-   "role": "CHIEF OPERATING OFFICER",
-   "date": "2026-08-13",
-   "shares": 26223.0,
-   "price": 2.9147,
-   "value": 76432.18,
-   "acc": "0001644355-26-000007",
-   "filed": "2026-08-13"
-  },
   {
    "ticker": "KMPR",
    "company": "KEMPER Corp",
@@ -1346,6 +1190,18 @@
    "filed": "2026-08-17"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "CHEN THOMAS C",
+   "role": "Chief Scientific Officer",
+   "date": "2026-08-14",
+   "shares": 33787.0,
+   "price": 3.8477,
+   "value": 130002.24,
+   "acc": "0001213900-26-092276",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BGDE",
    "company": "Big Digital Energy, Inc.",
    "insider": "Endeavor Blockchain, LLC",
@@ -2189,6 +2045,18 @@
    "value": 9875.0,
    "acc": "0001437749-26-028149",
    "filed": "2026-08-17"
+  },
+  {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "CHEN THOMAS C",
+   "role": "Chief Scientific Officer",
+   "date": "2026-08-17",
+   "shares": 2472.0,
+   "price": 4.0445,
+   "value": 9998.0,
+   "acc": "0001213900-26-092276",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "HGBL",
@@ -3151,6 +3019,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "IAUX",
+   "company": "i-80 Gold Corp.",
+   "insider": "Savarie David Roger",
+   "role": "EVP, General Counsel",
+   "date": "2026-08-18",
+   "shares": 4575.0,
+   "price": 1.59,
+   "value": 7274.25,
+   "acc": "0000912282-26-001140",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "BRLT",
    "company": "Brilliant Earth Group, Inc.",
    "insider": "Gerstein Beth Tamara",
@@ -3451,6 +3331,18 @@
    "filed": "2026-08-19"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "CHEN THOMAS C",
+   "role": "CEO",
+   "date": "2026-08-18",
+   "shares": 12757.0,
+   "price": 5.487,
+   "value": 69997.66,
+   "acc": "0001213900-26-092277",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Yuan Lipen",
@@ -3617,6 +3509,18 @@
    "value": 185955.0,
    "acc": "0000935596-26-000017",
    "filed": "2026-08-19"
+  },
+  {
+   "ticker": "MOBI",
+   "company": "Mobia Medical, Inc.",
+   "insider": "Tansey Casey M",
+   "role": "Director",
+   "date": "2026-08-18",
+   "shares": 16441.0,
+   "price": 12.0749,
+   "value": 198523.43,
+   "acc": "0001193125-26-359683",
+   "filed": "2026-08-20"
   },
   {
    "ticker": "PSUS",
@@ -3928,6 +3832,18 @@
    "price": 4.5373,
    "value": 2236.89,
    "acc": "0001628280-26-058269",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "MLCI",
+   "company": "Mount Logan Capital Inc.",
+   "insider": "Held David",
+   "role": "Chief Compliance Officer",
+   "date": "2026-08-19",
+   "shares": 946.0,
+   "price": 3.39,
+   "value": 3206.94,
+   "acc": "0001628280-26-058320",
    "filed": "2026-08-20"
   },
   {
@@ -4651,6 +4567,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "PTIX",
+   "company": "Protagenic Therapeutics, Inc.\\new",
+   "insider": "ARMEN GARO H",
+   "role": "EXEC. CHAIR & PRINCIPAL OFF",
+   "date": "2026-08-20",
+   "shares": 16634.0,
+   "price": 0.5898,
+   "value": 9810.73,
+   "acc": "0001493152-26-039537",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "COMER JAMES F",
@@ -4783,6 +4711,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "AMR",
+   "company": "Alpha Metallurgical Resources, Inc.",
+   "insider": "Courtis Kenneth S.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 333.0,
+   "price": 189.84,
+   "value": 63216.72,
+   "acc": "0001812746-26-000008",
+   "filed": "2026-08-20"
+  },
+  {
    "ticker": "KEEL",
    "company": "Keel Infrastructure Corp.",
    "insider": "WILSON LIAM DANIEL",
@@ -4792,6 +4732,66 @@
    "price": 3.25,
    "value": 99999.25,
    "acc": "0001812477-26-000029",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "AMR",
+   "company": "Alpha Metallurgical Resources, Inc.",
+   "insider": "Courtis Kenneth S.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 943.0,
+   "price": 190.77,
+   "value": 179896.11,
+   "acc": "0001812746-26-000008",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "AMR",
+   "company": "Alpha Metallurgical Resources, Inc.",
+   "insider": "Courtis Kenneth S.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 1151.0,
+   "price": 192.09,
+   "value": 221095.59,
+   "acc": "0001812746-26-000008",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "AMR",
+   "company": "Alpha Metallurgical Resources, Inc.",
+   "insider": "Courtis Kenneth S.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 1234.0,
+   "price": 192.8,
+   "value": 237915.2,
+   "acc": "0001812746-26-000008",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "AMR",
+   "company": "Alpha Metallurgical Resources, Inc.",
+   "insider": "Courtis Kenneth S.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 5363.0,
+   "price": 194.48,
+   "value": 1042996.24,
+   "acc": "0001812746-26-000008",
+   "filed": "2026-08-20"
+  },
+  {
+   "ticker": "AMR",
+   "company": "Alpha Metallurgical Resources, Inc.",
+   "insider": "Courtis Kenneth S.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 5976.0,
+   "price": 193.68,
+   "value": 1157431.68,
+   "acc": "0001812746-26-000008",
    "filed": "2026-08-20"
   },
   {
@@ -4829,6 +4829,11 @@
    "total_value": 1888805.97
   },
   {
+   "ticker": "IAUX",
+   "insiders": 2,
+   "total_value": 1627274.25
+  },
+  {
    "ticker": "MLAB",
    "insiders": 2,
    "total_value": 902411.4
@@ -4839,14 +4844,14 @@
    "total_value": 848123.17
   },
   {
-   "ticker": "DKL",
-   "insiders": 5,
-   "total_value": 750000.0
-  },
-  {
    "ticker": "REFI",
    "insiders": 2,
    "total_value": 724550.0
+  },
+  {
+   "ticker": "DKL",
+   "insiders": 3,
+   "total_value": 625000.0
   },
   {
    "ticker": "LIEN",
@@ -4879,14 +4884,14 @@
    "total_value": 396160.45
   },
   {
+   "ticker": "NTHI",
+   "insiders": 2,
+   "total_value": 318437.4
+  },
+  {
    "ticker": "LBGJ",
    "insiders": 2,
    "total_value": 299999.0
-  },
-  {
-   "ticker": "PAL",
-   "insiders": 2,
-   "total_value": 294700.0
   },
   {
    "ticker": "NVRI",
@@ -4914,16 +4919,6 @@
    "total_value": 93550.16
   },
   {
-   "ticker": "ACON",
-   "insiders": 3,
-   "total_value": 90548.75
-  },
-  {
-   "ticker": "MXF",
-   "insiders": 2,
-   "total_value": 78202.3
-  },
-  {
    "ticker": "MATW",
    "insiders": 2,
    "total_value": 71378.0
@@ -4932,11 +4927,6 @@
    "ticker": "SKYH",
    "insiders": 2,
    "total_value": 64300.0
-  },
-  {
-   "ticker": "RWAY",
-   "insiders": 2,
-   "total_value": 62632.3
   },
   {
    "ticker": "GABC",
@@ -4949,14 +4939,14 @@
    "total_value": 59480.0
   },
   {
-   "ticker": "TISI",
-   "insiders": 2,
-   "total_value": 57300.0
-  },
-  {
    "ticker": "AFCG",
    "insiders": 3,
    "total_value": 52225.68
+  },
+  {
+   "ticker": "ACON",
+   "insiders": 2,
+   "total_value": 40489.61
   },
   {
    "ticker": "AIAI",
@@ -4994,6 +4984,11 @@
    "total_value": 10071.0
   },
   {
+   "ticker": "MLCI",
+   "insiders": 2,
+   "total_value": 9356.94
+  },
+  {
    "ticker": "APLM",
    "insiders": 3,
    "total_value": 0,
@@ -5001,11 +4996,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021813",
-  "0001918704-26-021814",
-  "0001918704-26-021815",
-  "0001918704-26-021817",
-  "0001918704-26-021819",
   "0001918704-26-021820",
   "0001918704-26-021821",
   "0001918704-26-021822",
@@ -6630,6 +6620,7 @@
   "0001968347-26-000004",
   "0001968347-26-000007",
   "0001968347-26-000009",
+  "0001968347-26-000011",
   "0001969106-26-000004",
   "0001969292-26-000009",
   "0001970357-26-000014",
@@ -7308,10 +7299,13 @@
   "0002023806-26-000007",
   "0002024096-26-000013",
   "0002024169-26-000014",
+  "0002024169-26-000018",
   "0002024218-26-000083",
   "0002024250-26-000022",
   "0002024250-26-000024",
+  "0002024250-26-000031",
   "0002024630-26-000018",
+  "0002024630-26-000024",
   "0002024911-26-000004",
   "0002025268-26-000006",
   "0002025289-26-000005",
@@ -7843,6 +7837,7 @@
   "0002113533-26-000004",
   "0002113543-26-000004",
   "0002113550-26-000005",
+  "0002113721-26-000014",
   "0002114309-26-000005",
   "0002114888-26-000013",
   "0002114987-26-000002",
