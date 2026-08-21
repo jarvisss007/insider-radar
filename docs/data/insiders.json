@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-21 16:05 UTC",
+ "updated_utc": "2026-08-21 16:37 UTC",
  "purchases": [
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 60000.0,
-   "price": 7.128,
-   "value": 427680.0,
-   "acc": "0000905148-26-003647",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Sarowitz Steven I",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 107662.0,
-   "price": 4.1173,
-   "value": 443276.75,
-   "acc": "0001865200-26-000075",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Currie Jeffrey",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 125000.0,
-   "price": 4.0131,
-   "value": 501637.5,
-   "acc": "0001628280-26-056928",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 111929.0,
-   "price": 6.27,
-   "value": 701794.83,
-   "acc": "0001140361-26-033407",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "ANGX",
    "company": "Angel Studios, Inc.",
@@ -3763,6 +3715,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "MED",
+   "company": "MEDIFAST INC",
+   "insider": "Kiai Parsa",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 799.0,
+   "price": 11.6576,
+   "value": 9314.42,
+   "acc": "0001213900-26-092479",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "FTLF",
    "company": "FITLIFE BRANDS, INC.",
    "insider": "Pappas Shannon K.",
@@ -4121,6 +4085,18 @@
    "value": 304534.16,
    "acc": "0001104659-26-099249",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "MED",
+   "company": "MEDIFAST INC",
+   "insider": "Kiai Parsa",
+   "role": "Director",
+   "date": "2026-08-19",
+   "shares": 28538.0,
+   "price": 11.6576,
+   "value": 332684.59,
+   "acc": "0001213900-26-092479",
+   "filed": "2026-08-21"
   },
   {
    "ticker": "RSG",
@@ -4495,6 +4471,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "MED",
+   "company": "MEDIFAST INC",
+   "insider": "Kiai Parsa",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 1175.0,
+   "price": 11.6037,
+   "value": 13634.35,
+   "acc": "0001213900-26-092479",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "NRDE",
    "company": "Stark Novus Financial Inc.",
    "insider": "ZYNGIER ALEXANDRE",
@@ -4759,6 +4747,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "MED",
+   "company": "MEDIFAST INC",
+   "insider": "Kiai Parsa",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 41975.0,
+   "price": 11.6037,
+   "value": 487065.31,
+   "acc": "0001213900-26-092479",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "AMR",
    "company": "Alpha Metallurgical Resources, Inc.",
    "insider": "Courtis Kenneth S.",
@@ -4809,11 +4809,6 @@
  ],
  "clusters": [
   {
-   "ticker": "BORR",
-   "insiders": 2,
-   "total_value": 8731787.5
-  },
-  {
    "ticker": "CDNL",
    "insiders": 7,
    "total_value": 8541273.78
@@ -4824,14 +4819,14 @@
    "total_value": 3987581.0
   },
   {
-   "ticker": "ANGX",
-   "insiders": 3,
-   "total_value": 1763798.75
-  },
-  {
    "ticker": "IAUX",
    "insiders": 2,
    "total_value": 1627274.25
+  },
+  {
+   "ticker": "ANGX",
+   "insiders": 3,
+   "total_value": 1320522.0
   },
   {
    "ticker": "REZI",
@@ -4996,10 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021923",
-  "0001918704-26-021924",
-  "0001918704-26-021925",
-  "0001918704-26-021926",
   "0001918704-26-021927",
   "0001918704-26-021928",
   "0001918704-26-021929",
@@ -6417,6 +6408,9 @@
   "0001918704-26-024437",
   "0001918704-26-024438",
   "0001918704-26-024439",
+  "0001918704-26-024440",
+  "0001918704-26-024441",
+  "0001918704-26-024442",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7156,6 +7150,7 @@
   "0001999371-26-018349",
   "0001999371-26-018352",
   "0001999371-26-018367",
+  "0001999371-26-018371",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
