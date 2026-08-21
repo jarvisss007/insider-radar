@@ -44,8 +44,11 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
 5. **Log new clusters**: for each entry in `clusters` in `docs/data/insiders.json`
    whose ticker does NOT already have an open (outcome-empty) row in the
    ledger: append one row —
-   `date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote`
-   with `call = long`, `check_date = date + 30 calendar days`,
+   `date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote,tags`
+   with `call = long`, `check_date = date + 30 calendar days`, `tags = fund` (TAG-001,
+   2026-08-20: this lab's rows are fundamental information by construction — an SEC
+   Form 4 purchase — and the lab declares that itself rather than letting the
+   Observatory guess; the column was added to every prior row the same day),
    `price_at_call` = latest daily close from the Yahoo endpoint above,
    thesis under 15 words STARTING with `[insider]` (state insider count and
    total value, e.g. `[insider] 2 insiders bought $22.0M within 14d`),

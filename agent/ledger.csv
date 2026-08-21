@@ -1,98 +1,98 @@
-date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote
-2026-07-17,NTSK,long,[insider] 2 insiders bought $22.0M cluster,13.59,2026-08-16,15.25,right,0
-2026-07-17,IPX,long,[insider] 2 insiders bought $2.4M cluster,22.94,2026-08-16,24.55,right,0
-2026-07-17,ELV,long,[insider] 2 insiders bought $1.4M cluster,373.11,2026-08-16,390.24,right,0
-2026-07-17,BUKS,long,[insider] 2 insiders bought $0.16M cluster,4.86,2026-08-16,4.55,wrong,0
-2026-07-17,GABC,long,[insider] 5 insiders bought $0.10M cluster,48.57,2026-08-16,50.94,right,0
-2026-07-17,INM,long,[insider] 2 insiders bought $0.03M cluster,1.52,2026-08-16,1.46,wrong,0
-2026-07-17,YORW,long,[insider] 6 insiders bought $0.03M cluster,31.45,2026-08-16,33.06,right,0
-2026-07-25,FSBC,long,[insider] 6 insiders bought $6.3M cluster,46.81,2026-08-24,,,no
-2026-07-25,CLBK,long,[insider] 16 insiders bought $4.8M cluster,10.88,2026-08-24,,,no
-2026-07-25,TSM,long,[insider] 2 insiders bought $4.4M cluster,403.41,2026-08-24,,,no
-2026-07-25,BBASX,long,[insider] 2 insiders bought $2.6M cluster,10.96,2026-08-24,,,no
-2026-07-25,BYRN,long,[insider] 3 insiders bought $0.25M cluster,3.37,2026-08-24,,,no
-2026-07-25,GRML,long,[insider] 2 insiders bought $0.14M cluster,0.19,2026-08-24,,,no
-2026-07-31,SCTX,long,[insider] 4 insiders bought $216.2M cluster,20.40,2026-08-30,,,no
-2026-07-31,ACI,long,[insider] 2 insiders bought $12.1M cluster,11.60,2026-08-30,,,no
-2026-08-03,XAIR,long,[insider] 2 insiders bought $27.7M within 14d,6.33,2026-09-02,,,no
-2026-08-03,HCWB,long,[insider] 2 insiders bought $0.08M within 14d,3.34,2026-09-02,,,no
-2026-08-05,FUNC,long,[insider] 4 insiders bought $8.1K dedup (feed says $12.8K); trivial size,44.70,2026-09-04,,,no
-2026-08-06,GBFH,long,[insider] 4 insiders bought $1.22M open-market cluster,20.39,2026-09-05,,,no
-2026-08-06,TSCO,long,[insider] 2 insiders bought $0.55M open-market cluster,33.41,2026-09-05,,,no
-2026-08-06,RGCO,long,[insider] 2 insiders bought $300 total; noise-scale cluster,21.70,2026-09-05,,,no
-2026-08-07,SAGT,long,[insider] 2 insiders bought $0.28M open-market cluster; sub-$1 micro-cap,0.721,2026-09-06,,,no
-2026-08-07,WBHC,long,[insider] 2 insiders bought $0.25M cluster; quote frozen 550.00 three sessions,550.00,2026-09-06,,,yes
-2026-08-07,BHRB,long,[insider] 2 insiders bought $0.08M open-market cluster; community bank,73.76,2026-09-06,,,no
-2026-08-10,BRVE,long,[insider] 7 insiders bought $69.4M open-market cluster; largest seen,30.00,2026-09-09,,,no
-2026-08-10,ATTO,long,[insider] 3 insiders bought $20.2M cluster; -7.9% over three sessions,20.17,2026-09-09,,,no
-2026-08-10,CCB,long,[insider] 3 insiders bought $1.12M open-market cluster; community bank,45.34,2026-09-09,,,no
-2026-08-10,NWPP,long,[insider] 2 insiders bought $0.03M; quote frozen 4.50 three sessions,4.50,2026-09-09,,,yes
-2026-08-11,BLSM,long,[insider] [fund] 4 insiders bought $5.18M open-market cluster; only 2 daily bars — brand-new listing,15.99,2026-09-10,,,
-2026-08-11,LTGO,long,[insider] [fund] 2 insiders bought $5.04M open-market cluster; only 3 daily bars — brand-new listing,18.56,2026-09-10,,,
-2026-08-11,AHCO,long,[insider] [fund] 2 insiders bought $0.39M open-market cluster,5.22,2026-09-10,,,no
-2026-08-11,ELAN,long,[insider] [fund] 2 insiders bought $0.33M open-market cluster,22.28,2026-09-10,,,no
-2026-08-11,MKZR,long,[insider] [fund] 3 insiders bought $0.16M open-market cluster; sub-$2 micro-cap,1.52,2026-09-10,,,no
-2026-08-11,MRP,long,[insider] [fund] 2 insiders bought $0.12M open-market cluster,28.80,2026-09-10,,,no
-2026-08-11,BOTJ,long,[insider] [fund] 2 insiders bought $0.03M open-market cluster; community bank,27.02,2026-09-10,,,no
-2026-08-11,CZNC,long,[insider] [fund] 2 insiders bought $0.005M open-market cluster; trivial size,25.32,2026-09-10,,,no
-2026-08-12,VISTA,long,"[insider] [fund] 2 insiders bought $6.23M; non-traded BDC (CIK 1919369) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-11,,void,
-2026-08-12,XRN,long,[insider] [fund] 2 insiders bought $1.28M open-market cluster,36.78,2026-09-11,,,no
-2026-08-12,AMRC,long,[insider] [fund] 2 insiders bought $1.18M open-market cluster,27.17,2026-09-11,,,no
-2026-08-12,AXIA3,long,"[insider] [fund] 2 insiders bought $0.88M; ticker unfetchable from Yahoo | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-11,,void,
-2026-08-12,CC,long,[insider] [fund] 5 insiders bought $0.41M open-market cluster,15.10,2026-09-11,,,no
-2026-08-12,KMPR,long,[insider] [fund] 4 insiders bought $0.29M open-market cluster,26.80,2026-09-11,,,no
-2026-08-12,MATW,long,[insider] [fund] 2 insiders bought $0.16M open-market cluster,23.16,2026-09-11,,,no
-2026-08-12,FEMY,long,[insider] [fund] 5 insiders non-open-market $0.13M; sub-$3 micro-cap,2.24,2026-09-11,,,no
-2026-08-13,CIK2089975,long,"[insider] [fund] 4 insiders bought $11.00M; non-traded fund (CIK2089975) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
-2026-08-13,ACDC,long,[insider] [fund] 2 insiders bought $4.02M open-market cluster,5.26,2026-09-12,,,no
-2026-08-13,LILA,long,[insider] [fund] 2 insiders bought $3.70M open-market cluster,8.55,2026-09-12,,,no
-2026-08-13,AMRZ,long,[insider] [fund] 5 insiders bought $0.839M open-market cluster,46.75,2026-09-12,,,no
-2026-08-13,TNC,long,[insider] [fund] 2 insiders bought $0.641M open-market cluster,67.64,2026-09-12,,,no
-2026-08-13,EMBC,long,[insider] [fund] 4 insiders bought $0.558M open-market cluster,5.11,2026-09-12,,,no
-2026-08-13,CODI,long,[insider] [fund] 2 insiders bought $0.507M open-market cluster,12.28,2026-09-12,,,no
-2026-08-13,STRZ,long,[insider] [fund] 2 insiders bought $0.274M open-market cluster,28.00,2026-09-12,,,no
-2026-08-13,CIA,long,[insider] [fund] 2 insiders bought $0.264M open-market cluster,3.90,2026-09-12,,,no
-2026-08-13,MTDR,long,[insider] [fund] 2 insiders bought $0.240M open-market cluster,51.60,2026-09-12,,,no
-2026-08-13,AVBC,long,[insider] [fund] 2 insiders bought $0.228M open-market cluster,22.05,2026-09-12,,,no
-2026-08-13,SMRT,long,[insider] [fund] 2 insiders bought $0.149M open-market cluster,1.44,2026-09-12,,,no
-2026-08-13,CIK1885551,long,"[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1885551) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
-2026-08-13,CIK1777677,long,"[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1777677) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
-2026-08-13,PNAQ,long,"[insider] [fund] 6 insiders non-open-market $29.8M; SPAC, no Yahoo quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,
-2026-08-14,BORR,long,[insider] [fund] 2 insiders bought $6.5M,4.41,2026-09-13,,,no
-2026-08-17,ONON,long,[insider] 2 insiders bought $3.99M cluster,32.22,2026-09-16,,,no
-2026-08-17,ANGX,long,[insider] 2 insiders bought $1.48M cluster,4.37,2026-09-16,,,no
-2026-08-17,ABCL,long,[insider] 2 insiders bought $0.86M cluster,11.38,2026-09-16,,,no
-2026-08-17,REZI,long,[insider] 2 insiders bought $0.62M cluster,20.50,2026-09-16,,,no
-2026-08-17,BTDR,long,[insider] 2 insiders bought $0.45M cluster,9.13,2026-09-16,,,no
-2026-08-17,FOCL,long,[insider] 4 insiders bought $0.41M cluster,4.76,2026-09-16,,,no
-2026-08-17,PAL,long,[insider] 3 insiders bought $0.30M cluster,5.50,2026-09-16,,,no
-2026-08-17,SELF,long,[insider] 2 insiders bought $0.13M cluster,5.35,2026-09-16,,,no
-2026-08-17,ACON,long,[insider] 4 insiders bought $0.09M cluster,2.46,2026-09-16,,,no
-2026-08-17,RICK,long,[insider] 2 insiders bought $0.07M cluster,30.87,2026-09-16,,,no
-2026-08-17,ACCS,long,[insider] 2 insiders bought $0.06M cluster,4.97,2026-09-16,,,no
-2026-08-18,CDNL,long,"[insider] 6 insiders bought $8.25M; prior 669ev -0.010% med, 49.6% win",40.71,2026-09-17,,,no
-2026-08-18,MLAB,long,"[insider] 2 insiders bought $0.90M; prior 669ev -0.010% med, 49.6% win",108.61,2026-09-17,,,no
-2026-08-18,DKL,long,"[insider] 5 insiders bought $0.75M; prior 669ev -0.010% med, 49.6% win",53.55,2026-09-17,,,no
-2026-08-18,KEEL,long,"[insider] 2 insiders bought $0.30M; prior 669ev -0.010% med, 49.6% win",3.59,2026-09-17,,,no
-2026-08-18,CHCT,long,"[insider] 2 insiders bought $0.27M; prior 669ev -0.010% med, 49.6% win",14.85,2026-09-17,,,no
-2026-08-18,CE,long,"[insider] 2 insiders bought $0.13M; prior 669ev -0.010% med, 49.6% win",44.53,2026-09-17,,,no
-2026-08-18,MXF,long,"[insider] 2 insiders bought $0.08M; prior 669ev -0.010% med, 49.6% win",21.35,2026-09-17,,,no
-2026-08-18,HGBL,long,"[insider] 2 insiders bought $0.08M; prior 669ev -0.010% med, 49.6% win",1.19,2026-09-17,,,no
-2026-08-18,APLM,long,"[insider] 3 insiders bought size unknown; prior 669ev -0.010% med, 49.6% win",24.0,2026-09-17,,,no
-2026-08-19,NVRI,long,"[insider] 2 insiders bought $0.159M; prior 669ev -0.010% med, 49.6% win",19.66,2026-09-18,,,no
-2026-08-19,EVLV,long,"[insider] 2 insiders bought $0.135M; prior 669ev -0.010% med, 49.6% win",5.44,2026-09-18,,,no
-2026-08-19,SKYH,long,"[insider] 2 insiders bought $0.064M; prior 669ev -0.010% med, 49.6% win",10.25,2026-09-18,,,no
-2026-08-19,RWAY,long,"[insider] 2 insiders bought $0.063M; prior 669ev -0.010% med, 49.6% win",6.69,2026-09-18,,,no
-2026-08-19,GABC,long,"[insider] 4 insiders bought $0.062M; prior 669ev -0.010% med, 49.6% win",50.94,2026-09-18,,,no
-2026-08-19,TISI,long,"[insider] 2 insiders bought $0.057M; prior 669ev -0.010% med, 49.6% win",23.32,2026-09-18,,,no
-2026-08-19,SNBH,long,"[insider] 2 insiders bought $0.008M; prior 669ev -0.010% med, 49.6% win",0.35,2026-09-18,,,no
-2026-08-19,AFCG,long,"[insider] 2 insiders bought $0.008M; prior 669ev -0.010% med, 49.6% win",3.44,2026-09-18,,,no
-2026-08-19,RVSB,long,"[insider] 2 insiders bought $0.006M; prior 669ev -0.010% med, 49.6% win",5.14,2026-09-18,,,no
-2026-08-19,KWY,long,"[insider] 2 insiders bought $0.004M; prior 669ev -0.010% med, 49.6% win",9.79,2026-09-18,,,no
-2026-08-20,REFI,long,"[insider] 2 insiders bought $0.725M; prior 669ev -0.010% med, 49.6% win",10.59,2026-09-19,,,no
-2026-08-20,LIEN,long,"[insider] 3 insiders bought $0.607M; prior 669ev -0.010% med, 49.6% win",9.5,2026-09-19,,,no
-2026-08-20,UTGN,long,"[insider] 2 insiders bought $0.567M; prior 669ev -0.010% med, 49.6% win",59.0,2026-09-19,,,yes
-2026-08-20,LBGJ,long,"[insider] 2 insiders bought $0.300M; prior 669ev -0.010% med, 49.6% win",3.15,2026-09-19,,,no
-2026-08-20,BRLT,long,"[insider] 3 insiders bought $0.039M; prior 669ev -0.010% med, 49.6% win",1.28,2026-09-19,,,no
-2026-08-20,PHIO,long,"[insider] 2 insiders bought $0.028M; prior 669ev -0.010% med, 49.6% win",1.15,2026-09-19,,,no
-2026-08-20,UMH,long,"[insider] 3 insiders bought $0.010M; prior 669ev -0.010% med, 49.6% win",16.56,2026-09-19,,,no
+date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote,tags
+2026-07-17,NTSK,long,[insider] 2 insiders bought $22.0M cluster,13.59,2026-08-16,15.25,right,0,fund
+2026-07-17,IPX,long,[insider] 2 insiders bought $2.4M cluster,22.94,2026-08-16,24.55,right,0,fund
+2026-07-17,ELV,long,[insider] 2 insiders bought $1.4M cluster,373.11,2026-08-16,390.24,right,0,fund
+2026-07-17,BUKS,long,[insider] 2 insiders bought $0.16M cluster,4.86,2026-08-16,4.55,wrong,0,fund
+2026-07-17,GABC,long,[insider] 5 insiders bought $0.10M cluster,48.57,2026-08-16,50.94,right,0,fund
+2026-07-17,INM,long,[insider] 2 insiders bought $0.03M cluster,1.52,2026-08-16,1.46,wrong,0,fund
+2026-07-17,YORW,long,[insider] 6 insiders bought $0.03M cluster,31.45,2026-08-16,33.06,right,0,fund
+2026-07-25,FSBC,long,[insider] 6 insiders bought $6.3M cluster,46.81,2026-08-24,,,no,fund
+2026-07-25,CLBK,long,[insider] 16 insiders bought $4.8M cluster,10.88,2026-08-24,,,no,fund
+2026-07-25,TSM,long,[insider] 2 insiders bought $4.4M cluster,403.41,2026-08-24,,,no,fund
+2026-07-25,BBASX,long,[insider] 2 insiders bought $2.6M cluster,10.96,2026-08-24,,,no,fund
+2026-07-25,BYRN,long,[insider] 3 insiders bought $0.25M cluster,3.37,2026-08-24,,,no,fund
+2026-07-25,GRML,long,[insider] 2 insiders bought $0.14M cluster,0.19,2026-08-24,,,no,fund
+2026-07-31,SCTX,long,[insider] 4 insiders bought $216.2M cluster,20.40,2026-08-30,,,no,fund
+2026-07-31,ACI,long,[insider] 2 insiders bought $12.1M cluster,11.60,2026-08-30,,,no,fund
+2026-08-03,XAIR,long,[insider] 2 insiders bought $27.7M within 14d,6.33,2026-09-02,,,no,fund
+2026-08-03,HCWB,long,[insider] 2 insiders bought $0.08M within 14d,3.34,2026-09-02,,,no,fund
+2026-08-05,FUNC,long,[insider] 4 insiders bought $8.1K dedup (feed says $12.8K); trivial size,44.70,2026-09-04,,,no,fund
+2026-08-06,GBFH,long,[insider] 4 insiders bought $1.22M open-market cluster,20.39,2026-09-05,,,no,fund
+2026-08-06,TSCO,long,[insider] 2 insiders bought $0.55M open-market cluster,33.41,2026-09-05,,,no,fund
+2026-08-06,RGCO,long,[insider] 2 insiders bought $300 total; noise-scale cluster,21.70,2026-09-05,,,no,fund
+2026-08-07,SAGT,long,[insider] 2 insiders bought $0.28M open-market cluster; sub-$1 micro-cap,0.721,2026-09-06,,,no,fund
+2026-08-07,WBHC,long,[insider] 2 insiders bought $0.25M cluster; quote frozen 550.00 three sessions,550.00,2026-09-06,,,yes,fund
+2026-08-07,BHRB,long,[insider] 2 insiders bought $0.08M open-market cluster; community bank,73.76,2026-09-06,,,no,fund
+2026-08-10,BRVE,long,[insider] 7 insiders bought $69.4M open-market cluster; largest seen,30.00,2026-09-09,,,no,fund
+2026-08-10,ATTO,long,[insider] 3 insiders bought $20.2M cluster; -7.9% over three sessions,20.17,2026-09-09,,,no,fund
+2026-08-10,CCB,long,[insider] 3 insiders bought $1.12M open-market cluster; community bank,45.34,2026-09-09,,,no,fund
+2026-08-10,NWPP,long,[insider] 2 insiders bought $0.03M; quote frozen 4.50 three sessions,4.50,2026-09-09,,,yes,fund
+2026-08-11,BLSM,long,[insider] [fund] 4 insiders bought $5.18M open-market cluster; only 2 daily bars — brand-new listing,15.99,2026-09-10,,,,fund
+2026-08-11,LTGO,long,[insider] [fund] 2 insiders bought $5.04M open-market cluster; only 3 daily bars — brand-new listing,18.56,2026-09-10,,,,fund
+2026-08-11,AHCO,long,[insider] [fund] 2 insiders bought $0.39M open-market cluster,5.22,2026-09-10,,,no,fund
+2026-08-11,ELAN,long,[insider] [fund] 2 insiders bought $0.33M open-market cluster,22.28,2026-09-10,,,no,fund
+2026-08-11,MKZR,long,[insider] [fund] 3 insiders bought $0.16M open-market cluster; sub-$2 micro-cap,1.52,2026-09-10,,,no,fund
+2026-08-11,MRP,long,[insider] [fund] 2 insiders bought $0.12M open-market cluster,28.80,2026-09-10,,,no,fund
+2026-08-11,BOTJ,long,[insider] [fund] 2 insiders bought $0.03M open-market cluster; community bank,27.02,2026-09-10,,,no,fund
+2026-08-11,CZNC,long,[insider] [fund] 2 insiders bought $0.005M open-market cluster; trivial size,25.32,2026-09-10,,,no,fund
+2026-08-12,VISTA,long,"[insider] [fund] 2 insiders bought $6.23M; non-traded BDC (CIK 1919369) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-11,,void,,fund
+2026-08-12,XRN,long,[insider] [fund] 2 insiders bought $1.28M open-market cluster,36.78,2026-09-11,,,no,fund
+2026-08-12,AMRC,long,[insider] [fund] 2 insiders bought $1.18M open-market cluster,27.17,2026-09-11,,,no,fund
+2026-08-12,AXIA3,long,"[insider] [fund] 2 insiders bought $0.88M; ticker unfetchable from Yahoo | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-11,,void,,fund
+2026-08-12,CC,long,[insider] [fund] 5 insiders bought $0.41M open-market cluster,15.10,2026-09-11,,,no,fund
+2026-08-12,KMPR,long,[insider] [fund] 4 insiders bought $0.29M open-market cluster,26.80,2026-09-11,,,no,fund
+2026-08-12,MATW,long,[insider] [fund] 2 insiders bought $0.16M open-market cluster,23.16,2026-09-11,,,no,fund
+2026-08-12,FEMY,long,[insider] [fund] 5 insiders non-open-market $0.13M; sub-$3 micro-cap,2.24,2026-09-11,,,no,fund
+2026-08-13,CIK2089975,long,"[insider] [fund] 4 insiders bought $11.00M; non-traded fund (CIK2089975) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,,fund
+2026-08-13,ACDC,long,[insider] [fund] 2 insiders bought $4.02M open-market cluster,5.26,2026-09-12,,,no,fund
+2026-08-13,LILA,long,[insider] [fund] 2 insiders bought $3.70M open-market cluster,8.55,2026-09-12,,,no,fund
+2026-08-13,AMRZ,long,[insider] [fund] 5 insiders bought $0.839M open-market cluster,46.75,2026-09-12,,,no,fund
+2026-08-13,TNC,long,[insider] [fund] 2 insiders bought $0.641M open-market cluster,67.64,2026-09-12,,,no,fund
+2026-08-13,EMBC,long,[insider] [fund] 4 insiders bought $0.558M open-market cluster,5.11,2026-09-12,,,no,fund
+2026-08-13,CODI,long,[insider] [fund] 2 insiders bought $0.507M open-market cluster,12.28,2026-09-12,,,no,fund
+2026-08-13,STRZ,long,[insider] [fund] 2 insiders bought $0.274M open-market cluster,28.00,2026-09-12,,,no,fund
+2026-08-13,CIA,long,[insider] [fund] 2 insiders bought $0.264M open-market cluster,3.90,2026-09-12,,,no,fund
+2026-08-13,MTDR,long,[insider] [fund] 2 insiders bought $0.240M open-market cluster,51.60,2026-09-12,,,no,fund
+2026-08-13,AVBC,long,[insider] [fund] 2 insiders bought $0.228M open-market cluster,22.05,2026-09-12,,,no,fund
+2026-08-13,SMRT,long,[insider] [fund] 2 insiders bought $0.149M open-market cluster,1.44,2026-09-12,,,no,fund
+2026-08-13,CIK1885551,long,"[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1885551) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,,fund
+2026-08-13,CIK1777677,long,"[insider] [fund] 2 insiders bought $0.001M; non-traded fund (CIK1777677) no quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,,fund
+2026-08-13,PNAQ,long,"[insider] [fund] 6 insiders non-open-market $29.8M; SPAC, no Yahoo quote | VOIDED 2026-08-14 (INS-007, Anupam): no obtainable price — Yahoo returns no series while the endpoint is verified alive on AAPL/SPY. Structurally unscoreable, never an open position. Logged as a disclosed exclusion.",,2026-09-12,,void,,fund
+2026-08-14,BORR,long,[insider] [fund] 2 insiders bought $6.5M,4.41,2026-09-13,,,no,fund
+2026-08-17,ONON,long,[insider] 2 insiders bought $3.99M cluster,32.22,2026-09-16,,,no,fund
+2026-08-17,ANGX,long,[insider] 2 insiders bought $1.48M cluster,4.37,2026-09-16,,,no,fund
+2026-08-17,ABCL,long,[insider] 2 insiders bought $0.86M cluster,11.38,2026-09-16,,,no,fund
+2026-08-17,REZI,long,[insider] 2 insiders bought $0.62M cluster,20.50,2026-09-16,,,no,fund
+2026-08-17,BTDR,long,[insider] 2 insiders bought $0.45M cluster,9.13,2026-09-16,,,no,fund
+2026-08-17,FOCL,long,[insider] 4 insiders bought $0.41M cluster,4.76,2026-09-16,,,no,fund
+2026-08-17,PAL,long,[insider] 3 insiders bought $0.30M cluster,5.50,2026-09-16,,,no,fund
+2026-08-17,SELF,long,[insider] 2 insiders bought $0.13M cluster,5.35,2026-09-16,,,no,fund
+2026-08-17,ACON,long,[insider] 4 insiders bought $0.09M cluster,2.46,2026-09-16,,,no,fund
+2026-08-17,RICK,long,[insider] 2 insiders bought $0.07M cluster,30.87,2026-09-16,,,no,fund
+2026-08-17,ACCS,long,[insider] 2 insiders bought $0.06M cluster,4.97,2026-09-16,,,no,fund
+2026-08-18,CDNL,long,"[insider] 6 insiders bought $8.25M; prior 669ev -0.010% med, 49.6% win",40.71,2026-09-17,,,no,fund
+2026-08-18,MLAB,long,"[insider] 2 insiders bought $0.90M; prior 669ev -0.010% med, 49.6% win",108.61,2026-09-17,,,no,fund
+2026-08-18,DKL,long,"[insider] 5 insiders bought $0.75M; prior 669ev -0.010% med, 49.6% win",53.55,2026-09-17,,,no,fund
+2026-08-18,KEEL,long,"[insider] 2 insiders bought $0.30M; prior 669ev -0.010% med, 49.6% win",3.59,2026-09-17,,,no,fund
+2026-08-18,CHCT,long,"[insider] 2 insiders bought $0.27M; prior 669ev -0.010% med, 49.6% win",14.85,2026-09-17,,,no,fund
+2026-08-18,CE,long,"[insider] 2 insiders bought $0.13M; prior 669ev -0.010% med, 49.6% win",44.53,2026-09-17,,,no,fund
+2026-08-18,MXF,long,"[insider] 2 insiders bought $0.08M; prior 669ev -0.010% med, 49.6% win",21.35,2026-09-17,,,no,fund
+2026-08-18,HGBL,long,"[insider] 2 insiders bought $0.08M; prior 669ev -0.010% med, 49.6% win",1.19,2026-09-17,,,no,fund
+2026-08-18,APLM,long,"[insider] 3 insiders bought size unknown; prior 669ev -0.010% med, 49.6% win",24.0,2026-09-17,,,no,fund
+2026-08-19,NVRI,long,"[insider] 2 insiders bought $0.159M; prior 669ev -0.010% med, 49.6% win",19.66,2026-09-18,,,no,fund
+2026-08-19,EVLV,long,"[insider] 2 insiders bought $0.135M; prior 669ev -0.010% med, 49.6% win",5.44,2026-09-18,,,no,fund
+2026-08-19,SKYH,long,"[insider] 2 insiders bought $0.064M; prior 669ev -0.010% med, 49.6% win",10.25,2026-09-18,,,no,fund
+2026-08-19,RWAY,long,"[insider] 2 insiders bought $0.063M; prior 669ev -0.010% med, 49.6% win",6.69,2026-09-18,,,no,fund
+2026-08-19,GABC,long,"[insider] 4 insiders bought $0.062M; prior 669ev -0.010% med, 49.6% win",50.94,2026-09-18,,,no,fund
+2026-08-19,TISI,long,"[insider] 2 insiders bought $0.057M; prior 669ev -0.010% med, 49.6% win",23.32,2026-09-18,,,no,fund
+2026-08-19,SNBH,long,"[insider] 2 insiders bought $0.008M; prior 669ev -0.010% med, 49.6% win",0.35,2026-09-18,,,no,fund
+2026-08-19,AFCG,long,"[insider] 2 insiders bought $0.008M; prior 669ev -0.010% med, 49.6% win",3.44,2026-09-18,,,no,fund
+2026-08-19,RVSB,long,"[insider] 2 insiders bought $0.006M; prior 669ev -0.010% med, 49.6% win",5.14,2026-09-18,,,no,fund
+2026-08-19,KWY,long,"[insider] 2 insiders bought $0.004M; prior 669ev -0.010% med, 49.6% win",9.79,2026-09-18,,,no,fund
+2026-08-20,REFI,long,"[insider] 2 insiders bought $0.725M; prior 669ev -0.010% med, 49.6% win",10.59,2026-09-19,,,no,fund
+2026-08-20,LIEN,long,"[insider] 3 insiders bought $0.607M; prior 669ev -0.010% med, 49.6% win",9.5,2026-09-19,,,no,fund
+2026-08-20,UTGN,long,"[insider] 2 insiders bought $0.567M; prior 669ev -0.010% med, 49.6% win",59.0,2026-09-19,,,yes,fund
+2026-08-20,LBGJ,long,"[insider] 2 insiders bought $0.300M; prior 669ev -0.010% med, 49.6% win",3.15,2026-09-19,,,no,fund
+2026-08-20,BRLT,long,"[insider] 3 insiders bought $0.039M; prior 669ev -0.010% med, 49.6% win",1.28,2026-09-19,,,no,fund
+2026-08-20,PHIO,long,"[insider] 2 insiders bought $0.028M; prior 669ev -0.010% med, 49.6% win",1.15,2026-09-19,,,no,fund
+2026-08-20,UMH,long,"[insider] 3 insiders bought $0.010M; prior 669ev -0.010% med, 49.6% win",16.56,2026-09-19,,,no,fund
