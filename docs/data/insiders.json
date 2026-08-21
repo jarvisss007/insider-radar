@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-21 23:13 UTC",
+ "updated_utc": "2026-08-21 23:29 UTC",
  "purchases": [
-  {
-   "ticker": "ADAG",
-   "company": "Adagene Inc.",
-   "insider": "DO CUONG V",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 2000.0,
-   "price": 3.75,
-   "value": 7500.0,
-   "acc": "0001104659-26-098426",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 20000.0,
-   "price": 0.3899,
-   "value": 7798.0,
-   "acc": "0001683168-26-006536",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "VENU",
-   "company": "Venu Holding Corp",
-   "insider": "ROTH JAY W",
-   "role": "CEO & Chairman",
-   "date": "2026-08-14",
-   "shares": 4750.0,
-   "price": 1.9715,
-   "value": 9364.62,
-   "acc": "0001493152-26-038979",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "ACCS",
-   "company": "ACCESS Newswire Inc.",
-   "insider": "Pollard Wesley T",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 2000.0,
-   "price": 4.99,
-   "value": 9980.0,
-   "acc": "0001683168-26-006515",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ATLO",
-   "company": "AMES NATIONAL CORP",
-   "insider": "Schreier Richard",
-   "role": "",
-   "date": "2026-08-14",
-   "shares": 316.0,
-   "price": 31.6,
-   "value": 9985.6,
-   "acc": "0001434609-26-000002",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "TELA",
    "company": "TELA Bio, Inc.",
@@ -4339,6 +4279,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 2098.0,
+   "price": 7.09,
+   "value": 14874.82,
+   "acc": "0000912282-26-001145",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "NRDE",
    "company": "Stark Novus Financial Inc.",
    "insider": "ZYNGIER ALEXANDRE",
@@ -4759,6 +4711,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "GWRS",
+   "company": "Global Water Resources, Inc.",
+   "insider": "Cohn Andrew M.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 139343.0,
+   "price": 8.85,
+   "value": 1233185.55,
+   "acc": "0001628280-26-058496",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
    "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
@@ -4771,6 +4735,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "GWRS",
+   "company": "Global Water Resources, Inc.",
+   "insider": "Levine Jonathan L",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 651618.0,
+   "price": 8.85,
+   "value": 5766819.3,
+   "acc": "0001628280-26-058502",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "Kesslen Jay H",
@@ -4780,6 +4756,30 @@
    "price": 2.87,
    "value": 2870.0,
    "acc": "0001437749-26-028693",
+   "filed": "2026-08-21"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 1000.0,
+   "price": 7.41,
+   "value": 7410.0,
+   "acc": "0000912282-26-001145",
+   "filed": "2026-08-21"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 5000.0,
+   "price": 7.54,
+   "value": 37700.0,
+   "acc": "0000912282-26-001145",
    "filed": "2026-08-21"
   },
   {
@@ -4812,6 +4812,11 @@
    "ticker": "CDNL",
    "insiders": 7,
    "total_value": 8541273.78
+  },
+  {
+   "ticker": "GWRS",
+   "insiders": 2,
+   "total_value": 7000004.85
   },
   {
    "ticker": "ONON",
@@ -4854,14 +4859,14 @@
    "total_value": 567344.0
   },
   {
+   "ticker": "BGDE",
+   "insiders": 2,
+   "total_value": 540713.2
+  },
+  {
    "ticker": "ABCL",
    "insiders": 2,
    "total_value": 494204.0
-  },
-  {
-   "ticker": "BGDE",
-   "insiders": 2,
-   "total_value": 480728.38
   },
   {
    "ticker": "FOCL",
@@ -4929,11 +4934,6 @@
    "total_value": 62500.0
   },
   {
-   "ticker": "ACCS",
-   "insiders": 2,
-   "total_value": 59480.0
-  },
-  {
    "ticker": "TISI",
    "insiders": 2,
    "total_value": 56920.0
@@ -4967,11 +4967,6 @@
    "ticker": "BRLT",
    "insiders": 2,
    "total_value": 25228.22
-  },
-  {
-   "ticker": "ATLO",
-   "insiders": 2,
-   "total_value": 20112.6
   },
   {
    "ticker": "BY",
