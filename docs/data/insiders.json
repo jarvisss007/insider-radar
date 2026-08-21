@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-21 17:40 UTC",
+ "updated_utc": "2026-08-21 17:56 UTC",
  "purchases": [
-  {
-   "ticker": "COE",
-   "company": "51Talk Online Education Group",
-   "insider": "Huang Jack Jiajia",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 35400.0,
-   "price": 20.83,
-   "value": 737382.0,
-   "acc": "0002029760-26-000009",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "MLAB",
-   "company": "MESA LABORATORIES INC /CO/",
-   "insider": "Kadia Siddhartha",
-   "role": "President and CEO",
-   "date": "2026-08-13",
-   "shares": 7093.0,
-   "price": 112.8,
-   "value": 800090.4,
-   "acc": "0000724004-26-000084",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "TDIC",
-   "company": "Dreamland Ltd",
-   "insider": "Seto Wai Yue",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-13",
-   "shares": 320000.0,
-   "price": 3.75,
-   "value": 1200000.0,
-   "acc": "0001493152-26-038578",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "TXO",
-   "company": "TXO Partners, L.P.",
-   "insider": "SIMPSON BOB R",
-   "role": "Director",
-   "date": "2026-08-13",
-   "shares": 125000.0,
-   "price": 14.3183,
-   "value": 1789787.5,
-   "acc": "0001182684-26-000020",
-   "filed": "2026-08-13"
-  },
-  {
-   "ticker": "EMPD",
-   "company": "Empery Digital Inc.",
-   "insider": "Empery Asset Management, LP",
-   "role": "10% owner",
-   "date": "2026-08-13",
-   "shares": 750000.0,
-   "price": 2.9845,
-   "value": 2238375.0,
-   "acc": "0001683168-26-006443",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
@@ -2887,6 +2827,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "REFI",
+   "company": "Chicago Atlantic Real Estate Finance, Inc.",
+   "insider": "Sack Peter",
+   "role": "Co-Chief Executive Officer",
+   "date": "2026-08-18",
+   "shares": 1500.0,
+   "price": 10.43,
+   "value": 15645.0,
+   "acc": "0001193125-26-360717",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "CBAN",
    "company": "COLONY BANKCORP INC",
    "insider": "Canup Edward G",
@@ -3739,6 +3691,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "REFI",
+   "company": "Chicago Atlantic Real Estate Finance, Inc.",
+   "insider": "Sack Peter",
+   "role": "Co-Chief Executive Officer",
+   "date": "2026-08-19",
+   "shares": 1500.0,
+   "price": 10.53,
+   "value": 15795.0,
+   "acc": "0001193125-26-360717",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
    "insider": "Plott Ronald Todd",
@@ -3749,6 +3713,18 @@
    "value": 17100.0,
    "acc": "0001683168-26-006620",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "REFI",
+   "company": "Chicago Atlantic Real Estate Finance, Inc.",
+   "insider": "Sack Peter",
+   "role": "Co-Chief Executive Officer",
+   "date": "2026-08-19",
+   "shares": 2000.0,
+   "price": 10.39,
+   "value": 20780.0,
+   "acc": "0001193125-26-360717",
+   "filed": "2026-08-21"
   },
   {
    "ticker": "MGEE",
@@ -4303,6 +4279,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "IDAI",
+   "company": "T Stamp Inc",
+   "insider": "Potts Charles Edward",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 627.0,
+   "price": 3.19,
+   "value": 2000.13,
+   "acc": "0002000358-26-000018",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "GAIA",
    "company": "GAIA, INC",
    "insider": "Sutherland Paul Howard",
@@ -4337,6 +4325,18 @@
    "value": 2472.0,
    "acc": "0001910573-26-000006",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "IDAI",
+   "company": "T Stamp Inc",
+   "insider": "Francis Andrew Scott",
+   "role": "Chief Technology Officer",
+   "date": "2026-08-20",
+   "shares": 1600.0,
+   "price": 3.1,
+   "value": 4960.0,
+   "acc": "0002044398-26-000007",
+   "filed": "2026-08-21"
   },
   {
    "ticker": "HKHC",
@@ -4835,8 +4835,8 @@
   },
   {
    "ticker": "REFI",
-   "insiders": 2,
-   "total_value": 724550.0
+   "insiders": 3,
+   "total_value": 776770.0
   },
   {
    "ticker": "LIEN",
@@ -4934,6 +4934,11 @@
    "total_value": 56920.0
   },
   {
+   "ticker": "IDAI",
+   "insiders": 3,
+   "total_value": 55680.19
+  },
+  {
    "ticker": "AFCG",
    "insiders": 3,
    "total_value": 52225.68
@@ -4996,11 +5001,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-021944",
-  "0001918704-26-021945",
-  "0001918704-26-021946",
-  "0001918704-26-021947",
-  "0001918704-26-021948",
   "0001918704-26-021972",
   "0001918704-26-021973",
   "0001918704-26-021974",
@@ -6414,6 +6414,9 @@
   "0001918704-26-024455",
   "0001918704-26-024456",
   "0001918704-26-024457",
+  "0001918704-26-024458",
+  "0001918704-26-024459",
+  "0001918704-26-024460",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7161,6 +7164,7 @@
   "0001999846-26-000004",
   "0002000276-26-000006",
   "0002000358-26-000016",
+  "0002000358-26-000018",
   "0002000487-26-000003",
   "0002000660-26-000004",
   "0002001011-26-000114",
@@ -7418,6 +7422,7 @@
   "0002044248-26-000015",
   "0002044248-26-000017",
   "0002044259-26-000010",
+  "0002044398-26-000007",
   "0002044800-26-000006",
   "0002045034-26-000003",
   "0002045034-26-000005",
