@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-21 23:45 UTC",
+ "updated_utc": "2026-08-22 00:01 UTC",
  "purchases": [
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 1203.0,
-   "price": 9.86,
-   "value": 11861.58,
-   "acc": "0001510281-26-000268",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 3945.0,
-   "price": 3.2897,
-   "value": 12977.87,
-   "acc": "0001539497-26-002267",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Satterfield David Michael",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 689.612,
-   "price": 21.72,
-   "value": 14978.37,
-   "acc": "0002123988-26-000006",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 3073.0,
-   "price": 7.11,
-   "value": 21849.03,
-   "acc": "0000912282-26-001130",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "EDAP",
    "company": "EDAP TMS SA",
@@ -3955,6 +3907,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 43.0,
+   "price": 2.9233,
+   "value": 125.7,
+   "acc": "0001536588-26-000026",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4264,6 +4228,30 @@
    "price": 11.6037,
    "value": 13634.35,
    "acc": "0001213900-26-092479",
+   "filed": "2026-08-21"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 5000.0,
+   "price": 2.9014,
+   "value": 14507.0,
+   "acc": "0001536588-26-000026",
+   "filed": "2026-08-21"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 5000.0,
+   "price": 2.905,
+   "value": 14525.0,
+   "acc": "0001536588-26-000026",
    "filed": "2026-08-21"
   },
   {
@@ -4735,6 +4723,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 854.0,
+   "price": 2.905,
+   "value": 2480.87,
+   "acc": "0001536588-26-000026",
+   "filed": "2026-08-21"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "Kesslen Jay H",
@@ -4861,7 +4861,7 @@
   {
    "ticker": "BGDE",
    "insiders": 2,
-   "total_value": 540713.2
+   "total_value": 518864.17
   },
   {
    "ticker": "ABCL",
@@ -5006,10 +5006,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022101",
-  "0001918704-26-022102",
-  "0001918704-26-022103",
-  "0001918704-26-022104",
   "0001918704-26-022105",
   "0001918704-26-022106",
   "0001918704-26-022107",
@@ -6388,6 +6384,7 @@
   "0001920061-26-000018",
   "0001920475-26-000014",
   "0001920481-26-000010",
+  "0001920634-26-000020",
   "0001921051-26-000012",
   "0001921253-26-000004",
   "0001921640-26-000011",
@@ -6752,6 +6749,7 @@
   "0001998739-26-000006",
   "0001998826-26-000014",
   "0001998941-26-000004",
+  "0001998996-26-000020",
   "0001999086-26-000021",
   "0001999086-26-000023",
   "0001999371-26-014413",
@@ -7205,6 +7203,7 @@
   "0002010300-26-000023",
   "0002010300-26-000025",
   "0002010300-26-000027",
+  "0002010300-26-000029",
   "0002010445-26-000009",
   "0002010445-26-000011",
   "0002011100-26-000006",
@@ -7226,6 +7225,7 @@
   "0002013812-26-000019",
   "0002013944-26-000003",
   "0002014191-26-000014",
+  "0002014215-26-000020",
   "0002014240-26-000006",
   "0002014275-26-000012",
   "0002014386-26-000006",
