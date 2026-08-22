@@ -100,3 +100,15 @@ evidence.
   / median +1.96% that carried no benchmark and no survivorship charge. Open marks are
   not results, and the desk's survivorship note already prices this book at **+0.08pp net**
   of its own universe's drift — indistinguishable from the roster.
+
+## PROPOSED 2026-08-22 — minimum cluster size (awaiting Anupam's ratification; NOT in force)
+Observation, from the Calibration Observatory readout: 29 of 105 logged clusters (28%) total under
+$100k of insider buying; the median cluster is $0.30M; the smallest call on the book is a $15k
+purchase (BY). Every row also carries the lab's own base rate — 669 events, median −0.010%,
+49.6% win — i.e. the prior for a generic cluster is a coin flip. Filing micro-clusters as calls
+adds rows the base rate already predicts are noise, and the book stands at 98 pending / 7 scored.
+Proposal (a pre-registration change, so it needs a name on it): clusters with total purchase
+value below **$250,000** are LOGGED as observations but NOT filed as calls. Falsification bar
+for the change itself: after 60 filed calls under the floor, the above-floor hit rate vs base
+rate is compared to the all-cluster record; if the floor removed signal rather than noise, it is
+withdrawn. Rows already filed are not moved. Nothing changes until ratified.
