@@ -697,3 +697,33 @@ day. There is no pattern here to name; the honest statement is "n too small", wr
 exactly that way, and it will stay that way until the 08-24 and 09-18/19/20 cohorts land
 on genuinely different entry days. Anyone reading a 100% off n=1 in this table is reading
 a coin that has been flipped once.
+
+## 2026-08-24 [insider]
+
+NOTHING SCORED — and the reason is worth writing down rather than skipping.
+Six rows came due today (FSBC, CLBK, TSM, BBASX, BYRN, GRML, the whole 07-25
+batch). The run fires 11:28 ET with the US session live, so Yahoo's 08-24 bar
+is an intraday print. Scoring six rows off a mid-session quote would have
+produced a number a day early and a lie. They resolve tomorrow off the settled
+close, exactly as GBFH and FUNC did before them. SCHED-001 standing condition.
+
+DEFECT FOUND IN THE CALIBRATION STEP ITSELF, and it is not this lab's bug.
+Every lab's AGENT.md now carries "read ~/command-center/council/calibration_
+table.json and find this lab's entry before you file." That file cannot hold
+more than one lab: `~/bin/score_forecasts.py`, run as `--lab X`, REWRITES it
+with only X's entry (line 260, `json.dump({"labs": table_out})` where
+table_out came from `labs = [args.lab]`). Read at 08:26 today it held only
+`stock-radar`; after india-radar scored it held only `india-radar`; after this
+lab it holds only `insider-radar`. So on every sweep, four of the five labs
+open that file and find themselves absent, and the instruction reads as
+"no data" when the truth is "overwritten by the lab that ran before you."
+No bin was actionable for this lab anyway (n=4 resolved, every bin far under
+30), so nothing was mis-filed today. Fix is to run `score_forecasts.py` with
+NO `--lab` at the end of the sweep so the table is rebuilt across all labs;
+doing that from now on.
+
+BABA is the largest priceable cluster this book has logged ($15.27M) and it
+arrived on the same morning the event study returned its FOURTH honest null
+(953 events, week-clustered t +1.29 vs 2.67). That coincidence is the whole
+discipline: the row was filed at 0.51, the base rate, with no size tilt. If
+$15.27M means something it must show up in the forward record.
