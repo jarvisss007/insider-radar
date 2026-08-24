@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-24 11:50 UTC",
+ "updated_utc": "2026-08-24 12:05 UTC",
  "purchases": [
-  {
-   "ticker": "SKAS",
-   "company": "Saker Aviation Services, Inc.",
-   "insider": "Eriksen Howard Timothy",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 5500.0,
-   "price": 5.84,
-   "value": 32120.0,
-   "acc": "0001104659-26-097681",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "CE",
    "company": "Celanese Corp",
@@ -4135,6 +4123,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "TNXP",
+   "company": "Tonix Pharmaceuticals Holding Corp.",
+   "insider": "BAGGER RICHARD H",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 1000.0,
+   "price": 12.6,
+   "value": 12600.0,
+   "acc": "0001999371-26-018494",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "MED",
    "company": "MEDIFAST INC",
    "insider": "Kiai Parsa",
@@ -5001,7 +5001,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022108",
   "0001918704-26-022109",
   "0001918704-26-022110",
   "0001918704-26-022115",
@@ -7139,6 +7138,7 @@
   "0001999371-26-018439",
   "0001999371-26-018442",
   "0001999371-26-018443",
+  "0001999371-26-018494",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
