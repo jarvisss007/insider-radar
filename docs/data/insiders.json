@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-24 13:23 UTC",
+ "updated_utc": "2026-08-24 13:55 UTC",
  "purchases": [
-  {
-   "ticker": "FOCL",
-   "company": "EDAP TMS SA",
-   "insider": "Schulz Fran",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 10000.0,
-   "price": 4.75,
-   "value": 47500.0,
-   "acc": "0001829126-26-008926",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "EDAP",
-   "company": "EDAP TMS SA",
-   "insider": "LEVINE JOSHUA",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 10000.0,
-   "price": 4.75,
-   "value": 47500.0,
-   "acc": "0001829126-26-008925",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "EVLV",
-   "company": "Evolv Technologies Holdings, Inc.",
-   "insider": "Glat Neil",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 8500.0,
-   "price": 5.74,
-   "value": 48790.0,
-   "acc": "0001819303-26-000004",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "ACCS",
    "company": "ACCESS Newswire Inc.",
@@ -3859,6 +3823,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 300.0,
+   "price": 11.2,
+   "value": 3360.0,
+   "acc": "0001510281-26-000278",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "QVCG",
    "company": "QVC Group, Inc.",
    "insider": "GOLDENTREE ASSET MANAGEMENT LP",
@@ -4133,6 +4109,18 @@
    "value": 19093.75,
    "acc": "0001785665-26-000008",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 1547.0,
+   "price": 12.52,
+   "value": 19368.44,
+   "acc": "0001510281-26-000277",
+   "filed": "2026-08-24"
   },
   {
    "ticker": "SMRT",
@@ -4735,6 +4723,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 5742.0,
+   "price": 12.53,
+   "value": 71947.26,
+   "acc": "0001510281-26-000277",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "EOS",
    "company": "Eaton Vance Enhanced Equity Income Fund II",
    "insider": "QUINTON KEITH",
@@ -4875,8 +4875,8 @@
   },
   {
    "ticker": "FOCL",
-   "insiders": 3,
-   "total_value": 384750.0
+   "insiders": 2,
+   "total_value": 337250.0
   },
   {
    "ticker": "KEEL",
@@ -4897,11 +4897,6 @@
    "ticker": "NVRI",
    "insiders": 2,
    "total_value": 159462.65
-  },
-  {
-   "ticker": "EVLV",
-   "insiders": 2,
-   "total_value": 134740.0
   },
   {
    "ticker": "DGXX",
@@ -5001,11 +4996,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022125",
-  "0001918704-26-022126",
-  "0001918704-26-022127",
-  "0001918704-26-022128",
-  "0001918704-26-022129",
   "0001918704-26-022130",
   "0001918704-26-022131",
   "0001918704-26-022132",
@@ -6364,6 +6354,9 @@
   "0001918704-26-024521",
   "0001918704-26-024522",
   "0001918704-26-024523",
+  "0001918704-26-024524",
+  "0001918704-26-024527",
+  "0001918704-26-024528",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7138,6 +7131,8 @@
   "0001999371-26-018443",
   "0001999371-26-018494",
   "0001999371-26-018497",
+  "0001999371-26-018501",
+  "0001999371-26-018503",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
