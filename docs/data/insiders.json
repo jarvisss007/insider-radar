@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-24 11:18 UTC",
+ "updated_utc": "2026-08-24 11:34 UTC",
  "purchases": [
-  {
-   "ticker": "SELF",
-   "company": "Global Self Storage, Inc.",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-14",
-   "shares": 6029.0,
-   "price": 5.2265,
-   "value": 31510.57,
-   "acc": "0001628873-26-000070",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "SKAS",
    "company": "Saker Aviation Services, Inc.",
@@ -4315,6 +4303,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "SCOR",
+   "company": "COMSCORE, INC.",
+   "insider": "Kline David",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 7000.0,
+   "price": 5.29,
+   "value": 37030.0,
+   "acc": "0001851666-26-000004",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -5001,7 +5001,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022107",
   "0001918704-26-022108",
   "0001918704-26-022109",
   "0001918704-26-022110",
@@ -6621,6 +6620,7 @@
   "0001976408-26-000747",
   "0001976408-26-000752",
   "0001976408-26-000755",
+  "0001976408-26-000761",
   "0001976540-26-000008",
   "0001976672-26-000057",
   "0001976672-26-000059",
