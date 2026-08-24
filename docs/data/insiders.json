@@ -1,31 +1,6 @@
 {
- "updated_utc": "2026-08-24 21:33 UTC",
+ "updated_utc": "2026-08-24 21:49 UTC",
  "purchases": [
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Wood Anthony Leon Jr.",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 34019.0,
-   "price": 39.16,
-   "value": 1332184.04,
-   "acc": "0001213900-26-090855",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "APLM",
-   "company": "Apollomics Inc.",
-   "insider": "Chen Hung-Wen",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 103333.0,
-   "price": 15.0,
-   "value": 1549995.0,
-   "acc": "0001193125-26-354457",
-   "filed": "2026-08-17",
-   "placement": true
-  },
   {
    "ticker": "CDNL",
    "company": "Cardinal Infrastructure Group Inc.",
@@ -4337,6 +4312,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "DFH",
+   "company": "Dream Finders Homes, Inc.",
+   "insider": "Sturm Len",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 250.0,
+   "price": 14.81,
+   "value": 3702.5,
+   "acc": "0000897069-26-001711",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -4673,6 +4660,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "DFH",
+   "company": "Dream Finders Homes, Inc.",
+   "insider": "Sturm Len",
+   "role": "Director",
+   "date": "2026-08-24",
+   "shares": 250.0,
+   "price": 14.75,
+   "value": 3687.5,
+   "acc": "0000897069-26-001711",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "IRIX",
    "company": "IRIDEX CORP",
    "insider": "Dizon Romeo R",
@@ -4828,8 +4827,8 @@
   },
   {
    "ticker": "CDNL",
-   "insiders": 3,
-   "total_value": 3382225.22
+   "insiders": 2,
+   "total_value": 2050041.18
   },
   {
    "ticker": "IAUX",
@@ -4973,7 +4972,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022915",
   "0001918704-26-022916",
   "0001918704-26-022917",
   "0001918704-26-022918",
@@ -7329,6 +7327,7 @@
   "0002038003-26-000003",
   "0002038003-26-000006",
   "0002038202-26-000014",
+  "0002038202-26-000016",
   "0002038468-26-000012",
   "0002038687-26-000007",
   "0002039219-26-000008",
