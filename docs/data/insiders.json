@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-24 13:55 UTC",
+ "updated_utc": "2026-08-24 14:10 UTC",
  "purchases": [
-  {
-   "ticker": "ACCS",
-   "company": "ACCESS Newswire Inc.",
-   "insider": "BALBIRNIE BRIAN R",
-   "role": "Director, CEO",
-   "date": "2026-08-14",
-   "shares": 10000.0,
-   "price": 4.95,
-   "value": 49500.0,
-   "acc": "0001683168-26-006517",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "WULF",
    "company": "TERAWULF INC.",
@@ -4581,6 +4569,18 @@
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 31.6086,
+   "price": 11.93,
+   "value": 377.09,
+   "acc": "0001435109-26-000138",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Booth Richard Whitaker",
    "role": "",
    "date": "2026-08-21",
@@ -4989,6 +4989,11 @@
    "total_value": 8397.0
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "insiders": 2,
+   "total_value": 877.09
+  },
+  {
    "ticker": "APLM",
    "insiders": 3,
    "total_value": 0,
@@ -4996,8 +5001,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022130",
-  "0001918704-26-022131",
   "0001918704-26-022132",
   "0001918704-26-022133",
   "0001918704-26-022134",
@@ -6357,6 +6360,8 @@
   "0001918704-26-024524",
   "0001918704-26-024527",
   "0001918704-26-024528",
+  "0001918704-26-024529",
+  "0001918704-26-024530",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
