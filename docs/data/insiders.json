@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-24 10:00 UTC",
+ "updated_utc": "2026-08-24 10:15 UTC",
  "purchases": [
-  {
-   "ticker": "ACON",
-   "company": "Aclarion, Inc.",
-   "insider": "Gould Gregory A",
-   "role": "CFO",
-   "date": "2026-08-14",
-   "shares": 10000.0,
-   "price": 2.45,
-   "value": 24500.0,
-   "acc": "0001683168-26-006545",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 4090.0,
-   "price": 6.35,
-   "value": 25971.5,
-   "acc": "0000912282-26-001130",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "FGBI",
    "company": "First Guaranty Bancshares, Inc.",
@@ -4699,6 +4675,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-21",
+   "shares": 846.0,
+   "price": 2.457,
+   "value": 2078.62,
+   "acc": "0001193125-26-361706",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4805,6 +4793,18 @@
    "value": 130961.25,
    "acc": "0001214659-26-010748",
    "filed": "2026-08-21"
+  },
+  {
+   "ticker": "BABA",
+   "company": "Alibaba Group Holding Ltd",
+   "insider": "Wu Yongming",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-24",
+   "shares": 350000.0,
+   "price": 14.24,
+   "value": 4984000.0,
+   "acc": "0001193125-26-361711",
+   "filed": "2026-08-24"
   }
  ],
  "clusters": [
@@ -4859,14 +4859,14 @@
    "total_value": 567344.0
   },
   {
-   "ticker": "BGDE",
-   "insiders": 2,
-   "total_value": 518864.17
-  },
-  {
    "ticker": "ABCL",
    "insiders": 2,
    "total_value": 494204.0
+  },
+  {
+   "ticker": "BGDE",
+   "insiders": 2,
+   "total_value": 492892.67
   },
   {
    "ticker": "FOCL",
@@ -4949,11 +4949,6 @@
    "total_value": 49045.0
   },
   {
-   "ticker": "ACON",
-   "insiders": 2,
-   "total_value": 40489.61
-  },
-  {
    "ticker": "AIAI",
    "insiders": 3,
    "total_value": 40196.0
@@ -5006,7 +5001,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022106",
   "0001918704-26-022107",
   "0001918704-26-022108",
   "0001918704-26-022109",
@@ -6373,6 +6367,7 @@
   "0001918704-26-024510",
   "0001918704-26-024511",
   "0001918704-26-024512",
+  "0001918704-26-024513",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
