@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-24 21:49 UTC",
+ "updated_utc": "2026-08-24 22:04 UTC",
  "purchases": [
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Spivey Jeremy Simmons",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 45249.0,
-   "price": 38.82,
-   "value": 1756566.18,
-   "acc": "0001213900-26-090854",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ONON",
-   "company": "On Holding AG",
-   "insider": "Coppetti Caspar Felix",
-   "role": "Executive Officer & Co-CEO",
-   "date": "2026-08-14",
-   "shares": 65000.0,
-   "price": 30.6737,
-   "value": 1993790.5,
-   "acc": "0001859912-26-000006",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ONON",
-   "company": "On Holding AG",
-   "insider": "Bernhard Olivier",
-   "role": "Executive Officer",
-   "date": "2026-08-14",
-   "shares": 65000.0,
-   "price": 30.6737,
-   "value": 1993790.5,
-   "acc": "0001859889-26-000006",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "APLM",
    "company": "Apollomics Inc.",
@@ -4228,6 +4192,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "LOKEY JAMES W",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 54.23,
+   "price": 25.9176,
+   "value": 1405.51,
+   "acc": "0001628280-26-058717",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
    "insider": "Gordon Scott",
@@ -4396,6 +4372,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "GEVO",
+   "company": "Gevo, Inc.",
+   "insider": "Kettner David Michael",
+   "role": "Chief Legal & Emrg Biz Officer",
+   "date": "2026-08-21",
+   "shares": 12500.0,
+   "price": 1.5495,
+   "value": 19368.75,
+   "acc": "0001628280-26-058727",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "FGL",
    "company": "Founder Group Ltd",
    "insider": "HRT FINANCIAL LP",
@@ -4525,6 +4513,18 @@
    "price": 12.53,
    "value": 71947.26,
    "acc": "0001510281-26-000277",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "GEVO",
+   "company": "Gevo, Inc.",
+   "insider": "Barber James J",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 50000.0,
+   "price": 1.54,
+   "value": 77000.0,
+   "acc": "0001628280-26-058725",
    "filed": "2026-08-24"
   },
   {
@@ -4816,19 +4816,9 @@
    "total_value": 7000004.85
   },
   {
-   "ticker": "ONON",
-   "insiders": 2,
-   "total_value": 3987581.0
-  },
-  {
    "ticker": "ODYS",
    "insiders": 3,
    "total_value": 3850000.0
-  },
-  {
-   "ticker": "CDNL",
-   "insiders": 2,
-   "total_value": 2050041.18
   },
   {
    "ticker": "IAUX",
@@ -4901,6 +4891,11 @@
    "total_value": 99335.0
   },
   {
+   "ticker": "GEVO",
+   "insiders": 2,
+   "total_value": 96368.75
+  },
+  {
    "ticker": "KWY",
    "insiders": 3,
    "total_value": 93550.16
@@ -4966,15 +4961,17 @@
    "total_value": 8397.0
   },
   {
+   "ticker": "CWBC",
+   "insiders": 2,
+   "total_value": 8061.01
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 2,
    "total_value": 877.09
   }
  ],
  "seen": [
-  "0001918704-26-022916",
-  "0001918704-26-022917",
-  "0001918704-26-022918",
   "0001918704-26-022919",
   "0001918704-26-022920",
   "0001918704-26-022921",
@@ -6456,6 +6453,7 @@
   "0001965929-26-000007",
   "0001966530-26-000010",
   "0001966530-26-000012",
+  "0001966698-26-000008",
   "0001966716-26-000012",
   "0001966812-26-000003",
   "0001966857-26-000009",
@@ -7163,6 +7161,7 @@
   "0002014240-26-000006",
   "0002014275-26-000012",
   "0002014386-26-000006",
+  "0002014386-26-000008",
   "0002014440-26-000010",
   "0002014560-26-000008",
   "0002014632-26-000014",
@@ -7699,6 +7698,7 @@
   "0002084264-26-000003",
   "0002084264-26-000004",
   "0002084264-26-000006",
+  "0002084658-26-000002",
   "0002084812-26-000013",
   "0002084812-26-000015",
   "0002084950-26-000011",
