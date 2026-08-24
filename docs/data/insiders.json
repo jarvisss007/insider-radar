@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-24 19:09 UTC",
+ "updated_utc": "2026-08-24 19:25 UTC",
  "purchases": [
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 20000.0,
-   "price": 7.2006,
-   "value": 144012.0,
-   "acc": "0000905148-26-003768",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "CHCT",
-   "company": "Community Healthcare Trust Inc",
-   "insider": "Dupuy David H.",
-   "role": "CEO and President",
-   "date": "2026-08-14",
-   "shares": 10000.0,
-   "price": 15.13,
-   "value": 151300.0,
-   "acc": "0001628280-26-057376",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "MOBI",
    "company": "Mobia Medical, Inc.",
@@ -4435,6 +4411,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 1.0,
+   "price": 381.51,
+   "value": 381.51,
+   "acc": "0001437749-26-028802",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Booth Richard Whitaker",
@@ -4505,6 +4493,18 @@
    "value": 2870.0,
    "acc": "0001437749-26-028693",
    "filed": "2026-08-21"
+  },
+  {
+   "ticker": "CBKM",
+   "company": "CONSUMERS BANCORP INC /OH/",
+   "insider": "Mikes Suzanne N",
+   "role": "EVP, Chief Credit Officer",
+   "date": "2026-08-21",
+   "shares": 100.0,
+   "price": 32.0,
+   "value": 3200.0,
+   "acc": "0001437749-26-028799",
+   "filed": "2026-08-24"
   },
   {
    "ticker": "IDAI",
@@ -4986,7 +4986,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022508",
   "0001918704-26-022509",
   "0001918704-26-022510",
   "0001918704-26-022511",
@@ -6311,6 +6310,7 @@
   "0001918704-26-024574",
   "0001918704-26-024575",
   "0001918704-26-024576",
+  "0001918704-26-024577",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
