@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-24 15:13 UTC",
+ "updated_utc": "2026-08-24 15:29 UTC",
  "purchases": [
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 11927.0,
-   "price": 6.55,
-   "value": 78121.85,
-   "acc": "0000912282-26-001130",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "STLN",
-   "company": "Starling Oncology, Inc.",
-   "insider": "Chernett Jorey",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 12000.0,
-   "price": 6.54,
-   "value": 78480.0,
-   "acc": "0000921895-26-002203",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "EVLV",
    "company": "Evolv Technologies Holdings, Inc.",
@@ -4555,6 +4531,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 61.4916,
+   "price": 10.13,
+   "value": 622.91,
+   "acc": "0001435109-26-000139",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "YQ",
    "company": "17 Education & Technology Group Inc.",
    "insider": "Liu Chang",
@@ -4723,6 +4711,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "BLX",
+   "company": "BLADEX, INC.",
+   "insider": "Tizzoni Alejandro Horacio",
+   "role": "Chief Risk Officer",
+   "date": "2026-08-21",
+   "shares": 1850.0,
+   "price": 53.0,
+   "value": 98050.0,
+   "acc": "0000890541-26-000009",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "EOS",
    "company": "Eaton Vance Enhanced Equity Income Fund II",
    "insider": "QUINTON KEITH",
@@ -4871,7 +4871,7 @@
   {
    "ticker": "BGDE",
    "insiders": 2,
-   "total_value": 492892.67
+   "total_value": 414770.82
   },
   {
    "ticker": "FOCL",
@@ -4991,7 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022155",
   "0001918704-26-022156",
   "0001918704-26-022157",
   "0001918704-26-022158",
@@ -6476,6 +6475,7 @@
   "0001954584-26-000019",
   "0001954584-26-000021",
   "0001954722-26-000003",
+  "0001954722-26-000004",
   "0001954883-26-000013",
   "0001956006-26-000003",
   "0001957490-26-000004",
