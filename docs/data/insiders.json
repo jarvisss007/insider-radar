@@ -1,79 +1,6 @@
 {
- "updated_utc": "2026-08-24 21:01 UTC",
+ "updated_utc": "2026-08-24 21:17 UTC",
  "purchases": [
-  {
-   "ticker": "APLM",
-   "company": "Apollomics Inc.",
-   "insider": "LIN PETER KUAN-HOW",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-14",
-   "shares": 26667.0,
-   "price": 15.0,
-   "value": 400005.0,
-   "acc": "0001193125-26-354465",
-   "filed": "2026-08-17",
-   "placement": true
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Spivey Jeremy Simmons",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 12366.0,
-   "price": 36.58,
-   "value": 452348.28,
-   "acc": "0001213900-26-090854",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Spivey Jeremy Simmons",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 11511.0,
-   "price": 39.65,
-   "value": 456411.15,
-   "acc": "0001213900-26-090854",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Wood Benjamin",
-   "role": "Chief Operating Officer",
-   "date": "2026-08-14",
-   "shares": 12073.0,
-   "price": 39.77,
-   "value": 480143.21,
-   "acc": "0001213900-26-090850",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "FTI",
-   "company": "TechnipFMC plc",
-   "insider": "Mullins Eric D.",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 6365.0,
-   "price": 78.55,
-   "value": 499970.75,
-   "acc": "0001628280-26-057729",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Zelman Ivy",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 12647.0,
-   "price": 39.61,
-   "value": 500947.67,
-   "acc": "0001213900-26-090852",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "CDNL",
    "company": "Cardinal Infrastructure Group Inc.",
@@ -3738,6 +3665,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 5194.0,
+   "price": 3.862,
+   "value": 20059.23,
+   "acc": "0001325533-26-000005",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "SMRT",
    "company": "SmartRent, Inc.",
    "insider": "Bohjalian Thomas N",
@@ -4000,6 +3939,18 @@
    "value": 63216.72,
    "acc": "0001812746-26-000008",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 17949.0,
+   "price": 3.862,
+   "value": 69319.04,
+   "acc": "0001325533-26-000005",
+   "filed": "2026-08-24"
   },
   {
    "ticker": "LIEN",
@@ -4446,6 +4397,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 1802.0,
+   "price": 3.669,
+   "value": 6611.54,
+   "acc": "0001325533-26-000005",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "CWBC",
    "company": "Community West Bancshares",
    "insider": "STOVESAND KIRK",
@@ -4468,6 +4431,18 @@
    "value": 7410.0,
    "acc": "0000912282-26-001145",
    "filed": "2026-08-21"
+  },
+  {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 3410.0,
+   "price": 3.669,
+   "value": 12511.29,
+   "acc": "0001325533-26-000005",
+   "filed": "2026-08-24"
   },
   {
    "ticker": "PTIX",
@@ -4746,6 +4721,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-24",
+   "shares": 4100.0,
+   "price": 1.14,
+   "value": 4674.0,
+   "acc": "0001079973-26-001173",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
    "insider": "Gordon Scott",
@@ -4755,6 +4742,18 @@
    "price": 10.1094,
    "value": 15366.29,
    "acc": "0001193125-26-363730",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "ACCS",
+   "company": "ACCESS Newswire Inc.",
+   "insider": "Rein Graeme P.",
+   "role": "Director",
+   "date": "2026-08-24",
+   "shares": 6000.0,
+   "price": 4.9486,
+   "value": 29691.6,
+   "acc": "0001062993-26-004569",
    "filed": "2026-08-24"
   },
   {
@@ -4813,14 +4812,14 @@
    "total_value": 15272800.0
   },
   {
-   "ticker": "CDNL",
-   "insiders": 6,
-   "total_value": 8021453.78
-  },
-  {
    "ticker": "GWRS",
    "insiders": 2,
    "total_value": 7000004.85
+  },
+  {
+   "ticker": "CDNL",
+   "insiders": 5,
+   "total_value": 6131603.47
   },
   {
    "ticker": "ONON",
@@ -4971,26 +4970,9 @@
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 2,
    "total_value": 877.09
-  },
-  {
-   "ticker": "APLM",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 7950009.0
   }
  ],
  "seen": [
-  "0001918704-26-022898",
-  "0001918704-26-022899",
-  "0001918704-26-022900",
-  "0001918704-26-022901",
-  "0001918704-26-022902",
-  "0001918704-26-022903",
-  "0001918704-26-022904",
-  "0001918704-26-022905",
-  "0001918704-26-022906",
-  "0001918704-26-022907",
-  "0001918704-26-022908",
   "0001918704-26-022909",
   "0001918704-26-022910",
   "0001918704-26-022911",
@@ -6288,6 +6270,12 @@
   "0001918704-26-024595",
   "0001918704-26-024596",
   "0001918704-26-024598",
+  "0001918704-26-024599",
+  "0001918704-26-024600",
+  "0001918704-26-024601",
+  "0001918704-26-024602",
+  "0001918704-26-024603",
+  "0001918704-26-024604",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6304,6 +6292,7 @@
   "0001921051-26-000012",
   "0001921253-26-000004",
   "0001921640-26-000011",
+  "0001921955-26-000014",
   "0001922054-26-000001",
   "0001922063-26-000003",
   "0001923149-26-000006",
@@ -6610,6 +6599,7 @@
   "0001983938-26-000006",
   "0001983938-26-000007",
   "0001984140-26-000008",
+  "0001984186-26-000008",
   "0001984676-26-000005",
   "0001984784-26-000020",
   "0001984784-26-000022",
@@ -6636,6 +6626,7 @@
   "0001990106-26-000019",
   "0001990865-26-000009",
   "0001991479-26-000007",
+  "0001991569-26-000006",
   "0001991703-26-000004",
   "0001991958-26-000006",
   "0001992104-26-000282",
@@ -7806,6 +7797,7 @@
   "0002111929-26-000016",
   "0002112008-26-000011",
   "0002112189-26-000013",
+  "0002112883-26-000013",
   "0002113531-26-000004",
   "0002113533-26-000004",
   "0002113543-26-000004",
@@ -7821,6 +7813,7 @@
   "0002117086-26-000002",
   "0002117102-26-000004",
   "0002117905-26-000018",
+  "0002117999-26-000006",
   "0002118012-26-000003",
   "0002118402-26-000013",
   "0002119130-26-000007",
