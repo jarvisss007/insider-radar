@@ -1,91 +1,6 @@
 {
- "updated_utc": "2026-08-24 20:45 UTC",
+ "updated_utc": "2026-08-24 21:01 UTC",
  "purchases": [
-  {
-   "ticker": "ENHA",
-   "company": "Enhanced Group Inc.",
-   "insider": "Apeiron Investment Group Ltd.",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 150000.0,
-   "price": 1.9708,
-   "value": 295620.0,
-   "acc": "0001193125-26-353161",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "APLM",
-   "company": "Apollomics Inc.",
-   "insider": "Chen Yi-Kuei",
-   "role": "Chief Operating Officer",
-   "date": "2026-08-14",
-   "shares": 20000.0,
-   "price": 15.0,
-   "value": 300000.0,
-   "acc": "0001193125-26-354470",
-   "filed": "2026-08-17",
-   "placement": true
-  },
-  {
-   "ticker": "REZI",
-   "company": "RESIDEO TECHNOLOGIES, INC.",
-   "insider": "SURRAN THOMAS A",
-   "role": "President and CEO",
-   "date": "2026-08-14",
-   "shares": 15000.0,
-   "price": 20.46,
-   "value": 306900.0,
-   "acc": "0001104659-26-097540",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "REZI",
-   "company": "RESIDEO TECHNOLOGIES, INC.",
-   "insider": "Foster Joshua Peter",
-   "role": "SVP, GC & Corp Sec",
-   "date": "2026-08-14",
-   "shares": 15317.0,
-   "price": 20.58,
-   "value": 315223.86,
-   "acc": "0002147248-26-000003",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 22017.0,
-   "price": 15.17,
-   "value": 333997.89,
-   "acc": "0001493152-26-038750",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "LWAY",
-   "company": "Lifeway Foods, Inc.",
-   "insider": "Divisadero Street Capital Management, LP",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 15000.0,
-   "price": 24.6901,
-   "value": 370351.5,
-   "acc": "0000919574-26-005601",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ABCL",
-   "company": "AbCellera Biologics Inc.",
-   "insider": "Booth Andrew",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-14",
-   "shares": 37200.0,
-   "price": 10.32,
-   "value": 383904.0,
-   "acc": "0001834411-26-000008",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "APLM",
    "company": "Apollomics Inc.",
@@ -4087,6 +4002,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Gordon Scott",
+   "role": "Co-Chief Investment Officer",
+   "date": "2026-08-20",
+   "shares": 7500.0,
+   "price": 9.7045,
+   "value": 72783.75,
+   "acc": "0001193125-26-363730",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "SRTS",
    "company": "Sensus Healthcare, Inc.",
    "insider": "Sachetta Eric",
@@ -4180,6 +4107,18 @@
    "price": 3.2,
    "value": 150000.0,
    "acc": "0001493152-26-039863",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "TMCI",
+   "company": "TREACE MEDICAL CONCEPTS, INC.",
+   "insider": "Treace John T.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-20",
+   "shares": 39944.0,
+   "price": 4.4356,
+   "value": 177175.61,
+   "acc": "0001193125-26-363737",
    "filed": "2026-08-24"
   },
   {
@@ -4411,6 +4350,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Gordon Scott",
+   "role": "Co-Chief Investment Officer",
+   "date": "2026-08-21",
+   "shares": 195.0,
+   "price": 9.95,
+   "value": 1940.25,
+   "acc": "0001193125-26-363730",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "YQ",
    "company": "17 Education & Technology Group Inc.",
    "insider": "Liu Chang",
@@ -4552,6 +4503,18 @@
    "price": 4.77,
    "value": 21465.0,
    "acc": "0001493152-26-039791",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "TMCI",
+   "company": "TREACE MEDICAL CONCEPTS, INC.",
+   "insider": "Treace John T.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-21",
+   "shares": 5000.0,
+   "price": 4.3495,
+   "value": 21747.5,
+   "acc": "0001193125-26-363737",
    "filed": "2026-08-24"
   },
   {
@@ -4735,6 +4698,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "HRI",
+   "company": "HERC HOLDINGS INC",
+   "insider": "Olsson Erik",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 3085.0,
+   "price": 163.0,
+   "value": 502855.0,
+   "acc": "0001364479-26-000121",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "SCTH",
    "company": "Securetech Innovations, Inc.",
    "insider": "SITRA J SCOTT",
@@ -4768,6 +4743,30 @@
    "price": 0.7499,
    "value": 4025.46,
    "acc": "0001193125-26-362654",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Gordon Scott",
+   "role": "Co-Chief Investment Officer",
+   "date": "2026-08-24",
+   "shares": 1520.0,
+   "price": 10.1094,
+   "value": 15366.29,
+   "acc": "0001193125-26-363730",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "TMCI",
+   "company": "TREACE MEDICAL CONCEPTS, INC.",
+   "insider": "Treace John T.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-24",
+   "shares": 11000.0,
+   "price": 4.3392,
+   "value": 47731.2,
+   "acc": "0001193125-26-363737",
    "filed": "2026-08-24"
   },
   {
@@ -4839,11 +4838,6 @@
    "total_value": 1627274.25
   },
   {
-   "ticker": "REZI",
-   "insiders": 3,
-   "total_value": 848123.17
-  },
-  {
    "ticker": "INV",
    "insiders": 4,
    "total_value": 807794.1
@@ -4855,18 +4849,13 @@
   },
   {
    "ticker": "LIEN",
-   "insiders": 3,
-   "total_value": 606710.0
+   "insiders": 4,
+   "total_value": 696800.29
   },
   {
    "ticker": "UTGN",
    "insiders": 2,
    "total_value": 567344.0
-  },
-  {
-   "ticker": "ABCL",
-   "insiders": 2,
-   "total_value": 494204.0
   },
   {
    "ticker": "KEEL",
@@ -4985,13 +4974,12 @@
   },
   {
    "ticker": "APLM",
-   "insiders": 3,
+   "insiders": 2,
    "total_value": 0,
-   "other_value": 8250009.0
+   "other_value": 7950009.0
   }
  ],
  "seen": [
-  "0001918704-26-022897",
   "0001918704-26-022898",
   "0001918704-26-022899",
   "0001918704-26-022900",
@@ -6299,6 +6287,7 @@
   "0001918704-26-024594",
   "0001918704-26-024595",
   "0001918704-26-024596",
+  "0001918704-26-024598",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
