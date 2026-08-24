@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-24 18:53 UTC",
+ "updated_utc": "2026-08-24 19:09 UTC",
  "purchases": [
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Harmon Neal",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 29193.1,
-   "price": 4.282,
-   "value": 125004.85,
-   "acc": "0001865200-26-000081",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "CHEN THOMAS C",
-   "role": "Chief Scientific Officer",
-   "date": "2026-08-14",
-   "shares": 33787.0,
-   "price": 3.8477,
-   "value": 130002.24,
-   "acc": "0001213900-26-092276",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 20000.0,
-   "price": 6.83,
-   "value": 136600.0,
-   "acc": "0000912282-26-001130",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
@@ -4243,6 +4207,18 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "SRTS",
+   "company": "Sensus Healthcare, Inc.",
+   "insider": "Sachetta Eric",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 24000.0,
+   "price": 3.128,
+   "value": 75072.0,
+   "acc": "0002097345-26-000010",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "INV",
    "company": "Innventure, Inc.",
    "insider": "Haskell Gregory W",
@@ -4615,6 +4591,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "SRTS",
+   "company": "Sensus Healthcare, Inc.",
+   "insider": "Sachetta Eric",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 7000.0,
+   "price": 3.254,
+   "value": 22778.0,
+   "acc": "0002097345-26-000010",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "MHH",
    "company": "Mastech Digital, Inc.",
    "insider": "SHAW STEVEN A",
@@ -4684,6 +4672,18 @@
    "price": 12.53,
    "value": 71947.26,
    "acc": "0001510281-26-000277",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Wills Robert James",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 10000.0,
+   "price": 9.62,
+   "value": 96200.0,
+   "acc": "0000912282-26-001153",
    "filed": "2026-08-24"
   },
   {
@@ -4854,11 +4854,6 @@
    "total_value": 606710.0
   },
   {
-   "ticker": "ANGX",
-   "insiders": 3,
-   "total_value": 590925.64
-  },
-  {
    "ticker": "UTGN",
    "insiders": 2,
    "total_value": 567344.0
@@ -4869,9 +4864,9 @@
    "total_value": 494204.0
   },
   {
-   "ticker": "BGDE",
+   "ticker": "ANGX",
    "insiders": 2,
-   "total_value": 414770.82
+   "total_value": 465920.79
   },
   {
    "ticker": "KEEL",
@@ -4884,14 +4879,19 @@
    "total_value": 299999.0
   },
   {
-   "ticker": "NTHI",
+   "ticker": "BGDE",
    "insiders": 2,
-   "total_value": 272977.8
+   "total_value": 278170.82
   },
   {
    "ticker": "NVRI",
    "insiders": 2,
    "total_value": 159462.65
+  },
+  {
+   "ticker": "NTHI",
+   "insiders": 2,
+   "total_value": 142975.56
   },
   {
    "ticker": "AIAI",
@@ -4986,12 +4986,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022502",
-  "0001918704-26-022503",
-  "0001918704-26-022504",
-  "0001918704-26-022505",
-  "0001918704-26-022506",
-  "0001918704-26-022507",
   "0001918704-26-022508",
   "0001918704-26-022509",
   "0001918704-26-022510",
@@ -6313,6 +6307,10 @@
   "0001918704-26-024570",
   "0001918704-26-024571",
   "0001918704-26-024572",
+  "0001918704-26-024573",
+  "0001918704-26-024574",
+  "0001918704-26-024575",
+  "0001918704-26-024576",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7106,6 +7104,7 @@
   "0001999371-26-018536",
   "0001999371-26-018542",
   "0001999371-26-018545",
+  "0001999371-26-018549",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
@@ -7771,6 +7770,7 @@
   "0002096728-26-000008",
   "0002097042-26-000004",
   "0002097042-26-000005",
+  "0002097345-26-000010",
   "0002097393-26-000006",
   "0002097504-26-000004",
   "0002097955-26-000004",
