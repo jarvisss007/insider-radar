@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-08-24 21:17 UTC",
+ "updated_utc": "2026-08-24 21:33 UTC",
  "purchases": [
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Wood Benjamin",
-   "role": "Chief Operating Officer",
-   "date": "2026-08-14",
-   "shares": 13627.0,
-   "price": 39.22,
-   "value": 534450.94,
-   "acc": "0001213900-26-090850",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Spivey Jeremy Simmons",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-14",
-   "shares": 14224.0,
-   "price": 37.69,
-   "value": 536102.56,
-   "acc": "0001213900-26-090854",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "INFQ",
-   "company": "Infleqtion, Inc.",
-   "insider": "MAVERICK CAPITAL LTD",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 52071.0,
-   "price": 12.4222,
-   "value": 646836.38,
-   "acc": "0001012975-26-000796",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Wood Anthony Leon Jr.",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 17381.0,
-   "price": 39.75,
-   "value": 690894.75,
-   "acc": "0001213900-26-090855",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 111929.0,
-   "price": 6.43,
-   "value": 719703.47,
-   "acc": "0001140361-26-033407",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Lee Richard Melvin Jr.",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 27000.0,
-   "price": 36.59,
-   "value": 987930.0,
-   "acc": "0001213900-26-090858",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "AAT",
-   "company": "American Assets Trust, Inc.",
-   "insider": "RADY ERNEST S",
-   "role": "Executive Chairman",
-   "date": "2026-08-14",
-   "shares": 50000.0,
-   "price": 22.79,
-   "value": 1139500.0,
-   "acc": "0001221359-26-000040",
-   "filed": "2026-08-14"
-  },
   {
    "ticker": "CDNL",
    "company": "Cardinal Infrastructure Group Inc.",
@@ -3605,6 +3521,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "SEZL",
+   "company": "Sezzle Inc.",
+   "insider": "Khurana Rajeev",
+   "role": "General Counsel",
+   "date": "2026-08-20",
+   "shares": 129.4498,
+   "price": 115.875,
+   "value": 15000.0,
+   "acc": "0001662991-26-000146",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "MAIA",
    "company": "MAIA Biotechnology, Inc.",
    "insider": "Guerrero Ramiro",
@@ -3711,6 +3639,18 @@
    "value": 22000.0,
    "acc": "0001193125-26-359359",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "SLNH",
+   "company": "Soluna Holdings, Inc",
+   "insider": "PICCHI MICHAEL",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-20",
+   "shares": 20000.0,
+   "price": 1.15,
+   "value": 23000.0,
+   "acc": "0001493152-26-039911",
+   "filed": "2026-08-24"
   },
   {
    "ticker": "OBDC",
@@ -4022,6 +3962,18 @@
    "price": 3.2,
    "value": 100000.0,
    "acc": "0001493152-26-039862",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "USAC",
+   "company": "USA Compression Partners, LP",
+   "insider": "Whitehurst Bradford D.",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 4000.0,
+   "price": 26.4,
+   "value": 105600.0,
+   "acc": "0001779172-26-000006",
    "filed": "2026-08-24"
   },
   {
@@ -4661,6 +4613,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "USAC",
+   "company": "USA Compression Partners, LP",
+   "insider": "Whitehurst Bradford D.",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 6000.0,
+   "price": 26.1,
+   "value": 156600.0,
+   "acc": "0001779172-26-000006",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "PODD",
    "company": "INSULET CORP",
    "insider": "McEvoy Ashley",
@@ -4733,6 +4697,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "SLNH",
+   "company": "Soluna Holdings, Inc",
+   "insider": "PICCHI MICHAEL",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-24",
+   "shares": 10000.0,
+   "price": 1.14,
+   "value": 11400.0,
+   "acc": "0001493152-26-039911",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
    "insider": "Gordon Scott",
@@ -4742,6 +4718,18 @@
    "price": 10.1094,
    "value": 15366.29,
    "acc": "0001193125-26-363730",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "PFBX",
+   "company": "PEOPLES FINANCIAL CORP /MS/",
+   "insider": "SWETMAN CHEVIS",
+   "role": "CEO/President",
+   "date": "2026-08-24",
+   "shares": 1000.0,
+   "price": 23.25,
+   "value": 23250.0,
+   "acc": "0001253850-26-000004",
    "filed": "2026-08-24"
   },
   {
@@ -4781,6 +4769,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "KURA",
+   "company": "Kura Oncology, Inc.",
+   "insider": "WILSON TROY EDWARD",
+   "role": "President and CEO",
+   "date": "2026-08-24",
+   "shares": 100000.0,
+   "price": 12.39,
+   "value": 1239000.0,
+   "acc": "0001193125-26-363812",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd",
    "insider": "Wu Yongming",
@@ -4817,11 +4817,6 @@
    "total_value": 7000004.85
   },
   {
-   "ticker": "CDNL",
-   "insiders": 5,
-   "total_value": 6131603.47
-  },
-  {
    "ticker": "ONON",
    "insiders": 2,
    "total_value": 3987581.0
@@ -4830,6 +4825,11 @@
    "ticker": "ODYS",
    "insiders": 3,
    "total_value": 3850000.0
+  },
+  {
+   "ticker": "CDNL",
+   "insiders": 3,
+   "total_value": 3382225.22
   },
   {
    "ticker": "IAUX",
@@ -4973,12 +4973,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022909",
-  "0001918704-26-022910",
-  "0001918704-26-022911",
-  "0001918704-26-022912",
-  "0001918704-26-022913",
-  "0001918704-26-022914",
   "0001918704-26-022915",
   "0001918704-26-022916",
   "0001918704-26-022917",
@@ -6276,6 +6270,11 @@
   "0001918704-26-024602",
   "0001918704-26-024603",
   "0001918704-26-024604",
+  "0001918704-26-024607",
+  "0001918704-26-024608",
+  "0001918704-26-024609",
+  "0001918704-26-024610",
+  "0001918704-26-024611",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6299,6 +6298,7 @@
   "0001923231-26-000003",
   "0001923231-26-000005",
   "0001923231-26-000007",
+  "0001924278-26-000005",
   "0001924581-26-000005",
   "0001924613-26-000035",
   "0001924613-26-000037",
