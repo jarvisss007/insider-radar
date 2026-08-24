@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-08-24 19:57 UTC",
+ "updated_utc": "2026-08-24 20:13 UTC",
  "purchases": [
-  {
-   "ticker": "ASST",
-   "company": "Strive, Inc.",
-   "insider": "Rochard Pierre",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 15900.0,
-   "price": 12.54,
-   "value": 199386.0,
-   "acc": "0001628280-26-057539",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Harmon Jeffrey",
-   "role": "Chief Content Officer",
-   "date": "2026-08-14",
-   "shares": 51380.0,
-   "price": 4.2646,
-   "value": 219115.15,
-   "acc": "0001865200-26-000080",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "BTDR",
-   "company": "Bitdeer Technologies Group",
-   "insider": "Basit Haris Fozan",
-   "role": "Chief Strategy Officer",
-   "date": "2026-08-14",
-   "shares": 25000.0,
-   "price": 8.84,
-   "value": 221000.0,
-   "acc": "0001213900-26-090516",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ASND",
-   "company": "Ascendis Pharma A/S",
-   "insider": "BIENAIME JEAN JACQUES",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 900.0,
-   "price": 246.91,
-   "value": 222219.0,
-   "acc": "0001610717-26-000360",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "SODI",
-   "company": "SOLITRON DEVICES INC",
-   "insider": "Eriksen Howard Timothy",
-   "role": "CEO",
-   "date": "2026-08-14",
-   "shares": 8000.0,
-   "price": 28.5,
-   "value": 228000.0,
-   "acc": "0001437749-26-027903",
-   "filed": "2026-08-14"
-  },
-  {
-   "ticker": "FOCL",
-   "company": "EDAP TMS SA",
-   "insider": "WILLSEY LANCE",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 50000.0,
-   "price": 4.75,
-   "value": 237500.0,
-   "acc": "0001829126-26-008923",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Sarowitz Steven I",
-   "role": "Director",
-   "date": "2026-08-14",
-   "shares": 57922.0,
-   "price": 4.261,
-   "value": 246805.64,
-   "acc": "0001865200-26-000079",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "CDNL",
-   "company": "Cardinal Infrastructure Group Inc.",
-   "insider": "Rowe Michael Bruce Jr.",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-14",
-   "shares": 7000.0,
-   "price": 36.53,
-   "value": 255710.0,
-   "acc": "0001213900-26-090856",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "CDNL",
    "company": "Cardinal Infrastructure Group Inc.",
@@ -3823,6 +3727,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "SDHC",
+   "company": "Smith Douglas Homes Corp.",
+   "insider": "Devendorf Russell",
+   "role": "See Remarks",
+   "date": "2026-08-20",
+   "shares": 1000.0,
+   "price": 12.68,
+   "value": 12680.0,
+   "acc": "0001628280-26-058630",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "MED",
    "company": "MEDIFAST INC",
    "insider": "Kiai Parsa",
@@ -3869,6 +3785,18 @@
    "value": 14874.82,
    "acc": "0000912282-26-001145",
    "filed": "2026-08-21"
+  },
+  {
+   "ticker": "MAIA",
+   "company": "MAIA Biotechnology, Inc.",
+   "insider": "Guerrero Ramiro",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 11899.0,
+   "price": 1.37,
+   "value": 16301.63,
+   "acc": "0001878313-26-000077",
+   "filed": "2026-08-24"
   },
   {
    "ticker": "NRDE",
@@ -4219,6 +4147,54 @@
    "filed": "2026-08-20"
   },
   {
+   "ticker": "ODYS",
+   "company": "Odysight.ai Inc.",
+   "insider": "Vurembrand Zeev",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 31250.0,
+   "price": 3.2,
+   "value": 100000.0,
+   "acc": "0001493152-26-039862",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "BNL",
+   "company": "Broadstone Net Lease, Inc.",
+   "insider": "Imperiale Richard P",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 5000.0,
+   "price": 21.22,
+   "value": 106100.0,
+   "acc": "0001311618-26-000005",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "CORZ",
+   "company": "Core Scientific, Inc./tx",
+   "insider": "CRAIN ELIZABETH",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 6000.0,
+   "price": 18.3324,
+   "value": 109994.4,
+   "acc": "0000905148-26-003881",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "ODYS",
+   "company": "Odysight.ai Inc.",
+   "insider": "Goldwasser Benad",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 46875.0,
+   "price": 3.2,
+   "value": 150000.0,
+   "acc": "0001493152-26-039863",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "AMR",
    "company": "Alpha Metallurgical Resources, Inc.",
    "insider": "Courtis Kenneth S.",
@@ -4373,6 +4349,18 @@
    "value": 1444359.0,
    "acc": "0001140361-26-033922",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "ODYS",
+   "company": "Odysight.ai Inc.",
+   "insider": "Arkin Moshe",
+   "role": "Director",
+   "date": "2026-08-20",
+   "shares": 1125000.0,
+   "price": 3.2,
+   "value": 3600000.0,
+   "acc": "0001493152-26-039861",
+   "filed": "2026-08-24"
   },
   {
    "ticker": "GWRS",
@@ -4687,6 +4675,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "BNL",
+   "company": "Broadstone Net Lease, Inc.",
+   "insider": "Imperiale Richard P",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 5000.0,
+   "price": 21.1,
+   "value": 105500.0,
+   "acc": "0001311618-26-000005",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "EOS",
    "company": "Eaton Vance Enhanced Equity Income Fund II",
    "insider": "QUINTON KEITH",
@@ -4815,8 +4815,8 @@
   },
   {
    "ticker": "CDNL",
-   "insiders": 7,
-   "total_value": 8541273.78
+   "insiders": 6,
+   "total_value": 8285563.78
   },
   {
    "ticker": "GWRS",
@@ -4827,6 +4827,11 @@
    "ticker": "ONON",
    "insiders": 2,
    "total_value": 3987581.0
+  },
+  {
+   "ticker": "ODYS",
+   "insiders": 3,
+   "total_value": 3850000.0
   },
   {
    "ticker": "IAUX",
@@ -4864,11 +4869,6 @@
    "total_value": 494204.0
   },
   {
-   "ticker": "ANGX",
-   "insiders": 2,
-   "total_value": 465920.79
-  },
-  {
    "ticker": "KEEL",
    "insiders": 2,
    "total_value": 329560.45
@@ -4882,6 +4882,11 @@
    "ticker": "BGDE",
    "insiders": 2,
    "total_value": 278170.82
+  },
+  {
+   "ticker": "CORZ",
+   "insiders": 2,
+   "total_value": 244352.4
   },
   {
    "ticker": "NVRI",
@@ -4986,14 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022513",
-  "0001918704-26-022514",
-  "0001918704-26-022515",
-  "0001918704-26-022860",
-  "0001918704-26-022861",
-  "0001918704-26-022862",
-  "0001918704-26-022863",
-  "0001918704-26-022864",
   "0001918704-26-022865",
   "0001918704-26-022882",
   "0001918704-26-022883",
@@ -6309,6 +6306,8 @@
   "0001918704-26-024577",
   "0001918704-26-024578",
   "0001918704-26-024579",
+  "0001918704-26-024584",
+  "0001918704-26-024585",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6517,6 +6516,7 @@
   "0001971511-26-000004",
   "0001971797-26-000010",
   "0001972724-26-000010",
+  "0001972931-26-000004",
   "0001973103-26-000007",
   "0001973239-26-000121",
   "0001973495-26-000004",
@@ -7441,6 +7441,7 @@
   "0002055606-26-000004",
   "0002055817-26-000004",
   "0002056381-26-000004",
+  "0002056453-26-000005",
   "0002056657-26-000002",
   "0002056949-26-000005",
   "0002057569-26-000026",
@@ -7641,6 +7642,8 @@
   "0002076763-26-000006",
   "0002076878-26-000003",
   "0002077005-26-000010",
+  "0002077005-26-000012",
+  "0002077027-26-000006",
   "0002077291-26-000002",
   "0002077808-26-000059",
   "0002077808-26-000060",
@@ -7714,6 +7717,7 @@
   "0002083591-26-000005",
   "0002083595-26-000006",
   "0002083617-26-000012",
+  "0002083724-26-000005",
   "0002083761-26-000003",
   "0002084264-26-000003",
   "0002084264-26-000004",
@@ -7781,6 +7785,7 @@
   "0002100449-26-000004",
   "0002100774-26-000004",
   "0002100829-26-000007",
+  "0002101254-26-000004",
   "0002102774-26-000012",
   "0002103514-26-000010",
   "0002104019-26-000006",
