@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-25 15:47 UTC",
+ "updated_utc": "2026-08-25 16:02 UTC",
  "purchases": [
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Davis Rodger",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 800.0,
-   "price": 7.1,
-   "value": 5680.0,
-   "acc": "0001213900-26-092110",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "SNBH",
-   "company": "SENTIENT BRANDS HOLDINGS INC.",
-   "insider": "Knazev Sergei",
-   "role": "President, PEO, Director",
-   "date": "2026-08-17",
-   "shares": 25000.0,
-   "price": 0.2625,
-   "value": 6562.5,
-   "acc": "0001493152-26-038862",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 20000.0,
-   "price": 0.3911,
-   "value": 7822.0,
-   "acc": "0001683168-26-006536",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "LCNB",
    "company": "LCNB CORP",
@@ -4142,6 +4106,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "NGL",
+   "company": "NGL Energy Partners LP",
+   "insider": "RAYMOND JOHN T",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 1126.0,
+   "price": 16.25,
+   "value": 18297.5,
+   "acc": "0001186173-26-000001",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "GEVO",
    "company": "Gevo, Inc.",
    "insider": "Kettner David Michael",
@@ -4574,6 +4550,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "HKHC",
+   "company": "Horizon Kinetics Holding Corp",
+   "insider": "Brennan Alice C",
+   "role": "Director",
+   "date": "2026-08-24",
+   "shares": 200.0,
+   "price": 26.87,
+   "value": 5374.0,
+   "acc": "0001437749-26-028884",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "IDAI",
    "company": "T Stamp Inc",
    "insider": "Genner Gareth Neville",
@@ -4730,6 +4718,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "NGL",
+   "company": "NGL Energy Partners LP",
+   "insider": "RAYMOND JOHN T",
+   "role": "Director",
+   "date": "2026-08-24",
+   "shares": 25500.0,
+   "price": 16.2237,
+   "value": 413704.35,
+   "acc": "0001186173-26-000001",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "TTMI",
    "company": "TTM TECHNOLOGIES INC",
    "insider": "Geveden Rex D",
@@ -4859,11 +4859,6 @@
    "total_value": 299999.0
   },
   {
-   "ticker": "BGDE",
-   "insiders": 2,
-   "total_value": 274004.82
-  },
-  {
    "ticker": "CORZ",
    "insiders": 2,
    "total_value": 244352.4
@@ -4929,6 +4924,11 @@
    "total_value": 15348.5
   },
   {
+   "ticker": "HKHC",
+   "insiders": 2,
+   "total_value": 12049.0
+  },
+  {
    "ticker": "RCG",
    "insiders": 2,
    "total_value": 11564.0
@@ -4937,11 +4937,6 @@
    "ticker": "RVSB",
    "insiders": 2,
    "total_value": 10120.0
-  },
-  {
-   "ticker": "SNBH",
-   "insiders": 2,
-   "total_value": 8312.5
   },
   {
    "ticker": "CWBC",
@@ -4960,7 +4955,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022987",
   "0001918704-26-022988",
   "0001918704-26-022989",
   "0001918704-26-022992",
@@ -6237,6 +6231,7 @@
   "0001918704-26-024658",
   "0001918704-26-024659",
   "0001918704-26-024660",
+  "0001918704-26-024661",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
