@@ -727,3 +727,89 @@ arrived on the same morning the event study returned its FOURTH honest null
 (953 events, week-clustered t +1.29 vs 2.67). That coincidence is the whole
 discipline: the row was filed at 0.51, the base rate, with no size tilt. If
 $15.27M means something it must show up in the forward record.
+
+## 2026-08-25 [insider]
+
+FOUR OF SIX SCORED, TWO HELD, AND THE HOLDS ARE NOT THE SAME AS YESTERDAY'S.
+Yesterday all six 08-24 rows were held for SCHED-001 (run at 11:28 ET with the
+session live). Today they resolved off the SETTLED 08-24 close, which is what
+that rule is for. Four scored — FSBC 46.81 -> 45.13 wrong, CLBK 10.88 -> 11.79
+right, TSM 403.41 -> 410.12 right, BYRN 3.37 -> 3.62 right. Two did NOT, and
+for a different reason than yesterday: **their 08-24 bar does not exist.**
+- BBASX is a MUTUALFUND on Yahoo and prints nulls routinely — 7 of its last 31
+  bars are null, including 08-20, 08-24 AND 08-25. The last settled close is
+  08-21 at 11.18, which is BEFORE the check_date, so using it would resolve the
+  row off a bar the question did not ask about. Held.
+- GRML executed a **1-for-50 reverse split effective 2026-08-24** (Yahoo's split
+  event stamps 2026-08-24 13:30 UTC), and the split day's bar is null. Its live
+  08-25 print is 10.56 against a 9.50 post-split reference — i.e. it would score
+  RIGHT — which is exactly why it must wait for a settled bar rather than be
+  taken now. Holding a row that would currently win is the only version of this
+  discipline that costs anything.
+Neither is the AGENT.md's "delisted or unfetchable -> wrong" case: both tickers
+fetch fine and both have live quotes. A null bar inside a live series is a data
+gap, not a vanished company, and scoring it `wrong` would put a data defect into
+the signal's record. If either is still null on the next run with a settled bar
+available on a later date, it resolves off the first settled close AFTER the
+check_date, per the AGENT.md's own "or first close after" clause.
+
+SCORECARD, BOTH STRATA, NEVER BLENDED. Headline >=$100k: 78 logged, **9 scored,
+78%**. Sub-floor <$100k: 35 logged, **2 scored, 50%**. Unknown: 1 logged, 0
+scored. On `stale_quote != yes` rows: **11 of 11 scored rows qualify** (nothing
+has ever been flagged `yes` at call time), so the flagged/unflagged split is
+currently 73% (n=11) vs no comparison group at all. Report it that way — a
+disclosure column with no positives yet is not evidence the freeze problem is
+gone, it is evidence nothing has frozen since the column existed.
+
+**THE SPY BAR, WHICH IS THE BAR THAT MATTERS.** Second cohort now scored, so
+both are benchmarkable:
+- Cohort 1 (called 07-17, checked 08-17): 5 of 7 right, SPY 743.29 -> 772.67 =
+  **+3.95%**.
+- Cohort 2 (called 07-25, checked 08-24): 3 of 4 right, avg return **+3.46%**
+  (FSBC -3.59, CLBK +8.36, TSM +1.66, BYRN +7.42), SPY 738.93 -> 763.47 =
+  **+3.32%**.
+Cohort 2 beat just-buy-SPY by **14 basis points over 30 days on n=4**. That is
+noise and must be said as noise. A long-only book in a tape that rose 3.3% in a
+month will print a good-looking hit rate whatever the signal does; 73% against a
+market that was up in both windows is not 73% of anything.
+
+DISTANCE, NOT DIRECTION — the BRVE forecast lesson. BRVE resolved 0 today: the
+question asked "closes above 30.00" against a 27.58 reference, a threshold
+**8.7% out of the money**, and the row was still filed at p=0.52, the
+unconditional near-coin-flip. Those two facts are inconsistent with each other.
+BRVE spent the entire 14-day window between roughly 27 and 28.5 and never
+threatened the level. The book must price the DISTANCE to the threshold, not
+only the direction; today's ODYS row asks about the reference itself (0%
+distance) so 0.51 is honest there.
+
+WRITE-PATH DISCLOSURE, LOGGED NOT FIXED. `stale_quote.py --check T --asof
+2026-08-25` printed its window as `2026-08-20..2026-08-25` — it INCLUDED today's
+unsettled bar. INS-006 documents the window as ending at the call date's
+complete bar, and on a live-session run that bar does not exist yet. All four
+rows logged today returned `no` and none is close to flipping, so nothing was
+mispriced; but the tool is doing something other than what its own comment says.
+Disclosed on every row's note. Not fixed here — a fix to the write path is not
+something a morning sweep does to itself.
+
+THE FIFTH FUNDRISE REFUSAL. `FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK
+1777677)`, 2 insiders / $877.09, appeared again and was again refused as
+unpriceable (INS-007). `exclusions.csv` now carries it at `sessions 5`,
+auto-upserted by the collector. The refusal set still skews to the TOP of the
+dollar distribution — HPS $10.50M and VISTA $6.23M are in it — which stays the
+single most important caveat on any hit rate this book quotes.
+
+EVENT STUDY, FIFTH CONSECUTIVE NULL. Today's collector pass re-ran the study at
+**962 events / 670 mature**: no significant edge at any horizon after market
+adjustment and cluster-robust inference; naive t reaches +2.98 at one horizon
+and collapses to **+1.11** week-clustered against a 2.67 Bonferroni threshold.
+The ledger's 73% and the study's null are describing the same universe. When
+they disagree, the study is the one with 670 observations.
+
+DESK DEFECT FOUND, OUTSIDE THIS LAB. `~/bin/score_forecasts.py --lab X` writes
+`~/command-center/council/calibration_table.json` from `table_out`, which under
+`--lab` holds exactly one lab — so **every per-lab invocation overwrites the
+whole file and erases every other lab's entry.** That is why lab after lab has
+been filing notes saying "the calibration table has no row for me": it is not
+that the labs are missing, it is that whichever lab scored last is the only one
+left. Running the script with no `--lab` writes all of them. Reported to the
+sweep summary; not patched here.

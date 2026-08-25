@@ -6,11 +6,11 @@ date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_qu
 2026-07-17,GABC,long,[insider] 5 insiders bought $0.10M cluster,48.57,2026-08-16,50.94,right,0,fund
 2026-07-17,INM,long,[insider] 2 insiders bought $0.03M cluster,1.52,2026-08-16,1.46,wrong,0,fund
 2026-07-17,YORW,long,[insider] 6 insiders bought $0.03M cluster,31.45,2026-08-16,33.06,right,0,fund
-2026-07-25,FSBC,long,[insider] 6 insiders bought $6.3M cluster,46.81,2026-08-24,,,no,fund
-2026-07-25,CLBK,long,[insider] 16 insiders bought $4.8M cluster,10.88,2026-08-24,,,no,fund
-2026-07-25,TSM,long,[insider] 2 insiders bought $4.4M cluster,403.41,2026-08-24,,,no,fund
+2026-07-25,FSBC,long,[insider] 6 insiders bought $6.3M cluster,46.81,2026-08-24,45.13,wrong,no,fund
+2026-07-25,CLBK,long,[insider] 16 insiders bought $4.8M cluster,10.88,2026-08-24,11.79,right,no,fund
+2026-07-25,TSM,long,[insider] 2 insiders bought $4.4M cluster,403.41,2026-08-24,410.12,right,no,fund
 2026-07-25,BBASX,long,[insider] 2 insiders bought $2.6M cluster,10.96,2026-08-24,,,no,fund
-2026-07-25,BYRN,long,[insider] 3 insiders bought $0.25M cluster,3.37,2026-08-24,,,no,fund
+2026-07-25,BYRN,long,[insider] 3 insiders bought $0.25M cluster,3.37,2026-08-24,3.62,right,no,fund
 2026-07-25,GRML,long,"[insider] 2 insiders bought $0.14M cluster [SPLIT ADJUSTED 2026-08-24: GRML 1-for-50 reverse split effective 2026-08-24; registered entry 0.19 pre-split = 9.50 in the post-split basis every later price quotes in. Open unscored row, basis repair per the desk law; the QBTS class: right prices, wrong basis.]",9.50,2026-08-24,,,no,fund
 2026-07-31,SCTX,long,[insider] 4 insiders bought $216.2M cluster,20.40,2026-08-30,,,no,fund
 2026-07-31,ACI,long,[insider] 2 insiders bought $12.1M cluster,11.60,2026-08-30,,,no,fund
@@ -109,3 +109,7 @@ date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_qu
 2026-08-24,DGXX,long,[insider] 2 insiders bought $0.11M cluster,4.07,2026-09-23,,,no,fund
 2026-08-24,IDAI,long,[insider] 3 insiders bought $0.06M cluster,3.20,2026-09-23,,,no,fund
 2026-08-24,CCAP,long,[insider] 2 insiders bought $0.05M cluster,10.71,2026-09-23,,,no,fund
+2026-08-25,ODYS,long,[insider] 3 insiders bought $3.85M cluster,3.68,2026-09-24,,,no,fund
+2026-08-25,CORZ,long,[insider] 2 insiders bought $244k cluster,17.27,2026-09-24,,,no,fund
+2026-08-25,GEVO,long,[insider] 2 insiders bought $96k cluster,1.53,2026-09-24,,,no,fund
+2026-08-25,CWBC,long,[insider] 2 insiders bought $8k cluster,26.01,2026-09-24,,,no,fund
