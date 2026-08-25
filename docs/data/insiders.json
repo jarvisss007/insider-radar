@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-25 11:25 UTC",
+ "updated_utc": "2026-08-25 12:47 UTC",
  "purchases": [
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Fitzgerald John Taylor Maloney",
-   "role": "President and CEO",
-   "date": "2026-08-17",
-   "shares": 254.0,
-   "price": 9.87,
-   "value": 2506.98,
-   "acc": "0001072627-26-000050",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "MLCI",
-   "company": "Mount Logan Capital Inc.",
-   "insider": "Satoren Brandon",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-17",
-   "shares": 1000.0,
-   "price": 3.13,
-   "value": 3130.0,
-   "acc": "0001628280-26-057771",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "BGDE",
    "company": "Big Digital Energy, Inc.",
@@ -4346,6 +4322,18 @@
    "filed": "2026-08-21"
   },
   {
+   "ticker": "PODC",
+   "company": "PodcastOne, Inc.",
+   "insider": "MERRIMAN D JONATHAN",
+   "role": "Director",
+   "date": "2026-08-21",
+   "shares": 15700.0,
+   "price": 2.75,
+   "value": 43175.0,
+   "acc": "0001213900-26-093257",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "AIAI",
    "company": "AIAI Holdings Corp",
    "insider": "Carlton Charles Craig",
@@ -4622,6 +4610,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "IDAI",
+   "company": "T Stamp Inc",
+   "insider": "Genner Gareth Neville",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-24",
+   "shares": 2000.0,
+   "price": 3.21,
+   "value": 6420.0,
+   "acc": "0001910573-26-000013",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "SLNH",
    "company": "Soluna Holdings, Inc",
    "insider": "PICCHI MICHAEL",
@@ -4894,19 +4894,14 @@
    "total_value": 96368.75
   },
   {
-   "ticker": "KWY",
-   "insiders": 2,
-   "total_value": 91990.7
+   "ticker": "IDAI",
+   "insiders": 3,
+   "total_value": 65310.19
   },
   {
    "ticker": "GABC",
    "insiders": 3,
    "total_value": 60000.0
-  },
-  {
-   "ticker": "IDAI",
-   "insiders": 3,
-   "total_value": 58890.19
   },
   {
    "ticker": "TISI",
@@ -4944,11 +4939,6 @@
    "total_value": 11564.0
   },
   {
-   "ticker": "MLCI",
-   "insiders": 2,
-   "total_value": 9356.94
-  },
-  {
    "ticker": "SNBH",
    "insiders": 2,
    "total_value": 8312.5
@@ -4957,6 +4947,11 @@
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 8061.01
+  },
+  {
+   "ticker": "MLCI",
+   "insiders": 2,
+   "total_value": 6226.94
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
