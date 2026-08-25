@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-25 01:30 UTC",
+ "updated_utc": "2026-08-25 01:45 UTC",
  "purchases": [
-  {
-   "ticker": "MLPT",
-   "company": "MapLight Therapeutics, Inc.",
-   "insider": "Catalyst4, Inc.",
-   "role": "10% owner",
-   "date": "2026-08-14",
-   "shares": 4400000.0,
-   "price": 11.38,
-   "value": 50072000.0,
-   "acc": "0001900201-26-000005",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "SNBH",
-   "company": "SENTIENT BRANDS HOLDINGS INC.",
-   "insider": "Wyman Derek Michael",
-   "role": "Treasurer",
-   "date": "2026-08-17",
-   "shares": 325.0,
-   "price": 0.26,
-   "value": 84.5,
-   "acc": "0001493152-26-038958",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "ISBA",
-   "company": "ISABELLA BANK CORP",
-   "insider": "Bourland Jill",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 7.2133,
-   "price": 41.59,
-   "value": 300.0,
-   "acc": "0000842517-26-000186",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -3878,6 +3842,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Yeung Danny Sheng Wu",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-20",
+   "shares": 7500.0,
+   "price": 18.31,
+   "value": 137325.0,
+   "acc": "0001628280-26-058760",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "ODYS",
    "company": "Odysight.ai Inc.",
    "insider": "Goldwasser Benad",
@@ -4742,6 +4718,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Yeung Danny Sheng Wu",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-24",
+   "shares": 6000.0,
+   "price": 20.9,
+   "value": 125400.0,
+   "acc": "0001628280-26-058760",
+   "filed": "2026-08-24"
+  },
+  {
    "ticker": "TENX",
    "company": "TENAX THERAPEUTICS, INC.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -4751,6 +4739,18 @@
    "price": 1.7542,
    "value": 188355.47,
    "acc": "0001940272-26-000017",
+   "filed": "2026-08-24"
+  },
+  {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Yeung Danny Sheng Wu",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-24",
+   "shares": 11181.0,
+   "price": 21.4,
+   "value": 239273.4,
+   "acc": "0001628280-26-058760",
    "filed": "2026-08-24"
   },
   {
@@ -4956,7 +4956,7 @@
   {
    "ticker": "SNBH",
    "insiders": 2,
-   "total_value": 8397.0
+   "total_value": 8312.5
   },
   {
    "ticker": "CWBC",
@@ -4970,7 +4970,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-022934",
   "0001918704-26-022935",
   "0001918704-26-022938",
   "0001918704-26-022939",
@@ -7681,6 +7680,7 @@
   "0002081604-26-000008",
   "0002081604-26-000009",
   "0002081627-26-000013",
+  "0002082900-26-000006",
   "0002082975-26-000008",
   "0002083068-26-000004",
   "0002083206-26-000007",
