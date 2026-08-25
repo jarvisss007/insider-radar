@@ -258,3 +258,79 @@ decomposition: reliability, resolution) from your own resolved forecasts.
 - Spread forecasts across days. Ten forecasts stacked on one morning are one observation.
 - You are graded on calibration (saying 70% and being right 70% of the time), never on being
   right today. A well-calibrated 0.55 beats a lucky 0.90.
+
+---
+
+## IR-001 — `grade`, a size/price stratum written at call time (2026-08-24)
+
+Every cluster is still logged. Nothing is filtered. `grade` is a DISCLOSURE
+column exactly like `stale_quote`:
+
+```
+core  : cluster >= $100,000 AND price_at_call >= $5
+noise : otherwise
+(empty): the thesis states no dollar size, or there is no price — unknown is
+         honest, guessed is not
+```
+
+Write it with `py agent/grade.py --check TICKER --price P --thesis "..."`,
+at call time, and never revise it afterwards.
+
+**Why.** Measured on the 97 open calls, 2026-08-24:
+
+| stratum | n | up | mean | excess vs SPY |
+|---|---|---|---|---|
+| core | 52 | 62% | +2.51% | +2.91% |
+| noise | 45 | 47% | +0.12% | +0.67% |
+
+The noise stratum contributes almost nothing and owns the entire left tail —
+HCWB −32%, XAIR −21%, SAGT −14%, FOCL −13%, all sub-$5. Several carry theses
+this lab itself wrote as `noise-scale cluster` and `2 insiders bought $300
+total`, and logged anyway, which is correct: the agent scores the signal, not
+its taste.
+
+**THE THRESHOLDS WERE CHOSEN AFTER SEEING THAT TABLE.** Post-hoc slicing is
+what `backtest-overfitting` exists to catch, so this column proves NOTHING
+today. It is pre-registered here, dated, and its verdict comes only from rows
+logged 2026-08-24 forward. Backfilled values on older rows exist so both
+strata can be reported side by side — never to claim an edge.
+
+Report hit rate by stratum, both with their n, the same way `stale_quote` is
+reported. Do not merge them into one headline.
+
+## IR-002 — the benchmark leg (2026-08-24)
+
+This file already said: *"The long-only design means a bull market inflates the
+hit rate."* True, and the reverse is worse. Over the current open book SPY
+averaged **−0.48%**, so a name that fell less than the index is booked `wrong`
+by a raw-direction test while having beaten the market.
+
+Three columns, filled by `py agent/grade.py --backfill`:
+
+- `spy_at_call` — SPY close on the call date. Objective, fixed at call time.
+- `spy_at_check` — SPY close on the check date.
+- `outcome_excess` — `right` iff the call's return beat SPY's over the same
+  window.
+
+`outcome` is UNTOUCHED. The original unit keeps its own record; the two are
+reported together, never one instead of the other.
+
+## VOID is not a loss (2026-08-24)
+
+Step 2 above says an unfetchable ticker scores `wrong`. The ledger has been
+writing `void` instead for rows that **never had a price at all** — non-traded
+BDCs, SPACs with no quote, CIK-only rows. Both behaviours are defensible and
+they were being conflated, which is how the headline record read **5/13 = 38%**
+when the true scored record is **5/7 = 71%**: six unpriceable rows were being
+counted as six losses.
+
+The distinction, from today:
+
+- **`void`** — the row never had a priceable quote. Excluded from hit rate,
+  counted and reported separately. A cluster in a non-traded fund is not a
+  failed prediction; it is a prediction that could not be made.
+- **`wrong`** — the row HAD `price_at_call` and later became unfetchable, i.e.
+  the stock vanished. That is a real outcome and stays a loss, exactly as the
+  original rule intended.
+
+Never report a hit rate over rows whose `outcome` is `void`.
