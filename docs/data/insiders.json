@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-26 15:19 UTC",
+ "updated_utc": "2026-08-26 15:35 UTC",
  "purchases": [
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-17",
-   "shares": 6765.0,
-   "price": 3.865,
-   "value": 26146.73,
-   "acc": "0001325533-26-000004",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Corso Matte Ana Silvia",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 3000.0,
-   "price": 9.73,
-   "value": 29190.0,
-   "acc": "0001213900-26-090811",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "PODC",
-   "company": "PodcastOne, Inc.",
-   "insider": "MERRIMAN D JONATHAN",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 11300.0,
-   "price": 2.8,
-   "value": 31640.0,
-   "acc": "0001213900-26-090890",
-   "filed": "2026-08-17"
-  },
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Mahajan Umesh",
-   "role": "Secretary; Co-CIO",
-   "date": "2026-08-17",
-   "shares": 4000.0,
-   "price": 9.6,
-   "value": 38400.0,
-   "acc": "0001193125-26-356876",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "AVBC",
-   "company": "Avidia Bancorp, Inc.",
-   "insider": "Doane Thomas",
-   "role": "EVP- Human Resources",
-   "date": "2026-08-17",
-   "shares": 1726.0,
-   "price": 22.31,
-   "value": 38507.06,
-   "acc": "0001437749-26-028474",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks William J.",
-   "role": "Founder & President",
-   "date": "2026-08-17",
-   "shares": 2098.0,
-   "price": 21.36,
-   "value": 44813.28,
-   "acc": "0000950103-26-012589",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "WULF",
    "company": "TERAWULF INC.",
@@ -4718,6 +4646,78 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 144.0,
+   "price": 66.01,
+   "value": 9505.44,
+   "acc": "0001505732-26-000108",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 219.0,
+   "price": 65.96,
+   "value": 14445.24,
+   "acc": "0001505732-26-000108",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 259.0,
+   "price": 65.94,
+   "value": 17078.46,
+   "acc": "0001505732-26-000108",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 262.0,
+   "price": 65.94,
+   "value": 17276.28,
+   "acc": "0001505732-26-000108",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 662.0,
+   "price": 65.9,
+   "value": 43625.8,
+   "acc": "0001505732-26-000108",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 994.0,
+   "price": 65.89,
+   "value": 65494.66,
+   "acc": "0001505732-26-000108",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "PRE",
    "company": "Prenetics Global Ltd",
    "insider": "Rosin Brian J",
@@ -4846,8 +4846,8 @@
   },
   {
    "ticker": "LIEN",
-   "insiders": 3,
-   "total_value": 694890.29
+   "insiders": 2,
+   "total_value": 656490.29
   },
   {
    "ticker": "UTGN",
@@ -4966,16 +4966,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023162",
-  "0001918704-26-023163",
-  "0001918704-26-023164",
-  "0001918704-26-023165",
-  "0001918704-26-023166",
-  "0001918704-26-023167",
-  "0001918704-26-023168",
-  "0001918704-26-023169",
-  "0001918704-26-023170",
-  "0001918704-26-023171",
   "0001918704-26-023172",
   "0001918704-26-023173",
   "0001918704-26-023174",
@@ -6225,6 +6215,16 @@
   "0001918704-26-024859",
   "0001918704-26-024860",
   "0001918704-26-024861",
+  "0001918704-26-024862",
+  "0001918704-26-024863",
+  "0001918704-26-024864",
+  "0001918704-26-024865",
+  "0001918704-26-024866",
+  "0001918704-26-024867",
+  "0001918704-26-024868",
+  "0001918704-26-024869",
+  "0001918704-26-024870",
+  "0001918704-26-024871",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
