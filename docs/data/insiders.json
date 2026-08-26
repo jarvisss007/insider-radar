@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-26 16:21 UTC",
+ "updated_utc": "2026-08-26 16:37 UTC",
  "purchases": [
-  {
-   "ticker": "BXSY",
-   "company": "BEXIL INVESTMENT TRUST",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-17",
-   "shares": 5200.0,
-   "price": 18.08,
-   "value": 94016.0,
-   "acc": "0001628873-26-000075",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "NVRI",
    "company": "Enviri Corp",
@@ -4622,6 +4610,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "Kesslen Jay H",
+   "role": "Vice-President",
+   "date": "2026-08-25",
+   "shares": 1000.0,
+   "price": 2.93,
+   "value": 2930.0,
+   "acc": "0001437749-26-028968",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "HKHC",
    "company": "Horizon Kinetics Holding Corp",
    "insider": "Brennan Alice C",
@@ -4920,14 +4920,14 @@
    "total_value": 25228.22
   },
   {
+   "ticker": "RCG",
+   "insiders": 2,
+   "total_value": 18954.4
+  },
+  {
    "ticker": "HKHC",
    "insiders": 2,
    "total_value": 17399.0
-  },
-  {
-   "ticker": "RCG",
-   "insiders": 2,
-   "total_value": 16024.4
   },
   {
    "ticker": "BY",
@@ -4956,9 +4956,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023203",
-  "0001918704-26-023204",
-  "0001918704-26-023205",
   "0001918704-26-023206",
   "0001918704-26-023210",
   "0001918704-26-023212",
@@ -6215,6 +6212,9 @@
   "0001918704-26-024891",
   "0001918704-26-024892",
   "0001918704-26-024893",
+  "0001918704-26-024894",
+  "0001918704-26-024895",
+  "0001918704-26-024896",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
