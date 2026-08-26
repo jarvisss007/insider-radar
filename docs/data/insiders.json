@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-26 15:50 UTC",
+ "updated_utc": "2026-08-26 16:21 UTC",
  "purchases": [
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-08-17",
-   "shares": 4289.0,
-   "price": 15.241,
-   "value": 65368.65,
-   "acc": "0001493152-26-039223",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "HGBL",
-   "company": "Heritage Global Inc.",
-   "insider": "Dove Nicholas Kirk",
-   "role": "President, Industrial Assets",
-   "date": "2026-08-17",
-   "shares": 60000.0,
-   "price": 1.099,
-   "value": 65940.0,
-   "acc": "0001193125-26-353994",
-   "filed": "2026-08-17"
-  },
   {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
@@ -4406,6 +4382,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "CBU",
+   "company": "COMMUNITY FINANCIAL SYSTEM, INC.",
+   "insider": "Hall Brenda M",
+   "role": "Director",
+   "date": "2026-08-24",
+   "shares": 476.0,
+   "price": 63.5946,
+   "value": 30271.03,
+   "acc": "0000723188-26-000106",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "TISI",
    "company": "TEAM INC",
    "insider": "Horton Anthony R",
@@ -4755,6 +4743,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "MAIR",
+   "company": "Madison Air Solutions Corp",
+   "insider": "La Force Andrew Hudson III",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 20000.0,
+   "price": 27.84,
+   "value": 556800.0,
+   "acc": "0001628280-26-059013",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4900,11 +4900,6 @@
    "total_value": 96368.75
   },
   {
-   "ticker": "HGBL",
-   "insiders": 2,
-   "total_value": 87940.0
-  },
-  {
    "ticker": "IDAI",
    "insiders": 3,
    "total_value": 65310.19
@@ -4961,15 +4956,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023185",
-  "0001918704-26-023186",
-  "0001918704-26-023187",
-  "0001918704-26-023188",
-  "0001918704-26-023189",
-  "0001918704-26-023190",
-  "0001918704-26-023197",
-  "0001918704-26-023201",
-  "0001918704-26-023202",
   "0001918704-26-023203",
   "0001918704-26-023204",
   "0001918704-26-023205",
@@ -6220,6 +6206,15 @@
   "0001918704-26-024882",
   "0001918704-26-024883",
   "0001918704-26-024884",
+  "0001918704-26-024885",
+  "0001918704-26-024886",
+  "0001918704-26-024887",
+  "0001918704-26-024888",
+  "0001918704-26-024889",
+  "0001918704-26-024890",
+  "0001918704-26-024891",
+  "0001918704-26-024892",
+  "0001918704-26-024893",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
