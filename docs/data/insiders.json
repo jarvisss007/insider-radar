@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-26 20:49 UTC",
+ "updated_utc": "2026-08-26 21:05 UTC",
  "purchases": [
-  {
-   "ticker": "NRDE",
-   "company": "Stark Novus Financial Inc.",
-   "insider": "ZYNGIER ALEXANDRE",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 1747.0,
-   "price": 1.7,
-   "value": 2969.9,
-   "acc": "0001493152-26-039526",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "MLCI",
-   "company": "Mount Logan Capital Inc.",
-   "insider": "Satoren Brandon",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 3.02,
-   "value": 3020.0,
-   "acc": "0001628280-26-057771",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 700.0,
-   "price": 4.3783,
-   "value": 3064.81,
-   "acc": "0001214659-26-010625",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "ZSQR",
-   "company": "Z Squared Inc.",
-   "insider": "Schadel Christopher Ryan",
-   "role": "Chief Marketing Officer",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 3.92,
-   "value": 3920.0,
-   "acc": "0001185185-26-003631",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "ADMQ",
-   "company": "ADM ENDEAVORS, INC.",
-   "insider": "Johnson Marc",
-   "role": "CEO",
-   "date": "2026-08-18",
-   "shares": 100000.0,
-   "price": 0.0422,
-   "value": 4220.0,
-   "acc": "0001493152-26-039160",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
@@ -4262,6 +4202,18 @@
    "filed": "2026-08-25"
   },
   {
+   "ticker": "FNKO",
+   "company": "Funko, Inc.",
+   "insider": "DENSON CHARLES D",
+   "role": "Director",
+   "date": "2026-08-24",
+   "shares": 72992.0,
+   "price": 6.85,
+   "value": 499995.2,
+   "acc": "0001239159-26-000007",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "TTMI",
    "company": "TTM TECHNOLOGIES INC",
    "insider": "Geveden Rex D",
@@ -4283,6 +4235,18 @@
    "price": 12.38,
    "value": 619000.0,
    "acc": "0002111580-26-000010",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-24",
+   "shares": 29729.0,
+   "price": 22.74,
+   "value": 676037.46,
+   "acc": "0001221359-26-000048",
    "filed": "2026-08-26"
   },
   {
@@ -4308,6 +4272,18 @@
    "value": 2065236.16,
    "acc": "0001140361-26-034358",
    "filed": "2026-08-25"
+  },
+  {
+   "ticker": "CALAMOS AKSIA HEDGED STRATEGIES FUND (CIK 2063706)",
+   "company": "Calamos Aksia Hedged Strategies Fund",
+   "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
+   "role": "10% owner",
+   "date": "2026-08-24",
+   "shares": 284586.108,
+   "price": 10.51,
+   "value": 2991000.0,
+   "acc": "0002125773-26-000010",
+   "filed": "2026-08-26"
   },
   {
    "ticker": "BABA",
@@ -4792,6 +4768,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "BXSY",
+   "company": "BEXIL INVESTMENT TRUST",
+   "insider": "Winmill William McCollum",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 800.0,
+   "price": 18.1,
+   "value": 14480.0,
+   "acc": "0001628873-26-000086",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4801,6 +4789,18 @@
    "price": 5.6381,
    "value": 43757.29,
    "acc": "0001628873-26-000085",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-26",
+   "shares": 50000.0,
+   "price": 22.89,
+   "value": 1144500.0,
+   "acc": "0001221359-26-000048",
    "filed": "2026-08-26"
   }
  ],
@@ -4891,6 +4891,11 @@
    "total_value": 64045.19
   },
   {
+   "ticker": "BXSY",
+   "insiders": 2,
+   "total_value": 59405.0
+  },
+  {
    "ticker": "CCAP",
    "insiders": 2,
    "total_value": 49045.0
@@ -4936,23 +4941,12 @@
    "total_value": 8061.01
   },
   {
-   "ticker": "MLCI",
-   "insiders": 2,
-   "total_value": 6226.94
-  },
-  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 2,
    "total_value": 877.09
   }
  ],
  "seen": [
-  "0001918704-26-023299",
-  "0001918704-26-023300",
-  "0001918704-26-023301",
-  "0001918704-26-023302",
-  "0001918704-26-023303",
-  "0001918704-26-023304",
   "0001918704-26-023307",
   "0001918704-26-023309",
   "0001918704-26-023310",
@@ -6189,6 +6183,8 @@
   "0001918704-26-024950",
   "0001918704-26-024951",
   "0001918704-26-024954",
+  "0001918704-26-024962",
+  "0001918704-26-024963",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7325,6 +7321,7 @@
   "0002047518-26-000010",
   "0002047535-26-000003",
   "0002047652-26-000002",
+  "0002047675-26-000004",
   "0002047774-26-000007",
   "0002047821-26-000007",
   "0002048260-26-000002",
@@ -7827,6 +7824,7 @@
   "0002125533-26-000015",
   "0002125562-26-000005",
   "0002125773-26-000005",
+  "0002125773-26-000010",
   "0002126940-26-000004",
   "0002127311-26-000006",
   "0002127484-26-000012",
@@ -7854,6 +7852,7 @@
   "0002131769-26-000004",
   "0002131770-26-000007",
   "0002132384-26-000006",
+  "0002133000-26-000008",
   "0002133005-26-000004",
   "0002133187-26-000002",
   "0002133188-26-000002",
@@ -7896,6 +7895,7 @@
   "0002142208-26-000015",
   "0002142262-26-000006",
   "0002142436-26-000004",
+  "0002142576-26-000001",
   "0002142615-26-000003",
   "0002142653-26-000004",
   "0002142755-26-000004",
