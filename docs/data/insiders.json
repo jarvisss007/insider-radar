@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-26 21:05 UTC",
+ "updated_utc": "2026-08-26 21:37 UTC",
  "purchases": [
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "JOHNSTON ROBERT B",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 206.0,
-   "price": 21.26,
-   "value": 4379.56,
-   "acc": "0001437749-26-028520",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "NAKA",
-   "company": "Nakamoto Inc.",
-   "insider": "Bailey David F",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-18",
-   "shares": 918.0,
-   "price": 5.0828,
-   "value": 4666.01,
-   "acc": "0001493152-26-039524",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "ADMQ",
-   "company": "ADM ENDEAVORS, INC.",
-   "insider": "Johnson Marc",
-   "role": "CEO",
-   "date": "2026-08-18",
-   "shares": 120000.0,
-   "price": 0.04,
-   "value": 4800.0,
-   "acc": "0001493152-26-039160",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "IDAI",
-   "company": "T Stamp Inc",
-   "insider": "Genner Gareth Neville",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-18",
-   "shares": 2000.0,
-   "price": 2.52,
-   "value": 5040.0,
-   "acc": "0001910573-26-000006",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "RVSB",
-   "company": "RIVERVIEW BANCORP INC",
-   "insider": "Carlson Bradley",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 5.07,
-   "value": 5070.0,
-   "acc": "0001629292-26-000002",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "NAKA",
-   "company": "Nakamoto Inc.",
-   "insider": "Bailey David F",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 5.0986,
-   "value": 5098.6,
-   "acc": "0001493152-26-039524",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "NAKA",
    "company": "Nakamoto Inc.",
@@ -3878,6 +3806,18 @@
    "filed": "2026-08-25"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-24",
+   "shares": 20000.0,
+   "price": 0.3576,
+   "value": 7152.0,
+   "acc": "0001683168-26-006735",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "SLNH",
    "company": "Soluna Holdings, Inc",
    "insider": "PICCHI MICHAEL",
@@ -4055,6 +3995,18 @@
    "price": 11.9996,
    "value": 50530.32,
    "acc": "0001213900-26-093824",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "HDSN",
+   "company": "HUDSON TECHNOLOGIES INC /NY",
+   "insider": "Hartree Partners, LP",
+   "role": "10% owner",
+   "date": "2026-08-24",
+   "shares": 9446.0,
+   "price": 5.5,
+   "value": 51953.0,
+   "acc": "0000921895-26-002318",
    "filed": "2026-08-26"
   },
   {
@@ -4394,6 +4346,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "UNB",
+   "company": "UNION BANKSHARES INC",
+   "insider": "Bugbee Dawn D",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 200.0,
+   "price": 23.8,
+   "value": 4760.0,
+   "acc": "0000706863-26-000075",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "HKHC",
    "company": "Horizon Kinetics Holding Corp",
    "insider": "Brennan Alice C",
@@ -4403,6 +4367,18 @@
    "price": 26.75,
    "value": 5350.0,
    "acc": "0001437749-26-028964",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 20000.0,
+   "price": 0.3524,
+   "value": 7048.0,
+   "acc": "0001683168-26-006735",
    "filed": "2026-08-26"
   },
   {
@@ -4611,6 +4587,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "HDSN",
+   "company": "HUDSON TECHNOLOGIES INC /NY",
+   "insider": "Hartree Partners, LP",
+   "role": "10% owner",
+   "date": "2026-08-25",
+   "shares": 91166.0,
+   "price": 5.4965,
+   "value": 501093.92,
+   "acc": "0000921895-26-002318",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "BRTMU",
    "company": "B&R Technology Merger Corp.",
    "insider": "B&R Technology Sponsor LLC (Cayman)",
@@ -4768,6 +4756,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 20000.0,
+   "price": 0.3595,
+   "value": 7190.0,
+   "acc": "0001683168-26-006735",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "Winmill William McCollum",
@@ -4886,14 +4886,14 @@
    "total_value": 96368.75
   },
   {
-   "ticker": "IDAI",
-   "insiders": 3,
-   "total_value": 64045.19
-  },
-  {
    "ticker": "BXSY",
    "insiders": 2,
    "total_value": 59405.0
+  },
+  {
+   "ticker": "IDAI",
+   "insiders": 3,
+   "total_value": 59005.19
   },
   {
    "ticker": "CCAP",
@@ -4901,14 +4901,14 @@
    "total_value": 49045.0
   },
   {
+   "ticker": "APCX",
+   "insiders": 2,
+   "total_value": 46818.0
+  },
+  {
    "ticker": "PHIO",
    "insiders": 2,
    "total_value": 27700.0
-  },
-  {
-   "ticker": "APCX",
-   "insiders": 2,
-   "total_value": 25428.0
   },
   {
    "ticker": "BRLT",
@@ -4931,11 +4931,6 @@
    "total_value": 15348.5
   },
   {
-   "ticker": "RVSB",
-   "insiders": 2,
-   "total_value": 10120.0
-  },
-  {
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 8061.01
@@ -4947,18 +4942,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023307",
-  "0001918704-26-023309",
-  "0001918704-26-023310",
-  "0001918704-26-023311",
-  "0001918704-26-023312",
-  "0001918704-26-023313",
-  "0001918704-26-023314",
-  "0001918704-26-023315",
-  "0001918704-26-023316",
-  "0001918704-26-023317",
-  "0001918704-26-023318",
-  "0001918704-26-023319",
   "0001918704-26-023320",
   "0001918704-26-023321",
   "0001918704-26-023331",
@@ -6185,6 +6168,9 @@
   "0001918704-26-024954",
   "0001918704-26-024962",
   "0001918704-26-024963",
+  "0001918704-26-024970",
+  "0001918704-26-024971",
+  "0001918704-26-024972",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7021,6 +7007,7 @@
   "0001999371-26-018756",
   "0001999371-26-018767",
   "0001999371-26-018768",
+  "0001999371-26-018791",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
@@ -7414,6 +7401,7 @@
   "0002060697-26-000014",
   "0002060697-26-000016",
   "0002060757-26-000051",
+  "0002060757-26-000052",
   "0002060774-26-000013",
   "0002061058-26-000005",
   "0002061058-26-000006",
@@ -7454,6 +7442,12 @@
   "0002064832-26-000272",
   "0002064832-26-000277",
   "0002064832-26-000278",
+  "0002064832-26-000299",
+  "0002064832-26-000300",
+  "0002064832-26-000301",
+  "0002064832-26-000302",
+  "0002064832-26-000303",
+  "0002064832-26-000304",
   "0002064953-26-000088",
   "0002065340-26-000017",
   "0002065340-26-000019",
@@ -7778,6 +7772,7 @@
   "0002117102-26-000004",
   "0002117905-26-000018",
   "0002117905-26-000020",
+  "0002117905-26-000022",
   "0002117999-26-000006",
   "0002118012-26-000003",
   "0002118402-26-000013",
