@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-26 21:37 UTC",
+ "updated_utc": "2026-08-26 21:52 UTC",
  "purchases": [
-  {
-   "ticker": "NAKA",
-   "company": "Nakamoto Inc.",
-   "insider": "Bailey David F",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 5.1089,
-   "value": 5108.9,
-   "acc": "0001493152-26-039524",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "NAKA",
-   "company": "Nakamoto Inc.",
-   "insider": "Bailey David F",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 5.1377,
-   "value": 5137.7,
-   "acc": "0001493152-26-039524",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "NAKA",
-   "company": "Nakamoto Inc.",
-   "insider": "Bailey David F",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 5.1499,
-   "value": 5149.9,
-   "acc": "0001493152-26-039524",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "ACV",
    "company": "Virtus Diversified Income & Convertible Fund",
@@ -4599,6 +4563,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "NPB",
+   "company": "NORTHPOINTE BANCSHARES INC",
+   "insider": "Williams Charles Alan",
+   "role": "CHAIRMAN & CEO",
+   "date": "2026-08-25",
+   "shares": 30000.0,
+   "price": 16.9475,
+   "value": 508425.0,
+   "acc": "0002057567-26-000006",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "BRTMU",
    "company": "B&R Technology Merger Corp.",
    "insider": "B&R Technology Sponsor LLC (Cayman)",
@@ -4792,6 +4768,30 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Sanche Jacques Wolf",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 4150.0,
+   "price": 45.02,
+   "value": 186833.0,
+   "acc": "0002035989-26-000074",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "NPB",
+   "company": "NORTHPOINTE BANCSHARES INC",
+   "insider": "Williams Charles Alan",
+   "role": "CHAIRMAN & CEO",
+   "date": "2026-08-26",
+   "shares": 48312.0,
+   "price": 16.9457,
+   "value": 818680.66,
+   "acc": "0002057567-26-000006",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4854,6 +4854,11 @@
    "ticker": "TISI",
    "insiders": 2,
    "total_value": 343560.0
+  },
+  {
+   "ticker": "AMRZ",
+   "insiders": 2,
+   "total_value": 341235.5
   },
   {
    "ticker": "CORZ",
@@ -4942,10 +4947,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023320",
-  "0001918704-26-023321",
-  "0001918704-26-023331",
-  "0001918704-26-023332",
   "0001918704-26-023333",
   "0001918704-26-023341",
   "0001918704-26-023342",
@@ -7256,6 +7257,7 @@
   "0002035931-26-000002",
   "0002035959-26-000005",
   "0002035989-26-000069",
+  "0002035989-26-000074",
   "0002036507-26-000007",
   "0002036536-26-000010",
   "0002036956-26-000014",
@@ -7362,6 +7364,7 @@
   "0002056453-26-000005",
   "0002056657-26-000002",
   "0002056949-26-000005",
+  "0002057567-26-000006",
   "0002057569-26-000026",
   "0002057569-26-000030",
   "0002058309-26-000016",
@@ -7752,6 +7755,7 @@
   "0002111580-26-000010",
   "0002111867-26-000011",
   "0002111867-26-000012",
+  "0002111904-26-000003",
   "0002111929-26-000016",
   "0002112008-26-000011",
   "0002112189-26-000013",
@@ -7835,6 +7839,7 @@
   "0002128786-26-000006",
   "0002129321-26-000013",
   "0002129863-26-000008",
+  "0002130035-26-000002",
   "0002130384-26-000004",
   "0002130394-26-000019",
   "0002130454-26-000004",
