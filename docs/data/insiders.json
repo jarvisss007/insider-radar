@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-25 18:07 UTC",
+ "updated_utc": "2026-08-26 03:12 UTC",
  "purchases": [
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-17",
-   "shares": 3639.0,
-   "price": 3.865,
-   "value": 14064.74,
-   "acc": "0001325533-26-000004",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "ACON",
-   "company": "Aclarion, Inc.",
-   "insider": "Williams Amanda M",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 5857.0,
-   "price": 2.73,
-   "value": 15989.61,
-   "acc": "0001683168-26-006576",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "HUMA",
-   "company": "Humacyte, Inc.",
-   "insider": "Jones Keith Anthony",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 30000.0,
-   "price": 0.594,
-   "value": 17820.0,
-   "acc": "0001193125-26-356847",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Seger Andrew M",
-   "role": "Director",
-   "date": "2026-08-17",
-   "shares": 391.2539,
-   "price": 51.1177,
-   "value": 20000.0,
-   "acc": "0002081604-26-000009",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "GABC",
    "company": "GERMAN AMERICAN BANCORP, INC.",
@@ -4406,6 +4358,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 189300.0,
+   "price": 7.96,
+   "value": 1506828.0,
+   "acc": "0001140361-26-034358",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "EBRCZ",
    "company": "EBR Systems, Inc.",
    "insider": "Host-Plus Pty Ltd as trustee for the HOSTPLUS Pooled Superannuation Trust",
@@ -4754,6 +4718,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-24",
+   "shares": 233624.0,
+   "price": 8.84,
+   "value": 2065236.16,
+   "acc": "0001140361-26-034358",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd",
    "insider": "Wu Yongming",
@@ -4790,6 +4766,30 @@
    "filed": "2026-08-25"
   },
   {
+   "ticker": "TTMI",
+   "company": "TTM TECHNOLOGIES INC",
+   "insider": "Roks Edwin",
+   "role": "President and CEO",
+   "date": "2026-08-25",
+   "shares": 10000.0,
+   "price": 111.77,
+   "value": 1117700.0,
+   "acc": "0001193125-26-365628",
+   "filed": "2026-08-25"
+  },
+  {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-25",
+   "shares": 233624.0,
+   "price": 9.21,
+   "value": 2151677.04,
+   "acc": "0001140361-26-034358",
+   "filed": "2026-08-25"
+  },
+  {
    "ticker": "BABA",
    "company": "Alibaba Group Holding Ltd",
    "insider": "Tsai Joseph C",
@@ -4817,6 +4817,11 @@
    "ticker": "ODYS",
    "insiders": 3,
    "total_value": 3850000.0
+  },
+  {
+   "ticker": "TTMI",
+   "insiders": 2,
+   "total_value": 1642200.0
   },
   {
    "ticker": "IAUX",
@@ -4899,14 +4904,14 @@
    "total_value": 65310.19
   },
   {
-   "ticker": "GABC",
-   "insiders": 3,
-   "total_value": 60000.0
-  },
-  {
    "ticker": "CCAP",
    "insiders": 2,
    "total_value": 49045.0
+  },
+  {
+   "ticker": "GABC",
+   "insiders": 2,
+   "total_value": 40000.0
   },
   {
    "ticker": "PHIO",
@@ -4955,9 +4960,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023083",
-  "0001918704-26-023086",
-  "0001918704-26-023087",
   "0001918704-26-023088",
   "0001918704-26-023089",
   "0001918704-26-023091",
@@ -6399,6 +6401,7 @@
   "0001964493-26-000008",
   "0001964513-26-000004",
   "0001964741-26-000004",
+  "0001964789-26-000038",
   "0001965040-26-000103",
   "0001965040-26-000116",
   "0001965040-26-000134",
@@ -7395,6 +7398,7 @@
   "0002056657-26-000002",
   "0002056949-26-000005",
   "0002057569-26-000026",
+  "0002057569-26-000030",
   "0002058309-26-000016",
   "0002058452-26-000006",
   "0002058648-26-000006",
@@ -7690,6 +7694,7 @@
   "0002087126-26-000006",
   "0002087127-26-000004",
   "0002087387-26-000002",
+  "0002087850-26-000008",
   "0002088410-26-000008",
   "0002088549-26-000007",
   "0002088880-26-000006",
