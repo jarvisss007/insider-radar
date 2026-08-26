@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-26 20:34 UTC",
+ "updated_utc": "2026-08-26 20:49 UTC",
  "purchases": [
-  {
-   "ticker": "ARLP",
-   "company": "ALLIANCE RESOURCE PARTNERS LP",
-   "insider": "McDaniel Ronna R.",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 69.74,
-   "price": 25.81,
-   "value": 1799.99,
-   "acc": "0002047319-26-000002",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-18",
-   "shares": 756.0,
-   "price": 2.8,
-   "value": 2116.8,
-   "acc": "0001437749-26-028482",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "ICU",
-   "company": "SeaStar Medical Holding Corp",
-   "insider": "Messinger Michael",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-18",
-   "shares": 750.0,
-   "price": 3.27,
-   "value": 2452.5,
-   "acc": "0001437749-26-028540",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "NRDE",
    "company": "Stark Novus Financial Inc.",
@@ -4538,6 +4502,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-25",
+   "shares": 7547.0,
+   "price": 5.6572,
+   "value": 42694.89,
+   "acc": "0001628873-26-000085",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "SEIDMAN LAWRENCE B",
@@ -4732,6 +4708,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "NGL",
+   "company": "NGL Energy Partners LP",
+   "insider": "RAYMOND JOHN T",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 300000.0,
+   "price": 16.98,
+   "value": 5094000.0,
+   "acc": "0001186173-26-000004",
+   "filed": "2026-08-26"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4801,6 +4789,18 @@
    "price": 4.4875,
    "value": 2243.75,
    "acc": "0001628280-26-059102",
+   "filed": "2026-08-26"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL & CO. INC",
+   "role": "",
+   "date": "2026-08-26",
+   "shares": 7761.0,
+   "price": 5.6381,
+   "value": 43757.29,
+   "acc": "0001628873-26-000085",
    "filed": "2026-08-26"
   }
  ],
@@ -4911,14 +4911,14 @@
    "total_value": 25228.22
   },
   {
-   "ticker": "RCG",
-   "insiders": 2,
-   "total_value": 18954.4
-  },
-  {
    "ticker": "HKHC",
    "insiders": 2,
    "total_value": 17399.0
+  },
+  {
+   "ticker": "RCG",
+   "insiders": 2,
+   "total_value": 16837.6
   },
   {
    "ticker": "BY",
@@ -4947,14 +4947,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023291",
-  "0001918704-26-023292",
-  "0001918704-26-023293",
-  "0001918704-26-023294",
-  "0001918704-26-023295",
-  "0001918704-26-023296",
-  "0001918704-26-023297",
-  "0001918704-26-023298",
   "0001918704-26-023299",
   "0001918704-26-023300",
   "0001918704-26-023301",
@@ -6190,6 +6182,13 @@
   "0001918704-26-024943",
   "0001918704-26-024944",
   "0001918704-26-024945",
+  "0001918704-26-024946",
+  "0001918704-26-024947",
+  "0001918704-26-024948",
+  "0001918704-26-024949",
+  "0001918704-26-024950",
+  "0001918704-26-024951",
+  "0001918704-26-024954",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7739,6 +7738,7 @@
   "0002104172-26-000010",
   "0002104631-26-000012",
   "0002104631-26-000013",
+  "0002104636-26-000005",
   "0002104954-26-000001",
   "0002105635-26-000006",
   "0002105635-26-000008",
