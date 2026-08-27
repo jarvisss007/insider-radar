@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-27 15:59 UTC",
+ "updated_utc": "2026-08-27 16:14 UTC",
  "purchases": [
-  {
-   "ticker": "BRLT",
-   "company": "Brilliant Earth Group, Inc.",
-   "insider": "Grossberg Eric Scott",
-   "role": "Executive Chairman",
-   "date": "2026-08-18",
-   "shares": 9619.0,
-   "price": 1.27,
-   "value": 12216.13,
-   "acc": "0001628280-26-058094",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
@@ -4612,6 +4600,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-26",
+   "shares": 1.0,
+   "price": 375.0,
+   "value": 375.0,
+   "acc": "0001437749-26-029078",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Staloch Alison",
@@ -4926,11 +4926,6 @@
    "total_value": 17399.0
   },
   {
-   "ticker": "BRLT",
-   "insiders": 2,
-   "total_value": 16731.97
-  },
-  {
    "ticker": "BY",
    "insiders": 2,
    "total_value": 15348.5
@@ -4939,6 +4934,11 @@
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 8061.01
+  },
+  {
+   "ticker": "BRLT",
+   "insiders": 2,
+   "total_value": 4515.84
   },
   {
    "ticker": "YORW",
@@ -4952,8 +4952,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023495",
-  "0001918704-26-023501",
   "0001918704-26-023502",
   "0001918704-26-023503",
   "0001918704-26-023504",
@@ -6130,6 +6128,8 @@
   "0001918704-26-025071",
   "0001918704-26-025072",
   "0001918704-26-025073",
+  "0001918704-26-025074",
+  "0001918704-26-025075",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
