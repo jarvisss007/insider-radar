@@ -1,126 +1,6 @@
 {
- "updated_utc": "2026-08-27 20:25 UTC",
+ "updated_utc": "2026-08-27 20:41 UTC",
  "purchases": [
-  {
-   "ticker": "TISI",
-   "company": "TEAM INC",
-   "insider": "Horton Anthony R",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 2000.0,
-   "price": 22.71,
-   "value": 45420.0,
-   "acc": "0001699604-26-000008",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "LIN",
-   "company": "LINDE PLC",
-   "insider": "Reynolds Paula Rosput",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 100.0,
-   "price": 479.115,
-   "value": 47911.5,
-   "acc": "0001628280-26-057911",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "NVRI",
-   "company": "Enviri Corp",
-   "insider": "Minan Peter Francis",
-   "role": "Executive Vice President & CFO",
-   "date": "2026-08-18",
-   "shares": 2439.0,
-   "price": 20.43,
-   "value": 49828.77,
-   "acc": "0002104052-26-000134",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "Heshmatpour Amir F",
-   "role": "CEO, President",
-   "date": "2026-08-18",
-   "shares": 9000.0,
-   "price": 5.54,
-   "value": 49860.0,
-   "acc": "0001213900-26-091150",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-18",
-   "shares": 12815.0,
-   "price": 3.998,
-   "value": 51234.37,
-   "acc": "0001325533-26-000004",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "CHEN THOMAS C",
-   "role": "CEO",
-   "date": "2026-08-18",
-   "shares": 12757.0,
-   "price": 5.487,
-   "value": 69997.66,
-   "acc": "0001213900-26-092277",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yuan Lipen",
-   "role": "VP",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 74.5,
-   "value": 74500.0,
-   "acc": "0001046179-26-000543",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks William J.",
-   "role": "Founder & President",
-   "date": "2026-08-18",
-   "shares": 4000.0,
-   "price": 19.56,
-   "value": 78240.0,
-   "acc": "0000950103-26-012589",
-   "filed": "2026-08-18"
-  },
-  {
-   "ticker": "AAT",
-   "company": "American Assets Trust, Inc.",
-   "insider": "RADY ERNEST S",
-   "role": "Executive Chairman",
-   "date": "2026-08-18",
-   "shares": 3586.0,
-   "price": 22.69,
-   "value": 81366.34,
-   "acc": "0001221359-26-000042",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "ELAN",
-   "company": "Elanco Animal Health Inc",
-   "insider": "O'Neill Shiv",
-   "role": "GC AND CORP SEC",
-   "date": "2026-08-18",
-   "shares": 3998.0,
-   "price": 23.58,
-   "value": 94272.84,
-   "acc": "0002001171-26-000006",
-   "filed": "2026-08-18"
-  },
   {
    "ticker": "WW",
    "company": "WW INTERNATIONAL, INC.",
@@ -4070,6 +3950,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "SNFI",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ESOPUS CREEK VALUE SERIES FUND LP - SERIES A",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 9000.0,
+   "price": 1.83,
+   "value": 16470.0,
+   "acc": "0001013594-26-000955",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "SEIDMAN LAWRENCE B",
@@ -4104,6 +3996,18 @@
    "value": 20260.8,
    "acc": "0001628280-26-059096",
    "filed": "2026-08-26"
+  },
+  {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-25",
+   "shares": 2039.0,
+   "price": 15.233,
+   "value": 31060.09,
+   "acc": "0001493152-26-040407",
+   "filed": "2026-08-27"
   },
   {
    "ticker": "FCCO",
@@ -4372,6 +4276,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "WELL",
+   "company": "WELLTOWER INC.",
+   "insider": "Gundlach Andrew",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 2500.0,
+   "price": 239.47,
+   "value": 598675.0,
+   "acc": "0001193125-26-371418",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4541,6 +4457,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-26",
+   "shares": 87.0,
+   "price": 15.25,
+   "value": 1326.75,
+   "acc": "0001493152-26-040407",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "GNSS",
    "company": "Genasys Inc.",
    "insider": "Malhotra R. Rimmy",
@@ -4601,6 +4529,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-08-26",
+   "shares": 325.0,
+   "price": 15.2957,
+   "value": 4971.1,
+   "acc": "0001493152-26-040407",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -4611,6 +4551,18 @@
    "value": 7190.0,
    "acc": "0001683168-26-006735",
    "filed": "2026-08-26"
+  },
+  {
+   "ticker": "MSIF",
+   "company": "MSC INCOME FUND, INC.",
+   "insider": "Marks Nataly Michelle",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 950.0,
+   "price": 12.7,
+   "value": 12065.0,
+   "acc": "0002108262-26-000006",
+   "filed": "2026-08-27"
   },
   {
    "ticker": "HKHC",
@@ -4673,6 +4625,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "IPGP",
+   "company": "IPG PHOTONICS CORP",
+   "insider": "PEELER JOHN R",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 1158.0,
+   "price": 74.57,
+   "value": 86352.06,
+   "acc": "0001111928-26-000163",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "SCOR",
    "company": "COMSCORE, INC.",
    "insider": "McLaughlin Matthew F.",
@@ -4694,6 +4658,18 @@
    "price": 22.0175,
    "value": 110087.5,
    "acc": "0001437749-26-029090",
+   "filed": "2026-08-27"
+  },
+  {
+   "ticker": "IPGP",
+   "company": "IPG PHOTONICS CORP",
+   "insider": "PEELER JOHN R",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 1552.0,
+   "price": 72.84,
+   "value": 113047.68,
+   "acc": "0001111928-26-000163",
    "filed": "2026-08-27"
   },
   {
@@ -4743,6 +4719,18 @@
    "value": 511000.0,
    "acc": "0001493152-26-040281",
    "filed": "2026-08-26"
+  },
+  {
+   "ticker": "WELL",
+   "company": "WELLTOWER INC.",
+   "insider": "Gundlach Andrew",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 2500.0,
+   "price": 242.06,
+   "value": 605150.0,
+   "acc": "0001193125-26-371418",
+   "filed": "2026-08-27"
   },
   {
    "ticker": "NPB",
@@ -4803,6 +4791,18 @@
    "value": 53535.0,
    "acc": "0002014440-26-000012",
    "filed": "2026-08-27"
+  },
+  {
+   "ticker": "RDVT",
+   "company": "Red Violet, Inc.",
+   "insider": "LIVEK WILLIAM PAUL",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 2000.0,
+   "price": 71.49,
+   "value": 142980.0,
+   "acc": "0001193125-26-371390",
+   "filed": "2026-08-27"
   }
  ],
  "clusters": [
@@ -4858,14 +4858,14 @@
    "total_value": 458655.66
   },
   {
-   "ticker": "TISI",
-   "insiders": 2,
-   "total_value": 343560.0
-  },
-  {
    "ticker": "AMRZ",
    "insiders": 2,
    "total_value": 341235.5
+  },
+  {
+   "ticker": "TISI",
+   "insiders": 2,
+   "total_value": 298140.0
   },
   {
    "ticker": "CORZ",
@@ -4886,11 +4886,6 @@
    "ticker": "SCOR",
    "insiders": 2,
    "total_value": 142230.0
-  },
-  {
-   "ticker": "NTHI",
-   "insiders": 2,
-   "total_value": 119857.66
   },
   {
    "ticker": "DGXX",
@@ -4959,17 +4954,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023597",
-  "0001918704-26-023602",
-  "0001918704-26-023603",
-  "0001918704-26-023605",
-  "0001918704-26-023606",
-  "0001918704-26-023607",
-  "0001918704-26-023608",
-  "0001918704-26-023610",
-  "0001918704-26-023611",
-  "0001918704-26-023612",
-  "0001918704-26-023613",
   "0001918704-26-023625",
   "0001918704-26-023652",
   "0001918704-26-023654",
@@ -6120,6 +6104,10 @@
   "0001918704-26-025155",
   "0001918704-26-025156",
   "0001918704-26-025157",
+  "0001918704-26-025158",
+  "0001918704-26-025159",
+  "0001918704-26-025160",
+  "0001918704-26-025161",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6994,6 +6982,7 @@
   "0001999371-26-018939",
   "0001999371-26-018958",
   "0001999371-26-018962",
+  "0001999371-26-018980",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
@@ -7045,6 +7034,7 @@
   "0002008790-26-000006",
   "0002008989-26-000008",
   "0002009110-26-000003",
+  "0002009110-26-000005",
   "0002009679-26-000008",
   "0002009681-26-000008",
   "0002009786-26-000008",
@@ -7263,6 +7253,7 @@
   "0002038003-26-000006",
   "0002038202-26-000014",
   "0002038202-26-000016",
+  "0002038311-26-000003",
   "0002038468-26-000012",
   "0002038687-26-000007",
   "0002039219-26-000008",
@@ -7295,6 +7286,7 @@
   "0002045458-26-000037",
   "0002045482-26-000008",
   "0002045818-26-000005",
+  "0002045846-26-000007",
   "0002045848-26-000007",
   "0002046471-26-000001",
   "0002046701-26-000009",
@@ -7702,6 +7694,7 @@
   "0002094759-26-000002",
   "0002095744-26-000010",
   "0002095744-26-000012",
+  "0002095816-26-000020",
   "0002096121-26-000008",
   "0002096196-26-000006",
   "0002096532-26-000002",
@@ -7738,6 +7731,7 @@
   "0002106873-26-000012",
   "0002107246-26-000012",
   "0002107955-26-000006",
+  "0002108262-26-000006",
   "0002108589-26-000018",
   "0002109272-26-000008",
   "0002109337-26-000010",
@@ -7933,6 +7927,7 @@
   "0002146717-26-000004",
   "0002146761-26-000002",
   "0002146784-26-000004",
+  "0002146790-26-000006",
   "0002146822-26-000005",
   "0002147092-26-000005",
   "0002147189-26-000006",
