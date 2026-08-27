@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-27 17:17 UTC",
+ "updated_utc": "2026-08-27 17:33 UTC",
  "purchases": [
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 1300.0,
-   "price": 9.75,
-   "value": 12675.0,
-   "acc": "0001104659-26-099299",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
@@ -4696,6 +4684,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "HKHC",
+   "company": "Horizon Kinetics Holding Corp",
+   "insider": "Roller Daniel J",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 500.0,
+   "price": 26.5,
+   "value": 13250.0,
+   "acc": "0001437749-26-029086",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "Winmill William McCollum",
@@ -4916,14 +4916,14 @@
    "total_value": 39736.0
   },
   {
+   "ticker": "HKHC",
+   "insiders": 3,
+   "total_value": 30649.0
+  },
+  {
    "ticker": "RCG",
    "insiders": 2,
    "total_value": 19067.8
-  },
-  {
-   "ticker": "HKHC",
-   "insiders": 2,
-   "total_value": 17399.0
   },
   {
    "ticker": "BY",
@@ -4952,10 +4952,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023525",
-  "0001918704-26-023526",
-  "0001918704-26-023527",
-  "0001918704-26-023528",
   "0001918704-26-023529",
   "0001918704-26-023530",
   "0001918704-26-023531",
@@ -6129,6 +6125,10 @@
   "0001918704-26-025095",
   "0001918704-26-025096",
   "0001918704-26-025097",
+  "0001918704-26-025098",
+  "0001918704-26-025099",
+  "0001918704-26-025100",
+  "0001918704-26-025101",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
