@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-27 11:16 UTC",
+ "updated_utc": "2026-08-27 11:32 UTC",
  "purchases": [
-  {
-   "ticker": "SKYH",
-   "company": "Sky Harbour Group Corp",
-   "insider": "Gonzalez Francisco",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-18",
-   "shares": 1000.0,
-   "price": 10.05,
-   "value": 10050.0,
-   "acc": "0001437749-26-028472",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
@@ -4756,6 +4744,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "SCOR",
+   "company": "COMSCORE, INC.",
+   "insider": "McLaughlin Matthew F.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-26",
+   "shares": 20000.0,
+   "price": 5.26,
+   "value": 105200.0,
+   "acc": "0001853874-26-000012",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "AMRZ",
    "company": "Amrize Ltd",
    "insider": "Sanche Jacques Wolf",
@@ -4874,6 +4874,11 @@
    "ticker": "AIAI",
    "insiders": 4,
    "total_value": 189866.0
+  },
+  {
+   "ticker": "SCOR",
+   "insiders": 2,
+   "total_value": 142230.0
   },
   {
    "ticker": "NTHI",
