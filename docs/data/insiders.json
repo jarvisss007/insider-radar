@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-27 19:37 UTC",
+ "updated_utc": "2026-08-27 20:09 UTC",
  "purchases": [
-  {
-   "ticker": "FGL",
-   "company": "Founder Group Ltd",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-18",
-   "shares": 61617.0,
-   "price": 0.381,
-   "value": 23476.08,
-   "acc": "0001475597-26-000208",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "GAIN",
-   "company": "GLADSTONE INVESTMENT CORPORATION\\DE",
-   "insider": "Ritchie Taylor",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-18",
-   "shares": 1500.0,
-   "price": 16.2,
-   "value": 24300.0,
-   "acc": "0002045064-26-000004",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yuan Lipen",
-   "role": "VP",
-   "date": "2026-08-18",
-   "shares": 350.0,
-   "price": 73.58,
-   "value": 25753.0,
-   "acc": "0001046179-26-000543",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-18",
-   "shares": 6894.0,
-   "price": 3.998,
-   "value": 27562.21,
-   "acc": "0001325533-26-000004",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "SRI",
    "company": "STONERIDGE INC",
@@ -4298,6 +4250,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "VENU",
+   "company": "Venu Holding Corp",
+   "insider": "Finke Thomas M",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 54644.0,
+   "price": 1.949,
+   "value": 106501.16,
+   "acc": "0001493152-26-040391",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "PRE",
    "company": "Prenetics Global Ltd",
    "insider": "Rosin Brian J",
@@ -4684,6 +4648,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-26",
+   "shares": 3500.0,
+   "price": 7.1893,
+   "value": 25162.55,
+   "acc": "0000905148-26-003965",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL & CO. INC",
@@ -4792,6 +4768,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "IMTX",
+   "company": "Immatics N.V.",
+   "insider": "PERCEPTIVE ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 863060.0,
+   "price": 8.69,
+   "value": 7499991.4,
+   "acc": "0001193125-26-371237",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "YORW",
    "company": "YORK WATER CO",
    "insider": "Poff Matthew E",
@@ -4801,6 +4789,18 @@
    "price": 34.19,
    "value": 1025.7,
    "acc": "0000108985-26-000077",
+   "filed": "2026-08-27"
+  },
+  {
+   "ticker": "INDV",
+   "company": "Indivior Pharmaceuticals, Inc.",
+   "insider": "Anderson Woodrow D",
+   "role": "Chief Accounting Officer",
+   "date": "2026-08-27",
+   "shares": 1500.0,
+   "price": 35.69,
+   "value": 53535.0,
+   "acc": "0002014440-26-000012",
    "filed": "2026-08-27"
   }
  ],
@@ -4891,6 +4891,11 @@
    "total_value": 110600.0
   },
   {
+   "ticker": "VENU",
+   "insiders": 2,
+   "total_value": 108418.76
+  },
+  {
    "ticker": "GEVO",
    "insiders": 2,
    "total_value": 96368.75
@@ -4952,13 +4957,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023570",
-  "0001918704-26-023571",
-  "0001918704-26-023572",
-  "0001918704-26-023573",
-  "0001918704-26-023574",
-  "0001918704-26-023575",
-  "0001918704-26-023576",
   "0001918704-26-023577",
   "0001918704-26-023578",
   "0001918704-26-023579",
@@ -6121,6 +6119,10 @@
   "0001918704-26-025134",
   "0001918704-26-025137",
   "0001918704-26-025138",
+  "0001918704-26-025146",
+  "0001918704-26-025147",
+  "0001918704-26-025148",
+  "0001918704-26-025149",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6341,6 +6343,7 @@
   "0001969292-26-000009",
   "0001970357-26-000014",
   "0001970613-26-000004",
+  "0001970614-26-000008",
   "0001971363-26-000006",
   "0001971511-26-000004",
   "0001971797-26-000010",
@@ -7090,6 +7093,7 @@
   "0002014386-26-000006",
   "0002014386-26-000008",
   "0002014440-26-000010",
+  "0002014440-26-000012",
   "0002014560-26-000008",
   "0002014632-26-000014",
   "0002014632-26-000016",
@@ -7640,6 +7644,7 @@
   "0002083230-26-000006",
   "0002083536-26-000011",
   "0002083591-26-000005",
+  "0002083591-26-000007",
   "0002083595-26-000006",
   "0002083617-26-000012",
   "0002083724-26-000005",
