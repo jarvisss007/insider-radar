@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-27 21:44 UTC",
+ "updated_utc": "2026-08-27 22:17 UTC",
  "purchases": [
-  {
-   "ticker": "UTGN",
-   "company": "UTG INC",
-   "insider": "FIRST SOUTHERN FUNDING LLC",
-   "role": "10% owner",
-   "date": "2026-08-18",
-   "shares": 4808.0,
-   "price": 59.0,
-   "value": 283672.0,
-   "acc": "0000832480-26-000025",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "GLPI",
-   "company": "Gaming & Leisure Properties, Inc.",
-   "insider": "SHANKS EARL C",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 10000.0,
-   "price": 42.24,
-   "value": 422400.0,
-   "acc": "0001575965-26-000065",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "ATXG",
-   "company": "ADDENTAX GROUP CORP.",
-   "insider": "HONG ZHIWANG",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 218750.0,
-   "price": 4.8,
-   "value": 1050000.0,
-   "acc": "0001493152-26-039156",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-18",
-   "shares": 189300.0,
-   "price": 6.73,
-   "value": 1273989.0,
-   "acc": "0001140361-26-033922",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -4096,6 +4048,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "KDP",
+   "company": "Keurig Dr Pepper Inc.",
+   "insider": "Alt Aaron E",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 7862.0,
+   "price": 31.83,
+   "value": 250247.46,
+   "acc": "0001741576-26-000008",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "LDI",
    "company": "loanDepot, Inc.",
    "insider": "Hsieh Anthony Li",
@@ -4507,6 +4471,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "DFH",
+   "company": "Dream Finders Homes, Inc.",
+   "insider": "Sturm Len",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 1000.0,
+   "price": 14.72,
+   "value": 14720.0,
+   "acc": "0000897069-26-001721",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "BMRA",
    "company": "BIOMERICA INC",
    "insider": "MOATAZEDI DAVID",
@@ -4808,6 +4784,31 @@
    "value": 170000.0,
    "acc": "0001628280-26-059280",
    "filed": "2026-08-27"
+  },
+  {
+   "ticker": "SGI",
+   "company": "SOMNIGROUP INTERNATIONAL INC.",
+   "insider": "THOMPSON SCOTT L",
+   "role": "CEO & PRESIDENT",
+   "date": "2026-08-27",
+   "shares": 30000.0,
+   "price": 62.8438,
+   "value": 1885314.0,
+   "acc": "0001206399-26-000007",
+   "filed": "2026-08-27"
+  },
+  {
+   "ticker": "JTTT",
+   "company": "JATT III Acquisition Corp",
+   "insider": "JATT Ventures III L.P.",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 234000.0,
+   "price": 10.0,
+   "value": 2340000.0,
+   "acc": "0001213900-26-094460",
+   "filed": "2026-08-27",
+   "placement": true
   }
  ],
  "clusters": [
@@ -4960,12 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023695",
-  "0001918704-26-023696",
-  "0001918704-26-023697",
-  "0001918704-26-023698",
-  "0001918704-26-023699",
-  "0001918704-26-023700",
   "0001918704-26-023701",
   "0001918704-26-023702",
   "0001918704-26-023703",
@@ -6126,6 +6121,7 @@
   "0001923231-26-000005",
   "0001923231-26-000007",
   "0001924278-26-000005",
+  "0001924412-26-000004",
   "0001924581-26-000005",
   "0001924613-26-000035",
   "0001924613-26-000037",
@@ -6228,6 +6224,7 @@
   "0001950787-26-000009",
   "0001950787-26-000012",
   "0001950787-26-000014",
+  "0001950787-26-000016",
   "0001951059-26-000013",
   "0001951288-26-000004",
   "0001951665-26-000018",
@@ -7872,11 +7869,15 @@
   "0002134547-26-000003",
   "0002134641-26-000006",
   "0002134882-26-000006",
+  "0002135290-26-000005",
+  "0002135506-26-000005",
   "0002135516-26-000004",
   "0002135736-26-000004",
   "0002135960-26-000002",
+  "0002136171-26-000005",
   "0002136215-26-000006",
   "0002136327-26-000005",
+  "0002136747-26-000005",
   "0002136887-26-000002",
   "0002137016-26-000004",
   "0002137024-26-000012",
