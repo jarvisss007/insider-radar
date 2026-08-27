@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-27 21:29 UTC",
+ "updated_utc": "2026-08-27 21:44 UTC",
  "purchases": [
-  {
-   "ticker": "PSUS",
-   "company": "Pershing Square USA, Ltd.",
-   "insider": "POLSKY LISA",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 6177.0,
-   "price": 39.45,
-   "value": 243682.65,
-   "acc": "0001193125-26-358101",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-08-18",
-   "shares": 86983.0,
-   "price": 3.1485,
-   "value": 273865.98,
-   "acc": "0001539497-26-002324",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "UTGN",
-   "company": "UTG INC",
-   "insider": "CORRELL JESSE T",
-   "role": "Chairman & CEO",
-   "date": "2026-08-18",
-   "shares": 4808.0,
-   "price": 59.0,
-   "value": 283672.0,
-   "acc": "0000832480-26-000024",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "UTGN",
    "company": "UTG INC",
@@ -3783,6 +3747,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Colonna Bernardino",
+   "role": "President",
+   "date": "2026-08-25",
+   "shares": 400.0,
+   "price": 10.175,
+   "value": 4070.0,
+   "acc": "0001193125-26-371636",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "UNB",
    "company": "UNION BANKSHARES INC",
    "insider": "Bugbee Dawn D",
@@ -4446,6 +4422,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Colonna Bernardino",
+   "role": "President",
+   "date": "2026-08-26",
+   "shares": 600.0,
+   "price": 10.156,
+   "value": 6093.6,
+   "acc": "0001193125-26-371636",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -4764,6 +4752,18 @@
   {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
+   "insider": "Colonna Bernardino",
+   "role": "President",
+   "date": "2026-08-27",
+   "shares": 600.0,
+   "price": 10.1767,
+   "value": 6106.02,
+   "acc": "0001193125-26-371636",
+   "filed": "2026-08-27"
+  },
+  {
+   "ticker": "LIEN",
+   "company": "Chicago Atlantic BDC, Inc.",
    "insider": "Gordon Scott",
    "role": "Co-Chief Investment Officer",
    "date": "2026-08-27",
@@ -4847,11 +4847,6 @@
    "total_value": 807794.1
   },
   {
-   "ticker": "UTGN",
-   "insiders": 2,
-   "total_value": 567344.0
-  },
-  {
    "ticker": "MAIR",
    "insiders": 2,
    "total_value": 556800.0,
@@ -4881,6 +4876,11 @@
    "ticker": "AIAI",
    "insiders": 4,
    "total_value": 189866.0
+  },
+  {
+   "ticker": "LIEN",
+   "insiders": 2,
+   "total_value": 185032.36
   },
   {
    "ticker": "SCOR",
@@ -4960,8 +4960,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023693",
-  "0001918704-26-023694",
   "0001918704-26-023695",
   "0001918704-26-023696",
   "0001918704-26-023697",
@@ -6123,6 +6121,7 @@
   "0001922054-26-000001",
   "0001922063-26-000003",
   "0001923149-26-000006",
+  "0001923149-26-000008",
   "0001923231-26-000003",
   "0001923231-26-000005",
   "0001923231-26-000007",
@@ -6479,6 +6478,7 @@
   "0001990865-26-000009",
   "0001991479-26-000007",
   "0001991569-26-000006",
+  "0001991569-26-000008",
   "0001991703-26-000004",
   "0001991958-26-000006",
   "0001992104-26-000282",
