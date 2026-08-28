@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-28 21:26 UTC",
+ "updated_utc": "2026-08-28 21:41 UTC",
  "purchases": [
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 12841.0,
-   "price": 3.48,
-   "value": 44686.68,
-   "acc": "0001628280-26-058037",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "SMRT",
    "company": "SmartRent, Inc.",
@@ -4799,6 +4787,19 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "RNAQ",
+   "company": "Rainier Acquisition Corp",
+   "insider": "GROSSMAN JONAS",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 194375.0,
+   "price": 10.0,
+   "value": 1943750.0,
+   "acc": "0001104659-26-103344",
+   "filed": "2026-08-28",
+   "placement": true
+  },
+  {
    "ticker": "BLACKSTONE PRIVATE EQUITY STRATEGIES FUND L.P. (CIK 1930054)",
    "company": "Blackstone Private Equity Strategies Fund L.P.",
    "insider": "Patel Viral",
@@ -4961,8 +4962,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024149",
-  "0001918704-26-024150",
   "0001918704-26-024151",
   "0001918704-26-024168",
   "0001918704-26-024169",
@@ -5990,6 +5989,7 @@
   "0001918704-26-025554",
   "0001918704-26-025555",
   "0001918704-26-025556",
+  "0001918704-26-025557",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7425,6 +7425,7 @@
   "0002067425-26-000002",
   "0002067544-26-000002",
   "0002067624-26-000008",
+  "0002067635-26-000002",
   "0002067754-26-000010",
   "0002068079-26-000005",
   "0002068080-26-000005",
