@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-28 15:03 UTC",
+ "updated_utc": "2026-08-28 15:19 UTC",
  "purchases": [
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 756.0,
-   "price": 2.88,
-   "value": 2177.28,
-   "acc": "0001437749-26-028620",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "MATW",
    "company": "MATTHEWS INTERNATIONAL CORP",
@@ -4654,6 +4642,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "Kesslen Jay H",
+   "role": "Vice-President",
+   "date": "2026-08-27",
+   "shares": 1000.0,
+   "price": 2.95,
+   "value": 2950.0,
+   "acc": "0001437749-26-029140",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
    "insider": "Colonna Bernardino",
@@ -4931,7 +4931,7 @@
   {
    "ticker": "RCG",
    "insiders": 2,
-   "total_value": 24240.44
+   "total_value": 25013.16
   },
   {
    "ticker": "BY",
@@ -4961,10 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023839",
-  "0001918704-26-023840",
-  "0001918704-26-023841",
-  "0001918704-26-023842",
   "0001918704-26-023843",
   "0001918704-26-023844",
   "0001918704-26-023845",
@@ -6963,6 +6959,10 @@
   "0001999371-26-019064",
   "0001999371-26-019069",
   "0001999371-26-019073",
+  "0001999371-26-019085",
+  "0001999371-26-019091",
+  "0001999371-26-019093",
+  "0001999371-26-019094",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
