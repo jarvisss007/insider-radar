@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-28 15:50 UTC",
+ "updated_utc": "2026-08-28 16:06 UTC",
  "purchases": [
-  {
-   "ticker": "AIJTY",
-   "company": "Jianpu Technology Inc.",
-   "insider": "Daqing Ye",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 4104.0,
-   "price": 0.926,
-   "value": 3800.3,
-   "acc": "0001104659-26-100504",
-   "filed": "2026-08-25"
-  },
   {
    "ticker": "BY",
    "company": "BYLINE BANCORP, INC.",
@@ -4690,6 +4678,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "NGL",
+   "company": "NGL Energy Partners LP",
+   "insider": "COLLINGSWORTH JAMES M",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 2289.0,
+   "price": 17.0,
+   "value": 38913.0,
+   "acc": "0001206714-26-000013",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "GRX",
    "company": "Gabelli Healthcare & WellnessRx Trust",
    "insider": "Saba Capital Management, L.P.",
@@ -4825,7 +4825,7 @@
   {
    "ticker": "NGL",
    "insiders": 2,
-   "total_value": 5711227.64
+   "total_value": 5750140.64
   },
   {
    "ticker": "ODYS",
@@ -4966,10 +4966,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023885",
-  "0001918704-26-023886",
-  "0001918704-26-023887",
-  "0001918704-26-023888",
   "0001918704-26-023889",
   "0001918704-26-023890",
   "0001918704-26-023891",
@@ -6045,6 +6041,10 @@
   "0001918704-26-025310",
   "0001918704-26-025311",
   "0001918704-26-025312",
+  "0001918704-26-025317",
+  "0001918704-26-025318",
+  "0001918704-26-025319",
+  "0001918704-26-025320",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
