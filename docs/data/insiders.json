@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-28 23:01 UTC",
+ "updated_utc": "2026-08-28 23:49 UTC",
  "purchases": [
-  {
-   "ticker": "ENHA",
-   "company": "Enhanced Group Inc.",
-   "insider": "Apeiron Investment Group Ltd.",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 55000.0,
-   "price": 1.6433,
-   "value": 90381.5,
-   "acc": "0001193125-26-357979",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "FCNCA",
-   "company": "FIRST CITIZENS BANCSHARES INC /DE/",
-   "insider": "Morais Diane E.",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 46.0,
-   "price": 2168.1319,
-   "value": 99734.07,
-   "acc": "0001193125-26-358811",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "ZWS",
-   "company": "Zurn Elkay Water Solutions Corp",
-   "insider": "Butler Jacques Donavon",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 2016.0,
-   "price": 49.6,
-   "value": 99993.6,
-   "acc": "0001439288-26-000129",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "RAIN",
-   "company": "Rain Enhancement Technologies Holdco, Inc.",
-   "insider": "Seidl Randy",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 110000.0,
-   "price": 0.9475,
-   "value": 104225.0,
-   "acc": "0001213900-26-092444",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "SENS",
-   "company": "Senseonics Holdings, Inc.",
-   "insider": "ROEDER DOUGLAS A",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 13953.2843,
-   "price": 8.98,
-   "value": 125300.49,
-   "acc": "0001270735-26-000014",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
@@ -3570,6 +3510,30 @@
    "placement": true
   },
   {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 8.0,
+   "price": 1.62,
+   "value": 12.96,
+   "acc": "0001493152-26-040671",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 100.0,
+   "price": 1.55,
+   "value": 155.0,
+   "acc": "0001493152-26-040671",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4330,6 +4294,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 308.0,
+   "price": 1.67,
+   "value": 514.36,
+   "acc": "0001493152-26-040671",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "SNBH",
    "company": "SENTIENT BRANDS HOLDINGS INC.",
    "insider": "Wyman Derek Michael",
@@ -4435,6 +4411,18 @@
    "price": 0.171,
    "value": 15928.82,
    "acc": "0001475597-26-000219",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 10000.0,
+   "price": 1.7,
+   "value": 17000.0,
+   "acc": "0001493152-26-040671",
    "filed": "2026-08-28"
   },
   {
@@ -4748,6 +4736,18 @@
    "price": 219.4076,
    "value": 51775366.63,
    "acc": "0001104659-26-103265",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "NRDE",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 232.0,
+   "price": 1.72,
+   "value": 399.04,
+   "acc": "0001493152-26-040671",
    "filed": "2026-08-28"
   },
   {
