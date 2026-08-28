@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-08-28 20:36 UTC",
+ "updated_utc": "2026-08-28 20:53 UTC",
  "purchases": [
-  {
-   "ticker": "CBAN",
-   "company": "COLONY BANKCORP INC",
-   "insider": "Canup Edward G",
-   "role": "CHIEF BANKING OFFICER",
-   "date": "2026-08-19",
-   "shares": 1000.0,
-   "price": 21.5,
-   "value": 21500.0,
-   "acc": "0002051327-26-000016",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "CBAN",
-   "company": "COLONY BANKCORP INC",
-   "insider": "Canup Edward G",
-   "role": "CHIEF BANKING OFFICER",
-   "date": "2026-08-19",
-   "shares": 1000.0,
-   "price": 21.75,
-   "value": 21750.0,
-   "acc": "0002051327-26-000016",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "CCAP",
-   "company": "Crescent Capital BDC, Inc.",
-   "insider": "Lombard Gerhard",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-19",
-   "shares": 2000.0,
-   "price": 10.91,
-   "value": 21820.0,
-   "acc": "0001193125-26-359278",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 3500.0,
-   "price": 7.1581,
-   "value": 25053.35,
-   "acc": "0000905148-26-003842",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "CCAP",
-   "company": "Crescent Capital BDC, Inc.",
-   "insider": "Chung Henry",
-   "role": "President",
-   "date": "2026-08-19",
-   "shares": 2500.0,
-   "price": 10.89,
-   "value": 27225.0,
-   "acc": "0001193125-26-361209",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 9260.0,
-   "price": 3.142,
-   "value": 29094.92,
-   "acc": "0001539497-26-002324",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "AIAI",
-   "company": "AIAI Holdings Corp",
-   "insider": "Affeldt Eric",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 5000.0,
-   "price": 5.96,
-   "value": 29800.0,
-   "acc": "0001493152-26-039510",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "OPTX",
    "company": "SYNTEC OPTICS HOLDINGS, INC.",
@@ -4414,6 +4330,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-26",
+   "shares": 12334.0,
+   "price": 220.8399,
+   "value": 2723839.33,
+   "acc": "0001104659-26-103265",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "IMTX",
    "company": "Immatics N.V.",
    "insider": "PERCEPTIVE ADVISORS LLC",
@@ -4435,6 +4363,30 @@
    "price": 14.3669,
    "value": 9949164.45,
    "acc": "0002097107-26-000004",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-26",
+   "shares": 52068.0,
+   "price": 222.1843,
+   "value": 11568692.13,
+   "acc": "0001104659-26-103265",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-26",
+   "shares": 211098.0,
+   "price": 221.4312,
+   "value": 46743683.46,
+   "acc": "0001104659-26-103265",
    "filed": "2026-08-28"
   },
   {
@@ -4750,6 +4702,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 1067.0,
+   "price": 221.0568,
+   "value": 235867.61,
+   "acc": "0001104659-26-103265",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "RGNX",
    "company": "REGENXBIO Inc.",
    "insider": "Ciongoli Gregory Austin",
@@ -4799,6 +4763,30 @@
    "placement": true
   },
   {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 47555.0,
+   "price": 220.0476,
+   "value": 10464363.62,
+   "acc": "0001104659-26-103265",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "RSG",
+   "company": "REPUBLIC SERVICES, INC.",
+   "insider": "CASCADE INVESTMENT, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 235978.0,
+   "price": 219.4076,
+   "value": 51775366.63,
+   "acc": "0001104659-26-103265",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4808,6 +4796,18 @@
    "price": 22.52,
    "value": 1126000.0,
    "acc": "0001221359-26-000053",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "BLACKSTONE PRIVATE EQUITY STRATEGIES FUND L.P. (CIK 1930054)",
+   "company": "Blackstone Private Equity Strategies Fund L.P.",
+   "insider": "Patel Viral",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-28",
+   "shares": 51083.611,
+   "price": 39.1515,
+   "value": 2000000.0,
+   "acc": "0001193125-26-374650",
    "filed": "2026-08-28"
   }
  ],
@@ -4880,8 +4880,8 @@
   },
   {
    "ticker": "AIAI",
-   "insiders": 3,
-   "total_value": 181441.0
+   "insiders": 2,
+   "total_value": 151641.0
   },
   {
    "ticker": "SCOR",
@@ -4912,11 +4912,6 @@
    "ticker": "CBU",
    "insiders": 2,
    "total_value": 50276.9
-  },
-  {
-   "ticker": "CCAP",
-   "insiders": 2,
-   "total_value": 49045.0
   },
   {
    "ticker": "IDAI",
@@ -4966,15 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024095",
-  "0001918704-26-024096",
-  "0001918704-26-024097",
-  "0001918704-26-024098",
-  "0001918704-26-024099",
-  "0001918704-26-024100",
-  "0001918704-26-024101",
-  "0001918704-26-024102",
-  "0001918704-26-024103",
   "0001918704-26-024104",
   "0001918704-26-024105",
   "0001918704-26-024106",
@@ -6014,6 +6000,12 @@
   "0001918704-26-025517",
   "0001918704-26-025518",
   "0001918704-26-025519",
+  "0001918704-26-025527",
+  "0001918704-26-025528",
+  "0001918704-26-025529",
+  "0001918704-26-025530",
+  "0001918704-26-025531",
+  "0001918704-26-025532",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6956,6 +6948,8 @@
   "0001999371-26-019194",
   "0001999371-26-019195",
   "0001999371-26-019197",
+  "0001999371-26-019205",
+  "0001999371-26-019207",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
@@ -7381,6 +7375,7 @@
   "0002061361-26-000009",
   "0002061361-26-000011",
   "0002061361-26-000013",
+  "0002061361-26-000015",
   "0002061394-26-000008",
   "0002061480-26-000004",
   "0002061670-26-000069",
