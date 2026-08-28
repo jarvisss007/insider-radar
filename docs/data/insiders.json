@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-08-28 20:03 UTC",
+ "updated_utc": "2026-08-28 20:19 UTC",
  "purchases": [
-  {
-   "ticker": "FCNCA",
-   "company": "FIRST CITIZENS BANCSHARES INC /DE/",
-   "insider": "Morais Diane E.",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 4.0,
-   "price": 2167.8049,
-   "value": 8671.22,
-   "acc": "0001193125-26-358811",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 799.0,
-   "price": 11.6576,
-   "value": 9314.42,
-   "acc": "0001213900-26-092479",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "FTLF",
-   "company": "FITLIFE BRANDS, INC.",
-   "insider": "Pappas Shannon K.",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 1000.0,
-   "price": 10.25,
-   "value": 10250.0,
-   "acc": "0002067544-26-000002",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "BY",
-   "company": "BYLINE BANCORP, INC.",
-   "insider": "HERSETH MARY JO S.",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 300.0,
-   "price": 38.395,
-   "value": 11518.5,
-   "acc": "0001772766-26-000004",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "REFI",
-   "company": "Chicago Atlantic Real Estate Finance, Inc.",
-   "insider": "Sack Peter",
-   "role": "Co-Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 1500.0,
-   "price": 10.53,
-   "value": 15795.0,
-   "acc": "0001193125-26-360717",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "PHIO",
-   "company": "Phio Pharmaceuticals Corp.",
-   "insider": "Plott Ronald Todd",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 15000.0,
-   "price": 1.14,
-   "value": 17100.0,
-   "acc": "0001683168-26-006620",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "REFI",
-   "company": "Chicago Atlantic Real Estate Finance, Inc.",
-   "insider": "Sack Peter",
-   "role": "Co-Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 2000.0,
-   "price": 10.39,
-   "value": 20780.0,
-   "acc": "0001193125-26-360717",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "MGEE",
    "company": "MGE ENERGY INC",
@@ -3978,6 +3894,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "JMSB",
+   "company": "John Marshall Bancorp, Inc.",
+   "insider": "Chase Philip",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 133.0,
+   "price": 22.96,
+   "value": 3053.68,
+   "acc": "0001898808-26-000003",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "NGL",
    "company": "NGL Energy Partners LP",
    "insider": "COLLINGSWORTH JAMES M",
@@ -4051,6 +3979,18 @@
    "placement": true
   },
   {
+   "ticker": "OBIO",
+   "company": "Orchestra BioMed Holdings, Inc.",
+   "insider": "Sherman Darren",
+   "role": "See Remarks",
+   "date": "2026-08-26",
+   "shares": 2000.0,
+   "price": 5.33,
+   "value": 10660.0,
+   "acc": "0001104659-26-103209",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "MSIF",
    "company": "MSC INCOME FUND, INC.",
    "insider": "Marks Nataly Michelle",
@@ -4109,6 +4049,18 @@
    "value": 14720.0,
    "acc": "0000897069-26-001721",
    "filed": "2026-08-27"
+  },
+  {
+   "ticker": "SPMC",
+   "company": "Sound Point Meridian Capital, Inc.",
+   "insider": "Forstenhausler Matthew E.",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 1600.0,
+   "price": 9.205,
+   "value": 14728.0,
+   "acc": "0001829126-26-009498",
+   "filed": "2026-08-28"
   },
   {
    "ticker": "BMRA",
@@ -4606,6 +4558,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "SPMC",
+   "company": "Sound Point Meridian Capital, Inc.",
+   "insider": "Forstenhausler Matthew E.",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 2400.0,
+   "price": 9.285,
+   "value": 22284.0,
+   "acc": "0001829126-26-009498",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "HWBK",
    "company": "HAWTHORN BANCSHARES, INC.",
    "insider": "Hettinger Shawna M.",
@@ -4615,6 +4579,18 @@
    "price": 38.2,
    "value": 24999.91,
    "acc": "0001949215-26-000004",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-27",
+   "shares": 3550.0,
+   "price": 7.13,
+   "value": 25311.5,
+   "acc": "0000905148-26-003991",
    "filed": "2026-08-28"
   },
   {
@@ -4786,6 +4762,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-27",
+   "shares": 50000.0,
+   "price": 22.56,
+   "value": 1128000.0,
+   "acc": "0001221359-26-000053",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "SGI",
    "company": "SOMNIGROUP INTERNATIONAL INC.",
    "insider": "THOMPSON SCOTT L",
@@ -4809,6 +4797,18 @@
    "acc": "0001213900-26-094460",
    "filed": "2026-08-27",
    "placement": true
+  },
+  {
+   "ticker": "AAT",
+   "company": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "date": "2026-08-28",
+   "shares": 50000.0,
+   "price": 22.52,
+   "value": 1126000.0,
+   "acc": "0001221359-26-000053",
+   "filed": "2026-08-28"
   }
  ],
  "clusters": [
@@ -4961,17 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024074",
-  "0001918704-26-024075",
-  "0001918704-26-024076",
-  "0001918704-26-024079",
-  "0001918704-26-024080",
-  "0001918704-26-024081",
-  "0001918704-26-024082",
-  "0001918704-26-024083",
-  "0001918704-26-024084",
-  "0001918704-26-024085",
-  "0001918704-26-024086",
   "0001918704-26-024087",
   "0001918704-26-024088",
   "0001918704-26-024089",
@@ -6020,6 +6009,11 @@
   "0001918704-26-025495",
   "0001918704-26-025496",
   "0001918704-26-025497",
+  "0001918704-26-025502",
+  "0001918704-26-025503",
+  "0001918704-26-025504",
+  "0001918704-26-025505",
+  "0001918704-26-025506",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -7511,9 +7505,11 @@
   "0002071844-26-001124",
   "0002071844-26-001128",
   "0002071844-26-001148",
+  "0002071844-26-001152",
   "0002071876-26-000190",
   "0002071948-26-000005",
   "0002073180-26-000006",
+  "0002073270-26-000004",
   "0002073586-26-000012",
   "0002073587-26-000028",
   "0002073590-26-000026",
@@ -7934,13 +7930,17 @@
   "0002146784-26-000004",
   "0002146790-26-000006",
   "0002146822-26-000005",
+  "0002146882-26-000004",
   "0002147092-26-000005",
   "0002147189-26-000006",
+  "0002147208-26-000004",
   "0002147232-26-000006",
   "0002147247-26-000004",
   "0002147248-26-000003",
   "0002147277-26-000003",
+  "0002147313-26-000004",
   "0002147380-26-000006",
+  "0002147392-26-000005",
   "0002147429-26-000003",
   "0002147807-26-000005",
   "0002147835-26-000007",
