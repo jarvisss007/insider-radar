@@ -20,6 +20,19 @@ on 2026-08-16, precisely so that it could not be. A floor picked after outcomes
 are visible is threshold-tuning on realised results, which is the failure this
 account's own overfitting toolkit exists to convict.
 
+VALUE BANDS (council directive 2026-08-27, added 2026-08-28): the strata answered
+"is a $2,000 cluster the same object as a $5.7M one" with a floor, but inside each
+stratum a $5.71M cluster and a $2,000 cluster still both entered the book as
+"2 insiders bought". This file now also reports, WITHIN each stratum, a band
+breakdown and the cluster value on every scored row, so the question "does dollar
+size carry anything inside the strata" becomes answerable as rows mature.
+
+That is a REPORTING SPLIT and nothing else. The floor is still $100,000, every
+cluster is still logged whatever its size, no row is dropped, no hit rate is
+blended across strata, and no band is ever presented as a bar. Bands are round
+decade boundaries chosen for legibility, not fitted to any outcome — and with
+n=13 scored across the whole book, no band can yet mean anything.
+
 This file REPORTS. It writes nothing to the ledger and changes no outcome.
 
 Run:  /opt/anaconda3/bin/python agent/strata.py
@@ -69,6 +82,23 @@ def score(rows, floor):
     return out
 
 
+# Round decade boundaries, fixed in advance and NOT fitted to any outcome.
+# Sub-floor spans $300..$96,000; headline spans $100k..$216M.
+SUB_BANDS = [(0, 10_000, "< $10k"), (10_000, 50_000, "$10k-$50k"), (50_000, 100_000, "$50k-$100k")]
+HEAD_BANDS = [(100_000, 1e6, "$100k-$1M"), (1e6, 10e6, "$1M-$10M"), (10e6, float("inf"), ">= $10M")]
+
+
+def band_lines(bucket, bands, indent="    "):
+    """Report each value band inside a stratum. Never a bar, never blended out."""
+    out = []
+    for lo, hi, label in bands:
+        rows = [(r, u) for r, u in bucket if u is not None and lo <= u < hi]
+        if not rows:
+            continue
+        out.append(indent + line(label, rows).strip().replace("  ", " ", 0))
+    return out
+
+
 def line(label, bucket):
     n = len(bucket)
     scored = [(r, u) for r, u in bucket if (r.get("outcome") or "").strip() in ("right", "wrong")]
@@ -99,6 +129,27 @@ def main():
     if args.floor != FLOOR:
         print(f"  ⚠ floor overridden to ${args.floor:,.0f} for this run only. The RULED "
               f"floor is ${FLOOR:,.0f}.\n")
+
+    # --- council 2026-08-27: value bands INSIDE each stratum, plus the cluster
+    # value on every scored row. Reporting only; the floor and the bars are unchanged.
+    for key, label, bands in (("headline", "HEADLINE", HEAD_BANDS), ("sub", "sub-floor", SUB_BANDS)):
+        bl = band_lines(b[key], bands)
+        if bl:
+            print(f"  {label} by value band — reporting split only, never a bar:")
+            for l in bl:
+                print(l)
+            print()
+
+    scored = sorted(
+        [(u, r["ticker"], r["date"], r["outcome"]) for r, u in (b["headline"] + b["sub"] + b["unknown"])
+         if (r.get("outcome") or "").strip() in ("right", "wrong")],
+        key=lambda t: (-(t[0] if t[0] is not None else -1)))
+    if scored:
+        print("  every SCORED row with its cluster value (the join the strata could not show):")
+        for u, t, d, o in scored:
+            usd = f"${u:,.0f}" if u is not None else "unknown"
+            print(f"    {d}  {t:<6} {usd:>12}  {o}")
+        print()
 
     sub = sorted([(u, r["ticker"], r["date"]) for r, u in b["sub"]])
     if sub:

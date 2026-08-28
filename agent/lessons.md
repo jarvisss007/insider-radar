@@ -827,3 +827,39 @@ sweep summary; not patched here.
 - The SPY line, permanently attached (council 08-26): headline stratum is **82% on n=11 — but that is 2 entry dates, not 11 independent observations**, and all 13 scored rows average **+3.21% against SPY's +3.32%**, i.e. this book has so far *lost to just buying the index by 11bp* while printing a hit rate that looks like a signal. Cohort 2 alone: n=6, +3.04%, −28bp vs SPY. A long-only book in a rising tape prints a good hit rate whatever the signal does. The number with a sample size behind it is the event study: 970 events, 669 mature, fifth consecutive null, week-clustered |t| < 2.67 at every horizon.
 - Attribution strata (135 calls joined, 13 scored, **2 dates**): "CEO buying 100% / n=5" and "small cluster 82% / n=11" are the kind of line that ends up in a README. **n too small** — 2 entry dates is the honest denominator, and no strata claim from this table is citable yet.
 - Today's forecast is the first this book has filed below 0.36, and only its second under 0.46 (NGL p=0.28). The 0.2–0.3 bin was empty. A book that only ever files 0.46–0.55 has no resolution to measure — its Brier skill can only ever be a rounding error around the base rate.
+
+## 2026-08-28 [insider]
+- Scored in the trade ledger: **nothing** (no rows due; next is SCTX + ACI on 08-30). Resolved one
+  forecast: **MTDR NO at p 0.48** off the settled 08-27 close (56.74 vs a "closes below 51.60"
+  question — it was never close). Forecast book n=8, Brier skill −0.3154.
+- **The council's value-band FIX is shipped, and the honest reading of it is "nothing".**
+  `agent/strata.py` now reports, within each stratum, a band breakdown plus the cluster value on
+  every scored row. Headline bands read 75% (n=4) / 83% (n=6) / 100% (n=1) rising with size, which is
+  exactly the kind of monotone-looking table that gets quoted six weeks later without its n. It is one
+  row wide at the top. The sub-floor book has **zero** scored rows in two of its three bands. Written
+  into the brief with the disclaimer attached to the table itself rather than in a footnote, because
+  the failure mode here is not computing the split — it is publishing it cleanly.
+- **The write path anchors on a LIVE quote, and today it disagreed with itself.** MAIR's
+  `price_at_call` was fetched at 26.39; `stale_quote.py` — running ninety seconds later inside the same
+  `append_call()` — saw 26.43 for the same bar. Both correct, both mid-session, 15bp apart. This is
+  harmless at 30-day horizons and it is not harmless as a habit: it means every reference price in this
+  ledger is an 11:29 ET quote that no one could actually have traded at the close. Nothing was
+  rewritten (BENCH-002). The forecast row filed today deliberately uses the *settled* 08-27 close as
+  its threshold instead, which is the first row in this book with a fully settled anchor.
+- **Adopted stock-radar's check-date construction, per the council.** MAIR's question reads 2026-09-04
+  and its `check_date` is 2026-09-08 — 09-07 is Labor Day, so 09-08 is the first run that can read the
+  09-04 settled close. The AMRC/MTDR "resolved one day late, structurally" defect cannot recur on rows
+  written this way. Every older open row still carries it; they are not being edited.
+- **BORR was due today and was HELD on a named bar**, with the expected score written down in advance:
+  its `check_date` is today and the settled close does not exist at 11:29 ET; it prints 4.46 against a
+  4.04 "closes below" threshold, so it scores 0 on the current tape and will resolve off the settled
+  bar next run regardless. Same discipline as GRML on 08-25 — the point is that the write-down happens
+  before the bar, not that the answer changes.
+- **This lab's forecast book is the worst-calibrated on the desk and should be said so out loud:**
+  skill −0.32, and over-optimistic in both bins it uses (0.5–0.6 said 0.512, happened 0.333). n=8, so
+  no bin is actionable and nothing was adjusted. If that bin still reads ~0.33 at n=30 the rule will
+  force this book to file below 0.50 — worth flagging now so it does not arrive as a surprise.
+- Sixth consecutive null event study: 965 events, 669 mature, all week-clustered |t| < 2.67. The
+  naive t of +2.37 assumes 965 independent events across 55 weeks; clustered it is +0.90. The ledger
+  keeps logging every cluster anyway, because the ledger and not the literature gets the final word —
+  and the ledger currently says **+3.21% vs SPX +3.32%, i.e. 11bp behind the index.**
