@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-28 22:29 UTC",
+ "updated_utc": "2026-08-28 22:45 UTC",
  "purchases": [
-  {
-   "ticker": "SMRT",
-   "company": "SmartRent, Inc.",
-   "insider": "Bohjalian Thomas N",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 40000.0,
-   "price": 1.398,
-   "value": 55920.0,
-   "acc": "0001193125-26-359347",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "BAER",
-   "company": "Bridger Aerospace Group Holdings, Inc.",
-   "insider": "KELTER JEFFREY E",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 50000.0,
-   "price": 1.2032,
-   "value": 60160.0,
-   "acc": "0001683168-26-006637",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "FGBI",
-   "company": "First Guaranty Bancshares, Inc.",
-   "insider": "WALKER ROBERT W",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 3593.0,
-   "price": 19.12,
-   "value": 68698.16,
-   "acc": "0001437749-26-028648",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 7034.0,
-   "price": 9.8384,
-   "value": 69203.31,
-   "acc": "0001104659-26-099299",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "DGXX",
-   "company": "Digi Power X Inc.",
-   "insider": "Amar Michel",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 20000.0,
-   "price": 3.6,
-   "value": 72000.0,
-   "acc": "0001213900-26-091969",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4138,6 +4078,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "BATL",
+   "company": "BATTALION OIL CORP",
+   "insider": "ROGERS WILLIAM D",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 70000.0,
+   "price": 1.3024,
+   "value": 91168.0,
+   "acc": "0001104659-26-103372",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "SCOR",
    "company": "COMSCORE, INC.",
    "insider": "McLaughlin Matthew F.",
@@ -4304,6 +4256,18 @@
    "value": 1144500.0,
    "acc": "0001221359-26-000048",
    "filed": "2026-08-26"
+  },
+  {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-26",
+   "shares": 233624.0,
+   "price": 9.59,
+   "value": 2240454.16,
+   "acc": "0001140361-26-034878",
+   "filed": "2026-08-28"
   },
   {
    "ticker": "RSG",
@@ -4483,6 +4447,18 @@
    "price": 0.171,
    "value": 15928.82,
    "acc": "0001475597-26-000219",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "BATL",
+   "company": "BATTALION OIL CORP",
+   "insider": "Hinds Gregory S.",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 14400.0,
+   "price": 1.31,
+   "value": 18864.0,
+   "acc": "0001104659-26-103373",
    "filed": "2026-08-28"
   },
   {
@@ -4738,6 +4714,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 233624.0,
+   "price": 9.12,
+   "value": 2130650.88,
+   "acc": "0001140361-26-034878",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "JTTT",
    "company": "JATT III Acquisition Corp",
    "insider": "JATT Ventures III L.P.",
@@ -4784,6 +4772,18 @@
    "price": 22.52,
    "value": 1126000.0,
    "acc": "0001221359-26-000053",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "SUJA",
+   "company": "SUJA LIFE, INC.",
+   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 185000.0,
+   "price": 9.33,
+   "value": 1726050.0,
+   "acc": "0001140361-26-034878",
    "filed": "2026-08-28"
   },
   {
@@ -4890,9 +4890,9 @@
    "total_value": 142230.0
   },
   {
-   "ticker": "DGXX",
+   "ticker": "BATL",
    "insiders": 2,
-   "total_value": 110600.0
+   "total_value": 110032.0
   },
   {
    "ticker": "VENU",
