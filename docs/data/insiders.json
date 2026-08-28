@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-28 06:25 UTC",
+ "updated_utc": "2026-08-28 10:21 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-08-19",
-   "shares": 10000.0,
-   "price": 0.059,
-   "value": 590.0,
-   "acc": "0001035422-26-000005",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "LOOP",
    "company": "Loop Industries, Inc.",
@@ -4386,6 +4374,18 @@
    "acc": "0001493152-26-040450",
    "filed": "2026-08-27",
    "placement": true
+  },
+  {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-26",
+   "shares": 9216.0,
+   "price": 2.1622,
+   "value": 19926.84,
+   "acc": "0001193125-26-371997",
+   "filed": "2026-08-28"
   },
   {
    "ticker": "AMRC",
