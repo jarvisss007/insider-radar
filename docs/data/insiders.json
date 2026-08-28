@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-27 23:53 UTC",
+ "updated_utc": "2026-08-28 00:09 UTC",
  "purchases": [
-  {
-   "ticker": "NNUP",
-   "company": "NOCOPI TECHNOLOGIES INC/MD/",
-   "insider": "Winger Matthew C.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 200.0,
-   "price": 1.8,
-   "value": 360.0,
-   "acc": "0001079973-26-001167",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 1.0,
-   "price": 372.1,
-   "value": 372.1,
-   "acc": "0001437749-26-028609",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "BRLT",
-   "company": "Brilliant Earth Group, Inc.",
-   "insider": "Grossberg Eric Scott",
-   "role": "Executive Chairman",
-   "date": "2026-08-19",
-   "shares": 381.0,
-   "price": 1.26,
-   "value": 480.06,
-   "acc": "0001628280-26-058094",
-   "filed": "2026-08-19"
-  },
   {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -3735,6 +3699,18 @@
    "filed": "2026-08-26"
   },
   {
+   "ticker": "UTI",
+   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+   "insider": "DEVINCENZI ROBERT THOMAS",
+   "role": "Director",
+   "date": "2026-08-25",
+   "shares": 1000.0,
+   "price": 21.765,
+   "value": 21765.0,
+   "acc": "0001193125-26-371793",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "QVCG",
    "company": "QVC Group, Inc.",
    "insider": "GOLDENTREE ASSET MANAGEMENT LP",
@@ -4412,6 +4388,18 @@
    "placement": true
   },
   {
+   "ticker": "AMRC",
+   "company": "Ameresco, Inc.",
+   "insider": "Sakellaris George P",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-26",
+   "shares": 1000.0,
+   "price": 21.92,
+   "value": 21920.0,
+   "acc": "0001628280-26-059314",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "OPFI",
    "company": "OppFi Inc.",
    "insider": "Schwartz Todd G.",
@@ -4750,6 +4738,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "AMRC",
+   "company": "Ameresco, Inc.",
+   "insider": "Sakellaris George P",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-27",
+   "shares": 4000.0,
+   "price": 22.84,
+   "value": 91360.0,
+   "acc": "0001628280-26-059314",
+   "filed": "2026-08-27"
+  },
+  {
    "ticker": "RDVT",
    "company": "Red Violet, Inc.",
    "insider": "LIVEK WILLIAM PAUL",
@@ -4848,15 +4848,15 @@
    "total_value": 807794.1
   },
   {
+   "ticker": "AMRC",
+   "insiders": 3,
+   "total_value": 571935.66
+  },
+  {
    "ticker": "MAIR",
    "insiders": 2,
    "total_value": 556800.0,
    "other_value": 218999984.28
-  },
-  {
-   "ticker": "AMRC",
-   "insiders": 3,
-   "total_value": 458655.66
   },
   {
    "ticker": "AMRZ",
@@ -4944,11 +4944,6 @@
    "total_value": 8061.01
   },
   {
-   "ticker": "BRLT",
-   "insiders": 2,
-   "total_value": 4515.84
-  },
-  {
    "ticker": "YORW",
    "insiders": 2,
    "total_value": 2025.7
@@ -4966,10 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023707",
-  "0001918704-26-023708",
-  "0001918704-26-023709",
-  "0001918704-26-023710",
   "0001918704-26-023715",
   "0001918704-26-023716",
   "0001918704-26-023717",
@@ -6331,6 +6322,7 @@
   "0001973239-26-000121",
   "0001973495-26-000004",
   "0001973495-26-000005",
+  "0001973495-26-000006",
   "0001973678-26-000013",
   "0001974160-26-000005",
   "0001974200-26-000011",
@@ -7265,6 +7257,7 @@
   "0002041211-26-000014",
   "0002041258-26-000004",
   "0002041944-26-000005",
+  "0002042056-26-000008",
   "0002043233-26-000006",
   "0002043379-26-000010",
   "0002043379-26-000012",
@@ -7604,8 +7597,10 @@
   "0002078374-26-000003",
   "0002078580-26-000008",
   "0002078700-26-000002",
+  "0002078707-26-000004",
   "0002079093-26-000001",
   "0002079445-26-000015",
+  "0002079598-26-000004",
   "0002079962-26-000007",
   "0002079962-26-000011",
   "0002079962-26-000015",
