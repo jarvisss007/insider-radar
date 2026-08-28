@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-28 14:47 UTC",
+ "updated_utc": "2026-08-28 15:03 UTC",
  "purchases": [
-  {
-   "ticker": "HKHC",
-   "company": "Horizon Kinetics Holding Corp",
-   "insider": "Herndon Mark",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-19",
-   "shares": 50.0,
-   "price": 26.5,
-   "value": 1325.0,
-   "acc": "0001437749-26-028621",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "IDAI",
-   "company": "T Stamp Inc",
-   "insider": "Genner Gareth Neville",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 606.0,
-   "price": 2.55,
-   "value": 1545.3,
-   "acc": "0001910573-26-000009",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -4666,6 +4642,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 756.0,
+   "price": 2.94,
+   "value": 2222.64,
+   "acc": "0001437749-26-029139",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
    "insider": "Colonna Bernardino",
@@ -4711,6 +4699,18 @@
    "price": 10.05,
    "value": 43617.0,
    "acc": "0001510281-26-000282",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 3900.0,
+   "price": 12.49,
+   "value": 48711.0,
+   "acc": "0001510281-26-000283",
    "filed": "2026-08-28"
   },
   {
@@ -4909,14 +4909,14 @@
    "total_value": 94400.0
   },
   {
-   "ticker": "IDAI",
-   "insiders": 3,
-   "total_value": 49165.19
-  },
-  {
    "ticker": "CCAP",
    "insiders": 2,
    "total_value": 49045.0
+  },
+  {
+   "ticker": "IDAI",
+   "insiders": 3,
+   "total_value": 47619.89
   },
   {
    "ticker": "APCX",
@@ -4926,12 +4926,12 @@
   {
    "ticker": "HKHC",
    "insiders": 3,
-   "total_value": 30649.0
+   "total_value": 29324.0
   },
   {
    "ticker": "RCG",
    "insiders": 2,
-   "total_value": 22017.8
+   "total_value": 24240.44
   },
   {
    "ticker": "BY",
@@ -4961,9 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-023836",
-  "0001918704-26-023837",
-  "0001918704-26-023838",
   "0001918704-26-023839",
   "0001918704-26-023840",
   "0001918704-26-023841",
@@ -6051,6 +6048,9 @@
   "0001918704-26-025272",
   "0001918704-26-025273",
   "0001918704-26-025274",
+  "0001918704-26-025275",
+  "0001918704-26-025276",
+  "0001918704-26-025277",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
