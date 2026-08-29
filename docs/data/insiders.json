@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-29 01:09 UTC",
+ "updated_utc": "2026-08-29 01:41 UTC",
  "purchases": [
-  {
-   "ticker": "AAT",
-   "company": "American Assets Trust, Inc.",
-   "insider": "RADY ERNEST S",
-   "role": "Executive Chairman",
-   "date": "2026-08-19",
-   "shares": 10000.0,
-   "price": 22.77,
-   "value": 227700.0,
-   "acc": "0001221359-26-000042",
-   "filed": "2026-08-19"
-  },
-  {
-   "ticker": "AEON",
-   "company": "AEON Biopharma, Inc.",
-   "insider": "LYNCH TIMOTHY P",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 1150000.0,
-   "price": 0.2117,
-   "value": 243455.0,
-   "acc": "0000935836-26-000440",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 24102.0,
-   "price": 10.13,
-   "value": 244153.26,
-   "acc": "0001510281-26-000273",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 1400.0,
-   "price": 217.5244,
-   "value": 304534.16,
-   "acc": "0001104659-26-099249",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 28538.0,
-   "price": 11.6576,
-   "value": 332684.59,
-   "acc": "0001213900-26-092479",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -120,6 +60,18 @@
    "value": 978658.28,
    "acc": "0001104659-26-099249",
    "filed": "2026-08-20"
+  },
+  {
+   "ticker": "OPTU",
+   "company": "Optimum Communications, Inc.",
+   "insider": "SUBIN NEIL S",
+   "role": "10% owner",
+   "date": "2026-08-19",
+   "shares": 1291471.0,
+   "price": 0.8391,
+   "value": 1083673.32,
+   "acc": "0001213900-26-095292",
+   "filed": "2026-08-28"
   },
   {
    "ticker": "SUJA",
@@ -1008,6 +960,18 @@
    "value": 42680.0,
    "acc": "0001225208-26-007275",
    "filed": "2026-08-21"
+  },
+  {
+   "ticker": "OPTU",
+   "company": "Optimum Communications, Inc.",
+   "insider": "SUBIN NEIL S",
+   "role": "10% owner",
+   "date": "2026-08-20",
+   "shares": 50536.0,
+   "price": 0.8473,
+   "value": 42819.15,
+   "acc": "0001213900-26-095292",
+   "filed": "2026-08-28"
   },
   {
    "ticker": "NBBK",
@@ -2067,6 +2031,18 @@
    "filed": "2026-08-25"
   },
   {
+   "ticker": "OPTU",
+   "company": "Optimum Communications, Inc.",
+   "insider": "SUBIN NEIL S",
+   "role": "10% owner",
+   "date": "2026-08-21",
+   "shares": 535191.0,
+   "price": 0.8457,
+   "value": 452611.03,
+   "acc": "0001213900-26-095292",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "HRI",
    "company": "HERC HOLDINGS INC",
    "insider": "Olsson Erik",
@@ -2583,6 +2559,18 @@
    "filed": "2026-08-24"
   },
   {
+   "ticker": "OPTU",
+   "company": "Optimum Communications, Inc.",
+   "insider": "SUBIN NEIL S",
+   "role": "10% owner",
+   "date": "2026-08-24",
+   "shares": 171711.0,
+   "price": 0.835,
+   "value": 143378.68,
+   "acc": "0001213900-26-095292",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "TENX",
    "company": "TENAX THERAPEUTICS, INC.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -2797,6 +2785,18 @@
    "value": 48434860.84,
    "acc": "0001104659-26-101497",
    "filed": "2026-08-26"
+  },
+  {
+   "ticker": "OPTU",
+   "company": "Optimum Communications, Inc.",
+   "insider": "SUBIN NEIL S",
+   "role": "10% owner",
+   "date": "2026-08-25",
+   "shares": 400.0,
+   "price": 0.85,
+   "value": 340.0,
+   "acc": "0001213900-26-095292",
+   "filed": "2026-08-28"
   },
   {
    "ticker": "TPL",
@@ -4967,7 +4967,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024171",
   "0001918704-26-024172",
   "0001918704-26-024173",
   "0001918704-26-024183",
@@ -7016,6 +7015,7 @@
   "0002010019-26-000024",
   "0002010135-26-000016",
   "0002010135-26-000019",
+  "0002010135-26-000020",
   "0002010300-26-000023",
   "0002010300-26-000025",
   "0002010300-26-000027",
