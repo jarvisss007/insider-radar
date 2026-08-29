@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-29 00:05 UTC",
+ "updated_utc": "2026-08-29 01:09 UTC",
  "purchases": [
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 705.0,
-   "price": 216.6491,
-   "value": 152737.62,
-   "acc": "0001104659-26-099249",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "NAKA",
-   "company": "Nakamoto Inc.",
-   "insider": "Bailey David F",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-19",
-   "shares": 32133.836,
-   "price": 5.5885,
-   "value": 179579.94,
-   "acc": "0001493152-26-039744",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 9700.0,
-   "price": 18.6105,
-   "value": 180521.85,
-   "acc": "0000935596-26-000018",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 13980.0,
-   "price": 15.2073,
-   "value": 212598.05,
-   "acc": "0001493152-26-039678",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
@@ -4486,6 +4438,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "BIVI",
+   "company": "BIOVIE INC.",
+   "insider": "DO CUONG V",
+   "role": "President & CEO",
+   "date": "2026-08-27",
+   "shares": 15210.0,
+   "price": 2.08,
+   "value": 31636.8,
+   "acc": "0001520138-26-000378",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "NYC",
    "company": "American Strategic Investment Co.",
    "insider": "SCHORSCH NICHOLAS S",
@@ -4739,6 +4703,42 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "BIVI",
+   "company": "BIOVIE INC.",
+   "insider": "Chappell Amy Suzon",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 727.0,
+   "price": 2.16,
+   "value": 1570.32,
+   "acc": "0001520138-26-000382",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "BIVI",
+   "company": "BIOVIE INC.",
+   "insider": "KIM JOANNE WENDY",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-28",
+   "shares": 2500.0,
+   "price": 2.18,
+   "value": 5450.0,
+   "acc": "0001520138-26-000379",
+   "filed": "2026-08-28"
+  },
+  {
+   "ticker": "BIVI",
+   "company": "BIOVIE INC.",
+   "insider": "Palumbo Joseph M",
+   "role": "Chief Medical Officer",
+   "date": "2026-08-28",
+   "shares": 4843.0,
+   "price": 2.16,
+   "value": 10460.88,
+   "acc": "0001520138-26-000383",
+   "filed": "2026-08-28"
+  },
+  {
    "ticker": "PLSE",
    "company": "PULSE BIOSCIENCES, INC.",
    "insider": "Teplitsky Liane Rae",
@@ -4913,6 +4913,11 @@
    "ticker": "CBU",
    "insiders": 2,
    "total_value": 50276.9
+  },
+  {
+   "ticker": "BIVI",
+   "insiders": 4,
+   "total_value": 49118.0
   },
   {
    "ticker": "IDAI",
