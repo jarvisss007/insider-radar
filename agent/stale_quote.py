@@ -61,7 +61,7 @@ LEDGER = os.path.join(HERE, "ledger.csv")
 # eventually not be.
 _LEDGER_FALLBACK = [
     "date", "ticker", "call", "thesis", "price_at_call", "check_date",
-    "price_at_check", "outcome", "stale_quote", "tags",
+    "price_at_check", "outcome", "stale_quote", "tags", "void_reason",
 ]
 
 
