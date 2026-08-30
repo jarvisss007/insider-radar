@@ -50,18 +50,33 @@ LEDGER = os.path.join(HERE, "ledger.csv")
 # the lab's own ledger as non-matching. No wrong row was produced -- the eight rows of
 # 2026-08-21 were appended against the file's real schema -- but the write path and the
 # file disagreed for a day. `tags` is appended LAST, in the file's own order.
-LEDGER_HEADER = [
-    "date",
-    "ticker",
-    "call",
-    "thesis",
-    "price_at_call",
-    "check_date",
-    "price_at_check",
-    "outcome",
-    "stale_quote",
-    "tags",
+# INS-011, fixed 2026-08-29. This was a hardcoded 9-column literal against a ledger that
+# had grown to 10 with TAG-001's `tags`, and to 11 the same day `void_reason` was added
+# for INS-012. A csv.DictWriter given fewer fieldnames than the file has silently drops
+# the missing columns from every appended row, so each new call would have been written
+# without its tags — and a hardcoded list drifts again the next time a column is added.
+#
+# Read the real header from the ledger instead, and keep the literal only as the shape
+# a brand-new ledger is created with. A constant that must be kept in sync by hand will
+# eventually not be.
+_LEDGER_FALLBACK = [
+    "date", "ticker", "call", "thesis", "price_at_call", "check_date",
+    "price_at_check", "outcome", "stale_quote", "tags",
 ]
+
+
+def ledger_header(path=None):
+    """The ledger's ACTUAL columns, so the write path can never be narrower than the file."""
+    p = path or LEDGER
+    try:
+        with open(p) as fh:
+            head = next(csv.reader(fh))
+        return head if head else list(_LEDGER_FALLBACK)
+    except (FileNotFoundError, StopIteration):
+        return list(_LEDGER_FALLBACK)
+
+
+LEDGER_HEADER = _LEDGER_FALLBACK
 
 # Three identical closes to the cent is the bar the lab used when it caught WBHC
 # and NWPP by eye. Keeping the same bar keeps the backfilled rows and every
@@ -176,7 +191,7 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS)
         row["stale_quote"] = flag
     row.setdefault("price_at_check", "")
     row.setdefault("outcome", "")
-    missing = [k for k in LEDGER_HEADER if k not in row]
+    missing = [k for k in ledger_header() if k not in row]
     if missing:
         raise ValueError(f"call is missing fields: {missing}")
     # INS-007, ruled by Anupam 2026-08-14. A call with no entry price can NEVER
@@ -207,7 +222,7 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS)
             f"`fund` by construction -- see agent/AGENT.md step 5 (INS-011).")
     new = not os.path.exists(ledger) or os.path.getsize(ledger) == 0
     with open(ledger, "a", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=LEDGER_HEADER)
+        w = csv.DictWriter(f, fieldnames=ledger_header(), extrasaction="ignore")
         if new:
             w.writeheader()
         w.writerow({k: row[k] for k in LEDGER_HEADER})
