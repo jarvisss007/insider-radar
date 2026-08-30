@@ -151,7 +151,13 @@ def main():
         w.writerows(rows)
 
     have = [r for r in rows if r["n_insiders"] != ""]
-    scored = [r for r in rows if r["outcome"] not in ("", None) and r["ret_pct"] != ""]
+    # Allowlist, not a denylist. This read `outcome not in ("", None)`, which counted
+    # every VOIDED row as scored — 7 of them, including GRML, voided precisely so it
+    # would be excluded from every hit rate. A disposal that still lands in the
+    # statistics is not a disposal. strata.py already used the allowlist form; this
+    # file did not, so the two disagreed about what "scored" means (INS-012, 2026-08-29).
+    scored = [r for r in rows
+              if (r.get("outcome") or "").strip() in ("right", "wrong") and r["ret_pct"] != ""]
     print(f"attribution: {len(rows)} calls joined ({len(have)} with vintage features, "
           f"{len(rows)-len(have)} disclosed as unrecoverable), {len(scored)} scored")
 
