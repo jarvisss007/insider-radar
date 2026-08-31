@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-31 17:54 UTC",
+ "updated_utc": "2026-08-31 18:10 UTC",
  "purchases": [
-  {
-   "ticker": "IDAI",
-   "company": "T Stamp Inc",
-   "insider": "Francis Andrew Scott",
-   "role": "Chief Technology Officer",
-   "date": "2026-08-20",
-   "shares": 1600.0,
-   "price": 3.1,
-   "value": 4960.0,
-   "acc": "0002044398-26-000007",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
@@ -4631,6 +4619,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "ALLE",
+   "company": "Allegion plc",
+   "insider": "MIZELL STEVEN",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 170.0,
+   "price": 158.28,
+   "value": 26907.6,
+   "acc": "0001189403-26-000011",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "AAON",
    "company": "AAON, INC.",
    "insider": "Shaub Matthew",
@@ -4925,11 +4925,6 @@
    "total_value": 49118.0
   },
   {
-   "ticker": "IDAI",
-   "insiders": 2,
-   "total_value": 43147.76
-  },
-  {
    "ticker": "TNXP",
    "insiders": 2,
    "total_value": 40180.0
@@ -4967,7 +4962,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024342",
   "0001918704-26-024347",
   "0001918704-26-024348",
   "0001918704-26-024349",
@@ -5962,6 +5956,7 @@
   "0001918704-26-025681",
   "0001918704-26-025682",
   "0001918704-26-025683",
+  "0001918704-26-025684",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
