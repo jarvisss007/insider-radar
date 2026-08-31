@@ -1,67 +1,6 @@
 {
- "updated_utc": "2026-08-31 22:25 UTC",
+ "updated_utc": "2026-08-31 23:12 UTC",
  "purchases": [
-  {
-   "ticker": "INV",
-   "company": "Innventure, Inc.",
-   "insider": "Brown Bruce",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 30000.0,
-   "price": 1.5133,
-   "value": 45399.0,
-   "acc": "0002001557-26-000156",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "CMCO",
-   "company": "COLUMBUS MCKINNON CORP",
-   "insider": "STEPHENS CHRISTOPHER J",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 2750.0,
-   "price": 17.14,
-   "value": 47135.0,
-   "acc": "0001628280-26-058450",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "KYN",
-   "company": "Kayne Anderson Energy Infrastructure Fund, Inc.",
-   "insider": "Walker Carita",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 3400.0,
-   "price": 14.7015,
-   "value": 49985.1,
-   "acc": "0001936132-26-000001",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "BMRA",
-   "company": "BIOMERICA INC",
-   "insider": "Gary M. Huff",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 31250.0,
-   "price": 1.6,
-   "value": 50000.0,
-   "acc": "0001493152-26-040454",
-   "filed": "2026-08-27",
-   "placement": true
-  },
-  {
-   "ticker": "BAER",
-   "company": "Bridger Aerospace Group Holdings, Inc.",
-   "insider": "KELTER JEFFREY E",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 50000.0,
-   "price": 1.1568,
-   "value": 57840.0,
-   "acc": "0001683168-26-006637",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "BAER",
    "company": "Bridger Aerospace Group Holdings, Inc.",
@@ -2538,6 +2477,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "AXIA3",
+   "company": "AXIA Energia S.A.",
+   "insider": "de Bittencourt Marinho Gisomar Francisco",
+   "role": "",
+   "date": "2026-08-26",
+   "shares": 100.0,
+   "price": 10.31,
+   "value": 1031.0,
+   "acc": "0001213900-26-095848",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -3682,6 +3633,30 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "PRTS",
+   "company": "CarParts.com, Inc.",
+   "insider": "Meniane David",
+   "role": "CEO",
+   "date": "2026-08-27",
+   "shares": 4612.0,
+   "price": 6.88,
+   "value": 31730.56,
+   "acc": "0001140361-26-035125",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "PRTS",
+   "company": "CarParts.com, Inc.",
+   "insider": "Huffaker Michael",
+   "role": "COO",
+   "date": "2026-08-27",
+   "shares": 4614.0,
+   "price": 6.88,
+   "value": 31744.32,
+   "acc": "0001140361-26-035126",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "NYC",
    "company": "American Strategic Investment Co.",
    "insider": "SCHORSCH NICHOLAS S",
@@ -4451,6 +4426,30 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "PRTS",
+   "company": "CarParts.com, Inc.",
+   "insider": "Huffaker Michael",
+   "role": "COO",
+   "date": "2026-08-28",
+   "shares": 7548.0,
+   "price": 7.16,
+   "value": 54043.68,
+   "acc": "0001140361-26-035126",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "PRTS",
+   "company": "CarParts.com, Inc.",
+   "insider": "Meniane David",
+   "role": "CEO",
+   "date": "2026-08-28",
+   "shares": 7552.0,
+   "price": 7.16,
+   "value": 54072.32,
+   "acc": "0001140361-26-035125",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "CTEV",
    "company": "Claritev Corp",
    "insider": "Dalton Travis",
@@ -4845,8 +4844,8 @@
   },
   {
    "ticker": "INV",
-   "insiders": 4,
-   "total_value": 807794.1
+   "insiders": 3,
+   "total_value": 762395.1
   },
   {
    "ticker": "AMRC",
@@ -4873,6 +4872,11 @@
    "ticker": "HWKN",
    "insiders": 2,
    "total_value": 261575.78
+  },
+  {
+   "ticker": "PRTS",
+   "insiders": 3,
+   "total_value": 235742.88
   },
   {
    "ticker": "KEEL",
@@ -4955,6 +4959,11 @@
    "total_value": 25013.16
   },
   {
+   "ticker": "AXIA3",
+   "insiders": 2,
+   "total_value": 15367.0
+  },
+  {
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 8061.01
@@ -4966,13 +4975,12 @@
   },
   {
    "ticker": "BMRA",
-   "insiders": 5,
+   "insiders": 4,
    "total_value": 0,
-   "other_value": 158000.0
+   "other_value": 108000.0
   }
  ],
  "seen": [
-  "0001918704-26-024456",
   "0001918704-26-024457",
   "0001918704-26-024458",
   "0001918704-26-024459",
@@ -7274,6 +7282,7 @@
   "0002049774-26-000004",
   "0002050035-26-000011",
   "0002050167-26-000019",
+  "0002050167-26-000023",
   "0002050372-26-000013",
   "0002050372-26-000015",
   "0002050576-26-000004",
