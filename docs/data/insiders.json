@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-31 22:09 UTC",
+ "updated_utc": "2026-08-31 22:25 UTC",
  "purchases": [
-  {
-   "ticker": "MATW",
-   "company": "MATTHEWS INTERNATIONAL CORP",
-   "insider": "Nauman J Michael",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 1900.0,
-   "price": 21.96,
-   "value": 41724.0,
-   "acc": "0000063296-26-000088",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "DFDV",
-   "company": "DeFi Development Corp.",
-   "insider": "Kang Daniel",
-   "role": "Chief Strategy Officer",
-   "date": "2026-08-20",
-   "shares": 11000.0,
-   "price": 3.88,
-   "value": 42680.0,
-   "acc": "0001225208-26-007275",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "OPTU",
-   "company": "Optimum Communications, Inc.",
-   "insider": "SUBIN NEIL S",
-   "role": "10% owner",
-   "date": "2026-08-20",
-   "shares": 50536.0,
-   "price": 0.8473,
-   "value": 42819.15,
-   "acc": "0001213900-26-095292",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "NBBK",
-   "company": "NB Bancorp, Inc.",
-   "insider": "CAMPANELLI JOSEPH P",
-   "role": "President & CEO",
-   "date": "2026-08-20",
-   "shares": 2000.0,
-   "price": 21.75,
-   "value": 43500.0,
-   "acc": "0001104659-26-099729",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "RHLD",
-   "company": "Resolute Holdings Management, Inc.",
-   "insider": "Schoen Kurt",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-20",
-   "shares": 375.0,
-   "price": 117.84,
-   "value": 44190.0,
-   "acc": "0001628280-26-058740",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "INV",
    "company": "Innventure, Inc.",
@@ -4655,6 +4595,30 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "SLGL",
+   "company": "Sol-Gel Technologies Ltd.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 5000.0,
+   "price": 68.81,
+   "value": 344050.0,
+   "acc": "0001493152-26-040895",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "SLGL",
+   "company": "Sol-Gel Technologies Ltd.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 10000.0,
+   "price": 71.3969,
+   "value": 713969.0,
+   "acc": "0001493152-26-040895",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4665,6 +4629,18 @@
    "value": 1126000.0,
    "acc": "0001221359-26-000053",
    "filed": "2026-08-28"
+  },
+  {
+   "ticker": "SLGL",
+   "company": "Sol-Gel Technologies Ltd.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 20113.0,
+   "price": 68.4203,
+   "value": 1376137.49,
+   "acc": "0001493152-26-040895",
+   "filed": "2026-08-31"
   },
   {
    "ticker": "SUJA",
@@ -4776,6 +4752,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "SLGL",
+   "company": "Sol-Gel Technologies Ltd.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 217.0,
+   "price": 69.1,
+   "value": 14994.7,
+   "acc": "0001493152-26-040895",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "SRTS",
    "company": "Sensus Healthcare, Inc.",
    "insider": "Sachetta Eric",
@@ -4809,6 +4797,18 @@
    "price": 0.9768,
    "value": 239316.0,
    "acc": "0001493152-26-040843",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "SLGL",
+   "company": "Sol-Gel Technologies Ltd.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 5000.0,
+   "price": 68.235,
+   "value": 341175.0,
+   "acc": "0001493152-26-040895",
    "filed": "2026-08-31"
   }
  ],
@@ -4972,9 +4972,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024453",
-  "0001918704-26-024454",
-  "0001918704-26-024455",
   "0001918704-26-024456",
   "0001918704-26-024457",
   "0001918704-26-024458",
@@ -6936,6 +6933,7 @@
   "0001999371-26-019384",
   "0001999371-26-019386",
   "0001999488-26-000011",
+  "0001999488-26-000013",
   "0001999525-26-000002",
   "0001999598-26-000010",
   "0001999846-26-000004",
@@ -7175,6 +7173,7 @@
   "0002033633-26-000005",
   "0002033834-26-000019",
   "0002034012-26-000021",
+  "0002034019-26-000005",
   "0002034144-26-000006",
   "0002034458-26-000006",
   "0002034458-26-000007",
@@ -7192,6 +7191,7 @@
   "0002034956-26-000010",
   "0002034984-26-000006",
   "0002035244-26-000008",
+  "0002035295-26-000006",
   "0002035446-26-000022",
   "0002035446-26-000024",
   "0002035613-26-000003",
