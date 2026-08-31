@@ -186,6 +186,28 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS)
     it is computed from the pre-call series. `price_at_check` and `outcome` are
     always written empty — a call is never born scored.
     """
+    # WEEKEND CHECK-DATE GUARD (2026-08-31). Anupam caught SCTX on the desk page:
+    # check_date 2026-08-30, a Sunday, still "open" past its exit plan — because the
+    # date was computed as entry+30 CALENDAR days and no session exists to score it.
+    # 45 pending rows carried the same defect. A check date must be a session: a
+    # Sat/Sun date rolls forward to the next weekday AT WRITE TIME, deterministically
+    # (the target is forced, so no kinder-day discretion — distinct from INS-012 §3a,
+    # which governs missing bars on trading days and voids instead).
+    cd_ = str(row.get("check_date") or "").strip()
+    if cd_:
+        import datetime as _dt
+        try:
+            _d = _dt.date.fromisoformat(cd_)
+            if _d.weekday() > 4:
+                _orig = cd_
+                while _d.weekday() > 4:
+                    _d += _dt.timedelta(days=1)
+                row["check_date"] = _d.isoformat()
+                row["thesis"] = (str(row.get("thesis") or "") +
+                                 f" [check_date {_orig} was a weekend; rolled to the next "
+                                 f"session {_d.isoformat()} at write time]").strip()
+        except ValueError:
+            pass
     if "stale_quote" not in row or row["stale_quote"] is None:
         flag, _ = flag_for(row["ticker"], row.get("date"), sessions)
         row["stale_quote"] = flag
