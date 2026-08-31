@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-31 11:04 UTC",
+ "updated_utc": "2026-08-31 11:20 UTC",
  "purchases": [
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 189300.0,
-   "price": 7.11,
-   "value": 1345923.0,
-   "acc": "0001140361-26-033922",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "ENHA",
    "company": "Enhanced Group Inc.",
@@ -4751,6 +4739,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "SCOR",
+   "company": "COMSCORE, INC.",
+   "insider": "LIVEK WILLIAM PAUL",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 20000.0,
+   "price": 5.23,
+   "value": 104600.0,
+   "acc": "0001466605-26-000007",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "AAT",
    "company": "American Assets Trust, Inc.",
    "insider": "RADY ERNEST S",
@@ -4870,6 +4870,11 @@
    "total_value": 298140.0
   },
   {
+   "ticker": "SCOR",
+   "insiders": 3,
+   "total_value": 246830.0
+  },
+  {
    "ticker": "KEEL",
    "insiders": 2,
    "total_value": 229496.29
@@ -4883,11 +4888,6 @@
    "ticker": "AIAI",
    "insiders": 2,
    "total_value": 151641.0
-  },
-  {
-   "ticker": "SCOR",
-   "insiders": 2,
-   "total_value": 142230.0
   },
   {
    "ticker": "BATL",
