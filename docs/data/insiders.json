@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-31 12:55 UTC",
+ "updated_utc": "2026-08-31 13:26 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-20",
-   "shares": 43.0,
-   "price": 2.9233,
-   "value": 125.7,
-   "acc": "0001536588-26-000026",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-08-20",
-   "shares": 70.0,
-   "price": 4.55,
-   "value": 318.5,
-   "acc": "0001628280-26-058269",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-20",
-   "shares": 1.0,
-   "price": 377.85,
-   "value": 377.85,
-   "acc": "0001437749-26-028696",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-08-20",
-   "shares": 11500.0,
-   "price": 0.045,
-   "value": 517.5,
-   "acc": "0001035422-26-000006",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "PRTS",
    "company": "CarParts.com, Inc.",
@@ -4102,6 +4054,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 135.0,
+   "price": 7.245,
+   "value": 978.08,
+   "acc": "0000912282-26-001189",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "YORW",
    "company": "YORK WATER CO",
    "insider": "Poff Matthew E",
@@ -4498,6 +4462,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 10000.0,
+   "price": 18.9504,
+   "value": 189504.0,
+   "acc": "0000935596-26-000021",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4703,6 +4679,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "ORBS",
+   "company": "Eightco Holdings Inc.",
+   "insider": "O'Donnell Kevin J",
+   "role": "CEO",
+   "date": "2026-08-28",
+   "shares": 50000.0,
+   "price": 0.8077,
+   "value": 40385.0,
+   "acc": "0001493152-26-040748",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "PLSE",
    "company": "PULSE BIOSCIENCES, INC.",
    "insider": "Teplitsky Liane Rae",
@@ -4748,6 +4736,18 @@
    "price": 5.23,
    "value": 104600.0,
    "acc": "0001466605-26-000007",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 10000.0,
+   "price": 19.1946,
+   "value": 191946.0,
+   "acc": "0000935596-26-000021",
    "filed": "2026-08-31"
   },
   {
@@ -4977,7 +4977,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024203",
   "0001918704-26-024209",
   "0001918704-26-024210",
   "0001918704-26-024211",
@@ -5990,6 +5989,7 @@
   "0001918704-26-025578",
   "0001918704-26-025579",
   "0001918704-26-025580",
+  "0001918704-26-025581",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
