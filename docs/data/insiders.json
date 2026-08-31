@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-08-31 15:15 UTC",
+ "updated_utc": "2026-08-31 15:32 UTC",
  "purchases": [
-  {
-   "ticker": "AIAI",
-   "company": "AIAI Holdings Corp",
-   "insider": "Remy Donald Michael",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 365.0,
-   "price": 5.4,
-   "value": 1971.0,
-   "acc": "0001493152-26-039553",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "IDAI",
-   "company": "T Stamp Inc",
-   "insider": "Potts Charles Edward",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 627.0,
-   "price": 3.19,
-   "value": 2000.13,
-   "acc": "0002000358-26-000018",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-20",
-   "shares": 756.0,
-   "price": 2.95,
-   "value": 2230.2,
-   "acc": "0001437749-26-028722",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "GAIA",
-   "company": "GAIA, INC",
-   "insider": "Sutherland Paul Howard",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 1580.0,
-   "price": 1.46,
-   "value": 2306.8,
-   "acc": "0001193125-26-360068",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "BHRB",
    "company": "Burke & Herbert Financial Services Corp.",
@@ -4030,6 +3982,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "XELB",
+   "company": "XCel Brands, Inc.",
+   "insider": "D LOREN ROBERT W",
+   "role": "CEO and Chairman",
+   "date": "2026-08-27",
+   "shares": 2000.0,
+   "price": 0.955,
+   "value": 1910.0,
+   "acc": "0001104659-26-103671",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4583,6 +4547,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "EMYB",
+   "company": "Embassy Bancorp, Inc.",
+   "insider": "Lobach David M Jr",
+   "role": "Chairman, President and CEO",
+   "date": "2026-08-28",
+   "shares": 100.0,
+   "price": 22.3,
+   "value": 2230.0,
+   "acc": "0001464631-26-000008",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "TOFB",
    "company": "TOFUTTI BRANDS INC",
    "insider": "A-6684 Ltd.",
@@ -4592,6 +4568,18 @@
    "price": 0.45,
    "value": 2250.0,
    "acc": "0001994334-26-000012",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "XELB",
+   "company": "XCel Brands, Inc.",
+   "insider": "D LOREN ROBERT W",
+   "role": "CEO and Chairman",
+   "date": "2026-08-28",
+   "shares": 3500.0,
+   "price": 0.955,
+   "value": 3342.5,
+   "acc": "0001104659-26-103671",
    "filed": "2026-08-31"
   },
   {
@@ -4712,6 +4700,18 @@
    "price": 38.4823,
    "value": 75040.49,
    "acc": "0001628280-26-059472",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "BLX",
+   "company": "BLADEX, INC.",
+   "insider": "Van Hoorde Annette Marie",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-28",
+   "shares": 1454.0,
+   "price": 55.0,
+   "value": 79970.0,
+   "acc": "0000890541-26-000011",
    "filed": "2026-08-31"
   },
   {
@@ -4885,14 +4885,14 @@
    "total_value": 185032.36
   },
   {
+   "ticker": "BLX",
+   "insiders": 2,
+   "total_value": 178020.0
+  },
+  {
    "ticker": "MTDR",
    "insiders": 2,
    "total_value": 171841.95
-  },
-  {
-   "ticker": "AIAI",
-   "insiders": 2,
-   "total_value": 151641.0
   },
   {
    "ticker": "BATL",
@@ -4926,8 +4926,8 @@
   },
   {
    "ticker": "IDAI",
-   "insiders": 3,
-   "total_value": 47619.89
+   "insiders": 2,
+   "total_value": 45619.76
   },
   {
    "ticker": "TNXP",
@@ -4947,7 +4947,7 @@
   {
    "ticker": "RCG",
    "insiders": 2,
-   "total_value": 25013.16
+   "total_value": 22782.96
   },
   {
    "ticker": "CWBC",
@@ -4967,16 +4967,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024266",
-  "0001918704-26-024267",
-  "0001918704-26-024268",
-  "0001918704-26-024269",
-  "0001918704-26-024272",
-  "0001918704-26-024273",
-  "0001918704-26-024274",
-  "0001918704-26-024275",
-  "0001918704-26-024276",
-  "0001918704-26-024279",
   "0001918704-26-024280",
   "0001918704-26-024282",
   "0001918704-26-024284",
@@ -5971,6 +5961,15 @@
   "0001918704-26-025628",
   "0001918704-26-025629",
   "0001918704-26-025630",
+  "0001918704-26-025631",
+  "0001918704-26-025632",
+  "0001918704-26-025633",
+  "0001918704-26-025634",
+  "0001918704-26-025635",
+  "0001918704-26-025636",
+  "0001918704-26-025637",
+  "0001918704-26-025638",
+  "0001918704-26-025639",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6265,6 +6264,7 @@
   "0001976408-26-000777",
   "0001976408-26-000787",
   "0001976408-26-000788",
+  "0001976408-26-000790",
   "0001976540-26-000008",
   "0001976672-26-000057",
   "0001976672-26-000059",
