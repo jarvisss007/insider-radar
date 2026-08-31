@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-31 12:38 UTC",
+ "updated_utc": "2026-08-31 12:55 UTC",
  "purchases": [
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-19",
-   "shares": 68569.0,
-   "price": 223.448,
-   "value": 15321605.91,
-   "acc": "0001104659-26-099249",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "MDRR",
-   "company": "Medalist Diversified, Inc.",
-   "insider": "Winn Charles Brent Jr.",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-08-20",
-   "shares": 3.0,
-   "price": 11.5,
-   "value": 34.5,
-   "acc": "0001808471-26-000013",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4510,6 +4486,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "Dalton Travis",
+   "role": "Pres., CEO & Executive Chair",
+   "date": "2026-08-27",
+   "shares": 4500.0,
+   "price": 38.8052,
+   "value": 174623.4,
+   "acc": "0001628280-26-059472",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4725,6 +4713,18 @@
    "value": 49993.9,
    "acc": "0001437749-26-029233",
    "filed": "2026-08-28"
+  },
+  {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "Dalton Travis",
+   "role": "Pres., CEO & Executive Chair",
+   "date": "2026-08-28",
+   "shares": 1950.0,
+   "price": 38.4823,
+   "value": 75040.49,
+   "acc": "0001628280-26-059472",
+   "filed": "2026-08-31"
   },
   {
    "ticker": "UAMY",
@@ -4977,7 +4977,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024202",
   "0001918704-26-024203",
   "0001918704-26-024209",
   "0001918704-26-024210",
@@ -5990,6 +5989,7 @@
   "0001918704-26-025577",
   "0001918704-26-025578",
   "0001918704-26-025579",
+  "0001918704-26-025580",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
