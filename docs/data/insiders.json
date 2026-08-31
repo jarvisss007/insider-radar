@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-08-31 21:38 UTC",
+ "updated_utc": "2026-08-31 22:09 UTC",
  "purchases": [
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 6006.0,
-   "price": 6.146,
-   "value": 36912.88,
-   "acc": "0001214659-26-010748",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "SCOR",
-   "company": "COMSCORE, INC.",
-   "insider": "Kline David",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 7000.0,
-   "price": 5.29,
-   "value": 37030.0,
-   "acc": "0001851666-26-000004",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "SELF",
-   "company": "Global Self Storage, Inc.",
-   "insider": "WINMILL & CO. INC",
-   "role": "",
-   "date": "2026-08-20",
-   "shares": 6901.0,
-   "price": 5.4219,
-   "value": 37416.53,
-   "acc": "0001628873-26-000077",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "DGXX",
-   "company": "Digi Power X Inc.",
-   "insider": "Amar Alec",
-   "role": "President",
-   "date": "2026-08-20",
-   "shares": 10000.0,
-   "price": 3.86,
-   "value": 38600.0,
-   "acc": "0001213900-26-092493",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "FOSL",
-   "company": "Fossil Group, Inc.",
-   "insider": "Edwards Pamela J",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 7208.0,
-   "price": 5.58,
-   "value": 40220.64,
-   "acc": "0000883569-26-000060",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "MATW",
    "company": "MATTHEWS INTERNATIONAL CORP",
@@ -3538,6 +3478,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "Corrado Felipe Amilcar IV",
+   "role": "Interim CEO & CFO",
+   "date": "2026-08-27",
+   "shares": 10000.0,
+   "price": 0.36,
+   "value": 3600.0,
+   "acc": "0001683168-26-006833",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "VRSN",
    "company": "VERISIGN INC/CA",
    "insider": "Armstrong Courtney D",
@@ -3620,6 +3572,18 @@
    "value": 6748.3,
    "acc": "0001536588-26-000029",
    "filed": "2026-08-28"
+  },
+  {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 20000.0,
+   "price": 0.3414,
+   "value": 6828.0,
+   "acc": "0001683168-26-006834",
+   "filed": "2026-08-31"
   },
   {
    "ticker": "VRXA",
@@ -3932,6 +3896,18 @@
    "value": 91360.0,
    "acc": "0001628280-26-059314",
    "filed": "2026-08-27"
+  },
+  {
+   "ticker": "FTCI",
+   "company": "FTC Solar, Inc.",
+   "insider": "SADASIVAM SHAKER",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 39583.0,
+   "price": 2.35,
+   "value": 93020.05,
+   "acc": "0001193125-26-377154",
+   "filed": "2026-08-31"
   },
   {
    "ticker": "MTDR",
@@ -4304,6 +4280,18 @@
    "price": 3.913,
    "value": 5857.76,
    "acc": "0001325533-26-000006",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 20000.0,
+   "price": 0.3598,
+   "value": 7196.0,
+   "acc": "0001683168-26-006834",
    "filed": "2026-08-31"
   },
   {
@@ -4764,6 +4752,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "APCX",
+   "company": "AppTech Payments Corp.",
+   "insider": "LORD ALBERT L",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 20000.0,
+   "price": 0.3621,
+   "value": 7242.0,
+   "acc": "0001683168-26-006834",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "MSGM",
    "company": "Motorsport Games Inc.",
    "insider": "Red Oak Partners, LLC",
@@ -4875,14 +4875,14 @@
    "total_value": 261575.78
   },
   {
-   "ticker": "SCOR",
-   "insiders": 3,
-   "total_value": 246830.0
-  },
-  {
    "ticker": "KEEL",
    "insiders": 2,
    "total_value": 229496.29
+  },
+  {
+   "ticker": "SCOR",
+   "insiders": 2,
+   "total_value": 209800.0
   },
   {
    "ticker": "LIEN",
@@ -4935,6 +4935,11 @@
    "total_value": 49118.0
   },
   {
+   "ticker": "APCX",
+   "insiders": 2,
+   "total_value": 46256.0
+  },
+  {
    "ticker": "HKHC",
    "insiders": 2,
    "total_value": 34414.0
@@ -4967,8 +4972,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024451",
-  "0001918704-26-024452",
   "0001918704-26-024453",
   "0001918704-26-024454",
   "0001918704-26-024455",
@@ -7714,6 +7717,7 @@
   "0002104172-26-000010",
   "0002104631-26-000012",
   "0002104631-26-000013",
+  "0002104631-26-000016",
   "0002104636-26-000005",
   "0002104954-26-000001",
   "0002105635-26-000006",
@@ -7869,6 +7873,7 @@
   "0002134641-26-000006",
   "0002134882-26-000006",
   "0002135290-26-000005",
+  "0002135314-26-000012",
   "0002135506-26-000005",
   "0002135516-26-000004",
   "0002135736-26-000004",
