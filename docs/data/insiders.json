@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-31 18:58 UTC",
+ "updated_utc": "2026-08-31 19:14 UTC",
  "purchases": [
-  {
-   "ticker": "NFJ",
-   "company": "Virtus Dividend, Interest & Premium Strategy Fund",
-   "insider": "MCDANIEL CONNIE D",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 350.0,
-   "price": 15.67,
-   "value": 5484.5,
-   "acc": "0001101225-26-000012",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "NWBI",
    "company": "Northwest Bancshares, Inc.",
@@ -3802,6 +3790,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Gibson Dwight Audley Konrad",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 5.47,
+   "price": 44.58,
+   "value": 243.85,
+   "acc": "0002035989-26-000076",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4861,8 +4861,8 @@
   },
   {
    "ticker": "AMRZ",
-   "insiders": 2,
-   "total_value": 341235.5
+   "insiders": 3,
+   "total_value": 341479.35
   },
   {
    "ticker": "TISI",
@@ -4962,7 +4962,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024361",
   "0001918704-26-024362",
   "0001918704-26-024363",
   "0001918704-26-024364",
@@ -7203,6 +7202,7 @@
   "0002035959-26-000005",
   "0002035989-26-000069",
   "0002035989-26-000074",
+  "0002035989-26-000076",
   "0002036507-26-000007",
   "0002036536-26-000010",
   "0002036664-26-000003",
