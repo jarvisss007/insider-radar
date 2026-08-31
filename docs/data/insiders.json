@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-08-31 21:06 UTC",
+ "updated_utc": "2026-08-31 21:38 UTC",
  "purchases": [
-  {
-   "ticker": "HGBL",
-   "company": "Heritage Global Inc.",
-   "insider": "COBB BRIAN J.",
-   "role": "CFO",
-   "date": "2026-08-20",
-   "shares": 20000.0,
-   "price": 1.1,
-   "value": 22000.0,
-   "acc": "0001193125-26-359359",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "SLNH",
-   "company": "Soluna Holdings, Inc",
-   "insider": "PICCHI MICHAEL",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-20",
-   "shares": 20000.0,
-   "price": 1.15,
-   "value": 23000.0,
-   "acc": "0001493152-26-039911",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "OBDC",
-   "company": "Blue Owl Capital Corp",
-   "insider": "Nicholson Logan",
-   "role": "President",
-   "date": "2026-08-20",
-   "shares": 2325.0,
-   "price": 11.29,
-   "value": 26249.25,
-   "acc": "0001193125-26-361118",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "IDAI",
-   "company": "T Stamp Inc",
-   "insider": "Genner Gareth Neville",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-20",
-   "shares": 9394.0,
-   "price": 3.04,
-   "value": 28557.76,
-   "acc": "0001910573-26-000009",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "BCML",
-   "company": "BayCom Corp",
-   "insider": "Laverne Robert G.",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 1000.0,
-   "price": 29.95,
-   "value": 29950.0,
-   "acc": "0001437749-26-028707",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "NAKA",
-   "company": "Nakamoto Inc.",
-   "insider": "Bailey David F",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-20",
-   "shares": 4852.0,
-   "price": 6.2675,
-   "value": 30409.91,
-   "acc": "0001493152-26-039744",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
@@ -3622,6 +3550,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 1134.0,
+   "price": 3.9,
+   "value": 4422.6,
+   "acc": "0001325533-26-000006",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "HKHC",
    "company": "Horizon Kinetics Holding Corp",
    "insider": "Brennan Alice C",
@@ -3704,6 +3644,18 @@
    "value": 7736.6,
    "acc": "0001437749-26-029145",
    "filed": "2026-08-28"
+  },
+  {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 2146.0,
+   "price": 3.9,
+   "value": 8369.4,
+   "acc": "0001325533-26-000006",
+   "filed": "2026-08-31"
   },
   {
    "ticker": "FGL",
@@ -4343,6 +4295,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 1497.0,
+   "price": 3.913,
+   "value": 5857.76,
+   "acc": "0001325533-26-000006",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "AURX",
    "company": "Nuo Therapeutics, Inc.",
    "insider": "JORDEN DAVID EMERSON",
@@ -4377,6 +4341,18 @@
    "value": 10460.88,
    "acc": "0001520138-26-000383",
    "filed": "2026-08-28"
+  },
+  {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 2831.0,
+   "price": 3.913,
+   "value": 11077.7,
+   "acc": "0001325533-26-000006",
+   "filed": "2026-08-31"
   },
   {
    "ticker": "OBDC",
@@ -4776,6 +4752,30 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 1575.0,
+   "price": 3.931,
+   "value": 6191.32,
+   "acc": "0001325533-26-000006",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "MSGM",
+   "company": "Motorsport Games Inc.",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 2979.0,
+   "price": 3.931,
+   "value": 11710.45,
+   "acc": "0001325533-26-000006",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "SRTS",
    "company": "Sensus Healthcare, Inc.",
    "insider": "Sachetta Eric",
@@ -4900,11 +4900,6 @@
    "total_value": 171841.95
   },
   {
-   "ticker": "SLNH",
-   "insiders": 2,
-   "total_value": 117000.0
-  },
-  {
    "ticker": "BATL",
    "insiders": 2,
    "total_value": 110032.0
@@ -4920,6 +4915,11 @@
    "total_value": 96368.75
   },
   {
+   "ticker": "SLNH",
+   "insiders": 2,
+   "total_value": 94000.0
+  },
+  {
    "ticker": "VRXA",
    "insiders": 2,
    "total_value": 82650.0
@@ -4933,11 +4933,6 @@
    "ticker": "BIVI",
    "insiders": 4,
    "total_value": 49118.0
-  },
-  {
-   "ticker": "OBDC",
-   "insiders": 2,
-   "total_value": 37589.25
   },
   {
    "ticker": "HKHC",
@@ -4972,23 +4967,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024434",
-  "0001918704-26-024435",
-  "0001918704-26-024436",
-  "0001918704-26-024437",
-  "0001918704-26-024438",
-  "0001918704-26-024439",
-  "0001918704-26-024440",
-  "0001918704-26-024441",
-  "0001918704-26-024442",
-  "0001918704-26-024443",
-  "0001918704-26-024444",
-  "0001918704-26-024445",
-  "0001918704-26-024446",
-  "0001918704-26-024447",
-  "0001918704-26-024448",
-  "0001918704-26-024449",
-  "0001918704-26-024450",
   "0001918704-26-024451",
   "0001918704-26-024452",
   "0001918704-26-024453",
@@ -5949,6 +5927,18 @@
   "0001918704-26-025745",
   "0001918704-26-025746",
   "0001918704-26-025747",
+  "0001918704-26-025748",
+  "0001918704-26-025749",
+  "0001918704-26-025750",
+  "0001918704-26-025751",
+  "0001918704-26-025752",
+  "0001918704-26-025753",
+  "0001918704-26-025754",
+  "0001918704-26-025755",
+  "0001918704-26-025756",
+  "0001918704-26-025757",
+  "0001918704-26-025758",
+  "0001918704-26-025760",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -5960,6 +5950,7 @@
   "0001920061-26-000018",
   "0001920475-26-000014",
   "0001920481-26-000010",
+  "0001920484-26-000010",
   "0001920634-26-000020",
   "0001920856-26-000003",
   "0001921051-26-000012",
@@ -6188,6 +6179,7 @@
   "0001972931-26-000004",
   "0001973103-26-000007",
   "0001973239-26-000121",
+  "0001973239-26-000122",
   "0001973456-26-000007",
   "0001973495-26-000004",
   "0001973495-26-000005",
@@ -6937,6 +6929,9 @@
   "0001999371-26-019352",
   "0001999371-26-019354",
   "0001999371-26-019367",
+  "0001999371-26-019377",
+  "0001999371-26-019384",
+  "0001999371-26-019386",
   "0001999488-26-000011",
   "0001999525-26-000002",
   "0001999598-26-000010",
