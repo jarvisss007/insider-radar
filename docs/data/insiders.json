@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-08-31 19:14 UTC",
+ "updated_utc": "2026-08-31 19:30 UTC",
  "purchases": [
-  {
-   "ticker": "NWBI",
-   "company": "Northwest Bancshares, Inc.",
-   "insider": "Kranich Charles E.",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 385.0,
-   "price": 15.275,
-   "value": 5880.88,
-   "acc": "0001785665-26-000008",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "NIE",
-   "company": "Virtus Equity & Convertible Income Fund",
-   "insider": "MCDANIEL CONNIE D",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 245.0,
-   "price": 26.3693,
-   "value": 6460.48,
-   "acc": "0001101225-26-000008",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "CDR",
-   "company": "CEDAR REALTY TRUST, INC.",
-   "insider": "Simone Jason",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-20",
-   "shares": 400.0,
-   "price": 16.9995,
-   "value": 6799.8,
-   "acc": "0002134882-26-000006",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "EDF",
    "company": "Virtus Stone Harbor Emerging Markets Income Fund",
@@ -3790,6 +3754,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "ZNB",
+   "company": "Zeta Network Group",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 64.0,
+   "price": 1.76,
+   "value": 112.64,
+   "acc": "0001475597-26-000222",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "AMRZ",
    "company": "Amrize Ltd",
    "insider": "Gibson Dwight Audley Konrad",
@@ -4451,6 +4427,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "ZNB",
+   "company": "Zeta Network Group",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 1303.0,
+   "price": 1.67,
+   "value": 2176.01,
+   "acc": "0001475597-26-000222",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "EMYB",
    "company": "Embassy Bancorp, Inc.",
    "insider": "Lobach David M Jr",
@@ -4810,6 +4798,18 @@
    "value": 96601.55,
    "acc": "0002097345-26-000016",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "CVBF",
+   "company": "CVB FINANCIAL CORP",
+   "insider": "Maddox Mike",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 10000.0,
+   "price": 22.03,
+   "value": 220300.0,
+   "acc": "0000354647-26-000116",
+   "filed": "2026-08-31"
   }
  ],
  "clusters": [
@@ -4962,9 +4962,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024362",
-  "0001918704-26-024363",
-  "0001918704-26-024364",
   "0001918704-26-024365",
   "0001918704-26-024366",
   "0001918704-26-024367",
@@ -5954,6 +5951,9 @@
   "0001918704-26-025693",
   "0001918704-26-025694",
   "0001918704-26-025695",
+  "0001918704-26-025696",
+  "0001918704-26-025697",
+  "0001918704-26-025698",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
