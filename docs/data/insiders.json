@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-31 23:12 UTC",
+ "updated_utc": "2026-08-31 23:59 UTC",
  "purchases": [
-  {
-   "ticker": "BAER",
-   "company": "Bridger Aerospace Group Holdings, Inc.",
-   "insider": "KELTER JEFFREY E",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 50000.0,
-   "price": 1.1572,
-   "value": 57860.0,
-   "acc": "0001683168-26-006637",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "BAER",
    "company": "Bridger Aerospace Group Holdings, Inc.",
@@ -4727,6 +4715,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "UAMY",
+   "company": "UNITED STATES ANTIMONY CORP",
+   "insider": "Aguirre Blaise A.",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 1400.0,
+   "price": 5.035,
+   "value": 7049.0,
+   "acc": "0001104659-26-103998",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -4914,6 +4914,11 @@
    "total_value": 108418.76
   },
   {
+   "ticker": "UAMY",
+   "insiders": 2,
+   "total_value": 105449.0
+  },
+  {
    "ticker": "GEVO",
    "insiders": 2,
    "total_value": 96368.75
@@ -4981,7 +4986,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024457",
   "0001918704-26-024458",
   "0001918704-26-024459",
   "0001918704-26-024460",
@@ -6010,6 +6014,7 @@
   "0001932635-26-000005",
   "0001932635-26-000007",
   "0001932651-26-000003",
+  "0001932848-26-000019",
   "0001932878-26-000002",
   "0001932973-26-000021",
   "0001933414-26-000099",
