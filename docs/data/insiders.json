@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-31 18:10 UTC",
+ "updated_utc": "2026-08-31 18:26 UTC",
  "purchases": [
-  {
-   "ticker": "RVSB",
-   "company": "RIVERVIEW BANCORP INC",
-   "insider": "Benke Robert",
-   "role": "EVP/CCO",
-   "date": "2026-08-20",
-   "shares": 1000.0,
-   "price": 5.05,
-   "value": 5050.0,
-   "acc": "0001991703-26-000004",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "CBK",
    "company": "Commercial Bancgroup, Inc.",
@@ -4800,6 +4788,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-08-31",
+   "shares": 3500.0,
+   "price": 0.049,
+   "value": 171.5,
+   "acc": "0001035422-26-000008",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "SRTS",
    "company": "Sensus Healthcare, Inc.",
    "insider": "Sachetta Eric",
@@ -4962,7 +4962,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024347",
   "0001918704-26-024348",
   "0001918704-26-024349",
   "0001918704-26-024350",
@@ -5957,6 +5956,7 @@
   "0001918704-26-025682",
   "0001918704-26-025683",
   "0001918704-26-025684",
+  "0001918704-26-025685",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
