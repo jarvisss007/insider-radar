@@ -863,3 +863,67 @@ sweep summary; not patched here.
   naive t of +2.37 assumes 965 independent events across 55 weeks; clustered it is +0.90. The ledger
   keeps logging every cluster anyway, because the ledger and not the literature gets the final word —
   and the ledger currently says **+3.21% vs SPX +3.32%, i.e. 11bp behind the index.**
+
+## 2026-08-31 — a due date is not a settled date (and it hits every row this lab writes)
+
+**Scored: nothing.** SCTX and ACI came due today and were NOT scored, because at 08:30 PDT
+the 2026-08-31 session is open and the "close" the feed hands back is a live print. Both
+would currently score `right` and by wide margins (SCTX +46.7%, ACI +8.1%), which is why the
+refusal is recorded here in advance of the settled number.
+
+**The mechanism, stated generally, because it is not an incident.** `INS-012` ruled the case
+where a check date has NO bar — roll forward, stamped. Nobody has ruled the mirror case:
+**the bar exists and is not yet final.** That case is not an edge case for this lab, it is
+the *default*: the morning sweep fires at 08:20 PT, the US session runs 06:30–13:00 PT, so
+**every US check date this book will ever write comes due mid-session first.** 108 open rows
+are queued behind this. The failure mode is silent by construction — a partial bar is
+byte-identical in shape to a close, so a scorer that trusts it produces a plausible number
+and no error (Firm Brain §3: a silent zero, or here a silent price, is indistinguishable
+from a correct one).
+
+**Proposed guard (not shipped — this is a resolution rule and Anupam's to rule):** resolve a
+row only against a bar whose SESSION HAS ENDED, established from the data's own stamp
+(`regularMarketTime` / `currentTradingPeriod.regular.end` on the chart payload), never from
+the wall clock and never from the bar's mere existence. A row due today with an open session
+reports `deferred — session open`, which is a THIRD visible state, distinct from `pending`
+(not yet due) and from `stalled` (INS-012's feed hole). Machine-checkable test:
+`insider_never_resolves_on_open_session` — for every scored row, the resolution bar's
+session-end stamp is strictly earlier than the row's scoring timestamp.
+
+**I audited before I deferred, because deferring is only defensible if the book is already
+clean.** Re-fetched all 12 scored rows: every `price_at_check` matches its resolution bar's
+settled close **to the cent, 12/12**. So there is no contamination to repair — the guard is
+protecting a clean record, not patching a dirty one. That check is worth repeating whenever
+a new guard is proposed: *establish whether the defect has already happened before deciding
+how urgent the guard is.*
+
+**Same mechanism, second instance, in our own detector.** `agent/stale_quote.py` builds its
+window from the last N bars, and today that window ended on the 08-31 partial bar for all
+five checks (e.g. BLX `[54.52, 54.76, 54.54, 54.17]`, where 54.17 is a live print). No
+verdict changed today — all five had four distinct closes — but the consequence is that
+**`stale_quote` is time-of-day dependent**: the same row logged at 05:00 PT and at 08:35 PT
+can get different answers, because a mid-session print that happens to equal the prior close
+manufactures an identical-close run that is not real. A disclosure column whose value depends
+on when you asked is a weak disclosure. Same fix as above: the window should end at the last
+SETTLED bar.
+
+**Anchor corrected today, and it is a correction, not a new convention.** `price_at_call` for
+today's five rows is the 08-28 settled close. AGENT.md says "latest daily close" and a
+partial intraday bar is not a daily close — so the mid-session anchors of previous runs were
+the deviation from the written rule, not this. Evidence the difference is real and not
+cosmetic: last run anchored MAIR at 26.39 when MAIR's 08-28 close was 26.33, and today the
+same endpoint returned `None` for UNB's 08-31 bar — for an illiquid name there may be no
+mid-session print at all, so the mid-session anchor is not merely imprecise, it is sometimes
+absent. **No prior row was rewritten (BENCH-002).**
+
+**The scorecard lesson, cited from the tables and not from impression.** `strata.py`: headline
+≥$100k 80% on n=10, sub-floor 50% on n=2. `attribution.py`: 12 scored, and every stratum it
+reports sits on **dates=2**. Computed fresh against SPY: all-12 mean +3.30% vs SPY +3.68%,
+**excess −0.38 pp**, beat-SPY rate 58%. Headline stratum alone is +0.21 pp. The blunt version:
+**this book's 75–80% hit rate is a bull tape, and against the only benchmark that matters it
+is behind.** Per the standing instruction, `n` is too small to support any lesson about which
+cluster features work — every split reads `dates=2`, so the honest sentence is **"n too
+small"**, written exactly that way, and I am not repeating the CEO-100%/directors-62% split
+as if it meant something.
+
+[insider]
