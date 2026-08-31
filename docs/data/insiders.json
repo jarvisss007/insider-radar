@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-08-31 18:42 UTC",
+ "updated_utc": "2026-08-31 18:58 UTC",
  "purchases": [
-  {
-   "ticker": "CBK",
-   "company": "Commercial Bancgroup, Inc.",
-   "insider": "Metheny Philip J.",
-   "role": "EVP, Chief Financial Officer",
-   "date": "2026-08-20",
-   "shares": 150.0,
-   "price": 33.77,
-   "value": 5065.5,
-   "acc": "0000898432-26-000690",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "HKHC",
-   "company": "Horizon Kinetics Holding Corp",
-   "insider": "Herndon Mark",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-20",
-   "shares": 200.0,
-   "price": 26.75,
-   "value": 5350.0,
-   "acc": "0001437749-26-028621",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "NFJ",
    "company": "Virtus Dividend, Interest & Premium Strategy Fund",
@@ -4607,6 +4583,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "AXIA3",
+   "company": "AXIA Energia S.A.",
+   "insider": "Corso Matte Ana Silvia",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 1400.0,
+   "price": 10.24,
+   "value": 14336.0,
+   "acc": "0001213900-26-095647",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "ALLE",
    "company": "Allegion plc",
    "insider": "MIZELL STEVEN",
@@ -4776,6 +4764,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
+   "company": "Privacore VPC Asset Backed Credit Fund",
+   "insider": "BANKERS LIFE & CASUALTY CO",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 493096.647,
+   "price": 10.14,
+   "value": 5000000.0,
+   "acc": "0000903939-26-000028",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "SHMD",
    "company": "SCHMID Group N.V.",
    "insider": "Schmid Anette",
@@ -4931,8 +4931,8 @@
   },
   {
    "ticker": "HKHC",
-   "insiders": 3,
-   "total_value": 39764.0
+   "insiders": 2,
+   "total_value": 34414.0
   },
   {
    "ticker": "UNB",
@@ -4962,10 +4962,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024357",
-  "0001918704-26-024358",
-  "0001918704-26-024359",
-  "0001918704-26-024360",
   "0001918704-26-024361",
   "0001918704-26-024362",
   "0001918704-26-024363",
@@ -5957,6 +5953,8 @@
   "0001918704-26-025691",
   "0001918704-26-025692",
   "0001918704-26-025693",
+  "0001918704-26-025694",
+  "0001918704-26-025695",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6260,6 +6258,7 @@
   "0001976672-26-000059",
   "0001976672-26-000062",
   "0001976672-26-000063",
+  "0001976672-26-000065",
   "0001976684-26-000011",
   "0001976685-26-000017",
   "0001976718-26-000009",
@@ -7961,6 +7960,7 @@
   "0002150105-26-000006",
   "0002150387-26-000004",
   "0002150553-26-000005",
+  "0002150553-26-000007",
   "0002151121-26-000004"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
