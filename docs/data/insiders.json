@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-08-31 11:51 UTC",
+ "updated_utc": "2026-08-31 12:07 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Marcos Marcelo",
-   "role": "Director",
-   "date": "2026-08-19",
-   "shares": 902975.0,
-   "price": 3.339,
-   "value": 3015033.52,
-   "acc": "0002022936-26-000012",
-   "filed": "2026-08-20"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -4342,6 +4330,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "TNXP",
+   "company": "Tonix Pharmaceuticals Holding Corp.",
+   "insider": "LEDERMAN SETH",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-27",
+   "shares": 2000.0,
+   "price": 13.79,
+   "value": 27580.0,
+   "acc": "0001493152-26-040736",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "ESEA",
    "company": "EUROSEAS LTD.",
    "insider": "Pittas Aristeidis P",
@@ -4928,6 +4928,11 @@
    "ticker": "IDAI",
    "insiders": 3,
    "total_value": 47619.89
+  },
+  {
+   "ticker": "TNXP",
+   "insiders": 2,
+   "total_value": 40180.0
   },
   {
    "ticker": "HKHC",
