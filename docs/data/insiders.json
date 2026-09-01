@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-01 16:31 UTC",
+ "updated_utc": "2026-09-01 16:47 UTC",
  "purchases": [
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 5976.0,
-   "price": 193.68,
-   "value": 1157431.68,
-   "acc": "0001812746-26-000008",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "GWRS",
-   "company": "Global Water Resources, Inc.",
-   "insider": "Cohn Andrew M.",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 139343.0,
-   "price": 8.85,
-   "value": 1233185.55,
-   "acc": "0001628280-26-058496",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
@@ -4809,18 +4785,42 @@
    "value": 341175.0,
    "acc": "0001493152-26-040895",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "company": "John Hancock GA Senior Loan Trust",
+   "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 1408071.2234,
+   "price": 16.33,
+   "value": 22993803.08,
+   "acc": "0001833683-26-000017",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "company": "John Hancock GA Senior Loan Trust",
+   "insider": "Manufacturers Life Reinsurance Ltd",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 2693701.4709,
+   "price": 16.33,
+   "value": 43988145.02,
+   "acc": "0001765496-26-000017",
+   "filed": "2026-09-01"
   }
  ],
  "clusters": [
   {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "insiders": 2,
+   "total_value": 66981948.1
+  },
+  {
    "ticker": "BABA",
    "insiders": 2,
    "total_value": 25691200.0
-  },
-  {
-   "ticker": "GWRS",
-   "insiders": 2,
-   "total_value": 7000004.85
   },
   {
    "ticker": "NGL",
@@ -4976,8 +4976,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024652",
-  "0001918704-26-024653",
   "0001918704-26-024654",
   "0001918704-26-024655",
   "0001918704-26-024656",
@@ -5910,6 +5908,8 @@
   "0001918704-26-025906",
   "0001918704-26-025907",
   "0001918704-26-025908",
+  "0001918704-26-025910",
+  "0001918704-26-025911",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
