@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-09-01 20:45 UTC",
+ "updated_utc": "2026-09-01 21:02 UTC",
  "purchases": [
-  {
-   "ticker": "FGL",
-   "company": "Founder Group Ltd",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 76711.0,
-   "price": 0.265,
-   "value": 20328.42,
-   "acc": "0001475597-26-000211",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "QXL",
-   "company": "QUANTUM X LABS INC.",
-   "insider": "Yoresh Eliyahu",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 4500.0,
-   "price": 4.77,
-   "value": 21465.0,
-   "acc": "0001493152-26-039791",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "TMCI",
-   "company": "TREACE MEDICAL CONCEPTS, INC.",
-   "insider": "Treace John T.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-21",
-   "shares": 5000.0,
-   "price": 4.3495,
-   "value": 21747.5,
-   "acc": "0001193125-26-363737",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "SRTS",
-   "company": "Sensus Healthcare, Inc.",
-   "insider": "Sachetta Eric",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 7000.0,
-   "price": 3.254,
-   "value": 22778.0,
-   "acc": "0002097345-26-000010",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "TISI",
-   "company": "TEAM INC",
-   "insider": "Roeder Clinton William",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 22.84,
-   "value": 22840.0,
-   "acc": "0002141866-26-000004",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "EPSN",
-   "company": "Epsilon Energy Ltd.",
-   "insider": "Stabell Jason",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-21",
-   "shares": 4900.0,
-   "price": 5.56,
-   "value": 27244.0,
-   "acc": "0001104659-26-100600",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "BCML",
-   "company": "BayCom Corp",
-   "insider": "Laverne Robert G.",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 29.85,
-   "value": 29850.0,
-   "acc": "0001437749-26-028892",
-   "filed": "2026-08-25"
-  },
   {
    "ticker": "EQPT",
    "company": "EquipmentShare.com Inc",
@@ -3682,6 +3598,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
+   "company": "Andalusian Credit Company, LLC",
+   "insider": "Kless Aaron",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-28",
+   "shares": 455.83,
+   "price": 15.32,
+   "value": 6983.32,
+   "acc": "0001104659-26-104355",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -3847,6 +3775,18 @@
    "price": 12.47,
    "value": 14964.0,
    "acc": "0001510281-26-000284",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 2800.0,
+   "price": 6.23,
+   "value": 17444.0,
+   "acc": "0001628280-26-059899",
    "filed": "2026-09-01"
   },
   {
@@ -4030,6 +3970,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "MATHRANI SANDEEP",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 9350.0,
+   "price": 6.4125,
+   "value": 59956.88,
+   "acc": "0001628280-26-059898",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "MAIA",
    "company": "MAIA Biotechnology, Inc.",
    "insider": "Guerrero Ramiro",
@@ -4114,6 +4066,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
+   "company": "Andalusian Credit Company, LLC",
+   "insider": "Frank Alan L",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 7309.71,
+   "price": 15.32,
+   "value": 111984.76,
+   "acc": "0001104659-26-104354",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "AMR",
    "company": "Alpha Metallurgical Resources, Inc.",
    "insider": "Courtis Kenneth S.",
@@ -4172,6 +4136,18 @@
    "value": 196203.05,
    "acc": "0001812746-26-000011",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
+   "company": "Andalusian Credit Company, LLC",
+   "insider": "Otting Joseph M",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 13674.88,
+   "price": 15.32,
+   "value": 209499.16,
+   "acc": "0001104659-26-104356",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "FTCI",
@@ -4436,6 +4412,18 @@
    "price": 21.51,
    "value": 2301.57,
    "acc": "0001628280-26-059851",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 400.0,
+   "price": 6.25,
+   "value": 2500.0,
+   "acc": "0001628280-26-059899",
    "filed": "2026-09-01"
   },
   {
@@ -4809,6 +4797,18 @@
    "value": 98880.0,
    "acc": "0001493152-26-041030",
    "filed": "2026-09-01"
+  },
+  {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 1000.0,
+   "price": 614.0,
+   "value": 614000.0,
+   "acc": "0001628280-26-059899",
+   "filed": "2026-09-01"
   }
  ],
  "clusters": [
@@ -4838,6 +4838,11 @@
    "total_value": 862373.4
   },
   {
+   "ticker": "LUCK",
+   "insiders": 2,
+   "total_value": 693900.88
+  },
+  {
    "ticker": "AMRC",
    "insiders": 3,
    "total_value": 638325.66
@@ -4854,9 +4859,14 @@
    "total_value": 341479.35
   },
   {
+   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
+   "insiders": 3,
+   "total_value": 328467.24
+  },
+  {
    "ticker": "TISI",
    "insiders": 2,
-   "total_value": 298140.0
+   "total_value": 275300.0
   },
   {
    "ticker": "HWKN",
@@ -4961,16 +4971,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024867",
-  "0001918704-26-024868",
-  "0001918704-26-024869",
-  "0001918704-26-024870",
-  "0001918704-26-024871",
-  "0001918704-26-024872",
-  "0001918704-26-024873",
-  "0001918704-26-024874",
-  "0001918704-26-024875",
-  "0001918704-26-024876",
   "0001918704-26-024877",
   "0001918704-26-024878",
   "0001918704-26-024879",
@@ -5873,6 +5873,15 @@
   "0001918704-26-026013",
   "0001918704-26-026014",
   "0001918704-26-026015",
+  "0001918704-26-026022",
+  "0001918704-26-026023",
+  "0001918704-26-026024",
+  "0001918704-26-026025",
+  "0001918704-26-026026",
+  "0001918704-26-026027",
+  "0001918704-26-026028",
+  "0001918704-26-026030",
+  "0001918704-26-026032",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7481,6 +7490,7 @@
   "0002071844-26-001128",
   "0002071844-26-001148",
   "0002071844-26-001152",
+  "0002071844-26-001167",
   "0002071876-26-000190",
   "0002071948-26-000005",
   "0002073180-26-000006",
