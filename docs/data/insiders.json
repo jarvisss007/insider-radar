@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-01 16:47 UTC",
+ "updated_utc": "2026-09-01 17:18 UTC",
  "purchases": [
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-20",
-   "shares": 189300.0,
-   "price": 7.63,
-   "value": 1444359.0,
-   "acc": "0001140361-26-033922",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "ODYS",
-   "company": "Odysight.ai Inc.",
-   "insider": "Arkin Moshe",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 1125000.0,
-   "price": 3.2,
-   "value": 3600000.0,
-   "acc": "0001493152-26-039861",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "GWRS",
    "company": "Global Water Resources, Inc.",
@@ -4631,6 +4607,30 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-31",
+   "shares": 4100.0,
+   "price": 1.15,
+   "value": 4715.0,
+   "acc": "0001079973-26-001204",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "ATLO",
+   "company": "AMES NATIONAL CORP",
+   "insider": "Cassabaum Michelle R",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 180.0,
+   "price": 31.54,
+   "value": 5677.2,
+   "acc": "0001773399-26-000007",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "MSGM",
    "company": "Motorsport Games Inc.",
    "insider": "Red Oak Partners, LLC",
@@ -4976,8 +4976,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024654",
-  "0001918704-26-024655",
   "0001918704-26-024656",
   "0001918704-26-024657",
   "0001918704-26-024658",
@@ -5910,6 +5908,7 @@
   "0001918704-26-025908",
   "0001918704-26-025910",
   "0001918704-26-025911",
+  "0001918704-26-025914",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6924,6 +6923,7 @@
   "0001999371-26-019448",
   "0001999371-26-019450",
   "0001999371-26-019453",
+  "0001999371-26-019457",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
