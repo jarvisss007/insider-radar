@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-01 00:15 UTC",
+ "updated_utc": "2026-09-01 00:31 UTC",
  "purchases": [
-  {
-   "ticker": "ODYS",
-   "company": "Odysight.ai Inc.",
-   "insider": "Vurembrand Zeev",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 31250.0,
-   "price": 3.2,
-   "value": 100000.0,
-   "acc": "0001493152-26-039862",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "USAC",
    "company": "USA Compression Partners, LP",
@@ -4763,6 +4751,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "BJRI",
+   "company": "BJs RESTAURANTS INC",
+   "insider": "Richmond C Bradford",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 753.0,
+   "price": 63.25,
+   "value": 47627.25,
+   "acc": "0001193125-26-377253",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "SRTS",
    "company": "Sensus Healthcare, Inc.",
    "insider": "Sachetta Eric",
@@ -4829,8 +4829,8 @@
   },
   {
    "ticker": "ODYS",
-   "insiders": 3,
-   "total_value": 3850000.0
+   "insiders": 2,
+   "total_value": 3750000.0
   },
   {
    "ticker": "TTMI",
@@ -4981,7 +4981,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024462",
   "0001918704-26-024463",
   "0001918704-26-024464",
   "0001918704-26-024465",
@@ -7245,6 +7244,7 @@
   "0002043317-26-000012",
   "0002043379-26-000010",
   "0002043379-26-000012",
+  "0002043395-26-000012",
   "0002043411-26-000014",
   "0002043506-26-000005",
   "0002043764-26-000006",
