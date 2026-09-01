@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-01 10:36 UTC",
+ "updated_utc": "2026-09-01 12:18 UTC",
  "purchases": [
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 1151.0,
-   "price": 192.09,
-   "value": 221095.59,
-   "acc": "0001812746-26-000008",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 1234.0,
-   "price": 192.8,
-   "value": 237915.2,
-   "acc": "0001812746-26-000008",
-   "filed": "2026-08-20"
-  },
-  {
-   "ticker": "INV",
-   "company": "Innventure, Inc.",
-   "insider": "Donnally James O",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 225000.0,
-   "price": 1.5,
-   "value": 337500.0,
-   "acc": "0001628280-26-058331",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "INV",
    "company": "Innventure, Inc.",
@@ -4390,6 +4354,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "AMRC",
+   "company": "Ameresco, Inc.",
+   "insider": "Sakellaris George P",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-28",
+   "shares": 3000.0,
+   "price": 22.13,
+   "value": 66390.0,
+   "acc": "0001628280-26-059708",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "CTEV",
    "company": "Claritev Corp",
    "insider": "Dalton Travis",
@@ -4508,6 +4484,18 @@
    "value": 196203.05,
    "acc": "0001812746-26-000011",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "FTCI",
+   "company": "FTC Solar, Inc.",
+   "insider": "SADASIVAM SHAKER",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 101083.0,
+   "price": 2.69,
+   "value": 271913.27,
+   "acc": "0001193125-26-377575",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "AMR",
@@ -4665,6 +4653,18 @@
    "value": 992.0,
    "acc": "0001214659-26-011250",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "CZFS",
+   "company": "CITIZENS FINANCIAL SERVICES INC",
+   "insider": "Guillaume Stephen J",
+   "role": "SENIOR VICE PRESIDENT",
+   "date": "2026-08-31",
+   "shares": 24.0,
+   "price": 76.32,
+   "value": 1831.68,
+   "acc": "0000739421-26-000073",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "MSGM",
@@ -4838,14 +4838,9 @@
    "total_value": 862373.4
   },
   {
-   "ticker": "INV",
-   "insiders": 2,
-   "total_value": 686795.1
-  },
-  {
    "ticker": "AMRC",
    "insiders": 3,
-   "total_value": 571935.66
+   "total_value": 638325.66
   },
   {
    "ticker": "MAIR",
