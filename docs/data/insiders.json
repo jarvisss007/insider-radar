@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-01 00:31 UTC",
+ "updated_utc": "2026-09-01 00:46 UTC",
  "purchases": [
-  {
-   "ticker": "USAC",
-   "company": "USA Compression Partners, LP",
-   "insider": "Whitehurst Bradford D.",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 4000.0,
-   "price": 26.4,
-   "value": 105600.0,
-   "acc": "0001779172-26-000006",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "BNL",
-   "company": "Broadstone Net Lease, Inc.",
-   "insider": "Imperiale Richard P",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 5000.0,
-   "price": 21.22,
-   "value": 106100.0,
-   "acc": "0001311618-26-000005",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "CORZ",
    "company": "Core Scientific, Inc./tx",
@@ -2489,6 +2465,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "BRID",
+   "company": "BRIDGFORD FOODS CORP",
+   "insider": "Bridgford Allan Jr.",
+   "role": "",
+   "date": "2026-08-26",
+   "shares": 1000.0,
+   "price": 6.2,
+   "value": 6200.0,
+   "acc": "0001493152-26-040906",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -4042,6 +4030,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "BRID",
+   "company": "BRIDGFORD FOODS CORP",
+   "insider": "Bridgford Baron",
+   "role": "",
+   "date": "2026-08-28",
+   "shares": 473.0,
+   "price": 6.15,
+   "value": 2908.95,
+   "acc": "0001493152-26-040905",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "XELB",
    "company": "XCel Brands, Inc.",
    "insider": "D LOREN ROBERT W",
@@ -4964,6 +4964,11 @@
    "total_value": 15367.0
   },
   {
+   "ticker": "BRID",
+   "insiders": 2,
+   "total_value": 9108.95
+  },
+  {
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 8061.01
@@ -4981,7 +4986,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024463",
   "0001918704-26-024464",
   "0001918704-26-024465",
   "0001918704-26-024466",
@@ -6978,6 +6982,7 @@
   "0002005037-26-000013",
   "0002005212-26-000005",
   "0002005790-26-000024",
+  "0002006278-26-000004",
   "0002006416-26-000013",
   "0002006495-26-000012",
   "0002006852-26-000005",
