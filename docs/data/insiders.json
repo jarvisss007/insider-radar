@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-01 22:53 UTC",
+ "updated_utc": "2026-09-01 23:56 UTC",
  "purchases": [
-  {
-   "ticker": "USAC",
-   "company": "USA Compression Partners, LP",
-   "insider": "Whitehurst Bradford D.",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 6000.0,
-   "price": 26.1,
-   "value": 156600.0,
-   "acc": "0001779172-26-000006",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "PODD",
-   "company": "INSULET CORP",
-   "insider": "McEvoy Ashley",
-   "role": "President and CEO",
-   "date": "2026-08-21",
-   "shares": 1100.0,
-   "price": 147.47,
-   "value": 162217.0,
-   "acc": "0001145197-26-000172",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "TISI",
-   "company": "TEAM INC",
-   "insider": "Roeder Clinton William",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-21",
-   "shares": 8000.0,
-   "price": 22.9,
-   "value": 183200.0,
-   "acc": "0002141866-26-000004",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "OPTU",
-   "company": "Optimum Communications, Inc.",
-   "insider": "SUBIN NEIL S",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 535191.0,
-   "price": 0.8457,
-   "value": 452611.03,
-   "acc": "0001213900-26-095292",
-   "filed": "2026-08-28"
-  },
   {
    "ticker": "HRI",
    "company": "HERC HOLDINGS INC",
@@ -4151,6 +4103,30 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "AUGO",
+   "company": "Aura Minerals Inc.",
+   "insider": "Sousa Mauad Bruno",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 26018.0,
+   "price": 82.5743,
+   "value": 2148418.14,
+   "acc": "0002117905-26-000026",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "AUGO",
+   "company": "Aura Minerals Inc.",
+   "insider": "Sousa Mauad Bruno",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 38430.0,
+   "price": 84.3175,
+   "value": 3240321.52,
+   "acc": "0002117905-26-000026",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
    "company": "Privacore VPC Asset Backed Credit Fund",
    "insider": "BANKERS LIFE & CASUALTY CO",
@@ -4161,6 +4137,30 @@
    "value": 5000000.0,
    "acc": "0000903939-26-000028",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "AUGO",
+   "company": "Aura Minerals Inc.",
+   "insider": "Sousa Mauad Bruno",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 61552.0,
+   "price": 83.5822,
+   "value": 5144651.57,
+   "acc": "0002117905-26-000026",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "AUGO",
+   "company": "Aura Minerals Inc.",
+   "insider": "Sousa Mauad Bruno",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 126000.0,
+   "price": 89.36,
+   "value": 11259360.0,
+   "acc": "0002117905-26-000026",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "SHMD",
@@ -4874,11 +4874,6 @@
    "total_value": 235742.88
   },
   {
-   "ticker": "TISI",
-   "insiders": 2,
-   "total_value": 229000.0
-  },
-  {
    "ticker": "SCOR",
    "insiders": 2,
    "total_value": 209800.0
@@ -4966,10 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024915",
-  "0001918704-26-024916",
-  "0001918704-26-024917",
-  "0001918704-26-024918",
   "0001918704-26-024919",
   "0001918704-26-024920",
   "0001918704-26-024921",
@@ -6019,6 +6010,7 @@
   "0001957887-26-000002",
   "0001958010-26-000010",
   "0001958644-26-000028",
+  "0001958644-26-000030",
   "0001958857-26-000003",
   "0001959033-26-000014",
   "0001959033-26-000016",
@@ -7352,6 +7344,7 @@
   "0002061670-26-000085",
   "0002061801-26-000011",
   "0002061801-26-000013",
+  "0002061801-26-000015",
   "0002061851-26-000006",
   "0002062044-26-000001",
   "0002062155-26-000002",
@@ -7760,6 +7753,7 @@
   "0002117905-26-000023",
   "0002117905-26-000024",
   "0002117905-26-000025",
+  "0002117905-26-000026",
   "0002117999-26-000006",
   "0002118012-26-000003",
   "0002118402-26-000013",
@@ -7780,6 +7774,7 @@
   "0002120899-26-000006",
   "0002121122-26-000001",
   "0002121311-26-000010",
+  "0002121464-26-000002",
   "0002121472-26-000001",
   "0002121472-26-000002",
   "0002121472-26-000003",
