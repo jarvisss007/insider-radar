@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-01 20:29 UTC",
+ "updated_utc": "2026-09-01 20:45 UTC",
  "purchases": [
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 3410.0,
-   "price": 3.669,
-   "value": 12511.29,
-   "acc": "0001325533-26-000005",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "PTIX",
-   "company": "Protagenic Therapeutics, Inc.\\new",
-   "insider": "ARMEN GARO H",
-   "role": "EXEC. CHAIR & PRINCIPAL OFF",
-   "date": "2026-08-21",
-   "shares": 20000.0,
-   "price": 0.65,
-   "value": 13000.0,
-   "acc": "0001493152-26-039816",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "NGL",
-   "company": "NGL Energy Partners LP",
-   "insider": "RAYMOND JOHN T",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 1126.0,
-   "price": 16.25,
-   "value": 18297.5,
-   "acc": "0001186173-26-000001",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "GEVO",
-   "company": "Gevo, Inc.",
-   "insider": "Kettner David Michael",
-   "role": "Chief Legal & Emrg Biz Officer",
-   "date": "2026-08-21",
-   "shares": 12500.0,
-   "price": 1.5495,
-   "value": 19368.75,
-   "acc": "0001628280-26-058727",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "FGL",
    "company": "Founder Group Ltd",
@@ -4451,6 +4403,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 500.0,
+   "price": 4.397,
+   "value": 2198.5,
+   "acc": "0001628280-26-059868",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4775,6 +4739,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "ITT",
+   "company": "ITT INC.",
+   "insider": "Savi Luca",
+   "role": "President and CEO",
+   "date": "2026-08-31",
+   "shares": 5019.0,
+   "price": 199.56,
+   "value": 1001591.64,
+   "acc": "0001193125-26-378510",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "company": "John Hancock GA Senior Loan Trust",
    "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
@@ -4799,6 +4775,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-09-01",
+   "shares": 200.0,
+   "price": 4.3624,
+   "value": 872.48,
+   "acc": "0001628280-26-059868",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "GOOD",
    "company": "GLADSTONE COMMERCIAL CORP",
    "insider": "Carter Ryan Stuart",
@@ -4808,6 +4796,18 @@
    "price": 13.02,
    "value": 1302.0,
    "acc": "0002127924-26-000015",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "BLNE",
+   "company": "Beeline Holdings, Inc.",
+   "insider": "Liuzza Nicholas Reyland JR",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-01",
+   "shares": 96000.0,
+   "price": 1.03,
+   "value": 98880.0,
+   "acc": "0001493152-26-041030",
    "filed": "2026-09-01"
   }
  ],
@@ -4825,7 +4825,7 @@
   {
    "ticker": "NGL",
    "insiders": 2,
-   "total_value": 5750140.64
+   "total_value": 5731843.14
   },
   {
    "ticker": "TTMI",
@@ -4899,11 +4899,6 @@
    "total_value": 105449.0
   },
   {
-   "ticker": "GEVO",
-   "insiders": 2,
-   "total_value": 96368.75
-  },
-  {
    "ticker": "SLNH",
    "insiders": 2,
    "total_value": 94000.0
@@ -4966,12 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024861",
-  "0001918704-26-024862",
-  "0001918704-26-024863",
-  "0001918704-26-024864",
-  "0001918704-26-024865",
-  "0001918704-26-024866",
   "0001918704-26-024867",
   "0001918704-26-024868",
   "0001918704-26-024869",
@@ -5881,7 +5870,11 @@
   "0001918704-26-026009",
   "0001918704-26-026010",
   "0001918704-26-026011",
+  "0001918704-26-026013",
+  "0001918704-26-026014",
+  "0001918704-26-026015",
   "0001918845-26-000024",
+  "0001918845-26-000031",
   "0001919175-26-000008",
   "0001919246-26-000100",
   "0001919246-26-000101",
@@ -7946,6 +7939,7 @@
   "0002147380-26-000006",
   "0002147392-26-000005",
   "0002147429-26-000003",
+  "0002147680-26-000004",
   "0002147807-26-000005",
   "0002147835-26-000007",
   "0002147955-26-000004",
@@ -7959,6 +7953,7 @@
   "0002148900-26-000005",
   "0002149159-26-000004",
   "0002149324-26-000005",
+  "0002149405-26-000004",
   "0002149626-26-000005",
   "0002149694-26-000006",
   "0002150105-26-000006",
