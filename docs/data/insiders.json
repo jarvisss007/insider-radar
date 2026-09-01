@@ -1,174 +1,6 @@
 {
- "updated_utc": "2026-09-01 20:13 UTC",
+ "updated_utc": "2026-09-01 20:29 UTC",
  "purchases": [
-  {
-   "ticker": "VENU",
-   "company": "Venu Holding Corp",
-   "insider": "ROTH JAY W",
-   "role": "CEO & Chairman",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 1.9176,
-   "value": 1917.6,
-   "acc": "0001493152-26-039935",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Gordon Scott",
-   "role": "Co-Chief Investment Officer",
-   "date": "2026-08-21",
-   "shares": 195.0,
-   "price": 9.95,
-   "value": 1940.25,
-   "acc": "0001193125-26-363730",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "YQ",
-   "company": "17 Education & Technology Group Inc.",
-   "insider": "Liu Chang",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-21",
-   "shares": 846.0,
-   "price": 2.457,
-   "value": 2078.62,
-   "acc": "0001193125-26-361706",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 756.0,
-   "price": 2.87,
-   "value": 2169.72,
-   "acc": "0001437749-26-028788",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 854.0,
-   "price": 2.905,
-   "value": 2480.87,
-   "acc": "0001536588-26-000026",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "Kesslen Jay H",
-   "role": "Vice-President",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 2.87,
-   "value": 2870.0,
-   "acc": "0001437749-26-028693",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "CBKM",
-   "company": "CONSUMERS BANCORP INC /OH/",
-   "insider": "Mikes Suzanne N",
-   "role": "EVP, Chief Credit Officer",
-   "date": "2026-08-21",
-   "shares": 100.0,
-   "price": 32.0,
-   "value": 3200.0,
-   "acc": "0001437749-26-028799",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "IDAI",
-   "company": "T Stamp Inc",
-   "insider": "Genner Gareth Neville",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 3.21,
-   "value": 3210.0,
-   "acc": "0001910573-26-000011",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "GAIA",
-   "company": "GAIA, INC",
-   "insider": "Sutherland Paul Howard",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 2500.0,
-   "price": 1.455,
-   "value": 3637.5,
-   "acc": "0001193125-26-364272",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "DFH",
-   "company": "Dream Finders Homes, Inc.",
-   "insider": "Sturm Len",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 250.0,
-   "price": 14.81,
-   "value": 3702.5,
-   "acc": "0000897069-26-001711",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 6.37,
-   "value": 6370.0,
-   "acc": "0001214659-26-010748",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 1802.0,
-   "price": 3.669,
-   "value": 6611.54,
-   "acc": "0001325533-26-000005",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "STOVESAND KIRK",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 255.0,
-   "price": 26.1,
-   "value": 6655.5,
-   "acc": "0001628280-26-058503",
-   "filed": "2026-08-21"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 7.41,
-   "value": 7410.0,
-   "acc": "0000912282-26-001145",
-   "filed": "2026-08-21"
-  },
   {
    "ticker": "MSGM",
    "company": "Motorsport Games Inc.",
@@ -2238,6 +2070,18 @@
    "filed": "2026-08-27"
   },
   {
+   "ticker": "MAIA",
+   "company": "MAIA Biotechnology, Inc.",
+   "insider": "Guerrero Ramiro",
+   "role": "Director",
+   "date": "2026-08-26",
+   "shares": 8931.0,
+   "price": 1.39,
+   "value": 12414.09,
+   "acc": "0001878313-26-000082",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "HKHC",
    "company": "Horizon Kinetics Holding Corp",
    "insider": "Roller Daniel J",
@@ -3441,6 +3285,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "MAIA",
+   "company": "MAIA Biotechnology, Inc.",
+   "insider": "Guerrero Ramiro",
+   "role": "Director",
+   "date": "2026-08-27",
+   "shares": 78239.0,
+   "price": 1.39,
+   "value": 108752.21,
+   "acc": "0001878313-26-000082",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
    "insider": "Calvert Christopher P",
@@ -4042,6 +3898,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "FGL",
+   "company": "Founder Group Ltd",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-08-28",
+   "shares": 107076.0,
+   "price": 0.163,
+   "value": 17453.39,
+   "acc": "0001475597-26-000225",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "JAGU",
    "company": "Jaguar Uranium Corp.",
    "insider": "Gold Steven Brian",
@@ -4208,6 +4076,18 @@
    "value": 54072.32,
    "acc": "0001140361-26-035125",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "MAIA",
+   "company": "MAIA Biotechnology, Inc.",
+   "insider": "Guerrero Ramiro",
+   "role": "Director",
+   "date": "2026-08-28",
+   "shares": 46620.0,
+   "price": 1.35,
+   "value": 62937.0,
+   "acc": "0001878313-26-000082",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "AMRC",
@@ -4499,6 +4379,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "ABR",
+   "company": "ARBOR REALTY TRUST INC",
+   "insider": "Green William C",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 16.0,
+   "price": 5.1,
+   "value": 81.6,
+   "acc": "0001104659-26-104321",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4571,6 +4463,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "LIVINGSTON SHANNON R",
+   "role": "EXECUTIVE VICE PRESIDENT",
+   "date": "2026-08-31",
+   "shares": 107.0,
+   "price": 21.51,
+   "value": 2301.57,
+   "acc": "0001628280-26-059851",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "Winmill William McCollum",
@@ -4583,6 +4487,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "CAGLE DAWN M",
+   "role": "EXECUTIVE VICE PRESIDENT",
+   "date": "2026-08-31",
+   "shares": 188.0,
+   "price": 21.51,
+   "value": 4043.88,
+   "acc": "0001628280-26-059852",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4592,6 +4508,18 @@
    "price": 1.15,
    "value": 4715.0,
    "acc": "0001079973-26-001204",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "ABR",
+   "company": "ARBOR REALTY TRUST INC",
+   "insider": "Green William C",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 950.0,
+   "price": 5.09,
+   "value": 4835.5,
+   "acc": "0001104659-26-104321",
    "filed": "2026-09-01"
   },
   {
@@ -4679,6 +4607,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "SWZ",
+   "company": "Total Return Securities Fund",
+   "insider": "SELL MORITZ A",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 3000.0,
+   "price": 5.98,
+   "value": 17940.0,
+   "acc": "0001398344-26-016344",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4689,6 +4629,18 @@
    "value": 24056.7,
    "acc": "0001214659-26-011255",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-31",
+   "shares": 3550.0,
+   "price": 6.9326,
+   "value": 24610.73,
+   "acc": "0000905148-26-004056",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "CIA",
@@ -4703,6 +4655,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "ASTS",
+   "company": "AST SpaceMobile, Inc.",
+   "insider": "Cisneros Adriana",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 670.0,
+   "price": 58.87,
+   "value": 39442.9,
+   "acc": "0001104659-26-104326",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "BJRI",
    "company": "BJs RESTAURANTS INC",
    "insider": "Richmond C Bradford",
@@ -4713,6 +4677,18 @@
    "value": 47627.25,
    "acc": "0001193125-26-377253",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "ASTS",
+   "company": "AST SpaceMobile, Inc.",
+   "insider": "Cisneros Adriana",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 1384.0,
+   "price": 57.79,
+   "value": 79981.36,
+   "acc": "0001104659-26-104326",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "SRTS",
@@ -4736,6 +4712,18 @@
    "price": 25.21,
    "value": 101999.99,
    "acc": "0002122401-26-000002",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "ABR",
+   "company": "ARBOR REALTY TRUST INC",
+   "insider": "Green William C",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 24985.0,
+   "price": 5.07,
+   "value": 126673.95,
+   "acc": "0001104659-26-104321",
    "filed": "2026-09-01"
   },
   {
@@ -4773,6 +4761,18 @@
    "value": 341175.0,
    "acc": "0001493152-26-040895",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "ASTS",
+   "company": "AST SpaceMobile, Inc.",
+   "insider": "Cisneros Adriana",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 8768.0,
+   "price": 57.0,
+   "value": 499776.0,
+   "acc": "0001104659-26-104326",
+   "filed": "2026-09-01"
   },
   {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
@@ -4886,17 +4886,12 @@
   {
    "ticker": "LIEN",
    "insiders": 2,
-   "total_value": 112248.61
+   "total_value": 110308.36
   },
   {
    "ticker": "BATL",
    "insiders": 2,
    "total_value": 110032.0
-  },
-  {
-   "ticker": "VENU",
-   "insiders": 2,
-   "total_value": 108418.76
   },
   {
    "ticker": "UAMY",
@@ -4946,7 +4941,7 @@
   {
    "ticker": "RCG",
    "insiders": 2,
-   "total_value": 27243.36
+   "total_value": 22203.64
   },
   {
    "ticker": "AXIA3",
@@ -4959,6 +4954,11 @@
    "total_value": 9108.95
   },
   {
+   "ticker": "CWBC",
+   "insiders": 2,
+   "total_value": 6345.45
+  },
+  {
    "ticker": "BMRA",
    "insiders": 4,
    "total_value": 0,
@@ -4966,16 +4966,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024851",
-  "0001918704-26-024852",
-  "0001918704-26-024853",
-  "0001918704-26-024854",
-  "0001918704-26-024855",
-  "0001918704-26-024856",
-  "0001918704-26-024857",
-  "0001918704-26-024858",
-  "0001918704-26-024859",
-  "0001918704-26-024860",
   "0001918704-26-024861",
   "0001918704-26-024862",
   "0001918704-26-024863",
@@ -5885,6 +5875,12 @@
   "0001918704-26-025998",
   "0001918704-26-026003",
   "0001918704-26-026004",
+  "0001918704-26-026006",
+  "0001918704-26-026007",
+  "0001918704-26-026008",
+  "0001918704-26-026009",
+  "0001918704-26-026010",
+  "0001918704-26-026011",
   "0001918845-26-000024",
   "0001919175-26-000008",
   "0001919246-26-000100",
@@ -6071,6 +6067,7 @@
   "0001962926-26-000006",
   "0001962926-26-000008",
   "0001962944-26-000009",
+  "0001963701-26-000009",
   "0001963980-26-000012",
   "0001964248-26-000002",
   "0001964281-26-000002",
@@ -6104,6 +6101,7 @@
   "0001967680-26-000036",
   "0001967680-26-000038",
   "0001967680-26-000040",
+  "0001967808-26-000028",
   "0001967837-26-000010",
   "0001968164-26-000005",
   "0001968215-26-000004",
@@ -6255,6 +6253,7 @@
   "0001983680-26-000001",
   "0001983938-26-000006",
   "0001983938-26-000007",
+  "0001984100-26-000003",
   "0001984140-26-000008",
   "0001984186-26-000008",
   "0001984676-26-000005",
@@ -7113,6 +7112,7 @@
   "0002029288-26-000004",
   "0002029470-26-000014",
   "0002029692-26-000026",
+  "0002029692-26-000031",
   "0002029760-26-000001",
   "0002029760-26-000003",
   "0002029760-26-000004",
