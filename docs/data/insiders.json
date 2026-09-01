@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-01 00:46 UTC",
+ "updated_utc": "2026-09-01 01:02 UTC",
  "purchases": [
-  {
-   "ticker": "CORZ",
-   "company": "Core Scientific, Inc./tx",
-   "insider": "CRAIN ELIZABETH",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 6000.0,
-   "price": 18.3324,
-   "value": 109994.4,
-   "acc": "0000905148-26-003881",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "PRE",
-   "company": "Prenetics Global Ltd",
-   "insider": "Yeung Danny Sheng Wu",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-20",
-   "shares": 7500.0,
-   "price": 18.31,
-   "value": 137325.0,
-   "acc": "0001628280-26-058760",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "ODYS",
-   "company": "Odysight.ai Inc.",
-   "insider": "Goldwasser Benad",
-   "role": "Director",
-   "date": "2026-08-20",
-   "shares": 46875.0,
-   "price": 3.2,
-   "value": 150000.0,
-   "acc": "0001493152-26-039863",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "TMCI",
-   "company": "TREACE MEDICAL CONCEPTS, INC.",
-   "insider": "Treace John T.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-20",
-   "shares": 39944.0,
-   "price": 4.4356,
-   "value": 177175.61,
-   "acc": "0001193125-26-363737",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "AMR",
    "company": "Alpha Metallurgical Resources, Inc.",
@@ -3249,6 +3201,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-08-27",
+   "shares": 10000.0,
+   "price": 0.3358,
+   "value": 3358.0,
+   "acc": "0001214659-26-011255",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "Corrado Felipe Amilcar IV",
@@ -4258,6 +4222,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-08-28",
+   "shares": 47641.0,
+   "price": 0.307,
+   "value": 14625.79,
+   "acc": "0001214659-26-011255",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "JAGU",
    "company": "Jaguar Uranium Corp.",
    "insider": "Gold Steven Brian",
@@ -4327,6 +4303,18 @@
    "price": 0.8077,
    "value": 40385.0,
    "acc": "0001493152-26-040748",
+   "filed": "2026-08-31"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-08-28",
+   "shares": 150000.0,
+   "price": 0.2967,
+   "value": 44505.0,
+   "acc": "0001214659-26-011255",
    "filed": "2026-08-31"
   },
   {
@@ -4751,6 +4739,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-08-31",
+   "shares": 89000.0,
+   "price": 0.2703,
+   "value": 24056.7,
+   "acc": "0001214659-26-011255",
+   "filed": "2026-08-31"
+  },
+  {
    "ticker": "BJRI",
    "company": "BJs RESTAURANTS INC",
    "insider": "Richmond C Bradford",
@@ -4828,11 +4828,6 @@
    "total_value": 5750140.64
   },
   {
-   "ticker": "ODYS",
-   "insiders": 2,
-   "total_value": 3750000.0
-  },
-  {
    "ticker": "TTMI",
    "insiders": 2,
    "total_value": 1642200.0
@@ -4840,7 +4835,7 @@
   {
    "ticker": "PRE",
    "insiders": 2,
-   "total_value": 999698.4
+   "total_value": 862373.4
   },
   {
    "ticker": "INV",
