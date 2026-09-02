@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-02 19:03 UTC",
+ "updated_utc": "2026-09-02 19:19 UTC",
  "purchases": [
-  {
-   "ticker": "TMCI",
-   "company": "TREACE MEDICAL CONCEPTS, INC.",
-   "insider": "Treace John T.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-24",
-   "shares": 11000.0,
-   "price": 4.3392,
-   "value": 47731.2,
-   "acc": "0001193125-26-363737",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "AIAI",
-   "company": "AIAI Holdings Corp",
-   "insider": "Carlton Charles Craig",
-   "role": "10% owner",
-   "date": "2026-08-24",
-   "shares": 8250.0,
-   "price": 6.09,
-   "value": 50242.5,
-   "acc": "0001493152-26-039953",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 4211.0,
-   "price": 11.9996,
-   "value": 50530.32,
-   "acc": "0001213900-26-093824",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "HDSN",
-   "company": "HUDSON TECHNOLOGIES INC /NY",
-   "insider": "Hartree Partners, LP",
-   "role": "10% owner",
-   "date": "2026-08-24",
-   "shares": 9446.0,
-   "price": 5.5,
-   "value": 51953.0,
-   "acc": "0000921895-26-002318",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 10000.0,
-   "price": 6.5904,
-   "value": 65904.0,
-   "acc": "0001214659-26-010931",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "LDI",
-   "company": "loanDepot, Inc.",
-   "insider": "Hsieh Anthony Li",
-   "role": "Executive Chair, CEO & Pres.",
-   "date": "2026-08-24",
-   "shares": 107099.0,
-   "price": 0.8944,
-   "value": 95789.35,
-   "acc": "0001831631-26-000102",
-   "filed": "2026-08-26"
-  },
   {
    "ticker": "RBA",
    "company": "RB GLOBAL INC.",
@@ -408,6 +336,18 @@
    "value": 948.99,
    "acc": "0001628280-26-059102",
    "filed": "2026-08-26"
+  },
+  {
+   "ticker": "EMMA",
+   "company": "Emmaus Life Sciences, Inc.",
+   "insider": "LEE WILLIS C",
+   "role": "CEO",
+   "date": "2026-08-25",
+   "shares": 46000.0,
+   "price": 0.04,
+   "value": 1840.0,
+   "acc": "0001193125-26-380023",
+   "filed": "2026-09-02"
   },
   {
    "ticker": "RCG",
@@ -2037,6 +1977,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "EMMA",
+   "company": "Emmaus Life Sciences, Inc.",
+   "insider": "LEE WILLIS C",
+   "role": "CEO",
+   "date": "2026-08-27",
+   "shares": 50000.0,
+   "price": 0.05,
+   "value": 2500.0,
+   "acc": "0001193125-26-380023",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "Kesslen Jay H",
@@ -3008,6 +2960,18 @@
    "value": 5450.0,
    "acc": "0001520138-26-000379",
    "filed": "2026-08-28"
+  },
+  {
+   "ticker": "EMMA",
+   "company": "Emmaus Life Sciences, Inc.",
+   "insider": "LEE WILLIS C",
+   "role": "CEO",
+   "date": "2026-08-28",
+   "shares": 94767.0,
+   "price": 0.06,
+   "value": 5686.02,
+   "acc": "0001193125-26-380023",
+   "filed": "2026-09-02"
   },
   {
    "ticker": "MSGM",
@@ -4043,6 +4007,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "EMMA",
+   "company": "Emmaus Life Sciences, Inc.",
+   "insider": "LEE WILLIS C",
+   "role": "CEO",
+   "date": "2026-08-31",
+   "shares": 100000.0,
+   "price": 0.05,
+   "value": 5000.0,
+   "acc": "0001193125-26-380023",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "INLX",
    "company": "INTELLINETICS, INC.",
    "insider": "TAGLICH ROBERT",
@@ -4683,6 +4659,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-01",
+   "shares": 756.0,
+   "price": 2.95,
+   "value": 2230.2,
+   "acc": "0001437749-26-029505",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "WILLIAMSON JOHN B III",
@@ -4728,6 +4716,18 @@
    "price": 4.635,
    "value": 92700.0,
    "acc": "0001104659-26-104644",
+   "filed": "2026-09-02"
+  },
+  {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Yurcisin Jeffrey Michael",
+   "role": "President & CEO",
+   "date": "2026-09-01",
+   "shares": 90000.0,
+   "price": 1.0521,
+   "value": 94689.0,
+   "acc": "0001841761-26-000090",
    "filed": "2026-09-02"
   },
   {
@@ -4943,14 +4943,14 @@
    "total_value": 28520.0
   },
   {
+   "ticker": "RCG",
+   "insiders": 2,
+   "total_value": 22203.64
+  },
+  {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 21600.0
-  },
-  {
-   "ticker": "RCG",
-   "insiders": 2,
-   "total_value": 19973.44
   },
   {
    "ticker": "BRID",
@@ -4976,12 +4976,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025161",
-  "0001918704-26-025162",
-  "0001918704-26-025165",
-  "0001918704-26-025166",
-  "0001918704-26-025167",
-  "0001918704-26-025169",
   "0001918704-26-025170",
   "0001918704-26-025171",
   "0001918704-26-025172",
@@ -5820,6 +5814,12 @@
   "0001918704-26-026241",
   "0001918704-26-026242",
   "0001918704-26-026243",
+  "0001918704-26-026244",
+  "0001918704-26-026245",
+  "0001918704-26-026246",
+  "0001918704-26-026249",
+  "0001918704-26-026250",
+  "0001918704-26-026251",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
