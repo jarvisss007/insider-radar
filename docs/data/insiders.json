@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-02 01:46 UTC",
+ "updated_utc": "2026-09-02 02:01 UTC",
  "purchases": [
-  {
-   "ticker": "SCTH",
-   "company": "Securetech Innovations, Inc.",
-   "insider": "SITRA J SCOTT",
-   "role": "President & CEO",
-   "date": "2026-08-21",
-   "shares": 1000.0,
-   "price": 100000.0,
-   "value": 100000000.0,
-   "acc": "0001335253-26-000006",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-08-24",
-   "shares": 2100.0,
-   "price": 0.055,
-   "value": 115.5,
-   "acc": "0001035422-26-000007",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -2205,6 +2181,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "TAGLICH ROBERT",
+   "role": "10% owner",
+   "date": "2026-08-27",
+   "shares": 1.0,
+   "price": 5.0,
+   "value": 5.0,
+   "acc": "0001493152-26-041129",
+   "filed": "2026-09-01"
+  },
+  {
    "ticker": "ZNB",
    "company": "Zeta Network Group",
    "insider": "HRT FINANCIAL LP",
@@ -4328,6 +4316,18 @@
    "price": 5.09,
    "value": 4835.5,
    "acc": "0001104659-26-104321",
+   "filed": "2026-09-01"
+  },
+  {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "TAGLICH ROBERT",
+   "role": "10% owner",
+   "date": "2026-08-31",
+   "shares": 999.0,
+   "price": 5.5226,
+   "value": 5517.08,
+   "acc": "0001493152-26-041129",
    "filed": "2026-09-01"
   },
   {
