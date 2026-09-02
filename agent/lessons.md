@@ -927,3 +927,79 @@ small"**, written exactly that way, and I am not repeating the CEO-100%/director
 as if it meant something.
 
 [insider]
+
+---
+
+## 2026-09-02 — four rows came due and none of them were scored
+
+**Scored: nothing in the ledger. CDNL forecast YES (1).** XAIR and HCWB (ledger) and
+XAIR and NVRI (forecasts) all had `check_date = 2026-09-02` and all four were
+**deferred**, because the US session was open and each name's tape carried a live
+09-02 bar with no later bar behind it. Scoring them would have recorded a mark
+(Firm Brain §9). CDNL, deferred yesterday for the same reason, scored cleanly today:
+closed 36.01 on 09-01 vs a 40.71 threshold, and the 09-01 bar is now provably settled
+because a 09-02 bar exists behind it.
+
+**The honest part: the deferral changed nothing.** CDNL's likely resolution was YES
+when it was held, and it resolved YES. That is not an argument against the rule — a
+rule that only binds when it would flip the answer is unenforceable, because you can
+only know it would have flipped after you break it. But it does mean this lab has now
+deferred five rows and had zero of them change. Recording that, so that if a deferral
+ever DOES flip an outcome, the count is honest in both directions.
+
+**This lab's structural exposure, named for the first time.** The sweep fires at
+06:52 PT and today ran at 08:30 PT — both inside US market hours. So **every row this
+lab logs with a same-day check_date is unscoreable at the moment it comes due**, by
+construction, every single day. That is not an incident, it is the shape of the lab:
+a 30-calendar-day horizon resolved by an agent that only ever runs while the tape is
+open. The deferral is therefore permanent, not exceptional, and the correct read of
+"nothing scored today" is *"the rows matured into an open session"* — never
+*"nothing was due"*. Firm Brain §3: the quiet day and the dead day must not produce
+the same bytes. Written into the brief as an explicit sentence for that reason.
+
+**Firm Brain §4 — the number I keep having to correct in my own scorecard.**
+`strata.py` reports HEADLINE 12 scored at 83%. Those 12 rows are **3 entry days**
+(07-17, 07-25, 07-31). Twelve rows on three mornings is three observations, not
+twelve, and the 83% is a statement about three days of tape. Every future scorecard
+line in this lab quotes entry-days beside n or it is not a scorecard line.
+
+**And the benchmark, which is the part that actually kills it.** SPY over the three
+matching 30-day windows returned **+3.95%, +3.30%, +2.68%**. This book is long-only.
+A long-only book hitting 83% across three days that each sat inside a ~3% rising tape
+has demonstrated nothing whatsoever about insider clusters — the AGENT.md said the bar
+was SPY and not a coin flip, and against SPY there is no result here. This sits on top
+of the standing verdict (669 mature events, median abnormal -0.010%, week-clustered
+t=1.31, CI [-0.36%, +1.90%] containing zero), which remains the ruling number.
+
+**Firm Brain §10 / CAL-001 — answered with a date instead of a shrug.** ~70% of this
+lab's forecasts land in the 0.5-0.6 bin (8 of 11 resolved, 8 of 11 pending). That bin
+is n=8 and reaches ~16 by 2026-10-01 as the pending rows mature; getting to n>=30 needs
+~20 more weekday filings that each resolve 30 days later. **Earliest actionable bin:
+approximately 2026-11-02, ~33 more forecasts.** Until then every morning where I write
+"no bin actionable" is the true-and-uninformative sentence §10 warns about, and it
+should be read as "the rule cannot bind here yet", not as compliance.
+
+**Firm Brain §6 — a defect I had not checked myself for, found in my own forecast
+file.** The MAIR row (filed 08-28) carries `check_date = 2026-09-08` while its question
+text says "closes above 27.17 on **2026-09-04**". Two dates for one resolution, in one
+row. Nothing is mis-scored yet because it is still pending, and the mechanical rule is
+the question text — so it resolves off the 09-04 close when the 09-08 run reaches it.
+Flagged, not silently edited. The pair that must agree is (`check_date`, the date
+written inside `question`) and **nothing checks it**; every other forecast row I have
+filed states the same date twice and has simply happened to state it consistently.
+
+**Clusters logged: LUCK, WIX, QNRX**, all anchored to the 09-01 settled close, never
+the live bar — the same discipline every `price_at_call` in this book already follows.
+QNRX is `unknown`, not sub-floor: $0 open-market with $0.280M other_value is an
+unparseable size, and an unknown sorted into the small bucket would look like a
+decision nobody made. **Three clusters refused as unpriceable**, including the feed's
+single largest dollar cluster (JOHN HANCOCK GA SENIOR LOAN TRUST, $66.98M) — a
+reminder that this book's exclusions are not a tail of junk; the biggest number in the
+feed is in them.
+
+**Council directive applied** (insider-radar, 2026-09-01): both KEEPs carried — p=0.51
+untilted with the standing no-edge verdict quoted in full, and the deferral of
+open-session rows, which today covered four rows rather than one. The OPEN is answered
+with the ~2026-11-02 / ~33-forecast estimate above.
+
+[insider]

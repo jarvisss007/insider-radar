@@ -136,3 +136,6 @@ date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_qu
 2026-09-01,UAMY,long,[insider] 2 insiders bought $0.105M cluster [anchor 08-31 settled close],4.87,2026-10-01,,,no,fund,
 2026-09-01,VRXA,long,[insider] 2 insiders bought $0.083M cluster [anchor 08-31 settled close],1.35,2026-10-01,,,no,fund,
 2026-09-01,BRID,long,[insider] 2 insiders bought $0.009M cluster [anchor 08-31 settled close],6.09,2026-10-01,,,no,fund,
+2026-09-02,LUCK,long,[insider] 2 insiders bought $0.694M cluster [anchor 09-01 settled close],6.10,2026-10-02,,,no,fund,
+2026-09-02,WIX,long,[insider] 6 insiders bought $0.186M cluster [anchor 09-01 settled close],88.38,2026-10-02,,,no,fund,
+2026-09-02,QNRX,long,"[insider] 4 insiders, $0 open-market; $0.280M other_value = size UNKNOWN not sub-floor [anchor 09-01 settled close]",6.51,2026-10-02,,,no,fund,
