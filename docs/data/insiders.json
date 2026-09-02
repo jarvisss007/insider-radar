@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-09-02 14:17 UTC",
+ "updated_utc": "2026-09-02 14:34 UTC",
  "purchases": [
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-24",
-   "shares": 756.0,
-   "price": 2.95,
-   "value": 2230.2,
-   "acc": "0001437749-26-028889",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "AMH",
-   "company": "American Homes 4 Rent",
-   "insider": "CORRIGAN JACK E",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 100.0,
-   "price": 22.385,
-   "value": 2238.5,
-   "acc": "0001227454-26-000012",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "AIJTY",
-   "company": "Jianpu Technology Inc.",
-   "insider": "Daqing Ye",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 2500.0,
-   "price": 0.926,
-   "value": 2315.0,
-   "acc": "0001104659-26-100504",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "DFH",
-   "company": "Dream Finders Homes, Inc.",
-   "insider": "Sturm Len",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 250.0,
-   "price": 14.75,
-   "value": 3687.5,
-   "acc": "0000897069-26-001711",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "IRIX",
-   "company": "IRIDEX CORP",
-   "insider": "Dizon Romeo R",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-24",
-   "shares": 5368.0,
-   "price": 0.7499,
-   "value": 4025.46,
-   "acc": "0001193125-26-362654",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "AMH",
-   "company": "American Homes 4 Rent",
-   "insider": "CORRIGAN JACK E",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 200.0,
-   "price": 22.35,
-   "value": 4470.0,
-   "acc": "0001227454-26-000012",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-24",
-   "shares": 4100.0,
-   "price": 1.14,
-   "value": 4674.0,
-   "acc": "0001079973-26-001173",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "HKHC",
-   "company": "Horizon Kinetics Holding Corp",
-   "insider": "Brennan Alice C",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 200.0,
-   "price": 26.87,
-   "value": 5374.0,
-   "acc": "0001437749-26-028884",
-   "filed": "2026-08-25"
-  },
   {
    "ticker": "IDAI",
    "company": "T Stamp Inc",
@@ -4235,6 +4139,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Abrahami Avishai",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-31",
+   "shares": 55.0,
+   "price": 59.89,
+   "value": 3293.95,
+   "acc": "0001628280-26-059977",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "BXSY",
    "company": "BEXIL INVESTMENT TRUST",
    "insider": "Winmill William McCollum",
@@ -4415,6 +4331,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Zohar Nir",
+   "role": "President",
+   "date": "2026-08-31",
+   "shares": 271.0,
+   "price": 59.89,
+   "value": 16230.19,
+   "acc": "0001628280-26-059979",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "SWZ",
    "company": "Total Return Securities Fund",
    "insider": "SELL MORITZ A",
@@ -4425,6 +4353,30 @@
    "value": 17940.0,
    "acc": "0001398344-26-016344",
    "filed": "2026-09-01"
+  },
+  {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Even-Haim Yaniv",
+   "role": "CTO",
+   "date": "2026-08-31",
+   "shares": 320.0,
+   "price": 59.89,
+   "value": 19164.8,
+   "acc": "0001628280-26-059986",
+   "filed": "2026-09-02"
+  },
+  {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Zohar Nir",
+   "role": "President",
+   "date": "2026-08-31",
+   "shares": 376.0,
+   "price": 59.89,
+   "value": 22518.64,
+   "acc": "0001628280-26-059979",
+   "filed": "2026-09-02"
   },
   {
    "ticker": "GPUS",
@@ -4451,6 +4403,42 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Shemesh Lior",
+   "role": "CFO",
+   "date": "2026-08-31",
+   "shares": 456.0,
+   "price": 59.89,
+   "value": 27309.84,
+   "acc": "0001628280-26-059982",
+   "filed": "2026-09-02"
+  },
+  {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Meyer Shelly B",
+   "role": "Chief People Officer",
+   "date": "2026-08-31",
+   "shares": 479.0,
+   "price": 59.89,
+   "value": 28687.31,
+   "acc": "0001628280-26-059988",
+   "filed": "2026-09-02"
+  },
+  {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Shai Omer",
+   "role": "CMO",
+   "date": "2026-08-31",
+   "shares": 490.0,
+   "price": 59.89,
+   "value": 29346.1,
+   "acc": "0001628280-26-059984",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "QNRX",
    "company": "Quoin Pharmaceuticals, Ltd.",
    "insider": "Culverwell Anthony James",
@@ -4474,6 +4462,18 @@
    "value": 38000.0,
    "acc": "0002097014-26-000004",
    "filed": "2026-09-01"
+  },
+  {
+   "ticker": "WIX",
+   "company": "Wix.com Ltd.",
+   "insider": "Abrahami Avishai",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-31",
+   "shares": 654.0,
+   "price": 59.89,
+   "value": 39168.06,
+   "acc": "0001628280-26-059977",
+   "filed": "2026-09-02"
   },
   {
    "ticker": "ASTS",
@@ -4888,6 +4888,11 @@
    "total_value": 205985.0
   },
   {
+   "ticker": "WIX",
+   "insiders": 6,
+   "total_value": 185718.89
+  },
+  {
    "ticker": "MTDR",
    "insiders": 2,
    "total_value": 171841.95
@@ -4930,7 +4935,7 @@
   {
    "ticker": "HKHC",
    "insiders": 2,
-   "total_value": 34414.0
+   "total_value": 29040.0
   },
   {
    "ticker": "UNB",
@@ -4940,7 +4945,7 @@
   {
    "ticker": "RCG",
    "insiders": 2,
-   "total_value": 22203.64
+   "total_value": 19973.44
   },
   {
    "ticker": "AXIA3",
@@ -4971,28 +4976,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-024992",
-  "0001918704-26-024993",
-  "0001918704-26-024994",
-  "0001918704-26-024995",
-  "0001918704-26-024996",
-  "0001918704-26-024997",
-  "0001918704-26-024998",
-  "0001918704-26-024999",
-  "0001918704-26-025000",
-  "0001918704-26-025001",
-  "0001918704-26-025002",
-  "0001918704-26-025003",
-  "0001918704-26-025010",
-  "0001918704-26-025017",
-  "0001918704-26-025018",
-  "0001918704-26-025019",
-  "0001918704-26-025020",
-  "0001918704-26-025021",
-  "0001918704-26-025022",
-  "0001918704-26-025023",
-  "0001918704-26-025024",
-  "0001918704-26-025025",
   "0001918704-26-025026",
   "0001918704-26-025027",
   "0001918704-26-025028",
@@ -5833,6 +5816,27 @@
   "0001918704-26-026116",
   "0001918704-26-026117",
   "0001918704-26-026118",
+  "0001918704-26-026119",
+  "0001918704-26-026120",
+  "0001918704-26-026121",
+  "0001918704-26-026122",
+  "0001918704-26-026123",
+  "0001918704-26-026124",
+  "0001918704-26-026125",
+  "0001918704-26-026126",
+  "0001918704-26-026127",
+  "0001918704-26-026128",
+  "0001918704-26-026129",
+  "0001918704-26-026130",
+  "0001918704-26-026131",
+  "0001918704-26-026132",
+  "0001918704-26-026133",
+  "0001918704-26-026134",
+  "0001918704-26-026135",
+  "0001918704-26-026136",
+  "0001918704-26-026137",
+  "0001918704-26-026138",
+  "0001918704-26-026139",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7217,6 +7221,7 @@
   "0002045034-26-000003",
   "0002045034-26-000005",
   "0002045064-26-000004",
+  "0002045370-26-000001",
   "0002045458-26-000033",
   "0002045458-26-000035",
   "0002045458-26-000037",
