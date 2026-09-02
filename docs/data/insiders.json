@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-02 22:46 UTC",
+ "updated_utc": "2026-09-02 23:50 UTC",
  "purchases": [
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-25",
-   "shares": 1.0,
-   "price": 372.58,
-   "value": 372.58,
-   "acc": "0001437749-26-028960",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-08-25",
-   "shares": 209.0,
-   "price": 4.5406,
-   "value": 948.99,
-   "acc": "0001628280-26-059102",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "EMMA",
-   "company": "Emmaus Life Sciences, Inc.",
-   "insider": "LEE WILLIS C",
-   "role": "CEO",
-   "date": "2026-08-25",
-   "shares": 46000.0,
-   "price": 0.04,
-   "value": 1840.0,
-   "acc": "0001193125-26-380023",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-25",
-   "shares": 756.0,
-   "price": 2.95,
-   "value": 2230.2,
-   "acc": "0001437749-26-028959",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Gordon Scott",
-   "role": "Co-Chief Investment Officer",
-   "date": "2026-08-25",
-   "shares": 250.0,
-   "price": 10.12,
-   "value": 2530.0,
-   "acc": "0001193125-26-371518",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "BLNE",
    "company": "Beeline Holdings, Inc.",
@@ -677,6 +617,18 @@
    "filed": "2026-08-28"
   },
   {
+   "ticker": "EXOZ",
+   "company": "EXOZYMES INC.",
+   "insider": "Heltzen Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-26",
+   "shares": 4.0,
+   "price": 7.58,
+   "value": 30.32,
+   "acc": "0001493152-26-041290",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "MDRR",
    "company": "Medalist Diversified, Inc.",
    "insider": "Winn Charles Brent Jr.",
@@ -795,6 +747,30 @@
    "value": 1545.0,
    "acc": "0001193125-26-368466",
    "filed": "2026-08-26"
+  },
+  {
+   "ticker": "EXOZ",
+   "company": "EXOZYMES INC.",
+   "insider": "Heltzen Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-26",
+   "shares": 251.0,
+   "price": 7.35,
+   "value": 1844.85,
+   "acc": "0001493152-26-041290",
+   "filed": "2026-09-02"
+  },
+  {
+   "ticker": "EXOZ",
+   "company": "EXOZYMES INC.",
+   "insider": "Heltzen Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-26",
+   "shares": 250.0,
+   "price": 7.6,
+   "value": 1900.0,
+   "acc": "0001493152-26-041290",
+   "filed": "2026-09-02"
   },
   {
    "ticker": "RCG",
@@ -4068,6 +4044,18 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "PLSE",
+   "company": "PULSE BIOSCIENCES, INC.",
+   "insider": "Teplitsky Liane Rae",
+   "role": "Chief Operating Officer",
+   "date": "2026-08-31",
+   "shares": 1024.0,
+   "price": 48.8,
+   "value": 49971.2,
+   "acc": "0001437749-26-029545",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "QNRX",
    "company": "Quoin Pharmaceuticals, Ltd.",
    "insider": "Lawlor Sally Bridget",
@@ -4563,6 +4551,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "PLSE",
+   "company": "PULSE BIOSCIENCES, INC.",
+   "insider": "Teplitsky Liane Rae",
+   "role": "Chief Operating Officer",
+   "date": "2026-09-01",
+   "shares": 1001.0,
+   "price": 49.95,
+   "value": 49999.95,
+   "acc": "0001437749-26-029545",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "Karp Jason H.",
@@ -4904,14 +4904,14 @@
    "total_value": 110032.0
   },
   {
-   "ticker": "LIEN",
-   "insiders": 2,
-   "total_value": 106541.58
-  },
-  {
    "ticker": "GPUS",
    "insiders": 2,
    "total_value": 106535.49
+  },
+  {
+   "ticker": "LIEN",
+   "insiders": 2,
+   "total_value": 104011.58
   },
   {
    "ticker": "VRXA",
@@ -4944,14 +4944,14 @@
    "total_value": 28520.0
   },
   {
-   "ticker": "RCG",
-   "insiders": 2,
-   "total_value": 22203.64
-  },
-  {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 21600.0
+  },
+  {
+   "ticker": "RCG",
+   "insiders": 2,
+   "total_value": 19973.44
   },
   {
    "ticker": "BRID",
@@ -4977,9 +4977,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025312",
-  "0001918704-26-025317",
-  "0001918704-26-025318",
   "0001918704-26-025319",
   "0001918704-26-025320",
   "0001918704-26-025321",
@@ -7497,6 +7494,7 @@
   "0002075654-26-000002",
   "0002075704-26-000024",
   "0002075704-26-000029",
+  "0002075704-26-000032",
   "0002076000-26-000012",
   "0002076243-26-000002",
   "0002076715-26-000005",
@@ -7660,6 +7658,7 @@
   "0002095068-26-000002",
   "0002095744-26-000010",
   "0002095744-26-000012",
+  "0002095785-26-000002",
   "0002095816-26-000020",
   "0002096121-26-000008",
   "0002096196-26-000006",
@@ -7878,6 +7877,7 @@
   "0002136215-26-000006",
   "0002136327-26-000005",
   "0002136747-26-000005",
+  "0002136845-26-000002",
   "0002136887-26-000002",
   "0002137016-26-000004",
   "0002137024-26-000012",
