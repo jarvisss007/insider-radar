@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-02 22:30 UTC",
+ "updated_utc": "2026-09-02 22:46 UTC",
  "purchases": [
-  {
-   "ticker": "BABA",
-   "company": "Alibaba Group Holding Ltd",
-   "insider": "Tsai Joseph C",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 720000.0,
-   "price": 14.29,
-   "value": 10288800.0,
-   "acc": "0001193125-26-361902",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-24",
-   "shares": 217350.0,
-   "price": 222.8427,
-   "value": 48434860.84,
-   "acc": "0001104659-26-101497",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "OPTU",
-   "company": "Optimum Communications, Inc.",
-   "insider": "SUBIN NEIL S",
-   "role": "10% owner",
-   "date": "2026-08-25",
-   "shares": 400.0,
-   "price": 0.85,
-   "value": 340.0,
-   "acc": "0001213900-26-095292",
-   "filed": "2026-08-28"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -4527,6 +4491,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "ANTX",
+   "company": "AN2 Therapeutics, Inc.",
+   "insider": "FitzPatrick Margaret M",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 2098.0,
+   "price": 5.53,
+   "value": 11601.94,
+   "acc": "0001193125-26-380595",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "OPAL",
    "company": "OPAL Fuels Inc.",
    "insider": "Nisar Nadeem",
@@ -4584,6 +4560,18 @@
    "price": 32.45,
    "value": 32450.0,
    "acc": "0001437749-26-029458",
+   "filed": "2026-09-02"
+  },
+  {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Karp Jason H.",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 55000.0,
+   "price": 1.0278,
+   "value": 56529.0,
+   "acc": "0001841761-26-000092",
    "filed": "2026-09-02"
   },
   {
@@ -4743,6 +4731,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Karp Jason H.",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 15200.0,
+   "price": 1.0761,
+   "value": 16356.72,
+   "acc": "0001841761-26-000092",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "CLPR",
    "company": "Clipper Realty Inc.",
    "insider": "Levinson Sam",
@@ -4884,6 +4884,11 @@
    "total_value": 171841.95
   },
   {
+   "ticker": "GROV",
+   "insiders": 2,
+   "total_value": 167574.72
+  },
+  {
    "ticker": "OPAL",
    "insiders": 2,
    "total_value": 135400.0
@@ -4972,9 +4977,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025309",
-  "0001918704-26-025310",
-  "0001918704-26-025311",
   "0001918704-26-025312",
   "0001918704-26-025317",
   "0001918704-26-025318",
@@ -7195,6 +7197,7 @@
   "0002045848-26-000007",
   "0002046471-26-000001",
   "0002046701-26-000009",
+  "0002046824-26-000022",
   "0002047068-26-000002",
   "0002047319-26-000002",
   "0002047429-26-000012",
@@ -7558,6 +7561,7 @@
   "0002079093-26-000001",
   "0002079445-26-000015",
   "0002079512-26-000002",
+  "0002079520-26-000022",
   "0002079598-26-000004",
   "0002079859-26-000002",
   "0002079962-26-000007",
@@ -7667,6 +7671,7 @@
   "0002097042-26-000005",
   "0002097107-26-000004",
   "0002097248-26-000002",
+  "0002097259-26-000002",
   "0002097345-26-000010",
   "0002097345-26-000012",
   "0002097345-26-000014",
