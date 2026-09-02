@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-01 23:56 UTC",
+ "updated_utc": "2026-09-02 01:46 UTC",
  "purchases": [
-  {
-   "ticker": "HRI",
-   "company": "HERC HOLDINGS INC",
-   "insider": "Olsson Erik",
-   "role": "Director",
-   "date": "2026-08-21",
-   "shares": 3085.0,
-   "price": 163.0,
-   "value": 502855.0,
-   "acc": "0001364479-26-000121",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "TENX",
-   "company": "TENAX THERAPEUTICS, INC.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 716369.0,
-   "price": 1.7676,
-   "value": 1266253.84,
-   "acc": "0001940272-26-000017",
-   "filed": "2026-08-24"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 189300.0,
-   "price": 7.96,
-   "value": 1506828.0,
-   "acc": "0001140361-26-034358",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "EBRCZ",
-   "company": "EBR Systems, Inc.",
-   "insider": "Host-Plus Pty Ltd as trustee for the HOSTPLUS Pooled Superannuation Trust",
-   "role": "10% owner",
-   "date": "2026-08-21",
-   "shares": 7700119.0,
-   "price": 2.7,
-   "value": 20790321.3,
-   "acc": "0001231919-26-001062",
-   "filed": "2026-08-25"
-  },
   {
    "ticker": "SCTH",
    "company": "Securetech Innovations, Inc.",
@@ -4535,6 +4487,19 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "QNRX",
+   "company": "Quoin Pharmaceuticals, Ltd.",
+   "insider": "Culverwell Anthony James",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 6146.0,
+   "price": 4.88,
+   "value": 29992.48,
+   "acc": "0001104659-26-104402",
+   "filed": "2026-09-01",
+   "placement": true
+  },
+  {
    "ticker": "CIA",
    "company": "CITIZENS, INC.",
    "insider": "HARWOOD MICHAEL PHILIP",
@@ -4571,6 +4536,19 @@
    "filed": "2026-08-31"
   },
   {
+   "ticker": "QNRX",
+   "company": "Quoin Pharmaceuticals, Ltd.",
+   "insider": "Lawlor Sally Bridget",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-31",
+   "shares": 10244.0,
+   "price": 4.88,
+   "value": 49990.72,
+   "acc": "0001104659-26-104403",
+   "filed": "2026-09-01",
+   "placement": true
+  },
+  {
    "ticker": "ASTS",
    "company": "AST SpaceMobile, Inc.",
    "insider": "Cisneros Adriana",
@@ -4593,6 +4571,32 @@
    "value": 96601.55,
    "acc": "0002097345-26-000016",
    "filed": "2026-08-31"
+  },
+  {
+   "ticker": "QNRX",
+   "company": "Quoin Pharmaceuticals, Ltd.",
+   "insider": "Carter Denise P.",
+   "role": "Chief Operating Officer",
+   "date": "2026-08-31",
+   "shares": 20490.0,
+   "price": 4.88,
+   "value": 99991.2,
+   "acc": "0001104659-26-104405",
+   "filed": "2026-09-01",
+   "placement": true
+  },
+  {
+   "ticker": "QNRX",
+   "company": "Quoin Pharmaceuticals, Ltd.",
+   "insider": "Myers Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-08-31",
+   "shares": 20490.0,
+   "price": 4.88,
+   "value": 99991.2,
+   "acc": "0001104659-26-104404",
+   "filed": "2026-09-01",
+   "placement": true
   },
   {
    "ticker": "ACLOX",
@@ -4958,21 +4962,15 @@
    "insiders": 4,
    "total_value": 0,
    "other_value": 108000.0
+  },
+  {
+   "ticker": "QNRX",
+   "insiders": 4,
+   "total_value": 0,
+   "other_value": 279965.6
   }
  ],
  "seen": [
-  "0001918704-26-024919",
-  "0001918704-26-024920",
-  "0001918704-26-024921",
-  "0001918704-26-024922",
-  "0001918704-26-024923",
-  "0001918704-26-024924",
-  "0001918704-26-024925",
-  "0001918704-26-024926",
-  "0001918704-26-024927",
-  "0001918704-26-024928",
-  "0001918704-26-024929",
-  "0001918704-26-024930",
   "0001918704-26-024931",
   "0001918704-26-024932",
   "0001918704-26-024936",
@@ -6085,6 +6083,16 @@
   "0001968347-26-000009",
   "0001968347-26-000011",
   "0001968793-26-000006",
+  "0001968915-26-000116",
+  "0001968915-26-000117",
+  "0001968915-26-000119",
+  "0001968915-26-000120",
+  "0001968915-26-000121",
+  "0001968915-26-000122",
+  "0001968915-26-000123",
+  "0001968915-26-000124",
+  "0001968915-26-000125",
+  "0001968915-26-000126",
   "0001969106-26-000004",
   "0001969292-26-000009",
   "0001970357-26-000014",
@@ -6114,6 +6122,7 @@
   "0001975015-26-000043",
   "0001975015-26-000046",
   "0001975015-26-000048",
+  "0001975015-26-000049",
   "0001975231-26-000006",
   "0001975231-26-000008",
   "0001975231-26-000010",
@@ -7261,6 +7270,7 @@
   "0002052363-26-000045",
   "0002052363-26-000047",
   "0002052363-26-000050",
+  "0002052363-26-000052",
   "0002052896-26-000001",
   "0002052951-26-000007",
   "0002052994-26-000003",
