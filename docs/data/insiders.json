@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-02 21:58 UTC",
+ "updated_utc": "2026-09-02 22:14 UTC",
  "purchases": [
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-24",
-   "shares": 233624.0,
-   "price": 8.84,
-   "value": 2065236.16,
-   "acc": "0001140361-26-034358",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "CALAMOS AKSIA HEDGED STRATEGIES FUND (CIK 2063706)",
-   "company": "Calamos Aksia Hedged Strategies Fund",
-   "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
-   "role": "10% owner",
-   "date": "2026-08-24",
-   "shares": 284586.108,
-   "price": 10.51,
-   "value": 2991000.0,
-   "acc": "0002125773-26-000010",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "BABA",
-   "company": "Alibaba Group Holding Ltd",
-   "insider": "Wu Yongming",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-24",
-   "shares": 350000.0,
-   "price": 14.24,
-   "value": 4984000.0,
-   "acc": "0001193125-26-361711",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -3827,6 +3791,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 1742.0,
+   "price": 3.2494,
+   "value": 5660.45,
+   "acc": "0001539497-26-002446",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
    "insider": "Cassabaum Michelle R",
@@ -4539,6 +4515,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 934.0,
+   "price": 3.1971,
+   "value": 2986.09,
+   "acc": "0001539497-26-002446",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "MDWD",
    "company": "MediWound Ltd.",
    "insider": "Rubinstein Samuel",
@@ -4755,6 +4743,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 5387.0,
+   "price": 3.2462,
+   "value": 17487.28,
+   "acc": "0001539497-26-002446",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "Horne William B.",
@@ -4821,11 +4821,6 @@
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "insiders": 2,
    "total_value": 66981948.1
-  },
-  {
-   "ticker": "BABA",
-   "insiders": 2,
-   "total_value": 25691200.0
   },
   {
    "ticker": "NGL",
@@ -4972,7 +4967,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025304",
   "0001918704-26-025305",
   "0001918704-26-025306",
   "0001918704-26-025307",
@@ -5892,6 +5886,7 @@
   "0001941365-26-000077",
   "0001941739-26-000006",
   "0001942369-26-000008",
+  "0001942421-26-000002",
   "0001942639-26-000003",
   "0001942685-26-000002",
   "0001942745-26-000004",
