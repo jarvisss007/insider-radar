@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-02 15:52 UTC",
+ "updated_utc": "2026-09-02 16:23 UTC",
  "purchases": [
-  {
-   "ticker": "IDAI",
-   "company": "T Stamp Inc",
-   "insider": "Genner Gareth Neville",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-24",
-   "shares": 2000.0,
-   "price": 3.21,
-   "value": 6420.0,
-   "acc": "0001910573-26-000013",
-   "filed": "2026-08-25"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-24",
-   "shares": 20000.0,
-   "price": 0.3576,
-   "value": 7152.0,
-   "acc": "0001683168-26-006735",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "SLNH",
-   "company": "Soluna Holdings, Inc",
-   "insider": "PICCHI MICHAEL",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-24",
-   "shares": 10000.0,
-   "price": 1.14,
-   "value": 11400.0,
-   "acc": "0001493152-26-039911",
-   "filed": "2026-08-24"
-  },
   {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
@@ -4707,6 +4671,30 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "Miles Christen Brooke",
+   "role": "VP, Human Resources",
+   "date": "2026-09-01",
+   "shares": 4.636,
+   "price": 21.57,
+   "value": 100.0,
+   "acc": "0001437749-26-029481",
+   "filed": "2026-09-02"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "Oliver Lawrence T.",
+   "role": "Senior VP and Secretary",
+   "date": "2026-09-01",
+   "shares": 9.272,
+   "price": 21.57,
+   "value": 200.0,
+   "acc": "0001437749-26-029483",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4729,6 +4717,18 @@
    "value": 1302.0,
    "acc": "0002127924-26-000015",
    "filed": "2026-09-01"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 1000.0,
+   "price": 21.3,
+   "value": 21300.0,
+   "acc": "0001437749-26-029479",
+   "filed": "2026-09-02"
   },
   {
    "ticker": "ALRS",
@@ -4908,14 +4908,14 @@
    "total_value": 110032.0
   },
   {
-   "ticker": "SLNH",
-   "insiders": 2,
-   "total_value": 94000.0
-  },
-  {
    "ticker": "VRXA",
    "insiders": 2,
    "total_value": 82650.0
+  },
+  {
+   "ticker": "SLNH",
+   "insiders": 2,
+   "total_value": 82600.0
   },
   {
    "ticker": "CBU",
@@ -4930,7 +4930,7 @@
   {
    "ticker": "APCX",
    "insiders": 2,
-   "total_value": 46256.0
+   "total_value": 39104.0
   },
   {
    "ticker": "HKHC",
@@ -4941,6 +4941,11 @@
    "ticker": "UNB",
    "insiders": 2,
    "total_value": 28520.0
+  },
+  {
+   "ticker": "RGCO",
+   "insiders": 3,
+   "total_value": 21600.0
   },
   {
    "ticker": "RCG",
@@ -4976,10 +4981,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025060",
-  "0001918704-26-025063",
-  "0001918704-26-025064",
-  "0001918704-26-025065",
   "0001918704-26-025066",
   "0001918704-26-025068",
   "0001918704-26-025070",
@@ -5833,6 +5834,10 @@
   "0001918704-26-026171",
   "0001918704-26-026172",
   "0001918704-26-026173",
+  "0001918704-26-026174",
+  "0001918704-26-026175",
+  "0001918704-26-026176",
+  "0001918704-26-026177",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
