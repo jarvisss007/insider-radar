@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-03 09:51 UTC",
+ "updated_utc": "2026-09-03 10:07 UTC",
  "purchases": [
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Colonna Bernardino",
-   "role": "President",
-   "date": "2026-08-25",
-   "shares": 400.0,
-   "price": 10.175,
-   "value": 4070.0,
-   "acc": "0001193125-26-371636",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "UNB",
    "company": "UNION BANKSHARES INC",
@@ -4407,6 +4395,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "AIIR",
+   "company": "AIR Global PLC",
+   "insider": "Lotfy Bassem",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-01",
+   "shares": 50.0,
+   "price": 7.5,
+   "value": 375.0,
+   "acc": "0001193125-26-380882",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4911,7 +4911,7 @@
   {
    "ticker": "LIEN",
    "insiders": 2,
-   "total_value": 104011.58
+   "total_value": 99941.58
   },
   {
    "ticker": "VRXA",
