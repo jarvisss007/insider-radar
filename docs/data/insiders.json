@@ -1,19 +1,6 @@
 {
- "updated_utc": "2026-09-03 22:41 UTC",
+ "updated_utc": "2026-09-03 22:57 UTC",
  "purchases": [
-  {
-   "ticker": "MAIR",
-   "company": "Madison Air Solutions Corp",
-   "insider": "BERTARELLI ERNESTO",
-   "role": "10% owner",
-   "date": "2026-08-25",
-   "shares": 8770524.0,
-   "price": 24.97,
-   "value": 218999984.28,
-   "acc": "0001193125-26-371312",
-   "filed": "2026-08-27",
-   "placement": true
-  },
   {
    "ticker": "NRDE",
    "company": "Stark Novus Financial Inc.",
@@ -3805,6 +3792,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "AUGO",
+   "company": "Aura Minerals Inc.",
+   "insider": "Sousa Mauad Bruno",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 1.0,
+   "price": 81.1,
+   "value": 81.1,
+   "acc": "0002117905-26-000028",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "Miles Christen Brooke",
@@ -4959,7 +4958,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025632",
   "0001918704-26-025633",
   "0001918704-26-025634",
   "0001918704-26-025635",
@@ -7738,6 +7736,7 @@
   "0002117905-26-000025",
   "0002117905-26-000026",
   "0002117905-26-000027",
+  "0002117905-26-000028",
   "0002117999-26-000006",
   "0002118012-26-000003",
   "0002118402-26-000013",
