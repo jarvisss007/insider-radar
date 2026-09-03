@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-03 16:33 UTC",
+ "updated_utc": "2026-09-03 16:49 UTC",
  "purchases": [
-  {
-   "ticker": "FGL",
-   "company": "Founder Group Ltd",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-25",
-   "shares": 232055.0,
-   "price": 0.225,
-   "value": 52212.38,
-   "acc": "0001475597-26-000217",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-25",
-   "shares": 8729.0,
-   "price": 6.0344,
-   "value": 52674.28,
-   "acc": "0001214659-26-010931",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "PRTS",
-   "company": "CarParts.com, Inc.",
-   "insider": "PHELPS BARRY",
-   "role": "Director",
-   "date": "2026-08-25",
-   "shares": 9900.0,
-   "price": 6.48,
-   "value": 64152.0,
-   "acc": "0001140361-26-034452",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-08-25",
-   "shares": 994.0,
-   "price": 65.89,
-   "value": 65494.66,
-   "acc": "0001505732-26-000108",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "AMRC",
-   "company": "Ameresco, Inc.",
-   "insider": "Sakellaris George P",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-25",
-   "shares": 4062.0,
-   "price": 22.03,
-   "value": 89485.86,
-   "acc": "0001628280-26-059096",
-   "filed": "2026-08-26"
-  },
   {
    "ticker": "BSX",
    "company": "BOSTON SCIENTIFIC CORP",
@@ -4767,6 +4707,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Jenisch Jan Philipp",
+   "role": "Chairman & CEO",
+   "date": "2026-09-02",
+   "shares": 1000.0,
+   "price": 42.44,
+   "value": 42440.0,
+   "acc": "0002035989-26-000078",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "RNAQ",
    "company": "Rainier Acquisition Corp",
    "insider": "GROSSMAN JONAS",
@@ -4792,6 +4744,30 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Jenisch Jan Philipp",
+   "role": "Chairman & CEO",
+   "date": "2026-09-02",
+   "shares": 2000.0,
+   "price": 42.465,
+   "value": 84930.0,
+   "acc": "0002035989-26-000078",
+   "filed": "2026-09-03"
+  },
+  {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Jenisch Jan Philipp",
+   "role": "Chairman & CEO",
+   "date": "2026-09-02",
+   "shares": 2000.0,
+   "price": 42.53,
+   "value": 85060.0,
+   "acc": "0002035989-26-000078",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "TENX",
    "company": "TENAX THERAPEUTICS, INC.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -4802,6 +4778,30 @@
    "value": 337585.64,
    "acc": "0001940272-26-000019",
    "filed": "2026-09-02"
+  },
+  {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Jenisch Jan Philipp",
+   "role": "Chairman & CEO",
+   "date": "2026-09-02",
+   "shares": 10000.0,
+   "price": 42.37,
+   "value": 423700.0,
+   "acc": "0002035989-26-000078",
+   "filed": "2026-09-03"
+  },
+  {
+   "ticker": "AMRZ",
+   "company": "Amrize Ltd",
+   "insider": "Jenisch Jan Philipp",
+   "role": "Chairman & CEO",
+   "date": "2026-09-02",
+   "shares": 15000.0,
+   "price": 42.53,
+   "value": 637950.0,
+   "acc": "0002035989-26-000078",
+   "filed": "2026-09-03"
   },
   {
    "ticker": "SUJA",
@@ -4828,6 +4828,11 @@
    "total_value": 5318138.79
   },
   {
+   "ticker": "AMRZ",
+   "insiders": 4,
+   "total_value": 1615559.35
+  },
+  {
    "ticker": "AXIA3",
    "insiders": 3,
    "total_value": 976639.0
@@ -4842,11 +4847,6 @@
    "insiders": 2,
    "total_value": 556800.0,
    "other_value": 218999984.28
-  },
-  {
-   "ticker": "AMRZ",
-   "insiders": 3,
-   "total_value": 341479.35
   },
   {
    "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
@@ -4864,11 +4864,6 @@
    "total_value": 261575.78
   },
   {
-   "ticker": "PRTS",
-   "insiders": 3,
-   "total_value": 235742.88
-  },
-  {
    "ticker": "SCOR",
    "insiders": 2,
    "total_value": 209800.0
@@ -4882,6 +4877,11 @@
    "ticker": "MTDR",
    "insiders": 2,
    "total_value": 171841.95
+  },
+  {
+   "ticker": "PRTS",
+   "insiders": 2,
+   "total_value": 171590.88
   },
   {
    "ticker": "GROV",
@@ -4972,13 +4972,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025444",
-  "0001918704-26-025445",
-  "0001918704-26-025446",
-  "0001918704-26-025447",
-  "0001918704-26-025448",
-  "0001918704-26-025449",
-  "0001918704-26-025450",
   "0001918704-26-025451",
   "0001918704-26-025452",
   "0001918704-26-025465",
@@ -5749,6 +5742,12 @@
   "0001918704-26-026512",
   "0001918704-26-026513",
   "0001918704-26-026514",
+  "0001918704-26-026515",
+  "0001918704-26-026516",
+  "0001918704-26-026517",
+  "0001918704-26-026518",
+  "0001918704-26-026519",
+  "0001918704-26-026520",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7120,6 +7119,7 @@
   "0002035989-26-000069",
   "0002035989-26-000074",
   "0002035989-26-000076",
+  "0002035989-26-000078",
   "0002036507-26-000007",
   "0002036536-26-000010",
   "0002036664-26-000003",
