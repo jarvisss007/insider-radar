@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-03 10:22 UTC",
+ "updated_utc": "2026-09-03 10:54 UTC",
  "purchases": [
-  {
-   "ticker": "UNB",
-   "company": "UNION BANKSHARES INC",
-   "insider": "Bugbee Dawn D",
-   "role": "Director",
-   "date": "2026-08-25",
-   "shares": 200.0,
-   "price": 23.8,
-   "value": 4760.0,
-   "acc": "0000706863-26-000075",
-   "filed": "2026-08-26"
-  },
   {
    "ticker": "HKHC",
    "company": "Horizon Kinetics Holding Corp",
@@ -4743,6 +4731,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "YQ",
+   "company": "17 Education & Technology Group Inc.",
+   "insider": "Liu Chang",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-02",
+   "shares": 9055.0,
+   "price": 2.1887,
+   "value": 19818.68,
+   "acc": "0001193125-26-380960",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "Horne William B.",
@@ -4937,11 +4937,6 @@
    "ticker": "HKHC",
    "insiders": 2,
    "total_value": 29040.0
-  },
-  {
-   "ticker": "UNB",
-   "insiders": 2,
-   "total_value": 28520.0
   },
   {
    "ticker": "RGCO",
