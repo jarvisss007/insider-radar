@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-02 23:50 UTC",
+ "updated_utc": "2026-09-03 00:07 UTC",
  "purchases": [
-  {
-   "ticker": "BLNE",
-   "company": "Beeline Holdings, Inc.",
-   "insider": "Liuzza Nicholas Reyland JR",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-25",
-   "shares": 2500.0,
-   "price": 1.02,
-   "value": 2550.0,
-   "acc": "0001493152-26-040843",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-25",
-   "shares": 500.0,
-   "price": 5.852,
-   "value": 2926.0,
-   "acc": "0001214659-26-010931",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "Kesslen Jay H",
-   "role": "Vice-President",
-   "date": "2026-08-25",
-   "shares": 1000.0,
-   "price": 2.93,
-   "value": 2930.0,
-   "acc": "0001437749-26-028968",
-   "filed": "2026-08-26"
-  },
   {
    "ticker": "LIEN",
    "company": "Chicago Atlantic BDC, Inc.",
@@ -3503,6 +3467,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "AUGO",
+   "company": "Aura Minerals Inc.",
+   "insider": "Sousa Mauad Bruno",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 10.0,
+   "price": 79.89,
+   "value": 798.9,
+   "acc": "0002117905-26-000027",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -4030,6 +4006,18 @@
    "value": 39442.9,
    "acc": "0001104659-26-104326",
    "filed": "2026-09-01"
+  },
+  {
+   "ticker": "CAMP",
+   "company": "Camp4 Therapeutics Corp",
+   "insider": "Gold Kelly",
+   "role": "Chief Financial Officer",
+   "date": "2026-08-31",
+   "shares": 10000.0,
+   "price": 3.96,
+   "value": 39600.0,
+   "acc": "0001628280-26-060234",
+   "filed": "2026-09-02"
   },
   {
    "ticker": "BJRI",
@@ -4779,6 +4767,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "BJRI",
+   "company": "BJs RESTAURANTS INC",
+   "insider": "Richmond C Bradford",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 500.0,
+   "price": 61.05,
+   "value": 30525.0,
+   "acc": "0001193125-26-380660",
+   "filed": "2026-09-02"
+  },
+  {
    "ticker": "RNAQ",
    "company": "Rainier Acquisition Corp",
    "insider": "GROSSMAN JONAS",
@@ -4951,7 +4951,7 @@
   {
    "ticker": "RCG",
    "insiders": 2,
-   "total_value": 19973.44
+   "total_value": 17043.44
   },
   {
    "ticker": "BRID",
@@ -4977,8 +4977,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025319",
-  "0001918704-26-025320",
   "0001918704-26-025321",
   "0001918704-26-025322",
   "0001918704-26-025323",
@@ -5952,6 +5950,7 @@
   "0001959402-26-000004",
   "0001959506-26-000006",
   "0001959770-26-000010",
+  "0001960048-26-000009",
   "0001960181-26-000002",
   "0001960742-26-000002",
   "0001960794-26-000002",
@@ -7767,6 +7766,7 @@
   "0002117905-26-000024",
   "0002117905-26-000025",
   "0002117905-26-000026",
+  "0002117905-26-000027",
   "0002117999-26-000006",
   "0002118012-26-000003",
   "0002118402-26-000013",
