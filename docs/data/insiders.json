@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-03 16:17 UTC",
+ "updated_utc": "2026-09-03 16:33 UTC",
  "purchases": [
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-08-25",
-   "shares": 662.0,
-   "price": 65.9,
-   "value": 43625.8,
-   "acc": "0001505732-26-000108",
-   "filed": "2026-08-26"
-  },
   {
    "ticker": "FGL",
    "company": "Founder Group Ltd",
@@ -4287,6 +4275,18 @@
    "filed": "2026-09-01"
   },
   {
+   "ticker": "FRST",
+   "company": "Primis Financial Corp.",
+   "insider": "Weichert Margaret M",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 100.0,
+   "price": 15.75,
+   "value": 1575.0,
+   "acc": "0001193125-26-381412",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4972,9 +4972,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025441",
-  "0001918704-26-025442",
-  "0001918704-26-025443",
   "0001918704-26-025444",
   "0001918704-26-025445",
   "0001918704-26-025446",
@@ -5749,6 +5746,9 @@
   "0001918704-26-026500",
   "0001918704-26-026502",
   "0001918704-26-026503",
+  "0001918704-26-026512",
+  "0001918704-26-026513",
+  "0001918704-26-026514",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
