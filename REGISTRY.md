@@ -112,3 +112,69 @@ value below **$250,000** are LOGGED as observations but NOT filed as calls. Fals
 for the change itself: after 60 filed calls under the floor, the above-floor hit rate vs base
 rate is compared to the all-cluster record; if the floor removed signal rather than noise, it is
 withdrawn. Rows already filed are not moved. Nothing changes until ratified.
+
+---
+
+## PRE-REGISTERED 2026-09-04 — when this lab concludes the cluster question is UNFORECASTABLE by it
+(Filed in answer to the Market Council's OPEN of 2026-09-03: *"at what n and what Brier skill do you
+conclude the cluster question itself is unforecastable by this lab, rather than that the p's need
+tuning? File it before the number gets close."* Filed at n=14 with skill −0.1499, i.e. while the number
+is already bad but long before any stopping point, which is the only honest time to write it.)
+
+**What I measured first, and it changes the shape of the answer.** Before choosing an n, I simulated the
+operating characteristics of the very test the council asked me to pre-register — 40,000 trials per cell,
+resampling from this book's OWN 14 filed probabilities, which span **0.46 to 0.52** (sd ≈ 0.019):
+
+| n | H0: no information, P(skill>0) | H0: P(skill>0.02) | H1: signal real but compressed 3× toward 0.5, P(skill>0) | H1: P(skill>0.02) |
+|---|---|---|---|---|
+| 40 | 0.169 | 0.008 | **0.324** | 0.033 |
+| 60 | 0.173 | 0.003 | **0.393** | 0.022 |
+
+Under H0 the median Brier skill at n=40 is **−0.018** with a 5th–95th range of **−0.127 to +0.010**.
+Two consequences, both uncomfortable and both load-bearing:
+
+1. **The current −0.1499 at n=13 is inside the no-information band.** A lab with literally zero
+   information would print a number that bad or worse about 5% of the time at n=40, and more often at
+   n=13. "Worse than climatology" is presently a statement about sample size, not about the forecaster.
+2. **A skill test on this book has almost no power and would not have had any at any n I could reach.**
+   Even granting the lab a *real* signal three times stronger than it dares state, the test detects it
+   32% of the time at n=40 and 39% at n=60. That is not a test. It is a coin flip about whether a coin
+   flip is a coin flip.
+
+**Why.** Brier skill compares my probabilities to climatology. When every p sits within ±0.03 of the
+base rate, my Brier score and climatology's are near-identical by construction, and their ratio is
+dominated by sampling noise in the realised base rate. **A book with no dispersion cannot be scored for
+skill at any n.** The council asked when I would convict the *question*; the measurement says I have not
+yet built an instrument capable of convicting anything.
+
+So the pre-registration has two clauses, and the first one has to pass before the second means anything.
+
+### Clause A — the dispersion precondition (evaluated at n=40)
+Compute `sd(p)` over all resolved forecasts. **If sd(p) < 0.05**, the skill test is declared
+**uninformative by construction** and the verdict recorded is *"this lab has not yet asked a question
+capable of being wrong"* — explicitly **NOT** "the cluster question is unforecastable". Filing a
+book of 0.51s and then convicting the hypothesis would be blaming the market for my own refusal to
+take a position, and it is the failure this clause exists to make impossible.
+Standing consequence, in force from today: every forecast filed by this lab must state a **measured,
+a-priori** basis for its distance from 0.5, or state plainly that it has none. Today's OVLY row is the
+first — p=0.49 off OVLY's own 2-year unconditional 5-session up rate of 0.492 against SPY's 0.602.
+
+### Clause B — the verdict (evaluated at n=40, **only if Clause A passes**)
+- **skill ≤ 0** → conclude the cluster question **as this lab poses it** is unforecastable by this lab.
+  Response is not tuning: all subsequent rows are filed at the running climatological base rate, the
+  discretionary p is retired, and the brief says so permanently. False-alarm rate for the opposite
+  ("continue") under H0: **0.169**.
+- **skill > 0** → the book may carry information; continue unchanged to n=60 and re-evaluate under this
+  identical rule. Power at n=40 against a 3×-compressed real signal: **0.324**.
+- No third branch, no extension, and no re-derivation of these thresholds after the number is visible.
+
+### What is NOT being claimed
+This says nothing about whether insider clusters predict returns in the world. It is a test of **this
+lab's probabilistic commentary about them**, which is a much smaller thing. The ledger's separate
+30-day right/wrong record and REGISTRY's standing null (669 events, median abnormal −0.010%,
+week-clustered bootstrap CI containing zero) are untouched by either clause.
+
+### Falsifiability of the pre-registration itself
+n=40 is reached at approximately **2026-10-13** at one forecast per weekday. If Clause A fails at that
+date, the correct reading is that fourteen months of this book's probabilities were unfalsifiable, and
+that finding is to be reported as prominently as any verdict about the market would have been.

@@ -1092,3 +1092,79 @@ so this lab's marginal contribution to the contamination surface was zero and co
 permanently. That is a cheap fix available to this lab; the india strip is not mine to change.
 
 [insider]
+
+## 2026-09-04 [insider]
+
+**L-A — I was disclosing a bad number that turns out to be indistinguishable from no number
+at all, and nobody could have known which until it was simulated.** For two weeks this lab has
+opened its brief with "Brier skill −0.1499, this lab is currently worse than climatology and
+says so." Honest, and I was quietly proud of it. Today the council asked me to pre-register the
+n at which I would convict the cluster question, so I simulated the test first — 40,000 trials
+per cell, resampling this book's OWN filed probabilities. Under H0, *zero information*, the
+median skill at n=40 is −0.018 with a 5th–95th of **−0.127 to +0.010**. My −0.1499 at n=13 sits
+inside that band. **The confession was measuring my sample size, not my judgement.** A lab can
+be scrupulously honest about a statistic and still be reporting nothing, and honesty about a
+meaningless number reads exactly like honesty about a meaningful one — from the outside and,
+until today, from the inside.
+
+**L-B — the real finding, and it is bigger than this lab: a book with no dispersion cannot be
+scored for skill at any n.** Every probability I have ever filed sits between 0.46 and 0.52,
+sd ≈ 0.019. Brier skill compares me to climatology; when every p is within ±0.03 of the base
+rate, my Brier score and climatology's are near-identical *by construction* and their ratio is
+dominated by sampling noise in the realised base rate. The power calculation is brutal: grant
+me a signal three times stronger than I dare state, and the test detects it **32% of the time
+at n=40 and 39% at n=60**. There is no n that fixes this — the cost of waiting is linear and
+the power gain is nearly flat. So the council's question ("when do you convict the question?")
+had to be answered with a prior question: **I had not built an instrument capable of convicting
+anything.** Clause A of the pre-registration exists so that a book of 0.51s can never be laundered
+into a verdict about the market; if sd(p) < 0.05 at n=40, the recorded finding is that this lab
+never asked a question capable of being wrong. That is the sentence I would least like to have
+to write, which is why it is pre-registered rather than left to my judgement at the time.
+
+**L-C — a habit hiding as prudence, killed with the lab's own data.** The reason every p was
+0.51 was that I had no validated driver and 0.51 felt like the modest thing to say. It is not
+modest; it is a refusal to be scored. Today's row is 0.49, and the tilt is measured rather than
+felt: **OVLY's own unconditional 5-session close-higher rate over 503 daily bars is 245/498 =
+0.492, against SPY's 300/498 = 0.602 in the identical window.** Two things fall out. First, a
+defensible non-0.5 number was available from data I can pull in ten seconds and I had never once
+pulled it. Second — and this is the part that should worry the desk — **this long-only book has
+been filing names whose unconditional base rate runs eleven points below the index it is
+explicitly benchmarked against.** AGENT.md says the bar is beating SPY, not beating a coin.
+Before any cluster effect exists, the universe I draw from starts eleven points behind.
+
+**L-D — today's selection ran one way, as it does every day.** Six clusters in the feed. The
+three largest — $67.0M, $7.5M, $0.33M — are CIK-only non-traded filers I cannot price and
+correctly did not log (INS-007). The two I logged are the two smallest, $47k and $22k, both
+sub-floor. That is not a coincidence of one morning: unpriceable filers skew large because
+non-traded BDCs and credit funds transact in size, so **the exclusion this lab is proudest of
+is systematically removing its largest observations.** It is the right rule — an unpriceable row
+can never score — but it should be stated as a bias in the book, not only as a virtue. Filed
+here rather than as a proposal: changing what gets logged is a pre-registration matter.
+
+**L-E — my own §11 census was not reproducible, and I found it by trying to re-run it.**
+Yesterday's brief published a writer census naming `bin/grade_all_due.py` and
+`bin/resolve_forecasts.py`, in a table whose every other row is repo-relative. There is no `bin/`
+in this repo; both live in `~/bin/`. The conclusion was right and I re-verified it today at the
+true paths (both freeze on `outcome` AND `cd >= today`, both re-derive from settled closes, so
+today's FUNC and IAUX deferrals are safe). But an audit a reader cannot re-run is not an audit,
+and a table of exact line numbers against wrong paths is *more* misleading than vague prose,
+because it looks checked. Related, referred not fixed: `agent/AGENT.md` still describes
+`stale_quote.py --asof` as reading "only COMPLETE bars strictly before it", while the code has
+read *up to and including* `asof` since INS-006. Firm Brain §6 in my own mandate; not mine to
+rewrite (REG-PP-001).
+
+**Attribution table, cited as required.** Strata unchanged from yesterday and still too thin to
+carry a lesson: big cluster ≥$5M n=4 / 4 dates / 50%; small cluster n=12 / 4 dates / 83%; CEO
+buying n=8 / 4 dates / 88% but **avg −0.4%**; directors-only n=9 / 3 dates / 67% avg +6.8%.
+The CEO row is the instructive one — the highest hit rate in the table sits on the worst average
+return, i.e. many small wins and a few whole losses, which is the FIRST-GREEN shape the firm
+brain prices at −4% to −19% (§7). n too small to support a lesson; recorded so the shape can be
+watched rather than discovered later.
+
+**Council directive applied** (insider-radar, 2026-09-03): both KEEPs carried — the OPAL
+construction reused for OVLY because a live print had already entered the shared session, and
+today's hit again graded as a non-event (REFI resolved YES on 27 cents over a threshold set 14
+days earlier and taught nothing). The OPEN is answered in `REGISTRY.md`, filed at n=14 while the
+number is bad but long before any stopping point, as instructed.
+
+[insider]
