@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-04 00:33 UTC",
+ "updated_utc": "2026-09-04 00:49 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 209.0,
-   "price": 2.9,
-   "value": 606.1,
-   "acc": "0001536588-26-000029",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "FRAF",
-   "company": "FRANKLIN FINANCIAL SERVICES CORP /PA/",
-   "insider": "Duffey Gregory A",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 16.0,
-   "price": 62.08,
-   "value": 993.28,
-   "acc": "0001638509-26-000008",
-   "filed": "2026-08-27"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "de Bittencourt Marinho Gisomar Francisco",
-   "role": "",
-   "date": "2026-08-26",
-   "shares": 100.0,
-   "price": 10.31,
-   "value": 1031.0,
-   "acc": "0001213900-26-095848",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 200.0,
-   "price": 5.9501,
-   "value": 1190.02,
-   "acc": "0001214659-26-010931",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 87.0,
-   "price": 15.25,
-   "value": 1326.75,
-   "acc": "0001493152-26-040407",
-   "filed": "2026-08-27"
-  },
-  {
-   "ticker": "GNSS",
-   "company": "Genasys Inc.",
-   "insider": "Malhotra R. Rimmy",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 1000.0,
-   "price": 1.545,
-   "value": 1545.0,
-   "acc": "0001193125-26-368466",
-   "filed": "2026-08-26"
-  },
   {
    "ticker": "OVLY",
    "company": "Oak Valley Bancorp",
@@ -4693,6 +4621,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "AON",
+   "company": "Aon plc",
+   "insider": "KNIGHT LESTER B",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 367.0,
+   "price": 330.51,
+   "value": 121297.17,
+   "acc": "0001193125-26-382419",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
    "insider": "SCULLY WILLIAM P",
@@ -4741,6 +4681,30 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "AON",
+   "company": "Aon plc",
+   "insider": "KNIGHT LESTER B",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 1440.0,
+   "price": 329.69,
+   "value": 474753.6,
+   "acc": "0001193125-26-382419",
+   "filed": "2026-09-03"
+  },
+  {
+   "ticker": "AON",
+   "company": "Aon plc",
+   "insider": "KNIGHT LESTER B",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 1739.0,
+   "price": 325.63,
+   "value": 566270.57,
+   "acc": "0001193125-26-382419",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "AMRZ",
    "company": "Amrize Ltd",
    "insider": "Jenisch Jan Philipp",
@@ -4765,6 +4729,30 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "AON",
+   "company": "Aon plc",
+   "insider": "KNIGHT LESTER B",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 4145.0,
+   "price": 328.34,
+   "value": 1360969.3,
+   "acc": "0001193125-26-382419",
+   "filed": "2026-09-03"
+  },
+  {
+   "ticker": "AON",
+   "company": "Aon plc",
+   "insider": "KNIGHT LESTER B",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 5097.0,
+   "price": 326.53,
+   "value": 1664323.41,
+   "acc": "0001193125-26-382419",
+   "filed": "2026-09-03"
+  },
+  {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
    "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
@@ -4775,6 +4763,18 @@
    "value": 1795500.0,
    "acc": "0001140361-26-035501",
    "filed": "2026-09-02"
+  },
+  {
+   "ticker": "AON",
+   "company": "Aon plc",
+   "insider": "KNIGHT LESTER B",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 7212.0,
+   "price": 327.52,
+   "value": 2362074.24,
+   "acc": "0001193125-26-382419",
+   "filed": "2026-09-03"
   },
   {
    "ticker": "APCX",
@@ -4831,8 +4831,8 @@
   },
   {
    "ticker": "AXIA3",
-   "insiders": 3,
-   "total_value": 976639.0
+   "insiders": 2,
+   "total_value": 975608.0
   },
   {
    "ticker": "LUCK",
@@ -4968,8 +4968,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025657",
-  "0001918704-26-025658",
   "0001918704-26-025659",
   "0001918704-26-025660",
   "0001918704-26-025661",
@@ -6784,6 +6782,7 @@
   "0002001171-26-000006",
   "0002001557-26-000156",
   "0002002093-26-000010",
+  "0002002093-26-000012",
   "0002002763-26-000006",
   "0002002763-26-000010",
   "0002002763-26-000012",
@@ -7672,6 +7671,7 @@
   "0002106395-26-000005",
   "0002106873-26-000012",
   "0002107246-26-000012",
+  "0002107261-26-000011",
   "0002107955-26-000006",
   "0002108262-26-000006",
   "0002108589-26-000018",
