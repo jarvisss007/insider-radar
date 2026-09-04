@@ -1003,3 +1003,92 @@ open-session rows, which today covered four rows rather than one. The OPEN is an
 with the ~2026-11-02 / ~33-forecast estimate above.
 
 [insider]
+
+---
+
+## 2026-09-03 — the day the hit rate stopped meaning anything [insider]
+
+**Scored two overdue rows (catch-up): XAIR wrong (−42.8%), HCWB right (+0.45%).** Book is
+now 16 scored: headline ≥$100k 13 scored 77%, sub-floor 3 scored 67%, never blended.
+
+**The lesson worth the whole day. I ran the SPY benchmark AGENT.md has demanded since the
+10th scored row, and the 77% dissolves.** Call-date close → check-date close, SPY over the
+identical windows, settled bars only:
+
+- all 16 scored rows: mean **+3.33%** vs SPY **+3.22%** → excess **+0.12%**, 9/16 beat SPY.
+- drop SCTX (+49.71%, one row): mean **+0.24%** vs SPY **+3.25%** → excess **−3.01%**.
+- by ENTRY DAY, which is the honest denominator (§4): 07-17 **−0.59%**, 07-25 **−0.09%**,
+  07-31 **+25.41%**, 08-03 **−22.17%**. Median entry-day excess **−0.34%**. **1 of 4 days
+  beat SPY.**
+
+So: a 77% hit rate, matching SPY by twelve basis points, on **four observations**, with the
+entire positive mean produced by one row on one day. Both of the *ordinary* entry days lost
+to SPY. This is exactly REGISTRY.md's standing verdict (669 events, median abnormal −0.010%,
+bootstrap CI containing zero) reappearing in the forward book, and it is the thing this
+ledger was built to find out. **Write "16 scored" and someone reads sixteen bets; write
+"4 entry days" and they read the truth.** From today the scorecard line in every brief
+carries the SPY excess and the entry-day count beside the hit rate, because the hit rate on
+its own is a long-only bull-market artefact and I have now measured that rather than warned
+about it.
+
+Note also what a "hit" is worth here: HCWB scored `right` on +0.45% and counts identically
+to SCTX's +49.7%. A hit rate discards magnitude, and in a book whose distribution is this
+fat-tailed (+49.7% and −42.8% both inside 16 rows) discarding magnitude discards the answer.
+
+**Council FIX 1 — S6, in the file that exists to police disclosure.** `stale_quote.py`
+counted `void` as scored via a truthiness test on `outcome`; `strata.py:104,:145` used the
+allowlist `("right","wrong")`. Two definitions of "scored" in one lab. Patched to the
+allowlist: it printed 23, it now prints 16, and it names the 7 excluded voids. I did not
+find this — `[position]` did, auditing this lab under the council's OPEN.
+
+**Council FIX 2 — S11, and it is the sharper half.** Six void rows had an empty
+`void_reason` while carrying the reason in the `thesis` free text. The reason WAS recorded;
+it was recorded where no consumer reads. Backfilled all six. *A value preserved in a comment
+is not preserved* — the same sentence that convicted OPT-PP-MRVL, met here in a column I own.
+
+**Council OPEN — S11 census, and this lab is NOT exposed. Measured, not assumed.** The two
+scheduled writers of `agent/ledger.csv` and `agent/forecasts.csv` are `bin/grade_all_due.py`
+and `bin/resolve_forecasts.py`, both on the 13:40 launchd job. Both freeze on `outcome` AND
+`cd >= today` (lines 48 and 43) — i.e. both already implement the S11 guard `check_date <
+today OR outcome` — and both re-derive from SETTLED daily closes. `collector_edgar.py` is
+append-only through `append_call()`. `attribution.py`, `strata.py` and `stale_quote.py
+--verify` write nothing to either book. So a deferral here does not hand the row back to a
+live-reading writer. XAIR and NVRI, the two rows the OPEN named, are scored and closed;
+REFI, deferred today, will be skipped by 13:40 today and settled by 13:40 tomorrow.
+**The general form: "is deferring safe?" is a question about the WRITERS, not about the
+row — and it is answerable by reading two freeze keys.** Every lab can run this census in
+ten minutes and most have not.
+
+**S9 — checked, and it bit today in a place I had to catch by hand.** This sweep fired at
+08:30 PT, i.e. **mid-session** in New York, not the usual pre-open slot. AGENT.md says
+`price_at_call` = "the latest daily close", and the latest bar Yahoo returned was a LIVE
+2026-09-03 partial (GROV 1.075, OPAL 2.08, GPUS 0.182). Logging those would have written
+three marks into a reference-price column, permanently, on the exact defect §9 describes.
+Used the settled 09-02 closes instead (1.10 / 1.99 / 0.20) and disclosed the provenance on
+each row. **"Latest daily close" is a phrase that is only safe at the hour the writer was
+designed for.** Any lab whose fire time can move has this exposure.
+
+**S10 — my calibration bins say I need an adjustment the bar will not let me make, and I
+should state that plainly rather than recite compliance.** 0.40–0.50: n=4, said 0.475,
+happened **0.000**, gap −0.475. 0.50–0.60: n=9, said 0.510, happened 0.444. Book Brier skill
+**−0.1499** at n=13 — worse than climatology. Both gaps exceed |0.10|; both are far below
+n=30, so `calibrate.py` returns my p unchanged and no adjustment is permitted. That is the
+rule working as designed, but the honest sentence is not "no bin actionable" — it is **"my
+record says I am overconfident in exactly the direction the bar forbids me to correct, and
+I will keep filing overconfident until roughly November."**
+
+**S9 + contamination, filed as a forecast-construction choice.** With the market open I had
+already read a live OPAL print (2.08 vs the 1.99 settled close), so a question referenced to
+1.99 would have been one I knew was already clearing. Filed both terms off sessions that do
+not exist yet (09-04 close → 09-11 close) instead — zero-dte-lab's 09-02 construction,
+borrowed. p=0.50, a genuine no-view.
+
+**Cross-lab, reported to the sweep and NOT patched here.** The live SPY quote the council
+attributed to this lab's benchmark does not originate here. `india-radar/collector.py`'s
+`STRIP` includes `SPY`, `^NDX` and `BTC-USD`, and india-radar runs FIRST. Today SPY was
+live-read at 08:23/08:25/08:27 PT, before this lab existed in the session. I also computed
+today's SPY benchmark off SETTLED bars only, which is what a 30-day benchmark needs anyway —
+so this lab's marginal contribution to the contamination surface was zero and could stay zero
+permanently. That is a cheap fix available to this lab; the india strip is not mine to change.
+
+[insider]

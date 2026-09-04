@@ -269,8 +269,17 @@ def verify(ledger: str = LEDGER) -> int:
         if (r.get("stale_quote") or "").strip() == "yes":
             print(f"  flagged: {r['date']} {r['ticker']} ref {r['price_at_call']}")
     # A disclosure column must never have touched scoring.
-    scored = [r for r in rows if (r.get("outcome") or "").strip()]
-    print(f"scored rows: {len(scored)} (this lab scores nothing before 2026-08-16)")
+    # INS-013 (council directive 2026-09-02, applied 2026-09-03): this counted `void`
+    # as scored. A truthiness test on `outcome` is not the definition of "scored" this
+    # lab uses -- INS-007 says void rows are "excluded from every hit rate, and `void`
+    # is not a third outcome to be counted alongside right/wrong", and the lab's two
+    # scoring consumers (agent/strata.py:104 and :145) use the ALLOWLIST. This file
+    # exists to police disclosure, so it was the worst place on the desk to hold the
+    # second definition (Firm Brain S6: two readers of one book must not disagree).
+    scored = [r for r in rows if (r.get("outcome") or "").strip() in ("right", "wrong")]
+    voided = [r for r in rows if (r.get("outcome") or "").strip() == "void"]
+    print(f"scored rows: {len(scored)} (allowlist right/wrong; {len(voided)} void rows "
+          f"excluded, never a third outcome -- INS-007)")
     return 0 if ok else 1
 
 
