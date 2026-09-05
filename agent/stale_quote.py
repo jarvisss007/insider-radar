@@ -208,6 +208,14 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS)
                                  f"session {_d.isoformat()} at write time]").strip()
         except ValueError:
             pass
+    # INS-014 (2026-09-05 audit): 25 rows carried the PRIOR session's close as price_at_call while
+    # stale_quote said "no" — is_stale() watches whether closes MOVE, not whether the quote's own date
+    # is the call date. A call price must come from a bar dated the call date; otherwise the row says
+    # so and the auditor (price_audit.py) will see it.
+    _qd = str(row.get("quote_date") or "").strip()
+    if row.get("price_at_call") and _qd and _qd != str(row.get("date") or ""):
+        row["stale_quote"] = "yes"
+        row["thesis"] = (str(row.get("thesis") or "") + f" [quote dated {_qd}, not the call date — a prior-session close; treat the entry as unfillable until restated]").strip()
     if "stale_quote" not in row or row["stale_quote"] is None:
         flag, _ = flag_for(row["ticker"], row.get("date"), sessions)
         row["stale_quote"] = flag
