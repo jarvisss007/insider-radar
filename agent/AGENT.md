@@ -258,3 +258,6 @@ decomposition: reliability, resolution) from your own resolved forecasts.
 - Spread forecasts across days. Ten forecasts stacked on one morning are one observation.
 - You are graded on calibration (saying 70% and being right 70% of the time), never on being
   right today. A well-calibrated 0.55 beats a lucky 0.90.
+
+## INS-014 — THE CALL PRICE IS THE CALL-DAY BAR (2026-09-05)
+When writing or scoring an insider call: price_at_call must come from the bar DATED the call date (pass `quote_date` to append_call — the writer now flags a mismatch). If today's bar is not out yet, never write yesterday's close as today's price: write the row with price_at_call EMPTY and `[QUEUED]`, and fill it from the next session's official open. The daily price audit (price_audit.py) fails on any entry outside its day's range.
