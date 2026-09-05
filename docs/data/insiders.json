@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-09-04 15:47 UTC",
+ "updated_utc": "2026-09-05 14:20 UTC",
  "purchases": [
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 500.0,
-   "price": 4.4875,
-   "value": 2243.75,
-   "acc": "0001628280-26-059102",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "OVLY",
-   "company": "Oak Valley Bancorp",
-   "insider": "LAFFERTY ALLISON",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 68.0,
-   "price": 33.85,
-   "value": 2301.8,
-   "acc": "0001437749-26-029649",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "Kesslen Jay H",
-   "role": "Vice-President",
-   "date": "2026-08-26",
-   "shares": 1000.0,
-   "price": 2.95,
-   "value": 2950.0,
-   "acc": "0001437749-26-029091",
-   "filed": "2026-08-27"
-  },
-  {
-   "ticker": "JMSB",
-   "company": "John Marshall Bancorp, Inc.",
-   "insider": "Chase Philip",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 133.0,
-   "price": 22.96,
-   "value": 3053.68,
-   "acc": "0001898808-26-000003",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "NGL",
-   "company": "NGL Energy Partners LP",
-   "insider": "COLLINGSWORTH JAMES M",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 200.0,
-   "price": 16.96,
-   "value": 3392.0,
-   "acc": "0001206714-26-000009",
-   "filed": "2026-08-26"
-  },
-  {
-   "ticker": "OVLY",
-   "company": "Oak Valley Bancorp",
-   "insider": "LAFFERTY ALLISON",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 105.0,
-   "price": 34.1,
-   "value": 3580.5,
-   "acc": "0001437749-26-029649",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 325.0,
-   "price": 15.2957,
-   "value": 4971.1,
-   "acc": "0001493152-26-040407",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "OVLY",
    "company": "Oak Valley Bancorp",
@@ -3636,6 +3552,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "DE ANGOITIA ALFONSO",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 145490.0,
+   "price": 20.9999,
+   "value": 3055275.45,
+   "acc": "0001724519-26-000010",
+   "filed": "2026-09-05"
+  },
+  {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "company": "John Hancock GA Senior Loan Trust",
    "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
@@ -4188,6 +4116,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "DE ANGOITIA ALFONSO",
+   "role": "Director",
+   "date": "2026-09-01",
+   "shares": 17596.0,
+   "price": 20.649,
+   "value": 363339.8,
+   "acc": "0001724519-26-000010",
+   "filed": "2026-09-05"
+  },
+  {
    "ticker": "DFIN",
    "company": "Donnelley Financial Solutions, Inc.",
    "insider": "BINZ JOSEPH LEO",
@@ -4536,6 +4476,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Engert Oliver",
+   "role": "Chief Administrative Officer",
+   "date": "2026-09-02",
+   "shares": 2458.0,
+   "price": 20.32,
+   "value": 49946.56,
+   "acc": "0001193125-26-384028",
+   "filed": "2026-09-05"
+  },
+  {
    "ticker": "RNAQ",
    "company": "Rainier Acquisition Corp",
    "insider": "GROSSMAN JONAS",
@@ -4753,6 +4705,30 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "DE ANGOITIA ALFONSO",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 313104.0,
+   "price": 20.9511,
+   "value": 6559873.21,
+   "acc": "0001724519-26-000010",
+   "filed": "2026-09-05"
+  },
+  {
+   "ticker": "BCDA",
+   "company": "BioCardia, Inc.",
+   "insider": "Altman Peter",
+   "role": "President and CEO",
+   "date": "2026-09-03",
+   "shares": 800.0,
+   "price": 1.09,
+   "value": 872.0,
+   "acc": "0001437749-26-029732",
+   "filed": "2026-09-05"
+  },
+  {
    "ticker": "SNNF",
    "company": "Seneca Bancorp, Inc.",
    "insider": "Vitale Joseph G",
@@ -4801,6 +4777,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Engert Oliver",
+   "role": "Chief Administrative Officer",
+   "date": "2026-09-03",
+   "shares": 5140.0,
+   "price": 19.46,
+   "value": 100024.4,
+   "acc": "0001193125-26-384028",
+   "filed": "2026-09-05"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -4811,6 +4799,18 @@
    "value": 187434.49,
    "acc": "0000935596-26-000023",
    "filed": "2026-09-04"
+  },
+  {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "McDonald Damien",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-04",
+   "shares": 13035.0,
+   "price": 19.15,
+   "value": 249620.25,
+   "acc": "0001193125-26-384027",
+   "filed": "2026-09-05"
   }
  ],
  "clusters": [
@@ -4818,6 +4818,11 @@
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "insiders": 2,
    "total_value": 66981948.1
+  },
+  {
+   "ticker": "LILA",
+   "insiders": 2,
+   "total_value": 11008194.25
   },
   {
    "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
@@ -4838,6 +4843,11 @@
    "ticker": "LUCK",
    "insiders": 2,
    "total_value": 693900.88
+  },
+  {
+   "ticker": "ENOV",
+   "insiders": 2,
+   "total_value": 399591.21
   },
   {
    "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
@@ -4922,7 +4932,7 @@
   {
    "ticker": "OVLY",
    "insiders": 2,
-   "total_value": 46931.67
+   "total_value": 41049.37
   },
   {
    "ticker": "HKHC",
@@ -4940,14 +4950,14 @@
    "total_value": 21543.0
   },
   {
-   "ticker": "RCG",
-   "insiders": 2,
-   "total_value": 17043.44
-  },
-  {
    "ticker": "BRID",
    "insiders": 2,
    "total_value": 15246.91
+  },
+  {
+   "ticker": "RCG",
+   "insiders": 2,
+   "total_value": 14093.44
   },
   {
    "ticker": "CWBC",
@@ -4968,17 +4978,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025744",
-  "0001918704-26-025745",
-  "0001918704-26-025746",
-  "0001918704-26-025747",
-  "0001918704-26-025748",
-  "0001918704-26-025749",
-  "0001918704-26-025750",
-  "0001918704-26-025751",
-  "0001918704-26-025752",
-  "0001918704-26-025753",
-  "0001918704-26-025754",
   "0001918704-26-025755",
   "0001918704-26-025756",
   "0001918704-26-025757",
@@ -5620,6 +5619,11 @@
   "0001918704-26-026650",
   "0001918704-26-026651",
   "0001918704-26-026652",
+  "0001918704-26-026654",
+  "0001918704-26-026655",
+  "0001918704-26-026656",
+  "0001918704-26-026657",
+  "0001918704-26-026660",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -5727,6 +5731,7 @@
   "0001938359-26-000003",
   "0001938704-26-000004",
   "0001938861-26-000019",
+  "0001939343-26-000010",
   "0001939403-26-000002",
   "0001939403-26-000003",
   "0001939433-26-000143",
@@ -6083,6 +6088,7 @@
   "0001990865-26-000009",
   "0001990997-26-000013",
   "0001991479-26-000007",
+  "0001991536-26-000011",
   "0001991569-26-000006",
   "0001991569-26-000008",
   "0001991569-26-000010",
@@ -6750,6 +6756,7 @@
   "0001999371-26-019856",
   "0001999371-26-019858",
   "0001999371-26-019862",
+  "0001999371-26-019881",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6961,6 +6968,7 @@
   "0002025334-26-000010",
   "0002025977-26-000006",
   "0002026080-26-000004",
+  "0002026373-26-000008",
   "0002026600-26-000002",
   "0002027006-26-000018",
   "0002027006-26-000024",
@@ -7433,6 +7441,7 @@
   "0002074521-26-000002",
   "0002074644-26-000006",
   "0002074666-26-000006",
+  "0002074793-26-000008",
   "0002074795-26-000005",
   "0002074844-26-000012",
   "0002074886-26-000006",
@@ -7442,6 +7451,7 @@
   "0002075052-26-000004",
   "0002075063-26-000004",
   "0002075228-26-000024",
+  "0002075251-26-000006",
   "0002075654-26-000002",
   "0002075704-26-000024",
   "0002075704-26-000029",
