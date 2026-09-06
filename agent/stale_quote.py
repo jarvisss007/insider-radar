@@ -28,6 +28,16 @@ VALUES
 """
 
 from __future__ import annotations
+# SESSION-001 (2026-09-05): the estate's one NYSE calendar lives in stock-radar/sessions.py;
+# loaded by path (this repo runs alone), weekday-only fallback if it is unavailable.
+try:
+    import importlib.util as _iu
+    _sp = _iu.spec_from_file_location("_sessions", "/Users/anupampatil/stock-radar/sessions.py")
+    _SESS = _iu.module_from_spec(_sp); _sp.loader.exec_module(_SESS)
+except Exception:
+    _SESS = None
+def _is_session(d):
+    return _SESS.is_session(d) if _SESS else d.weekday() < 5
 
 import argparse
 import csv
@@ -198,9 +208,9 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS)
         import datetime as _dt
         try:
             _d = _dt.date.fromisoformat(cd_)
-            if _d.weekday() > 4:
+            if not _is_session(_d):
                 _orig = cd_
-                while _d.weekday() > 4:
+                while not _is_session(_d):
                     _d += _dt.timedelta(days=1)
                 row["check_date"] = _d.isoformat()
                 row["thesis"] = (str(row.get("thesis") or "") +
