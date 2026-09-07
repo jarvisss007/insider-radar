@@ -115,7 +115,16 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
 
 ---
 
-## MANDATORY forecast — exactly one, every run, no exceptions
+## MANDATORY forecast — exactly one per SESSION run (MORN-006, Anupam 2026-09-07)
+
+**SESSIONS, NOT RUNS (MORN-006, ruled by Anupam 2026-09-07):** "every run" means every
+SESSION run. The bar is on the book, not the run, so it is machine-checkable: for every
+session D (`python ~/stock-radar/sessions.py D` exits 0) on or after 2026-09-08, this lab's
+`agent/forecasts.csv` carries at least one of its own forecast rows dated D, and zero rows
+dated a non-session. On a weekend or NYSE holiday no forecast row is filed — a row dated a
+day the market never traded is the rows≠sessions error in the one book whose purpose is
+being scorable. A non-session is not a drought; a session with no row is. The clause below
+this one is unchanged in force for session runs.
 
 Append one row to `agent/forecasts.csv`. **This is not a trade call and not
 advice.** Skipping a trade is free; skipping a forecast destroys the only
