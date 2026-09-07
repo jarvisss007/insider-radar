@@ -28,6 +28,19 @@ VALUES
 """
 
 from __future__ import annotations
+# BOOK-001 (2026-09-07): atomic book writes via stock-radar/atomicio.py (loaded by path; plain write if unavailable).
+try:
+    import importlib.util as _iu2
+    _sp2 = _iu2.spec_from_file_location("_atomicio", "/Users/anupampatil/stock-radar/atomicio.py")
+    _ATOM = _iu2.module_from_spec(_sp2); _sp2.loader.exec_module(_ATOM)
+except Exception:
+    _ATOM = None
+def _atomic_csv(path, fieldnames, rows, **kw):
+    if _ATOM:
+        _ATOM.hold_book(path); _ATOM.atomic_csv(path, fieldnames, rows, **kw); return
+    import csv as _csv
+    with open(path, "w", newline="") as f:
+        w = _csv.DictWriter(f, fieldnames=fieldnames, **kw); w.writeheader(); w.writerows(rows)
 # SESSION-001 (2026-09-05): the estate's one NYSE calendar lives in stock-radar/sessions.py;
 # loaded by path (this repo runs alone), weekday-only fallback if it is unavailable.
 try:
@@ -356,10 +369,7 @@ def fill(ledger: str = LEDGER) -> int:
             continue
         r["stale_quote"] = flag
         wrote += 1
-    with open(ledger, "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=header)
-        w.writeheader()
-        w.writerows(rows)
+    _atomic_csv(ledger, header, rows)
     print(f"filled {wrote}; left {skipped} unestablished; {blocked} already declared "
           f"and untouched")
     return 0
