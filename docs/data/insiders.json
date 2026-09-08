@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-08 12:46 UTC",
+ "updated_utc": "2026-09-08 13:02 UTC",
  "purchases": [
-  {
-   "ticker": "OBIO",
-   "company": "Orchestra BioMed Holdings, Inc.",
-   "insider": "Sherman Darren",
-   "role": "See Remarks",
-   "date": "2026-08-26",
-   "shares": 2000.0,
-   "price": 5.33,
-   "value": 10660.0,
-   "acc": "0001104659-26-103209",
-   "filed": "2026-08-28"
-  },
   {
    "ticker": "MSIF",
    "company": "MSC INCOME FUND, INC.",
@@ -4776,6 +4764,18 @@
    "filed": "2026-09-04"
   },
   {
+   "ticker": "NTST",
+   "company": "NETSTREIT Corp.",
+   "insider": "Donlan Daniel P",
+   "role": "CFO and Treasurer",
+   "date": "2026-09-04",
+   "shares": 1200.0,
+   "price": 20.12,
+   "value": 24144.0,
+   "acc": "0001628280-26-060814",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "ENOV",
    "company": "Enovis CORP",
    "insider": "McDonald Damien",
@@ -4924,11 +4924,6 @@
    "total_value": 82600.0
   },
   {
-   "ticker": "OBIO",
-   "insiders": 2,
-   "total_value": 58560.0
-  },
-  {
    "ticker": "BIVI",
    "insiders": 4,
    "total_value": 49118.0
@@ -4987,7 +4982,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025785",
   "0001918704-26-025786",
   "0001918704-26-025795",
   "0001918704-26-025796",
@@ -6765,6 +6759,7 @@
   "0001999371-26-020014",
   "0001999371-26-020016",
   "0001999371-26-020019",
+  "0001999371-26-020028",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
