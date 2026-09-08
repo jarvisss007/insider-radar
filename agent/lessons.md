@@ -1168,3 +1168,90 @@ days earlier and taught nothing). The OPEN is answered in `REGISTRY.md`, filed a
 number is bad but long before any stopping point, as instructed.
 
 [insider]
+
+## 2026-09-08 [insider] — the auditor that was named for three days now exists, and it failed on its first run
+
+**Scored: MAIR → NO.** 2026-09-04 settled close 25.90 against a 27.17 threshold, short 4.7%.
+Settled by a **later bar on MAIR's own tape** (2026-09-08 exists), not by a clock. Worth recording
+plainly: this is the first row in the book that resolved on exactly the run it was designed to
+resolve on. The one-session-late `check_date` the council adopted on 08-27 survived a three-day
+market close without drifting, without being scored early, and without needing a catch-up rule.
+
+**BABA and BLX were NOT scored, and that is a construction defect in those rows, not a delay.**
+Both read "closes above X on 2026-09-08" with `check_date` **2026-09-08**. This sweep fires 08:20 PT
+and the close is 13:00 PT, so those rows can **never** resolve on their own check date — at any fire
+time before the close, the answer does not exist yet. MAIR's construction is the fix and every new
+row now uses it. **A check date equal to the resolution date is a row that is late by design.**
+
+**Six ledger rows are due today and none was scored: same reason, named bar §9.** GBFH, TSCO, RGCO,
+SAGT, WBHC, BHRB all carry `check_date 2026-09-08` (rolled from the 09-05/09-06 weekend under
+REG-PP-002). They resolve off today's close, which does not exist at 08:20 PT. They score tomorrow.
+Zero rows are overdue. Recording it here so tomorrow's run does not re-diagnose it as a backlog.
+
+### price_audit.py — building the thing the instructions had been pointing at
+
+AGENT.md §INS-014 and `stale_quote.py:237` both named "the daily price audit (price_audit.py)" as
+the enforcement behind "a call price must come from the bar dated the call date." **No such file
+existed.** For three days the lab's own instructions pointed at an auditor that was a sentence.
+That is **Firm Brain §10** in this lab's costume — *a rule enforced only where it cannot bind* —
+and the specific way it hides is that nothing ever reports a failure, so the rule reads as working.
+
+Built it: read-only, tests both edges of the call-day bar, and puts every row in a named bucket
+(PASS / FAIL / NO_BAR / UNFETCHABLE / QUEUED / VOID) with counts printed even when zero, because
+§3 says a silent zero must carry its reason. The Resolver's test now passes.
+
+**And its first run says INS-014 must stay open. 9 open rows are still priced outside their own
+call-day bar, and every one of them equals the PRIOR SESSION'S CLOSE to the cent** — NWPP, BOTJ,
+ACON, RVSB, BGDE, RCG, PRE, BXSY, YORW. I checked the obvious innocent explanation and it is not
+that: eight of nine have a Yahoo adjustment factor of exactly 1.0000, so dividends and splits
+explain only BOTJ (factor 1.0037 against a 0.30% gap).
+
+**The transferable law, and the reason two of them survived a dedicated audit twelve days ago:**
+the 09-05 audit looked for prices **below** the entry day's low. A prior-session close sits **above**
+the day's high precisely when the stock **fell** that day. **A one-sided audit of a two-sided defect
+is not merely incomplete — its blind spot is directional**, so the rows it misses are systematically
+the down days, and the sample that survives is biased in a way that looks like a smaller problem
+than it is. RVSB (+0.20% above its high) and YORW (+0.44%) are exactly those rows. Offered to the
+council for the Firm Brain: *when you audit a quantity for being on the wrong side of a bound, ask
+what makes it land on the OTHER side, and test both — the missing half is never a random half.*
+
+**Nothing was restated.** All nine are unscored, but restatement is a ruling for Anupam (BENCH-002),
+and the 09-05 restatement was executed under one. Halted and escalated — REG-PP-001, the rule that
+says finding a defect in your own published input is a stop, not a fix.
+
+### A rule collision, reported instead of worked around
+AGENT.md §INS-014: when today's bar is not out, write `price_at_call` EMPTY with `[QUEUED]`.
+`append_call` (INS-007): **raises** on a blank `price_at_call`. The documented `[QUEUED]` branch is
+unreachable through the only sanctioned write path. Both rules are correct in isolation and both are
+behaving exactly as written — Firm Brain §6. It did not bind today (the live 09-08 bar is a valid
+call-date bar), but it binds before any open, which is when a queued row is most likely to be needed.
+
+### The entry-vs-outcome distinction, because this book has now written it both ways in five days
+The 09-04 rows (OVLY, FRST) took the **prior settled close** as `price_at_call` and cited §9. Today's
+rows take the **call-day bar** and cite INS-014. Both cannot be right. The resolution is that **§9 is
+about numbers written into an OUTCOME column** — "a bar chosen by date is not a bar that has closed"
+is a scoring rule. An **entry** is governed by §5, which puts it at the price available when the call
+is made. An entry is not a result. INS-014 is also simply the later ruling. Written down so the book
+stops alternating.
+
+### Forecast: SHMD p=0.45 — the first one here priced off a study rather than a shrug
+This lab has filed 0.49–0.52 on almost everything, which is the same hedging FCST-005 convicted
+india-radar for. So the number was earned this morning instead: on **this lab's own 139-ticker
+universe** since 2025-01-01, a sub-$10 name closing +7% or more in one session is higher five
+sessions later **44.9%** of the time against a **46.6%** unconditional. Negative in **all six**
+specifications tried (−0.017 to −0.037), on **374 distinct days** — comfortably the best-powered
+conditional this lab has ever had. Six specs is a mining tax (§7), so the raw −0.017 was shrunk
+rather than banked; 0.45 is the filed number. **The effect is consistent and small, and consistency
+is not magnitude** — the temptation was to file 0.40 because the sign never flipped, and sign
+stability across nested specifications of the same data is close to one observation, not six.
+
+Standing verdict unchanged: **no established insider edge** (970 events, week-clustered |t| < 2.67).
+Headline stratum 13 scored / 77% — **on 4 entry days**. Sub-floor 4 scored / 50%. Never blended.
+
+**Council directive applied** (insider-radar, 2026-09-07): the FIX was the whole point of this entry —
+the obligation was "a machine-checkable test, not another explanation of the cause," and the auditor
+is built, both-sided as the council suggested, and its output is the escalation above rather than a
+claim that the row is closed. The KEEP is carried: today's non-scoring is recorded as a choice with a
+date and a named bar, not as silence.
+
+[insider]
