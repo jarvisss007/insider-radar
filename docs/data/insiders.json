@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-08 16:26 UTC",
+ "updated_utc": "2026-09-08 16:42 UTC",
  "purchases": [
-  {
-   "ticker": "DFH",
-   "company": "Dream Finders Homes, Inc.",
-   "insider": "Sturm Len",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 1000.0,
-   "price": 14.72,
-   "value": 14720.0,
-   "acc": "0000897069-26-001721",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "SPMC",
    "company": "Sound Point Meridian Capital, Inc.",
@@ -4752,6 +4740,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "CZNC",
+   "company": "CITIZENS & NORTHERN CORP",
+   "insider": "Pellegrino Frank G",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 178.0,
+   "price": 26.1662,
+   "value": 4657.58,
+   "acc": "0001667211-26-000026",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "NTST",
    "company": "NETSTREIT Corp.",
    "insider": "Donlan Daniel P",
@@ -4964,6 +4964,11 @@
    "total_value": 6345.45
   },
   {
+   "ticker": "CZNC",
+   "insiders": 2,
+   "total_value": 4866.91
+  },
+  {
    "ticker": "BMRA",
    "insiders": 3,
    "total_value": 0,
@@ -4977,10 +4982,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025838",
-  "0001918704-26-025839",
-  "0001918704-26-025840",
-  "0001918704-26-025841",
   "0001918704-26-025842",
   "0001918704-26-025843",
   "0001918704-26-025844",
@@ -5609,6 +5610,10 @@
   "0001918704-26-026756",
   "0001918704-26-026757",
   "0001918704-26-026758",
+  "0001918704-26-026759",
+  "0001918704-26-026760",
+  "0001918704-26-026761",
+  "0001918704-26-026762",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
