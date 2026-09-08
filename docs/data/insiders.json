@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-08 13:33 UTC",
+ "updated_utc": "2026-09-08 13:48 UTC",
  "purchases": [
-  {
-   "ticker": "MSIF",
-   "company": "MSC INCOME FUND, INC.",
-   "insider": "Marks Nataly Michelle",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 950.0,
-   "price": 12.7,
-   "value": 12065.0,
-   "acc": "0002108262-26-000006",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "MAIA",
    "company": "MAIA Biotechnology, Inc.",
@@ -4716,6 +4704,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-03",
+   "shares": 3721.0,
+   "price": 11.56,
+   "value": 43014.76,
+   "acc": "0001510281-26-000288",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
    "insider": "Hochman David P",
@@ -4982,7 +4982,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025801",
   "0001918704-26-025802",
   "0001918704-26-025803",
   "0001918704-26-025804",
@@ -5616,6 +5615,7 @@
   "0001918704-26-026721",
   "0001918704-26-026722",
   "0001918704-26-026723",
+  "0001918704-26-026724",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
