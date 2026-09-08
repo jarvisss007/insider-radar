@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-08 11:43 UTC",
+ "updated_utc": "2026-09-08 12:30 UTC",
  "purchases": [
-  {
-   "ticker": "XELB",
-   "company": "XCel Brands, Inc.",
-   "insider": "D LOREN ROBERT W",
-   "role": "CEO and Chairman",
-   "date": "2026-08-26",
-   "shares": 10000.0,
-   "price": 0.955,
-   "value": 9550.0,
-   "acc": "0001104659-26-102492",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "BMRA",
    "company": "BIOMERICA INC",
@@ -4741,6 +4729,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "OBIO",
+   "company": "Orchestra BioMed Holdings, Inc.",
+   "insider": "Hochman David P",
+   "role": "See Remarks",
+   "date": "2026-09-03",
+   "shares": 10000.0,
+   "price": 4.79,
+   "value": 47900.0,
+   "acc": "0001104659-26-105690",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "AVBC",
    "company": "Avidia Bancorp, Inc.",
    "insider": "Nelson Jonathan Michael",
@@ -4925,6 +4925,11 @@
    "total_value": 82600.0
   },
   {
+   "ticker": "OBIO",
+   "insiders": 2,
+   "total_value": 58560.0
+  },
+  {
    "ticker": "BIVI",
    "insiders": 4,
    "total_value": 49118.0
@@ -4983,7 +4988,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025781",
   "0001918704-26-025782",
   "0001918704-26-025783",
   "0001918704-26-025784",
@@ -6761,6 +6765,7 @@
   "0001999371-26-019862",
   "0001999371-26-019881",
   "0001999371-26-020002",
+  "0001999371-26-020014",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
