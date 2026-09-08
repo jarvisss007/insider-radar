@@ -1,19 +1,6 @@
 {
- "updated_utc": "2026-09-08 19:34 UTC",
+ "updated_utc": "2026-09-08 19:50 UTC",
  "purchases": [
-  {
-   "ticker": "BMRA",
-   "company": "BIOMERICA INC",
-   "insider": "BARBIERI ALLEN",
-   "role": "Executive Vice Chairman",
-   "date": "2026-08-26",
-   "shares": 20000.0,
-   "price": 1.6,
-   "value": 32000.0,
-   "acc": "0001493152-26-040444",
-   "filed": "2026-08-27",
-   "placement": true
-  },
   {
    "ticker": "NYC",
    "company": "American Strategic Investment Co.",
@@ -4775,6 +4762,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "KMT",
+   "company": "KENNAMETAL INC",
+   "insider": "HARSHMAN RICHARD J",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 5000.0,
+   "price": 30.21,
+   "value": 151050.0,
+   "acc": "0001200244-26-000006",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "ENOV",
    "company": "Enovis CORP",
    "insider": "McDonald Damien",
@@ -4963,12 +4962,6 @@
    "total_value": 4866.91
   },
   {
-   "ticker": "BMRA",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 82000.0
-  },
-  {
    "ticker": "QNRX",
    "insiders": 4,
    "total_value": 0,
@@ -4976,7 +4969,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025875",
   "0001918704-26-025876",
   "0001918704-26-025877",
   "0001918704-26-025878",
@@ -5598,6 +5590,7 @@
   "0001918704-26-026785",
   "0001918704-26-026786",
   "0001918704-26-026787",
+  "0001918704-26-026788",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
