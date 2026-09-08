@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-08 16:42 UTC",
+ "updated_utc": "2026-09-08 16:57 UTC",
  "purchases": [
-  {
-   "ticker": "SPMC",
-   "company": "Sound Point Meridian Capital, Inc.",
-   "insider": "Forstenhausler Matthew E.",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 1600.0,
-   "price": 9.205,
-   "value": 14728.0,
-   "acc": "0001829126-26-009498",
-   "filed": "2026-08-28"
-  },
   {
    "ticker": "BMRA",
    "company": "BIOMERICA INC",
@@ -4725,6 +4713,18 @@
    "price": 26.1662,
    "value": 209.33,
    "acc": "0001870473-26-000028",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-04",
+   "shares": 1.0,
+   "price": 360.03,
+   "value": 360.03,
+   "acc": "0001437749-26-029777",
    "filed": "2026-09-08"
   },
   {
