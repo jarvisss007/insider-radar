@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-08 16:10 UTC",
+ "updated_utc": "2026-09-08 16:26 UTC",
  "purchases": [
-  {
-   "ticker": "BLNE",
-   "company": "Beeline Holdings, Inc.",
-   "insider": "Liuzza Nicholas Reyland JR",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-26",
-   "shares": 15000.0,
-   "price": 0.981,
-   "value": 14715.0,
-   "acc": "0001493152-26-040843",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "DFH",
    "company": "Dream Finders Homes, Inc.",
@@ -4740,6 +4728,18 @@
    "filed": "2026-09-04"
   },
   {
+   "ticker": "CZNC",
+   "company": "CITIZENS & NORTHERN CORP",
+   "insider": "Shattuck Katherine W",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 8.0,
+   "price": 26.1662,
+   "value": 209.33,
+   "acc": "0001870473-26-000028",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4977,7 +4977,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025837",
   "0001918704-26-025838",
   "0001918704-26-025839",
   "0001918704-26-025840",
@@ -5609,6 +5608,7 @@
   "0001918704-26-026755",
   "0001918704-26-026756",
   "0001918704-26-026757",
+  "0001918704-26-026758",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
