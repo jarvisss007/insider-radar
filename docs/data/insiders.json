@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-08 11:12 UTC",
+ "updated_utc": "2026-09-08 11:43 UTC",
  "purchases": [
-  {
-   "ticker": "BRID",
-   "company": "BRIDGFORD FOODS CORP",
-   "insider": "Bridgford Allan Jr.",
-   "role": "",
-   "date": "2026-08-26",
-   "shares": 1000.0,
-   "price": 6.2,
-   "value": 6200.0,
-   "acc": "0001493152-26-040906",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 20000.0,
-   "price": 0.3595,
-   "value": 7190.0,
-   "acc": "0001683168-26-006735",
-   "filed": "2026-08-26"
-  },
   {
    "ticker": "XELB",
    "company": "XCel Brands, Inc.",
@@ -3324,6 +3300,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "SHMD",
+   "company": "SCHMID Group N.V.",
+   "insider": "Speth Ralf",
+   "role": "Director",
+   "date": "2026-08-31",
+   "shares": 35000.0,
+   "price": 3.248,
+   "value": 113680.0,
+   "acc": "0001881975-26-000004",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "ABR",
    "company": "ARBOR REALTY TRUST INC",
    "insider": "Green William C",
@@ -4513,6 +4501,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "SHMD",
+   "company": "SCHMID Group N.V.",
+   "insider": "Speth Ralf",
+   "role": "Director",
+   "date": "2026-09-02",
+   "shares": 33000.0,
+   "price": 3.05,
+   "value": 100650.0,
+   "acc": "0001881975-26-000004",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "AON",
    "company": "Aon plc",
    "insider": "KNIGHT LESTER B",
@@ -4845,6 +4845,11 @@
    "total_value": 693900.88
   },
   {
+   "ticker": "SHMD",
+   "insiders": 2,
+   "total_value": 432528.7
+  },
+  {
    "ticker": "ENOV",
    "insiders": 2,
    "total_value": 399591.21
@@ -4920,14 +4925,14 @@
    "total_value": 82600.0
   },
   {
-   "ticker": "APCX",
-   "insiders": 2,
-   "total_value": 53438.0
-  },
-  {
    "ticker": "BIVI",
    "insiders": 4,
    "total_value": 49118.0
+  },
+  {
+   "ticker": "APCX",
+   "insiders": 2,
+   "total_value": 46248.0
   },
   {
    "ticker": "OVLY",
@@ -4950,14 +4955,14 @@
    "total_value": 21543.0
   },
   {
-   "ticker": "BRID",
-   "insiders": 2,
-   "total_value": 15246.91
-  },
-  {
    "ticker": "RCG",
    "insiders": 2,
    "total_value": 14093.44
+  },
+  {
+   "ticker": "BRID",
+   "insiders": 2,
+   "total_value": 9046.91
   },
   {
    "ticker": "CWBC",
@@ -4978,12 +4983,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025757",
-  "0001918704-26-025758",
-  "0001918704-26-025760",
-  "0001918704-26-025778",
-  "0001918704-26-025779",
-  "0001918704-26-025780",
   "0001918704-26-025781",
   "0001918704-26-025782",
   "0001918704-26-025783",
@@ -5977,6 +5976,11 @@
   "0001976408-26-000788",
   "0001976408-26-000790",
   "0001976408-26-000791",
+  "0001976408-26-000802",
+  "0001976408-26-000803",
+  "0001976408-26-000804",
+  "0001976408-26-000805",
+  "0001976408-26-000806",
   "0001976540-26-000008",
   "0001976672-26-000057",
   "0001976672-26-000059",
@@ -6756,6 +6760,7 @@
   "0001999371-26-019858",
   "0001999371-26-019862",
   "0001999371-26-019881",
+  "0001999371-26-020002",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
