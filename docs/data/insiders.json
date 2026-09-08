@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-08 17:13 UTC",
+ "updated_utc": "2026-09-08 17:29 UTC",
  "purchases": [
-  {
-   "ticker": "AMRC",
-   "company": "Ameresco, Inc.",
-   "insider": "Sakellaris George P",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-26",
-   "shares": 1000.0,
-   "price": 21.92,
-   "value": 21920.0,
-   "acc": "0001628280-26-059314",
-   "filed": "2026-08-27"
-  },
-  {
-   "ticker": "UNB",
-   "company": "UNION BANKSHARES INC",
-   "insider": "Silverman David Scott",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 1000.0,
-   "price": 23.76,
-   "value": 23760.0,
-   "acc": "0000706863-26-000077",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "HWBK",
-   "company": "HAWTHORN BANCSHARES, INC.",
-   "insider": "Hettinger Shawna M.",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 645.161,
-   "price": 38.75,
-   "value": 24999.99,
-   "acc": "0001949215-26-000004",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-26",
-   "shares": 3500.0,
-   "price": 7.1893,
-   "value": 25162.55,
-   "acc": "0000905148-26-003965",
-   "filed": "2026-08-27"
-  },
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Gordon Scott",
-   "role": "Co-Chief Investment Officer",
-   "date": "2026-08-26",
-   "shares": 2483.0,
-   "price": 10.15,
-   "value": 25202.45,
-   "acc": "0001193125-26-371518",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
@@ -4006,6 +3946,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "DXYZ",
+   "company": "Destiny Tech100 Inc.",
+   "insider": "Prasad Sohail",
+   "role": "President and CEO",
+   "date": "2026-09-01",
+   "shares": 33000.0,
+   "price": 31.4,
+   "value": 1036200.0,
+   "acc": "0000945621-26-001118",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
    "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
@@ -4427,6 +4379,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "DXYZ",
+   "company": "Destiny Tech100 Inc.",
+   "insider": "Prasad Sohail",
+   "role": "President and CEO",
+   "date": "2026-09-02",
+   "shares": 13240.0,
+   "price": 31.53,
+   "value": 417457.2,
+   "acc": "0000945621-26-001118",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "AMRZ",
    "company": "Amrize Ltd",
    "insider": "Jenisch Jan Philipp",
@@ -4595,6 +4559,18 @@
    "filed": "2026-09-04"
   },
   {
+   "ticker": "TNON",
+   "company": "Tenon Medical, Inc.",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-09-03",
+   "shares": 1658.0,
+   "price": 3.98,
+   "value": 6598.84,
+   "acc": "0001475597-26-000234",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -4640,6 +4616,18 @@
    "price": 4.79,
    "value": 47900.0,
    "acc": "0001104659-26-105690",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "MOALX",
+   "company": "Lord Abbett Municipal Opportunities Fund",
+   "insider": "SOLENDER DANIEL S",
+   "role": "",
+   "date": "2026-09-03",
+   "shares": 4892.368,
+   "price": 10.22,
+   "value": 50000.0,
+   "acc": "0000930413-26-002847",
    "filed": "2026-09-08"
   },
   {
@@ -4689,6 +4677,18 @@
    "value": 187434.49,
    "acc": "0000935596-26-000023",
    "filed": "2026-09-04"
+  },
+  {
+   "ticker": "DXYZ",
+   "company": "Destiny Tech100 Inc.",
+   "insider": "Prasad Sohail",
+   "role": "President and CEO",
+   "date": "2026-09-03",
+   "shares": 9760.0,
+   "price": 32.14,
+   "value": 313686.4,
+   "acc": "0000945621-26-001118",
+   "filed": "2026-09-08"
   },
   {
    "ticker": "CZNC",
@@ -4908,11 +4908,6 @@
    "total_value": 106535.49
   },
   {
-   "ticker": "LIEN",
-   "insiders": 2,
-   "total_value": 93847.98
-  },
-  {
    "ticker": "VRXA",
    "insiders": 2,
    "total_value": 82650.0
@@ -4921,6 +4916,11 @@
    "ticker": "SLNH",
    "insiders": 2,
    "total_value": 82600.0
+  },
+  {
+   "ticker": "LIEN",
+   "insiders": 2,
+   "total_value": 68645.53
   },
   {
    "ticker": "BIVI",
@@ -4981,10 +4981,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025849",
-  "0001918704-26-025850",
-  "0001918704-26-025851",
-  "0001918704-26-025852",
   "0001918704-26-025853",
   "0001918704-26-025854",
   "0001918704-26-025855",
@@ -5610,6 +5606,8 @@
   "0001918704-26-026762",
   "0001918704-26-026763",
   "0001918704-26-026764",
+  "0001918704-26-026765",
+  "0001918704-26-026766",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6757,6 +6755,8 @@
   "0001999371-26-020033",
   "0001999371-26-020068",
   "0001999371-26-020073",
+  "0001999371-26-020082",
+  "0001999371-26-020085",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
