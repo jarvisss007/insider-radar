@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-08 08:35 UTC",
+ "updated_utc": "2026-09-08 11:12 UTC",
  "purchases": [
-  {
-   "ticker": "OVLY",
-   "company": "Oak Valley Bancorp",
-   "insider": "LAFFERTY ALLISON",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 174.0,
-   "price": 33.98,
-   "value": 5912.52,
-   "acc": "0001437749-26-029649",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Colonna Bernardino",
-   "role": "President",
-   "date": "2026-08-26",
-   "shares": 600.0,
-   "price": 10.156,
-   "value": 6093.6,
-   "acc": "0001193125-26-371636",
-   "filed": "2026-08-27"
-  },
   {
    "ticker": "BRID",
    "company": "BRIDGFORD FOODS CORP",
@@ -4811,6 +4787,30 @@
    "value": 249620.25,
    "acc": "0001193125-26-384027",
    "filed": "2026-09-05"
+  },
+  {
+   "ticker": "UBER",
+   "company": "Uber Technologies, Inc",
+   "insider": "Macdonald Andrew",
+   "role": "See Remarks",
+   "date": "2026-09-04",
+   "shares": 15675.0,
+   "price": 76.4425,
+   "value": 1198236.19,
+   "acc": "0002071761-26-000011",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "UBER",
+   "company": "Uber Technologies, Inc",
+   "insider": "Macdonald Andrew",
+   "role": "See Remarks",
+   "date": "2026-09-04",
+   "shares": 54325.0,
+   "price": 75.6526,
+   "value": 4109827.5,
+   "acc": "0002071761-26-000011",
+   "filed": "2026-09-08"
   }
  ],
  "clusters": [
@@ -4907,7 +4907,7 @@
   {
    "ticker": "LIEN",
    "insiders": 2,
-   "total_value": 99941.58
+   "total_value": 93847.98
   },
   {
    "ticker": "VRXA",
@@ -4932,7 +4932,7 @@
   {
    "ticker": "OVLY",
    "insiders": 2,
-   "total_value": 41049.37
+   "total_value": 35136.85
   },
   {
    "ticker": "HKHC",
@@ -4978,8 +4978,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025755",
-  "0001918704-26-025756",
   "0001918704-26-025757",
   "0001918704-26-025758",
   "0001918704-26-025760",
@@ -5624,6 +5622,7 @@
   "0001918704-26-026656",
   "0001918704-26-026657",
   "0001918704-26-026660",
+  "0001918704-26-026716",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7356,6 +7355,7 @@
   "0002070858-26-000012",
   "0002071761-26-000009",
   "0002071761-26-000010",
+  "0002071761-26-000011",
   "0002071844-26-000880",
   "0002071844-26-000883",
   "0002071844-26-000901",
