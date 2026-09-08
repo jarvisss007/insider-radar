@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-09-08 20:22 UTC",
+ "updated_utc": "2026-09-08 20:38 UTC",
  "purchases": [
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 233624.0,
-   "price": 9.59,
-   "value": 2240454.16,
-   "acc": "0001140361-26-034878",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 12334.0,
-   "price": 220.8399,
-   "value": 2723839.33,
-   "acc": "0001104659-26-103265",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "IMTX",
-   "company": "Immatics N.V.",
-   "insider": "PERCEPTIVE ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-08-26",
-   "shares": 863060.0,
-   "price": 8.69,
-   "value": 7499991.4,
-   "acc": "0001193125-26-371237",
-   "filed": "2026-08-27"
-  },
-  {
-   "ticker": "KLAR",
-   "company": "Klarna Group plc",
-   "insider": "Siemiatkowski Sebastian",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-26",
-   "shares": 692506.0,
-   "price": 14.3669,
-   "value": 9949164.45,
-   "acc": "0002097107-26-000004",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 52068.0,
-   "price": 222.1843,
-   "value": 11568692.13,
-   "acc": "0001104659-26-103265",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-08-26",
-   "shares": 211098.0,
-   "price": 221.4312,
-   "value": 46743683.46,
-   "acc": "0001104659-26-103265",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "TAGLICH ROBERT",
-   "role": "10% owner",
-   "date": "2026-08-27",
-   "shares": 1.0,
-   "price": 5.0,
-   "value": 5.0,
-   "acc": "0001493152-26-041129",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "ZNB",
    "company": "Zeta Network Group",
@@ -4413,6 +4329,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "EIKN",
+   "company": "Eikon Therapeutics, Inc.",
+   "insider": "Column Group IV GP, LP",
+   "role": "10% owner",
+   "date": "2026-09-03",
+   "shares": 89200.0,
+   "price": 11.5588,
+   "value": 1031044.96,
+   "acc": "0001193125-26-385268",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
    "insider": "CASCADE INVESTMENT, L.L.C.",
@@ -4422,6 +4350,18 @@
    "price": 223.5824,
    "value": 3513821.0,
    "acc": "0001104659-26-105908",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-09-03",
+   "shares": 100000.0,
+   "price": 39.3035,
+   "value": 3930350.0,
+   "acc": "0001193125-26-385264",
    "filed": "2026-09-08"
   },
   {
@@ -4458,6 +4398,18 @@
    "price": 224.8997,
    "value": 56956523.72,
    "acc": "0001104659-26-105908",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-04",
+   "shares": 1.0,
+   "price": 2.9,
+   "value": 2.9,
+   "acc": "0001536588-26-000030",
    "filed": "2026-09-08"
   },
   {
@@ -4530,6 +4482,42 @@
    "price": 26.1662,
    "value": 4657.58,
    "acc": "0001667211-26-000026",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-04",
+   "shares": 2915.0,
+   "price": 2.92,
+   "value": 8511.8,
+   "acc": "0001536588-26-000030",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-04",
+   "shares": 4999.0,
+   "price": 2.92,
+   "value": 14597.08,
+   "acc": "0001536588-26-000030",
+   "filed": "2026-09-08"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "CRAGUN KENNETH S",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-04",
+   "shares": 100000.0,
+   "price": 0.1865,
+   "value": 18650.0,
+   "acc": "0001214659-26-011479",
    "filed": "2026-09-08"
   },
   {
@@ -4713,6 +4701,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-08",
+   "shares": 500.0,
+   "price": 2.9,
+   "value": 1450.0,
+   "acc": "0001536588-26-000030",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4842,8 +4842,8 @@
   },
   {
    "ticker": "GPUS",
-   "insiders": 2,
-   "total_value": 544272.06
+   "insiders": 3,
+   "total_value": 562922.06
   },
   {
    "ticker": "SHMD",
@@ -4948,9 +4948,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025892",
-  "0001918704-26-025893",
-  "0001918704-26-025894",
   "0001918704-26-025895",
   "0001918704-26-025896",
   "0001918704-26-025897",
@@ -5791,6 +5788,7 @@
   "0001965040-26-000116",
   "0001965040-26-000134",
   "0001965214-26-000006",
+  "0001965544-26-000008",
   "0001965585-26-000006",
   "0001965586-26-000017",
   "0001965920-26-000007",
@@ -6710,6 +6708,7 @@
   "0001999371-26-020082",
   "0001999371-26-020085",
   "0001999371-26-020116",
+  "0001999371-26-020129",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6721,6 +6720,7 @@
   "0002000358-26-000016",
   "0002000358-26-000018",
   "0002000358-26-000020",
+  "0002000379-26-000003",
   "0002000429-26-000003",
   "0002000487-26-000003",
   "0002000660-26-000004",
