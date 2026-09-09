@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-09-09 14:32 UTC",
+ "updated_utc": "2026-09-09 14:48 UTC",
  "purchases": [
-  {
-   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
-   "company": "Andalusian Credit Company, LLC",
-   "insider": "Kless Aaron",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-28",
-   "shares": 455.83,
-   "price": 15.32,
-   "value": 6983.32,
-   "acc": "0001104659-26-104355",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 20000.0,
-   "price": 0.3598,
-   "value": 7196.0,
-   "acc": "0001683168-26-006834",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "FRGT",
-   "company": "Freight Technologies, Inc.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-28",
-   "shares": 5625.0,
-   "price": 1.47,
-   "value": 8268.75,
-   "acc": "0001475597-26-000224",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "YQ",
-   "company": "17 Education & Technology Group Inc.",
-   "insider": "Liu Chang",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-28",
-   "shares": 4001.0,
-   "price": 2.1074,
-   "value": 8431.71,
-   "acc": "0001193125-26-377431",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "AURX",
-   "company": "Nuo Therapeutics, Inc.",
-   "insider": "JORDEN DAVID EMERSON",
-   "role": "CEO/CFO",
-   "date": "2026-08-28",
-   "shares": 7984.0,
-   "price": 1.089,
-   "value": 8694.58,
-   "acc": "0001437749-26-029257",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "ADC",
-   "company": "AGREE REALTY CORP",
-   "insider": "RAKOLTA JOHN JR",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 136.0,
-   "price": 73.52,
-   "value": 9998.72,
-   "acc": "0001528153-26-000011",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "BIVI",
-   "company": "BIOVIE INC.",
-   "insider": "Palumbo Joseph M",
-   "role": "Chief Medical Officer",
-   "date": "2026-08-28",
-   "shares": 4843.0,
-   "price": 2.16,
-   "value": 10460.88,
-   "acc": "0001520138-26-000383",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-28",
-   "shares": 2831.0,
-   "price": 3.913,
-   "value": 11077.7,
-   "acc": "0001325533-26-000006",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "OBDC",
    "company": "Blue Owl Capital Corp",
@@ -4484,6 +4388,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-08",
+   "shares": 1.0,
+   "price": 375.1,
+   "value": 375.1,
+   "acc": "0001437749-26-029936",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
    "insider": "Hall Bjorn",
@@ -4570,6 +4486,30 @@
   {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 266.0,
+   "price": 67.11,
+   "value": 17851.26,
+   "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 283.0,
+   "price": 66.98,
+   "value": 18955.34,
+   "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
    "insider": "Porto Carl M",
    "role": "Director",
    "date": "2026-09-08",
@@ -4604,6 +4544,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 432.0,
+   "price": 66.95,
+   "value": 28922.4,
+   "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "NRIM",
    "company": "NORTHRIM BANCORP INC",
    "insider": "Thomas Linda C",
@@ -4614,6 +4566,30 @@
    "value": 31440.0,
    "acc": "0001492292-26-000004",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 510.0,
+   "price": 66.95,
+   "value": 34144.5,
+   "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 515.0,
+   "price": 66.94,
+   "value": 34474.1,
+   "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "BWFG",
@@ -4652,6 +4628,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 1304.0,
+   "price": 66.92,
+   "value": 87263.68,
+   "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "PDYN",
    "company": "Palladyne AI Corp.",
    "insider": "Wolff Benjamin G",
@@ -4674,6 +4662,18 @@
    "value": 117836.29,
    "acc": "0001366074-26-000002",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "BWFG",
+   "company": "Bankwell Financial Group, Inc.",
+   "insider": "SEIDMAN LAWRENCE B",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 1956.0,
+   "price": 66.92,
+   "value": 130895.52,
+   "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "INBX",
@@ -4850,14 +4850,19 @@
    "total_value": 449599.21
   },
   {
+   "ticker": "BWFG",
+   "insiders": 5,
+   "total_value": 435320.54
+  },
+  {
    "ticker": "SHMD",
    "insiders": 2,
    "total_value": 432528.7
   },
   {
    "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
-   "insiders": 3,
-   "total_value": 328467.24
+   "insiders": 2,
+   "total_value": 321483.92
   },
   {
    "ticker": "UAMY",
@@ -4888,11 +4893,6 @@
    "ticker": "PRTS",
    "insiders": 2,
    "total_value": 108116.0
-  },
-  {
-   "ticker": "BWFG",
-   "insiders": 4,
-   "total_value": 82813.74
   },
   {
    "ticker": "GRNT",
@@ -4932,12 +4932,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026013",
-  "0001918704-26-026014",
-  "0001918704-26-026015",
-  "0001918704-26-026022",
-  "0001918704-26-026023",
-  "0001918704-26-026024",
   "0001918704-26-026025",
   "0001918704-26-026026",
   "0001918704-26-026027",
@@ -5493,6 +5487,11 @@
   "0001918704-26-026866",
   "0001918704-26-026867",
   "0001918704-26-026868",
+  "0001918704-26-026869",
+  "0001918704-26-026870",
+  "0001918704-26-026871",
+  "0001918704-26-026872",
+  "0001918704-26-026873",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -5862,6 +5861,7 @@
   "0001976408-26-000804",
   "0001976408-26-000805",
   "0001976408-26-000806",
+  "0001976408-26-000813",
   "0001976540-26-000008",
   "0001976672-26-000057",
   "0001976672-26-000059",
