@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-09 00:49 UTC",
+ "updated_utc": "2026-09-09 01:05 UTC",
  "purchases": [
-  {
-   "ticker": "VRXA",
-   "company": "Veraxa Biotech AG - Post de-SPAC",
-   "insider": "Baumann Oliver Rolf",
-   "role": "Director",
-   "date": "2026-08-27",
-   "shares": 50000.0,
-   "price": 1.5,
-   "value": 75000.0,
-   "acc": "0001829126-26-009544",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "CURI",
    "company": "CuriosityStream Inc.",
@@ -4233,6 +4221,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Engert Oliver",
+   "role": "Chief Administrative Officer",
+   "date": "2026-09-04",
+   "shares": 2660.0,
+   "price": 18.8,
+   "value": 50008.0,
+   "acc": "0001193125-26-385615",
+   "filed": "2026-09-08"
+  },
+  {
    "ticker": "CRT",
    "company": "CROSS TIMBERS ROYALTY TRUST",
    "insider": "OLIVER ERIC L",
@@ -4846,14 +4846,14 @@
    "total_value": 559564.06
   },
   {
+   "ticker": "ENOV",
+   "insiders": 2,
+   "total_value": 449599.21
+  },
+  {
    "ticker": "SHMD",
    "insiders": 2,
    "total_value": 432528.7
-  },
-  {
-   "ticker": "ENOV",
-   "insiders": 2,
-   "total_value": 399591.21
   },
   {
    "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
