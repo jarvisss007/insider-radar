@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-09-09 10:08 UTC",
+ "updated_utc": "2026-09-09 10:24 UTC",
  "purchases": [
-  {
-   "ticker": "MDRR",
-   "company": "Medalist Diversified, Inc.",
-   "insider": "Winn Charles Brent Jr.",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-08-28",
-   "shares": 3.0,
-   "price": 12.0,
-   "value": 36.0,
-   "acc": "0001808471-26-000015",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-28",
-   "shares": 1.0,
-   "price": 364.42,
-   "value": 364.42,
-   "acc": "0001437749-26-029258",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "NRDE",
-   "company": "Stark Novus Financial Inc.",
-   "insider": "ZYNGIER ALEXANDRE",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 232.0,
-   "price": 1.72,
-   "value": 399.04,
-   "acc": "0001493152-26-040671",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "BSBR",
-   "company": "Banco Santander (Brasil) S.A.",
-   "insider": "da Silva Marcos Jose Maia",
-   "role": "Officer w/o Specific Desig",
-   "date": "2026-08-28",
-   "shares": 79.0,
-   "price": 5.76,
-   "value": 455.04,
-   "acc": "0001292814-26-004410",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-08-28",
-   "shares": 135.0,
-   "price": 6.64,
-   "value": 896.4,
-   "acc": "0000912282-26-001201",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "BIVI",
-   "company": "BIOVIE INC.",
-   "insider": "Chappell Amy Suzon",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 727.0,
-   "price": 2.16,
-   "value": 1570.32,
-   "acc": "0001520138-26-000382",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "ZNB",
-   "company": "Zeta Network Group",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-28",
-   "shares": 1303.0,
-   "price": 1.67,
-   "value": 2176.01,
-   "acc": "0001475597-26-000222",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "EMYB",
-   "company": "Embassy Bancorp, Inc.",
-   "insider": "Lobach David M Jr",
-   "role": "Chairman, President and CEO",
-   "date": "2026-08-28",
-   "shares": 100.0,
-   "price": 22.3,
-   "value": 2230.0,
-   "acc": "0001464631-26-000008",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -4354,6 +4258,30 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wu Yi-Huang",
+   "role": "VP",
+   "date": "2026-09-07",
+   "shares": 40.0,
+   "price": 76.2,
+   "value": 3048.0,
+   "acc": "0001046179-26-000656",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yuan Lipen",
+   "role": "VP",
+   "date": "2026-09-07",
+   "shares": 41.0,
+   "price": 76.2,
+   "value": 3124.2,
+   "acc": "0001046179-26-000652",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Tien Bor-Zen",
    "role": "VP",
    "date": "2026-09-07",
@@ -4498,6 +4426,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yoo Chue-San",
+   "role": "VP",
+   "date": "2026-09-07",
+   "shares": 53.0,
+   "price": 76.2,
+   "value": 4038.6,
+   "acc": "0001046179-26-000655",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Wang Ying-Lang",
    "role": "SVP",
    "date": "2026-09-07",
@@ -4505,6 +4445,18 @@
    "price": 76.2,
    "value": 4114.8,
    "acc": "0001046179-26-000642",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yeap Choh Fei",
+   "role": "SVP",
+   "date": "2026-09-07",
+   "shares": 54.0,
+   "price": 76.2,
+   "value": 4114.8,
+   "acc": "0001046179-26-000654",
    "filed": "2026-09-09"
   },
   {
@@ -4546,6 +4498,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wu Shien-Yang",
+   "role": "SVP",
+   "date": "2026-09-07",
+   "shares": 57.0,
+   "price": 76.2,
+   "value": 4343.4,
+   "acc": "0001046179-26-000646",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Hou Yung-Chin",
    "role": "SVP and Deputy Co-COO",
    "date": "2026-09-07",
@@ -4558,6 +4522,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Zhang Kevin Xiaoqiang",
+   "role": "SVP and Deputy Co-COO",
+   "date": "2026-09-07",
+   "shares": 61.0,
+   "price": 76.2,
+   "value": 4648.2,
+   "acc": "0001046179-26-000653",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Chin Yung-Pei",
    "role": "EVP and Co-COO",
    "date": "2026-09-07",
@@ -4565,6 +4541,30 @@
    "price": 76.2,
    "value": 5410.2,
    "acc": "0001046179-26-000604",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Mii Yuh-Jier",
+   "role": "EVP and Co-COO",
+   "date": "2026-09-07",
+   "shares": 71.0,
+   "price": 76.2,
+   "value": 5410.2,
+   "acc": "0001046179-26-000648",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wei Che-Chia",
+   "role": "Chairman and CEO",
+   "date": "2026-09-07",
+   "shares": 149.0,
+   "price": 76.2,
+   "value": 11353.8,
+   "acc": "0001046179-26-000644",
    "filed": "2026-09-09"
   },
   {
@@ -4880,14 +4880,14 @@
    "total_value": 167574.72
   },
   {
+   "ticker": "TSM",
+   "insiders": 30,
+   "total_value": 121843.8
+  },
+  {
    "ticker": "PRTS",
    "insiders": 2,
    "total_value": 108116.0
-  },
-  {
-   "ticker": "TSM",
-   "insiders": 22,
-   "total_value": 81762.6
   },
   {
    "ticker": "GRNT",
@@ -4906,8 +4906,8 @@
   },
   {
    "ticker": "BIVI",
-   "insiders": 3,
-   "total_value": 17481.2
+   "insiders": 2,
+   "total_value": 15910.88
   },
   {
    "ticker": "LIEN",
