@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-09 22:56 UTC",
+ "updated_utc": "2026-09-09 23:12 UTC",
  "purchases": [
-  {
-   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
-   "company": "Andalusian Credit Company, LLC",
-   "insider": "Otting Joseph M",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 13674.88,
-   "price": 15.32,
-   "value": 209499.16,
-   "acc": "0001104659-26-104356",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 65752.0,
-   "price": 3.53,
-   "value": 232104.56,
-   "acc": "0001628280-26-059909",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "FTCI",
-   "company": "FTC Solar, Inc.",
-   "insider": "SADASIVAM SHAKER",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 101083.0,
-   "price": 2.69,
-   "value": 271913.27,
-   "acc": "0001193125-26-377575",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 1201.0,
-   "price": 228.61,
-   "value": 274560.61,
-   "acc": "0001812746-26-000011",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 1271.0,
-   "price": 226.48,
-   "value": 287856.08,
-   "acc": "0001812746-26-000011",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-28",
-   "shares": 5000.0,
-   "price": 68.81,
-   "value": 344050.0,
-   "acc": "0001493152-26-040895",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -3296,6 +3224,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "ENHA",
+   "company": "Enhanced Group Inc.",
+   "insider": "Apeiron Investment Group Ltd.",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 21034.0,
+   "price": 1.6116,
+   "value": 33898.39,
+   "acc": "0001193125-26-386771",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4460,6 +4400,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "AGPU",
+   "company": "Axe Compute Inc.",
+   "insider": "Zhu Theodore",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 3750.0,
+   "price": 11.72,
+   "value": 43950.0,
+   "acc": "0001171843-26-005964",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4470,6 +4422,18 @@
    "value": 54117.5,
    "acc": "0001366074-26-000002",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "AGPU",
+   "company": "Axe Compute Inc.",
+   "insider": "Zhu Theodore",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 5000.0,
+   "price": 10.875,
+   "value": 54375.0,
+   "acc": "0001171843-26-005964",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "AMR",
@@ -4493,6 +4457,18 @@
    "price": 66.92,
    "value": 87263.68,
    "acc": "0001026081-26-000026",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "ENHA",
+   "company": "Enhanced Group Inc.",
+   "insider": "Apeiron Investment Group Ltd.",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 59337.0,
+   "price": 1.5686,
+   "value": 93076.02,
+   "acc": "0001193125-26-386771",
    "filed": "2026-09-09"
   },
   {
@@ -4736,6 +4712,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "MDRR",
+   "company": "Medalist Diversified, Inc.",
+   "insider": "Winn Charles Brent Jr.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-09-09",
+   "shares": 49.0,
+   "price": 12.0,
+   "value": 588.0,
+   "acc": "0001808471-26-000025",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "LTRX",
    "company": "LANTRONIX INC",
    "insider": "Awsare Saleel",
@@ -4757,6 +4745,18 @@
    "price": 30.9338,
    "value": 108268.3,
    "acc": "0000075288-26-000089",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "ENHA",
+   "company": "Enhanced Group Inc.",
+   "insider": "Apeiron Investment Group Ltd.",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 99342.0,
+   "price": 1.6043,
+   "value": 159374.37,
+   "acc": "0001193125-26-386771",
    "filed": "2026-09-09"
   },
   {
