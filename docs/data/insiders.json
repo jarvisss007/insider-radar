@@ -1,126 +1,6 @@
 {
- "updated_utc": "2026-09-09 20:01 UTC",
+ "updated_utc": "2026-09-09 20:17 UTC",
  "purchases": [
-  {
-   "ticker": "SLNH",
-   "company": "Soluna Holdings, Inc",
-   "insider": "PICCHI MICHAEL",
-   "role": "Chief Financial Officer",
-   "date": "2026-08-28",
-   "shares": 20000.0,
-   "price": 1.13,
-   "value": 22600.0,
-   "acc": "0001493152-26-040836",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-28",
-   "shares": 3500.0,
-   "price": 7.1479,
-   "value": 25017.65,
-   "acc": "0000905148-26-004037",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "ALLE",
-   "company": "Allegion plc",
-   "insider": "MIZELL STEVEN",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 170.0,
-   "price": 158.28,
-   "value": 26907.6,
-   "acc": "0001189403-26-000011",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "AAON",
-   "company": "AAON, INC.",
-   "insider": "Shaub Matthew",
-   "role": "Executive Vice President",
-   "date": "2026-08-28",
-   "shares": 457.0,
-   "price": 76.42,
-   "value": 34923.94,
-   "acc": "0000824142-26-000061",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "ORBS",
-   "company": "Eightco Holdings Inc.",
-   "insider": "O'Donnell Kevin J",
-   "role": "CEO",
-   "date": "2026-08-28",
-   "shares": 50000.0,
-   "price": 0.8077,
-   "value": 40385.0,
-   "acc": "0001493152-26-040748",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-08-28",
-   "shares": 150000.0,
-   "price": 0.2967,
-   "value": 44505.0,
-   "acc": "0001214659-26-011255",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 201.0,
-   "price": 229.83,
-   "value": 46195.83,
-   "acc": "0001812746-26-000011",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 210.0,
-   "price": 234.24,
-   "value": 49190.4,
-   "acc": "0001812746-26-000011",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "PLSE",
-   "company": "PULSE BIOSCIENCES, INC.",
-   "insider": "Teplitsky Liane Rae",
-   "role": "Chief Operating Officer",
-   "date": "2026-08-28",
-   "shares": 1034.0,
-   "price": 48.35,
-   "value": 49993.9,
-   "acc": "0001437749-26-029233",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 10000.0,
-   "price": 5.1604,
-   "value": 51604.0,
-   "acc": "0001214659-26-011250",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "CURI",
    "company": "CuriosityStream Inc.",
@@ -2852,6 +2732,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-03",
+   "shares": 38200.0,
+   "price": 0.1863,
+   "value": 7116.66,
+   "acc": "0001214659-26-011521",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "APCX",
    "company": "AppTech Payments Corp.",
    "insider": "LORD ALBERT L",
@@ -3332,6 +3224,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "ZNB",
+   "company": "Zeta Network Group",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-09-04",
+   "shares": 1269.0,
+   "price": 1.65,
+   "value": 2093.85,
+   "acc": "0001475597-26-000235",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -3464,6 +3368,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "EVLV",
+   "company": "Evolv Technologies Holdings, Inc.",
+   "insider": "Shapiro Richard A",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 3600.0,
+   "price": 4.94,
+   "value": 17784.0,
+   "acc": "0001648814-26-000004",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "CRAGUN KENNETH S",
@@ -3524,6 +3440,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "EVLV",
+   "company": "Evolv Technologies Holdings, Inc.",
+   "insider": "Shapiro Richard A",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 6500.0,
+   "price": 4.95,
+   "value": 32175.0,
+   "acc": "0001648814-26-000004",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "CMTG",
    "company": "Claros Mortgage Trust, Inc.",
    "insider": "Mack Richard",
@@ -3546,6 +3474,30 @@
    "value": 37903.68,
    "acc": "0001214659-26-011476",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-04",
+   "shares": 196800.0,
+   "price": 0.1926,
+   "value": 37903.68,
+   "acc": "0001214659-26-011521",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "EVLV",
+   "company": "Evolv Technologies Holdings, Inc.",
+   "insider": "Shapiro Richard A",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 9000.0,
+   "price": 4.98,
+   "value": 44820.0,
+   "acc": "0001648814-26-000004",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "GPI",
@@ -3594,6 +3546,18 @@
    "value": 59655.7,
    "acc": "0001104659-26-105956",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "EVLV",
+   "company": "Evolv Technologies Holdings, Inc.",
+   "insider": "Shapiro Richard A",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 13500.0,
+   "price": 4.96,
+   "value": 66960.0,
+   "acc": "0001648814-26-000004",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "YDES",
@@ -3764,6 +3728,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-04",
+   "shares": 1913691.0,
+   "price": 0.1889,
+   "value": 361496.23,
+   "acc": "0001214659-26-011521",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -3870,6 +3846,18 @@
    "value": 1966908.03,
    "acc": "0000905148-26-004111",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "PSEC",
+   "company": "PROSPECT CAPITAL CORP",
+   "insider": "Barry John F",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-09-04",
+   "shares": 1217105.0,
+   "price": 2.24,
+   "value": 2726315.2,
+   "acc": "0001294357-26-000015",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "GPI",
@@ -4301,6 +4289,18 @@
    "price": 76.2,
    "value": 11353.8,
    "acc": "0001046179-26-000644",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "ZNB",
+   "company": "Zeta Network Group",
+   "insider": "HRT FINANCIAL LP",
+   "role": "10% owner",
+   "date": "2026-09-08",
+   "shares": 185.0,
+   "price": 1.62,
+   "value": 299.7,
+   "acc": "0001475597-26-000235",
    "filed": "2026-09-09"
   },
   {
@@ -4830,14 +4830,14 @@
    "total_value": 3212979.31
   },
   {
+   "ticker": "GPUS",
+   "insiders": 3,
+   "total_value": 906949.84
+  },
+  {
    "ticker": "LUCK",
    "insiders": 2,
    "total_value": 676456.88
-  },
-  {
-   "ticker": "GPUS",
-   "insiders": 3,
-   "total_value": 544938.27
   },
   {
    "ticker": "ENOV",
@@ -4927,14 +4927,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026206",
-  "0001918704-26-026207",
-  "0001918704-26-026208",
-  "0001918704-26-026209",
-  "0001918704-26-026210",
-  "0001918704-26-026211",
-  "0001918704-26-026212",
-  "0001918704-26-026213",
   "0001918704-26-026214",
   "0001918704-26-026215",
   "0001918704-26-026216",
@@ -5480,6 +5472,10 @@
   "0001918704-26-027000",
   "0001918704-26-027001",
   "0001918704-26-027002",
+  "0001918704-26-027007",
+  "0001918704-26-027008",
+  "0001918704-26-027009",
+  "0001918704-26-027010",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6657,6 +6653,7 @@
   "0001999371-26-020178",
   "0001999371-26-020181",
   "0001999371-26-020189",
+  "0001999371-26-020222",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6673,6 +6670,7 @@
   "0002000487-26-000003",
   "0002000660-26-000004",
   "0002000932-26-000010",
+  "0002000932-26-000015",
   "0002001011-26-000114",
   "0002001011-26-000115",
   "0002001011-26-000116",
@@ -6809,6 +6807,7 @@
   "0002015793-26-000014",
   "0002015968-26-000006",
   "0002016116-26-000014",
+  "0002016161-26-000012",
   "0002016181-26-000005",
   "0002016350-26-000005",
   "0002016416-26-000020",
@@ -7007,6 +7006,7 @@
   "0002039852-26-000117",
   "0002039891-26-000008",
   "0002040255-26-000006",
+  "0002040491-26-000048",
   "0002040500-26-000006",
   "0002040500-26-000008",
   "0002040815-26-000018",
