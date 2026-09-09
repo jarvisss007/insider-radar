@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-09 20:17 UTC",
+ "updated_utc": "2026-09-09 20:33 UTC",
  "purchases": [
-  {
-   "ticker": "CURI",
-   "company": "CuriosityStream Inc.",
-   "insider": "Stinchcomb Clinton Larry",
-   "role": "President and CEO",
-   "date": "2026-08-28",
-   "shares": 20000.0,
-   "price": 2.603,
-   "value": 52060.0,
-   "acc": "0001628280-26-059745",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "PRTS",
-   "company": "CarParts.com, Inc.",
-   "insider": "Huffaker Michael",
-   "role": "COO",
-   "date": "2026-08-28",
-   "shares": 7548.0,
-   "price": 7.16,
-   "value": 54043.68,
-   "acc": "0001140361-26-035126",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "PRTS",
-   "company": "CarParts.com, Inc.",
-   "insider": "Meniane David",
-   "role": "CEO",
-   "date": "2026-08-28",
-   "shares": 7552.0,
-   "price": 7.16,
-   "value": 54072.32,
-   "acc": "0001140361-26-035125",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "LUCK",
-   "company": "Lucky Strike Entertainment Corp",
-   "insider": "MATHRANI SANDEEP",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 9350.0,
-   "price": 6.4125,
-   "value": 59956.88,
-   "acc": "0001628280-26-059898",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "MAIA",
    "company": "MAIA Biotechnology, Inc.",
@@ -3308,6 +3260,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "BNGO",
+   "company": "Bionano Genomics, Inc.",
+   "insider": "Luderer Albert",
+   "role": "Interim Chief Executive",
+   "date": "2026-09-04",
+   "shares": 4000.0,
+   "price": 1.2112,
+   "value": 4844.8,
+   "acc": "0001746822-26-000005",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4508,6 +4472,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-08",
+   "shares": 3475.0,
+   "price": 7.4062,
+   "value": 25736.55,
+   "acc": "0000905148-26-004125",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "SEIDMAN LAWRENCE B",
@@ -4614,6 +4590,18 @@
    "value": 99128.88,
    "acc": "0001368618-26-000015",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "KRMD",
+   "company": "KORU Medical Systems, Inc.",
+   "insider": "KALBERMATTEN ADAM R",
+   "role": "Chief Commercial Officer",
+   "date": "2026-09-08",
+   "shares": 32000.0,
+   "price": 3.16,
+   "value": 101120.0,
+   "acc": "0001161697-26-000210",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "INBX",
@@ -4806,6 +4794,18 @@
    "value": 1087001.07,
    "acc": "0001366074-26-000002",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "LTRX",
+   "company": "LANTRONIX INC",
+   "insider": "Awsare Saleel",
+   "role": "President & CEO",
+   "date": "2026-09-09",
+   "shares": 15000.0,
+   "price": 5.179,
+   "value": 77685.0,
+   "acc": "0001683168-26-007037",
+   "filed": "2026-09-09"
   }
  ],
  "clusters": [
@@ -4833,11 +4833,6 @@
    "ticker": "GPUS",
    "insiders": 3,
    "total_value": 906949.84
-  },
-  {
-   "ticker": "LUCK",
-   "insiders": 2,
-   "total_value": 676456.88
   },
   {
    "ticker": "ENOV",
@@ -4885,11 +4880,6 @@
    "total_value": 121843.8
   },
   {
-   "ticker": "PRTS",
-   "insiders": 2,
-   "total_value": 108116.0
-  },
-  {
    "ticker": "GRNT",
    "insiders": 2,
    "total_value": 55500.0
@@ -4927,15 +4917,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026214",
-  "0001918704-26-026215",
-  "0001918704-26-026216",
-  "0001918704-26-026217",
-  "0001918704-26-026218",
-  "0001918704-26-026219",
-  "0001918704-26-026220",
-  "0001918704-26-026221",
-  "0001918704-26-026222",
   "0001918704-26-026225",
   "0001918704-26-026226",
   "0001918704-26-026227",
@@ -5476,6 +5457,14 @@
   "0001918704-26-027008",
   "0001918704-26-027009",
   "0001918704-26-027010",
+  "0001918704-26-027013",
+  "0001918704-26-027014",
+  "0001918704-26-027015",
+  "0001918704-26-027016",
+  "0001918704-26-027017",
+  "0001918704-26-027018",
+  "0001918704-26-027019",
+  "0001918704-26-027020",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7881,6 +7870,7 @@
   "0002146761-26-000002",
   "0002146784-26-000004",
   "0002146790-26-000006",
+  "0002146790-26-000010",
   "0002146822-26-000005",
   "0002146882-26-000004",
   "0002147092-26-000005",
