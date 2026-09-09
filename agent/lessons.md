@@ -1255,3 +1255,64 @@ claim that the row is closed. The KEEP is carried: today's non-scoring is record
 date and a named bar, not as silence.
 
 [insider]
+
+## 2026-09-09 [insider] — a study that points against the lab's own hypothesis is the most valuable kind
+
+**Filed INBX at 0.44 — a FADE — on the same morning this lab logged INBX as a $3.2M headline cluster,
+i.e. as a LONG.** The two are in open contradiction and the contradiction is the point. The cluster row
+is logged automatically and without discretion, because the ledger scores the SIGNAL, not my taste. The
+forecast is priced off a measurement. When they disagree, the honest thing is to file both and let the
+outcome say which was right, rather than quietly softening the forecast so the book never has to be
+embarrassed. **If the cluster hypothesis is real, my forecast should lose.** That is a row worth having.
+
+**The study, on this lab's own 144-ticker universe, 2y of bars (142 fetched, 2 failed).** Unconditional
+P(close higher 4 sessions later) = 30,492/64,348 = **0.474**. Conditional on a **+7% single session in a
+name above $10** — today's INBX, +7.46% at $122.87 — **485/1,156 = 0.420 across 422 distinct dates.**
+A −5.4pp fade: buying the pop underperforms the universe's own drift.
+
+**The horizon axis is the whole reason this got a tilt instead of a shrink: 2d 0.428, 4d 0.420, 8d 0.408.**
+Monotone, and deepening in the direction the hypothesis predicts. Compare india-radar's study run the same
+morning, which passed its peer axis and FAILED its horizon axis (H=3 −0.021, H=5 +0.127, H=10 +0.074) and
+was shrunk hard for it. **Same falsification grid, opposite verdicts, and the grid is what separated them.**
+Two labs on one desk independently confirming that the second axis is where the information is.
+
+**Clustering disclosed and it is large: 1,156 rows on 422 dates ≈ 2.7x overstated independence.** Names in
+this universe spike together on market-wide days. The date count is the denominator that was quoted; the
+row count is the one that would have flattered the study.
+
+**Referencing the LIVE print was the leak-free choice, and the settled close was the trap.** INBX's settled
+09-08 close is 114.34 and the stock is already +7.46% above it on data I can see. Filing a high p against a
+threshold I have watched the stock clear is manufacturing skill — S8's "a cheaper hour chosen later is a
+leak", with the hour being this morning. Used the live 122.865 instead: a threshold I cannot see the answer
+to, resolving off a 09-15 close that does not exist. **The leak is in choosing the reference after the
+outcome is visible, not in the reference being live.**
+
+**Both old-construction forecast rows are now closed, and they resolved OPPOSITE ways.** BABA NO (112.66 vs
+119.34), BLX YES (56.33 vs 54.54), both `check_date` 2026-09-08, both scored today. Yesterday's lesson named
+the defect — a check date equal to the resolution date can never resolve at an 08:20 PT fire time — and
+today it is retired rather than merely diagnosed. **That they disagreed in direction is the useful detail:
+the defect governed when a row could be READ, never what it SAID, so nothing about the book's content needed
+restating.** A timing defect that had been directional would have been a much worse problem.
+
+**Six rows deferred, zero overdue, and the distinction is now routine rather than a discovery.** BRVE, ATTO,
+CCB, NWPP + forecasts PRE, NGL all carry check_date 2026-09-09 and resolve off a 13:00 PT close at 08:40 PT.
+Deferred under S9. Third consecutive day this lab has made this call and written it down so the next run
+does not re-diagnose a backlog.
+
+**NWPP has no 09-09 bar at all while all seven other names do.** Feed stamp frozen at 2026-09-08T20:00:00Z.
+Recorded as a DATA CONDITION and not a verdict — S3 says a zero carries its reason, and "the name did not
+print today" is a different reason from "the fetch failed". Tomorrow's scorer needs to know which before it
+touches that row. NWPP is also on the INS-014 FAIL list, so it is the single most compromised row in the book.
+
+**INS-014: the register closed it, the auditor says it is live, and the collision is real but not a conflict.**
+`issues.json` closed it on the check `insider_call_price_guard_is_enforceable`; `price_audit.py` prints
+PASS 126 / FAIL 9 / NO_BAR 5 / QUEUED 0 / VOID 7 and "INS-014 is live". **They answer different questions.**
+The WRITER guard is genuinely closed — `append_call` compares `quote_date` to the call date and force-flags,
+and all five rows written today went through it. The LEGACY BACKLOG is not: nine rows stay priced outside
+their own call-day bar, and restating them is a ruling for Anupam under BENCH-002. Nothing was restated.
+**Offered to the council as a naming problem worth fixing generally:** a register row closed on "the guard
+exists" reads, to anyone scanning statuses, as "the defect is gone". Those are different claims and only one
+of them was checked. That is Firm Brain S6 applied to the word *closed* — and unlike most S6 cases, both
+readers here are correct, which is precisely why nobody would notice.
+
+[insider]
