@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-09 12:44 UTC",
+ "updated_utc": "2026-09-09 12:59 UTC",
  "purchases": [
-  {
-   "ticker": "CCFN",
-   "company": "MUNCY COLUMBIA FINANCIAL Corp",
-   "insider": "Oakes Stephanie A",
-   "role": "EVP & CTOO",
-   "date": "2026-08-28",
-   "shares": 130.0,
-   "price": 28.25,
-   "value": 3672.5,
-   "acc": "0001174947-26-000823",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "VTSI",
-   "company": "VirTra, Inc",
-   "insider": "BARBER GRANT",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 1350.0,
-   "price": 2.99,
-   "value": 4036.5,
-   "acc": "0001437749-26-029237",
-   "filed": "2026-08-28"
-  },
-  {
-   "ticker": "OVLY",
-   "company": "Oak Valley Bancorp",
-   "insider": "Leonard Daniel J",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 125.0,
-   "price": 34.23,
-   "value": 4278.75,
-   "acc": "0001437749-26-029357",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 800.0,
-   "price": 5.4889,
-   "value": 4391.12,
-   "acc": "0001214659-26-011250",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "HKHC",
-   "company": "Horizon Kinetics Holding Corp",
-   "insider": "Brennan Alice C",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 200.0,
-   "price": 26.2,
-   "value": 5240.0,
-   "acc": "0001437749-26-029253",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "BIVI",
    "company": "BIOVIE INC.",
@@ -2503,6 +2443,18 @@
    "filed": "2026-09-03"
   },
   {
+   "ticker": "MDRR",
+   "company": "Medalist Diversified, Inc.",
+   "insider": "Winn Charles Brent Jr.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-09-02",
+   "shares": 2.0,
+   "price": 12.0,
+   "value": 24.0,
+   "acc": "0001808471-26-000021",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -3032,6 +2984,18 @@
    "filed": "2026-09-05"
   },
   {
+   "ticker": "MDRR",
+   "company": "Medalist Diversified, Inc.",
+   "insider": "Winn Charles Brent Jr.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-09-03",
+   "shares": 2.0,
+   "price": 12.0,
+   "value": 24.0,
+   "acc": "0001808471-26-000021",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -3546,6 +3510,18 @@
    "value": 2.9,
    "acc": "0001536588-26-000030",
    "filed": "2026-09-08"
+  },
+  {
+   "ticker": "MDRR",
+   "company": "Medalist Diversified, Inc.",
+   "insider": "Winn Charles Brent Jr.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-09-04",
+   "shares": 8.0,
+   "price": 12.0,
+   "value": 96.0,
+   "acc": "0001808471-26-000023",
+   "filed": "2026-09-09"
   },
   {
    "ticker": "CZNC",
@@ -4544,6 +4520,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "MDRR",
+   "company": "Medalist Diversified, Inc.",
+   "insider": "Winn Charles Brent Jr.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-09-08",
+   "shares": 270.0,
+   "price": 12.0,
+   "value": 3240.0,
+   "acc": "0001808471-26-000023",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "Drexler Blake S",
@@ -4589,6 +4577,18 @@
    "price": 67.11,
    "value": 21944.97,
    "acc": "0001505732-26-000113",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "CDR",
+   "company": "CEDAR REALTY TRUST, INC.",
+   "insider": "Franklin Michael Andrew",
+   "role": "CEO",
+   "date": "2026-09-08",
+   "shares": 1472.0,
+   "price": 15.4,
+   "value": 22668.8,
+   "acc": "0001697904-26-000007",
    "filed": "2026-09-09"
   },
   {
@@ -4937,10 +4937,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-025963",
-  "0001918704-26-025964",
-  "0001918704-26-025965",
-  "0001918704-26-025966",
   "0001918704-26-025967",
   "0001918704-26-025968",
   "0001918704-26-025969",
@@ -5503,6 +5499,9 @@
   "0001918704-26-026815",
   "0001918704-26-026816",
   "0001918704-26-026823",
+  "0001918704-26-026826",
+  "0001918704-26-026827",
+  "0001918704-26-026830",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6671,6 +6670,7 @@
   "0001999371-26-020129",
   "0001999371-26-020136",
   "0001999371-26-020168",
+  "0001999371-26-020178",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
