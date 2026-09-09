@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-09 22:09 UTC",
+ "updated_utc": "2026-09-09 22:25 UTC",
  "purchases": [
-  {
-   "ticker": "GBCI",
-   "company": "GLACIER BANCORP, INC.",
-   "insider": "Langel Craig A",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 2250.0,
-   "price": 47.04,
-   "value": 105840.0,
-   "acc": "0001347688-26-000004",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
-   "company": "Andalusian Credit Company, LLC",
-   "insider": "Frank Alan L",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 7309.71,
-   "price": 15.32,
-   "value": 111984.76,
-   "acc": "0001104659-26-104354",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "AMR",
    "company": "Alpha Metallurgical Resources, Inc.",
@@ -4796,6 +4772,30 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "OXM",
+   "company": "OXFORD INDUSTRIES INC",
+   "insider": "Chubb Thomas Caldecot III",
+   "role": "CEO and President",
+   "date": "2026-09-09",
+   "shares": 3500.0,
+   "price": 30.9338,
+   "value": 108268.3,
+   "acc": "0000075288-26-000089",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "GME",
+   "company": "GameStop Corp.",
+   "insider": "Grube James",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 10255.0,
+   "price": 19.12,
+   "value": 196075.6,
+   "acc": "0001840480-26-000002",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "DY",
    "company": "DYCOM INDUSTRIES INC",
    "insider": "Peyovich Daniel S",
@@ -4835,6 +4835,11 @@
    "total_value": 2164152.0
   },
   {
+   "ticker": "GME",
+   "insiders": 2,
+   "total_value": 1230031.6
+  },
+  {
    "ticker": "GPUS",
    "insiders": 3,
    "total_value": 906949.84
@@ -4858,11 +4863,6 @@
    "ticker": "SHMD",
    "insiders": 2,
    "total_value": 432528.7
-  },
-  {
-   "ticker": "ANDALUSIAN CREDIT COMPANY, LLC (CIK 1979306)",
-   "insiders": 2,
-   "total_value": 321483.92
   },
   {
    "ticker": "UAMY",
