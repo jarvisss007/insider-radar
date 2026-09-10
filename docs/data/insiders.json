@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-10 22:04 UTC",
+ "updated_utc": "2026-09-10 22:20 UTC",
  "purchases": [
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 217.0,
-   "price": 69.1,
-   "value": 14994.7,
-   "acc": "0001493152-26-040895",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "WIX",
-   "company": "Wix.com Ltd.",
-   "insider": "Zohar Nir",
-   "role": "President",
-   "date": "2026-08-31",
-   "shares": 271.0,
-   "price": 59.89,
-   "value": 16230.19,
-   "acc": "0001628280-26-059979",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "SWZ",
-   "company": "Total Return Securities Fund",
-   "insider": "SELL MORITZ A",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 3000.0,
-   "price": 5.98,
-   "value": 17940.0,
-   "acc": "0001398344-26-016344",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "WIX",
    "company": "Wix.com Ltd.",
@@ -4111,6 +4075,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "GBFH",
+   "company": "GBank Financial Holdings Inc.",
+   "insider": "Voinovich Michael C",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 2500.0,
+   "price": 20.0,
+   "value": 50000.0,
+   "acc": "0001193125-26-388191",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4747,6 +4723,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-09-10",
+   "shares": 3500.0,
+   "price": 0.05,
+   "value": 175.0,
+   "acc": "0001035422-26-000011",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "IRIX",
    "company": "IRIDEX CORP",
    "insider": "Dizon Romeo R",
@@ -4768,6 +4756,18 @@
    "price": 8.1,
    "value": 55080.0,
    "acc": "0001766478-26-000048",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "GME",
+   "company": "GameStop Corp.",
+   "insider": "Attal Alain",
+   "role": "Director",
+   "date": "2026-09-10",
+   "shares": 5000.0,
+   "price": 20.0,
+   "value": 100000.0,
+   "acc": "0001840485-26-000006",
    "filed": "2026-09-10"
   },
   {
@@ -4815,8 +4815,8 @@
   },
   {
    "ticker": "GME",
-   "insiders": 3,
-   "total_value": 21605931.6
+   "insiders": 4,
+   "total_value": 21705931.6
   },
   {
    "ticker": "UBER",
@@ -4869,11 +4869,6 @@
    "total_value": 193236.0
   },
   {
-   "ticker": "WIX",
-   "insiders": 6,
-   "total_value": 182424.94
-  },
-  {
    "ticker": "OPAL",
    "insiders": 2,
    "total_value": 177000.0
@@ -4882,6 +4877,11 @@
    "ticker": "GROV",
    "insiders": 3,
    "total_value": 167822.95
+  },
+  {
+   "ticker": "WIX",
+   "insiders": 6,
+   "total_value": 166194.75
   },
   {
    "ticker": "TSM",
@@ -4921,8 +4921,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026521",
-  "0001918704-26-026526",
   "0001918704-26-026527",
   "0001918704-26-026528",
   "0001918704-26-026533",
@@ -7920,7 +7918,9 @@
   "0002151421-26-000004",
   "0002151661-26-000004",
   "0002152432-26-000004",
-  "0002153871-26-000002"
+  "0002153832-26-000007",
+  "0002153871-26-000002",
+  "0002154199-26-000008"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
