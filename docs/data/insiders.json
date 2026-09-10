@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-10 15:30 UTC",
+ "updated_utc": "2026-09-10 15:46 UTC",
  "purchases": [
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 200.0,
-   "price": 4.96,
-   "value": 992.0,
-   "acc": "0001214659-26-011250",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Gordon Scott",
-   "role": "Co-Chief Investment Officer",
-   "date": "2026-08-31",
-   "shares": 134.0,
-   "price": 10.22,
-   "value": 1369.48,
-   "acc": "0001193125-26-378888",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "ELA",
-   "company": "Envela Corp",
-   "insider": "DeLuca John Garrett",
-   "role": "CFO",
-   "date": "2026-08-31",
-   "shares": 105.0,
-   "price": 13.76,
-   "value": 1444.8,
-   "acc": "0002017181-26-000005",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
@@ -4051,6 +4015,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "FUSB",
+   "company": "FIRST US BANCSHARES, INC.",
+   "insider": "FIELD Robert C",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 284.0,
+   "price": 16.47,
+   "value": 4677.48,
+   "acc": "0001193125-26-387512",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "BRN",
    "company": "BARNWELL INDUSTRIES INC",
    "insider": "Patman Philip F Jr",
@@ -4639,6 +4615,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-09",
+   "shares": 1.0,
+   "price": 378.57,
+   "value": 378.57,
+   "acc": "0001437749-26-030032",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "KDOZF",
    "company": "KIDOZ INC.",
    "insider": "Williams Tryon M",
@@ -4708,6 +4696,18 @@
    "price": 31.88,
    "value": 9564.0,
    "acc": "0001917933-26-000002",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "FUSB",
+   "company": "FIRST US BANCSHARES, INC.",
+   "insider": "FIELD Robert C",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 877.0,
+   "price": 16.47,
+   "value": 14444.19,
+   "acc": "0001193125-26-387512",
    "filed": "2026-09-10"
   },
   {
@@ -4904,11 +4904,6 @@
    "total_value": 15241.2
   },
   {
-   "ticker": "LIEN",
-   "insiders": 2,
-   "total_value": 9054.51
-  },
-  {
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 6345.45
@@ -4926,8 +4921,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026370",
-  "0001918704-26-026371",
   "0001918704-26-026373",
   "0001918704-26-026374",
   "0001918704-26-026375",
@@ -5422,6 +5415,8 @@
   "0001918704-26-027096",
   "0001918704-26-027097",
   "0001918704-26-027098",
+  "0001918704-26-027099",
+  "0001918704-26-027100",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
