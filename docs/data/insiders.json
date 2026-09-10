@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-10 21:17 UTC",
+ "updated_utc": "2026-09-10 21:33 UTC",
  "purchases": [
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 1575.0,
-   "price": 3.931,
-   "value": 6191.32,
-   "acc": "0001325533-26-000006",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "UAMY",
-   "company": "UNITED STATES ANTIMONY CORP",
-   "insider": "Aguirre Blaise A.",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 1400.0,
-   "price": 5.035,
-   "value": 7049.0,
-   "acc": "0001104659-26-103998",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 20000.0,
-   "price": 0.3621,
-   "value": 7242.0,
-   "acc": "0001683168-26-006834",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "LIEN",
-   "company": "Chicago Atlantic BDC, Inc.",
-   "insider": "Colonna Bernardino",
-   "role": "President",
-   "date": "2026-08-31",
-   "shares": 750.0,
-   "price": 10.2467,
-   "value": 7685.03,
-   "acc": "0001193125-26-378866",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "CRF",
    "company": "CORNERSTONE TOTAL RETURN FUND INC",
@@ -738,6 +690,18 @@
    "filed": "2026-09-02"
   },
   {
+   "ticker": "WAST",
+   "company": "WASTE ENERGY CORP.",
+   "insider": "GALLAGHER SCOTT",
+   "role": "Chairman and CEO",
+   "date": "2026-09-01",
+   "shares": 85000.0,
+   "price": 0.0028,
+   "value": 238.0,
+   "acc": "0001493152-26-042242",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -784,6 +748,18 @@
    "value": 872.48,
    "acc": "0001628280-26-059868",
    "filed": "2026-09-01"
+  },
+  {
+   "ticker": "WAST",
+   "company": "WASTE ENERGY CORP.",
+   "insider": "GALLAGHER SCOTT",
+   "role": "Chairman and CEO",
+   "date": "2026-09-01",
+   "shares": 315000.0,
+   "price": 0.0029,
+   "value": 913.5,
+   "acc": "0001493152-26-042242",
+   "filed": "2026-09-10"
   },
   {
    "ticker": "GOOD",
@@ -4495,6 +4471,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "WAST",
+   "company": "WASTE ENERGY CORP.",
+   "insider": "GALLAGHER SCOTT",
+   "role": "Chairman and CEO",
+   "date": "2026-09-09",
+   "shares": 25000.0,
+   "price": 0.0024,
+   "value": 60.0,
+   "acc": "0001493152-26-042242",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4783,6 +4771,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "AOMR",
+   "company": "Angel Oak Mortgage REIT, Inc.",
+   "insider": "MINAMI W D",
+   "role": "Director",
+   "date": "2026-09-10",
+   "shares": 6800.0,
+   "price": 8.1,
+   "value": 55080.0,
+   "acc": "0001766478-26-000048",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "CELH",
    "company": "Celsius Holdings, Inc.",
    "insider": "Fieldly John",
@@ -4865,8 +4865,8 @@
   },
   {
    "ticker": "UAMY",
-   "insiders": 3,
-   "total_value": 200285.0
+   "insiders": 2,
+   "total_value": 193236.0
   },
   {
    "ticker": "WIX",
@@ -4916,15 +4916,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026503",
-  "0001918704-26-026512",
-  "0001918704-26-026513",
-  "0001918704-26-026514",
-  "0001918704-26-026515",
-  "0001918704-26-026516",
-  "0001918704-26-026517",
-  "0001918704-26-026518",
-  "0001918704-26-026519",
   "0001918704-26-026520",
   "0001918704-26-026521",
   "0001918704-26-026526",
@@ -5394,6 +5385,15 @@
   "0001918704-26-027177",
   "0001918704-26-027178",
   "0001918704-26-027179",
+  "0001918704-26-027180",
+  "0001918704-26-027181",
+  "0001918704-26-027182",
+  "0001918704-26-027183",
+  "0001918704-26-027184",
+  "0001918704-26-027185",
+  "0001918704-26-027186",
+  "0001918704-26-027189",
+  "0001918704-26-027190",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
