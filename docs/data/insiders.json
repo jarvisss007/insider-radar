@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-10 16:33 UTC",
+ "updated_utc": "2026-09-10 16:48 UTC",
  "purchases": [
-  {
-   "ticker": "ZNB",
-   "company": "Zeta Network Group",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 1295.0,
-   "price": 1.68,
-   "value": 2175.6,
-   "acc": "0001475597-26-000228",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 500.0,
-   "price": 4.397,
-   "value": 2198.5,
-   "acc": "0001628280-26-059868",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -4699,6 +4675,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "FRST",
+   "company": "Primis Financial Corp.",
+   "insider": "Johnson Eric Alan",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 1565.0,
+   "price": 15.95,
+   "value": 24961.75,
+   "acc": "0001193125-26-387586",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "LTRX",
    "company": "LANTRONIX INC",
    "insider": "Awsare Saleel",
@@ -4805,6 +4793,18 @@
    "value": 3468.0,
    "acc": "0001193125-26-387539",
    "filed": "2026-09-10"
+  },
+  {
+   "ticker": "UBER",
+   "company": "Uber Technologies, Inc",
+   "insider": "KHOSROWSHAHI DARA",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-10",
+   "shares": 141000.0,
+   "price": 70.9642,
+   "value": 10005952.2,
+   "acc": "0001184237-26-000008",
+   "filed": "2026-09-10"
   }
  ],
  "clusters": [
@@ -4812,6 +4812,11 @@
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "insiders": 2,
    "total_value": 66981948.1
+  },
+  {
+   "ticker": "UBER",
+   "insiders": 2,
+   "total_value": 15314015.89
   },
   {
    "ticker": "LILA",
@@ -4889,14 +4894,14 @@
    "total_value": 55500.0
   },
   {
+   "ticker": "FRST",
+   "insiders": 2,
+   "total_value": 46504.75
+  },
+  {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 21600.0
-  },
-  {
-   "ticker": "FRST",
-   "insiders": 2,
-   "total_value": 21543.0
   },
   {
    "ticker": "ATLO",
@@ -4921,11 +4926,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026397",
-  "0001918704-26-026398",
-  "0001918704-26-026399",
-  "0001918704-26-026400",
-  "0001918704-26-026401",
   "0001918704-26-026402",
   "0001918704-26-026403",
   "0001918704-26-026404",
@@ -5416,6 +5416,10 @@
   "0001918704-26-027111",
   "0001918704-26-027112",
   "0001918704-26-027115",
+  "0001918704-26-027116",
+  "0001918704-26-027118",
+  "0001918704-26-027120",
+  "0001918704-26-027121",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6610,6 +6614,7 @@
   "0001999371-26-020233",
   "0001999371-26-020280",
   "0001999371-26-020286",
+  "0001999371-26-020290",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
