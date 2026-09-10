@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-10 01:34 UTC",
+ "updated_utc": "2026-09-10 01:49 UTC",
  "purchases": [
-  {
-   "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
-   "company": "Privacore VPC Asset Backed Credit Fund",
-   "insider": "BANKERS LIFE & CASUALTY CO",
-   "role": "10% owner",
-   "date": "2026-08-28",
-   "shares": 493096.647,
-   "price": 10.14,
-   "value": 5000000.0,
-   "acc": "0000903939-26-000028",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "AUGO",
-   "company": "Aura Minerals Inc.",
-   "insider": "Sousa Mauad Bruno",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 61552.0,
-   "price": 83.5822,
-   "value": 5144651.57,
-   "acc": "0002117905-26-000026",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "AUGO",
-   "company": "Aura Minerals Inc.",
-   "insider": "Sousa Mauad Bruno",
-   "role": "Director",
-   "date": "2026-08-28",
-   "shares": 126000.0,
-   "price": 89.36,
-   "value": 11259360.0,
-   "acc": "0002117905-26-000026",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "SHMD",
    "company": "SCHMID Group N.V.",
@@ -3571,6 +3535,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "ALMS",
+   "company": "ALUMIS INC.",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-09-04",
+   "shares": 220070.0,
+   "price": 11.173,
+   "value": 2458842.11,
+   "acc": "0001231919-26-001158",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "CMRF",
    "company": "CIM GROUP, INC.",
    "insider": "RESSLER RICHARD S",
@@ -4675,6 +4651,30 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "ALMS",
+   "company": "ALUMIS INC.",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 273290.0,
+   "price": 10.6271,
+   "value": 2904280.16,
+   "acc": "0001231919-26-001158",
+   "filed": "2026-09-09"
+  },
+  {
+   "ticker": "ALMS",
+   "company": "ALUMIS INC.",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 273291.0,
+   "price": 10.6271,
+   "value": 2904290.79,
+   "acc": "0001231919-26-001158",
+   "filed": "2026-09-09"
+  },
+  {
    "ticker": "KDOZF",
    "company": "KIDOZ INC.",
    "insider": "Williams Tryon M",
@@ -4819,11 +4819,6 @@
    "total_value": 10568798.84
   },
   {
-   "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
-   "insiders": 2,
-   "total_value": 7500000.0
-  },
-  {
    "ticker": "INBX",
    "insiders": 2,
    "total_value": 3212979.31
@@ -4931,7 +4926,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026297",
   "0001918704-26-026298",
   "0001918704-26-026308",
   "0001918704-26-026309",
@@ -7930,7 +7924,8 @@
   "0002151232-26-000002",
   "0002151421-26-000004",
   "0002151661-26-000004",
-  "0002152432-26-000004"
+  "0002152432-26-000004",
+  "0002153871-26-000002"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
