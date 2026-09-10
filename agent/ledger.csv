@@ -151,3 +151,6 @@ date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_qu
 2026-09-09,TSM,long,[insider] 30 insiders bought $122k within 14d,433.08,2026-10-09,,,no,fund,
 2026-09-09,GRNT,long,[insider] 2 insiders bought $56k within 14d,5.1050,2026-10-09,,,no,fund,
 2026-09-09,RGCO,long,[insider] 3 insiders bought $22k within 14d,21.59,2026-10-09,,,no,fund,
+2026-09-10,GME,long,[insider] 2 insiders bought $1.23M within 14d [check_date 2026-10-10 was a weekend; rolled to the next session 2026-10-12 at write time],20.155,2026-10-12,,,no,fund,
+2026-09-10,DY,long,[insider] 2 insiders bought $453k within 14d [check_date 2026-10-10 was a weekend; rolled to the next session 2026-10-12 at write time],296.59,2026-10-12,,,no,fund,
+2026-09-10,ATLO,long,[insider] 2 insiders bought $15k within 14d [check_date 2026-10-10 was a weekend; rolled to the next session 2026-10-12 at write time],31.96,2026-10-12,,,no,fund,
