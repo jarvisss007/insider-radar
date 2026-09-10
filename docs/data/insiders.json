@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-10 21:01 UTC",
+ "updated_utc": "2026-09-10 21:17 UTC",
  "purchases": [
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "TAGLICH ROBERT",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 999.0,
-   "price": 5.5226,
-   "value": 5517.08,
-   "acc": "0001493152-26-041129",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 1742.0,
-   "price": 3.2494,
-   "value": 5660.45,
-   "acc": "0001539497-26-002446",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "ATLO",
-   "company": "AMES NATIONAL CORP",
-   "insider": "Cassabaum Michelle R",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 180.0,
-   "price": 31.54,
-   "value": 5677.2,
-   "acc": "0001773399-26-000007",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "MSGM",
    "company": "Motorsport Games Inc.",
@@ -4051,6 +4015,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 6842.0,
+   "price": 3.2432,
+   "value": 22189.97,
+   "acc": "0001539497-26-002474",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "CDR",
    "company": "CEDAR REALTY TRUST, INC.",
    "insider": "Franklin Michael Andrew",
@@ -4783,6 +4759,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Levinson Sam",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 110710.0,
+   "price": 3.3054,
+   "value": 365940.83,
+   "acc": "0001539497-26-002474",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "IRIX",
    "company": "IRIDEX CORP",
    "insider": "Dizon Romeo R",
@@ -4792,6 +4780,18 @@
    "price": 0.68,
    "value": 3468.0,
    "acc": "0001193125-26-387539",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "CELH",
+   "company": "Celsius Holdings, Inc.",
+   "insider": "Fieldly John",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-10",
+   "shares": 18000.0,
+   "price": 27.4357,
+   "value": 493842.6,
+   "acc": "0001628280-26-061406",
    "filed": "2026-09-10"
   },
   {
@@ -4904,11 +4904,6 @@
    "total_value": 21600.0
   },
   {
-   "ticker": "ATLO",
-   "insiders": 2,
-   "total_value": 15241.2
-  },
-  {
    "ticker": "CZNC",
    "insiders": 2,
    "total_value": 4866.91
@@ -4921,8 +4916,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026500",
-  "0001918704-26-026502",
   "0001918704-26-026503",
   "0001918704-26-026512",
   "0001918704-26-026513",
@@ -5400,6 +5393,7 @@
   "0001918704-26-027176",
   "0001918704-26-027177",
   "0001918704-26-027178",
+  "0001918704-26-027179",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6607,6 +6601,7 @@
   "0001999371-26-020309",
   "0001999371-26-020327",
   "0001999371-26-020328",
+  "0001999371-26-020330",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
