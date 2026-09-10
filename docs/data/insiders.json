@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-10 10:06 UTC",
+ "updated_utc": "2026-09-10 10:22 UTC",
  "purchases": [
-  {
-   "ticker": "MDRR",
-   "company": "Medalist Diversified, Inc.",
-   "insider": "Winn Charles Brent Jr.",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-08-31",
-   "shares": 10.0,
-   "price": 12.0,
-   "value": 120.0,
-   "acc": "0001808471-26-000017",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -2527,6 +2515,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "CYBN",
+   "company": "CYBIN INC.",
+   "insider": "Glavine Paul",
+   "role": "Chief Growth Officer",
+   "date": "2026-09-03",
+   "shares": 100000.0,
+   "price": 11.7828,
+   "value": 1178280.0,
+   "acc": "0000912282-26-001256",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
    "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
@@ -4819,14 +4819,14 @@
    "total_value": 10568798.84
   },
   {
+   "ticker": "CYBN",
+   "insiders": 2,
+   "total_value": 3342432.0
+  },
+  {
    "ticker": "INBX",
    "insiders": 2,
    "total_value": 3212979.31
-  },
-  {
-   "ticker": "CYBN",
-   "insiders": 2,
-   "total_value": 2164152.0
   },
   {
    "ticker": "PRTS",
