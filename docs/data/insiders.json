@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-10 16:48 UTC",
+ "updated_utc": "2026-09-10 17:20 UTC",
  "purchases": [
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 756.0,
-   "price": 2.95,
-   "value": 2230.2,
-   "acc": "0001437749-26-029374",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "LIVINGSTON SHANNON R",
-   "role": "EXECUTIVE VICE PRESIDENT",
-   "date": "2026-08-31",
-   "shares": 107.0,
-   "price": 21.51,
-   "value": 2301.57,
-   "acc": "0001628280-26-059851",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "LUCK",
-   "company": "Lucky Strike Entertainment Corp",
-   "insider": "Young John Alan",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 400.0,
-   "price": 6.25,
-   "value": 2500.0,
-   "acc": "0001628280-26-059899",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "WIX",
    "company": "Wix.com Ltd.",
@@ -3967,6 +3931,30 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-08",
+   "shares": 756.0,
+   "price": 2.95,
+   "value": 2230.2,
+   "acc": "0001437749-26-030042",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "CSBB",
+   "company": "CSB Bancorp, Inc.",
+   "insider": "STEINER EDDIE L",
+   "role": "President & CEO",
+   "date": "2026-09-08",
+   "shares": 38.0,
+   "price": 74.08,
+   "value": 2815.04,
+   "acc": "0001193125-26-387610",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "MDRR",
    "company": "Medalist Diversified, Inc.",
    "insider": "Winn Charles Brent Jr.",
@@ -4639,6 +4627,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-09",
+   "shares": 756.0,
+   "price": 2.95,
+   "value": 2230.2,
+   "acc": "0001437749-26-030042",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "TOFB",
    "company": "TOFUTTI BRANDS INC",
    "insider": "A-6684 Ltd.",
@@ -4909,11 +4909,6 @@
    "total_value": 15241.2
   },
   {
-   "ticker": "CWBC",
-   "insiders": 2,
-   "total_value": 6345.45
-  },
-  {
    "ticker": "CZNC",
    "insiders": 2,
    "total_value": 4866.91
@@ -4926,13 +4921,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026402",
-  "0001918704-26-026403",
-  "0001918704-26-026404",
-  "0001918704-26-026405",
-  "0001918704-26-026406",
-  "0001918704-26-026407",
-  "0001918704-26-026408",
   "0001918704-26-026409",
   "0001918704-26-026410",
   "0001918704-26-026411",
@@ -5420,6 +5408,13 @@
   "0001918704-26-027118",
   "0001918704-26-027120",
   "0001918704-26-027121",
+  "0001918704-26-027122",
+  "0001918704-26-027123",
+  "0001918704-26-027124",
+  "0001918704-26-027125",
+  "0001918704-26-027126",
+  "0001918704-26-027127",
+  "0001918704-26-027128",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
