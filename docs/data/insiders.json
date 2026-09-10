@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-10 09:34 UTC",
+ "updated_utc": "2026-09-10 10:06 UTC",
  "purchases": [
-  {
-   "ticker": "SHMD",
-   "company": "SCHMID Group N.V.",
-   "insider": "Schmid Anette",
-   "role": "Director",
-   "date": "2026-08-30",
-   "shares": 69000.0,
-   "price": 3.1623,
-   "value": 218198.7,
-   "acc": "0002023157-26-000005",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "ABR",
-   "company": "ARBOR REALTY TRUST INC",
-   "insider": "Green William C",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 16.0,
-   "price": 5.1,
-   "value": 81.6,
-   "acc": "0001104659-26-104321",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "MDRR",
    "company": "Medalist Diversified, Inc.",
@@ -4099,6 +4075,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "BRN",
+   "company": "BARNWELL INDUSTRIES INC",
+   "insider": "Patman Philip F Jr",
+   "role": "CFO and Treasurer",
+   "date": "2026-09-08",
+   "shares": 5219.0,
+   "price": 1.0,
+   "value": 5219.0,
+   "acc": "0001140361-26-036103",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "Drexler Blake S",
@@ -4699,6 +4687,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "BRN",
+   "company": "BARNWELL INDUSTRIES INC",
+   "insider": "Patman Philip F Jr",
+   "role": "CFO and Treasurer",
+   "date": "2026-09-09",
+   "shares": 1737.0,
+   "price": 1.0,
+   "value": 1737.0,
+   "acc": "0001140361-26-036103",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "NNUP",
    "company": "NOCOPI TECHNOLOGIES INC/MD/",
    "insider": "Sites Eric",
@@ -4859,11 +4859,6 @@
    "total_value": 435320.54
   },
   {
-   "ticker": "SHMD",
-   "insiders": 2,
-   "total_value": 432528.7
-  },
-  {
    "ticker": "UAMY",
    "insiders": 3,
    "total_value": 200285.0
@@ -4926,7 +4921,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026298",
   "0001918704-26-026308",
   "0001918704-26-026309",
   "0001918704-26-026310",
@@ -5424,6 +5418,7 @@
   "0001918704-26-027026",
   "0001918704-26-027027",
   "0001918704-26-027028",
+  "0001918704-26-027036",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
