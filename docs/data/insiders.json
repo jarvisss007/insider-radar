@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-10 10:22 UTC",
+ "updated_utc": "2026-09-10 10:37 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-08-31",
-   "shares": 3500.0,
-   "price": 0.049,
-   "value": 171.5,
-   "acc": "0001035422-26-000008",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 1.0,
-   "price": 369.47,
-   "value": 369.47,
-   "acc": "0001437749-26-029371",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "AUGO",
    "company": "Aura Minerals Inc.",
@@ -3475,6 +3451,18 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "CYBN",
+   "company": "CYBIN INC.",
+   "insider": "So Eric H. L.",
+   "role": "Executive Chair",
+   "date": "2026-09-04",
+   "shares": 100000.0,
+   "price": 12.089,
+   "value": 1208900.0,
+   "acc": "0000912282-26-001257",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
    "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
@@ -4711,6 +4699,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "TOFB",
+   "company": "TOFUTTI BRANDS INC",
+   "insider": "A-6684 Ltd.",
+   "role": "10% owner",
+   "date": "2026-09-09",
+   "shares": 10000.0,
+   "price": 0.4,
+   "value": 4000.0,
+   "acc": "0001994334-26-000013",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "LTRX",
    "company": "LANTRONIX INC",
    "insider": "Awsare Saleel",
@@ -4821,7 +4821,7 @@
   {
    "ticker": "CYBN",
    "insiders": 2,
-   "total_value": 3342432.0
+   "total_value": 4551332.0
   },
   {
    "ticker": "INBX",
@@ -4921,7 +4921,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026308",
   "0001918704-26-026309",
   "0001918704-26-026310",
   "0001918704-26-026311",
@@ -5961,6 +5960,7 @@
   "0001994131-26-000008",
   "0001994334-26-000010",
   "0001994334-26-000012",
+  "0001994334-26-000013",
   "0001994445-26-000006",
   "0001994955-26-000007",
   "0001995005-26-000006",
