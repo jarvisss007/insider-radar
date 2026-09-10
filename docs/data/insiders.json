@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-10 19:56 UTC",
+ "updated_utc": "2026-09-10 20:12 UTC",
  "purchases": [
-  {
-   "ticker": "WIX",
-   "company": "Wix.com Ltd.",
-   "insider": "Abrahami Avishai",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-31",
-   "shares": 55.0,
-   "price": 59.89,
-   "value": 3293.95,
-   "acc": "0001628280-26-059977",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "BXSY",
-   "company": "BEXIL INVESTMENT TRUST",
-   "insider": "Winmill William McCollum",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 200.0,
-   "price": 18.22,
-   "value": 3644.0,
-   "acc": "0001628873-26-000093",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "VENU",
-   "company": "Venu Holding Corp",
-   "insider": "ROTH JAY W",
-   "role": "CEO & Chairman",
-   "date": "2026-08-31",
-   "shares": 2100.0,
-   "price": 1.9048,
-   "value": 4000.08,
-   "acc": "0001493152-26-041271",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "CAGLE DAWN M",
-   "role": "EXECUTIVE VICE PRESIDENT",
-   "date": "2026-08-31",
-   "shares": 188.0,
-   "price": 21.51,
-   "value": 4043.88,
-   "acc": "0001628280-26-059852",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-31",
-   "shares": 4100.0,
-   "price": 1.15,
-   "value": 4715.0,
-   "acc": "0001079973-26-001204",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "ABR",
    "company": "ARBOR REALTY TRUST INC",
@@ -4003,6 +3943,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "FGBI",
+   "company": "First Guaranty Bancshares, Inc.",
+   "insider": "McAnally Bruce",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 500.0,
+   "price": 18.4,
+   "value": 9200.0,
+   "acc": "0001437749-26-030075",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "Horne William B.",
@@ -4085,6 +4037,18 @@
    "value": 18955.34,
    "acc": "0001026081-26-000026",
    "filed": "2026-09-09"
+  },
+  {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-09-08",
+   "shares": 9393.0,
+   "price": 2.0972,
+   "value": 19699.0,
+   "acc": "0001493152-26-042152",
+   "filed": "2026-09-10"
   },
   {
    "ticker": "BRBR",
@@ -4651,6 +4615,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "FGBI",
+   "company": "First Guaranty Bancshares, Inc.",
+   "insider": "McAnally Bruce",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 250.0,
+   "price": 18.25,
+   "value": 4562.5,
+   "acc": "0001437749-26-030075",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
    "insider": "Baker Jeffery C",
@@ -4660,6 +4636,18 @@
    "price": 31.88,
    "value": 9564.0,
    "acc": "0001917933-26-000002",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-09-09",
+   "shares": 5836.0,
+   "price": 2.0899,
+   "value": 12196.66,
+   "acc": "0001493152-26-042152",
    "filed": "2026-09-10"
   },
   {
@@ -4684,6 +4672,18 @@
    "price": 15.95,
    "value": 24961.75,
    "acc": "0001193125-26-387586",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-09",
+   "shares": 3450.0,
+   "price": 7.5914,
+   "value": 26190.33,
+   "acc": "0000905148-26-004133",
    "filed": "2026-09-10"
   },
   {
@@ -4871,7 +4871,7 @@
   {
    "ticker": "WIX",
    "insiders": 6,
-   "total_value": 185718.89
+   "total_value": 182424.94
   },
   {
    "ticker": "OPAL",
@@ -4921,10 +4921,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026450",
-  "0001918704-26-026451",
-  "0001918704-26-026452",
-  "0001918704-26-026453",
   "0001918704-26-026454",
   "0001918704-26-026455",
   "0001918704-26-026456",
@@ -5410,6 +5406,8 @@
   "0001918704-26-027160",
   "0001918704-26-027161",
   "0001918704-26-027162",
+  "0001918704-26-027163",
+  "0001918704-26-027164",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -5657,6 +5655,8 @@
   "0001965040-26-000103",
   "0001965040-26-000116",
   "0001965040-26-000134",
+  "0001965040-26-000138",
+  "0001965040-26-000140",
   "0001965214-26-000006",
   "0001965544-26-000008",
   "0001965585-26-000006",
