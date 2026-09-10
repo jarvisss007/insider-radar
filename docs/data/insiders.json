@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-10 21:33 UTC",
+ "updated_utc": "2026-09-10 22:04 UTC",
  "purchases": [
-  {
-   "ticker": "CRF",
-   "company": "CORNERSTONE TOTAL RETURN FUND INC",
-   "insider": "Greer Peter",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 1500.0,
-   "price": 6.405,
-   "value": 9607.5,
-   "acc": "0001398344-26-016361",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "CLM",
-   "company": "Cornerstone Strategic Investment Fund, Inc.",
-   "insider": "Greer Peter",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 1500.0,
-   "price": 6.63,
-   "value": 9945.0,
-   "acc": "0001398344-26-016363",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 2979.0,
-   "price": 3.931,
-   "value": 11710.45,
-   "acc": "0001325533-26-000006",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 2500.0,
-   "price": 5.049,
-   "value": 12622.5,
-   "acc": "0001214659-26-011250",
-   "filed": "2026-08-31"
-  },
   {
    "ticker": "SLGL",
    "company": "Sol-Gel Technologies Ltd.",
@@ -3799,6 +3751,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "ARQ",
+   "company": "Arq, Inc.",
+   "insider": "Steinmetz Shimon",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-08",
+   "shares": 1098.0,
+   "price": 2.3396,
+   "value": 2568.88,
+   "acc": "0001515156-26-000129",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "CSBB",
    "company": "CSB Bancorp, Inc.",
    "insider": "STEINER EDDIE L",
@@ -3821,6 +3785,18 @@
    "value": 3240.0,
    "acc": "0001808471-26-000023",
    "filed": "2026-09-09"
+  },
+  {
+   "ticker": "ARQ",
+   "company": "Arq, Inc.",
+   "insider": "Steinmetz Shimon",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-08",
+   "shares": 1874.0,
+   "price": 2.3393,
+   "value": 4383.85,
+   "acc": "0001515156-26-000129",
+   "filed": "2026-09-10"
   },
   {
    "ticker": "FUSB",
@@ -3868,6 +3844,18 @@
    "price": 18.4,
    "value": 9200.0,
    "acc": "0001437749-26-030075",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "BRN",
+   "company": "BARNWELL INDUSTRIES INC",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-08",
+   "shares": 10478.0,
+   "price": 0.996,
+   "value": 10436.09,
+   "acc": "0001104659-26-106783",
    "filed": "2026-09-10"
   },
   {
@@ -4805,6 +4793,18 @@
    "value": 10005952.2,
    "acc": "0001184237-26-000008",
    "filed": "2026-09-10"
+  },
+  {
+   "ticker": "GME",
+   "company": "GameStop Corp.",
+   "insider": "Cohen Ryan",
+   "role": "President, CEO and Chairman",
+   "date": "2026-09-10",
+   "shares": 1000000.0,
+   "price": 20.3759,
+   "value": 20375900.0,
+   "acc": "0000921895-26-002531",
+   "filed": "2026-09-10"
   }
  ],
  "clusters": [
@@ -4812,6 +4812,11 @@
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "insiders": 2,
    "total_value": 66981948.1
+  },
+  {
+   "ticker": "GME",
+   "insiders": 3,
+   "total_value": 21605931.6
   },
   {
    "ticker": "UBER",
@@ -4837,11 +4842,6 @@
    "ticker": "PRTS",
    "insiders": 2,
    "total_value": 1497701.26
-  },
-  {
-   "ticker": "GME",
-   "insiders": 2,
-   "total_value": 1230031.6
   },
   {
    "ticker": "GPUS",
@@ -4904,6 +4904,11 @@
    "total_value": 21600.0
   },
   {
+   "ticker": "BRN",
+   "insiders": 2,
+   "total_value": 17392.09
+  },
+  {
    "ticker": "CZNC",
    "insiders": 2,
    "total_value": 4866.91
@@ -4916,7 +4921,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026520",
   "0001918704-26-026521",
   "0001918704-26-026526",
   "0001918704-26-026527",
@@ -6674,6 +6678,7 @@
   "0002008415-26-000003",
   "0002008603-26-000003",
   "0002008790-26-000006",
+  "0002008967-26-000013",
   "0002008989-26-000008",
   "0002009110-26-000003",
   "0002009110-26-000005",
