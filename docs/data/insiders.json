@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-11 20:58 UTC",
+ "updated_utc": "2026-09-11 21:14 UTC",
  "purchases": [
-  {
-   "ticker": "UMBF",
-   "company": "UMB FINANCIAL CORP",
-   "insider": "Peterman Tamara",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 394.0553,
-   "price": 139.6,
-   "value": 55010.12,
-   "acc": "0000101382-26-000181",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 55000.0,
-   "price": 1.0278,
-   "value": 56529.0,
-   "acc": "0001841761-26-000092",
-   "filed": "2026-09-02"
-  },
   {
    "ticker": "UAMY",
    "company": "UNITED STATES ANTIMONY CORP",
@@ -4527,6 +4503,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "OPFI",
+   "company": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-10",
+   "shares": 3350.0,
+   "price": 7.5563,
+   "value": 25313.6,
+   "acc": "0000905148-26-004141",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "FGBI",
    "company": "First Guaranty Bancshares, Inc.",
    "insider": "WALKER ROBERT W",
@@ -4755,6 +4743,19 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "GREE",
+   "company": "Vulcan Infrastructure & Power Inc.",
+   "insider": "Rogers George Ted III",
+   "role": "Director",
+   "date": "2026-09-10",
+   "shares": 2923976.0,
+   "price": 1.71,
+   "value": 4999998.96,
+   "acc": "0001628280-26-061590",
+   "filed": "2026-09-11",
+   "placement": true
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4875,14 +4876,14 @@
    "total_value": 193236.0
   },
   {
-   "ticker": "GROV",
-   "insiders": 3,
-   "total_value": 172890.82
-  },
-  {
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 121843.8
+  },
+  {
+   "ticker": "GROV",
+   "insiders": 3,
+   "total_value": 116361.82
   },
   {
    "ticker": "FGBI",
@@ -4906,12 +4907,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026837",
-  "0001918704-26-026838",
-  "0001918704-26-026839",
-  "0001918704-26-026840",
-  "0001918704-26-026841",
-  "0001918704-26-026842",
   "0001918704-26-026843",
   "0001918704-26-026844",
   "0001918704-26-026845",
@@ -5303,6 +5298,9 @@
   "0001918704-26-027330",
   "0001918704-26-027331",
   "0001918704-26-027332",
+  "0001918704-26-027334",
+  "0001918704-26-027335",
+  "0001918704-26-027336",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7388,6 +7386,8 @@
   "0002078265-26-000370",
   "0002078265-26-000373",
   "0002078265-26-000374",
+  "0002078265-26-000375",
+  "0002078265-26-000376",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
@@ -7901,6 +7901,7 @@
   "0002151232-26-000002",
   "0002151421-26-000004",
   "0002151661-26-000004",
+  "0002152188-26-000005",
   "0002152432-26-000004",
   "0002152870-26-000010",
   "0002153832-26-000007",
