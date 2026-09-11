@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-11 20:42 UTC",
+ "updated_utc": "2026-09-11 20:58 UTC",
  "purchases": [
-  {
-   "ticker": "PLSE",
-   "company": "PULSE BIOSCIENCES, INC.",
-   "insider": "Teplitsky Liane Rae",
-   "role": "Chief Operating Officer",
-   "date": "2026-09-01",
-   "shares": 1001.0,
-   "price": 49.95,
-   "value": 49999.95,
-   "acc": "0001437749-26-029545",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "FUSB",
-   "company": "FIRST US BANCSHARES, INC.",
-   "insider": "FIELD Robert C",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 3300.0,
-   "price": 16.39,
-   "value": 54087.0,
-   "acc": "0001193125-26-381287",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "UMBF",
    "company": "UMB FINANCIAL CORP",
@@ -4527,6 +4503,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "FUSB",
+   "company": "FIRST US BANCSHARES, INC.",
+   "insider": "FIELD Robert C",
+   "role": "Director",
+   "date": "2026-09-10",
+   "shares": 669.0,
+   "price": 16.46,
+   "value": 11011.74,
+   "acc": "0001193125-26-389372",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "ANIX",
    "company": "Anixa Biosciences Inc",
    "insider": "KUMAR AMIT",
@@ -4801,6 +4789,18 @@
    "value": 20375900.0,
    "acc": "0000921895-26-002531",
    "filed": "2026-09-10"
+  },
+  {
+   "ticker": "FUSB",
+   "company": "FIRST US BANCSHARES, INC.",
+   "insider": "FIELD Robert C",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 238.0,
+   "price": 16.45,
+   "value": 3915.1,
+   "acc": "0001193125-26-389372",
+   "filed": "2026-09-11"
   }
  ],
  "clusters": [
@@ -4906,9 +4906,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026832",
-  "0001918704-26-026833",
-  "0001918704-26-026834",
   "0001918704-26-026837",
   "0001918704-26-026838",
   "0001918704-26-026839",
@@ -5304,6 +5301,8 @@
   "0001918704-26-027322",
   "0001918704-26-027323",
   "0001918704-26-027330",
+  "0001918704-26-027331",
+  "0001918704-26-027332",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7388,6 +7387,7 @@
   "0002078265-26-000369",
   "0002078265-26-000370",
   "0002078265-26-000373",
+  "0002078265-26-000374",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
