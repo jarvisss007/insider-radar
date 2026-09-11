@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-11 17:11 UTC",
+ "updated_utc": "2026-09-11 17:42 UTC",
  "purchases": [
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "DE ANGOITIA ALFONSO",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 145490.0,
-   "price": 20.9999,
-   "value": 3055275.45,
-   "acc": "0001724519-26-000010",
-   "filed": "2026-09-05"
-  },
-  {
-   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
-   "company": "John Hancock GA Senior Loan Trust",
-   "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 1408071.2234,
-   "price": 16.33,
-   "value": 22993803.08,
-   "acc": "0001833683-26-000017",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "company": "John Hancock GA Senior Loan Trust",
@@ -4095,6 +4071,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Landesberg Stuart",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 2943.0,
+   "price": 1.0499,
+   "value": 3089.86,
+   "acc": "0001841761-26-000098",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "CLIK",
    "company": "Click Holdings Ltd.",
    "insider": "Chan Chun Sing",
@@ -4515,6 +4503,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Landesberg Stuart",
+   "role": "Director",
+   "date": "2026-09-10",
+   "shares": 1884.0,
+   "price": 1.0499,
+   "value": 1978.01,
+   "acc": "0001841761-26-000098",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4805,11 +4805,6 @@
  ],
  "clusters": [
   {
-   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
-   "insiders": 2,
-   "total_value": 66981948.1
-  },
-  {
    "ticker": "GME",
    "insiders": 4,
    "total_value": 21705931.6
@@ -4822,7 +4817,7 @@
   {
    "ticker": "LILA",
    "insiders": 2,
-   "total_value": 10568798.84
+   "total_value": 7513523.39
   },
   {
    "ticker": "CYBN",
@@ -4882,7 +4877,7 @@
   {
    "ticker": "GROV",
    "insiders": 3,
-   "total_value": 167822.95
+   "total_value": 172890.82
   },
   {
    "ticker": "OPAL",
@@ -4921,18 +4916,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026744",
-  "0001918704-26-026745",
-  "0001918704-26-026746",
-  "0001918704-26-026747",
-  "0001918704-26-026748",
-  "0001918704-26-026749",
-  "0001918704-26-026750",
-  "0001918704-26-026751",
-  "0001918704-26-026752",
-  "0001918704-26-026753",
-  "0001918704-26-026754",
-  "0001918704-26-026755",
   "0001918704-26-026756",
   "0001918704-26-026757",
   "0001918704-26-026758",
@@ -5344,6 +5327,16 @@
   "0001918704-26-027271",
   "0001918704-26-027272",
   "0001918704-26-027273",
+  "0001918704-26-027278",
+  "0001918704-26-027279",
+  "0001918704-26-027280",
+  "0001918704-26-027281",
+  "0001918704-26-027282",
+  "0001918704-26-027283",
+  "0001918704-26-027284",
+  "0001918704-26-027285",
+  "0001918704-26-027286",
+  "0001918704-26-027287",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6572,6 +6565,8 @@
   "0001999371-26-020391",
   "0001999371-26-020393",
   "0001999371-26-020395",
+  "0001999371-26-020403",
+  "0001999371-26-020407",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
