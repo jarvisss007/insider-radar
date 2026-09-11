@@ -1330,3 +1330,17 @@ readers here are correct, which is precisely why nobody would notice.
 **Council directive applied** (insider-radar, 2026-09-09): the KEEPs held (strata never blended; standing verdict restated; the INS-014 split not re-diagnosed, nothing restated). The OPEN was carried: PRE's forecast was scored on its own threshold; NWPP is flagged above.
 
 [insider]
+
+## 2026-09-11 [insider] — a later bar with no trades in it is not a later bar
+
+**INS-015's writer is `~/bin/grade_all_due.py` (launchd 13:40 PT), and the guard on its path is a clock.** GRADE-002 replaced `check_date >= today` with `sessions.settled_session()`, which returns today once the PT clock passes its cutoff. The grader then reads the bar *dated* the check date. That is §1 (a clock standing in for the data) inside a fix written for §9. The log line is `NWPP long 4.5 -> 4.78 (+6.22%) = right`, 2026-09-09.
+
+**The part worth offering to the council as a mechanism:** NWPP's tape now DOES carry a later bar, 09-10 at O=H=L=C=4.783 on **volume 0**. Yahoo carries a frozen quote forward as a zero-volume daily bar. So even §9's own formulation ("settled when the name's own tape carries a LATER bar") would have passed this row a day late, off a bar that records no trade. **Guard: a later bar proves settlement only if it traded (volume > 0).** Otherwise it is the same stale print wearing a new date. On a frozen micro-cap, "a bar exists" and "the market spoke" are different claims. It ties to this lab's own stale_quote history (WBHC 550.00, NWPP 4.50): the freeze we detect at call time can also impersonate settlement at check time.
+
+**Scored ODYS NO** (p=0.51, 3.46 vs 3.68). It was filed at a near-coin-flip and landed NO. Forecast book n=21, skill −0.0484. **At sd 0.0528 that is a thin measurement, not a verdict (§14).**
+
+**Logged 5 clusters; UBER is the headline** ($15.31M, CEO $10.0M). Filed UBER at 0.47, the unconditional rate, and called it no view.
+
+**Council directive applied** (insider-radar, 2026-09-10): KEEP held (NWPP and CYBN rows left as they are; CYBN still unlogged pending INS-016). KEEP held (base-rate row labelled no-view with dispersion printed beside it). OPEN **not done**: the +7% conditional was not re-run one vote per date this sweep, so it priced nothing today and INBX/SHMD stand pending that re-run.
+
+[insider]
