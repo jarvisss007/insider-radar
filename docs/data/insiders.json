@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-11 12:57 UTC",
+ "updated_utc": "2026-09-11 13:13 UTC",
  "purchases": [
-  {
-   "ticker": "BLNE",
-   "company": "Beeline Holdings, Inc.",
-   "insider": "Liuzza Nicholas Reyland JR",
-   "role": "Chief Executive Officer",
-   "date": "2026-08-31",
-   "shares": 245000.0,
-   "price": 0.9768,
-   "value": 239316.0,
-   "acc": "0001493152-26-040843",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks Jabbok",
-   "role": "Founder & CEO",
-   "date": "2026-08-31",
-   "shares": 15500.0,
-   "price": 17.46,
-   "value": 270630.0,
-   "acc": "0000950103-26-013377",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "VST",
-   "company": "Vistra Corp.",
-   "insider": "BURKE JAMES A",
-   "role": "President and CEO",
-   "date": "2026-08-31",
-   "shares": 2200.0,
-   "price": 135.99,
-   "value": 299178.0,
-   "acc": "0001268406-26-000009",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-08-31",
-   "shares": 5000.0,
-   "price": 68.235,
-   "value": 341175.0,
-   "acc": "0001493152-26-040895",
-   "filed": "2026-08-31"
-  },
-  {
-   "ticker": "CAVA",
-   "company": "CAVA GROUP, INC.",
-   "insider": "Thompson Douglas W.",
-   "role": "Chief Operations Officer",
-   "date": "2026-08-31",
-   "shares": 6500.0,
-   "price": 66.52,
-   "value": 432380.0,
-   "acc": "0001628280-26-060167",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "ASTS",
-   "company": "AST SpaceMobile, Inc.",
-   "insider": "Cisneros Adriana",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 8768.0,
-   "price": 57.0,
-   "value": 499776.0,
-   "acc": "0001104659-26-104326",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
@@ -4047,6 +3975,42 @@
    "filed": "2026-09-08"
   },
   {
+   "ticker": "CYBN",
+   "company": "CYBIN INC.",
+   "insider": "So Eric H. L.",
+   "role": "Executive Chair",
+   "date": "2026-09-08",
+   "shares": 100000.0,
+   "price": 12.3867,
+   "value": 1238670.0,
+   "acc": "0000912282-26-001261",
+   "filed": "2026-09-11"
+  },
+  {
+   "ticker": "CYBN",
+   "company": "CYBIN INC.",
+   "insider": "Glavine Paul",
+   "role": "Chief Growth Officer",
+   "date": "2026-09-08",
+   "shares": 100000.0,
+   "price": 12.4719,
+   "value": 1247190.0,
+   "acc": "0000912282-26-001264",
+   "filed": "2026-09-11"
+  },
+  {
+   "ticker": "CYBN",
+   "company": "CYBIN INC.",
+   "insider": "Glavine Paul",
+   "role": "Chief Growth Officer",
+   "date": "2026-09-08",
+   "shares": 100000.0,
+   "price": 12.4719,
+   "value": 1247190.0,
+   "acc": "0000912282-26-001263",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "ALMS",
    "company": "ALUMIS INC.",
    "insider": "AKKARAJU SRINIVAS",
@@ -4395,6 +4359,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-09",
+   "shares": 5143.0,
+   "price": 18.8881,
+   "value": 97141.5,
+   "acc": "0000935596-26-000025",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "OXM",
    "company": "OXFORD INDUSTRIES INC",
    "insider": "Chubb Thomas Caldecot III",
@@ -4417,6 +4393,18 @@
    "value": 159374.37,
    "acc": "0001193125-26-386771",
    "filed": "2026-09-09"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-09",
+   "shares": 8326.0,
+   "price": 19.278,
+   "value": 160508.63,
+   "acc": "0000935596-26-000025",
+   "filed": "2026-09-11"
   },
   {
    "ticker": "GME",
@@ -4719,6 +4707,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-10",
+   "shares": 10000.0,
+   "price": 19.1262,
+   "value": 191262.0,
+   "acc": "0000935596-26-000025",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "RLMD",
    "company": "RELMADA THERAPEUTICS, INC.",
    "insider": "Shenouda Maged",
@@ -4827,7 +4827,7 @@
   {
    "ticker": "CYBN",
    "insiders": 2,
-   "total_value": 4551332.0
+   "total_value": 8284382.0
   },
   {
    "ticker": "INBX",
@@ -4911,8 +4911,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026571",
-  "0001918704-26-026574",
   "0001918704-26-026577",
   "0001918704-26-026579",
   "0001918704-26-026587",
@@ -5360,6 +5358,7 @@
   "0001918704-26-027190",
   "0001918704-26-027197",
   "0001918704-26-027198",
+  "0001918704-26-027199",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6956,6 +6955,7 @@
   "0002041211-26-000014",
   "0002041258-26-000004",
   "0002041944-26-000005",
+  "0002041944-26-000006",
   "0002042007-26-000002",
   "0002042056-26-000008",
   "0002042056-26-000010",
