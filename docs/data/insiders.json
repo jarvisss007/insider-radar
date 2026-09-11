@@ -1,55 +1,6 @@
 {
- "updated_utc": "2026-09-10 23:23 UTC",
+ "updated_utc": "2026-09-11 00:09 UTC",
  "purchases": [
-  {
-   "ticker": "WIX",
-   "company": "Wix.com Ltd.",
-   "insider": "Shemesh Lior",
-   "role": "CFO",
-   "date": "2026-08-31",
-   "shares": 456.0,
-   "price": 59.89,
-   "value": 27309.84,
-   "acc": "0001628280-26-059982",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "WIX",
-   "company": "Wix.com Ltd.",
-   "insider": "Meyer Shelly B",
-   "role": "Chief People Officer",
-   "date": "2026-08-31",
-   "shares": 479.0,
-   "price": 59.89,
-   "value": 28687.31,
-   "acc": "0001628280-26-059988",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "WIX",
-   "company": "Wix.com Ltd.",
-   "insider": "Shai Omer",
-   "role": "CMO",
-   "date": "2026-08-31",
-   "shares": 490.0,
-   "price": 59.89,
-   "value": 29346.1,
-   "acc": "0001628280-26-059984",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "QNRX",
-   "company": "Quoin Pharmaceuticals, Ltd.",
-   "insider": "Culverwell Anthony James",
-   "role": "Director",
-   "date": "2026-08-31",
-   "shares": 6146.0,
-   "price": 4.88,
-   "value": 29992.48,
-   "acc": "0001104659-26-104402",
-   "filed": "2026-09-01",
-   "placement": true
-  },
   {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
@@ -4560,10 +4511,34 @@
    "insider": "Stein Deborah",
    "role": "Director",
    "date": "2026-09-09",
+   "shares": 200.0,
+   "price": 80.56,
+   "value": 16112.0,
+   "acc": "0001193125-26-388273",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "RBA",
+   "company": "RB GLOBAL INC.",
+   "insider": "Stein Deborah",
+   "role": "Director",
+   "date": "2026-09-09",
    "shares": 300.0,
    "price": 81.14,
    "value": 24342.0,
    "acc": "0001193125-26-388228",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "RBA",
+   "company": "RB GLOBAL INC.",
+   "insider": "Stein Deborah",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 300.0,
+   "price": 81.14,
+   "value": 24342.0,
+   "acc": "0001193125-26-388273",
    "filed": "2026-09-10"
   },
   {
@@ -4759,6 +4734,30 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "PRTS",
+   "company": "CarParts.com, Inc.",
+   "insider": "Huffaker Michael",
+   "role": "COO",
+   "date": "2026-09-10",
+   "shares": 13250.0,
+   "price": 10.06,
+   "value": 133295.0,
+   "acc": "0001140361-26-036239",
+   "filed": "2026-09-10"
+  },
+  {
+   "ticker": "PRTS",
+   "company": "CarParts.com, Inc.",
+   "insider": "Meniane David",
+   "role": "CEO",
+   "date": "2026-09-10",
+   "shares": 13250.0,
+   "price": 10.06,
+   "value": 133295.0,
+   "acc": "0001140361-26-036237",
+   "filed": "2026-09-10"
+  },
+  {
    "ticker": "CELH",
    "company": "Celsius Holdings, Inc.",
    "insider": "Fieldly John",
@@ -4841,7 +4840,7 @@
   {
    "ticker": "PRTS",
    "insiders": 2,
-   "total_value": 1497701.26
+   "total_value": 1764291.26
   },
   {
    "ticker": "GPUS",
@@ -4879,11 +4878,6 @@
    "total_value": 157200.0
   },
   {
-   "ticker": "WIX",
-   "insiders": 4,
-   "total_value": 124511.31
-  },
-  {
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 121843.8
@@ -4915,16 +4909,12 @@
   },
   {
    "ticker": "QNRX",
-   "insiders": 4,
+   "insiders": 3,
    "total_value": 0,
-   "other_value": 279965.6
+   "other_value": 249973.12
   }
  ],
  "seen": [
-  "0001918704-26-026545",
-  "0001918704-26-026546",
-  "0001918704-26-026547",
-  "0001918704-26-026548",
   "0001918704-26-026549",
   "0001918704-26-026552",
   "0001918704-26-026553",
@@ -5594,6 +5584,7 @@
   "0001959251-26-000004",
   "0001959402-26-000004",
   "0001959506-26-000006",
+  "0001959742-26-000003",
   "0001959770-26-000010",
   "0001960048-26-000009",
   "0001960048-26-000011",
@@ -7244,6 +7235,8 @@
   "0002070849-26-000052",
   "0002070849-26-000058",
   "0002070849-26-000062",
+  "0002070849-26-000066",
+  "0002070849-26-000067",
   "0002070858-26-000012",
   "0002071761-26-000009",
   "0002071761-26-000010",
@@ -7907,6 +7900,7 @@
   "0002149810-26-000004",
   "0002150055-26-000004",
   "0002150105-26-000006",
+  "0002150331-26-000002",
   "0002150387-26-000004",
   "0002150553-26-000005",
   "0002150553-26-000007",
