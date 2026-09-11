@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-11 20:25 UTC",
+ "updated_utc": "2026-09-11 20:42 UTC",
  "purchases": [
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-01",
-   "shares": 3550.0,
-   "price": 6.9133,
-   "value": 24542.22,
-   "acc": "0000905148-26-004066",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "GRNT",
-   "company": "Granite Ridge Resources, Inc.",
-   "insider": "MCCARTNEY JOHN",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 5000.0,
-   "price": 5.04,
-   "value": 25200.0,
-   "acc": "0001628280-26-060001",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "GRF",
-   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
-   "insider": "SIMS LUKE E",
-   "role": "President & CEO",
-   "date": "2026-09-01",
-   "shares": 2560.0,
-   "price": 9.9903,
-   "value": 25575.17,
-   "acc": "0002074050-26-000026",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "ALRS",
-   "company": "ALERUS FINANCIAL CORP",
-   "insider": "Bolton Jeffrey",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 1000.0,
-   "price": 32.45,
-   "value": 32450.0,
-   "acc": "0001437749-26-029458",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-09-01",
-   "shares": 3947.0,
-   "price": 10.51,
-   "value": 41482.97,
-   "acc": "0001104659-26-105085",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "PLSE",
    "company": "PULSE BIOSCIENCES, INC.",
@@ -3843,6 +3783,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL MARK CAMPBELL",
+   "role": "President and CEO",
+   "date": "2026-09-09",
+   "shares": 1600.0,
+   "price": 5.16,
+   "value": 8256.0,
+   "acc": "0001628873-26-000095",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
    "insider": "Baker Jeffery C",
@@ -3853,6 +3805,18 @@
    "value": 9564.0,
    "acc": "0001917933-26-000002",
    "filed": "2026-09-10"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL MARK CAMPBELL",
+   "role": "President and CEO",
+   "date": "2026-09-09",
+   "shares": 2058.0,
+   "price": 5.16,
+   "value": 10619.28,
+   "acc": "0001628873-26-000095",
+   "filed": "2026-09-11"
   },
   {
    "ticker": "GRCE",
@@ -3912,6 +3876,18 @@
    "price": 50.0,
    "value": 20000.0,
    "acc": "0001208109-26-000007",
+   "filed": "2026-09-11"
+  },
+  {
+   "ticker": "TYRA",
+   "company": "Tyra Biosciences, Inc.",
+   "insider": "Verjee Rehan",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 971.8943,
+   "price": 20.5784,
+   "value": 20000.03,
+   "acc": "0001193125-26-389333",
    "filed": "2026-09-11"
   },
   {
@@ -4287,6 +4263,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL MARK CAMPBELL",
+   "role": "President and CEO",
+   "date": "2026-09-10",
+   "shares": 50.0,
+   "price": 5.16,
+   "value": 258.0,
+   "acc": "0001628873-26-000095",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4320,6 +4308,18 @@
    "price": 1.18,
    "value": 1180.0,
    "acc": "0001493152-26-042298",
+   "filed": "2026-09-11"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "WINMILL MARK CAMPBELL",
+   "role": "President and CEO",
+   "date": "2026-09-10",
+   "shares": 292.0,
+   "price": 5.16,
+   "value": 1506.72,
+   "acc": "0001628873-26-000095",
    "filed": "2026-09-11"
   },
   {
@@ -4890,11 +4890,6 @@
    "total_value": 106492.5
   },
   {
-   "ticker": "GRNT",
-   "insiders": 2,
-   "total_value": 55500.0
-  },
-  {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 46463.28
@@ -4911,9 +4906,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026827",
-  "0001918704-26-026830",
-  "0001918704-26-026831",
   "0001918704-26-026832",
   "0001918704-26-026833",
   "0001918704-26-026834",
@@ -6757,6 +6749,7 @@
   "0002021854-26-000022",
   "0002021896-26-000008",
   "0002022050-26-000009",
+  "0002022060-26-000005",
   "0002022345-26-000002",
   "0002022345-26-000004",
   "0002022654-26-000004",
@@ -7394,6 +7387,7 @@
   "0002078265-26-000368",
   "0002078265-26-000369",
   "0002078265-26-000370",
+  "0002078265-26-000373",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
@@ -7592,6 +7586,7 @@
   "0002109337-26-000011",
   "0002109817-26-000012",
   "0002109966-26-000006",
+  "0002109966-26-000008",
   "0002110097-26-000002",
   "0002110304-26-000019",
   "0002110304-26-000021",
