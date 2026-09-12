@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-12 01:42 UTC",
+ "updated_utc": "2026-09-12 02:14 UTC",
  "purchases": [
-  {
-   "ticker": "TENX",
-   "company": "TENAX THERAPEUTICS, INC.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-09-01",
-   "shares": 179058.0,
-   "price": 1.7959,
-   "value": 321570.26,
-   "acc": "0001940272-26-000019",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "DE ANGOITIA ALFONSO",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 17596.0,
-   "price": 20.649,
-   "value": 363339.8,
-   "acc": "0001724519-26-000010",
-   "filed": "2026-09-05"
-  },
-  {
-   "ticker": "DFIN",
-   "company": "Donnelley Financial Solutions, Inc.",
-   "insider": "BINZ JOSEPH LEO",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 10000.0,
-   "price": 48.5245,
-   "value": 485245.0,
-   "acc": "0001193125-26-382162",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -3495,6 +3459,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-09",
+   "shares": 5500.0,
+   "price": 0.1887,
+   "value": 1037.85,
+   "acc": "0001214659-26-011648",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "BRN",
    "company": "BARNWELL INDUSTRIES INC",
    "insider": "Patman Philip F Jr",
@@ -4299,6 +4275,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-10",
+   "shares": 22800.0,
+   "price": 0.1857,
+   "value": 4233.96,
+   "acc": "0001214659-26-011648",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "CLIK",
    "company": "Click Holdings Ltd.",
    "insider": "Chan Chun Sing",
@@ -4780,6 +4768,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-11",
+   "shares": 150000.0,
+   "price": 0.1892,
+   "value": 28380.0,
+   "acc": "0001214659-26-011648",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "GLOO",
    "company": "Gloo Holdings, Inc.",
    "insider": "GELSINGER PATRICK P",
@@ -4816,14 +4816,14 @@
    "total_value": 15314015.89
   },
   {
-   "ticker": "LILA",
-   "insiders": 2,
-   "total_value": 7513523.39
-  },
-  {
    "ticker": "CYBN",
    "insiders": 2,
    "total_value": 7241705.0
+  },
+  {
+   "ticker": "LILA",
+   "insiders": 2,
+   "total_value": 7150183.59
   },
   {
    "ticker": "INBX",
@@ -4843,7 +4843,7 @@
   {
    "ticker": "GPUS",
    "insiders": 3,
-   "total_value": 882893.14
+   "total_value": 916544.95
   },
   {
    "ticker": "LUCK",
