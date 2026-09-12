@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-11 23:19 UTC",
+ "updated_utc": "2026-09-12 00:06 UTC",
  "purchases": [
-  {
-   "ticker": "EVANSTON MULTI-ALPHA FUND (CIK 1589390)",
-   "company": "Evanston Multi-Alpha Fund",
-   "insider": "Spence John Yogi",
-   "role": "",
-   "date": "2026-09-01",
-   "shares": 10388.315,
-   "price": 9.6263,
-   "value": 100001.04,
-   "acc": "0001718133-26-000004",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "UAMY",
-   "company": "UNITED STATES ANTIMONY CORP",
-   "insider": "Carrabba Joseph A",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 21300.0,
-   "price": 4.72,
-   "value": 100536.0,
-   "acc": "0001104659-26-104378",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "BGDE",
    "company": "Big Digital Energy, Inc.",
@@ -3471,6 +3447,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "MGX",
+   "company": "Metagenomi Therapeutics, Inc.",
+   "insider": "Reid Laurence",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 117.0,
+   "price": 1.18,
+   "value": 138.06,
+   "acc": "0001193125-26-389550",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -3804,6 +3792,18 @@
    "price": 77.35,
    "value": 21251.28,
    "acc": "0001193125-26-388717",
+   "filed": "2026-09-11"
+  },
+  {
+   "ticker": "MGX",
+   "company": "Metagenomi Therapeutics, Inc.",
+   "insider": "Reid Laurence",
+   "role": "Director",
+   "date": "2026-09-09",
+   "shares": 19883.0,
+   "price": 1.17,
+   "value": 23263.11,
+   "acc": "0001193125-26-389550",
    "filed": "2026-09-11"
   },
   {
@@ -4902,8 +4902,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026862",
-  "0001918704-26-026863",
   "0001918704-26-026864",
   "0001918704-26-026865",
   "0001918704-26-026866",
@@ -5401,6 +5399,7 @@
   "0001938722-26-000015",
   "0001938722-26-000016",
   "0001938861-26-000019",
+  "0001938943-26-000010",
   "0001939343-26-000010",
   "0001939403-26-000002",
   "0001939403-26-000003",
@@ -7120,6 +7119,7 @@
   "0002063228-26-000013",
   "0002063228-26-000015",
   "0002063236-26-000012",
+  "0002063236-26-000014",
   "0002063597-26-000004",
   "0002063861-26-000008",
   "0002063881-26-000004",
