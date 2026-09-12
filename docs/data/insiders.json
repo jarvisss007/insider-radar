@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-12 01:09 UTC",
+ "updated_utc": "2026-09-12 01:42 UTC",
  "purchases": [
-  {
-   "ticker": "DY",
-   "company": "DYCOM INDUSTRIES INC",
-   "insider": "Fallon David Joseph",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 700.0,
-   "price": 286.92,
-   "value": 200844.0,
-   "acc": "0001349628-26-000004",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "DFIN",
-   "company": "Donnelley Financial Solutions, Inc.",
-   "insider": "BINZ JOSEPH LEO",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 5000.0,
-   "price": 47.75,
-   "value": 238750.0,
-   "acc": "0001193125-26-382162",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "TENX",
    "company": "TENAX THERAPEUTICS, INC.",
@@ -4780,6 +4756,30 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "FLD",
+   "company": "Fold Holdings, Inc.",
+   "insider": "Young Bracebridge H Jr",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 10000.0,
+   "price": 0.5433,
+   "value": 5433.0,
+   "acc": "0001193125-26-389597",
+   "filed": "2026-09-11"
+  },
+  {
+   "ticker": "FLD",
+   "company": "Fold Holdings, Inc.",
+   "insider": "Young Bracebridge H Jr",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 10000.0,
+   "price": 0.5616,
+   "value": 5616.0,
+   "acc": "0001193125-26-389597",
+   "filed": "2026-09-11"
+  },
+  {
    "ticker": "GLOO",
    "company": "Gloo Holdings, Inc.",
    "insider": "GELSINGER PATRICK P",
@@ -4849,11 +4849,6 @@
    "ticker": "LUCK",
    "insiders": 2,
    "total_value": 617267.6
-  },
-  {
-   "ticker": "DY",
-   "insiders": 2,
-   "total_value": 453090.0
   },
   {
    "ticker": "ENOV",
