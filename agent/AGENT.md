@@ -270,3 +270,12 @@ decomposition: reliability, resolution) from your own resolved forecasts.
 
 ## INS-014 — THE CALL PRICE IS THE CALL-DAY BAR (2026-09-05)
 When writing or scoring an insider call: price_at_call must come from the bar DATED the call date (pass `quote_date` to append_call — the writer now flags a mismatch). If today's bar is not out yet, never write yesterday's close as today's price: write the row with price_at_call EMPTY and `[QUEUED]`, and fill it from the next session's official open. The daily price audit (price_audit.py) fails on any entry outside its day's range.
+
+## Ticker aliases (INS-016, ruled by Anupam 2026-09-12)
+When a cluster's feed ticker returns no price series, look it up in `agent/ticker_aliases.csv`. Entries come ONLY from the SEC's
+own ticker map matched by CIK (https://www.sec.gov/files/company_tickers.json), never from a search engine's guess. If found:
+log the call under the SEC ticker, write `[alias: <feed> -> <sec>, SEC CIK <cik>]` in the thesis, apply the one-open-row rule to
+the SEC ticker, and take price_at_call from the SEC ticker's call-day bar (INS-014). If not found, the cluster goes to
+exclusions.csv with its reason (INS-007), exactly as before. First entry: CYBN -> HELP (Cybin Inc., CIK 1833141). Its cluster
+(2 insiders, $7.24M, filings 09-09 to 09-11) is logged at the next SESSION run, never on a weekend (SESSION-001).
+
