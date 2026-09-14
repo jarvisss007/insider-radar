@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-14 22:28 UTC",
+ "updated_utc": "2026-09-14 22:44 UTC",
  "purchases": [
-  {
-   "ticker": "AON",
-   "company": "Aon plc",
-   "insider": "KNIGHT LESTER B",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 7212.0,
-   "price": 327.52,
-   "value": 2362074.24,
-   "acc": "0001193125-26-382419",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -4590,6 +4578,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "FBDT",
+   "company": "First Breach, Inc.",
+   "insider": "LOW JORDAN ZACHARY",
+   "role": "Pres., COO",
+   "date": "2026-09-11",
+   "shares": 140000.0,
+   "price": 0.6726,
+   "value": 94164.0,
+   "acc": "0001213900-26-099824",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "SLGL",
    "company": "Sol-Gel Technologies Ltd.",
    "insider": "Opaleye Management Inc.",
@@ -4915,7 +4915,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027097",
   "0001918704-26-027098",
   "0001918704-26-027099",
   "0001918704-26-027100",
@@ -6668,6 +6667,7 @@
   "0002014386-26-000008",
   "0002014386-26-000010",
   "0002014386-26-000012",
+  "0002014386-26-000014",
   "0002014440-26-000010",
   "0002014440-26-000012",
   "0002014560-26-000008",
