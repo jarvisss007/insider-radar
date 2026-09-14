@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-14 13:43 UTC",
+ "updated_utc": "2026-09-14 13:58 UTC",
  "purchases": [
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-02",
-   "shares": 756.0,
-   "price": 2.95,
-   "value": 2230.2,
-   "acc": "0001437749-26-029569",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "MLCI",
    "company": "Mount Logan Capital Inc.",
@@ -4251,6 +4239,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "ANIX",
+   "company": "Anixa Biosciences Inc",
+   "insider": "KUMAR AMIT",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-10",
+   "shares": 3000.0,
+   "price": 2.75,
+   "value": 8250.0,
+   "acc": "0001493152-26-042512",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "WILLIAMSON JOHN B III",
@@ -4876,14 +4876,14 @@
    "total_value": 90547.75
   },
   {
+   "ticker": "ANIX",
+   "insiders": 2,
+   "total_value": 49350.0
+  },
+  {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 46463.28
-  },
-  {
-   "ticker": "ANIX",
-   "insiders": 2,
-   "total_value": 41100.0
   },
   {
    "ticker": "GROV",
@@ -4902,11 +4902,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026887",
-  "0001918704-26-026888",
-  "0001918704-26-026889",
-  "0001918704-26-026890",
-  "0001918704-26-026891",
   "0001918704-26-026892",
   "0001918704-26-026893",
   "0001918704-26-026894",
@@ -5270,6 +5265,11 @@
   "0001918704-26-027359",
   "0001918704-26-027360",
   "0001918704-26-027361",
+  "0001918704-26-027362",
+  "0001918704-26-027363",
+  "0001918704-26-027364",
+  "0001918704-26-027365",
+  "0001918704-26-027366",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
