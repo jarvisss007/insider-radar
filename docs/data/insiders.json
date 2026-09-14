@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-14 22:59 UTC",
+ "updated_utc": "2026-09-14 23:15 UTC",
  "purchases": [
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-09-03",
-   "shares": 790.0,
-   "price": 10.67,
-   "value": 8429.3,
-   "acc": "0001104659-26-105956",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "ARQ",
-   "company": "Arq, Inc.",
-   "insider": "Steinmetz Shimon",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-03",
-   "shares": 7500.0,
-   "price": 2.2178,
-   "value": 16633.5,
-   "acc": "0001515156-26-000125",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "ARQ",
-   "company": "Arq, Inc.",
-   "insider": "Steinmetz Shimon",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-03",
-   "shares": 8770.0,
-   "price": 2.2251,
-   "value": 19514.13,
-   "acc": "0001515156-26-000125",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "BJRI",
-   "company": "BJs RESTAURANTS INC",
-   "insider": "Richmond C Bradford",
-   "role": "Director",
-   "date": "2026-09-03",
-   "shares": 500.0,
-   "price": 59.5,
-   "value": 29750.0,
-   "acc": "0001193125-26-382168",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "OPAL",
    "company": "OPAL Fuels Inc.",
@@ -1970,6 +1922,18 @@
    "filed": "2026-09-09"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-08",
+   "shares": 80200.0,
+   "price": 0.189,
+   "value": 15157.8,
+   "acc": "0001214659-26-011678",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "Dunne Jeffrey R",
@@ -2688,6 +2652,18 @@
    "value": 1037.85,
    "acc": "0001214659-26-011648",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-09",
+   "shares": 5500.0,
+   "price": 0.1887,
+   "value": 1037.85,
+   "acc": "0001214659-26-011678",
+   "filed": "2026-09-14"
   },
   {
    "ticker": "BRN",
@@ -3638,6 +3614,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-10",
+   "shares": 22800.0,
+   "price": 0.1857,
+   "value": 4233.96,
+   "acc": "0001214659-26-011678",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "CLIK",
    "company": "Click Holdings Ltd.",
    "insider": "Chan Chun Sing",
@@ -4482,6 +4470,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-11",
+   "shares": 150000.0,
+   "price": 0.1892,
+   "value": 28380.0,
+   "acc": "0001214659-26-011678",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "BLNE",
    "company": "Beeline Holdings, Inc.",
    "insider": "Liuzza Nicholas Reyland JR",
@@ -4840,7 +4840,7 @@
   {
    "ticker": "GPUS",
    "insiders": 3,
-   "total_value": 882321.63
+   "total_value": 931131.24
   },
   {
    "ticker": "BWFG",
@@ -4915,7 +4915,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027100",
   "0001918704-26-027101",
   "0001918704-26-027102",
   "0001918704-26-027111",
@@ -6681,6 +6680,7 @@
   "0002015224-26-000007",
   "0002015287-26-000015",
   "0002015287-26-000017",
+  "0002015287-26-000020",
   "0002015472-26-000004",
   "0002015584-26-000008",
   "0002015793-26-000012",
