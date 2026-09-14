@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-14 17:23 UTC",
+ "updated_utc": "2026-09-14 17:55 UTC",
  "purchases": [
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-09-02",
-   "shares": 2289.0,
-   "price": 10.63,
-   "value": 24332.07,
-   "acc": "0001104659-26-105085",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "TRST",
-   "company": "TRUSTCO BANK CORP N Y",
-   "insider": "McCormick Lauren Ann",
-   "role": "VP,Treasurer, Asst. Corp. Sec.",
-   "date": "2026-09-02",
-   "shares": 436.0,
-   "price": 57.34,
-   "value": 25000.24,
-   "acc": "0001140361-26-035560",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-09-02",
-   "shares": 4000.0,
-   "price": 6.29,
-   "value": 25160.0,
-   "acc": "0000912282-26-001201",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-02",
-   "shares": 3550.0,
-   "price": 7.1485,
-   "value": 25377.17,
-   "acc": "0000905148-26-004076",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "BJRI",
-   "company": "BJs RESTAURANTS INC",
-   "insider": "Richmond C Bradford",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 500.0,
-   "price": 61.05,
-   "value": 30525.0,
-   "acc": "0001193125-26-380660",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "AMRZ",
-   "company": "Amrize Ltd",
-   "insider": "Jenisch Jan Philipp",
-   "role": "Chairman & CEO",
-   "date": "2026-09-02",
-   "shares": 1000.0,
-   "price": 42.44,
-   "value": 42440.0,
-   "acc": "0002035989-26-000078",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "ENOV",
    "company": "Enovis CORP",
@@ -3903,6 +3831,54 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "BDCO",
+   "company": "BLUE DOLPHIN ENERGY CO",
+   "insider": "McDougall William Christopher",
+   "role": "",
+   "date": "2026-09-10",
+   "shares": 100.0,
+   "price": 12.0,
+   "value": 1200.0,
+   "acc": "0001437749-26-030276",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "BDCO",
+   "company": "BLUE DOLPHIN ENERGY CO",
+   "insider": "McDougall William Christopher",
+   "role": "",
+   "date": "2026-09-10",
+   "shares": 100.0,
+   "price": 12.59,
+   "value": 1259.0,
+   "acc": "0001437749-26-030276",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "BDCO",
+   "company": "BLUE DOLPHIN ENERGY CO",
+   "insider": "McDougall William Christopher",
+   "role": "",
+   "date": "2026-09-10",
+   "shares": 100.0,
+   "price": 12.6,
+   "value": 1260.0,
+   "acc": "0001437749-26-030276",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "BDCO",
+   "company": "BLUE DOLPHIN ENERGY CO",
+   "insider": "McDougall William Christopher",
+   "role": "",
+   "date": "2026-09-10",
+   "shares": 100.0,
+   "price": 13.15,
+   "value": 1315.0,
+   "acc": "0001437749-26-030276",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "WINMILL MARK CAMPBELL",
@@ -3985,6 +3961,30 @@
    "value": 2222.64,
    "acc": "0001437749-26-030136",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "BDCO",
+   "company": "BLUE DOLPHIN ENERGY CO",
+   "insider": "McDougall William Christopher",
+   "role": "",
+   "date": "2026-09-10",
+   "shares": 200.0,
+   "price": 12.55,
+   "value": 2510.0,
+   "acc": "0001437749-26-030276",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "BDCO",
+   "company": "BLUE DOLPHIN ENERGY CO",
+   "insider": "McDougall William Christopher",
+   "role": "",
+   "date": "2026-09-10",
+   "shares": 200.0,
+   "price": 13.65,
+   "value": 2730.0,
+   "acc": "0001437749-26-030276",
+   "filed": "2026-09-14"
   },
   {
    "ticker": "LUCK",
@@ -4902,10 +4902,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026959",
-  "0001918704-26-026960",
-  "0001918704-26-026961",
-  "0001918704-26-026962",
   "0001918704-26-026963",
   "0001918704-26-026964",
   "0001918704-26-026965",
@@ -5267,6 +5263,10 @@
   "0001918704-26-027436",
   "0001918704-26-027437",
   "0001918704-26-027438",
+  "0001918704-26-027439",
+  "0001918704-26-027440",
+  "0001918704-26-027441",
+  "0001918704-26-027442",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
