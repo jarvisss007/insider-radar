@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-14 10:04 UTC",
+ "updated_utc": "2026-09-14 11:38 UTC",
  "purchases": [
-  {
-   "ticker": "VST",
-   "company": "Vistra Corp.",
-   "insider": "BURKE JAMES A",
-   "role": "President and CEO",
-   "date": "2026-09-01",
-   "shares": 4465.0,
-   "price": 135.25,
-   "value": 603891.25,
-   "acc": "0001268406-26-000009",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "LUCK",
-   "company": "Lucky Strike Entertainment Corp",
-   "insider": "Young John Alan",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 1000.0,
-   "price": 614.0,
-   "value": 614000.0,
-   "acc": "0001628280-26-059899",
-   "filed": "2026-09-01"
-  },
-  {
-   "ticker": "HONA",
-   "company": "Honeywell Aerospace Inc.",
-   "insider": "ARNOLD CRAIG",
-   "role": "Director",
-   "date": "2026-09-01",
-   "shares": 6400.0,
-   "price": 156.0,
-   "value": 998400.0,
-   "acc": "0001628280-26-060444",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "DXYZ",
    "company": "Destiny Tech100 Inc.",
@@ -3807,6 +3771,30 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "ALP",
+   "company": "Alpha Compute Corp",
+   "insider": "Villani Fiorenzo",
+   "role": "See Remarks",
+   "date": "2026-09-09",
+   "shares": 7000.0,
+   "price": 5.065,
+   "value": 35455.0,
+   "acc": "0001171843-26-006026",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "ALP",
+   "company": "Alpha Compute Corp",
+   "insider": "Kaiser Brittany",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-09",
+   "shares": 9350.0,
+   "price": 5.3473,
+   "value": 49997.25,
+   "acc": "0001171843-26-006025",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "LTRX",
    "company": "LANTRONIX INC",
    "insider": "Awsare Saleel",
@@ -4756,6 +4744,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "SKYH",
+   "company": "Sky Harbour Group Corp",
+   "insider": "Gonzalez Francisco",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-11",
+   "shares": 1000.0,
+   "price": 10.08,
+   "value": 10080.0,
+   "acc": "0001437749-26-030226",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4841,11 +4841,6 @@
    "total_value": 916544.95
   },
   {
-   "ticker": "LUCK",
-   "insiders": 2,
-   "total_value": 617267.6
-  },
-  {
    "ticker": "ENOV",
    "insiders": 2,
    "total_value": 449599.21
@@ -4871,6 +4866,11 @@
    "total_value": 106492.5
   },
   {
+   "ticker": "ALP",
+   "insiders": 3,
+   "total_value": 90547.75
+  },
+  {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 46463.28
@@ -4892,8 +4892,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026867",
-  "0001918704-26-026868",
   "0001918704-26-026869",
   "0001918704-26-026870",
   "0001918704-26-026871",
@@ -5672,6 +5670,7 @@
   "0001976408-26-000815",
   "0001976408-26-000816",
   "0001976408-26-000817",
+  "0001976408-26-000836",
   "0001976540-26-000008",
   "0001976672-26-000057",
   "0001976672-26-000059",
@@ -6514,6 +6513,7 @@
   "0001999371-26-020438",
   "0001999371-26-020439",
   "0001999371-26-020440",
+  "0001999371-26-020450",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
