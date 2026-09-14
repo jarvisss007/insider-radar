@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-14 11:38 UTC",
+ "updated_utc": "2026-09-14 12:09 UTC",
  "purchases": [
-  {
-   "ticker": "DXYZ",
-   "company": "Destiny Tech100 Inc.",
-   "insider": "Prasad Sohail",
-   "role": "President and CEO",
-   "date": "2026-09-01",
-   "shares": 33000.0,
-   "price": 31.4,
-   "value": 1036200.0,
-   "acc": "0000945621-26-001118",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "CYBN",
-   "company": "CYBIN INC.",
-   "insider": "So Eric H. L.",
-   "role": "Executive Chair",
-   "date": "2026-09-01",
-   "shares": 95000.0,
-   "price": 11.805,
-   "value": 1121475.0,
-   "acc": "0000912282-26-001254",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-09-01",
-   "shares": 175000.0,
-   "price": 10.44,
-   "value": 1827000.0,
-   "acc": "0001140361-26-035501",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
-   "company": "Privacore VPC Asset Backed Credit Fund",
-   "insider": "Corbin Capital Partners, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-01",
-   "shares": 246305.419,
-   "price": 10.15,
-   "value": 2500000.0,
-   "acc": "0000895345-26-000394",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "MDRR",
-   "company": "Medalist Diversified, Inc.",
-   "insider": "Winn Charles Brent Jr.",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-09-02",
-   "shares": 2.0,
-   "price": 12.0,
-   "value": 24.0,
-   "acc": "0001808471-26-000021",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "PLMR",
    "company": "Palomar Holdings, Inc.",
@@ -4335,6 +4275,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Meltzer Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-10",
+   "shares": 10000.0,
+   "price": 0.78,
+   "value": 7800.0,
+   "acc": "0001213900-26-099455",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "JOHNSTON ROBERT B",
@@ -4489,6 +4441,30 @@
    "value": 100000.0,
    "acc": "0001840485-26-000006",
    "filed": "2026-09-10"
+  },
+  {
+   "ticker": "DOMH",
+   "company": "Dominari Holdings Inc.",
+   "insider": "Hayes Anthony",
+   "role": "CEO",
+   "date": "2026-09-10",
+   "shares": 50000.0,
+   "price": 2.0211,
+   "value": 101055.0,
+   "acc": "0001213900-26-099457",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "DOMH",
+   "company": "Dominari Holdings Inc.",
+   "insider": "Wool Kyle Michael",
+   "role": "President",
+   "date": "2026-09-10",
+   "shares": 50000.0,
+   "price": 2.0211,
+   "value": 101055.0,
+   "acc": "0001213900-26-099456",
+   "filed": "2026-09-14"
   },
   {
    "ticker": "AFCG",
@@ -4768,6 +4744,30 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "DOMH",
+   "company": "Dominari Holdings Inc.",
+   "insider": "Hayes Anthony",
+   "role": "CEO",
+   "date": "2026-09-11",
+   "shares": 50000.0,
+   "price": 2.1627,
+   "value": 108135.0,
+   "acc": "0001213900-26-099457",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "DOMH",
+   "company": "Dominari Holdings Inc.",
+   "insider": "Wool Kyle Michael",
+   "role": "President",
+   "date": "2026-09-11",
+   "shares": 50000.0,
+   "price": 2.1627,
+   "value": 108135.0,
+   "acc": "0001213900-26-099456",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "NTHI",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
    "insider": "Heshmatpour Amir F",
@@ -4818,7 +4818,7 @@
   {
    "ticker": "CYBN",
    "insiders": 2,
-   "total_value": 7241705.0
+   "total_value": 6120230.0
   },
   {
    "ticker": "INBX",
@@ -4849,6 +4849,11 @@
    "ticker": "BWFG",
    "insiders": 5,
    "total_value": 435320.54
+  },
+  {
+   "ticker": "DOMH",
+   "insiders": 2,
+   "total_value": 418380.0
   },
   {
    "ticker": "KMT",
