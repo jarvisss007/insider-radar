@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-14 09:48 UTC",
+ "updated_utc": "2026-09-14 10:04 UTC",
  "purchases": [
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-09-01",
-   "shares": 69454.0,
-   "price": 8.4993,
-   "value": 590310.38,
-   "acc": "0000937797-26-000027",
-   "filed": "2026-09-01"
-  },
   {
    "ticker": "VST",
    "company": "Vistra Corp.",
@@ -4780,6 +4768,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "Heshmatpour Amir F",
+   "role": "CEO, President",
+   "date": "2026-09-11",
+   "shares": 37000.0,
+   "price": 3.6654,
+   "value": 135619.8,
+   "acc": "0001213900-26-099422",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "GLOO",
    "company": "Gloo Holdings, Inc.",
    "insider": "GELSINGER PATRICK P",
@@ -4819,11 +4819,6 @@
    "ticker": "CYBN",
    "insiders": 2,
    "total_value": 7241705.0
-  },
-  {
-   "ticker": "LILA",
-   "insiders": 2,
-   "total_value": 7150183.59
   },
   {
    "ticker": "INBX",
@@ -4897,9 +4892,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026864",
-  "0001918704-26-026865",
-  "0001918704-26-026866",
   "0001918704-26-026867",
   "0001918704-26-026868",
   "0001918704-26-026869",
@@ -6519,6 +6511,9 @@
   "0001999371-26-020395",
   "0001999371-26-020403",
   "0001999371-26-020407",
+  "0001999371-26-020438",
+  "0001999371-26-020439",
+  "0001999371-26-020440",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
