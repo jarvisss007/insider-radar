@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-14 15:26 UTC",
+ "updated_utc": "2026-09-14 15:48 UTC",
  "purchases": [
-  {
-   "ticker": "BRID",
-   "company": "BRIDGFORD FOODS CORP",
-   "insider": "Bridgford Allan Jr.",
-   "role": "",
-   "date": "2026-09-02",
-   "shares": 914.0,
-   "price": 6.15,
-   "value": 5621.1,
-   "acc": "0001493152-26-041332",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "APCX",
-   "company": "AppTech Payments Corp.",
-   "insider": "LORD ALBERT L",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 20000.0,
-   "price": 0.3583,
-   "value": 7166.0,
-   "acc": "0001683168-26-006934",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "CFND",
-   "company": "C1 Fund Inc.",
-   "insider": "Kidwai Najamul Hasan",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-02",
-   "shares": 2850.0,
-   "price": 2.81,
-   "value": 8008.5,
-   "acc": "0001104659-26-104986",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "SDHC",
-   "company": "Smith Douglas Homes Corp.",
-   "insider": "Bennett Gregory S",
-   "role": "See Remarks",
-   "date": "2026-09-02",
-   "shares": 1000.0,
-   "price": 11.5,
-   "value": 11500.0,
-   "acc": "0001628280-26-060445",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
@@ -3975,6 +3927,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "CCFN",
+   "company": "MUNCY COLUMBIA FINANCIAL Corp",
+   "insider": "Glunk Robert J",
+   "role": "Director",
+   "date": "2026-09-10",
+   "shares": 40.0,
+   "price": 28.9,
+   "value": 1156.0,
+   "acc": "0001174947-26-000869",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "CLIK",
    "company": "Click Holdings Ltd.",
    "insider": "Chan Chun Sing",
@@ -4696,6 +4660,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "ASRV",
+   "company": "AMERISERV FINANCIAL INC /PA/",
+   "insider": "STOPKO JEFFREY A",
+   "role": "President & CEO ASRV & Bank",
+   "date": "2026-09-11",
+   "shares": 2000.0,
+   "price": 4.94,
+   "value": 9880.0,
+   "acc": "0000707605-26-000062",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "SKYH",
    "company": "Sky Harbour Group Corp",
    "insider": "Gonzalez Francisco",
@@ -4718,6 +4694,18 @@
    "value": 28380.0,
    "acc": "0001214659-26-011648",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "GRNT",
+   "company": "Granite Ridge Resources, Inc.",
+   "insider": "Miller Matthew Reade",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 10000.0,
+   "price": 5.03,
+   "value": 50300.0,
+   "acc": "0001628280-26-061771",
+   "filed": "2026-09-14"
   },
   {
    "ticker": "DOMH",
@@ -4790,6 +4778,18 @@
    "value": 1000001.02,
    "acc": "0001123292-26-001286",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "IRIX",
+   "company": "IRIDEX CORP",
+   "insider": "Dizon Romeo R",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-14",
+   "shares": 2354.0,
+   "price": 0.65,
+   "value": 1530.1,
+   "acc": "0001193125-26-390061",
+   "filed": "2026-09-14"
   },
   {
    "ticker": "FINS",
@@ -4876,6 +4876,11 @@
    "total_value": 90547.75
   },
   {
+   "ticker": "GRNT",
+   "insiders": 2,
+   "total_value": 80600.0
+  },
+  {
    "ticker": "ANIX",
    "insiders": 2,
    "total_value": 49350.0
@@ -4902,8 +4907,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026938",
-  "0001918704-26-026939",
   "0001918704-26-026940",
   "0001918704-26-026941",
   "0001918704-26-026942",
@@ -5269,6 +5272,8 @@
   "0001918704-26-027413",
   "0001918704-26-027414",
   "0001918704-26-027415",
+  "0001918704-26-027418",
+  "0001918704-26-027419",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
