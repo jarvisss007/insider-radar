@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-14 14:45 UTC",
+ "updated_utc": "2026-09-14 15:01 UTC",
  "purchases": [
-  {
-   "ticker": "FUSB",
-   "company": "FIRST US BANCSHARES, INC.",
-   "insider": "FIELD Robert C",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 288.0,
-   "price": 16.4,
-   "value": 4723.2,
-   "acc": "0001193125-26-381287",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "HKHC",
-   "company": "Horizon Kinetics Holding Corp",
-   "insider": "Brennan Alice C",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 200.0,
-   "price": 25.92,
-   "value": 5184.0,
-   "acc": "0001437749-26-029558",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "BRID",
    "company": "BRIDGFORD FOODS CORP",
@@ -4636,6 +4612,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 1.0,
+   "price": 367.88,
+   "value": 367.88,
+   "acc": "0001437749-26-030248",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "NNUP",
    "company": "NOCOPI TECHNOLOGIES INC/MD/",
    "insider": "Sites Eric",
@@ -4646,6 +4634,18 @@
    "value": 900.0,
    "acc": "0001079973-26-001251",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 756.0,
+   "price": 2.98,
+   "value": 2252.88,
+   "acc": "0001437749-26-030247",
+   "filed": "2026-09-14"
   },
   {
    "ticker": "GRX",
@@ -4902,11 +4902,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026922",
-  "0001918704-26-026923",
-  "0001918704-26-026924",
-  "0001918704-26-026925",
-  "0001918704-26-026926",
   "0001918704-26-026927",
   "0001918704-26-026928",
   "0001918704-26-026929",
@@ -5270,6 +5265,11 @@
   "0001918704-26-027398",
   "0001918704-26-027399",
   "0001918704-26-027400",
+  "0001918704-26-027401",
+  "0001918704-26-027402",
+  "0001918704-26-027403",
+  "0001918704-26-027404",
+  "0001918704-26-027405",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
