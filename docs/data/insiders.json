@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-14 20:36 UTC",
+ "updated_utc": "2026-09-14 20:52 UTC",
  "purchases": [
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-02",
-   "shares": 10000.0,
-   "price": 19.4334,
-   "value": 194334.0,
-   "acc": "0000935596-26-000023",
-   "filed": "2026-09-04"
-  },
-  {
-   "ticker": "PRTA",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "insider": "SCULLY WILLIAM P",
-   "role": "10% owner",
-   "date": "2026-09-02",
-   "shares": 27000.0,
-   "price": 9.4718,
-   "value": 255738.6,
-   "acc": "0001045463-26-000015",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "DFIN",
-   "company": "Donnelley Financial Solutions, Inc.",
-   "insider": "BINZ JOSEPH LEO",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 5780.0,
-   "price": 47.75,
-   "value": 275995.0,
-   "acc": "0001193125-26-382162",
-   "filed": "2026-09-03"
-  },
-  {
-   "ticker": "TENX",
-   "company": "TENAX THERAPEUTICS, INC.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-09-02",
-   "shares": 187704.0,
-   "price": 1.7985,
-   "value": 337585.64,
-   "acc": "0001940272-26-000019",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "DXYZ",
-   "company": "Destiny Tech100 Inc.",
-   "insider": "Prasad Sohail",
-   "role": "President and CEO",
-   "date": "2026-09-02",
-   "shares": 13240.0,
-   "price": 31.53,
-   "value": 417457.2,
-   "acc": "0000945621-26-001118",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "AMRZ",
-   "company": "Amrize Ltd",
-   "insider": "Jenisch Jan Philipp",
-   "role": "Chairman & CEO",
-   "date": "2026-09-02",
-   "shares": 10000.0,
-   "price": 42.37,
-   "value": 423700.0,
-   "acc": "0002035989-26-000078",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "AON",
    "company": "Aon plc",
@@ -4214,6 +4142,45 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "GREE",
+   "company": "Vulcan Infrastructure & Power Inc.",
+   "insider": "Kovler Jordan",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-10",
+   "shares": 58479.0,
+   "price": 1.71,
+   "value": 99999.09,
+   "acc": "0001628280-26-061880",
+   "filed": "2026-09-14",
+   "placement": true
+  },
+  {
+   "ticker": "GREE",
+   "company": "Vulcan Infrastructure & Power Inc.",
+   "insider": "Mulvihill Christian",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-10",
+   "shares": 58479.0,
+   "price": 1.71,
+   "value": 99999.09,
+   "acc": "0001628280-26-061879",
+   "filed": "2026-09-14",
+   "placement": true
+  },
+  {
+   "ticker": "GREE",
+   "company": "Vulcan Infrastructure & Power Inc.",
+   "insider": "Irwin Dale",
+   "role": "President",
+   "date": "2026-09-10",
+   "shares": 58479.0,
+   "price": 1.71,
+   "value": 99999.09,
+   "acc": "0001628280-26-061878",
+   "filed": "2026-09-14",
+   "placement": true
+  },
+  {
    "ticker": "GME",
    "company": "GameStop Corp.",
    "insider": "Attal Alain",
@@ -4515,6 +4482,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 492.0,
+   "price": 3.9358,
+   "value": 1936.41,
+   "acc": "0001628280-26-061865",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4767,6 +4746,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 730.0,
+   "price": 3.8423,
+   "value": 2804.88,
+   "acc": "0001628280-26-061865",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "FINS",
    "company": "Angel Oak Financial Strategies Income Term Trust",
    "insider": "Parks Kevin",
@@ -4800,6 +4791,18 @@
    "price": 25.42,
    "value": 25420.0,
    "acc": "0001317945-26-000010",
+   "filed": "2026-09-14"
+  },
+  {
+   "ticker": "ALTO",
+   "company": "Alto Ingredients, Inc.",
+   "insider": "NATHAN GILBERT E",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 10000.0,
+   "price": 3.9299,
+   "value": 39299.0,
+   "acc": "0001213900-26-099752",
    "filed": "2026-09-14"
   }
  ],
@@ -4903,22 +4906,15 @@
    "ticker": "CZNC",
    "insiders": 2,
    "total_value": 4866.91
+  },
+  {
+   "ticker": "GREE",
+   "insiders": 4,
+   "total_value": 0,
+   "other_value": 5299996.23
   }
  ],
  "seen": [
-  "0001918704-26-027019",
-  "0001918704-26-027020",
-  "0001918704-26-027021",
-  "0001918704-26-027022",
-  "0001918704-26-027023",
-  "0001918704-26-027024",
-  "0001918704-26-027025",
-  "0001918704-26-027026",
-  "0001918704-26-027027",
-  "0001918704-26-027028",
-  "0001918704-26-027036",
-  "0001918704-26-027068",
-  "0001918704-26-027069",
   "0001918704-26-027070",
   "0001918704-26-027071",
   "0001918704-26-027072",
@@ -5258,6 +5254,19 @@
   "0001918704-26-027481",
   "0001918704-26-027492",
   "0001918704-26-027493",
+  "0001918704-26-027497",
+  "0001918704-26-027498",
+  "0001918704-26-027499",
+  "0001918704-26-027500",
+  "0001918704-26-027501",
+  "0001918704-26-027502",
+  "0001918704-26-027503",
+  "0001918704-26-027504",
+  "0001918704-26-027505",
+  "0001918704-26-027506",
+  "0001918704-26-027507",
+  "0001918704-26-027508",
+  "0001918704-26-027509",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
