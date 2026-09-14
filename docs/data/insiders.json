@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-14 16:04 UTC",
+ "updated_utc": "2026-09-14 16:19 UTC",
  "purchases": [
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 15200.0,
-   "price": 1.0761,
-   "value": 16356.72,
-   "acc": "0001841761-26-000092",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-09-02",
-   "shares": 5387.0,
-   "price": 3.2462,
-   "value": 17487.28,
-   "acc": "0001539497-26-002446",
-   "filed": "2026-09-02"
-  },
-  {
-   "ticker": "YQ",
-   "company": "17 Education & Technology Group Inc.",
-   "insider": "Liu Chang",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-02",
-   "shares": 9055.0,
-   "price": 2.1887,
-   "value": 19818.68,
-   "acc": "0001193125-26-380960",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -3507,6 +3471,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "BLNE",
+   "company": "Beeline Holdings, Inc.",
+   "insider": "Liuzza Nicholas Reyland JR",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-09",
+   "shares": 22500.0,
+   "price": 1.0419,
+   "value": 23442.75,
+   "acc": "0001493152-26-042528",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "RBA",
    "company": "RB GLOBAL INC.",
    "insider": "Stein Deborah",
@@ -4335,6 +4311,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "BLNE",
+   "company": "Beeline Holdings, Inc.",
+   "insider": "Liuzza Nicholas Reyland JR",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-10",
+   "shares": 93200.0,
+   "price": 1.011,
+   "value": 94225.2,
+   "acc": "0001493152-26-042528",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "GME",
    "company": "GameStop Corp.",
    "insider": "Attal Alain",
@@ -4696,6 +4684,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "BLNE",
+   "company": "Beeline Holdings, Inc.",
+   "insider": "Liuzza Nicholas Reyland JR",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-11",
+   "shares": 33190.0,
+   "price": 1.044,
+   "value": 34650.36,
+   "acc": "0001493152-26-042528",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "GRNT",
    "company": "Granite Ridge Resources, Inc.",
    "insider": "Miller Matthew Reade",
@@ -4891,11 +4891,6 @@
    "total_value": 46463.28
   },
   {
-   "ticker": "GROV",
-   "insiders": 2,
-   "total_value": 21672.82
-  },
-  {
    "ticker": "BRN",
    "insiders": 2,
    "total_value": 17392.09
@@ -4907,8 +4902,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026945",
-  "0001918704-26-026946",
   "0001918704-26-026947",
   "0001918704-26-026948",
   "0001918704-26-026949",
@@ -5274,6 +5267,8 @@
   "0001918704-26-027424",
   "0001918704-26-027425",
   "0001918704-26-027426",
+  "0001918704-26-027427",
+  "0001918704-26-027428",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
