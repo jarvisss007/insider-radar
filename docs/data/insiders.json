@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-14 19:47 UTC",
+ "updated_utc": "2026-09-14 20:03 UTC",
  "purchases": [
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-02",
-   "shares": 11600.0,
-   "price": 5.0085,
-   "value": 58098.6,
-   "acc": "0002109337-26-000011",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "AMRZ",
    "company": "Amrize Ltd",
@@ -4370,6 +4358,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "ECVT",
+   "company": "Ecovyst Inc.",
+   "insider": "Humble Patti A.",
+   "role": "Director",
+   "date": "2026-09-10",
+   "shares": 24875.0,
+   "price": 10.05,
+   "value": 249993.75,
+   "acc": "0001708035-26-000099",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "RLMD",
    "company": "RELMADA THERAPEUTICS, INC.",
    "insider": "Shenouda Maged",
@@ -4906,8 +4906,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-026991",
-  "0001918704-26-026992",
   "0001918704-26-026993",
   "0001918704-26-026994",
   "0001918704-26-026995",
@@ -5266,6 +5264,8 @@
   "0001918704-26-027464",
   "0001918704-26-027465",
   "0001918704-26-027466",
+  "0001918704-26-027467",
+  "0001918704-26-027468",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
