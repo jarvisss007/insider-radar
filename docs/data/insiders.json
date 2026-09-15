@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-15 00:49 UTC",
+ "updated_utc": "2026-09-15 01:20 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-03",
-   "shares": 756.0,
-   "price": 279.3403,
-   "value": 211181.27,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "TISI",
    "company": "TEAM INC",
@@ -4219,6 +4207,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "KDOZF",
+   "company": "KIDOZ INC.",
+   "insider": "Ben Tora Eldad",
+   "role": "Chief Strategy Officer",
+   "date": "2026-09-11",
+   "shares": 2500.0,
+   "price": 0.102,
+   "value": 255.0,
+   "acc": "0001801365-26-000006",
+   "filed": "2026-09-14"
+  },
+  {
    "ticker": "PPG",
    "company": "PPG INDUSTRIES INC",
    "insider": "Hefel Juliane M.",
@@ -4914,6 +4914,11 @@
    "total_value": 4866.91
   },
   {
+   "ticker": "KDOZF",
+   "insiders": 2,
+   "total_value": 1793.5
+  },
+  {
    "ticker": "GREE",
    "insiders": 4,
    "total_value": 0,
@@ -4921,7 +4926,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027118",
   "0001918704-26-027120",
   "0001918704-26-027121",
   "0001918704-26-027122",
@@ -5373,6 +5377,7 @@
   "0001938722-26-000015",
   "0001938722-26-000016",
   "0001938861-26-000019",
+  "0001938861-26-000026",
   "0001938943-26-000010",
   "0001939343-26-000010",
   "0001939403-26-000002",
