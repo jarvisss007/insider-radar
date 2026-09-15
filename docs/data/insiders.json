@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-15 21:26 UTC",
+ "updated_utc": "2026-09-15 21:41 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 391.0,
-   "price": 291.3874,
-   "value": 113932.47,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
@@ -4351,6 +4339,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "VTSI",
+   "company": "VirTra, Inc",
+   "insider": "BARBER GRANT",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 1500.0,
+   "price": 2.95,
+   "value": 4425.0,
+   "acc": "0001437749-26-030484",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4951,7 +4951,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027377",
   "0001918704-26-027378",
   "0001918704-26-027379",
   "0001918704-26-027380",
@@ -6767,6 +6766,7 @@
   "0002025268-26-000006",
   "0002025289-26-000005",
   "0002025334-26-000010",
+  "0002025901-26-000007",
   "0002025977-26-000006",
   "0002026080-26-000004",
   "0002026373-26-000008",
