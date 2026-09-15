@@ -1,162 +1,6 @@
 {
- "updated_utc": "2026-09-15 20:54 UTC",
+ "updated_utc": "2026-09-15 21:10 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 79.0,
-   "price": 298.2151,
-   "value": 23558.99,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "NTST",
-   "company": "NETSTREIT Corp.",
-   "insider": "Donlan Daniel P",
-   "role": "CFO and Treasurer",
-   "date": "2026-09-04",
-   "shares": 1200.0,
-   "price": 20.12,
-   "value": 24144.0,
-   "acc": "0001628280-26-060814",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GRNT",
-   "company": "Granite Ridge Resources, Inc.",
-   "insider": "Kettler Ronald Kyle",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-04",
-   "shares": 6000.0,
-   "price": 5.05,
-   "value": 30300.0,
-   "acc": "0001628280-26-060851",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "EVLV",
-   "company": "Evolv Technologies Holdings, Inc.",
-   "insider": "Shapiro Richard A",
-   "role": "Director",
-   "date": "2026-09-04",
-   "shares": 6500.0,
-   "price": 4.95,
-   "value": 32175.0,
-   "acc": "0001648814-26-000004",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "CMTG",
-   "company": "Claros Mortgage Trust, Inc.",
-   "insider": "Mack Richard",
-   "role": "CEO AND CHAIRMAN",
-   "date": "2026-09-04",
-   "shares": 20603.0,
-   "price": 1.5901,
-   "value": 32760.83,
-   "acc": "0001193125-26-385306",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "ENHA",
-   "company": "Enhanced Group Inc.",
-   "insider": "Apeiron Investment Group Ltd.",
-   "role": "Director",
-   "date": "2026-09-04",
-   "shares": 21034.0,
-   "price": 1.6116,
-   "value": 33898.39,
-   "acc": "0001193125-26-386771",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-04",
-   "shares": 196800.0,
-   "price": 0.1926,
-   "value": 37903.68,
-   "acc": "0001214659-26-011476",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-04",
-   "shares": 196800.0,
-   "price": 0.1926,
-   "value": 37903.68,
-   "acc": "0001214659-26-011521",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "EVLV",
-   "company": "Evolv Technologies Holdings, Inc.",
-   "insider": "Shapiro Richard A",
-   "role": "Director",
-   "date": "2026-09-04",
-   "shares": 9000.0,
-   "price": 4.98,
-   "value": 44820.0,
-   "acc": "0001648814-26-000004",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 160.0,
-   "price": 293.1375,
-   "value": 46902.0,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 167.0,
-   "price": 284.8308,
-   "value": 47566.74,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "ENOV",
-   "company": "Enovis CORP",
-   "insider": "Engert Oliver",
-   "role": "Chief Administrative Officer",
-   "date": "2026-09-04",
-   "shares": 2660.0,
-   "price": 18.8,
-   "value": 50008.0,
-   "acc": "0001193125-26-385615",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 5473.0,
-   "price": 10.9,
-   "value": 59655.7,
-   "acc": "0001104659-26-105956",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "SLGL",
    "company": "Sol-Gel Technologies Ltd.",
@@ -3739,6 +3583,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 150.0,
+   "price": 6.66,
+   "value": 999.0,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "PPG",
    "company": "PPG INDUSTRIES INC",
    "insider": "Hefel Juliane M.",
@@ -3869,6 +3725,18 @@
    "value": 5616.0,
    "acc": "0001193125-26-389597",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 988.0,
+   "price": 6.3,
+   "value": 6224.4,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "CSPI",
@@ -4025,6 +3893,18 @@
    "value": 50300.0,
    "acc": "0001628280-26-061771",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 15000.0,
+   "price": 3.55,
+   "value": 53250.0,
+   "acc": "0001628280-26-062092",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "FBDT",
@@ -4327,6 +4207,78 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 152.0,
+   "price": 6.42,
+   "value": 975.84,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 152.0,
+   "price": 6.43,
+   "value": 977.36,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 152.0,
+   "price": 6.5081,
+   "value": 989.23,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 153.0,
+   "price": 6.4687,
+   "value": 989.71,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 151.0,
+   "price": 6.5549,
+   "value": 989.79,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 152.0,
+   "price": 6.5499,
+   "value": 995.58,
+   "acc": "0000912282-26-001271",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "AIM",
    "company": "AIM ImmunoTech Inc.",
    "insider": "Equels Thomas K",
@@ -4399,6 +4351,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 200.0,
+   "price": 21.35,
+   "value": 4270.0,
+   "acc": "0001437749-26-030464",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4420,6 +4384,30 @@
    "price": 0.562,
    "value": 5620.0,
    "acc": "0001193125-26-391889",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 300.0,
+   "price": 21.3,
+   "value": 6390.0,
+   "acc": "0001437749-26-030464",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "JOHNSTON ROBERT B",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 420.0,
+   "price": 21.06,
+   "value": 8845.2,
+   "acc": "0001437749-26-030468",
    "filed": "2026-09-15"
   },
   {
@@ -4589,6 +4577,18 @@
    "value": 86232.5,
    "acc": "0001316331-26-000013",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 25198.0,
+   "price": 3.5,
+   "value": 88193.0,
+   "acc": "0001628280-26-062092",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "PMTS",
@@ -4851,7 +4851,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 892481.24
+   "total_value": 816673.88
   },
   {
    "ticker": "RWT",
@@ -4872,11 +4872,6 @@
    "ticker": "KMT",
    "insiders": 2,
    "total_value": 354750.0
-  },
-  {
-   "ticker": "ENOV",
-   "insiders": 2,
-   "total_value": 299628.25
   },
   {
    "ticker": "MAIA",
@@ -4904,9 +4899,9 @@
    "total_value": 90547.75
   },
   {
-   "ticker": "GRNT",
-   "insiders": 2,
-   "total_value": 80600.0
+   "ticker": "RGCO",
+   "insiders": 3,
+   "total_value": 65968.48
   },
   {
    "ticker": "NNOX",
@@ -4917,11 +4912,6 @@
    "ticker": "ANIX",
    "insiders": 2,
    "total_value": 49350.0
-  },
-  {
-   "ticker": "RGCO",
-   "insiders": 3,
-   "total_value": 46463.28
   },
   {
    "ticker": "OFLX",
@@ -4961,20 +4951,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027353",
-  "0001918704-26-027354",
-  "0001918704-26-027355",
-  "0001918704-26-027356",
-  "0001918704-26-027357",
-  "0001918704-26-027358",
-  "0001918704-26-027359",
-  "0001918704-26-027360",
-  "0001918704-26-027361",
-  "0001918704-26-027362",
-  "0001918704-26-027363",
-  "0001918704-26-027364",
-  "0001918704-26-027365",
-  "0001918704-26-027366",
   "0001918704-26-027367",
   "0001918704-26-027368",
   "0001918704-26-027369",
@@ -5254,6 +5230,13 @@
   "0001918704-26-027694",
   "0001918704-26-027695",
   "0001918704-26-027696",
+  "0001918704-26-027700",
+  "0001918704-26-027701",
+  "0001918704-26-027702",
+  "0001918704-26-027703",
+  "0001918704-26-027704",
+  "0001918704-26-027705",
+  "0001918704-26-027706",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -5530,6 +5513,7 @@
   "0001965544-26-000008",
   "0001965585-26-000006",
   "0001965586-26-000017",
+  "0001965808-26-000015",
   "0001965920-26-000007",
   "0001965926-26-000010",
   "0001965927-26-000007",
@@ -6537,6 +6521,8 @@
   "0001999371-26-020526",
   "0001999371-26-020533",
   "0001999371-26-020559",
+  "0001999371-26-020566",
+  "0001999371-26-020567",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7038,6 +7024,7 @@
   "0002053125-26-000003",
   "0002053424-26-000018",
   "0002053424-26-000020",
+  "0002053652-26-000008",
   "0002053876-26-000006",
   "0002054688-26-000008",
   "0002054905-26-000008",
@@ -7117,6 +7104,7 @@
   "0002061219-26-000011",
   "0002061219-26-000013",
   "0002061219-26-000015",
+  "0002061219-26-000017",
   "0002061268-26-000011",
   "0002061361-26-000009",
   "0002061361-26-000011",
@@ -7131,6 +7119,7 @@
   "0002061801-26-000013",
   "0002061801-26-000015",
   "0002061801-26-000017",
+  "0002061801-26-000019",
   "0002061851-26-000006",
   "0002062007-26-000005",
   "0002062044-26-000001",
@@ -7825,6 +7814,7 @@
   "0002133188-26-000002",
   "0002133255-26-000016",
   "0002133572-26-000004",
+  "0002133869-26-000003",
   "0002134546-26-000011",
   "0002134547-26-000003",
   "0002134641-26-000006",
