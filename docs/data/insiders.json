@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-15 19:18 UTC",
+ "updated_utc": "2026-09-15 19:50 UTC",
  "purchases": [
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 1.0,
-   "price": 360.03,
-   "value": 360.03,
-   "acc": "0001437749-26-029777",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "KDOZF",
-   "company": "KIDOZ INC.",
-   "insider": "Williams Tryon M",
-   "role": "Chairman",
-   "date": "2026-09-04",
-   "shares": 5000.0,
-   "price": 0.094,
-   "value": 470.0,
-   "acc": "0001278521-26-000012",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "SXI",
-   "company": "STANDEX INTERNATIONAL CORP/DE/",
-   "insider": "Arets Max",
-   "role": "VP; Chief Information Officer",
-   "date": "2026-09-04",
-   "shares": 3.0,
-   "price": 274.195,
-   "value": 822.59,
-   "acc": "0000310354-26-000092",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "ZNB",
-   "company": "Zeta Network Group",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 1269.0,
-   "price": 1.65,
-   "value": 2093.85,
-   "acc": "0001475597-26-000235",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 756.0,
-   "price": 2.9,
-   "value": 2192.4,
-   "acc": "0001437749-26-029770",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GMEX",
-   "company": "GMEX Robotics Corp",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 3189.0,
-   "price": 0.772,
-   "value": 2461.91,
-   "acc": "0001475597-26-000233",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "ARQ",
    "company": "Arq, Inc.",
@@ -4111,6 +4039,30 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "CSPI",
+   "company": "CSP INC /MA/",
+   "insider": "NERGES JOSEPH R",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 1000.0,
+   "price": 7.85,
+   "value": 7850.0,
+   "acc": "0001214659-26-011702",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "CSPI",
+   "company": "CSP INC /MA/",
+   "insider": "NERGES JOSEPH R",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 1000.0,
+   "price": 7.9,
+   "value": 7900.0,
+   "acc": "0001214659-26-011702",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "ASRV",
    "company": "AMERISERV FINANCIAL INC /PA/",
    "insider": "STOPKO JEFFREY A",
@@ -4133,6 +4085,18 @@
    "value": 10080.0,
    "acc": "0001437749-26-030226",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "CSPI",
+   "company": "CSP INC /MA/",
+   "insider": "NERGES JOSEPH R",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 1600.0,
+   "price": 7.75,
+   "value": 12400.0,
+   "acc": "0001214659-26-011702",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "GROV",
@@ -4519,6 +4483,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "CSPI",
+   "company": "CSP INC /MA/",
+   "insider": "NERGES JOSEPH R",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 500.0,
+   "price": 7.9,
+   "value": 3950.0,
+   "acc": "0001214659-26-011702",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4759,6 +4735,30 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "CSPI",
+   "company": "CSP INC /MA/",
+   "insider": "NERGES JOSEPH R",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 28.0,
+   "price": 7.9,
+   "value": 221.2,
+   "acc": "0001214659-26-011702",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "CSPI",
+   "company": "CSP INC /MA/",
+   "insider": "NERGES JOSEPH R",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 472.0,
+   "price": 7.96,
+   "value": 3757.12,
+   "acc": "0001214659-26-011702",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "VIRC",
    "company": "VIRCO MFG CORPORATION",
    "insider": "VIRTUE DOUGLAS A",
@@ -4929,14 +4929,14 @@
    "total_value": 9899.5
   },
   {
-   "ticker": "KDOZF",
-   "insiders": 2,
-   "total_value": 1793.5
-  },
-  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "insiders": 2,
    "total_value": 1397.38
+  },
+  {
+   "ticker": "KDOZF",
+   "insiders": 2,
+   "total_value": 1323.5
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
@@ -4951,13 +4951,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027317",
-  "0001918704-26-027318",
-  "0001918704-26-027319",
-  "0001918704-26-027320",
-  "0001918704-26-027321",
-  "0001918704-26-027322",
-  "0001918704-26-027323",
   "0001918704-26-027330",
   "0001918704-26-027331",
   "0001918704-26-027332",
@@ -5253,6 +5246,11 @@
   "0001918704-26-027678",
   "0001918704-26-027679",
   "0001918704-26-027680",
+  "0001918704-26-027681",
+  "0001918704-26-027682",
+  "0001918704-26-027683",
+  "0001918704-26-027684",
+  "0001918704-26-027685",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7406,6 +7404,8 @@
   "0002078265-26-000378",
   "0002078265-26-000379",
   "0002078265-26-000380",
+  "0002078265-26-000381",
+  "0002078265-26-000382",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
