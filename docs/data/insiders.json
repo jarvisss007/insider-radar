@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-15 23:01 UTC",
+ "updated_utc": "2026-09-15 23:33 UTC",
  "purchases": [
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 6368.0,
-   "price": 19.3916,
-   "value": 123485.71,
-   "acc": "0000935596-26-000024",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 440.0,
-   "price": 286.7459,
-   "value": 126168.2,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 439.0,
-   "price": 290.2689,
-   "value": 127428.05,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 458.0,
-   "price": 289.3437,
-   "value": 132519.41,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 2100.0,
-   "price": 68.98,
-   "value": 144858.0,
-   "acc": "0001493152-26-042023",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -3847,6 +3787,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "LMB",
+   "company": "Limbach Holdings, Inc.",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 1000.0,
+   "price": 49.59,
+   "value": 49590.0,
+   "acc": "0001104659-26-108006",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "GRNT",
    "company": "Granite Ridge Resources, Inc.",
    "insider": "Miller Matthew Reade",
@@ -3941,6 +3893,18 @@
    "value": 109057.68,
    "acc": "0001193125-26-390650",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "LMB",
+   "company": "Limbach Holdings, Inc.",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 2600.0,
+   "price": 49.0097,
+   "value": 127425.22,
+   "acc": "0001104659-26-108006",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "NTHI",
@@ -4723,6 +4687,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "LMB",
+   "company": "Limbach Holdings, Inc.",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 212.0,
+   "price": 50.66,
+   "value": 10739.92,
+   "acc": "0001104659-26-108006",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "VIRC",
    "company": "VIRCO MFG CORPORATION",
    "insider": "VIRTUE DOUGLAS A",
@@ -4747,6 +4723,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "LMB",
+   "company": "Limbach Holdings, Inc.",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 662.0,
+   "price": 51.25,
+   "value": 33927.5,
+   "acc": "0001104659-26-108006",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
    "insider": "Carillo Brooke",
@@ -4768,6 +4756,18 @@
    "price": 24.0,
    "value": 120000.0,
    "acc": "0000040417-26-000047",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "LMB",
+   "company": "Limbach Holdings, Inc.",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 3346.0,
+   "price": 50.6069,
+   "value": 169330.69,
+   "acc": "0001104659-26-108006",
    "filed": "2026-09-15"
   },
   {
@@ -4951,8 +4951,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027399",
-  "0001918704-26-027400",
   "0001918704-26-027401",
   "0001918704-26-027402",
   "0001918704-26-027403",
@@ -5823,6 +5821,7 @@
   "0001995005-26-000006",
   "0001995137-26-000013",
   "0001995218-26-000015",
+  "0001995275-26-000016",
   "0001995346-26-000012",
   "0001995565-26-000003",
   "0001996124-26-000014",
@@ -7128,6 +7127,7 @@
   "0002062781-26-000018",
   "0002062781-26-000020",
   "0002062781-26-000022",
+  "0002062781-26-000024",
   "0002063228-26-000013",
   "0002063228-26-000015",
   "0002063236-26-000012",
