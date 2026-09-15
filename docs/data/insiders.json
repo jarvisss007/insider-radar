@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-15 00:34 UTC",
+ "updated_utc": "2026-09-15 00:49 UTC",
  "purchases": [
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-03",
-   "shares": 9595.0,
-   "price": 19.5346,
-   "value": 187434.49,
-   "acc": "0000935596-26-000023",
-   "filed": "2026-09-04"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -3804,6 +3792,19 @@
    "value": 62823.27,
    "acc": "0000905148-26-004138",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "ONMD",
+   "company": "OneMedNet Corp",
+   "insider": "Yu Jeffrey",
+   "role": "Chief Medical Officer",
+   "date": "2026-09-10",
+   "shares": 142857.0,
+   "price": 0.63,
+   "value": 89999.91,
+   "acc": "0001493152-26-042642",
+   "filed": "2026-09-14",
+   "placement": true
   },
   {
    "ticker": "BLNE",
