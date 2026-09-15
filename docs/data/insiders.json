@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-15 13:02 UTC",
+ "updated_utc": "2026-09-15 13:17 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-03",
-   "shares": 7319.0,
-   "price": 281.4927,
-   "value": 2060245.07,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4231,6 +4219,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "GAIA",
+   "company": "GAIA, INC",
+   "insider": "Sutherland Paul Howard",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 3500.0,
+   "price": 1.3707,
+   "value": 4797.45,
+   "acc": "0001193125-26-391420",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "UAVS",
    "company": "AgEagle Aerial Systems Inc.",
    "insider": "Begley Grant A",
@@ -4941,7 +4941,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027136",
   "0001918704-26-027137",
   "0001918704-26-027138",
   "0001918704-26-027139",
@@ -5255,6 +5254,7 @@
   "0001918704-26-027533",
   "0001918704-26-027536",
   "0001918704-26-027537",
+  "0001918704-26-027538",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
