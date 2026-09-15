@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-15 20:06 UTC",
+ "updated_utc": "2026-09-15 20:22 UTC",
  "purchases": [
-  {
-   "ticker": "CZNC",
-   "company": "CITIZENS & NORTHERN CORP",
-   "insider": "Pellegrino Frank G",
-   "role": "Director",
-   "date": "2026-09-04",
-   "shares": 178.0,
-   "price": 26.1662,
-   "value": 4657.58,
-   "acc": "0001667211-26-000026",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "BNGO",
-   "company": "Bionano Genomics, Inc.",
-   "insider": "Luderer Albert",
-   "role": "Interim Chief Executive",
-   "date": "2026-09-04",
-   "shares": 4000.0,
-   "price": 1.2112,
-   "value": 4844.8,
-   "acc": "0001746822-26-000005",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 2915.0,
-   "price": 2.92,
-   "value": 8511.8,
-   "acc": "0001536588-26-000030",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "FLNT",
-   "company": "Fluent, Inc.",
-   "insider": "Schulke Ryan",
-   "role": "Chief Strategy Officer",
-   "date": "2026-09-04",
-   "shares": 2823.0,
-   "price": 3.076,
-   "value": 8683.55,
-   "acc": "0001437749-26-029923",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "ARQ",
-   "company": "Arq, Inc.",
-   "insider": "Steinmetz Shimon",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-04",
-   "shares": 4356.0,
-   "price": 2.2737,
-   "value": 9904.24,
-   "acc": "0001515156-26-000127",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "BCAL",
    "company": "California BanCorp \\ CA",
@@ -4267,6 +4207,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "CRT",
+   "company": "CROSS TIMBERS ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 16360.0,
+   "price": 11.46,
+   "value": 187485.6,
+   "acc": "0001104659-26-107932",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "HLMN",
    "company": "Hillman Solutions Corp.",
    "insider": "Kraft Robert O.",
@@ -4337,6 +4289,18 @@
    "value": 1682657.56,
    "acc": "0001104659-26-107592",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-11",
+   "shares": 171144.0,
+   "price": 34.6095,
+   "value": 5923208.27,
+   "acc": "0001193125-26-391947",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "RSG",
@@ -4723,6 +4687,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "CELH",
+   "company": "Celsius Holdings, Inc.",
+   "insider": "DeSantis Damon",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 20000.0,
+   "price": 27.65,
+   "value": 553000.0,
+   "acc": "0001628280-26-062057",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "PMTS",
    "company": "CPI Card Group Inc.",
    "insider": "Tricor PMT25 Holdings Inc.",
@@ -4771,6 +4747,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "OXM",
+   "company": "OXFORD INDUSTRIES INC",
+   "insider": "GRASSMYER SCOTT",
+   "role": "EVP",
+   "date": "2026-09-15",
+   "shares": 1000.0,
+   "price": 29.73,
+   "value": 29730.0,
+   "acc": "0000075288-26-000092",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
    "insider": "Carillo Brooke",
@@ -4804,6 +4792,18 @@
    "price": 3.839,
    "value": 383900.0,
    "acc": "0001104659-26-107867",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "CELH",
+   "company": "Celsius Holdings, Inc.",
+   "insider": "DeSantis Damon",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 16000.0,
+   "price": 27.95,
+   "value": 447200.0,
+   "acc": "0001628280-26-062057",
    "filed": "2026-09-15"
   }
  ],
@@ -4844,6 +4844,11 @@
    "total_value": 1671990.0
   },
   {
+   "ticker": "CELH",
+   "insiders": 2,
+   "total_value": 1494042.6
+  },
+  {
    "ticker": "GPUS",
    "insiders": 3,
    "total_value": 931131.24
@@ -4877,6 +4882,11 @@
    "ticker": "MAIA",
    "insiders": 2,
    "total_value": 149526.37
+  },
+  {
+   "ticker": "OXM",
+   "insiders": 2,
+   "total_value": 137998.3
   },
   {
    "ticker": "TSM",
@@ -4951,10 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027332",
-  "0001918704-26-027334",
-  "0001918704-26-027335",
-  "0001918704-26-027336",
   "0001918704-26-027337",
   "0001918704-26-027338",
   "0001918704-26-027339",
@@ -5706,6 +5712,7 @@
   "0001977249-26-000123",
   "0001977249-26-000124",
   "0001977249-26-000125",
+  "0001977249-26-000126",
   "0001977413-26-000005",
   "0001978160-26-000004",
   "0001978160-26-000006",
@@ -6530,6 +6537,7 @@
   "0001999371-26-020520",
   "0001999371-26-020526",
   "0001999371-26-020533",
+  "0001999371-26-020559",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6858,6 +6866,7 @@
   "0002034308-26-000002",
   "0002034458-26-000006",
   "0002034458-26-000007",
+  "0002034458-26-000010",
   "0002034568-26-000003",
   "0002034782-26-000012",
   "0002034782-26-000017",
@@ -6977,6 +6986,7 @@
   "0002048260-26-000002",
   "0002048376-26-000002",
   "0002048497-26-000012",
+  "0002048497-26-000014",
   "0002048500-26-000012",
   "0002048588-26-000013",
   "0002048593-26-000009",
