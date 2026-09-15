@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-15 19:50 UTC",
+ "updated_utc": "2026-09-15 20:06 UTC",
  "purchases": [
-  {
-   "ticker": "ARQ",
-   "company": "Arq, Inc.",
-   "insider": "Steinmetz Shimon",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-04",
-   "shares": 1402.0,
-   "price": 2.2889,
-   "value": 3209.04,
-   "acc": "0001515156-26-000127",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 870.0,
-   "price": 4.0974,
-   "value": 3564.74,
-   "acc": "0001628280-26-060920",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-09-04",
-   "shares": 700.0,
-   "price": 5.4214,
-   "value": 3794.98,
-   "acc": "0001214659-26-011483",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "BCG",
-   "company": "Binah Capital Group, Inc.",
-   "insider": "Gould Craig",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-04",
-   "shares": 3000.0,
-   "price": 1.3,
-   "value": 3900.0,
-   "acc": "0001104659-26-106127",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "CZNC",
    "company": "CITIZENS & NORTHERN CORP",
@@ -2414,6 +2366,18 @@
    "filed": "2026-09-10"
   },
   {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-09-09",
+   "shares": 22160.0,
+   "price": 0.679,
+   "value": 15046.64,
+   "acc": "0001099910-26-000263",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "RBA",
    "company": "RB GLOBAL INC.",
    "insider": "Stein Deborah",
@@ -3216,6 +3180,18 @@
    "value": 6720.0,
    "acc": "0001493152-26-042298",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-09-10",
+   "shares": 10974.0,
+   "price": 0.677,
+   "value": 7429.4,
+   "acc": "0001099910-26-000263",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "CLIK",
@@ -4507,6 +4483,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "HUMA",
+   "company": "Humacyte, Inc.",
+   "insider": "Jones Keith Anthony",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 10000.0,
+   "price": 0.562,
+   "value": 5620.0,
+   "acc": "0001193125-26-391889",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
    "insider": "Zamanizadeh Kourosh Nasser",
@@ -4564,6 +4552,18 @@
    "price": 50.0,
    "value": 15000.0,
    "acc": "0001208109-26-000008",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 24888.0,
+   "price": 0.689,
+   "value": 17147.83,
+   "acc": "0001099910-26-000263",
    "filed": "2026-09-15"
   },
   {
@@ -4951,8 +4951,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027330",
-  "0001918704-26-027331",
   "0001918704-26-027332",
   "0001918704-26-027334",
   "0001918704-26-027335",
@@ -5251,6 +5249,8 @@
   "0001918704-26-027683",
   "0001918704-26-027684",
   "0001918704-26-027685",
+  "0001918704-26-027686",
+  "0001918704-26-027687",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
