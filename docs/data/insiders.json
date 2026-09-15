@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-15 16:09 UTC",
+ "updated_utc": "2026-09-15 16:24 UTC",
  "purchases": [
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-09-03",
-   "shares": 720000.0,
-   "price": 16.45,
-   "value": 11844000.0,
-   "acc": "0001493152-26-041812",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -4231,6 +4219,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Landesberg Stuart",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 15173.0,
+   "price": 1.0413,
+   "value": 15799.64,
+   "acc": "0001841761-26-000100",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "MATW",
    "company": "MATTHEWS INTERNATIONAL CORP",
    "insider": "Nauman J Michael",
@@ -4951,7 +4951,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027249",
   "0001918704-26-027250",
   "0001918704-26-027251",
   "0001918704-26-027252",
@@ -5257,6 +5256,7 @@
   "0001918704-26-027619",
   "0001918704-26-027620",
   "0001918704-26-027621",
+  "0001918704-26-027624",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
