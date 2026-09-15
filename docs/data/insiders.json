@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-15 20:22 UTC",
+ "updated_utc": "2026-09-15 20:38 UTC",
  "purchases": [
-  {
-   "ticker": "BCAL",
-   "company": "California BanCorp \\ CA",
-   "insider": "Muller Frank L.",
-   "role": "Director",
-   "date": "2026-09-04",
-   "shares": 450.0,
-   "price": 22.13,
-   "value": 9958.5,
-   "acc": "0001807551-26-000004",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 40.0,
-   "price": 287.09,
-   "value": 11483.6,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "SXI",
-   "company": "STANDEX INTERNATIONAL CORP/DE/",
-   "insider": "Arets Max",
-   "role": "VP; Chief Information Officer",
-   "date": "2026-09-04",
-   "shares": 42.0,
-   "price": 273.94,
-   "value": 11505.48,
-   "acc": "0000310354-26-000092",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 4999.0,
-   "price": 2.92,
-   "value": 14597.08,
-   "acc": "0001536588-26-000030",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "EVLV",
    "company": "Evolv Technologies Holdings, Inc.",
@@ -4039,6 +3991,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "MOBI",
+   "company": "Mobia Medical, Inc.",
+   "insider": "Leavitt Chase C.",
+   "role": "SEE REMARKS",
+   "date": "2026-09-11",
+   "shares": 2000.0,
+   "price": 10.3,
+   "value": 20600.0,
+   "acc": "0001193125-26-391998",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4375,6 +4339,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-09-14",
+   "shares": 5900.0,
+   "price": 0.219,
+   "value": 1292.1,
+   "acc": "0001493152-26-042754",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "IRIX",
    "company": "IRIDEX CORP",
    "insider": "Dizon Romeo R",
@@ -4663,6 +4639,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "NAMS",
+   "company": "NewAmsterdam Pharma Co N.V.",
+   "insider": "Davidson Michael H.",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-14",
+   "shares": 10000.0,
+   "price": 22.65,
+   "value": 226500.0,
+   "acc": "0001193125-26-391985",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "PMTS",
    "company": "CPI Card Group Inc.",
    "insider": "Peters Nicholas",
@@ -4696,6 +4684,18 @@
    "price": 27.65,
    "value": 553000.0,
    "acc": "0001628280-26-062057",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "GIII",
+   "company": "G III APPAREL GROUP LTD /DE/",
+   "insider": "GOLDFARB MORRIS",
+   "role": "CEO",
+   "date": "2026-09-14",
+   "shares": 40000.0,
+   "price": 27.94,
+   "value": 1117600.0,
+   "acc": "0000821002-26-000041",
    "filed": "2026-09-15"
   },
   {
@@ -4961,11 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027337",
-  "0001918704-26-027338",
-  "0001918704-26-027339",
-  "0001918704-26-027347",
-  "0001918704-26-027348",
   "0001918704-26-027349",
   "0001918704-26-027350",
   "0001918704-26-027351",
@@ -5257,6 +5252,9 @@
   "0001918704-26-027685",
   "0001918704-26-027686",
   "0001918704-26-027687",
+  "0001918704-26-027689",
+  "0001918704-26-027690",
+  "0001918704-26-027691",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -5843,6 +5841,7 @@
   "0001993147-26-000002",
   "0001993636-26-000009",
   "0001993684-26-000006",
+  "0001993684-26-000008",
   "0001993902-26-000008",
   "0001994071-26-000006",
   "0001994131-26-000008",
@@ -7920,6 +7919,7 @@
   "0002147429-26-000003",
   "0002147680-26-000004",
   "0002147680-26-000006",
+  "0002147680-26-000008",
   "0002147807-26-000005",
   "0002147819-26-000005",
   "0002147835-26-000007",
