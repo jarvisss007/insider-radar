@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-14 23:47 UTC",
+ "updated_utc": "2026-09-15 00:03 UTC",
  "purchases": [
-  {
-   "ticker": "AVBC",
-   "company": "Avidia Bancorp, Inc.",
-   "insider": "Nelson Jonathan Michael",
-   "role": "CFO and Treasurer",
-   "date": "2026-09-03",
-   "shares": 4500.0,
-   "price": 22.19,
-   "value": 99855.0,
-   "acc": "0001437749-26-029624",
-   "filed": "2026-09-03"
-  },
   {
    "ticker": "ENOV",
    "company": "Enovis CORP",
@@ -4804,6 +4792,18 @@
    "value": 299989.5,
    "acc": "0001317406-26-000006",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "PMTS",
+   "company": "CPI Card Group Inc.",
+   "insider": "Tricor PMT25 Holdings Inc.",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 525000.0,
+   "price": 21.5,
+   "value": 11287500.0,
+   "acc": "0001104659-26-107610",
+   "filed": "2026-09-14"
   }
  ],
  "clusters": [
@@ -4816,6 +4816,11 @@
    "ticker": "UBER",
    "insiders": 2,
    "total_value": 15314015.89
+  },
+  {
+   "ticker": "PMTS",
+   "insiders": 5,
+   "total_value": 11958988.0
   },
   {
    "ticker": "CYBN",
@@ -4841,11 +4846,6 @@
    "ticker": "GPUS",
    "insiders": 3,
    "total_value": 931131.24
-  },
-  {
-   "ticker": "PMTS",
-   "insiders": 4,
-   "total_value": 671488.0
   },
   {
    "ticker": "BWFG",
@@ -4920,7 +4920,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027101",
   "0001918704-26-027102",
   "0001918704-26-027111",
   "0001918704-26-027112",
@@ -5716,6 +5715,7 @@
   "0001979088-26-000016",
   "0001979088-26-000017",
   "0001979088-26-000018",
+  "0001979088-26-000019",
   "0001979116-26-000010",
   "0001979234-26-000005",
   "0001979293-26-000006",
