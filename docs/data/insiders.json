@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-16 07:21 UTC",
+ "updated_utc": "2026-09-16 10:27 UTC",
  "purchases": [
-  {
-   "ticker": "SUJA",
-   "company": "SUJA LIFE, INC.",
-   "insider": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 125000.0,
-   "price": 10.48,
-   "value": 1310000.0,
-   "acc": "0001140361-26-035951",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 5408.0,
-   "price": 302.1166,
-   "value": 1633846.57,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 6611.0,
-   "price": 297.5205,
-   "value": 1966908.03,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "ALMS",
    "company": "ALUMIS INC.",
@@ -4411,6 +4375,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "BZUN",
+   "company": "Baozun Inc.",
+   "insider": "Qiu Wenbin",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-14",
+   "shares": 7300.0,
+   "price": 2.74,
+   "value": 20002.0,
+   "acc": "0001104659-26-108060",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "OFLX",
    "company": "Omega Flex, Inc.",
    "insider": "Moran Edwin B.",
@@ -4663,6 +4639,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Meltzer Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-15",
+   "shares": 10000.0,
+   "price": 0.69,
+   "value": 6900.0,
+   "acc": "0001213900-26-100307",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "TENX",
    "company": "TENAX THERAPEUTICS, INC.",
    "insider": "Giordano Christopher Thomas",
@@ -4697,6 +4685,18 @@
    "value": 18300.0,
    "acc": "0001628280-26-062003",
    "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BZUN",
+   "company": "Baozun Inc.",
+   "insider": "Qiu Wenbin",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-15",
+   "shares": 7300.0,
+   "price": 2.72,
+   "value": 19856.0,
+   "acc": "0001104659-26-108060",
+   "filed": "2026-09-16"
   },
   {
    "ticker": "OXM",
@@ -4906,7 +4906,7 @@
   {
    "ticker": "NNOX",
    "insiders": 2,
-   "total_value": 53100.0
+   "total_value": 60000.0
   },
   {
    "ticker": "ANIX",
@@ -4961,8 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027404",
-  "0001918704-26-027405",
   "0001918704-26-027406",
   "0001918704-26-027407",
   "0001918704-26-027408",
@@ -5223,6 +5221,7 @@
   "0001918704-26-027711",
   "0001918704-26-027712",
   "0001918704-26-027713",
+  "0001918704-26-027717",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7542,6 +7541,7 @@
   "0002092917-26-000002",
   "0002092936-26-000004",
   "0002093121-26-000005",
+  "0002093135-26-000004",
   "0002093167-26-000009",
   "0002093210-26-000004",
   "0002093233-26-000014",
