@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-16 19:35 UTC",
+ "updated_utc": "2026-09-16 19:51 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Jang Syun-Ming",
-   "role": "VP",
-   "date": "2026-09-07",
-   "shares": 49.0,
-   "price": 76.2,
-   "value": 3733.8,
-   "acc": "0001046179-26-000628",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chuang Juiping",
-   "role": "VP",
-   "date": "2026-09-07",
-   "shares": 50.0,
-   "price": 76.2,
-   "value": 3810.0,
-   "acc": "0001046179-26-000615",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4063,6 +4039,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "CBKM",
+   "company": "CONSUMERS BANCORP INC /OH/",
+   "insider": "Lober Ralph J II",
+   "role": "CEO & President",
+   "date": "2026-09-14",
+   "shares": 400.0,
+   "price": 32.98,
+   "value": 13192.0,
+   "acc": "0001437749-26-030539",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "GAIA",
    "company": "GAIA, INC",
    "insider": "Sutherland Paul Howard",
@@ -4469,6 +4457,18 @@
    "value": 221.2,
    "acc": "0001214659-26-011702",
    "filed": "2026-09-15"
+  },
+  {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 1.0,
+   "price": 370.59,
+   "value": 370.59,
+   "acc": "0001437749-26-030537",
+   "filed": "2026-09-16"
   },
   {
    "ticker": "UMH",
@@ -4895,8 +4895,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 17,
-   "total_value": 80238.6
+   "insiders": 15,
+   "total_value": 72694.8
   },
   {
    "ticker": "RGCO",
@@ -4966,11 +4966,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027569",
-  "0001918704-26-027570",
-  "0001918704-26-027571",
-  "0001918704-26-027572",
-  "0001918704-26-027573",
   "0001918704-26-027574",
   "0001918704-26-027575",
   "0001918704-26-027576",
@@ -5209,6 +5204,11 @@
   "0001918704-26-027829",
   "0001918704-26-027830",
   "0001918704-26-027831",
+  "0001918704-26-027834",
+  "0001918704-26-027835",
+  "0001918704-26-027836",
+  "0001918704-26-027837",
+  "0001918704-26-027838",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
