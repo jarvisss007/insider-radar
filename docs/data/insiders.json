@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-16 22:45 UTC",
+ "updated_utc": "2026-09-16 23:01 UTC",
  "purchases": [
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 6842.0,
-   "price": 3.2432,
-   "value": 22189.97,
-   "acc": "0001539497-26-002474",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "CDR",
-   "company": "CEDAR REALTY TRUST, INC.",
-   "insider": "Franklin Michael Andrew",
-   "role": "CEO",
-   "date": "2026-09-08",
-   "shares": 1472.0,
-   "price": 15.4,
-   "value": 22668.8,
-   "acc": "0001697904-26-000007",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 99.0,
-   "price": 229.39,
-   "value": 22709.61,
-   "acc": "0001812746-26-000012",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "OPFI",
-   "company": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-08",
-   "shares": 3475.0,
-   "price": 7.4062,
-   "value": 25736.55,
-   "acc": "0000905148-26-004125",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 432.0,
-   "price": 66.95,
-   "value": 28922.4,
-   "acc": "0001026081-26-000026",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "NRIM",
-   "company": "NORTHRIM BANCORP INC",
-   "insider": "Thomas Linda C",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 1200.0,
-   "price": 26.2,
-   "value": 31440.0,
-   "acc": "0001492292-26-000004",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "SLGL",
    "company": "Sol-Gel Technologies Ltd.",
@@ -2695,6 +2623,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "FBNC",
+   "company": "FIRST BANCORP /NC/",
+   "insider": "Nevin Katharine Caldwell",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 231.0,
+   "price": 64.23,
+   "value": 14837.13,
+   "acc": "0000811589-26-000157",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "Landesberg Stuart",
@@ -3727,6 +3667,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "TELA",
+   "company": "TELA Bio, Inc.",
+   "insider": "Capper Joseph H",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 25000.0,
+   "price": 1.0201,
+   "value": 25502.5,
+   "acc": "0001456817-26-000013",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "ASYS",
    "company": "AMTECH SYSTEMS INC",
    "insider": "SABOL THOMAS B",
@@ -3749,6 +3701,18 @@
    "value": 36000.0,
    "acc": "0001213900-26-100270",
    "filed": "2026-09-15"
+  },
+  {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 28505.0,
+   "price": 1.2938,
+   "value": 36879.77,
+   "acc": "0001940272-26-000021",
+   "filed": "2026-09-16"
   },
   {
    "ticker": "ALTO",
@@ -4507,6 +4471,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "TELA",
+   "company": "TELA Bio, Inc.",
+   "insider": "Capper Joseph H",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 50000.0,
+   "price": 1.0588,
+   "value": 52940.0,
+   "acc": "0001456817-26-000013",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "SBLK",
    "company": "Star Bulk Carriers Corp.",
    "insider": "Karellis Nikolaos",
@@ -4528,6 +4504,18 @@
    "price": 3.91,
    "value": 58650.0,
    "acc": "0001772447-26-000020",
+   "filed": "2026-09-16"
+  },
+  {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 54256.0,
+   "price": 1.2984,
+   "value": 70445.99,
+   "acc": "0001940272-26-000021",
    "filed": "2026-09-16"
   },
   {
@@ -4759,6 +4747,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-09-16",
+   "shares": 8340.0,
+   "price": 1.289,
+   "value": 10750.26,
+   "acc": "0001940272-26-000021",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "ACOG",
    "company": "Alpha Cognition Inc.",
    "insider": "Opaleye Management Inc.",
@@ -4876,7 +4876,7 @@
   {
    "ticker": "BWFG",
    "insiders": 2,
-   "total_value": 351268.5
+   "total_value": 322346.1
   },
   {
    "ticker": "MAIA",
@@ -4976,7 +4976,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027641",
   "0001918704-26-027642",
   "0001918704-26-027643",
   "0001918704-26-027644",
@@ -5317,6 +5316,7 @@
   "0001940272-26-000017",
   "0001940272-26-000019",
   "0001940272-26-000020",
+  "0001940272-26-000021",
   "0001940536-26-000014",
   "0001940727-26-000004",
   "0001940987-26-000018",
