@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-16 01:54 UTC",
+ "updated_utc": "2026-09-16 02:10 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 3421.0,
-   "price": 295.5382,
-   "value": 1011036.18,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 3668.0,
-   "price": 296.4914,
-   "value": 1087530.46,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "UBER",
-   "company": "Uber Technologies, Inc",
-   "insider": "Macdonald Andrew",
-   "role": "See Remarks",
-   "date": "2026-09-04",
-   "shares": 15675.0,
-   "price": 76.4425,
-   "value": 1198236.19,
-   "acc": "0002071761-26-000011",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "CYBN",
-   "company": "CYBIN INC.",
-   "insider": "So Eric H. L.",
-   "role": "Executive Chair",
-   "date": "2026-09-04",
-   "shares": 100000.0,
-   "price": 12.089,
-   "value": 1208900.0,
-   "acc": "0000912282-26-001257",
-   "filed": "2026-09-10"
-  },
   {
    "ticker": "SUJA",
    "company": "SUJA LIFE, INC.",
@@ -3343,6 +3295,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "LCU",
+   "company": "LION COPPER & GOLD CORP.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 185.0,
+   "price": 4.9815,
+   "value": 921.58,
+   "acc": "0001062993-26-004972",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "BGDE",
    "company": "Big Digital Energy, Inc.",
    "insider": "Endeavor Blockchain, LLC",
@@ -3616,6 +3580,42 @@
    "price": 3.21,
    "value": 17298.69,
    "acc": "0001292814-26-004568",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "LCU",
+   "company": "LION COPPER & GOLD CORP.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 3704.0,
+   "price": 4.8924,
+   "value": 18121.45,
+   "acc": "0001062993-26-004972",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "LCU",
+   "company": "LION COPPER & GOLD CORP.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 3704.0,
+   "price": 4.8951,
+   "value": 18131.45,
+   "acc": "0001062993-26-004972",
+   "filed": "2026-09-15"
+  },
+  {
+   "ticker": "LCU",
+   "company": "LION COPPER & GOLD CORP.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 3704.0,
+   "price": 4.9113,
+   "value": 18191.46,
+   "acc": "0001062993-26-004972",
    "filed": "2026-09-15"
   },
   {
@@ -4816,7 +4816,7 @@
   {
    "ticker": "UBER",
    "insiders": 2,
-   "total_value": 15314015.89
+   "total_value": 14115779.7
   },
   {
    "ticker": "PMTS",
@@ -4826,7 +4826,7 @@
   {
    "ticker": "CYBN",
    "insiders": 2,
-   "total_value": 4941950.0
+   "total_value": 3733050.0
   },
   {
    "ticker": "INBX",
