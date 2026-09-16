@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-16 15:29 UTC",
+ "updated_utc": "2026-09-16 15:40 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chen Chih-Ho",
-   "role": "Controller",
-   "date": "2026-09-07",
-   "shares": 32.0,
-   "price": 76.2,
-   "value": 2438.4,
-   "acc": "0001046179-26-000606",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4543,6 +4531,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "ARDC",
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "insider": "THRIVENT FINANCIAL FOR LUTHERANS",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 240000.0,
+   "price": 25.0,
+   "value": 6000000.0,
+   "acc": "0000314984-26-000042",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "PMTS",
    "company": "CPI Card Group Inc.",
    "insider": "Tricor PMT25 Holdings Inc.",
@@ -4880,8 +4880,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 29,
-   "total_value": 119176.8
+   "insiders": 28,
+   "total_value": 116738.4
   },
   {
    "ticker": "FGBI",
