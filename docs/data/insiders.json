@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-16 01:23 UTC",
+ "updated_utc": "2026-09-16 01:39 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-04",
-   "shares": 1913691.0,
-   "price": 0.1889,
-   "value": 361496.23,
-   "acc": "0001214659-26-011521",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 2140.0,
-   "price": 299.812,
-   "value": 641597.68,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -3595,6 +3571,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "TENX",
+   "company": "TENAX THERAPEUTICS, INC.",
+   "insider": "STAAB THOMAS R II",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-11",
+   "shares": 5675.0,
+   "price": 1.935,
+   "value": 10981.12,
+   "acc": "0001193125-26-392319",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "CSPI",
    "company": "CSP INC /MA/",
    "insider": "NERGES JOSEPH R",
@@ -4013,6 +4001,18 @@
    "value": 30156762.25,
    "acc": "0001104659-26-107592",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "FTK",
+   "company": "FLOTEK INDUSTRIES INC/CN/",
+   "insider": "Wilks Matthew",
+   "role": "Director",
+   "date": "2026-09-11",
+   "shares": 1319493.0,
+   "price": 26.01,
+   "value": 34320012.93,
+   "acc": "0001104659-26-108024",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "RSG",
@@ -4854,11 +4854,6 @@
    "total_value": 676698.17
   },
   {
-   "ticker": "GPUS",
-   "insiders": 2,
-   "total_value": 456390.01
-  },
-  {
    "ticker": "BWFG",
    "insiders": 5,
    "total_value": 435320.54
@@ -4892,6 +4887,11 @@
    "ticker": "FGBI",
    "insiders": 2,
    "total_value": 106492.5
+  },
+  {
+   "ticker": "GPUS",
+   "insiders": 2,
+   "total_value": 94893.78
   },
   {
    "ticker": "ALP",
@@ -4956,7 +4956,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027403",
   "0001918704-26-027404",
   "0001918704-26-027405",
   "0001918704-26-027406",
@@ -7801,6 +7800,7 @@
   "0002130205-26-000002",
   "0002130246-26-000003",
   "0002130310-26-000005",
+  "0002130310-26-000007",
   "0002130384-26-000004",
   "0002130394-26-000019",
   "0002130454-26-000004",
