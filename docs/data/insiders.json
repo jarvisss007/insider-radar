@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-15 23:33 UTC",
+ "updated_utc": "2026-09-16 00:05 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 492.0,
-   "price": 304.2683,
-   "value": 149700.0,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "KMT",
-   "company": "KENNAMETAL INC",
-   "insider": "HARSHMAN RICHARD J",
-   "role": "Director",
-   "date": "2026-09-04",
-   "shares": 5000.0,
-   "price": 30.21,
-   "value": 151050.0,
-   "acc": "0001200244-26-000006",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "RSG",
    "company": "REPUBLIC SERVICES, INC.",
@@ -2450,6 +2426,18 @@
    "filed": "2026-09-11"
   },
   {
+   "ticker": "CINT",
+   "company": "CI&T Inc",
+   "insider": "Guicardi Neto Bruno",
+   "role": "Pres. of N. Am. and Europe Ops",
+   "date": "2026-09-10",
+   "shares": 100.0,
+   "price": 3.1,
+   "value": 310.0,
+   "acc": "0001292814-26-004568",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -3715,6 +3703,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "CINT",
+   "company": "CI&T Inc",
+   "insider": "Guicardi Neto Bruno",
+   "role": "Pres. of N. Am. and Europe Ops",
+   "date": "2026-09-11",
+   "shares": 5389.0,
+   "price": 3.21,
+   "value": 17298.69,
+   "acc": "0001292814-26-004568",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "MATW",
    "company": "MATTHEWS INTERNATIONAL CORP",
    "insider": "Nauman J Michael",
@@ -4867,11 +4867,6 @@
    "ticker": "DOMH",
    "insiders": 2,
    "total_value": 418380.0
-  },
-  {
-   "ticker": "KMT",
-   "insiders": 2,
-   "total_value": 354750.0
   },
   {
    "ticker": "MAIA",
