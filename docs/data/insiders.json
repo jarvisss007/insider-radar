@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-09-16 21:58 UTC",
+ "updated_utc": "2026-09-16 22:14 UTC",
  "purchases": [
-  {
-   "ticker": "GBAB",
-   "company": "Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust",
-   "insider": "Li Allen",
-   "role": "",
-   "date": "2026-09-08",
-   "shares": 1000.0,
-   "price": 13.59,
-   "value": 13590.0,
-   "acc": "0001509318-26-000005",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-08",
-   "shares": 1179.0,
-   "price": 11.55,
-   "value": 13617.45,
-   "acc": "0001510281-26-000294",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-08",
-   "shares": 80200.0,
-   "price": 0.189,
-   "value": 15157.8,
-   "acc": "0001214659-26-011678",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "Dunne Jeffrey R",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 261.0,
-   "price": 67.11,
-   "value": 17515.71,
-   "acc": "0001505732-26-000115",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 266.0,
-   "price": 67.11,
-   "value": 17851.26,
-   "acc": "0001026081-26-000026",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 283.0,
-   "price": 66.98,
-   "value": 18955.34,
-   "acc": "0001026081-26-000026",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-08",
-   "shares": 9393.0,
-   "price": 2.0972,
-   "value": 19699.0,
-   "acc": "0001493152-26-042152",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "BRBR",
-   "company": "BELLRING BRANDS, INC.",
-   "insider": "CONWAY SHAWN",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 2022.244,
-   "price": 9.89,
-   "value": 19999.99,
-   "acc": "0001628280-26-061167",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "Porto Carl M",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 327.0,
-   "price": 67.11,
-   "value": 21944.97,
-   "acc": "0001505732-26-000113",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "CLPR",
    "company": "Clipper Realty Inc.",
@@ -4015,6 +3907,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "PLNT",
+   "company": "Planet Fitness, Inc.",
+   "insider": "Tanco Christopher",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 2328.0,
+   "price": 51.2281,
+   "value": 119259.02,
+   "acc": "0001842402-26-000005",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "BUKS",
    "company": "BUTLER NATIONAL CORP",
    "insider": "Veradace Partners LP",
@@ -4085,6 +3989,18 @@
    "value": 299989.5,
    "acc": "0001317406-26-000006",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-09-14",
+   "shares": 40373.0,
+   "price": 8.696,
+   "value": 351083.61,
+   "acc": "0001493152-26-042969",
+   "filed": "2026-09-16"
   },
   {
    "ticker": "CELH",
@@ -4243,6 +4159,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Hansen Kent A",
+   "role": "CFO & EVP",
+   "date": "2026-09-15",
+   "shares": 159.0,
+   "price": 9.82,
+   "value": 1561.38,
+   "acc": "0001072627-26-000054",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "MCFT",
    "company": "MasterCraft Boat Holdings, Inc.",
    "insider": "Nelson Bradley M.",
@@ -4276,6 +4204,18 @@
    "price": 21.2,
    "value": 2374.4,
    "acc": "0001437749-26-030524",
+   "filed": "2026-09-16"
+  },
+  {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Fitzgerald John Taylor Maloney",
+   "role": "President and CEO",
+   "date": "2026-09-15",
+   "shares": 254.0,
+   "price": 9.82,
+   "value": 2494.28,
+   "acc": "0001072627-26-000053",
    "filed": "2026-09-16"
   },
   {
@@ -4471,6 +4411,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 3375.0,
+   "price": 8.5424,
+   "value": 28830.6,
+   "acc": "0001493152-26-042969",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "OXM",
    "company": "OXFORD INDUSTRIES INC",
    "insider": "GRASSMYER SCOTT",
@@ -4600,6 +4552,18 @@
    "price": 19.51,
    "value": 75015.95,
    "acc": "0001193125-26-393042",
+   "filed": "2026-09-16"
+  },
+  {
+   "ticker": "CROX",
+   "company": "Crocs, Inc.",
+   "insider": "SMACH THOMAS J",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 680.0,
+   "price": 111.49,
+   "value": 75813.2,
+   "acc": "0001194106-26-000014",
    "filed": "2026-09-16"
   },
   {
@@ -4759,6 +4723,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "FOX",
+   "company": "Fox Corp",
+   "insider": "MURDOCH LACHLAN K",
+   "role": "Executive Chair, CEO",
+   "date": "2026-09-15",
+   "shares": 149934.0,
+   "price": 68.53,
+   "value": 10274977.02,
+   "acc": "0001628280-26-062330",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4783,6 +4759,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-09-16",
+   "shares": 27141.0,
+   "price": 8.4,
+   "value": 227984.4,
+   "acc": "0001493152-26-042969",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
    "insider": "Robinson Dashiell I",
@@ -4804,6 +4792,18 @@
    "price": 50.55,
    "value": 252750.0,
    "acc": "0001339396-26-000084",
+   "filed": "2026-09-16"
+  },
+  {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-09-16",
+   "shares": 53029.0,
+   "price": 8.5728,
+   "value": 454607.01,
+   "acc": "0001493152-26-042969",
    "filed": "2026-09-16"
   }
  ],
@@ -4856,17 +4856,12 @@
   {
    "ticker": "CROX",
    "insiders": 2,
-   "total_value": 536757.03
+   "total_value": 612570.23
   },
   {
    "ticker": "LMB",
    "insiders": 3,
    "total_value": 515919.83
-  },
-  {
-   "ticker": "BWFG",
-   "insiders": 4,
-   "total_value": 427535.78
   },
   {
    "ticker": "DOMH",
@@ -4877,6 +4872,11 @@
    "ticker": "NTHI",
    "insiders": 3,
    "total_value": 351415.59
+  },
+  {
+   "ticker": "BWFG",
+   "insiders": 2,
+   "total_value": 351268.5
   },
   {
    "ticker": "MAIA",
@@ -4954,6 +4954,11 @@
    "total_value": 9899.5
   },
   {
+   "ticker": "KWY",
+   "insiders": 2,
+   "total_value": 4055.66
+  },
+  {
    "ticker": "UMH",
    "insiders": 2,
    "total_value": 2000.1
@@ -4971,11 +4976,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027634",
-  "0001918704-26-027635",
-  "0001918704-26-027636",
-  "0001918704-26-027637",
-  "0001918704-26-027638",
   "0001918704-26-027639",
   "0001918704-26-027640",
   "0001918704-26-027641",
@@ -5555,6 +5555,7 @@
   "0001974756-26-000004",
   "0001974756-26-000006",
   "0001974777-26-000016",
+  "0001974777-26-000018",
   "0001975015-26-000041",
   "0001975015-26-000043",
   "0001975015-26-000046",
@@ -6565,6 +6566,7 @@
   "0002006416-26-000015",
   "0002006416-26-000017",
   "0002006495-26-000012",
+  "0002006641-26-000010",
   "0002006846-26-000008",
   "0002006852-26-000005",
   "0002006943-26-000012",
@@ -7436,6 +7438,7 @@
   "0002080477-26-000014",
   "0002080477-26-000016",
   "0002080498-26-000005",
+  "0002080505-26-000004",
   "0002080506-26-000025",
   "0002080538-26-000006",
   "0002080588-26-000005",
@@ -7792,12 +7795,14 @@
   "0002128025-26-000013",
   "0002128469-26-000007",
   "0002128469-26-000008",
+  "0002128527-26-000004",
   "0002128593-26-000004",
   "0002128637-26-000007",
   "0002128745-26-000009",
   "0002128786-26-000004",
   "0002128786-26-000006",
   "0002129321-26-000013",
+  "0002129321-26-000015",
   "0002129772-26-000006",
   "0002129863-26-000008",
   "0002130035-26-000002",
