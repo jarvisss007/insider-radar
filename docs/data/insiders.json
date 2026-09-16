@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-16 14:53 UTC",
+ "updated_utc": "2026-09-16 15:08 UTC",
  "purchases": [
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 268220.0,
-   "price": 222.9235,
-   "value": 59792541.17,
-   "acc": "0001104659-26-105908",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-09-07",
-   "shares": 5.0,
-   "price": 76.2,
-   "value": 381.0,
-   "acc": "0001046179-26-000643",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4663,6 +4639,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "RICK",
+   "company": "RCI HOSPITALITY HOLDINGS, INC.",
+   "insider": "Elaine Johnson Martin",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 601.0,
+   "price": 28.9454,
+   "value": 17396.19,
+   "acc": "0001628280-26-062157",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "VIRC",
    "company": "VIRCO MFG CORPORATION",
    "insider": "VIRTUE DOUGLAS A",
@@ -4757,6 +4745,18 @@
    "value": 169330.69,
    "acc": "0001104659-26-108006",
    "filed": "2026-09-15"
+  },
+  {
+   "ticker": "SBLK",
+   "company": "Star Bulk Carriers Corp.",
+   "insider": "Erhardt Koert",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 6000.0,
+   "price": 28.27,
+   "value": 169620.0,
+   "acc": "0001333848-26-000003",
+   "filed": "2026-09-16"
   },
   {
    "ticker": "RWT",
@@ -4876,7 +4876,7 @@
   {
    "ticker": "TSM",
    "insiders": 30,
-   "total_value": 121843.8
+   "total_value": 121462.8
   },
   {
    "ticker": "FGBI",
@@ -4956,9 +4956,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027453",
-  "0001918704-26-027454",
-  "0001918704-26-027455",
   "0001918704-26-027456",
   "0001918704-26-027457",
   "0001918704-26-027458",
@@ -5207,6 +5204,8 @@
   "0001918704-26-027749",
   "0001918704-26-027750",
   "0001918704-26-027751",
+  "0001918704-26-027752",
+  "0001918704-26-027753",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6508,6 +6507,7 @@
   "0001999371-26-020567",
   "0001999371-26-020592",
   "0001999371-26-020598",
+  "0001999371-26-020607",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
