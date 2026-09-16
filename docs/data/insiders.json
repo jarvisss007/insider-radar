@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-16 18:17 UTC",
+ "updated_utc": "2026-09-16 18:48 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chen Pei-Hung",
-   "role": "VP",
-   "date": "2026-09-07",
-   "shares": 46.0,
-   "price": 76.2,
-   "value": 3505.2,
-   "acc": "0001046179-26-000603",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lin Chris Horng-Dar",
-   "role": "VP and CIO",
-   "date": "2026-09-07",
-   "shares": 47.0,
-   "price": 76.2,
-   "value": 3581.4,
-   "acc": "0001046179-26-000637",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Ku Yao-Ching",
-   "role": "VP",
-   "date": "2026-09-07",
-   "shares": 47.0,
-   "price": 76.2,
-   "value": 3581.4,
-   "acc": "0001046179-26-000622",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4519,6 +4483,30 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Mitchell William Edward",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 67.23,
+   "price": 14.875,
+   "value": 1000.05,
+   "acc": "0000752642-26-000098",
+   "filed": "2026-09-16"
+  },
+  {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Miller Kevin S.",
+   "role": "EVP, CFO, Treasurer",
+   "date": "2026-09-15",
+   "shares": 67.23,
+   "price": 14.875,
+   "value": 1000.05,
+   "acc": "0000752642-26-000097",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "WILLIAMSON JOHN B III",
@@ -4805,6 +4793,18 @@
    "value": 1231.51,
    "acc": "0002131351-26-000014",
    "filed": "2026-09-16"
+  },
+  {
+   "ticker": "RWT",
+   "company": "REDWOOD TRUST INC",
+   "insider": "Robinson Dashiell I",
+   "role": "President",
+   "date": "2026-09-16",
+   "shares": 63211.13,
+   "price": 3.98,
+   "value": 251580.3,
+   "acc": "0001716998-26-000004",
+   "filed": "2026-09-16"
   }
  ],
  "clusters": [
@@ -4845,8 +4845,8 @@
   },
   {
    "ticker": "RWT",
-   "insiders": 3,
-   "total_value": 676698.17
+   "insiders": 4,
+   "total_value": 928278.47
   },
   {
    "ticker": "SBLK",
@@ -4889,14 +4889,14 @@
    "total_value": 94893.78
   },
   {
-   "ticker": "TSM",
-   "insiders": 21,
-   "total_value": 94488.0
-  },
-  {
    "ticker": "ALP",
    "insiders": 3,
    "total_value": 90547.75
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 18,
+   "total_value": 83820.0
   },
   {
    "ticker": "RGCO",
@@ -4939,6 +4939,11 @@
    "total_value": 9899.5
   },
   {
+   "ticker": "UMH",
+   "insiders": 2,
+   "total_value": 2000.1
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "insiders": 2,
    "total_value": 1397.38
@@ -4961,16 +4966,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027539",
-  "0001918704-26-027540",
-  "0001918704-26-027541",
-  "0001918704-26-027542",
-  "0001918704-26-027543",
-  "0001918704-26-027544",
-  "0001918704-26-027545",
-  "0001918704-26-027546",
-  "0001918704-26-027547",
-  "0001918704-26-027548",
   "0001918704-26-027549",
   "0001918704-26-027550",
   "0001918704-26-027551",
@@ -5204,6 +5199,16 @@
   "0001918704-26-027799",
   "0001918704-26-027800",
   "0001918704-26-027801",
+  "0001918704-26-027802",
+  "0001918704-26-027803",
+  "0001918704-26-027804",
+  "0001918704-26-027805",
+  "0001918704-26-027806",
+  "0001918704-26-027807",
+  "0001918704-26-027808",
+  "0001918704-26-027809",
+  "0001918704-26-027810",
+  "0001918704-26-027811",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
