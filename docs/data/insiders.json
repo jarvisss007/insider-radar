@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-16 23:01 UTC",
+ "updated_utc": "2026-09-16 23:17 UTC",
  "purchases": [
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-08",
-   "shares": 471.0,
-   "price": 69.37,
-   "value": 32673.27,
-   "acc": "0001493152-26-042023",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
@@ -4435,6 +4423,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "BUKS",
+   "company": "BUTLER NATIONAL CORP",
+   "insider": "Loh Michael Anthony",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 10000.0,
+   "price": 3.91,
+   "value": 39100.0,
+   "acc": "0002033348-26-000012",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "EU",
    "company": "enCore Energy Corp.",
    "insider": "SHERIFF WILLIAM M",
@@ -4879,6 +4879,11 @@
    "total_value": 322346.1
   },
   {
+   "ticker": "BUKS",
+   "insiders": 2,
+   "total_value": 261350.0
+  },
+  {
    "ticker": "MAIA",
    "insiders": 2,
    "total_value": 149526.37
@@ -4976,7 +4981,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027642",
   "0001918704-26-027643",
   "0001918704-26-027644",
   "0001918704-26-027645",
@@ -6824,6 +6828,7 @@
   "0002033015-26-000006",
   "0002033056-26-000016",
   "0002033348-26-000008",
+  "0002033348-26-000012",
   "0002033633-26-000005",
   "0002033834-26-000019",
   "0002034012-26-000021",
