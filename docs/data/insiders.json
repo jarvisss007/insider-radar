@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-16 12:00 UTC",
+ "updated_utc": "2026-09-16 13:03 UTC",
  "purchases": [
-  {
-   "ticker": "CMRF",
-   "company": "CIM GROUP, INC.",
-   "insider": "RESSLER RICHARD S",
-   "role": "CEO & President",
-   "date": "2026-09-04",
-   "shares": 526808.168,
-   "price": 5.14,
-   "value": 2707793.98,
-   "acc": "0001498547-26-000057",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "PSEC",
-   "company": "PROSPECT CAPITAL CORP",
-   "insider": "Barry John F",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-09-04",
-   "shares": 1217105.0,
-   "price": 2.24,
-   "value": 2726315.2,
-   "acc": "0001294357-26-000015",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4531,6 +4507,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "AVBC",
+   "company": "Avidia Bancorp, Inc.",
+   "insider": "Murphy Michael Dennis",
+   "role": "Director",
+   "date": "2026-09-14",
+   "shares": 5000.0,
+   "price": 22.12,
+   "value": 110600.0,
+   "acc": "0001437749-26-030507",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "DVN",
    "company": "DEVON ENERGY CORP/DE",
    "insider": "Gaspar Clay M",
@@ -4783,6 +4771,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "CELH",
+   "company": "Celsius Holdings, Inc.",
+   "insider": "Kravitz Hal",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 12000.0,
+   "price": 28.0,
+   "value": 336000.0,
+   "acc": "0001628280-26-062134",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
    "insider": "Abate Christopher J",
@@ -4834,14 +4834,14 @@
    "total_value": 3212979.31
   },
   {
+   "ticker": "CELH",
+   "insiders": 3,
+   "total_value": 1830042.6
+  },
+  {
    "ticker": "RLMD",
    "insiders": 2,
    "total_value": 1671990.0
-  },
-  {
-   "ticker": "CELH",
-   "insiders": 2,
-   "total_value": 1494042.6
   },
   {
    "ticker": "PRTS",
@@ -4961,8 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027412",
-  "0001918704-26-027413",
   "0001918704-26-027414",
   "0001918704-26-027415",
   "0001918704-26-027418",
@@ -6517,6 +6515,7 @@
   "0001999371-26-020559",
   "0001999371-26-020566",
   "0001999371-26-020567",
+  "0001999371-26-020592",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7413,6 +7412,7 @@
   "0002078374-26-000003",
   "0002078454-26-000012",
   "0002078454-26-000014",
+  "0002078512-26-000004",
   "0002078559-26-000008",
   "0002078559-26-000010",
   "0002078561-26-000005",
