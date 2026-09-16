@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-16 16:11 UTC",
+ "updated_utc": "2026-09-16 16:27 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yuan Lipen",
-   "role": "VP",
-   "date": "2026-09-07",
-   "shares": 41.0,
-   "price": 76.2,
-   "value": 3124.2,
-   "acc": "0001046179-26-000652",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4315,6 +4303,18 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "ASYS",
+   "company": "AMTECH SYSTEMS INC",
+   "insider": "SABOL THOMAS B",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-14",
+   "shares": 2000.0,
+   "price": 14.135,
+   "value": 28270.0,
+   "acc": "0001193125-26-392787",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "STI",
    "company": "Solidion Technology Inc.",
    "insider": "Tjon Karin-Joyce",
@@ -4879,14 +4879,14 @@
    "total_value": 137998.3
   },
   {
-   "ticker": "TSM",
-   "insiders": 25,
-   "total_value": 107746.8
-  },
-  {
    "ticker": "FGBI",
    "insiders": 2,
    "total_value": 106492.5
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 24,
+   "total_value": 104622.6
   },
   {
    "ticker": "GPUS",
@@ -4961,9 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027480",
-  "0001918704-26-027481",
-  "0001918704-26-027492",
   "0001918704-26-027493",
   "0001918704-26-027497",
   "0001918704-26-027498",
@@ -5208,6 +5205,9 @@
   "0001918704-26-027769",
   "0001918704-26-027770",
   "0001918704-26-027771",
+  "0001918704-26-027772",
+  "0001918704-26-027773",
+  "0001918704-26-027774",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
