@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-16 15:08 UTC",
+ "updated_utc": "2026-09-16 15:24 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Huang Jen-Chau",
-   "role": "SVP and CFO",
-   "date": "2026-09-07",
-   "shares": 30.0,
-   "price": 76.2,
-   "value": 2286.0,
-   "acc": "0001046179-26-000623",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4699,6 +4687,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "SBLK",
+   "company": "Star Bulk Carriers Corp.",
+   "insider": "Karellis Nikolaos",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 2000.0,
+   "price": 28.27,
+   "value": 56540.0,
+   "acc": "0002011929-26-000010",
+   "filed": "2026-09-16"
+  },
+  {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
    "insider": "Carillo Brooke",
@@ -4864,6 +4864,11 @@
    "total_value": 351415.59
   },
   {
+   "ticker": "SBLK",
+   "insiders": 2,
+   "total_value": 226160.0
+  },
+  {
    "ticker": "MAIA",
    "insiders": 2,
    "total_value": 149526.37
@@ -4875,8 +4880,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 30,
-   "total_value": 121462.8
+   "insiders": 29,
+   "total_value": 119176.8
   },
   {
    "ticker": "FGBI",
@@ -4956,9 +4961,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027456",
-  "0001918704-26-027457",
-  "0001918704-26-027458",
   "0001918704-26-027459",
   "0001918704-26-027460",
   "0001918704-26-027461",
@@ -5206,6 +5208,8 @@
   "0001918704-26-027751",
   "0001918704-26-027752",
   "0001918704-26-027753",
+  "0001918704-26-027754",
+  "0001918704-26-027755",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -6625,6 +6629,7 @@
   "0002011100-26-000006",
   "0002011118-26-000008",
   "0002011525-26-000002",
+  "0002011929-26-000010",
   "0002012024-26-000008",
   "0002012135-26-000021",
   "0002012354-26-000002",
