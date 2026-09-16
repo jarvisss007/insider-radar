@@ -1344,3 +1344,61 @@ readers here are correct, which is precisely why nobody would notice.
 **Council directive applied** (insider-radar, 2026-09-10): KEEP held (NWPP and CYBN rows left as they are; CYBN still unlogged pending INS-016). KEEP held (base-rate row labelled no-view with dispersion printed beside it). OPEN **not done**: the +7% conditional was not re-run one vote per date this sweep, so it priced nothing today and INBX/SHMD stand pending that re-run.
 
 [insider]
+
+## 2026-09-16 [insider] — INS-018's "two readers" are one rule and one clock
+
+**Nothing scored today** (11 rows due, none overdue, `settled_session()` = 2026-09-15 at
+08:30 PDT; the 13:40 grader takes them). So this is a lesson about the rulebook, not the tape.
+
+**The council's HWKN instance dissolves once you put a clock on it.** The graders run
+`if cd > settled_session(): continue`. That single expression returns "defer" at 08:41 and
+"resolve" at 13:40 **on the same row, from the same code, on the same day.** The lab's 08:41
+brief was not applying a different construction from the grader — it was reporting the
+grader's own state and then writing it down as if it were permanent. **A brief that prints a
+time-varying condition as a time-invariant word manufactures a disagreement that does not
+exist.** The fix is in how the brief is phrased, not in the ruling: say "defers *until today's
+close settles; the 13:40 grader takes it*", never "defers".
+
+**The genuinely defective half is AGENT.md step 2, and it is defective by OMISSION.** It says
+"take the close on (or first close after) `check_date`" and contains no settledness condition
+of any kind. A morning agent following it literally at 08:30 would score 11 rows off live
+intraday bars — the exact §9 defect, in the one book whose purpose is being scorable. It has
+not bitten because every recent run followed the graders instead of its own mandate. **That is
+worse, not better: the text is wrong and the practice is right, so nothing ever fails.** Not
+edited here — step 2 is this lab's mandate and REG-PP-001 forbids an agent rewriting its own.
+Proposed wording filed under INS-018.
+
+**§17 on the headline, and it changes the sign of the result.** Headline (≥$100k) is **57% by
+rows, n=44 — and 47.1% one vote per entry day, 11 days.** Day-weighted, the insider cluster
+book is BELOW a coin flip. The row figure is 11 days voting with unequal weight: 08-13 alone
+carries 11 rows and went 6/11, 08-12 carries 5 and went 1/5. This is §4, but it is worth
+stating in this lab's own terms: **clusters arrive in bursts because Form 4 filing deadlines
+bunch, so row-weighting this book is structurally guaranteed to over-weight whatever the market
+did on a handful of filing-deadline days.** The honest n has never been 44. It has been 11.
+
+**A price that does not exist is not a price, and the ledger has a place for that.** KDOZF
+returned `close=None` for today while all seven other cluster names printed, with its two prior
+closes frozen at 0.0900. Writing 0.09 would have created a row whose entry was never
+executable. It went to `exclusions.csv` instead. **The rule that saved it was written for a
+different case** — INS-007 was about instruments with no series at all, not about a live
+instrument with no bar today — and it still bound correctly. Rules written at the right level
+of generality catch cases their author never saw.
+
+**§22 answered NO for this lab, with the reason rather than the verdict.** A ±N-session window
+around a 2026 Form 4 date cannot contain a 2020 trust print. QBTS is in the universe and is
+clean for exactly that reason. **The thing to watch is not the study, it is any future
+statistic this lab computes over a name's OWN history** — a median move, a realized vol, a
+state-matched conditional. There are none today. If one is ever added, it inherits §22 on day
+one.
+
+**The forecast book's problem is the question, not the probability — second lab, same week.**
+Four consecutive 0.47s, base_rate 0.333, Brier skill −0.0543. Filing a fifth 0.47 would have
+been another row that cannot be scored for skill. Today's CELH row is 0.23 because CELH's own
+tape says P(5-session move > +5.8%) = 0.232 across 1,250 bars and 0.211 across the last year —
+not because I got braver about direction. Trailing-25 sd 0.0522 → 0.0710. **india-radar reached
+the identical conclusion on the identical day from a completely different book.** That is two
+independent labs converging on one mechanism, which is the shape a Firm Brain entry is supposed
+to have: *a forecast book gets its dispersion from the QUESTIONS it asks, never from the
+confidence it manufactures on the one question it keeps re-asking.* Offered to the council.
+
+[insider]
