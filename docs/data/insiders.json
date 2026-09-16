@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-16 01:39 UTC",
+ "updated_utc": "2026-09-16 01:54 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-04",
-   "shares": 2333.0,
-   "price": 305.0888,
-   "value": 711772.17,
-   "acc": "0000905148-26-004111",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "TSN",
-   "company": "TYSON FOODS, INC.",
-   "insider": "Schomburger Jeffrey K",
-   "role": "President & CEO Elect",
-   "date": "2026-09-04",
-   "shares": 19450.0,
-   "price": 51.497,
-   "value": 1001616.65,
-   "acc": "0001628280-26-060888",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -3583,6 +3559,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "TENX",
+   "company": "TENAX THERAPEUTICS, INC.",
+   "insider": "Giordano Christopher Thomas",
+   "role": "CEO",
+   "date": "2026-09-11",
+   "shares": 6000.0,
+   "price": 1.875,
+   "value": 11250.0,
+   "acc": "0001871714-26-000002",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "CSPI",
    "company": "CSP INC /MA/",
    "insider": "NERGES JOSEPH R",
@@ -4675,6 +4663,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "TENX",
+   "company": "TENAX THERAPEUTICS, INC.",
+   "insider": "Giordano Christopher Thomas",
+   "role": "CEO",
+   "date": "2026-09-15",
+   "shares": 4850.0,
+   "price": 1.8221,
+   "value": 8837.18,
+   "acc": "0001871714-26-000002",
+   "filed": "2026-09-15"
+  },
+  {
    "ticker": "LMB",
    "company": "Limbach Holdings, Inc.",
    "insider": "Horowitz Joshua",
@@ -4922,6 +4922,11 @@
    "ticker": "STI",
    "insiders": 2,
    "total_value": 42996.24
+  },
+  {
+   "ticker": "TENX",
+   "insiders": 2,
+   "total_value": 31068.3
   },
   {
    "ticker": "BRN",
