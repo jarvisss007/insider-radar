@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-16 00:52 UTC",
+ "updated_utc": "2026-09-16 01:23 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-04",
-   "shares": 1913691.0,
-   "price": 0.1889,
-   "value": 361496.23,
-   "acc": "0001214659-26-011476",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -1788,6 +1776,18 @@
    "value": 6750.0,
    "acc": "0001493152-26-042298",
    "filed": "2026-09-11"
+  },
+  {
+   "ticker": "STI",
+   "company": "Solidion Technology Inc.",
+   "insider": "Winters Jaymes",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-09",
+   "shares": 984.0,
+   "price": 7.11,
+   "value": 6996.24,
+   "acc": "0001213900-26-100273",
+   "filed": "2026-09-15"
   },
   {
    "ticker": "SELF",
@@ -4849,14 +4849,14 @@
    "total_value": 1378810.72
   },
   {
-   "ticker": "GPUS",
-   "insiders": 2,
-   "total_value": 817886.24
-  },
-  {
    "ticker": "RWT",
    "insiders": 3,
    "total_value": 676698.17
+  },
+  {
+   "ticker": "GPUS",
+   "insiders": 2,
+   "total_value": 456390.01
   },
   {
    "ticker": "BWFG",
@@ -4917,6 +4917,11 @@
    "ticker": "OFLX",
    "insiders": 2,
    "total_value": 45509.7
+  },
+  {
+   "ticker": "STI",
+   "insiders": 2,
+   "total_value": 42996.24
   },
   {
    "ticker": "BRN",
