@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-17 11:49 UTC",
+ "updated_utc": "2026-09-17 12:35 UTC",
  "purchases": [
-  {
-   "ticker": "PDYN",
-   "company": "Palladyne AI Corp.",
-   "insider": "Wolff Benjamin G",
-   "role": "PRESIDENT & CEO",
-   "date": "2026-09-08",
-   "shares": 17121.0,
-   "price": 5.7899,
-   "value": 99128.88,
-   "acc": "0001368618-26-000015",
-   "filed": "2026-09-08"
-  },
   {
    "ticker": "KRMD",
    "company": "KORU Medical Systems, Inc.",
@@ -4627,6 +4615,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "SBLK",
+   "company": "Star Bulk Carriers Corp.",
+   "insider": "Reskos Nikolaos",
+   "role": "Chief Operating Officer",
+   "date": "2026-09-15",
+   "shares": 10000.0,
+   "price": 28.27,
+   "value": 282700.0,
+   "acc": "0001969292-26-000010",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "CELH",
    "company": "Celsius Holdings, Inc.",
    "insider": "Kravitz Hal",
@@ -4849,14 +4849,14 @@
    "total_value": 1378810.72
   },
   {
+   "ticker": "SBLK",
+   "insiders": 4,
+   "total_value": 932910.0
+  },
+  {
    "ticker": "RWT",
    "insiders": 4,
    "total_value": 928278.47
-  },
-  {
-   "ticker": "SBLK",
-   "insiders": 3,
-   "total_value": 650210.0
   },
   {
    "ticker": "CROX",
@@ -4991,7 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027663",
   "0001918704-26-027664",
   "0001918704-26-027665",
   "0001918704-26-027666",
@@ -5517,6 +5516,7 @@
   "0001968977-26-000012",
   "0001969106-26-000004",
   "0001969292-26-000009",
+  "0001969292-26-000010",
   "0001969449-26-000004",
   "0001969701-26-000006",
   "0001970357-26-000014",
