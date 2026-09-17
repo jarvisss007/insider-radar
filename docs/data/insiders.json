@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-09-17 20:48 UTC",
+ "updated_utc": "2026-09-17 21:04 UTC",
  "purchases": [
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 756.0,
-   "price": 2.95,
-   "value": 2230.2,
-   "acc": "0001437749-26-030042",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "BRID",
-   "company": "BRIDGFORD FOODS CORP",
-   "insider": "Bridgford Allan Jr.",
-   "role": "",
-   "date": "2026-09-09",
-   "shares": 466.0,
-   "price": 5.83,
-   "value": 2716.78,
-   "acc": "0001493152-26-042340",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Landesberg Stuart",
-   "role": "Director",
-   "date": "2026-09-09",
-   "shares": 2943.0,
-   "price": 1.0499,
-   "value": 3089.86,
-   "acc": "0001841761-26-000098",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "CLIK",
-   "company": "Click Holdings Ltd.",
-   "insider": "Chan Chun Sing",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-09",
-   "shares": 2500.0,
-   "price": 1.24,
-   "value": 3100.0,
-   "acc": "0001493152-26-042298",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "TOFB",
-   "company": "TOFUTTI BRANDS INC",
-   "insider": "A-6684 Ltd.",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 10000.0,
-   "price": 0.4,
-   "value": 4000.0,
-   "acc": "0001994334-26-000013",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "FGBI",
-   "company": "First Guaranty Bancshares, Inc.",
-   "insider": "McAnally Bruce",
-   "role": "Director",
-   "date": "2026-09-09",
-   "shares": 250.0,
-   "price": 18.25,
-   "value": 4562.5,
-   "acc": "0001437749-26-030075",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-09",
-   "shares": 220.0,
-   "price": 21.45,
-   "value": 4719.0,
-   "acc": "0001437749-26-030157",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "ALP",
-   "company": "Alpha Compute Corp",
-   "insider": "Levitt Wesley Allen",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-09",
-   "shares": 1000.0,
-   "price": 5.0955,
-   "value": 5095.5,
-   "acc": "0001171843-26-006009",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 980.0,
-   "price": 6.3,
-   "value": 6174.0,
-   "acc": "0000912282-26-001260",
-   "filed": "2026-09-10"
-  },
   {
    "ticker": "CLIK",
    "company": "Click Holdings Ltd.",
@@ -3955,6 +3847,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "SKIL",
+   "company": "Skillsoft Corp.",
+   "insider": "HOVSEPIAN RONALD W",
+   "role": "CEO & Executive Chair",
+   "date": "2026-09-15",
+   "shares": 4508.0,
+   "price": 5.4625,
+   "value": 24624.95,
+   "acc": "0001091482-26-000013",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "LMB",
    "company": "Limbach Holdings, Inc.",
    "insider": "Krzeminski Laurel J",
@@ -4255,6 +4159,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "SKIL",
+   "company": "Skillsoft Corp.",
+   "insider": "FRANKOLA JIM",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 25000.0,
+   "price": 5.1438,
+   "value": 128595.0,
+   "acc": "0001183231-26-000011",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "LMB",
    "company": "Limbach Holdings, Inc.",
    "insider": "Horowitz Joshua",
@@ -4398,6 +4314,30 @@
    "value": 447200.0,
    "acc": "0001628280-26-062057",
    "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BWMX",
+   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "insider": "CHEVALLIER ANDRES CAMPOS",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-09-15",
+   "shares": 30000.0,
+   "price": 16.4097,
+   "value": 492291.0,
+   "acc": "0001213900-26-101012",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "BWMX",
+   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "insider": "Campos Luis",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 45000.0,
+   "price": 16.2588,
+   "value": 731646.0,
+   "acc": "0001213900-26-101014",
+   "filed": "2026-09-17"
   },
   {
    "ticker": "SBLK",
@@ -4580,6 +4520,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "SKIL",
+   "company": "Skillsoft Corp.",
+   "insider": "HOVSEPIAN RONALD W",
+   "role": "CEO & Executive Chair",
+   "date": "2026-09-16",
+   "shares": 1421.0,
+   "price": 5.8958,
+   "value": 8377.93,
+   "acc": "0001091482-26-000013",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
    "insider": "Graham Stacey",
@@ -4688,6 +4640,30 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "BWMX",
+   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "insider": "CHEVALLIER SANTIAGO CAMPOS",
+   "role": "MD Betterware Mexico",
+   "date": "2026-09-16",
+   "shares": 15000.0,
+   "price": 16.4616,
+   "value": 246924.0,
+   "acc": "0001213900-26-101015",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "BWMX",
+   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "insider": "CHEVALLIER ANDRES CAMPOS",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-09-16",
+   "shares": 15000.0,
+   "price": 16.4996,
+   "value": 247494.0,
+   "acc": "0001213900-26-101012",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
    "insider": "Robinson Dashiell I",
@@ -4733,6 +4709,18 @@
    "price": 68.06,
    "value": 500921.6,
    "acc": "0001348490-26-000006",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "BWMX",
+   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "insider": "Campos Luis",
+   "role": "Director",
+   "date": "2026-09-16",
+   "shares": 35000.0,
+   "price": 16.4416,
+   "value": 575456.0,
+   "acc": "0001213900-26-101014",
    "filed": "2026-09-17"
   },
   {
@@ -4806,6 +4794,18 @@
    "value": 81300.0,
    "acc": "0001193125-26-394355",
    "filed": "2026-09-17"
+  },
+  {
+   "ticker": "PLAY",
+   "company": "Dave & Buster's Entertainment, Inc.",
+   "insider": "Lipman Nathaniel",
+   "role": "Director",
+   "date": "2026-09-17",
+   "shares": 12000.0,
+   "price": 6.775,
+   "value": 81300.0,
+   "acc": "0001193125-26-394477",
+   "filed": "2026-09-17"
   }
  ],
  "clusters": [
@@ -4823,6 +4823,11 @@
    "ticker": "SBLK",
    "insiders": 8,
    "total_value": 6920496.0
+  },
+  {
+   "ticker": "BWMX",
+   "insiders": 3,
+   "total_value": 2293811.0
   },
   {
    "ticker": "ADC",
@@ -4875,6 +4880,11 @@
    "total_value": 267344.04
   },
   {
+   "ticker": "SKIL",
+   "insiders": 2,
+   "total_value": 161597.88
+  },
+  {
    "ticker": "MAIA",
    "insiders": 2,
    "total_value": 149526.37
@@ -4890,14 +4900,9 @@
    "total_value": 123760.95
   },
   {
-   "ticker": "FGBI",
-   "insiders": 2,
-   "total_value": 97292.5
-  },
-  {
    "ticker": "ALP",
-   "insiders": 3,
-   "total_value": 90547.75
+   "insiders": 2,
+   "total_value": 85452.25
   },
   {
    "ticker": "FLNT",
@@ -4917,7 +4922,7 @@
   {
    "ticker": "RGCO",
    "insiders": 3,
-   "total_value": 66440.06
+   "total_value": 61721.06
   },
   {
    "ticker": "NNOX",
@@ -4992,14 +4997,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027807",
-  "0001918704-26-027808",
-  "0001918704-26-027809",
-  "0001918704-26-027810",
-  "0001918704-26-027811",
-  "0001918704-26-027812",
-  "0001918704-26-027813",
-  "0001918704-26-027814",
   "0001918704-26-027815",
   "0001918704-26-027816",
   "0001918704-26-027817",
@@ -5150,6 +5147,13 @@
   "0001918704-26-028005",
   "0001918704-26-028006",
   "0001918704-26-028007",
+  "0001918704-26-028020",
+  "0001918704-26-028021",
+  "0001918704-26-028022",
+  "0001918704-26-028023",
+  "0001918704-26-028024",
+  "0001918704-26-028025",
+  "0001918704-26-028026",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7989,6 +7993,7 @@
   "0002153881-26-000005",
   "0002154190-26-000005",
   "0002154199-26-000008",
+  "0002154205-26-000008",
   "0002154267-26-000004",
   "0002154828-26-000005",
   "0002154894-26-000005"
