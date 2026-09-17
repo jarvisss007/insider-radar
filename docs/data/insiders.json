@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-17 20:16 UTC",
+ "updated_utc": "2026-09-17 20:48 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-09",
-   "shares": 5500.0,
-   "price": 0.1887,
-   "value": 1037.85,
-   "acc": "0001214659-26-011678",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "BRN",
-   "company": "BARNWELL INDUSTRIES INC",
-   "insider": "Patman Philip F Jr",
-   "role": "CFO and Treasurer",
-   "date": "2026-09-09",
-   "shares": 1737.0,
-   "price": 1.0,
-   "value": 1737.0,
-   "acc": "0001140361-26-036103",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "NNUP",
-   "company": "NOCOPI TECHNOLOGIES INC/MD/",
-   "insider": "Sites Eric",
-   "role": "Director",
-   "date": "2026-09-09",
-   "shares": 1000.0,
-   "price": 1.9,
-   "value": 1900.0,
-   "acc": "0001079973-26-001237",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-09",
-   "shares": 89.0,
-   "price": 21.38,
-   "value": 1902.82,
-   "acc": "0001437749-26-030157",
-   "filed": "2026-09-11"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -3571,6 +3523,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "BUKS",
+   "company": "BUTLER NATIONAL CORP",
+   "insider": "Daly Joseph Patrick",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 96.0,
+   "price": 3.9,
+   "value": 374.4,
+   "acc": "0001332596-26-000006",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "CTSO",
    "company": "Cytosorbents Corp",
    "insider": "Sobel Alan D.",
@@ -3629,6 +3593,18 @@
    "value": 1561.38,
    "acc": "0001072627-26-000054",
    "filed": "2026-09-16"
+  },
+  {
+   "ticker": "BUKS",
+   "company": "BUTLER NATIONAL CORP",
+   "insider": "Daly Joseph Patrick",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 404.0,
+   "price": 3.91,
+   "value": 1579.64,
+   "acc": "0001332596-26-000006",
+   "filed": "2026-09-17"
   },
   {
    "ticker": "MCFT",
@@ -3725,6 +3701,18 @@
    "value": 3757.12,
    "acc": "0001214659-26-011702",
    "filed": "2026-09-15"
+  },
+  {
+   "ticker": "BUKS",
+   "company": "BUTLER NATIONAL CORP",
+   "insider": "Daly Joseph Patrick",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 1000.0,
+   "price": 4.04,
+   "value": 4040.0,
+   "acc": "0001332596-26-000006",
+   "filed": "2026-09-17"
   },
   {
    "ticker": "AIM",
@@ -4580,6 +4568,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "SCM",
+   "company": "Stellus Capital Investment Corp",
+   "insider": "Arnoult J Tim",
+   "role": "Director",
+   "date": "2026-09-16",
+   "shares": 1000.0,
+   "price": 7.97,
+   "value": 7970.0,
+   "acc": "0001104659-26-108591",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
    "insider": "Graham Stacey",
@@ -4871,8 +4871,8 @@
   },
   {
    "ticker": "BUKS",
-   "insiders": 2,
-   "total_value": 261350.0
+   "insiders": 3,
+   "total_value": 267344.04
   },
   {
    "ticker": "MAIA",
@@ -4917,7 +4917,7 @@
   {
    "ticker": "RGCO",
    "insiders": 3,
-   "total_value": 68342.88
+   "total_value": 66440.06
   },
   {
    "ticker": "NNOX",
@@ -4992,9 +4992,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027804",
-  "0001918704-26-027805",
-  "0001918704-26-027806",
   "0001918704-26-027807",
   "0001918704-26-027808",
   "0001918704-26-027809",
@@ -6981,6 +6978,7 @@
   "0002050530-26-000008",
   "0002050576-26-000004",
   "0002050857-26-000012",
+  "0002050857-26-000016",
   "0002050978-26-000006",
   "0002050978-26-000008",
   "0002051008-26-000002",
@@ -7448,6 +7446,7 @@
   "0002080498-26-000005",
   "0002080505-26-000004",
   "0002080506-26-000025",
+  "0002080506-26-000027",
   "0002080538-26-000006",
   "0002080588-26-000005",
   "0002080671-26-000014",
@@ -7630,6 +7629,7 @@
   "0002108262-26-000006",
   "0002108589-26-000018",
   "0002108589-26-000022",
+  "0002108589-26-000024",
   "0002109272-26-000008",
   "0002109272-26-000010",
   "0002109337-26-000010",
