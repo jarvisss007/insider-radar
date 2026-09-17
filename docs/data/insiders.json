@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-17 19:29 UTC",
+ "updated_utc": "2026-09-17 20:00 UTC",
  "purchases": [
-  {
-   "ticker": "CYBN",
-   "company": "CYBIN INC.",
-   "insider": "Glavine Paul",
-   "role": "Chief Growth Officer",
-   "date": "2026-09-08",
-   "shares": 100000.0,
-   "price": 12.4719,
-   "value": 1247190.0,
-   "acc": "0000912282-26-001263",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "ALMS",
-   "company": "ALUMIS INC.",
-   "insider": "AKKARAJU SRINIVAS",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 273290.0,
-   "price": 10.6271,
-   "value": 2904280.16,
-   "acc": "0001231919-26-001158",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "ALMS",
-   "company": "ALUMIS INC.",
-   "insider": "AKKARAJU SRINIVAS",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 273291.0,
-   "price": 10.6271,
-   "value": 2904290.79,
-   "acc": "0001231919-26-001158",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-09-08",
-   "shares": 1600000.0,
-   "price": 16.25,
-   "value": 26000000.0,
-   "acc": "0001493152-26-042256",
-   "filed": "2026-09-10"
-  },
   {
    "ticker": "WAST",
    "company": "WASTE ENERGY CORP.",
@@ -3763,6 +3715,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "BRID",
+   "company": "BRIDGFORD FOODS CORP",
+   "insider": "Bridgford Allan Jr.",
+   "role": "",
+   "date": "2026-09-15",
+   "shares": 195.0,
+   "price": 5.95,
+   "value": 1160.25,
+   "acc": "0001493152-26-043108",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
    "insider": "Hansen Kent A",
@@ -4591,6 +4555,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "BRID",
+   "company": "BRIDGFORD FOODS CORP",
+   "insider": "Bridgford Allan Jr.",
+   "role": "",
+   "date": "2026-09-16",
+   "shares": 326.0,
+   "price": 5.9,
+   "value": 1923.4,
+   "acc": "0001493152-26-043108",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4672,6 +4648,30 @@
    "price": 10.88,
    "value": 16689.92,
    "acc": "0001510281-26-000304",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "EML",
+   "company": "EASTERN CO",
+   "insider": "EVERETS JOHN",
+   "role": "Director",
+   "date": "2026-09-16",
+   "shares": 1037.0,
+   "price": 25.25,
+   "value": 26184.25,
+   "acc": "0000031107-26-000041",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "EML",
+   "company": "EASTERN CO",
+   "insider": "Galbato Chan",
+   "role": "Director",
+   "date": "2026-09-16",
+   "shares": 1217.0,
+   "price": 25.25,
+   "value": 30729.25,
+   "acc": "0000031107-26-000039",
    "filed": "2026-09-17"
   },
   {
@@ -4924,6 +4924,11 @@
    "total_value": 60000.0
   },
   {
+   "ticker": "EML",
+   "insiders": 2,
+   "total_value": 56913.5
+  },
+  {
    "ticker": "CTSO",
    "insiders": 3,
    "total_value": 50434.7
@@ -4986,18 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027786",
-  "0001918704-26-027787",
-  "0001918704-26-027788",
-  "0001918704-26-027789",
-  "0001918704-26-027790",
-  "0001918704-26-027791",
-  "0001918704-26-027792",
-  "0001918704-26-027793",
-  "0001918704-26-027794",
-  "0001918704-26-027795",
-  "0001918704-26-027796",
-  "0001918704-26-027797",
   "0001918704-26-027798",
   "0001918704-26-027799",
   "0001918704-26-027800",
@@ -5153,6 +5146,18 @@
   "0001918704-26-027993",
   "0001918704-26-027994",
   "0001918704-26-027995",
+  "0001918704-26-027996",
+  "0001918704-26-027997",
+  "0001918704-26-027998",
+  "0001918704-26-027999",
+  "0001918704-26-028000",
+  "0001918704-26-028001",
+  "0001918704-26-028002",
+  "0001918704-26-028003",
+  "0001918704-26-028004",
+  "0001918704-26-028005",
+  "0001918704-26-028006",
+  "0001918704-26-028007",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
