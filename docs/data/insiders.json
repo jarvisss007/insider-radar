@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-09-17 20:00 UTC",
+ "updated_utc": "2026-09-17 20:16 UTC",
  "purchases": [
-  {
-   "ticker": "WAST",
-   "company": "WASTE ENERGY CORP.",
-   "insider": "GALLAGHER SCOTT",
-   "role": "Chairman and CEO",
-   "date": "2026-09-09",
-   "shares": 25000.0,
-   "price": 0.0024,
-   "value": 60.0,
-   "acc": "0001493152-26-042242",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "MGX",
-   "company": "Metagenomi Therapeutics, Inc.",
-   "insider": "Reid Laurence",
-   "role": "Director",
-   "date": "2026-09-09",
-   "shares": 117.0,
-   "price": 1.18,
-   "value": 138.06,
-   "acc": "0001193125-26-389550",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 1.0,
-   "price": 378.57,
-   "value": 378.57,
-   "acc": "0001437749-26-030032",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "KDOZF",
-   "company": "KIDOZ INC.",
-   "insider": "Williams Tryon M",
-   "role": "Chairman",
-   "date": "2026-09-09",
-   "shares": 5000.0,
-   "price": 0.1087,
-   "value": 543.5,
-   "acc": "0001278521-26-000012",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "MDRR",
-   "company": "Medalist Diversified, Inc.",
-   "insider": "Winn Charles Brent Jr.",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-09-09",
-   "shares": 49.0,
-   "price": 12.0,
-   "value": 588.0,
-   "acc": "0001808471-26-000025",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "Edell Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-09",
-   "shares": 1000.0,
-   "price": 0.85,
-   "value": 850.0,
-   "acc": "0001628280-26-061448",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "Edell Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-09",
-   "shares": 1000.0,
-   "price": 0.89,
-   "value": 890.0,
-   "acc": "0001628280-26-061448",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 150.0,
-   "price": 6.66,
-   "value": 999.0,
-   "acc": "0000912282-26-001260",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-09",
-   "shares": 5500.0,
-   "price": 0.1887,
-   "value": 1037.85,
-   "acc": "0001214659-26-011648",
-   "filed": "2026-09-11"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -3811,6 +3703,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-15",
+   "shares": 20000.0,
+   "price": 0.1859,
+   "value": 3718.0,
+   "acc": "0001214659-26-011758",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "CSPI",
    "company": "CSP INC /MA/",
    "insider": "NERGES JOSEPH R",
@@ -3833,6 +3737,18 @@
    "value": 4862.0,
    "acc": "0001493152-26-042848",
    "filed": "2026-09-16"
+  },
+  {
+   "ticker": "BENF",
+   "company": "Beneficient",
+   "insider": "Fletcher Derek L.",
+   "role": "See Remarks",
+   "date": "2026-09-15",
+   "shares": 4717.0,
+   "price": 1.06,
+   "value": 5000.02,
+   "acc": "0001493152-26-043125",
+   "filed": "2026-09-17"
   },
   {
    "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
@@ -3904,6 +3820,18 @@
    "price": 20.89,
    "value": 9588.51,
    "acc": "0001510281-26-000305",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "BENF",
+   "company": "Beneficient",
+   "insider": "Silk James G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-15",
+   "shares": 9434.0,
+   "price": 1.06,
+   "value": 10000.04,
+   "acc": "0001493152-26-043124",
    "filed": "2026-09-17"
   },
   {
@@ -4001,6 +3929,18 @@
    "value": 19856.0,
    "acc": "0001104659-26-108060",
    "filed": "2026-09-16"
+  },
+  {
+   "ticker": "BENF",
+   "company": "Beneficient",
+   "insider": "CANGANY PETER T JR",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 18868.0,
+   "price": 1.06,
+   "value": 20000.08,
+   "acc": "0001493152-26-043126",
+   "filed": "2026-09-17"
   },
   {
    "ticker": "CTSO",
@@ -4363,6 +4303,19 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "XBP",
+   "company": "XBP Global Holdings, Inc.",
+   "insider": "Avenue Global Opportunities Master Fund LP",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 72394.0,
+   "price": 2.83,
+   "value": 204875.02,
+   "acc": "0001140361-26-036978",
+   "filed": "2026-09-17",
+   "placement": true
+  },
+  {
    "ticker": "TH",
    "company": "Target Hospitality Corp.",
    "insider": "Archer James Bradley",
@@ -4603,6 +4556,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-16",
+   "shares": 19500.0,
+   "price": 0.1816,
+   "value": 3541.2,
+   "acc": "0001214659-26-011758",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "GIPR",
    "company": "GENERATION INCOME PROPERTIES, INC.",
    "insider": "HRT FINANCIAL LP",
@@ -4648,6 +4613,18 @@
    "price": 10.88,
    "value": 16689.92,
    "acc": "0001510281-26-000304",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-16",
+   "shares": 125000.0,
+   "price": 0.1832,
+   "value": 22900.0,
+   "acc": "0001214659-26-011758",
    "filed": "2026-09-17"
   },
   {
@@ -4805,6 +4782,30 @@
    "value": 4567860.55,
    "acc": "0001475597-26-000248",
    "filed": "2026-09-17"
+  },
+  {
+   "ticker": "RVSB",
+   "company": "RIVERVIEW BANCORP INC",
+   "insider": "Lightheart Charmaine",
+   "role": "EVP/CRDEO",
+   "date": "2026-09-17",
+   "shares": 100.0,
+   "price": 5.68,
+   "value": 568.0,
+   "acc": "0002050978-26-000008",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "PLAY",
+   "company": "Dave & Buster's Entertainment, Inc.",
+   "insider": "Lipman Nathaniel",
+   "role": "Director",
+   "date": "2026-09-17",
+   "shares": 12000.0,
+   "price": 6.775,
+   "value": 81300.0,
+   "acc": "0001193125-26-394355",
+   "filed": "2026-09-17"
   }
  ],
  "clusters": [
@@ -4950,8 +4951,13 @@
   },
   {
    "ticker": "RVSB",
+   "insiders": 4,
+   "total_value": 41071.65
+  },
+  {
+   "ticker": "BENF",
    "insiders": 3,
-   "total_value": 40503.65
+   "total_value": 35000.14
   },
   {
    "ticker": "TENX",
@@ -4979,11 +4985,6 @@
    "total_value": 2000.1
   },
   {
-   "ticker": "KDOZF",
-   "insiders": 2,
-   "total_value": 798.5
-  },
-  {
    "ticker": "GREE",
    "insiders": 4,
    "total_value": 0,
@@ -4991,12 +4992,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027798",
-  "0001918704-26-027799",
-  "0001918704-26-027800",
-  "0001918704-26-027801",
-  "0001918704-26-027802",
-  "0001918704-26-027803",
   "0001918704-26-027804",
   "0001918704-26-027805",
   "0001918704-26-027806",
@@ -6967,7 +6962,9 @@
   "0002048376-26-000002",
   "0002048497-26-000012",
   "0002048497-26-000014",
+  "0002048497-26-000015",
   "0002048500-26-000012",
+  "0002048500-26-000013",
   "0002048588-26-000013",
   "0002048593-26-000009",
   "0002049633-26-000014",
@@ -6985,6 +6982,7 @@
   "0002050576-26-000004",
   "0002050857-26-000012",
   "0002050978-26-000006",
+  "0002050978-26-000008",
   "0002051008-26-000002",
   "0002051008-26-000003",
   "0002051034-26-000008",
@@ -7469,10 +7467,12 @@
   "0002081681-26-000002",
   "0002082289-26-000013",
   "0002082296-26-000008",
+  "0002082564-26-000014",
   "0002082674-26-000007",
   "0002082900-26-000006",
   "0002082975-26-000008",
   "0002083068-26-000004",
+  "0002083093-26-000004",
   "0002083206-26-000007",
   "0002083230-26-000006",
   "0002083536-26-000011",
@@ -7540,6 +7540,7 @@
   "0002090789-26-000009",
   "0002091022-26-000010",
   "0002091404-26-000008",
+  "0002091533-26-000008",
   "0002091730-26-000010",
   "0002091730-26-000013",
   "0002091734-26-000006",
