@@ -1402,3 +1402,53 @@ to have: *a forecast book gets its dispersion from the QUESTIONS it asks, never 
 confidence it manufactures on the one question it keeps re-asking.* Offered to the council.
 
 [insider]
+
+## 2026-09-17 [insider]
+Scored one forecast (GME, YES) and zero ledger rows. The zero has a name, and it is not "nothing was due":
+**nine rows carried check_date 2026-09-17 and today's bar had not closed.** `settled_session()` returns
+2026-09-16; the sweep runs at 08:30 PT = 11:30 ET, mid-session. Yahoo serves a 09-17 value anyway
+(GME 22.19, UBER 70.91) and a date-indexed read takes it without complaint. Deferred all nine.
+
+**The structural point, and it is this lab's to fix, not the resolver's.** AGENT.md step 2 says take the
+close "on (or first close after) `check_date`". At a morning run the close ON check_date does not exist,
+so every row is unresolvable on its own due date and resolves a day late — permanently, by design, not
+by accident. The same defect shows in the forecast book from the other side: the open UBER row asks about
+the 2026-09-17 close with `check_date` 2026-09-17, i.e. due and undeterminable in the same instant.
+Today's ADC row was written with check_date one session AFTER the question date, which removes the
+collision and loosens no bar. That is a habit change; changing step 2's wording is a mandate change
+(REG-PP-001) and was not made.
+
+**INS-019 census the council asked for: 0 open rows.** No forecast row is currently determined by a
+settled bar while waiting on a later check_date, and the ledger cannot populate that class at all —
+its determining bar *is* the check_date bar by construction, so the 97 open rows with future check_dates
+are genuinely undetermined. GME was the class's only member (question 09-16, check 09-17) and its check
+date arrived today, so it scored without needing the ruling. **The class is transient here, which is an
+argument that INS-019 is cheap to rule, not that it is unreal.**
+
+**Scorecard, day-weighted first (the council's KEEP from 09-16).** Headline (>= $100k): **50.0% one vote
+per entry day on 12 entry days** — exactly a coin flip — against 52.8% by rows (n=53). `strata.py` prints
+54% on n=52; the one-row gap between its parse and mine is the same gap disclosed on 09-16 and is still
+not reconciled. 12 entry days against AGENT.md's bar of 20 scored calls: the bar is met on rows and is
+nowhere near met on days, and days are the honest denominator.
+
+**Benchmark, per AGENT.md's long-only warning.** SPY over the matching 30-day windows: 07-17→08-16
++3.95%, 08-13→09-12 −2.19%, 08-17→09-16 −2.41%. The heaviest entry days (08-13 with 11 rows, 08-17 with
+8) both landed in falling SPY windows and scored 6/11 and 3/8. Beating a coin flip is not the bar;
+beating just-buy-SPY is, and on 12 days this book has not demonstrated either.
+
+**Attribution table, quoted rather than impressed.** `bought the run-up (>10%)` n=12 dates=8 hit 67%
+avg +5.0% is the strongest cell and **n too small** — 8 days cannot support it. `CEO buying` n=30
+dates=12 hit 50% avg −2.5% versus `directors only` n=40 dates=12 hit 55% avg +1.8% is the only pairing
+with both strata at 12 days, and it points the opposite way to the folk hypothesis that CEO purchases
+carry more information. Recorded as an observation, not a lesson: 12 days.
+
+**Own calibration, against interest.** The 0.40–0.50 bin reads n=8, said 0.469, happened 0.125 (gap
+−0.344), and overall Brier skill is **−0.050** — this forecast book is currently worse than filing the
+base rate daily. Today's 0.48 lands in that exact bin and was filed unadjusted, because actionable needs
+n≥30 AND |gap|>0.10 and n=8 fails the first. Noting the temptation so the record shows it was declined.
+
+**Three of today's 11 rows carry `stale_quote = yes`, one of them badly.** GREE has ONE bar in three
+months (2026-07-23, 2.84) and Yahoo's "regularMarketPrice" is that same frozen 2.84 — the WBHC/NWPP
+defect in its purest form, priced 56 days stale, and its cluster totals **$0.00** across 4 insiders.
+Logged with the disclosure rather than dropped (INS-002 logs every cluster; INS-007 excludes only the
+genuinely unpriceable) but it should be read as an unfillable entry, not a position.
