@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-17 13:37 UTC",
+ "updated_utc": "2026-09-17 14:09 UTC",
  "purchases": [
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 1956.0,
-   "price": 66.92,
-   "value": 130895.52,
-   "acc": "0001026081-26-000026",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "INBX",
-   "company": "Inhibrx Biosciences, Inc.",
-   "insider": "Lappe Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-08",
-   "shares": 1219.0,
-   "price": 111.8805,
-   "value": 136382.33,
-   "acc": "0001366074-26-000002",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-08",
-   "shares": 10000.0,
-   "price": 19.1358,
-   "value": 191358.0,
-   "acc": "0000935596-26-000024",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "PRTS",
    "company": "CarParts.com, Inc.",
@@ -3943,6 +3907,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "ACNB",
+   "company": "ACNB CORP",
+   "insider": "ELSNER FRANK III",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 3.8291,
+   "price": 65.29,
+   "value": 250.0,
+   "acc": "0001628280-26-062410",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4651,6 +4627,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "SBLK",
+   "company": "Star Bulk Carriers Corp.",
+   "insider": "Pappas Alexandros",
+   "role": "",
+   "date": "2026-09-15",
+   "shares": 74400.0,
+   "price": 28.27,
+   "value": 2103288.0,
+   "acc": "0002107497-26-000002",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "FOX",
    "company": "Fox Corp",
    "insider": "MURDOCH LACHLAN K",
@@ -4685,6 +4673,18 @@
    "value": 1231.51,
    "acc": "0002131351-26-000014",
    "filed": "2026-09-16"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-16",
+   "shares": 756.0,
+   "price": 3.04,
+   "value": 2298.24,
+   "acc": "0001437749-26-030610",
+   "filed": "2026-09-17"
   },
   {
    "ticker": "TOFB",
@@ -4824,9 +4824,14 @@
    "total_value": 3733050.0
   },
   {
+   "ticker": "SBLK",
+   "insiders": 5,
+   "total_value": 3036198.0
+  },
+  {
    "ticker": "INBX",
    "insiders": 2,
-   "total_value": 3041025.52
+   "total_value": 2904643.19
   },
   {
    "ticker": "ADC",
@@ -4847,11 +4852,6 @@
    "ticker": "PRTS",
    "insiders": 2,
    "total_value": 1378810.72
-  },
-  {
-   "ticker": "SBLK",
-   "insiders": 4,
-   "total_value": 932910.0
   },
   {
    "ticker": "RWT",
@@ -4991,8 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027675",
-  "0001918704-26-027676",
   "0001918704-26-027677",
   "0001918704-26-027678",
   "0001918704-26-027679",
@@ -5166,6 +5164,7 @@
   "0001918704-26-027890",
   "0001918704-26-027891",
   "0001918704-26-027892",
+  "0001918704-26-027893",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7626,6 +7625,7 @@
   "0002106873-26-000012",
   "0002107246-26-000012",
   "0002107261-26-000011",
+  "0002107497-26-000002",
   "0002107955-26-000006",
   "0002108262-26-000006",
   "0002108589-26-000018",
