@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-17 10:14 UTC",
+ "updated_utc": "2026-09-17 11:01 UTC",
  "purchases": [
-  {
-   "ticker": "PNBK",
-   "company": "PATRIOT NATIONAL BANCORP INC",
-   "insider": "De Tomasi Mario",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 63000.0,
-   "price": 0.96,
-   "value": 60480.0,
-   "acc": "0001437749-26-030090",
-   "filed": "2026-09-10"
-  },
-  {
-   "ticker": "AMR",
-   "company": "Alpha Metallurgical Resources, Inc.",
-   "insider": "Courtis Kenneth S.",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 305.0,
-   "price": 227.88,
-   "value": 69503.4,
-   "acc": "0001812746-26-000012",
-   "filed": "2026-09-08"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 1304.0,
-   "price": 66.92,
-   "value": 87263.68,
-   "acc": "0001026081-26-000026",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "ENHA",
    "company": "Enhanced Group Inc.",
@@ -4243,6 +4207,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "LXU",
+   "company": "LSB INDUSTRIES, INC.",
+   "insider": "Ackerman Jonathan Z.",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 1000.0,
+   "price": 11.3,
+   "value": 11300.0,
+   "acc": "0001193125-26-393688",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "CTSO",
    "company": "Cytosorbents Corp",
    "insider": "Sobel Alan D.",
@@ -4805,6 +4781,30 @@
    "value": 454607.01,
    "acc": "0001493152-26-042969",
    "filed": "2026-09-16"
+  },
+  {
+   "ticker": "ADC",
+   "company": "AGREE REALTY CORP",
+   "insider": "Agree Joey",
+   "role": "PRESIDENT & CEO",
+   "date": "2026-09-16",
+   "shares": 7360.0,
+   "price": 68.06,
+   "value": 500921.6,
+   "acc": "0001348490-26-000006",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "ADC",
+   "company": "AGREE REALTY CORP",
+   "insider": "RAKOLTA JOHN JR",
+   "role": "Director",
+   "date": "2026-09-16",
+   "shares": 20000.0,
+   "price": 68.78,
+   "value": 1375600.0,
+   "acc": "0001528153-26-000015",
+   "filed": "2026-09-17"
   }
  ],
  "clusters": [
@@ -4827,6 +4827,11 @@
    "ticker": "INBX",
    "insiders": 2,
    "total_value": 3158861.81
+  },
+  {
+   "ticker": "ADC",
+   "insiders": 2,
+   "total_value": 1876521.6
   },
   {
    "ticker": "CELH",
