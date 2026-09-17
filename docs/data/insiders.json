@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-17 14:09 UTC",
+ "updated_utc": "2026-09-17 14:25 UTC",
  "purchases": [
-  {
-   "ticker": "PRTS",
-   "company": "CarParts.com, Inc.",
-   "insider": "Huffaker Michael",
-   "role": "COO",
-   "date": "2026-09-08",
-   "shares": 21718.0,
-   "price": 9.35,
-   "value": 203063.3,
-   "acc": "0001140361-26-036090",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "PRTS",
-   "company": "CarParts.com, Inc.",
-   "insider": "Meniane David",
-   "role": "CEO",
-   "date": "2026-09-08",
-   "shares": 21742.0,
-   "price": 9.35,
-   "value": 203287.7,
-   "acc": "0001140361-26-036089",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-08",
-   "shares": 3390.0,
-   "price": 68.7403,
-   "value": 233029.62,
-   "acc": "0001493152-26-042023",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "SEI",
-   "company": "Solaris Energy Infrastructure, Inc.",
-   "insider": "TEAGUE AJ",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 3900.0,
-   "price": 64.21,
-   "value": 250419.0,
-   "acc": "0001628280-26-061096",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "SEI",
-   "company": "Solaris Energy Infrastructure, Inc.",
-   "insider": "TEAGUE AJ",
-   "role": "Director",
-   "date": "2026-09-08",
-   "shares": 3900.0,
-   "price": 64.25,
-   "value": 250575.0,
-   "acc": "0001628280-26-061096",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "AMR",
    "company": "Alpha Metallurgical Resources, Inc.",
@@ -4123,6 +4063,18 @@
    "filed": "2026-09-15"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 459.0,
+   "price": 20.89,
+   "value": 9588.51,
+   "acc": "0001510281-26-000305",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "LMB",
    "company": "Limbach Holdings, Inc.",
    "insider": "Horowitz Joshua",
@@ -4289,6 +4241,18 @@
    "value": 33927.5,
    "acc": "0001104659-26-108006",
    "filed": "2026-09-15"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 3306.0,
+   "price": 10.92,
+   "value": 36101.52,
+   "acc": "0001510281-26-000304",
+   "filed": "2026-09-17"
   },
   {
    "ticker": "BZUN",
@@ -4639,6 +4603,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "SBLK",
+   "company": "Star Bulk Carriers Corp.",
+   "insider": "Pappa Milena Maria",
+   "role": "Director",
+   "date": "2026-09-15",
+   "shares": 74400.0,
+   "price": 28.27,
+   "value": 2103288.0,
+   "acc": "0002113812-26-000003",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "FOX",
    "company": "Fox Corp",
    "insider": "MURDOCH LACHLAN K",
@@ -4711,6 +4687,18 @@
    "filed": "2026-09-16"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-16",
+   "shares": 1534.0,
+   "price": 10.88,
+   "value": 16689.92,
+   "acc": "0001510281-26-000304",
+   "filed": "2026-09-17"
+  },
+  {
    "ticker": "ADAG",
    "company": "Adagene Inc.",
    "insider": "Luo Peter",
@@ -4720,6 +4708,18 @@
    "price": 3.1533,
    "value": 63980.46,
    "acc": "0001104659-26-108386",
+   "filed": "2026-09-17"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-16",
+   "shares": 6403.0,
+   "price": 20.63,
+   "value": 132093.89,
+   "acc": "0001510281-26-000305",
    "filed": "2026-09-17"
   },
   {
@@ -4819,14 +4819,14 @@
    "total_value": 11958988.0
   },
   {
+   "ticker": "SBLK",
+   "insiders": 6,
+   "total_value": 5139486.0
+  },
+  {
    "ticker": "CYBN",
    "insiders": 2,
    "total_value": 3733050.0
-  },
-  {
-   "ticker": "SBLK",
-   "insiders": 5,
-   "total_value": 3036198.0
   },
   {
    "ticker": "INBX",
@@ -4851,7 +4851,7 @@
   {
    "ticker": "PRTS",
    "insiders": 2,
-   "total_value": 1378810.72
+   "total_value": 972459.72
   },
   {
    "ticker": "RWT",
@@ -4991,10 +4991,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027677",
-  "0001918704-26-027678",
-  "0001918704-26-027679",
-  "0001918704-26-027680",
   "0001918704-26-027681",
   "0001918704-26-027682",
   "0001918704-26-027683",
@@ -5165,6 +5161,9 @@
   "0001918704-26-027891",
   "0001918704-26-027892",
   "0001918704-26-027893",
+  "0001918704-26-027894",
+  "0001918704-26-027895",
+  "0001918704-26-027896",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7668,6 +7667,7 @@
   "0002113543-26-000004",
   "0002113550-26-000005",
   "0002113721-26-000014",
+  "0002113812-26-000003",
   "0002113891-26-000003",
   "0002114019-26-000004",
   "0002114019-26-000006",
