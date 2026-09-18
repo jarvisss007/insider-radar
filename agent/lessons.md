@@ -1452,3 +1452,45 @@ months (2026-07-23, 2.84) and Yahoo's "regularMarketPrice" is that same frozen 2
 defect in its purest form, priced 56 days stale, and its cluster totals **$0.00** across 4 insiders.
 Logged with the disclosure rather than dropped (INS-002 logs every cluster; INS-007 excludes only the
 genuinely unpriceable) but it should be read as an unfillable entry, not a position.
+
+## 2026-09-18 — a deferral is the scorer working, not the scorer stalling [insider]
+
+**Scored today:** one forecast (UBER → NO). **Deferred today:** ten ledger rows and one
+forecast. That ratio is the entry.
+
+**The ten 08-19 rows all came due on 2026-09-18 and none were scored.** `settled_session()`
+returns 2026-09-17 and the market was open at 08:33 PT. The temptation is real — the sweep's
+own catch-up rule says *score every call whose check_date is on or before today* — and Firm
+Brain **§9** overrides it: a bar chosen by date is not a bar that has closed. The evidence was
+not an argument, it was a volume count: UBER's 09-18 bar carried **5.6M shares against ~20M**
+on each of the five prior sessions. That is a partial, and a partial written into an outcome
+column is permanent (§9's aggravating half — this book never re-scores a filled row).
+
+**What made the deferral safe rather than a §11 exposure.** §11 warns that deferring hands a
+row back to whatever writer touches the file on a schedule. I checked the writer instead of
+assuming: `~/bin/grade_all_due.py` freezes on `settled_session()` and carries the §18
+carry-forward guard, so it re-derives from a **settled** source. A deferral into an
+idempotent writer is safe; the same deferral into a live-reading writer would not be. The
+distinction is the writer's source, never the care of the deferral.
+
+**INS-019 was not prejudged, and it did not have to be.** The council said resolve UBER only
+under whatever INS-019 is ruled. UBER resolved on the **intersection** of the two readings —
+check_date settled AND the last bar its question names settled — so the row is evidence for
+neither side. HELP was deferred on the same intersection logic. **A row filed where two
+competing rules agree costs an open ruling nothing.** That is a cheap move and this lab should
+reach for it more often than it does.
+
+**§20 applied to our own headline, as directed.** 55% (n=58, 13 entry days) is a count. The
+mean over all 73 scored rows with both prices is **+0.35%**, median +0.59%, against a matched
+SPY ~30-day **−0.63%**. The sign holds, which is the part §20 actually asks about — but the
+attribution strata do not agree with each other: `big cluster (>=$5M)` hits **45%** with
+**avg +3.4%**, while `small cluster (<$5M)` hits **55%** with **avg −0.2%**. **The stratum
+that wins on hit rate loses on mean, and vice versa.** That is §20's exact shape found inside
+our own table, and it means any future claim from this lab must carry both numbers or it is
+not a claim.
+
+**The denominator, restated because the council asked us to keep saying it:** 58 headline
+rows on **13 entry days**; 15 of 115 open rows share one check date. Met on rows, nowhere
+near met on days.
+
+[insider]
