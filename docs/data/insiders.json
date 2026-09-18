@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-18 14:19 UTC",
+ "updated_utc": "2026-09-18 14:50 UTC",
  "purchases": [
-  {
-   "ticker": "ALP",
-   "company": "Alpha Compute Corp",
-   "insider": "Villani Fiorenzo",
-   "role": "See Remarks",
-   "date": "2026-09-09",
-   "shares": 7000.0,
-   "price": 5.065,
-   "value": 35455.0,
-   "acc": "0001171843-26-006026",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "ALP",
-   "company": "Alpha Compute Corp",
-   "insider": "Kaiser Brittany",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-09",
-   "shares": 9350.0,
-   "price": 5.3473,
-   "value": 49997.25,
-   "acc": "0001171843-26-006025",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "LTRX",
-   "company": "LANTRONIX INC",
-   "insider": "Awsare Saleel",
-   "role": "President & CEO",
-   "date": "2026-09-09",
-   "shares": 15000.0,
-   "price": 5.179,
-   "value": 77685.0,
-   "acc": "0001683168-26-007037",
-   "filed": "2026-09-09"
-  },
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 5143.0,
-   "price": 18.8881,
-   "value": 97141.5,
-   "acc": "0000935596-26-000025",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "MO",
-   "company": "ALTRIA GROUP, INC.",
-   "insider": "McQUADE KATHRYN B.",
-   "role": "Director",
-   "date": "2026-09-09",
-   "shares": 1500.0,
-   "price": 67.62,
-   "value": 101430.0,
-   "acc": "0000764180-26-000102",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "OXM",
-   "company": "OXFORD INDUSTRIES INC",
-   "insider": "Chubb Thomas Caldecot III",
-   "role": "CEO and President",
-   "date": "2026-09-09",
-   "shares": 3500.0,
-   "price": 30.9338,
-   "value": 108268.3,
-   "acc": "0000075288-26-000089",
-   "filed": "2026-09-09"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -2131,6 +2059,30 @@
    "filed": "2026-09-14"
   },
   {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-14",
+   "shares": 100.0,
+   "price": 0.43,
+   "value": 43.0,
+   "acc": "0001213900-26-101248",
+   "filed": "2026-09-18"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-14",
+   "shares": 200.0,
+   "price": 0.37,
+   "value": 74.0,
+   "acc": "0001213900-26-101248",
+   "filed": "2026-09-18"
+  },
+  {
    "ticker": "BRID",
    "company": "BRIDGFORD FOODS CORP",
    "insider": "Bridgford Allan Jr.",
@@ -3149,6 +3101,18 @@
    "value": 11287500.0,
    "acc": "0001104659-26-107610",
    "filed": "2026-09-14"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-15",
+   "shares": 100.0,
+   "price": 0.46,
+   "value": 46.0,
+   "acc": "0001213900-26-101248",
+   "filed": "2026-09-18"
   },
   {
    "ticker": "ED",
@@ -4763,6 +4727,30 @@
    "filed": "2026-09-18"
   },
   {
+   "ticker": "GAM",
+   "company": "GENERAL AMERICAN INVESTORS CO INC",
+   "insider": "Jin Samantha X.",
+   "role": "Treasurer/PAO/PFO",
+   "date": "2026-09-17",
+   "shares": 1000.0,
+   "price": 23.66,
+   "value": 23660.0,
+   "acc": "0000040417-26-000048",
+   "filed": "2026-09-18"
+  },
+  {
+   "ticker": "GAM",
+   "company": "GENERAL AMERICAN INVESTORS CO INC",
+   "insider": "Jin Samantha X.",
+   "role": "Treasurer/PAO/PFO",
+   "date": "2026-09-17",
+   "shares": 2000.0,
+   "price": 23.69,
+   "value": 47380.0,
+   "acc": "0000040417-26-000048",
+   "filed": "2026-09-18"
+  },
+  {
    "ticker": "PLAY",
    "company": "Dave & Buster's Entertainment, Inc.",
    "insider": "Lipman Nathaniel",
@@ -4808,6 +4796,18 @@
    "price": 48.3608,
    "value": 1015576.8,
    "acc": "0001534574-26-000016",
+   "filed": "2026-09-18"
+  },
+  {
+   "ticker": "THRY",
+   "company": "Thryv Holdings, Inc.",
+   "insider": "Walsh Joe",
+   "role": "Chairman and CEO",
+   "date": "2026-09-18",
+   "shares": 25000.0,
+   "price": 1.8,
+   "value": 45000.0,
+   "acc": "0001573298-26-000026",
    "filed": "2026-09-18"
   }
  ],
@@ -4888,9 +4888,9 @@
    "total_value": 267344.04
   },
   {
-   "ticker": "ALP",
+   "ticker": "GAM",
    "insiders": 2,
-   "total_value": 186119.62
+   "total_value": 191040.0
   },
   {
    "ticker": "SKIL",
@@ -4901,11 +4901,6 @@
    "ticker": "MAIA",
    "insiders": 2,
    "total_value": 149526.37
-  },
-  {
-   "ticker": "OXM",
-   "insiders": 2,
-   "total_value": 137998.3
   },
   {
    "ticker": "TENX",
@@ -5011,18 +5006,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-027908",
-  "0001918704-26-027909",
-  "0001918704-26-027910",
-  "0001918704-26-027911",
-  "0001918704-26-027912",
-  "0001918704-26-027913",
-  "0001918704-26-027914",
-  "0001918704-26-027915",
-  "0001918704-26-027916",
-  "0001918704-26-027917",
-  "0001918704-26-027918",
-  "0001918704-26-027919",
   "0001918704-26-027920",
   "0001918704-26-027921",
   "0001918704-26-027922",
@@ -5124,6 +5107,17 @@
   "0001918704-26-028049",
   "0001918704-26-028050",
   "0001918704-26-028051",
+  "0001918704-26-028054",
+  "0001918704-26-028055",
+  "0001918704-26-028056",
+  "0001918704-26-028057",
+  "0001918704-26-028058",
+  "0001918704-26-028059",
+  "0001918704-26-028060",
+  "0001918704-26-028061",
+  "0001918704-26-028062",
+  "0001918704-26-028063",
+  "0001918704-26-028064",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -7576,6 +7570,7 @@
   "0002094343-26-000008",
   "0002094623-26-000002",
   "0002094759-26-000002",
+  "0002094766-26-000006",
   "0002094859-26-000002",
   "0002095068-26-000002",
   "0002095080-26-000011",
