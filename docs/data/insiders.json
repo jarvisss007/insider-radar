@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-09-18 21:27 UTC",
+ "updated_utc": "2026-09-18 22:29 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 8059.0,
-   "price": 281.6809,
-   "value": 2270066.37,
-   "acc": "0000905148-26-004138",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 10117.0,
-   "price": 283.89,
-   "value": 2872115.13,
-   "acc": "0000905148-26-004138",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 136466.0,
-   "price": 33.7787,
-   "value": 4609644.07,
-   "acc": "0001193125-26-389292",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-09",
-   "shares": 23449.0,
-   "price": 282.2118,
-   "value": 6617584.5,
-   "acc": "0000905148-26-004138",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-10",
-   "shares": 8.0,
-   "price": 2.91,
-   "value": 23.28,
-   "acc": "0001536588-26-000031",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-10",
-   "shares": 7.0,
-   "price": 21.25,
-   "value": 148.75,
-   "acc": "0001437749-26-030157",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-09-10",
-   "shares": 3500.0,
-   "price": 0.05,
-   "value": 175.0,
-   "acc": "0001035422-26-000011",
-   "filed": "2026-09-10"
-  },
   {
    "ticker": "CLIK",
    "company": "Click Holdings Ltd.",
@@ -4031,6 +3947,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "CV",
+   "company": "CapsoVision, Inc",
+   "insider": "Shen Ching Hang",
+   "role": "10% owner",
+   "date": "2026-09-15",
+   "shares": 878734.0,
+   "price": 5.69,
+   "value": 4999996.46,
+   "acc": "0002102304-26-000003",
+   "filed": "2026-09-18"
+  },
+  {
    "ticker": "FOX",
    "company": "Fox Corp",
    "insider": "MURDOCH LACHLAN K",
@@ -4175,6 +4103,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "TBLD",
+   "company": "Thornburg Income Builder Opportunities Trust",
+   "insider": "Kritzmire Anne W.",
+   "role": "Director",
+   "date": "2026-09-16",
+   "shares": 300.0,
+   "price": 20.78,
+   "value": 6234.0,
+   "acc": "0001873387-26-000004",
+   "filed": "2026-09-18"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4269,6 +4209,18 @@
    "value": 17273.25,
    "acc": "0001171843-26-006099",
    "filed": "2026-09-17"
+  },
+  {
+   "ticker": "PODC",
+   "company": "PodcastOne, Inc.",
+   "insider": "MERRIMAN D JONATHAN",
+   "role": "Director",
+   "date": "2026-09-16",
+   "shares": 7700.0,
+   "price": 2.3,
+   "value": 17710.0,
+   "acc": "0001213900-26-101513",
+   "filed": "2026-09-18"
   },
   {
    "ticker": "KRMN",
@@ -4379,6 +4331,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "THM",
+   "company": "INTERNATIONAL TOWER HILL MINES LTD",
+   "insider": "Wiens David Victor",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-16",
+   "shares": 83682.0,
+   "price": 2.39,
+   "value": 199999.98,
+   "acc": "0001123292-26-001319",
+   "filed": "2026-09-18"
+  },
+  {
    "ticker": "ACOG",
    "company": "Alpha Cognition Inc.",
    "insider": "Opaleye Management Inc.",
@@ -4485,6 +4449,18 @@
    "value": 575456.0,
    "acc": "0001213900-26-101014",
    "filed": "2026-09-17"
+  },
+  {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-16",
+   "shares": 36914.0,
+   "price": 20.4346,
+   "value": 754322.82,
+   "acc": "0000937797-26-000030",
+   "filed": "2026-09-18"
   },
   {
    "ticker": "KRMN",
@@ -4616,6 +4592,18 @@
    "price": 3.04,
    "value": 2298.24,
    "acc": "0001437749-26-030720",
+   "filed": "2026-09-18"
+  },
+  {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-17",
+   "shares": 168.0,
+   "price": 20.4422,
+   "value": 3434.29,
+   "acc": "0000937797-26-000030",
    "filed": "2026-09-18"
   },
   {
@@ -4799,6 +4787,18 @@
    "filed": "2026-09-18"
   },
   {
+   "ticker": "GAM",
+   "company": "GENERAL AMERICAN INVESTORS CO INC",
+   "insider": "Priest Jeffrey W",
+   "role": "President & CEO",
+   "date": "2026-09-18",
+   "shares": 4000.0,
+   "price": 23.46,
+   "value": 93840.0,
+   "acc": "0000040417-26-000049",
+   "filed": "2026-09-18"
+  },
+  {
    "ticker": "TH",
    "company": "Target Hospitality Corp.",
    "insider": "Schrenk Troy C.",
@@ -4883,6 +4883,11 @@
    "total_value": 351415.59
   },
   {
+   "ticker": "GAM",
+   "insiders": 3,
+   "total_value": 284880.0
+  },
+  {
    "ticker": "BUKS",
    "insiders": 3,
    "total_value": 267344.04
@@ -4891,11 +4896,6 @@
    "ticker": "PRTS",
    "insiders": 2,
    "total_value": 266590.0
-  },
-  {
-   "ticker": "GAM",
-   "insiders": 2,
-   "total_value": 191040.0
   },
   {
    "ticker": "SKIL",
@@ -4935,7 +4935,7 @@
   {
    "ticker": "RGCO",
    "insiders": 3,
-   "total_value": 61721.06
+   "total_value": 61572.31
   },
   {
    "ticker": "NNOX",
@@ -5011,17 +5011,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-028045",
-  "0001918704-26-028046",
-  "0001918704-26-028047",
-  "0001918704-26-028048",
-  "0001918704-26-028049",
-  "0001918704-26-028050",
-  "0001918704-26-028051",
-  "0001918704-26-028054",
-  "0001918704-26-028055",
-  "0001918704-26-028056",
-  "0001918704-26-028057",
   "0001918704-26-028058",
   "0001918704-26-028059",
   "0001918704-26-028060",
@@ -5089,6 +5078,8 @@
   "0001918704-26-028130",
   "0001918704-26-028133",
   "0001918704-26-028134",
+  "0001918704-26-028135",
+  "0001918704-26-028136",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -5100,6 +5091,7 @@
   "0001919747-26-000013",
   "0001919990-26-000014",
   "0001920053-26-000026",
+  "0001920053-26-000028",
   "0001920061-26-000014",
   "0001920061-26-000018",
   "0001920475-26-000014",
@@ -5447,6 +5439,7 @@
   "0001968915-26-000130",
   "0001968915-26-000131",
   "0001968977-26-000012",
+  "0001969082-26-000009",
   "0001969106-26-000004",
   "0001969292-26-000009",
   "0001969292-26-000010",
@@ -6643,9 +6636,11 @@
   "0002014560-26-000012",
   "0002014632-26-000014",
   "0002014632-26-000016",
+  "0002014632-26-000018",
   "0002014633-26-000014",
   "0002014633-26-000016",
   "0002014633-26-000018",
+  "0002014633-26-000020",
   "0002014694-26-000006",
   "0002014966-26-000011",
   "0002014966-26-000013",
@@ -7219,6 +7214,7 @@
   "0002071761-26-000009",
   "0002071761-26-000010",
   "0002071761-26-000011",
+  "0002071761-26-000012",
   "0002071844-26-000880",
   "0002071844-26-000883",
   "0002071844-26-000901",
@@ -7616,6 +7612,7 @@
   "0002100774-26-000004",
   "0002100829-26-000007",
   "0002101254-26-000004",
+  "0002102304-26-000003",
   "0002102774-26-000012",
   "0002103514-26-000010",
   "0002104019-26-000006",
@@ -7671,6 +7668,7 @@
   "0002111580-26-000010",
   "0002111867-26-000011",
   "0002111867-26-000012",
+  "0002111867-26-000013",
   "0002111904-26-000003",
   "0002111929-26-000016",
   "0002111933-26-000005",
@@ -7796,6 +7794,7 @@
   "0002124506-26-000003",
   "0002124506-26-000004",
   "0002124509-26-000004",
+  "0002124509-26-000008",
   "0002124755-26-000007",
   "0002124863-26-000003",
   "0002125027-26-000004",
@@ -8010,7 +8009,8 @@
   "0002154205-26-000008",
   "0002154267-26-000004",
   "0002154828-26-000005",
-  "0002154894-26-000005"
+  "0002154894-26-000005",
+  "0002155883-26-000004"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
