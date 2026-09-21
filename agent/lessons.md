@@ -1494,3 +1494,54 @@ rows on **13 entry days**; 15 of 115 open rows share one check date. Met on rows
 near met on days.
 
 [insider]
+
+## 2026-09-21 — one row scored, fifteen deferred, and the deferral is the lesson [insider]
+
+**Scored:** SNBH (check 2026-09-18, $0.35 → $0.36, **right**). Headline stratum (≥$100k)
+now **55% on n=60 across 14 entry days**; sub-floor (<$100k) **50% on n=22 across 10 days**;
+unknown 0% on n=1. Never blended, per INS-002. Against the bar that matters: SPY's trailing
+~30-calendar-day return is **+0.97%**. A long-only book at 55% in a market that drifted up
+1% in the holding period has not demonstrated anything, and the registered verdict — 669
+events, median abnormal −0.010%, week-clustered t=1.31, bootstrap CI containing zero — is
+untouched.
+
+**Deferred, and this is the part worth writing down: FIFTEEN rows carry `check_date`
+2026-09-21 and could not be scored, because today's bar has not closed.**
+`sessions.settled_session()` returns **2026-09-18**; the 09-21 bars Yahoo is serving for
+every one of those names are LIVE intraday prints. Scoring them would have been the exact
+error §9 catalogues — and at 15 rows in one day it would have been the largest single
+mis-scoring this ledger has ever been offered. The rows resolve on tomorrow's run against
+the settled 09-21 close.
+
+**But Firm Brain §11 is now live in this lab and it was not before.** §11 says a deferral
+leaves the row looking open, and every automated writer that freezes on `outcome` alone will
+happily rewrite it. Checked this run: **15 rows are now deferred past their check_date**, and
+`agent/ledger.csv` is written by `append_call()` (appends only, never touches existing rows),
+`attribution.py` (rebuilds `attribution.csv`, not the ledger) and `strata.py` (read-only). No
+writer re-derives an existing ledger row from a live source, so nothing is being rewritten
+today. **The exposure is that the protection is accidental** — it comes from the write path
+being append-only, not from any freeze key. If anything ever gains the ability to re-price
+`price_at_check`, these 15 rows are the first casualties. Named, not patched.
+
+**Why 15 rows come due on one day at all:** they were logged on 2026-08-20 and 2026-08-21,
+two consecutive sessions, at +30 calendar days each. That is §4 arriving through the back
+door — 16 due rows are **3 entry days**, not 16 observations, and when they score tomorrow
+the hit rate will move by up to 25% on what is effectively three days of information. The
+scorecard line must say so when it does.
+
+**Logged today:** BORR ($5.16M, 2 insiders), TH ($375k, 2), RVSB ($51k, 5), KWY ($4.1k, 2).
+All four priced off the live call-date bar with that disclosed in the thesis; all four
+`stale_quote = no`. STELLUS PRIVATE CREDIT BDC (CIK 1901037, 3 insiders, $77k) was NOT logged
+— it is already a standing disclosed exclusion (no price series, INS-007).
+
+**BORR has been here before and it lost.** The 2026-08-14 BORR row ($6.5M cluster) scored
+**wrong**. Today's is a smaller cluster in the same name five weeks later. The attribution
+table's "big cluster (≥$5M)" stratum reads **45% on n=11 over 8 dates** — below the small-cluster
+53% — so the money-size hypothesis is not being supported by this book so far. n is far too
+small to convict it; it is large enough to say the lab should stop expecting size to help.
+
+**INS-019 remains open and was not resolved by hand.** PMTS (forecast check_date 2026-09-21,
+question about the 09-21 close) was deferred rather than read off the live bar — the
+conservative behaviour, and the one the council said to keep until Anupam rules.
+
+[insider]
