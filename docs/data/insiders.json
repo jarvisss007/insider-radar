@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-09-21 08:24 UTC",
+ "updated_utc": "2026-09-21 13:06 UTC",
  "purchases": [
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-10",
-   "shares": 100.0,
-   "price": 21.19,
-   "value": 2119.0,
-   "acc": "0001437749-26-030157",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-10",
-   "shares": 100.0,
-   "price": 21.21,
-   "value": 2121.0,
-   "acc": "0001437749-26-030157",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-10",
-   "shares": 100.0,
-   "price": 21.24,
-   "value": 2124.0,
-   "acc": "0001437749-26-030157",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-10",
-   "shares": 756.0,
-   "price": 2.94,
-   "value": 2222.64,
-   "acc": "0001437749-26-030136",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "BDCO",
-   "company": "BLUE DOLPHIN ENERGY CO",
-   "insider": "McDougall William Christopher",
-   "role": "",
-   "date": "2026-09-10",
-   "shares": 200.0,
-   "price": 12.55,
-   "value": 2510.0,
-   "acc": "0001437749-26-030276",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "BDCO",
-   "company": "BLUE DOLPHIN ENERGY CO",
-   "insider": "McDougall William Christopher",
-   "role": "",
-   "date": "2026-09-10",
-   "shares": 200.0,
-   "price": 13.65,
-   "value": 2730.0,
-   "acc": "0001437749-26-030276",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "LUCK",
-   "company": "Lucky Strike Entertainment Corp",
-   "insider": "Bass Robert J",
-   "role": "Director",
-   "date": "2026-09-10",
-   "shares": 600.0,
-   "price": 5.446,
-   "value": 3267.6,
-   "acc": "0001628280-26-061489",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "IRIX",
-   "company": "IRIDEX CORP",
-   "insider": "Dizon Romeo R",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-10",
-   "shares": 5100.0,
-   "price": 0.68,
-   "value": 3468.0,
-   "acc": "0001193125-26-387539",
-   "filed": "2026-09-10"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -4127,6 +4031,18 @@
    "filed": "2026-09-17"
   },
   {
+   "ticker": "HLEO",
+   "company": "Helio Corp /FL/",
+   "insider": "Knauf Mark Harry",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-16",
+   "shares": 5166.0,
+   "price": 1.55,
+   "value": 8007.3,
+   "acc": "0001683168-26-007242",
+   "filed": "2026-09-21"
+  },
+  {
    "ticker": "SKIL",
    "company": "Skillsoft Corp.",
    "insider": "HOVSEPIAN RONALD W",
@@ -4571,6 +4487,18 @@
    "filed": "2026-09-18"
   },
   {
+   "ticker": "CBKM",
+   "company": "CONSUMERS BANCORP INC /OH/",
+   "insider": "Lober Ralph J II",
+   "role": "CEO & President",
+   "date": "2026-09-17",
+   "shares": 70.0,
+   "price": 32.59,
+   "value": 2281.3,
+   "acc": "0001437749-26-030775",
+   "filed": "2026-09-21"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4607,6 +4535,18 @@
    "filed": "2026-09-18"
   },
   {
+   "ticker": "TOFB",
+   "company": "TOFUTTI BRANDS INC",
+   "insider": "A-6684 Ltd.",
+   "role": "10% owner",
+   "date": "2026-09-17",
+   "shares": 15000.0,
+   "price": 0.35,
+   "value": 5250.0,
+   "acc": "0001994334-26-000015",
+   "filed": "2026-09-21"
+  },
+  {
    "ticker": "BRID",
    "company": "BRIDGFORD FOODS CORP",
    "insider": "Bridgford Allan Jr.",
@@ -4641,6 +4581,18 @@
    "value": 15030.6,
    "acc": "0001982651-26-000004",
    "filed": "2026-09-18"
+  },
+  {
+   "ticker": "HLEO",
+   "company": "Helio Corp /FL/",
+   "insider": "Knauf Mark Harry",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-17",
+   "shares": 10700.0,
+   "price": 1.46,
+   "value": 15622.0,
+   "acc": "0001683168-26-007242",
+   "filed": "2026-09-21"
   },
   {
    "ticker": "BZUN",
@@ -4763,6 +4715,18 @@
    "filed": "2026-09-18"
   },
   {
+   "ticker": "HLEO",
+   "company": "Helio Corp /FL/",
+   "insider": "Knauf Mark Harry",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-18",
+   "shares": 380.0,
+   "price": 1.33,
+   "value": 505.4,
+   "acc": "0001683168-26-007242",
+   "filed": "2026-09-21"
+  },
+  {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
    "insider": "Mink Brook Asset Management LLC",
@@ -4775,6 +4739,18 @@
    "filed": "2026-09-18"
   },
   {
+   "ticker": "EU",
+   "company": "enCore Energy Corp.",
+   "insider": "SHERIFF WILLIAM M",
+   "role": "Executive Chairman",
+   "date": "2026-09-18",
+   "shares": 25000.0,
+   "price": 0.81,
+   "value": 20250.0,
+   "acc": "0001193125-26-396060",
+   "filed": "2026-09-21"
+  },
+  {
    "ticker": "THRY",
    "company": "Thryv Holdings, Inc.",
    "insider": "Walsh Joe",
@@ -4785,6 +4761,18 @@
    "value": 45000.0,
    "acc": "0001573298-26-000026",
    "filed": "2026-09-18"
+  },
+  {
+   "ticker": "EU",
+   "company": "enCore Energy Corp.",
+   "insider": "SHERIFF WILLIAM M",
+   "role": "Executive Chairman",
+   "date": "2026-09-18",
+   "shares": 100000.0,
+   "price": 0.81,
+   "value": 81000.0,
+   "acc": "0001193125-26-396060",
+   "filed": "2026-09-21"
   },
   {
    "ticker": "GAM",
@@ -4809,6 +4797,18 @@
    "value": 124992.12,
    "acc": "0001712189-26-000061",
    "filed": "2026-09-18"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Morand De Oliveira Bruno",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-18",
+   "shares": 45500.0,
+   "price": 4.4,
+   "value": 200200.0,
+   "acc": "0001628280-26-062804",
+   "filed": "2026-09-21"
   }
  ],
  "clusters": [
@@ -4826,6 +4826,11 @@
    "ticker": "SBLK",
    "insiders": 8,
    "total_value": 6920496.0
+  },
+  {
+   "ticker": "BORR",
+   "insiders": 2,
+   "total_value": 5156625.0
   },
   {
    "ticker": "BWMX",
@@ -4933,11 +4938,6 @@
    "total_value": 77012.5
   },
   {
-   "ticker": "RGCO",
-   "insiders": 3,
-   "total_value": 61572.31
-  },
-  {
    "ticker": "NNOX",
    "insiders": 2,
    "total_value": 60000.0
@@ -4946,6 +4946,11 @@
    "ticker": "EML",
    "insiders": 2,
    "total_value": 56913.5
+  },
+  {
+   "ticker": "RGCO",
+   "insiders": 3,
+   "total_value": 55208.31
   },
   {
    "ticker": "RVSB",
@@ -4980,7 +4985,7 @@
   {
    "ticker": "CBKM",
    "insiders": 3,
-   "total_value": 22191.66
+   "total_value": 24472.96
   },
   {
    "ticker": "UAVS",
@@ -5011,19 +5016,6 @@
   }
  ],
  "seen": [
-  "0001918704-26-028065",
-  "0001918704-26-028066",
-  "0001918704-26-028067",
-  "0001918704-26-028068",
-  "0001918704-26-028069",
-  "0001918704-26-028070",
-  "0001918704-26-028071",
-  "0001918704-26-028072",
-  "0001918704-26-028073",
-  "0001918704-26-028074",
-  "0001918704-26-028075",
-  "0001918704-26-028076",
-  "0001918704-26-028077",
   "0001918704-26-028078",
   "0001918704-26-028079",
   "0001918704-26-028080",
@@ -5073,6 +5065,9 @@
   "0001918704-26-028134",
   "0001918704-26-028135",
   "0001918704-26-028136",
+  "0001918704-26-028139",
+  "0001918704-26-028140",
+  "0001918704-26-028141",
   "0001918845-26-000024",
   "0001918845-26-000031",
   "0001919175-26-000008",
@@ -5730,6 +5725,7 @@
   "0001994334-26-000012",
   "0001994334-26-000013",
   "0001994334-26-000014",
+  "0001994334-26-000015",
   "0001994445-26-000006",
   "0001994955-26-000007",
   "0001995005-26-000006",
@@ -6459,6 +6455,15 @@
   "0001999371-26-020876",
   "0001999371-26-020878",
   "0001999371-26-020879",
+  "0001999371-26-020909",
+  "0001999371-26-020911",
+  "0001999371-26-020914",
+  "0001999371-26-020917",
+  "0001999371-26-020920",
+  "0001999371-26-020924",
+  "0001999371-26-020927",
+  "0001999371-26-020929",
+  "0001999371-26-020930",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
