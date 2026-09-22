@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-22 19:34 UTC",
+ "updated_utc": "2026-09-22 19:50 UTC",
  "purchases": [
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "Heshmatpour Amir F",
-   "role": "CEO, President",
-   "date": "2026-09-11",
-   "shares": 37000.0,
-   "price": 3.6654,
-   "value": 135619.8,
-   "acc": "0001213900-26-099422",
-   "filed": "2026-09-14"
-  },
   {
    "ticker": "GLOO",
    "company": "Gloo Holdings, Inc.",
@@ -4616,6 +4604,18 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-21",
+   "shares": 2034.0,
+   "price": 21.03,
+   "value": 42775.02,
+   "acc": "0001510281-26-000309",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "EPSN",
    "company": "Epsilon Energy Ltd.",
    "insider": "Stabell Jason",
@@ -4875,11 +4875,6 @@
    "total_value": 338904.61
   },
   {
-   "ticker": "NTHI",
-   "insiders": 3,
-   "total_value": 331413.99
-  },
-  {
    "ticker": "BUKS",
    "insiders": 3,
    "total_value": 292853.61
@@ -4898,6 +4893,11 @@
    "ticker": "SKIL",
    "insiders": 2,
    "total_value": 261463.54
+  },
+  {
+   "ticker": "NTHI",
+   "insiders": 3,
+   "total_value": 195794.19
   },
   {
    "ticker": "CROX",
@@ -5013,7 +5013,6 @@
   }
  ],
  "seen": [
-  "0001922063-26-000003",
   "0001923149-26-000006",
   "0001923149-26-000008",
   "0001923149-26-000010",
@@ -7388,6 +7387,7 @@
   "0002078265-26-000386",
   "0002078265-26-000388",
   "0002078265-26-000389",
+  "0002078265-26-000390",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
