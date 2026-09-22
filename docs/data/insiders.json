@@ -1,150 +1,6 @@
 {
- "updated_utc": "2026-09-22 20:23 UTC",
+ "updated_utc": "2026-09-22 21:27 UTC",
  "purchases": [
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Sarowitz Steven I",
-   "role": "Director",
-   "date": "2026-09-11",
-   "shares": 88647.0,
-   "price": 5.3313,
-   "value": 472603.75,
-   "acc": "0001865200-26-000087",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "shares": 45000.0,
-   "price": 19.226,
-   "value": 865170.0,
-   "acc": "0000935596-26-000026",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "PVH",
-   "company": "PVH CORP. /DE/",
-   "insider": "Larsson Stefan",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-11",
-   "shares": 14179.102,
-   "price": 70.5264,
-   "value": 1000001.02,
-   "acc": "0001123292-26-001286",
-   "filed": "2026-09-11"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "shares": 5185.0,
-   "price": 223.8385,
-   "value": 1160602.62,
-   "acc": "0001104659-26-107592",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "shares": 7596.0,
-   "price": 221.5189,
-   "value": 1682657.56,
-   "acc": "0001104659-26-107592",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "shares": 171144.0,
-   "price": 34.6095,
-   "value": 5923208.27,
-   "acc": "0001193125-26-391947",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "shares": 135482.0,
-   "price": 222.5887,
-   "value": 30156762.25,
-   "acc": "0001104659-26-107592",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "FTK",
-   "company": "FLOTEK INDUSTRIES INC/CN/",
-   "insider": "Wilks Matthew",
-   "role": "Director",
-   "date": "2026-09-11",
-   "shares": 1319493.0,
-   "price": 26.01,
-   "value": 34320012.93,
-   "acc": "0001104659-26-108024",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "RSG",
-   "company": "REPUBLIC SERVICES, INC.",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "shares": 176547.0,
-   "price": 223.1492,
-   "value": 39396321.81,
-   "acc": "0001104659-26-107592",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "ELWT",
-   "company": "Elauwit Connection, Inc.",
-   "insider": "Di Bartolo James P. II",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-14",
-   "shares": 1.0,
-   "price": 7.15,
-   "value": 7.15,
-   "acc": "0002129745-26-000003",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-14",
-   "shares": 100.0,
-   "price": 0.43,
-   "value": 43.0,
-   "acc": "0001213900-26-101248",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-14",
-   "shares": 200.0,
-   "price": 0.37,
-   "value": 74.0,
-   "acc": "0001213900-26-101248",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "BRID",
    "company": "BRIDGFORD FOODS CORP",
@@ -3726,6 +3582,18 @@
    "filed": "2026-09-21"
   },
   {
+   "ticker": "UUU",
+   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "Director",
+   "date": "2026-09-18",
+   "shares": 100.0,
+   "price": 5.01,
+   "value": 501.0,
+   "acc": "0001214659-26-011872",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "HLEO",
    "company": "Helio Corp /FL/",
    "insider": "Knauf Mark Harry",
@@ -3736,6 +3604,18 @@
    "value": 505.4,
    "acc": "0001683168-26-007242",
    "filed": "2026-09-21"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-18",
+   "shares": 265.0,
+   "price": 2.905,
+   "value": 769.82,
+   "acc": "0001536588-26-000033",
+   "filed": "2026-09-22"
   },
   {
    "ticker": "DLHC",
@@ -3760,6 +3640,18 @@
    "value": 2298.24,
    "acc": "0001437749-26-030794",
    "filed": "2026-09-21"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-18",
+   "shares": 20000.0,
+   "price": 0.1821,
+   "value": 3642.0,
+   "acc": "0001214659-26-011871",
+   "filed": "2026-09-22"
   },
   {
    "ticker": "HKHC",
@@ -4388,6 +4280,18 @@
    "filed": "2026-09-21"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-18",
+   "shares": 131333.0,
+   "price": 34.8847,
+   "value": 4581512.31,
+   "acc": "0001193125-26-397991",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "LEN, LEN.B",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4448,6 +4352,18 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-21",
+   "shares": 166.0,
+   "price": 2.926,
+   "value": 485.72,
+   "acc": "0001536588-26-000033",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Booth Richard Whitaker",
@@ -4457,6 +4373,18 @@
    "price": 11.9,
    "value": 500.0,
    "acc": "0001213900-26-102144",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-09-21",
+   "shares": 174.0,
+   "price": 3.9956,
+   "value": 695.23,
+   "acc": "0001628280-26-063060",
    "filed": "2026-09-22"
   },
   {
@@ -4484,6 +4412,30 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-21",
+   "shares": 451.0,
+   "price": 2.894,
+   "value": 1305.19,
+   "acc": "0001536588-26-000033",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "PPTINC",
+   "company": "Presidio Property Trust, Inc.",
+   "insider": "Heilbron Jack Kendrick",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-21",
+   "shares": 300.0,
+   "price": 6.21,
+   "value": 1863.0,
+   "acc": "0001437749-26-030933",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4493,6 +4445,18 @@
    "price": 3.05,
    "value": 2305.8,
    "acc": "0001437749-26-030869",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-21",
+   "shares": 4300.0,
+   "price": 1.128,
+   "value": 4850.4,
+   "acc": "0001079973-26-001270",
    "filed": "2026-09-22"
   },
   {
@@ -4736,6 +4700,18 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "DLHC",
+   "company": "DLH Holdings Corp.",
+   "insider": "Mink Brook Asset Management LLC",
+   "role": "10% owner",
+   "date": "2026-09-22",
+   "shares": 301.0,
+   "price": 3.9986,
+   "value": 1203.58,
+   "acc": "0001628280-26-063060",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "BUKS",
    "company": "BUTLER NATIONAL CORP",
    "insider": "Daly Joseph Patrick",
@@ -4772,6 +4748,18 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "BFRG",
+   "company": "BullFrog AI Holdings, Inc.",
+   "insider": "Blacher Joshua",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-22",
+   "shares": 50000.0,
+   "price": 0.5285,
+   "value": 26425.0,
+   "acc": "0001628280-26-063056",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "VFF",
    "company": "Village Farms International, Inc.",
    "insider": "Woodward Christopher C.",
@@ -4781,6 +4769,18 @@
    "price": 3.058,
    "value": 30580.0,
    "acc": "0001193125-26-397890",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "BFRG",
+   "company": "BullFrog AI Holdings, Inc.",
+   "insider": "Singh Vininder",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-22",
+   "shares": 75000.0,
+   "price": 0.5989,
+   "value": 44917.5,
+   "acc": "0001628280-26-063054",
    "filed": "2026-09-22"
   },
   {
@@ -4935,6 +4935,11 @@
    "total_value": 77012.5
   },
   {
+   "ticker": "BFRG",
+   "insiders": 2,
+   "total_value": 71342.5
+  },
+  {
    "ticker": "EML",
    "insiders": 2,
    "total_value": 56913.5
@@ -5018,15 +5023,6 @@
   }
  ],
  "seen": [
-  "0001923467-26-000006",
-  "0001924278-26-000005",
-  "0001924412-26-000004",
-  "0001924581-26-000005",
-  "0001924613-26-000035",
-  "0001924613-26-000037",
-  "0001924613-26-000039",
-  "0001924613-26-000041",
-  "0001924666-26-000006",
   "0001924790-26-000006",
   "0001924953-26-000008",
   "0001924953-26-000010",
@@ -5260,6 +5256,7 @@
   "0001962926-26-000008",
   "0001962926-26-000009",
   "0001962944-26-000009",
+  "0001963638-26-000011",
   "0001963701-26-000009",
   "0001963781-26-000012",
   "0001963980-26-000012",
@@ -5401,6 +5398,7 @@
   "0001974777-26-000016",
   "0001974777-26-000018",
   "0001974890-26-000004",
+  "0001974947-26-000008",
   "0001975015-26-000041",
   "0001975015-26-000043",
   "0001975015-26-000046",
@@ -5613,6 +5611,7 @@
   "0001991005-26-000006",
   "0001991479-26-000007",
   "0001991536-26-000011",
+  "0001991536-26-000013",
   "0001991569-26-000006",
   "0001991569-26-000008",
   "0001991569-26-000010",
@@ -6418,6 +6417,8 @@
   "0001999371-26-021032",
   "0001999371-26-021049",
   "0001999371-26-021056",
+  "0001999371-26-021063",
+  "0001999371-26-021067",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6771,6 +6772,7 @@
   "0002032720-26-000012",
   "0002032765-26-000012",
   "0002032799-26-000006",
+  "0002032799-26-000008",
   "0002033015-26-000004",
   "0002033015-26-000006",
   "0002033056-26-000016",
@@ -6982,6 +6984,7 @@
   "0002053424-26-000020",
   "0002053652-26-000008",
   "0002053652-26-000009",
+  "0002053652-26-000010",
   "0002053876-26-000006",
   "0002054688-26-000008",
   "0002054905-26-000008",
@@ -7779,6 +7782,7 @@
   "0002123975-26-000013",
   "0002123975-26-000017",
   "0002123975-26-000019",
+  "0002123975-26-000021",
   "0002123988-26-000006",
   "0002124082-26-000005",
   "0002124256-26-000005",
@@ -8001,6 +8005,7 @@
   "0002151661-26-000004",
   "0002152188-26-000005",
   "0002152432-26-000004",
+  "0002152526-26-000007",
   "0002152870-26-000010",
   "0002153122-26-000005",
   "0002153127-26-000004",
