@@ -1,126 +1,6 @@
 {
- "updated_utc": "2026-09-22 15:35 UTC",
+ "updated_utc": "2026-09-22 19:02 UTC",
  "purchases": [
-  {
-   "ticker": "LMB",
-   "company": "Limbach Holdings, Inc.",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-11",
-   "shares": 1000.0,
-   "price": 49.59,
-   "value": 49590.0,
-   "acc": "0001104659-26-108006",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "GRNT",
-   "company": "Granite Ridge Resources, Inc.",
-   "insider": "Miller Matthew Reade",
-   "role": "Director",
-   "date": "2026-09-11",
-   "shares": 10000.0,
-   "price": 5.03,
-   "value": 50300.0,
-   "acc": "0001628280-26-061771",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-11",
-   "shares": 15000.0,
-   "price": 3.55,
-   "value": 53250.0,
-   "acc": "0001628280-26-062092",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "FBDT",
-   "company": "First Breach, Inc.",
-   "insider": "LOW JORDAN ZACHARY",
-   "role": "Pres., COO",
-   "date": "2026-09-11",
-   "shares": 140000.0,
-   "price": 0.6726,
-   "value": 94164.0,
-   "acc": "0001213900-26-099824",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "URG",
-   "company": "UR-ENERGY INC",
-   "insider": "Walle Jade",
-   "role": "VICE PRESIDENT FINANCE",
-   "date": "2026-09-11",
-   "shares": 75581.0,
-   "price": 1.29,
-   "value": 97499.49,
-   "acc": "0001654954-26-008365",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "SLGL",
-   "company": "Sol-Gel Technologies Ltd.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "shares": 1493.0,
-   "price": 65.945,
-   "value": 98455.88,
-   "acc": "0001493152-26-042615",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "DOMH",
-   "company": "Dominari Holdings Inc.",
-   "insider": "Hayes Anthony",
-   "role": "CEO",
-   "date": "2026-09-11",
-   "shares": 50000.0,
-   "price": 2.1627,
-   "value": 108135.0,
-   "acc": "0001213900-26-099457",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "DOMH",
-   "company": "Dominari Holdings Inc.",
-   "insider": "Wool Kyle Michael",
-   "role": "President",
-   "date": "2026-09-11",
-   "shares": 50000.0,
-   "price": 2.1627,
-   "value": 108135.0,
-   "acc": "0001213900-26-099456",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "TMDX",
-   "company": "TransMedics Group, Inc.",
-   "insider": "Weill David",
-   "role": "Director",
-   "date": "2026-09-11",
-   "shares": 1336.0,
-   "price": 81.63,
-   "value": 109057.68,
-   "acc": "0001193125-26-390650",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "LMB",
-   "company": "Limbach Holdings, Inc.",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-11",
-   "shares": 2600.0,
-   "price": 49.0097,
-   "value": 127425.22,
-   "acc": "0001104659-26-108006",
-   "filed": "2026-09-15"
-  },
   {
    "ticker": "NTHI",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
@@ -3966,6 +3846,18 @@
    "filed": "2026-09-21"
   },
   {
+   "ticker": "EXPO",
+   "company": "EXPONENT INC",
+   "insider": "Souri Shukri Jeries",
+   "role": "Group Vice President",
+   "date": "2026-09-18",
+   "shares": 184.0,
+   "price": 68.4452,
+   "value": 12593.92,
+   "acc": "0000851520-26-000101",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "PODC",
    "company": "PodcastOne, Inc.",
    "insider": "MERRIMAN D JONATHAN",
@@ -4120,6 +4012,19 @@
    "value": 54655.8,
    "acc": "0001193125-26-397059",
    "filed": "2026-09-21"
+  },
+  {
+   "ticker": "BCBP",
+   "company": "BCB BANCORP INC",
+   "insider": "Chaudhry Jawad",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-09-18",
+   "shares": 10000.0,
+   "price": 7.75,
+   "value": 77500.0,
+   "acc": "0001193125-26-397672",
+   "filed": "2026-09-22",
+   "placement": true
   },
   {
    "ticker": "EU",
@@ -4422,6 +4327,19 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "BCBP",
+   "company": "BCB BANCORP INC",
+   "insider": "OBrien Thomas M",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-09-18",
+   "shares": 160000.0,
+   "price": 7.75,
+   "value": 1240000.0,
+   "acc": "0001193125-26-397677",
+   "filed": "2026-09-22",
+   "placement": true
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4566,6 +4484,18 @@
    "filed": "2026-09-21"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-09-21",
+   "shares": 16.8496,
+   "price": 11.9,
+   "value": 200.51,
+   "acc": "0001213900-26-102123",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4578,6 +4508,30 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Booth Richard Whitaker",
+   "role": "",
+   "date": "2026-09-21",
+   "shares": 42.0168,
+   "price": 11.9,
+   "value": 500.0,
+   "acc": "0001213900-26-102144",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-09-21",
+   "shares": 78.923,
+   "price": 10.13,
+   "value": 799.49,
+   "acc": "0001213900-26-102137",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "YORW",
    "company": "YORK WATER CO",
    "insider": "Brossman Douglas S",
@@ -4587,6 +4541,18 @@
    "price": 32.987,
    "value": 1000.0,
    "acc": "0000108985-26-000083",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-21",
+   "shares": 756.0,
+   "price": 3.05,
+   "value": 2305.8,
+   "acc": "0001437749-26-030869",
    "filed": "2026-09-22"
   },
   {
@@ -4635,6 +4601,18 @@
    "price": 15.35,
    "value": 21950.5,
    "acc": "0001437749-26-030864",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "NSLR",
+   "company": "Neostellar Capital Corp.",
+   "insider": "Klein Mark D",
+   "role": "Chairman, CEO and President",
+   "date": "2026-09-21",
+   "shares": 5000.0,
+   "price": 7.91,
+   "value": 39550.0,
+   "acc": "0001493152-26-043697",
    "filed": "2026-09-22"
   },
   {
@@ -4782,6 +4760,18 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "BUKS",
+   "company": "BUTLER NATIONAL CORP",
+   "insider": "Daly Joseph Patrick",
+   "role": "Director",
+   "date": "2026-09-22",
+   "shares": 1303.0,
+   "price": 4.19,
+   "value": 5459.57,
+   "acc": "0001332596-26-000008",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "CULP",
    "company": "CULP INC",
    "insider": "Hunsberger Mary Elizabeth",
@@ -4791,6 +4781,18 @@
    "price": 3.6,
    "value": 18000.0,
    "acc": "0002032661-26-000003",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "BUKS",
+   "company": "BUTLER NATIONAL CORP",
+   "insider": "Daly Joseph Patrick",
+   "role": "Director",
+   "date": "2026-09-22",
+   "shares": 5000.0,
+   "price": 4.01,
+   "value": 20050.0,
+   "acc": "0001332596-26-000008",
    "filed": "2026-09-22"
   },
   {
@@ -4863,14 +4865,14 @@
    "total_value": 1036485.3
   },
   {
-   "ticker": "LMB",
-   "insiders": 3,
-   "total_value": 515919.83
-  },
-  {
    "ticker": "TH",
    "insiders": 2,
    "total_value": 375157.77
+  },
+  {
+   "ticker": "LMB",
+   "insiders": 3,
+   "total_value": 338904.61
   },
   {
    "ticker": "NTHI",
@@ -4878,14 +4880,14 @@
    "total_value": 331413.99
   },
   {
+   "ticker": "BUKS",
+   "insiders": 3,
+   "total_value": 292853.61
+  },
+  {
    "ticker": "GAM",
    "insiders": 3,
    "total_value": 284880.0
-  },
-  {
-   "ticker": "BUKS",
-   "insiders": 3,
-   "total_value": 267344.04
   },
   {
    "ticker": "EU",
@@ -4896,11 +4898,6 @@
    "ticker": "SKIL",
    "insiders": 2,
    "total_value": 261463.54
-  },
-  {
-   "ticker": "DOMH",
-   "insiders": 2,
-   "total_value": 216270.0
   },
   {
    "ticker": "CROX",
@@ -4916,11 +4913,6 @@
    "ticker": "MCFT",
    "insiders": 3,
    "total_value": 148719.4
-  },
-  {
-   "ticker": "FBDT",
-   "insiders": 2,
-   "total_value": 139494.0
   },
   {
    "ticker": "TENX",
@@ -4998,19 +4990,29 @@
    "total_value": 2000.1
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "insiders": 2,
+   "total_value": 1196.87
+  },
+  {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "insiders": 3,
+   "total_value": 803.13
+  },
+  {
    "ticker": "XBP",
    "insiders": 4,
    "total_value": 0,
    "other_value": 899014.59
+  },
+  {
+   "ticker": "BCBP",
+   "insiders": 2,
+   "total_value": 0,
+   "other_value": 1317500.0
   }
  ],
  "seen": [
-  "0001920856-26-000003",
-  "0001921051-26-000012",
-  "0001921069-26-000003",
-  "0001921253-26-000004",
-  "0001921640-26-000011",
-  "0001921640-26-000017",
   "0001921640-26-000018",
   "0001921955-26-000014",
   "0001922054-26-000001",
@@ -5220,6 +5222,7 @@
   "0001954722-26-000003",
   "0001954722-26-000004",
   "0001954883-26-000013",
+  "0001955392-26-000008",
   "0001956006-26-000003",
   "0001957238-26-000016",
   "0001957490-26-000004",
@@ -5266,6 +5269,7 @@
   "0001962926-26-000009",
   "0001962944-26-000009",
   "0001963701-26-000009",
+  "0001963781-26-000012",
   "0001963980-26-000012",
   "0001964248-26-000002",
   "0001964281-26-000002",
@@ -6416,6 +6420,7 @@
   "0001999371-26-021001",
   "0001999371-26-021005",
   "0001999371-26-021011",
+  "0001999371-26-021032",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6923,6 +6928,7 @@
   "0002048500-26-000013",
   "0002048588-26-000013",
   "0002048593-26-000009",
+  "0002049001-26-000007",
   "0002049633-26-000014",
   "0002049705-26-000012",
   "0002049774-26-000004",
@@ -6996,6 +7002,7 @@
   "0002056657-26-000002",
   "0002056949-26-000005",
   "0002057116-26-000006",
+  "0002057292-26-000006",
   "0002057385-26-000004",
   "0002057567-26-000006",
   "0002057569-26-000026",
@@ -7410,6 +7417,7 @@
   "0002080126-26-000026",
   "0002080126-26-000028",
   "0002080157-26-000010",
+  "0002080157-26-000013",
   "0002080406-26-000013",
   "0002080406-26-000014",
   "0002080407-26-000016",
