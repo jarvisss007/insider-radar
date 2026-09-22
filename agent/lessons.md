@@ -1545,3 +1545,44 @@ question about the 09-21 close) was deferred rather than read off the live bar �
 conservative behaviour, and the one the council said to keep until Anupam rules.
 
 [insider]
+
+## 2026-09-22 [insider]
+- **Ledger: 0 scored** — the earliest open check_date is 2026-09-23. **7 new clusters logged**
+  (GRAB, BBD, NTHI, EU, FBDT, CULP, UMH), all `stale_quote=no`, check 2026-10-22. STELLUS PRIVATE
+  CREDIT BDC (CIK 1901037, $0.08M) is the 8th and is already carried in `exclusions.csv` as
+  unpriceable (INS-007) — the collector is maintaining that file correctly.
+- **Forecast scored: PMTS YES (1).** 09-21 close 24.65 > 09-15 close 24.29. Filed p=0.47. Settled
+  under the row's own S18 clause — the 09-22 bar exists and TRADED (vol 41,961), so 09-21 is closed.
+- **The 0.4–0.5 bin the council flagged has moved, and in the right direction.** Yesterday it was
+  n=10, said 0.469, happened 0.100, gap −0.369. After PMTS it is **n=11, said 0.469, happened 0.182,
+  gap −0.287**. Still the widest gap in the book, still **not actionable** (n<30, no adjustment made).
+- **Directive answer — can this book be scored for skill at any n?** Of **30 scored rows, 28 (93%) sit
+  inside 0.4–0.6**, scored-p **sd 0.0490**. Under Firm Brain §14 the answer for the *scored* book is
+  **no** — that is not a badly calibrated book, it is not a measurement. But the diagnosis is already
+  stale: the **last 25 FILED p have sd 0.1057, range 0.15–0.51**, and today's BBD filing at 0.20 is the
+  fifth consecutive filing outside the band. The undispersed book is the *resolved* one; the cure went
+  in about two weeks ago and will show up as those rows mature. Both numbers get printed, never one.
+- **FIRM BRAIN §9 CHECK — a defect this lab had not checked itself for. Found, measured, NOT repaired.**
+  §9 says a bar chosen by date is not a bar that has closed. This lab's INS-014 auditor
+  (`price_audit.py`) asserts only that `price_at_call` lies **inside** the call-day bar's [low, high] —
+  a deliberately weaker claim — and **its cache stores only `[low, high]`, never the close**, so the
+  question "was this a settled close or a live mid-session print?" is *structurally unanswerable by the
+  lab's own instrument*. Measured directly against Yahoo closes on the 39 open rows dated 2026-09-14 or
+  later: **35 of 39 carry a `price_at_call` that is NOT the call-day close.** It is an intraday print
+  captured while the session was still trading, then frozen permanently as the 30-day reference for a
+  book whose entire falsifiable unit is "higher 30 days later". Worst gaps: **BENF +30.4%** (0.7331 vs
+  close 0.562), SKIL +8.4%, XBP +5.8%, TENX +5.0%, EML −4.7%, MAIA +4.1%. Today's price audit is
+  otherwise clean: PASS 82 · FAIL 4 · NO_BAR 8.
+  **Nothing was restated.** BENCH-002 and `price_audit.py`'s own docstring both say a restatement is
+  Anupam's ruling, not an audit side effect, and REG-PP-001 says an agent that finds a defect in its
+  own mandate **halts and escalates**. Escalated here, unrepaired.
+  A second, smaller §6 crack found alongside it: AGENT.md §INS-014 instructs writing the row with
+  `price_at_call` **empty** and `[QUEUED]` when the day's bar is not out — but `append_call()` **raises**
+  on a blank `price_at_call` (INS-007). The documented remedy cannot be executed by the write path.
+  Two readers of one rule, disagreeing.
+- **A framing that sidesteps it, noted because it is free:** both forecasts in play today (PMTS, BBD)
+  are defined on *official closes at both ends*, so they never touch an intraday print. The forecast
+  book has no INS-014 exposure; only the ledger does.
+- Strata, never blended: **HEADLINE ≥$100k 51% (n=68 on 16 entry days)** · sub-floor <$100k 45%
+  (n=29 on 12 days) · unknown 0% (n=1). §4: 68 rows are **16 entry days**. Standing verdict unchanged —
+  **no established insider edge** (914 events, 670 mature, all week-clustered |t| < 2.67).
