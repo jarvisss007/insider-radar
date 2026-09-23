@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-23 15:36 UTC",
+ "updated_utc": "2026-09-23 16:55 UTC",
  "purchases": [
-  {
-   "ticker": "CTSO",
-   "company": "Cytosorbents Corp",
-   "insider": "Capponi Vincent",
-   "role": "President and COO",
-   "date": "2026-09-14",
-   "shares": 273.0,
-   "price": 5.9,
-   "value": 1610.7,
-   "acc": "0001104659-26-108247",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "BFH",
    "company": "BREAD FINANCIAL HOLDINGS, INC.",
@@ -4641,6 +4629,18 @@
    "filed": "2026-09-21"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-22",
+   "shares": 1.0,
+   "price": 361.36,
+   "value": 361.36,
+   "acc": "0001437749-26-031028",
+   "filed": "2026-09-23"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4963,7 +4963,7 @@
   {
    "ticker": "CTSO",
    "insiders": 3,
-   "total_value": 50434.7
+   "total_value": 48824.0
   },
   {
    "ticker": "OFLX",
@@ -5029,8 +5029,6 @@
   }
  ],
  "seen": [
-  "0001928932-26-000009",
-  "0001929185-26-000012",
   "0001929980-26-000382",
   "0001929980-26-000436",
   "0001929980-26-000507",
@@ -6404,6 +6402,7 @@
   "0001999371-26-021056",
   "0001999371-26-021063",
   "0001999371-26-021067",
+  "0001999371-26-021131",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6451,6 +6450,7 @@
   "0002002763-26-000014",
   "0002003059-26-000008",
   "0002003131-26-000013",
+  "0002003131-26-000014",
   "0002003768-26-000018",
   "0002004135-26-000004",
   "0002004135-26-000008",
