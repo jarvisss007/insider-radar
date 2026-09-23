@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-22 22:46 UTC",
+ "updated_utc": "2026-09-23 00:20 UTC",
  "purchases": [
-  {
-   "ticker": "GAIA",
-   "company": "GAIA, INC",
-   "insider": "Sutherland Paul Howard",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 100.0,
-   "price": 1.245,
-   "value": 124.5,
-   "acc": "0001193125-26-392557",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "shares": 1.0,
-   "price": 371.73,
-   "value": 371.73,
-   "acc": "0001437749-26-030425",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Starr Gayle P",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 39.228,
-   "price": 10.13,
-   "value": 397.38,
-   "acc": "0001213900-26-100005",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "ELWT",
-   "company": "Elauwit Connection, Inc.",
-   "insider": "Di Bartolo James P. II",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-14",
-   "shares": 94.0,
-   "price": 7.18,
-   "value": 674.92,
-   "acc": "0002129745-26-000003",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-14",
-   "shares": 4500.0,
-   "price": 0.1842,
-   "value": 828.9,
-   "acc": "0001214659-26-011723",
-   "filed": "2026-09-15"
-  },
   {
    "ticker": "BGDE",
    "company": "Big Digital Energy, Inc.",
@@ -3630,6 +3570,18 @@
    "filed": "2026-09-21"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-09-18",
+   "shares": 494.0,
+   "price": 5.99,
+   "value": 2959.06,
+   "acc": "0000912282-26-001299",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -3893,6 +3845,30 @@
    "value": 93840.0,
    "acc": "0000040417-26-000049",
    "filed": "2026-09-18"
+  },
+  {
+   "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
+   "company": "Fortress Private Lending Fund",
+   "insider": "Munro Lucy Lu",
+   "role": "Chief Operating Officer",
+   "date": "2026-09-18",
+   "shares": 4133.0,
+   "price": 24.1947,
+   "value": 99996.7,
+   "acc": "0001140361-26-037358",
+   "filed": "2026-09-22"
+  },
+  {
+   "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
+   "company": "Fortress Private Lending Fund",
+   "insider": "Dreyfuss Avraham",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-18",
+   "shares": 4133.0,
+   "price": 24.1947,
+   "value": 99996.7,
+   "acc": "0001140361-26-037356",
+   "filed": "2026-09-22"
   },
   {
    "ticker": "CTRI",
@@ -4520,6 +4496,18 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "RWAY",
+   "company": "Runway Growth Finance Corp.",
+   "insider": "Goldthorpe Edward J.",
+   "role": "Director",
+   "date": "2026-09-21",
+   "shares": 3749.0,
+   "price": 6.72,
+   "value": 25193.28,
+   "acc": "0001104659-26-109712",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "NSLR",
    "company": "Neostellar Capital Corp.",
    "insider": "Klein Mark D",
@@ -4772,6 +4760,18 @@
    "filed": "2026-09-22"
   },
   {
+   "ticker": "RWAY",
+   "company": "Runway Growth Finance Corp.",
+   "insider": "Goldthorpe Edward J.",
+   "role": "Director",
+   "date": "2026-09-22",
+   "shares": 6251.0,
+   "price": 6.76,
+   "value": 42256.76,
+   "acc": "0001104659-26-109712",
+   "filed": "2026-09-22"
+  },
+  {
    "ticker": "BFRG",
    "company": "BullFrog AI Holdings, Inc.",
    "insider": "Singh Vininder",
@@ -4895,6 +4895,11 @@
    "total_value": 261463.54
   },
   {
+   "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
+   "insiders": 2,
+   "total_value": 199993.4
+  },
+  {
    "ticker": "NTHI",
    "insiders": 3,
    "total_value": 195794.19
@@ -5005,11 +5010,6 @@
    "total_value": 2000.1
   },
   {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "insiders": 2,
-   "total_value": 1196.87
-  },
-  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 2,
    "total_value": 700.51
@@ -5028,8 +5028,6 @@
   }
  ],
  "seen": [
-  "0001926221-26-000006",
-  "0001926254-26-000014",
   "0001926752-26-000004",
   "0001927831-26-000022",
   "0001928413-26-000014",
@@ -5310,6 +5308,7 @@
   "0001968243-26-000048",
   "0001968268-26-000005",
   "0001968269-26-000002",
+  "0001968270-26-000015",
   "0001968281-26-000023",
   "0001968347-26-000004",
   "0001968347-26-000007",
@@ -6460,6 +6459,7 @@
   "0002002763-26-000012",
   "0002002763-26-000014",
   "0002003059-26-000008",
+  "0002003131-26-000013",
   "0002003768-26-000018",
   "0002004135-26-000004",
   "0002004135-26-000008",
