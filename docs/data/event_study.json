@@ -1,42 +1,42 @@
 {
- "updated_utc": "2026-09-22 15:34 UTC",
- "n_events": 914,
+ "updated_utc": "2026-09-23 15:34 UTC",
+ "n_events": 889,
  "n_mature": 670,
- "pre10_mean": 0.47,
- "pre10_n": 896,
+ "pre10_mean": 0.5,
+ "pre10_n": 871,
  "agg": {
   "1": {
-   "n": 914,
-   "mean": 0.305,
-   "median": -0.009,
-   "win": 49.5,
-   "t": 1.89,
-   "t_week": 0.63,
-   "n_weeks": 56,
-   "t_ticker": 0.78,
-   "n_tickers": 466
+   "n": 889,
+   "mean": 0.313,
+   "median": -0.059,
+   "win": 48.8,
+   "t": 1.92,
+   "t_week": 0.67,
+   "n_weeks": 55,
+   "t_ticker": 0.79,
+   "n_tickers": 458
   },
   "3": {
-   "n": 846,
-   "mean": -0.152,
-   "median": -0.344,
-   "win": 45.2,
-   "t": -0.68,
-   "t_week": -0.33,
-   "n_weeks": 55,
-   "t_ticker": -0.45,
-   "n_tickers": 445
+   "n": 822,
+   "mean": -0.161,
+   "median": -0.34,
+   "win": 45.4,
+   "t": -0.71,
+   "t_week": -0.35,
+   "n_weeks": 54,
+   "t_ticker": -0.47,
+   "n_tickers": 436
   },
   "5": {
-   "n": 732,
-   "mean": 0.647,
+   "n": 711,
+   "mean": 0.588,
    "median": -0.24,
-   "win": 47.4,
-   "t": 1.99,
-   "t_week": 1.01,
-   "n_weeks": 55,
-   "t_ticker": 1.04,
-   "n_tickers": 403
+   "win": 47.5,
+   "t": 1.79,
+   "t_week": 0.89,
+   "n_weeks": 54,
+   "t_ticker": 0.93,
+   "n_tickers": 395
   },
   "10": {
    "n": 670,
@@ -64,38 +64,38 @@
  "curve": [
   {
    "day": 1,
-   "car": 0.305,
-   "n": 914
+   "car": 0.313,
+   "n": 889
   },
   {
    "day": 2,
-   "car": -0.265,
-   "n": 878
+   "car": -0.216,
+   "n": 852
   },
   {
    "day": 3,
-   "car": -0.152,
-   "n": 846
+   "car": -0.161,
+   "n": 822
   },
   {
    "day": 4,
-   "car": -0.109,
-   "n": 795
+   "car": -0.108,
+   "n": 771
   },
   {
    "day": 5,
-   "car": 0.647,
-   "n": 732
+   "car": 0.588,
+   "n": 711
   },
   {
    "day": 6,
-   "car": 0.59,
-   "n": 696
+   "car": 0.592,
+   "n": 684
   },
   {
    "day": 7,
-   "car": 1.29,
-   "n": 672
+   "car": 1.227,
+   "n": 670
   },
   {
    "day": 8,
@@ -164,6 +164,506 @@
   }
  ],
  "events": [
+  {
+   "ticker": "GOTU",
+   "insider": "Chen Xiangdong",
+   "role": "CEO",
+   "date": "2026-06-11",
+   "filed": "2026-06-12",
+   "value": 447000.0,
+   "src": "backfill",
+   "pre10": -12.66,
+   "after": {
+    "1": -1.063,
+    "3": 10.115,
+    "5": 13.404,
+    "10": 16.523,
+    "20": 20.412
+   },
+   "days": 20,
+   "running": 20.41,
+   "mature": true
+  },
+  {
+   "ticker": "ENPH",
+   "insider": "Trivedi Shanker",
+   "role": "Director",
+   "date": "2026-06-12",
+   "filed": "2026-06-15",
+   "value": 53910.0,
+   "src": "backfill",
+   "pre10": -17.3,
+   "after": {
+    "1": -3.561,
+    "3": 0.513,
+    "5": -7.391,
+    "10": -5.29,
+    "20": -16.259
+   },
+   "days": 20,
+   "running": -16.26,
+   "mature": true
+  },
+  {
+   "ticker": "STRR",
+   "insider": "Drake Mimi K",
+   "role": "Director",
+   "date": "2026-06-05",
+   "filed": "2026-06-15",
+   "value": 11650.0,
+   "src": "backfill",
+   "pre10": -5.4,
+   "after": {
+    "1": -0.868,
+    "3": 2.564,
+    "5": 0.834,
+    "10": -4.13,
+    "20": 3.187
+   },
+   "days": 20,
+   "running": 3.19,
+   "mature": true
+  },
+  {
+   "ticker": "GDTC",
+   "insider": "Choo Chee Kong",
+   "role": "Director",
+   "date": "2026-05-13",
+   "filed": "2026-06-15",
+   "value": 128777.6,
+   "src": "backfill",
+   "pre10": 1.28,
+   "after": {
+    "1": -2.919,
+    "3": -5.307,
+    "5": -9.645,
+    "10": -9.659,
+    "20": -11.597
+   },
+   "days": 20,
+   "running": -11.6,
+   "mature": true
+  },
+  {
+   "ticker": "DGICA",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-06-11",
+   "filed": "2026-06-15",
+   "value": 173830.14,
+   "src": "backfill",
+   "pre10": 2.97,
+   "after": {
+    "1": 1.251,
+    "3": 1.645,
+    "5": 6.969,
+    "10": 9.542,
+    "20": 3.629
+   },
+   "days": 20,
+   "running": 3.63,
+   "mature": true
+  },
+  {
+   "ticker": "DGICA",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-06-12",
+   "filed": "2026-06-15",
+   "value": 170615.24,
+   "src": "backfill",
+   "pre10": 2.97,
+   "after": {
+    "1": 1.251,
+    "3": 1.645,
+    "5": 6.969,
+    "10": 9.542,
+    "20": 3.629
+   },
+   "days": 20,
+   "running": 3.63,
+   "mature": true
+  },
+  {
+   "ticker": "GF",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-06-11",
+   "filed": "2026-06-15",
+   "value": 12558.57,
+   "src": "backfill",
+   "pre10": -3.63,
+   "after": {
+    "1": 1.155,
+    "3": 2.312,
+    "5": 2.018,
+    "10": -1.692,
+    "20": -1.654
+   },
+   "days": 20,
+   "running": -1.65,
+   "mature": true
+  },
+  {
+   "ticker": "GF",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-06-12",
+   "filed": "2026-06-15",
+   "value": 125294.4,
+   "src": "backfill",
+   "pre10": -3.63,
+   "after": {
+    "1": 1.155,
+    "3": 2.312,
+    "5": 2.018,
+    "10": -1.692,
+    "20": -1.654
+   },
+   "days": 20,
+   "running": -1.65,
+   "mature": true
+  },
+  {
+   "ticker": "EMYB",
+   "insider": "Yurconic John T",
+   "role": "Director",
+   "date": "2026-06-15",
+   "filed": "2026-06-15",
+   "value": 10725.0,
+   "src": "backfill",
+   "pre10": 4.06,
+   "after": {
+    "1": 1.677,
+    "3": 2.037,
+    "5": 4.437,
+    "10": 3.821,
+    "20": 4.281
+   },
+   "days": 20,
+   "running": 4.28,
+   "mature": true
+  },
+  {
+   "ticker": "TPL",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-06-15",
+   "filed": "2026-06-16",
+   "value": 369.4,
+   "src": "backfill",
+   "pre10": -2.69,
+   "after": {
+    "1": 0.666,
+    "3": 1.812,
+    "5": 7.907,
+    "10": 16.729,
+    "20": 16.356
+   },
+   "days": 20,
+   "running": 16.36,
+   "mature": true
+  },
+  {
+   "ticker": "VRA",
+   "insider": "Meslow Andrew",
+   "role": "Director",
+   "date": "2026-06-12",
+   "filed": "2026-06-16",
+   "value": 92973.98,
+   "src": "backfill",
+   "pre10": 8.06,
+   "after": {
+    "1": -4.375,
+    "3": -6.337,
+    "5": -1.349,
+    "10": -2.52,
+    "20": -4.432
+   },
+   "days": 20,
+   "running": -4.43,
+   "mature": true
+  },
+  {
+   "ticker": "BNKK",
+   "insider": "Rudy Mitchell Austin",
+   "role": "Director",
+   "date": "2026-06-10",
+   "filed": "2026-06-16",
+   "value": 16440.0,
+   "src": "backfill",
+   "pre10": -29.87,
+   "after": {
+    "1": 11.823,
+    "3": 15.589,
+    "5": 18.569,
+    "10": 10.928,
+    "20": -6.898
+   },
+   "days": 20,
+   "running": -6.9,
+   "mature": true
+  },
+  {
+   "ticker": "AVO",
+   "insider": "Pack Jay A",
+   "role": "Director",
+   "date": "2026-06-15",
+   "filed": "2026-06-17",
+   "value": 1255553.46,
+   "src": "backfill",
+   "pre10": 1.67,
+   "after": {
+    "1": -0.383,
+    "3": 3.282,
+    "5": 4.397,
+    "10": 8.537,
+    "20": 18.26
+   },
+   "days": 20,
+   "running": 18.26,
+   "mature": true
+  },
+  {
+   "ticker": "GABC",
+   "insider": "Ryan Christina M",
+   "role": "Director",
+   "date": "2026-06-15",
+   "filed": "2026-06-17",
+   "value": 1000.0,
+   "src": "backfill",
+   "pre10": 6.47,
+   "after": {
+    "1": -0.174,
+    "3": 3.625,
+    "5": 5.523,
+    "10": 5.872,
+    "20": 8.22
+   },
+   "days": 20,
+   "running": 8.22,
+   "mature": true
+  },
+  {
+   "ticker": "SAGT",
+   "insider": "Ng Chen Lok",
+   "role": "Chief Executive Officer",
+   "date": "2026-06-18",
+   "filed": "2026-06-18",
+   "value": 1560000.0,
+   "src": "backfill",
+   "pre10": 5.43,
+   "after": {
+    "1": -17.682,
+    "3": -22.441,
+    "5": -31.873,
+    "10": -37.354,
+    "20": -44.5
+   },
+   "days": 20,
+   "running": -44.5,
+   "mature": true
+  },
+  {
+   "ticker": "FMBM",
+   "insider": "BURKHOLDER EDWARD RAY",
+   "role": "Director",
+   "date": "2026-06-18",
+   "filed": "2026-06-22",
+   "value": 8916.7,
+   "src": "backfill",
+   "pre10": 4.99,
+   "after": {
+    "1": 0.031,
+    "3": 2.039,
+    "5": 1.125,
+    "10": 4.505,
+    "20": 8.527
+   },
+   "days": 20,
+   "running": 8.53,
+   "mature": true
+  },
+  {
+   "ticker": "COR",
+   "insider": "Tyler Lauren M",
+   "role": "Director",
+   "date": "2026-06-22",
+   "filed": "2026-06-24",
+   "value": 148626.5,
+   "src": "backfill",
+   "pre10": 2.01,
+   "after": {
+    "1": 1.009,
+    "3": -1.752,
+    "5": -0.028,
+    "10": 4.078,
+    "20": 6.819
+   },
+   "days": 20,
+   "running": 6.82,
+   "mature": true
+  },
+  {
+   "ticker": "KARD",
+   "insider": "ARCH Venture Partners XIII, LLC",
+   "role": "Director",
+   "date": "2026-06-22",
+   "filed": "2026-06-24",
+   "value": 20000000.0,
+   "src": "backfill",
+   "pre10": null,
+   "after": {
+    "1": 1.97,
+    "3": 15.965,
+    "5": 7.287,
+    "10": 8.007,
+    "20": -2.639
+   },
+   "days": 20,
+   "running": -2.64,
+   "mature": true
+  },
+  {
+   "ticker": "PSEC",
+   "insider": "Barry John F",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-06-22",
+   "filed": "2026-06-24",
+   "value": 2246300.0,
+   "src": "backfill",
+   "pre10": 0.71,
+   "after": {
+    "1": 1.513,
+    "3": 4.443,
+    "5": 3.799,
+    "10": -1.972,
+    "20": -4.655
+   },
+   "days": 20,
+   "running": -4.65,
+   "mature": true
+  },
+  {
+   "ticker": "COE",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-06-16",
+   "filed": "2026-06-26",
+   "value": 974724.0,
+   "src": "backfill",
+   "pre10": -30.29,
+   "after": {
+    "1": -3.573,
+    "3": 4.163,
+    "5": 1.157,
+    "10": 9.631,
+    "20": 10.549
+   },
+   "days": 20,
+   "running": 10.55,
+   "mature": true
+  },
+  {
+   "ticker": "COE",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-06-17",
+   "filed": "2026-06-26",
+   "value": 687312.0,
+   "src": "backfill",
+   "pre10": -30.29,
+   "after": {
+    "1": -3.573,
+    "3": 4.163,
+    "5": 1.157,
+    "10": 9.631,
+    "20": 10.549
+   },
+   "days": 20,
+   "running": 10.55,
+   "mature": true
+  },
+  {
+   "ticker": "COE",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-06-18",
+   "filed": "2026-06-26",
+   "value": 1502550.0,
+   "src": "backfill",
+   "pre10": -30.29,
+   "after": {
+    "1": -3.573,
+    "3": 4.163,
+    "5": 1.157,
+    "10": 9.631,
+    "20": 10.549
+   },
+   "days": 20,
+   "running": 10.55,
+   "mature": true
+  },
+  {
+   "ticker": "COE",
+   "insider": "Huang Jack Jiajia",
+   "role": "Chief Executive Officer",
+   "date": "2026-06-22",
+   "filed": "2026-06-26",
+   "value": 931402.8,
+   "src": "backfill",
+   "pre10": -30.29,
+   "after": {
+    "1": -3.573,
+    "3": 4.163,
+    "5": 1.157,
+    "10": 9.631,
+    "20": 10.549
+   },
+   "days": 20,
+   "running": 10.55,
+   "mature": true
+  },
+  {
+   "ticker": "DPC",
+   "insider": "Deal Stanley A",
+   "role": "Director",
+   "date": "2026-06-26",
+   "filed": "2026-06-26",
+   "value": 539880.0,
+   "src": "backfill",
+   "pre10": null,
+   "after": {
+    "1": 9.404,
+    "3": -0.212,
+    "5": 1.122,
+    "10": -2.077,
+    "20": 3.053
+   },
+   "days": 20,
+   "running": 3.05,
+   "mature": true
+  },
+  {
+   "ticker": "KMX",
+   "insider": "ONeil Mark F",
+   "role": "Director",
+   "date": "2026-06-24",
+   "filed": "2026-06-26",
+   "value": 251328.0,
+   "src": "backfill",
+   "pre10": 3.24,
+   "after": {
+    "1": -0.645,
+    "3": -3.792,
+    "5": -7.57,
+    "10": 1.481,
+    "20": 9.489
+   },
+   "days": 20,
+   "running": 9.49,
+   "mature": true
+  },
   {
    "ticker": "GH",
    "insider": "Kalia Kumud",
@@ -285,222 +785,6 @@
    "mature": true
   },
   {
-   "ticker": "GLOO",
-   "insider": "GELSINGER PATRICK P",
-   "role": "See Remarks",
-   "date": "2026-09-11",
-   "filed": "2026-09-11",
-   "value": 166875.0,
-   "src": "live",
-   "pre10": -0.6,
-   "after": {
-    "1": -2.533,
-    "3": 16.938,
-    "5": 38.825
-   },
-   "days": 7,
-   "running": 42.45,
-   "mature": false
-  },
-  {
-   "ticker": "PVH",
-   "insider": "Larsson Stefan",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-11",
-   "filed": "2026-09-11",
-   "value": 1000001.02,
-   "src": "live",
-   "pre10": -6.32,
-   "after": {
-    "1": 0.262,
-    "3": -0.642,
-    "5": 0.374
-   },
-   "days": 7,
-   "running": 2.57,
-   "mature": false
-  },
-  {
-   "ticker": "GRNT",
-   "insider": "Miller Matthew Reade",
-   "role": "Director",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 50300.0,
-   "src": "live",
-   "pre10": 2.29,
-   "after": {
-    "1": 3.46,
-    "3": -4.59,
-    "5": -12.09
-   },
-   "days": 6,
-   "running": -11.64,
-   "mature": false
-  },
-  {
-   "ticker": "SLGL",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 98455.88,
-   "src": "live",
-   "pre10": -4.17,
-   "after": {
-    "1": 0.593,
-    "3": 0.125,
-    "5": -9.748
-   },
-   "days": 6,
-   "running": -3.79,
-   "mature": false
-  },
-  {
-   "ticker": "DOMH",
-   "insider": "Hayes Anthony",
-   "role": "CEO",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 108135.0,
-   "src": "live",
-   "pre10": -5.59,
-   "after": {
-    "1": -1.873,
-    "3": 8.602,
-    "5": 10.933
-   },
-   "days": 6,
-   "running": 12.34,
-   "mature": false
-  },
-  {
-   "ticker": "DOMH",
-   "insider": "Wool Kyle Michael",
-   "role": "President",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 108135.0,
-   "src": "live",
-   "pre10": -5.59,
-   "after": {
-    "1": -1.873,
-    "3": 8.602,
-    "5": 10.933
-   },
-   "days": 6,
-   "running": 12.34,
-   "mature": false
-  },
-  {
-   "ticker": "TMDX",
-   "insider": "Weill David",
-   "role": "Director",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 109057.68,
-   "src": "live",
-   "pre10": -1.81,
-   "after": {
-    "1": 2.327,
-    "3": -0.014,
-    "5": -0.971
-   },
-   "days": 6,
-   "running": 0.24,
-   "mature": false
-  },
-  {
-   "ticker": "NTHI",
-   "insider": "Heshmatpour Amir F",
-   "role": "CEO, President",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 135619.8,
-   "src": "live",
-   "pre10": -18.3,
-   "after": {
-    "1": -12.536,
-    "3": -10.589,
-    "5": -14.381
-   },
-   "days": 6,
-   "running": -11.95,
-   "mature": false
-  },
-  {
-   "ticker": "DGICA",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 187245.15,
-   "src": "live",
-   "pre10": 2.19,
-   "after": {
-    "1": 0.359,
-    "3": -3.308,
-    "5": -6.383
-   },
-   "days": 6,
-   "running": -6.78,
-   "mature": false
-  },
-  {
-   "ticker": "HLMN",
-   "insider": "Kraft Robert O.",
-   "role": "CFO and Treasurer",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 248500.0,
-   "src": "live",
-   "pre10": -6.11,
-   "after": {
-    "1": 0.914,
-    "3": -0.742,
-    "5": -3.4
-   },
-   "days": 6,
-   "running": -2.5,
-   "mature": false
-  },
-  {
-   "ticker": "ANGX",
-   "insider": "Sarowitz Steven I",
-   "role": "Director",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 472603.75,
-   "src": "live",
-   "pre10": 27.08,
-   "after": {
-    "1": -3.297,
-    "3": -10.747,
-    "5": -6.583
-   },
-   "days": 6,
-   "running": -10.36,
-   "mature": false
-  },
-  {
-   "ticker": "RSG",
-   "insider": "CASCADE INVESTMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "filed": "2026-09-14",
-   "value": 1160602.62,
-   "src": "live",
-   "pre10": 2.78,
-   "after": {
-    "1": -0.618,
-    "3": -3.128,
-    "5": -7.034
-   },
-   "days": 6,
-   "running": -6.79,
-   "mature": false
-  },
-  {
    "ticker": "JCTC",
    "insider": "AJB Investment Fund II, LP",
    "role": "10% owner",
@@ -515,7 +799,7 @@
     "5": -1.669
    },
    "days": 6,
-   "running": -0.92,
+   "running": -0.87,
    "mature": false
   },
   {
@@ -533,7 +817,7 @@
     "5": 4.088
    },
    "days": 6,
-   "running": 6.01,
+   "running": 2.56,
    "mature": false
   },
   {
@@ -551,7 +835,7 @@
     "5": -2.013
    },
    "days": 6,
-   "running": -1.95,
+   "running": -0.5,
    "mature": false
   },
   {
@@ -569,7 +853,7 @@
     "5": -4.524
    },
    "days": 6,
-   "running": -4.14,
+   "running": -4.97,
    "mature": false
   },
   {
@@ -587,7 +871,7 @@
     "5": -3.316
    },
    "days": 6,
-   "running": -2.06,
+   "running": -3.11,
    "mature": false
   },
   {
@@ -605,7 +889,7 @@
     "5": -3.884
    },
    "days": 6,
-   "running": -4.08,
+   "running": -2.65,
    "mature": false
   },
   {
@@ -623,7 +907,7 @@
     "5": -3.316
    },
    "days": 6,
-   "running": -2.06,
+   "running": -3.11,
    "mature": false
   },
   {
@@ -641,7 +925,7 @@
     "5": -4.263
    },
    "days": 6,
-   "running": -5.82,
+   "running": -7.29,
    "mature": false
   },
   {
@@ -659,7 +943,7 @@
     "5": 37.987
    },
    "days": 6,
-   "running": 44.69,
+   "running": 40.9,
    "mature": false
   },
   {
@@ -677,7 +961,7 @@
     "5": -3.884
    },
    "days": 6,
-   "running": -4.08,
+   "running": -2.65,
    "mature": false
   },
   {
@@ -695,7 +979,7 @@
     "5": -6.909
    },
    "days": 6,
-   "running": -6.91,
+   "running": -4.05,
    "mature": false
   },
   {
@@ -713,7 +997,7 @@
     "5": -3.884
    },
    "days": 6,
-   "running": -4.08,
+   "running": -2.65,
    "mature": false
   },
   {
@@ -731,7 +1015,7 @@
     "5": -3.884
    },
    "days": 6,
-   "running": -4.08,
+   "running": -2.65,
    "mature": false
   },
   {
@@ -749,222 +1033,7 @@
     "5": -3.884
    },
    "days": 6,
-   "running": -4.08,
-   "mature": false
-  },
-  {
-   "ticker": "LMB",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 49590.0,
-   "src": "live",
-   "pre10": 23.82,
-   "after": {
-    "1": 1.061,
-    "3": -1.759,
-    "5": -2.902
-   },
-   "days": 5,
-   "running": -2.9,
-   "mature": false
-  },
-  {
-   "ticker": "AFCG",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 53250.0,
-   "src": "live",
-   "pre10": -0.96,
-   "after": {
-    "1": -0.703,
-    "3": -3.094,
-    "5": -2.181
-   },
-   "days": 5,
-   "running": -2.18,
-   "mature": false
-  },
-  {
-   "ticker": "URG",
-   "insider": "Walle Jade",
-   "role": "VICE PRESIDENT FINANCE",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 97499.49,
-   "src": "live",
-   "pre10": -12.83,
-   "after": {
-    "1": -1.721,
-    "3": -3.789,
-    "5": -2.846
-   },
-   "days": 5,
-   "running": -2.85,
-   "mature": false
-  },
-  {
-   "ticker": "CRT",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 187485.6,
-   "src": "live",
-   "pre10": 26.33,
-   "after": {
-    "1": -2.731,
-    "3": -2.836,
-    "5": -8.929
-   },
-   "days": 5,
-   "running": -8.93,
-   "mature": false
-  },
-  {
-   "ticker": "ARE",
-   "insider": "MARCUS JOEL S",
-   "role": "Executive Chairman",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 248400.0,
-   "src": "live",
-   "pre10": 4.46,
-   "after": {
-    "1": 1.414,
-    "3": -0.255,
-    "5": 0.281
-   },
-   "days": 5,
-   "running": 0.28,
-   "mature": false
-  },
-  {
-   "ticker": "COO",
-   "insider": "Keel Paul A",
-   "role": "Director",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 249999.98,
-   "src": "live",
-   "pre10": -22.74,
-   "after": {
-    "1": 1.159,
-    "3": 1.155,
-    "5": -0.617
-   },
-   "days": 5,
-   "running": -0.62,
-   "mature": false
-  },
-  {
-   "ticker": "CRBG",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 5923208.27,
-   "src": "live",
-   "pre10": 8.88,
-   "after": {
-    "1": 0.775,
-    "3": -0.595,
-    "5": -4.373
-   },
-   "days": 5,
-   "running": -4.37,
-   "mature": false
-  },
-  {
-   "ticker": "FTK",
-   "insider": "Wilks Matthew",
-   "role": "Director",
-   "date": "2026-09-11",
-   "filed": "2026-09-15",
-   "value": 34320012.93,
-   "src": "live",
-   "pre10": 15.0,
-   "after": {
-    "1": -1.778,
-    "3": 8.301,
-    "5": 7.863
-   },
-   "days": 5,
-   "running": 7.86,
-   "mature": false
-  },
-  {
-   "ticker": "BRID",
-   "insider": "Bridgford Allan Jr.",
-   "role": "",
-   "date": "2026-09-14",
-   "filed": "2026-09-15",
-   "value": 77.35,
-   "src": "live",
-   "pre10": -1.04,
-   "after": {
-    "1": -2.413,
-    "3": -5.974
-   },
-   "days": 4,
-   "running": -4.9,
-   "mature": false
-  },
-  {
-   "ticker": "TPL",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "filed": "2026-09-15",
-   "value": 371.73,
-   "src": "live",
-   "pre10": 0.69,
-   "after": {
-    "1": -3.935,
-    "3": -4.069,
-    "5": -2.7
-   },
-   "days": 5,
-   "running": -2.7,
-   "mature": false
-  },
-  {
-   "ticker": "BGDE",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "filed": "2026-09-15",
-   "value": 975.84,
-   "src": "live",
-   "pre10": -9.18,
-   "after": {
-    "1": -4.449,
-    "3": -1.371,
-    "5": 3.467
-   },
-   "days": 5,
-   "running": 3.47,
-   "mature": false
-  },
-  {
-   "ticker": "NTHI",
-   "insider": "GARNETT KEITHLY",
-   "role": "CFO",
-   "date": "2026-09-14",
-   "filed": "2026-09-15",
-   "value": 1000.96,
-   "src": "live",
-   "pre10": -31.74,
-   "after": {
-    "1": -11.599,
-    "3": -4.936,
-    "5": -1.74
-   },
-   "days": 5,
-   "running": -1.74,
+   "running": -2.65,
    "mature": false
   },
   {
@@ -979,10 +1048,10 @@
    "after": {
     "1": 0.388,
     "3": -0.867,
-    "5": -1.373
+    "5": -0.842
    },
    "days": 5,
-   "running": -1.37,
+   "running": -0.84,
    "mature": false
   },
   {
@@ -996,10 +1065,11 @@
    "pre10": 0.75,
    "after": {
     "1": -4.701,
-    "3": -7.557
+    "3": -7.557,
+    "5": -6.059
    },
-   "days": 4,
-   "running": -9.49,
+   "days": 5,
+   "running": -6.06,
    "mature": false
   },
   {
@@ -1014,10 +1084,10 @@
    "after": {
     "1": 0.345,
     "3": -1.096,
-    "5": -4.1
+    "5": -4.341
    },
    "days": 5,
-   "running": -4.1,
+   "running": -4.34,
    "mature": false
   },
   {
@@ -1032,10 +1102,10 @@
    "after": {
     "1": -4.157,
     "3": -3.437,
-    "5": -6.908
+    "5": -6.683
    },
    "days": 5,
-   "running": -6.91,
+   "running": -6.68,
    "mature": false
   },
   {
@@ -1050,10 +1120,10 @@
    "after": {
     "1": 0.345,
     "3": -1.096,
-    "5": -4.1
+    "5": -4.341
    },
    "days": 5,
-   "running": -4.1,
+   "running": -4.34,
    "mature": false
   },
   {
@@ -1068,10 +1138,10 @@
    "after": {
     "1": 0.54,
     "3": 4.614,
-    "5": 3.829
+    "5": 4.981
    },
    "days": 5,
-   "running": 3.83,
+   "running": 4.98,
    "mature": false
   },
   {
@@ -1103,10 +1173,10 @@
    "after": {
     "1": -0.54,
     "3": -9.971,
-    "5": -6.278
+    "5": -6.848
    },
    "days": 5,
-   "running": -6.28,
+   "running": -6.85,
    "mature": false
   },
   {
@@ -1121,10 +1191,10 @@
    "after": {
     "1": -4.463,
     "3": -5.116,
-    "5": -1.189
+    "5": -12.707
    },
    "days": 5,
-   "running": -1.19,
+   "running": -12.71,
    "mature": false
   },
   {
@@ -1139,10 +1209,10 @@
    "after": {
     "1": -11.599,
     "3": -4.936,
-    "5": -1.74
+    "5": -6.048
    },
    "days": 5,
-   "running": -1.74,
+   "running": -6.05,
    "mature": false
   },
   {
@@ -1157,10 +1227,10 @@
    "after": {
     "1": -1.521,
     "3": 1.104,
-    "5": -0.242
+    "5": 1.781
    },
    "days": 5,
-   "running": -0.24,
+   "running": 1.78,
    "mature": false
   },
   {
@@ -1175,10 +1245,10 @@
    "after": {
     "1": -11.599,
     "3": -4.936,
-    "5": -1.74
+    "5": -6.048
    },
    "days": 5,
-   "running": -1.74,
+   "running": -6.05,
    "mature": false
   },
   {
@@ -1193,10 +1263,10 @@
    "after": {
     "1": -0.703,
     "3": -3.094,
-    "5": -2.181
+    "5": -1.786
    },
    "days": 5,
-   "running": -2.18,
+   "running": -1.79,
    "mature": false
   },
   {
@@ -1211,10 +1281,10 @@
    "after": {
     "1": 4.421,
     "3": -3.5,
-    "5": -3.514
+    "5": -2.236
    },
    "days": 5,
-   "running": -3.51,
+   "running": -2.24,
    "mature": false
   },
   {
@@ -1229,10 +1299,10 @@
    "after": {
     "1": -3.315,
     "3": 1.366,
-    "5": 2.543
+    "5": 0.673
    },
    "days": 5,
-   "running": 2.54,
+   "running": 0.67,
    "mature": false
   },
   {
@@ -1247,10 +1317,10 @@
    "after": {
     "1": -0.919,
     "3": -2.975,
-    "5": 1.17
+    "5": -0.736
    },
    "days": 5,
-   "running": 1.17,
+   "running": -0.74,
    "mature": false
   },
   {
@@ -1265,10 +1335,10 @@
    "after": {
     "1": -1.842,
     "3": -5.172,
-    "5": -4.904
+    "5": -5.515
    },
    "days": 5,
-   "running": -4.9,
+   "running": -5.51,
    "mature": false
   },
   {
@@ -1282,10 +1352,11 @@
    "pre10": 0.75,
    "after": {
     "1": -4.701,
-    "3": -7.557
+    "3": -7.557,
+    "5": -6.059
    },
-   "days": 4,
-   "running": -9.49,
+   "days": 5,
+   "running": -6.06,
    "mature": false
   },
   {
@@ -1300,10 +1371,10 @@
    "after": {
     "1": -2.474,
     "3": 0.526,
-    "5": 1.691
+    "5": -2.3
    },
    "days": 5,
-   "running": 1.69,
+   "running": -2.3,
    "mature": false
   },
   {
@@ -1318,10 +1389,10 @@
    "after": {
     "1": 1.061,
     "3": -1.759,
-    "5": -2.902
+    "5": -3.459
    },
    "days": 5,
-   "running": -2.9,
+   "running": -3.46,
    "mature": false
   },
   {
@@ -1336,10 +1407,10 @@
    "after": {
     "1": 0.556,
     "3": 0.838,
-    "5": 7.465
+    "5": 4.909
    },
    "days": 5,
-   "running": 7.47,
+   "running": 4.91,
    "mature": false
   },
   {
@@ -1354,10 +1425,10 @@
    "after": {
     "1": -1.292,
     "3": -5.161,
-    "5": -6.254
+    "5": -12.692
    },
    "days": 5,
-   "running": -6.25,
+   "running": -12.69,
    "mature": false
   },
   {
@@ -1372,10 +1443,10 @@
    "after": {
     "1": -1.544,
     "3": -1.542,
-    "5": -0.023
+    "5": -5.899
    },
    "days": 5,
-   "running": -0.02,
+   "running": -5.9,
    "mature": false
   },
   {
@@ -1390,10 +1461,10 @@
    "after": {
     "1": -11.599,
     "3": -4.936,
-    "5": -1.74
+    "5": -6.048
    },
    "days": 5,
-   "running": -1.74,
+   "running": -6.05,
    "mature": false
   },
   {
@@ -1408,10 +1479,10 @@
    "after": {
     "1": 0.951,
     "3": 0.395,
-    "5": -0.463
+    "5": -0.778
    },
    "days": 5,
-   "running": -0.46,
+   "running": -0.78,
    "mature": false
   },
   {
@@ -1426,10 +1497,10 @@
    "after": {
     "1": -1.544,
     "3": -1.542,
-    "5": -0.023
+    "5": -5.899
    },
    "days": 5,
-   "running": -0.02,
+   "running": -5.9,
    "mature": false
   },
   {
@@ -1444,10 +1515,10 @@
    "after": {
     "1": -1.544,
     "3": -1.542,
-    "5": -0.023
+    "5": -5.899
    },
    "days": 5,
-   "running": -0.02,
+   "running": -5.9,
    "mature": false
   },
   {
@@ -1462,27 +1533,10 @@
    "after": {
     "1": -0.919,
     "3": -2.975,
-    "5": 1.17
+    "5": -0.736
    },
    "days": 5,
-   "running": 1.17,
-   "mature": false
-  },
-  {
-   "ticker": "GAIA",
-   "insider": "Sutherland Paul Howard",
-   "role": "Director",
-   "date": "2026-09-14",
-   "filed": "2026-09-16",
-   "value": 124.5,
-   "src": "live",
-   "pre10": -17.94,
-   "after": {
-    "1": 2.472,
-    "3": -2.408
-   },
-   "days": 4,
-   "running": -1.14,
+   "running": -0.74,
    "mature": false
   },
   {
@@ -1499,7 +1553,7 @@
     "3": -3.014
    },
    "days": 4,
-   "running": -5.35,
+   "running": -8.49,
    "mature": false
   },
   {
@@ -1516,7 +1570,7 @@
     "3": 7.729
    },
    "days": 4,
-   "running": 1.17,
+   "running": 3.2,
    "mature": false
   },
   {
@@ -1537,6 +1591,23 @@
    "mature": false
   },
   {
+   "ticker": "GAIA",
+   "insider": "Sutherland Paul Howard",
+   "role": "Director",
+   "date": "2026-09-14",
+   "filed": "2026-09-16",
+   "value": 13523.4,
+   "src": "live",
+   "pre10": -17.94,
+   "after": {
+    "1": 2.472,
+    "3": -2.408
+   },
+   "days": 4,
+   "running": 0.18,
+   "mature": false
+  },
+  {
    "ticker": "CLPR",
    "insider": "Levinson Sam",
    "role": "Director",
@@ -1550,7 +1621,7 @@
     "3": -6.246
    },
    "days": 4,
-   "running": -1.69,
+   "running": -1.89,
    "mature": false
   },
   {
@@ -1567,7 +1638,7 @@
     "3": -5.244
    },
    "days": 4,
-   "running": -5.26,
+   "running": -7.38,
    "mature": false
   },
   {
@@ -1584,7 +1655,7 @@
     "3": 3.214
    },
    "days": 4,
-   "running": 4.53,
+   "running": 5.41,
    "mature": false
   },
   {
@@ -1601,7 +1672,7 @@
     "3": 6.725
    },
    "days": 4,
-   "running": 8.45,
+   "running": 23.98,
    "mature": false
   },
   {
@@ -1618,7 +1689,7 @@
     "3": 2.42
    },
    "days": 4,
-   "running": 1.89,
+   "running": 5.51,
    "mature": false
   },
   {
@@ -1635,7 +1706,7 @@
     "3": -8.99
    },
    "days": 4,
-   "running": -7.91,
+   "running": -7.73,
    "mature": false
   },
   {
@@ -1652,7 +1723,7 @@
     "3": 1.031
    },
    "days": 4,
-   "running": 1.09,
+   "running": -2.48,
    "mature": false
   },
   {
@@ -1669,7 +1740,7 @@
     "3": 1.031
    },
    "days": 4,
-   "running": 1.09,
+   "running": -2.48,
    "mature": false
   },
   {
@@ -1686,7 +1757,7 @@
     "3": -4.626
    },
    "days": 4,
-   "running": -5.67,
+   "running": -5.73,
    "mature": false
   },
   {
@@ -1703,7 +1774,7 @@
     "3": -4.923
    },
    "days": 4,
-   "running": -5.39,
+   "running": -5.91,
    "mature": false
   },
   {
@@ -1720,7 +1791,7 @@
     "3": -2.286
    },
    "days": 4,
-   "running": -2.05,
+   "running": -3.56,
    "mature": false
   },
   {
@@ -1737,7 +1808,7 @@
     "3": -1.052
    },
    "days": 4,
-   "running": 0.68,
+   "running": -1.85,
    "mature": false
   },
   {
@@ -1754,7 +1825,7 @@
     "3": -3.091
    },
    "days": 4,
-   "running": -2.58,
+   "running": -3.56,
    "mature": false
   },
   {
@@ -1771,7 +1842,7 @@
     "3": -8.218
    },
    "days": 4,
-   "running": -16.15,
+   "running": -20.41,
    "mature": false
   },
   {
@@ -1788,7 +1859,7 @@
     "3": 1.578
    },
    "days": 4,
-   "running": -3.26,
+   "running": 0.21,
    "mature": false
   },
   {
@@ -1805,7 +1876,7 @@
     "3": -1.884
    },
    "days": 4,
-   "running": -1.78,
+   "running": -4.21,
    "mature": false
   },
   {
@@ -1822,7 +1893,7 @@
     "3": 1.259
    },
    "days": 4,
-   "running": 0.98,
+   "running": 1.91,
    "mature": false
   },
   {
@@ -1839,7 +1910,7 @@
     "3": -1.471
    },
    "days": 4,
-   "running": -1.23,
+   "running": -2.34,
    "mature": false
   },
   {
@@ -1856,7 +1927,7 @@
     "3": -1.881
    },
    "days": 4,
-   "running": -2.41,
+   "running": -2.24,
    "mature": false
   },
   {
@@ -1873,7 +1944,7 @@
     "3": -1.834
    },
    "days": 4,
-   "running": -1.97,
+   "running": -2.84,
    "mature": false
   },
   {
@@ -1890,7 +1961,7 @@
     "3": -3.58
    },
    "days": 4,
-   "running": -5.73,
+   "running": -5.19,
    "mature": false
   },
   {
@@ -1907,7 +1978,7 @@
     "3": -3.228
    },
    "days": 4,
-   "running": -2.59,
+   "running": -3.87,
    "mature": false
   },
   {
@@ -1924,7 +1995,7 @@
     "3": 3.958
    },
    "days": 4,
-   "running": 2.97,
+   "running": -0.54,
    "mature": false
   },
   {
@@ -1941,7 +2012,7 @@
     "3": -1.162
    },
    "days": 4,
-   "running": -0.14,
+   "running": -2.29,
    "mature": false
   },
   {
@@ -1958,7 +2029,7 @@
     "3": -1.162
    },
    "days": 4,
-   "running": -0.14,
+   "running": -2.29,
    "mature": false
   },
   {
@@ -1975,7 +2046,7 @@
     "3": -1.812
    },
    "days": 4,
-   "running": -2.67,
+   "running": -6.27,
    "mature": false
   },
   {
@@ -1992,7 +2063,7 @@
     "3": -2.713
    },
    "days": 4,
-   "running": -1.39,
+   "running": -0.46,
    "mature": false
   },
   {
@@ -2009,7 +2080,7 @@
     "3": -0.946
    },
    "days": 4,
-   "running": -0.55,
+   "running": -0.02,
    "mature": false
   },
   {
@@ -2026,7 +2097,7 @@
     "3": -2.583
    },
    "days": 4,
-   "running": -3.79,
+   "running": -4.04,
    "mature": false
   },
   {
@@ -2043,7 +2114,7 @@
     "3": -1.812
    },
    "days": 4,
-   "running": -2.67,
+   "running": -6.27,
    "mature": false
   },
   {
@@ -2094,7 +2165,7 @@
     "3": -6.246
    },
    "days": 4,
-   "running": -1.69,
+   "running": -1.89,
    "mature": false
   },
   {
@@ -2111,7 +2182,7 @@
     "3": -1.961
    },
    "days": 4,
-   "running": -0.19,
+   "running": -2.92,
    "mature": false
   },
   {
@@ -2128,7 +2199,7 @@
     "3": 3.214
    },
    "days": 4,
-   "running": 4.53,
+   "running": 5.41,
    "mature": false
   },
   {
@@ -2145,7 +2216,7 @@
     "3": -4.923
    },
    "days": 4,
-   "running": -5.39,
+   "running": -5.91,
    "mature": false
   },
   {
@@ -2162,7 +2233,7 @@
     "3": 1.259
    },
    "days": 4,
-   "running": 0.98,
+   "running": 1.91,
    "mature": false
   },
   {
@@ -2179,7 +2250,7 @@
     "3": 1.578
    },
    "days": 4,
-   "running": -3.26,
+   "running": 0.21,
    "mature": false
   },
   {
@@ -2196,7 +2267,7 @@
     "3": -0.263
    },
    "days": 4,
-   "running": 2.26,
+   "running": 1.17,
    "mature": false
   },
   {
@@ -2213,7 +2284,7 @@
     "3": 6.725
    },
    "days": 4,
-   "running": 8.45,
+   "running": 23.98,
    "mature": false
   },
   {
@@ -2230,7 +2301,7 @@
     "3": -0.169
    },
    "days": 4,
-   "running": -2.26,
+   "running": -4.18,
    "mature": false
   },
   {
@@ -2247,7 +2318,7 @@
     "3": 1.578
    },
    "days": 4,
-   "running": -3.26,
+   "running": 0.21,
    "mature": false
   },
   {
@@ -2264,7 +2335,7 @@
     "3": -8.99
    },
    "days": 4,
-   "running": -7.91,
+   "running": -7.73,
    "mature": false
   },
   {
@@ -2281,7 +2352,7 @@
     "3": -5.192
    },
    "days": 4,
-   "running": -3.15,
+   "running": 1.56,
    "mature": false
   },
   {
@@ -2298,7 +2369,7 @@
     "3": -2.713
    },
    "days": 4,
-   "running": -1.39,
+   "running": -0.46,
    "mature": false
   },
   {
@@ -2315,7 +2386,7 @@
     "3": 2.605
    },
    "days": 4,
-   "running": 2.51,
+   "running": 4.46,
    "mature": false
   },
   {
@@ -2332,7 +2403,7 @@
     "3": 4.342
    },
    "days": 4,
-   "running": 4.04,
+   "running": 3.23,
    "mature": false
   },
   {
@@ -2349,7 +2420,7 @@
     "3": 2.605
    },
    "days": 4,
-   "running": 2.51,
+   "running": 4.46,
    "mature": false
   },
   {
@@ -2366,7 +2437,7 @@
     "3": -0.169
    },
    "days": 4,
-   "running": -2.26,
+   "running": -4.18,
    "mature": false
   },
   {
@@ -2383,7 +2454,7 @@
     "3": 8.309
    },
    "days": 4,
-   "running": 10.18,
+   "running": 8.28,
    "mature": false
   },
   {
@@ -2400,7 +2471,7 @@
     "3": -1.884
    },
    "days": 4,
-   "running": -1.78,
+   "running": -4.21,
    "mature": false
   },
   {
@@ -2417,7 +2488,7 @@
     "3": -3.875
    },
    "days": 4,
-   "running": 1.84,
+   "running": -0.08,
    "mature": false
   },
   {
@@ -2434,7 +2505,7 @@
     "3": -0.169
    },
    "days": 4,
-   "running": -2.26,
+   "running": -4.18,
    "mature": false
   },
   {
@@ -2451,7 +2522,7 @@
     "3": -4.076
    },
    "days": 4,
-   "running": -4.08,
+   "running": -5.39,
    "mature": false
   },
   {
@@ -2468,7 +2539,7 @@
     "3": -8.99
    },
    "days": 4,
-   "running": -7.91,
+   "running": -7.73,
    "mature": false
   },
   {
@@ -2485,7 +2556,7 @@
     "3": 1.259
    },
    "days": 4,
-   "running": 0.98,
+   "running": 1.91,
    "mature": false
   },
   {
@@ -2502,7 +2573,7 @@
     "3": 0.671
    },
    "days": 4,
-   "running": 1.24,
+   "running": -4.69,
    "mature": false
   },
   {
@@ -2519,7 +2590,7 @@
     "3": -1.884
    },
    "days": 4,
-   "running": -1.78,
+   "running": -4.21,
    "mature": false
   },
   {
@@ -2533,10 +2604,10 @@
    "pre10": -1.41,
    "after": {
     "1": 1.587,
-    "3": -1.223
+    "3": -1.089
    },
    "days": 3,
-   "running": -1.22,
+   "running": -1.09,
    "mature": false
   },
   {
@@ -2550,10 +2621,10 @@
    "pre10": 6.23,
    "after": {
     "1": 0.919,
-    "3": -4.444
+    "3": -1.01
    },
    "days": 3,
-   "running": -4.44,
+   "running": -1.01,
    "mature": false
   },
   {
@@ -2583,10 +2654,10 @@
    "pre10": 0.04,
    "after": {
     "1": 0.934,
-    "3": -1.62
+    "3": -1.858
    },
    "days": 3,
-   "running": -1.62,
+   "running": -1.86,
    "mature": false
   },
   {
@@ -2600,10 +2671,10 @@
    "pre10": -0.92,
    "after": {
     "1": -0.571,
-    "3": -2.012
+    "3": -1.081
    },
    "days": 3,
-   "running": -2.01,
+   "running": -1.08,
    "mature": false
   },
   {
@@ -2617,10 +2688,10 @@
    "pre10": 11.7,
    "after": {
     "1": 2.372,
-    "3": 1.576
+    "3": 2.71
    },
    "days": 3,
-   "running": 1.58,
+   "running": 2.71,
    "mature": false
   },
   {
@@ -2634,10 +2705,10 @@
    "pre10": -2.01,
    "after": {
     "1": -2.178,
-    "3": -8.542
+    "3": -7.535
    },
    "days": 3,
-   "running": -8.54,
+   "running": -7.53,
    "mature": false
   },
   {
@@ -2651,10 +2722,10 @@
    "pre10": 17.38,
    "after": {
     "1": -6.627,
-    "3": -4.911
+    "3": -8.261
    },
    "days": 3,
-   "running": -4.91,
+   "running": -8.26,
    "mature": false
   },
   {
@@ -2668,10 +2739,10 @@
    "pre10": -3.76,
    "after": {
     "1": -9.021,
-    "3": -7.715
+    "3": -14.245
    },
    "days": 3,
-   "running": -7.71,
+   "running": -14.25,
    "mature": false
   },
   {
@@ -2685,10 +2756,10 @@
    "pre10": 13.5,
    "after": {
     "1": 3.522,
-    "3": -6.895
+    "3": -2.802
    },
    "days": 3,
-   "running": -6.9,
+   "running": -2.8,
    "mature": false
   },
   {
@@ -2702,10 +2773,10 @@
    "pre10": -2.63,
    "after": {
     "1": -1.141,
-    "3": -1.987
+    "3": -2.419
    },
    "days": 3,
-   "running": -1.99,
+   "running": -2.42,
    "mature": false
   },
   {
@@ -2719,10 +2790,10 @@
    "pre10": -1.08,
    "after": {
     "1": 1.736,
-    "3": 4.533
+    "3": 5.418
    },
    "days": 3,
-   "running": 4.53,
+   "running": 5.42,
    "mature": false
   },
   {
@@ -2736,10 +2807,10 @@
    "pre10": 0.11,
    "after": {
     "1": 1.134,
-    "3": -4.794
+    "3": -6.649
    },
    "days": 3,
-   "running": -4.79,
+   "running": -6.65,
    "mature": false
   },
   {
@@ -2753,10 +2824,10 @@
    "pre10": 13.5,
    "after": {
     "1": 3.522,
-    "3": -6.895
+    "3": -2.802
    },
    "days": 3,
-   "running": -6.9,
+   "running": -2.8,
    "mature": false
   },
   {
@@ -2770,10 +2841,10 @@
    "pre10": -3.76,
    "after": {
     "1": -9.021,
-    "3": -7.715
+    "3": -14.245
    },
    "days": 3,
-   "running": -7.71,
+   "running": -14.25,
    "mature": false
   },
   {
@@ -2787,10 +2858,10 @@
    "pre10": 13.5,
    "after": {
     "1": 3.522,
-    "3": -6.895
+    "3": -2.802
    },
    "days": 3,
-   "running": -6.9,
+   "running": -2.8,
    "mature": false
   },
   {
@@ -2804,10 +2875,10 @@
    "pre10": 0.11,
    "after": {
     "1": 1.134,
-    "3": -4.794
+    "3": -6.649
    },
    "days": 3,
-   "running": -4.79,
+   "running": -6.65,
    "mature": false
   },
   {
@@ -2821,10 +2892,10 @@
    "pre10": 0.11,
    "after": {
     "1": 1.134,
-    "3": -4.794
+    "3": -6.649
    },
    "days": 3,
-   "running": -4.79,
+   "running": -6.65,
    "mature": false
   },
   {
@@ -2838,10 +2909,10 @@
    "pre10": 3.37,
    "after": {
     "1": 3.17,
-    "3": -1.956
+    "3": -1.628
    },
    "days": 3,
-   "running": -1.96,
+   "running": -1.63,
    "mature": false
   },
   {
@@ -2855,10 +2926,10 @@
    "pre10": 13.5,
    "after": {
     "1": 3.522,
-    "3": -6.895
+    "3": -2.802
    },
    "days": 3,
-   "running": -6.9,
+   "running": -2.8,
    "mature": false
   },
   {
@@ -2872,10 +2943,10 @@
    "pre10": 3.37,
    "after": {
     "1": 3.17,
-    "3": -1.956
+    "3": -1.628
    },
    "days": 3,
-   "running": -1.96,
+   "running": -1.63,
    "mature": false
   },
   {
@@ -2889,10 +2960,10 @@
    "pre10": 0.11,
    "after": {
     "1": 1.134,
-    "3": -4.794
+    "3": -6.649
    },
    "days": 3,
-   "running": -4.79,
+   "running": -6.65,
    "mature": false
   },
   {
@@ -2906,10 +2977,10 @@
    "pre10": 0.11,
    "after": {
     "1": 1.134,
-    "3": -4.794
+    "3": -6.649
    },
    "days": 3,
-   "running": -4.79,
+   "running": -6.65,
    "mature": false
   },
   {
@@ -2923,10 +2994,10 @@
    "pre10": -2.9,
    "after": {
     "1": 0.445,
-    "3": -2.033
+    "3": -3.591
    },
    "days": 3,
-   "running": -2.03,
+   "running": -3.59,
    "mature": false
   },
   {
@@ -2940,10 +3011,10 @@
    "pre10": -5.14,
    "after": {
     "1": 1.394,
-    "3": 2.918
+    "3": -0.587
    },
    "days": 3,
-   "running": 2.92,
+   "running": -0.59,
    "mature": false
   },
   {
@@ -2973,10 +3044,10 @@
    "pre10": 3.74,
    "after": {
     "1": -0.708,
-    "3": -1.209
+    "3": -0.681
    },
    "days": 3,
-   "running": -1.21,
+   "running": -0.68,
    "mature": false
   },
   {
@@ -2990,10 +3061,10 @@
    "pre10": 12.01,
    "after": {
     "1": -51.862,
-    "3": -64.531
+    "3": -62.279
    },
    "days": 3,
-   "running": -64.53,
+   "running": -62.28,
    "mature": false
   },
   {
@@ -3007,10 +3078,10 @@
    "pre10": -8.21,
    "after": {
     "1": 3.724,
-    "3": 1.292
+    "3": 2.763
    },
    "days": 3,
-   "running": 1.29,
+   "running": 2.76,
    "mature": false
   },
   {
@@ -3024,10 +3095,10 @@
    "pre10": -7.56,
    "after": {
     "1": -2.639,
-    "3": -3.634
+    "3": -4.833
    },
    "days": 3,
-   "running": -3.63,
+   "running": -4.83,
    "mature": false
   },
   {
@@ -3041,10 +3112,10 @@
    "pre10": -3.76,
    "after": {
     "1": -9.021,
-    "3": -7.715
+    "3": -14.245
    },
    "days": 3,
-   "running": -7.71,
+   "running": -14.25,
    "mature": false
   },
   {
@@ -3058,10 +3129,10 @@
    "pre10": 11.7,
    "after": {
     "1": 2.372,
-    "3": 1.576
+    "3": 2.71
    },
    "days": 3,
-   "running": 1.58,
+   "running": 2.71,
    "mature": false
   },
   {
@@ -3075,10 +3146,10 @@
    "pre10": -2.63,
    "after": {
     "1": -1.141,
-    "3": -1.987
+    "3": -2.419
    },
    "days": 3,
-   "running": -1.99,
+   "running": -2.42,
    "mature": false
   },
   {
@@ -3092,10 +3163,10 @@
    "pre10": -11.47,
    "after": {
     "1": 3.721,
-    "3": 1.605
+    "3": 3.349
    },
    "days": 3,
-   "running": 1.6,
+   "running": 3.35,
    "mature": false
   },
   {
@@ -3109,10 +3180,10 @@
    "pre10": -11.47,
    "after": {
     "1": 3.721,
-    "3": 1.605
+    "3": 3.349
    },
    "days": 3,
-   "running": 1.6,
+   "running": 3.35,
    "mature": false
   },
   {
@@ -3126,10 +3197,10 @@
    "pre10": -8.34,
    "after": {
     "1": -1.83,
-    "3": -4.209
+    "3": -11.544
    },
    "days": 3,
-   "running": -4.21,
+   "running": -11.54,
    "mature": false
   },
   {
@@ -3143,10 +3214,10 @@
    "pre10": 0.88,
    "after": {
     "1": -1.092,
-    "3": 0.024
+    "3": -3.875
    },
    "days": 3,
-   "running": 0.02,
+   "running": -3.87,
    "mature": false
   },
   {
@@ -3160,10 +3231,10 @@
    "pre10": -0.92,
    "after": {
     "1": -0.571,
-    "3": -2.012
+    "3": -1.081
    },
    "days": 3,
-   "running": -2.01,
+   "running": -1.08,
    "mature": false
   },
   {
@@ -3177,10 +3248,10 @@
    "pre10": 3.37,
    "after": {
     "1": 3.17,
-    "3": -1.956
+    "3": -1.628
    },
    "days": 3,
-   "running": -1.96,
+   "running": -1.63,
    "mature": false
   },
   {
@@ -3194,10 +3265,10 @@
    "pre10": 3.37,
    "after": {
     "1": 3.17,
-    "3": -1.956
+    "3": -1.628
    },
    "days": 3,
-   "running": -1.96,
+   "running": -1.63,
    "mature": false
   },
   {
@@ -3211,10 +3282,10 @@
    "pre10": -15.86,
    "after": {
     "1": 2.674,
-    "3": 5.728
+    "3": -2.757
    },
    "days": 3,
-   "running": 5.73,
+   "running": -2.76,
    "mature": false
   },
   {
@@ -3228,10 +3299,10 @@
    "pre10": -5.82,
    "after": {
     "1": -0.372,
-    "3": -2.842
+    "3": -3.163
    },
    "days": 3,
-   "running": -2.84,
+   "running": -3.16,
    "mature": false
   },
   {
@@ -3245,10 +3316,10 @@
    "pre10": 3.37,
    "after": {
     "1": 3.17,
-    "3": -1.956
+    "3": -1.628
    },
    "days": 3,
-   "running": -1.96,
+   "running": -1.63,
    "mature": false
   },
   {
@@ -3262,10 +3333,10 @@
    "pre10": -5.82,
    "after": {
     "1": -0.372,
-    "3": -2.842
+    "3": -3.163
    },
    "days": 3,
-   "running": -2.84,
+   "running": -3.16,
    "mature": false
   },
   {
@@ -3279,10 +3350,10 @@
    "pre10": 10.37,
    "after": {
     "1": -1.982,
-    "3": -7.754
+    "3": -5.875
    },
    "days": 3,
-   "running": -7.75,
+   "running": -5.87,
    "mature": false
   },
   {
@@ -3296,10 +3367,10 @@
    "pre10": -9.02,
    "after": {
     "1": -0.939,
-    "3": -3.538
+    "3": -3.121
    },
    "days": 3,
-   "running": -3.54,
+   "running": -3.12,
    "mature": false
   },
   {
@@ -3313,10 +3384,10 @@
    "pre10": 11.7,
    "after": {
     "1": 2.372,
-    "3": 1.576
+    "3": 2.71
    },
    "days": 3,
-   "running": 1.58,
+   "running": 2.71,
    "mature": false
   },
   {
@@ -3330,10 +3401,10 @@
    "pre10": 11.7,
    "after": {
     "1": 2.372,
-    "3": 1.576
+    "3": 2.71
    },
    "days": 3,
-   "running": 1.58,
+   "running": 2.71,
    "mature": false
   },
   {
@@ -3347,10 +3418,10 @@
    "pre10": -29.64,
    "after": {
     "1": 1.306,
-    "3": 3.733
+    "3": 2.454
    },
    "days": 3,
-   "running": 3.73,
+   "running": 2.45,
    "mature": false
   },
   {
@@ -3364,10 +3435,10 @@
    "pre10": -29.64,
    "after": {
     "1": 1.306,
-    "3": 3.733
+    "3": 2.454
    },
    "days": 3,
-   "running": 3.73,
+   "running": 2.45,
    "mature": false
   },
   {
@@ -3376,14 +3447,14 @@
    "role": "",
    "date": "2026-09-14",
    "filed": "2026-09-18",
-   "value": 1196.0,
+   "value": 3585.0,
    "src": "live",
    "pre10": 2.41,
    "after": {
     "1": -1.364
    },
    "days": 2,
-   "running": -0.7,
+   "running": 3.19,
    "mature": false
   },
   {
@@ -3399,7 +3470,7 @@
     "1": 3.652
    },
    "days": 2,
-   "running": 3.06,
+   "running": 0.13,
    "mature": false
   },
   {
@@ -3415,7 +3486,7 @@
     "1": 0.054
    },
    "days": 2,
-   "running": 0.62,
+   "running": -5.23,
    "mature": false
   },
   {
@@ -3431,7 +3502,7 @@
     "1": -11.366
    },
    "days": 2,
-   "running": -11.3,
+   "running": -10.34,
    "mature": false
   },
   {
@@ -3446,8 +3517,8 @@
    "after": {
     "1": -7.625
    },
-   "days": 2,
-   "running": -7.56,
+   "days": 1,
+   "running": -7.62,
    "mature": false
   },
   {
@@ -3463,7 +3534,7 @@
     "1": -1.809
    },
    "days": 2,
-   "running": -2.09,
+   "running": -1.92,
    "mature": false
   },
   {
@@ -3479,7 +3550,7 @@
     "1": -3.949
    },
    "days": 2,
-   "running": -7.13,
+   "running": -7.37,
    "mature": false
   },
   {
@@ -3495,7 +3566,7 @@
     "1": -2.592
    },
    "days": 2,
-   "running": -6.64,
+   "running": -9.82,
    "mature": false
   },
   {
@@ -3511,7 +3582,7 @@
     "1": -3.949
    },
    "days": 2,
-   "running": -7.13,
+   "running": -7.37,
    "mature": false
   },
   {
@@ -3527,7 +3598,7 @@
     "1": 1.319
    },
    "days": 2,
-   "running": 2.6,
+   "running": 3.47,
    "mature": false
   },
   {
@@ -3543,7 +3614,7 @@
     "1": -0.753
    },
    "days": 2,
-   "running": 0.28,
+   "running": -0.94,
    "mature": false
   },
   {
@@ -3559,7 +3630,7 @@
     "1": -7.018
    },
    "days": 2,
-   "running": -3.06,
+   "running": -1.25,
    "mature": false
   },
   {
@@ -3575,7 +3646,7 @@
     "1": 2.964
    },
    "days": 2,
-   "running": 2.49,
+   "running": 2.78,
    "mature": false
   },
   {
@@ -3591,7 +3662,7 @@
     "1": -3.949
    },
    "days": 2,
-   "running": -7.13,
+   "running": -7.37,
    "mature": false
   },
   {
@@ -3607,7 +3678,7 @@
     "1": -1.518
    },
    "days": 2,
-   "running": -3.7,
+   "running": -3.16,
    "mature": false
   },
   {
@@ -3622,8 +3693,8 @@
    "after": {
     "1": -7.625
    },
-   "days": 2,
-   "running": -7.56,
+   "days": 1,
+   "running": -7.62,
    "mature": false
   },
   {
@@ -3639,7 +3710,7 @@
     "1": 3.932
    },
    "days": 2,
-   "running": 2.95,
+   "running": -0.54,
    "mature": false
   },
   {
@@ -3655,7 +3726,7 @@
     "1": -2.181
    },
    "days": 2,
-   "running": -0.39,
+   "running": -3.57,
    "mature": false
   },
   {
@@ -3671,7 +3742,7 @@
     "1": -0.284
    },
    "days": 2,
-   "running": 0.11,
+   "running": 0.63,
    "mature": false
   },
   {
@@ -3687,7 +3758,7 @@
     "1": 2.964
    },
    "days": 2,
-   "running": 2.49,
+   "running": 2.78,
    "mature": false
   },
   {
@@ -3719,7 +3790,7 @@
     "1": -1.774
    },
    "days": 2,
-   "running": -2.44,
+   "running": -2.22,
    "mature": false
   },
   {
@@ -3735,7 +3806,7 @@
     "1": 1.319
    },
    "days": 2,
-   "running": 2.6,
+   "running": 3.47,
    "mature": false
   },
   {
@@ -3751,7 +3822,7 @@
     "1": -0.006
    },
    "days": 2,
-   "running": -0.19,
+   "running": -0.5,
    "mature": false
   },
   {
@@ -3767,7 +3838,7 @@
     "1": -0.363
    },
    "days": 2,
-   "running": 1.59,
+   "running": 1.97,
    "mature": false
   },
   {
@@ -3783,7 +3854,7 @@
     "1": -2.502
    },
    "days": 2,
-   "running": -2.88,
+   "running": -2.47,
    "mature": false
   },
   {
@@ -3799,7 +3870,7 @@
     "1": -0.577
    },
    "days": 2,
-   "running": -3.1,
+   "running": -2.87,
    "mature": false
   },
   {
@@ -3815,7 +3886,7 @@
     "1": -2.181
    },
    "days": 2,
-   "running": -0.39,
+   "running": -3.57,
    "mature": false
   },
   {
@@ -3831,7 +3902,7 @@
     "1": 5.437
    },
    "days": 2,
-   "running": 2.57,
+   "running": 1.24,
    "mature": false
   },
   {
@@ -3847,7 +3918,7 @@
     "1": -0.006
    },
    "days": 2,
-   "running": -0.19,
+   "running": -0.5,
    "mature": false
   },
   {
@@ -3863,23 +3934,7 @@
     "1": -2.655
    },
    "days": 2,
-   "running": -0.98,
-   "mature": false
-  },
-  {
-   "ticker": "ELWT",
-   "insider": "Di Bartolo James P. II",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-14",
-   "filed": "2026-09-21",
-   "value": 7.15,
-   "src": "live",
-   "pre10": -4.17,
-   "after": {
-    "1": 2.773
-   },
-   "days": 1,
-   "running": 2.77,
+   "running": -2.62,
    "mature": false
   },
   {
@@ -3892,10 +3947,10 @@
    "src": "live",
    "pre10": -8.04,
    "after": {
-    "1": -9.203
+    "1": -6.524
    },
    "days": 1,
-   "running": -9.2,
+   "running": -6.52,
    "mature": false
   },
   {
@@ -3908,10 +3963,10 @@
    "src": "live",
    "pre10": -2.61,
    "after": {
-    "1": 4.214
+    "1": 0.077
    },
    "days": 1,
-   "running": 4.21,
+   "running": 0.08,
    "mature": false
   },
   {
@@ -3924,10 +3979,10 @@
    "src": "live",
    "pre10": -7.69,
    "after": {
-    "1": -3.67
+    "1": 2.142
    },
    "days": 1,
-   "running": -3.67,
+   "running": 2.14,
    "mature": false
   },
   {
@@ -3940,10 +3995,10 @@
    "src": "live",
    "pre10": -23.18,
    "after": {
-    "1": -1.135
+    "1": -2.778
    },
    "days": 1,
-   "running": -1.14,
+   "running": -2.78,
    "mature": false
   },
   {
@@ -3956,10 +4011,10 @@
    "src": "live",
    "pre10": -5.03,
    "after": {
-    "1": 0.319
+    "1": -0.919
    },
    "days": 1,
-   "running": 0.32,
+   "running": -0.92,
    "mature": false
   },
   {
@@ -3972,10 +4027,10 @@
    "src": "live",
    "pre10": -8.04,
    "after": {
-    "1": -9.203
+    "1": -6.524
    },
    "days": 1,
-   "running": -9.2,
+   "running": -6.52,
    "mature": false
   },
   {
@@ -3988,10 +4043,10 @@
    "src": "live",
    "pre10": -13.45,
    "after": {
-    "1": 1.4
+    "1": 0.153
    },
    "days": 1,
-   "running": 1.4,
+   "running": 0.15,
    "mature": false
   },
   {
@@ -4004,10 +4059,10 @@
    "src": "live",
    "pre10": -17.27,
    "after": {
-    "1": -1.607
+    "1": -0.815
    },
    "days": 1,
-   "running": -1.61,
+   "running": -0.81,
    "mature": false
   },
   {
@@ -4020,10 +4075,10 @@
    "src": "live",
    "pre10": -26.9,
    "after": {
-    "1": 5.699
+    "1": -5.804
    },
    "days": 1,
-   "running": 5.7,
+   "running": -5.8,
    "mature": false
   },
   {
@@ -4036,10 +4091,10 @@
    "src": "live",
    "pre10": -4.63,
    "after": {
-    "1": 0.967
+    "1": -0.756
    },
    "days": 1,
-   "running": 0.97,
+   "running": -0.76,
    "mature": false
   },
   {
@@ -4052,10 +4107,10 @@
    "src": "live",
    "pre10": 1.0,
    "after": {
-    "1": -2.461
+    "1": 1.261
    },
    "days": 1,
-   "running": -2.46,
+   "running": 1.26,
    "mature": false
   },
   {
@@ -4068,10 +4123,10 @@
    "src": "live",
    "pre10": -10.17,
    "after": {
-    "1": 1.843
+    "1": -3.536
    },
    "days": 1,
-   "running": 1.84,
+   "running": -3.54,
    "mature": false
   },
   {
@@ -4084,10 +4139,10 @@
    "src": "live",
    "pre10": 0.53,
    "after": {
-    "1": -0.754
+    "1": -1.985
    },
    "days": 1,
-   "running": -0.75,
+   "running": -1.98,
    "mature": false
   },
   {
@@ -4100,10 +4155,10 @@
    "src": "live",
    "pre10": -8.04,
    "after": {
-    "1": -9.203
+    "1": -6.524
    },
    "days": 1,
-   "running": -9.2,
+   "running": -6.52,
    "mature": false
   },
   {
@@ -4116,10 +4171,10 @@
    "src": "live",
    "pre10": 4.51,
    "after": {
-    "1": 0.459
+    "1": 0.49
    },
    "days": 1,
-   "running": 0.46,
+   "running": 0.49,
    "mature": false
   },
   {
@@ -4132,10 +4187,10 @@
    "src": "live",
    "pre10": -2.61,
    "after": {
-    "1": 4.214
+    "1": 0.077
    },
    "days": 1,
-   "running": 4.21,
+   "running": 0.08,
    "mature": false
   },
   {
@@ -4148,10 +4203,10 @@
    "src": "live",
    "pre10": -13.13,
    "after": {
-    "1": -2.836
+    "1": 5.252
    },
    "days": 1,
-   "running": -2.84,
+   "running": 5.25,
    "mature": false
   },
   {
@@ -4164,10 +4219,10 @@
    "src": "live",
    "pre10": 4.28,
    "after": {
-    "1": 0.13
+    "1": -0.336
    },
    "days": 1,
-   "running": 0.13,
+   "running": -0.34,
    "mature": false
   },
   {
@@ -4180,10 +4235,10 @@
    "src": "live",
    "pre10": -16.0,
    "after": {
-    "1": 11.868
+    "1": -3.018
    },
    "days": 1,
-   "running": 11.87,
+   "running": -3.02,
    "mature": false
   },
   {
@@ -4196,10 +4251,10 @@
    "src": "live",
    "pre10": -17.27,
    "after": {
-    "1": -1.607
+    "1": -0.815
    },
    "days": 1,
-   "running": -1.61,
+   "running": -0.81,
    "mature": false
   },
   {
@@ -4212,10 +4267,10 @@
    "src": "live",
    "pre10": -13.45,
    "after": {
-    "1": 1.4
+    "1": 0.153
    },
    "days": 1,
-   "running": 1.4,
+   "running": 0.15,
    "mature": false
   },
   {
@@ -4228,10 +4283,10 @@
    "src": "live",
    "pre10": -1.65,
    "after": {
-    "1": -0.996
+    "1": 0.391
    },
    "days": 1,
-   "running": -1.0,
+   "running": 0.39,
    "mature": false
   },
   {
@@ -4244,10 +4299,10 @@
    "src": "live",
    "pre10": -5.03,
    "after": {
-    "1": 0.319
+    "1": -0.919
    },
    "days": 1,
-   "running": 0.32,
+   "running": -0.92,
    "mature": false
   },
   {
@@ -4260,10 +4315,10 @@
    "src": "live",
    "pre10": -3.1,
    "after": {
-    "1": 1.978
+    "1": -0.964
    },
    "days": 1,
-   "running": 1.98,
+   "running": -0.96,
    "mature": false
   },
   {
@@ -4276,10 +4331,10 @@
    "src": "live",
    "pre10": 0.76,
    "after": {
-    "1": 0.987
+    "1": -0.767
    },
    "days": 1,
-   "running": 0.99,
+   "running": -0.77,
    "mature": false
   },
   {
@@ -4292,10 +4347,10 @@
    "src": "live",
    "pre10": -9.32,
    "after": {
-    "1": -4.362
+    "1": 2.165
    },
    "days": 1,
-   "running": -4.36,
+   "running": 2.16,
    "mature": false
   },
   {
@@ -4308,10 +4363,10 @@
    "src": "live",
    "pre10": 0.17,
    "after": {
-    "1": -0.292
+    "1": 0.03
    },
    "days": 1,
-   "running": -0.29,
+   "running": 0.03,
    "mature": false
   },
   {
@@ -4324,10 +4379,10 @@
    "src": "live",
    "pre10": -11.36,
    "after": {
-    "1": 4.81
+    "1": -4.567
    },
    "days": 1,
-   "running": 4.81,
+   "running": -4.57,
    "mature": false
   },
   {
@@ -4340,10 +4395,10 @@
    "src": "live",
    "pre10": -2.61,
    "after": {
-    "1": 4.214
+    "1": 0.077
    },
    "days": 1,
-   "running": 4.21,
+   "running": 0.08,
    "mature": false
   },
   {
@@ -4356,10 +4411,10 @@
    "src": "live",
    "pre10": -4.63,
    "after": {
-    "1": 0.967
+    "1": -0.756
    },
    "days": 1,
-   "running": 0.97,
+   "running": -0.76,
    "mature": false
   },
   {
@@ -4372,10 +4427,10 @@
    "src": "live",
    "pre10": 18.11,
    "after": {
-    "1": 0.854
+    "1": 2.955
    },
    "days": 1,
-   "running": 0.85,
+   "running": 2.95,
    "mature": false
   },
   {
@@ -4388,10 +4443,10 @@
    "src": "live",
    "pre10": -15.59,
    "after": {
-    "1": 3.579
+    "1": -0.137
    },
    "days": 1,
-   "running": 3.58,
+   "running": -0.14,
    "mature": false
   },
   {
@@ -4404,10 +4459,10 @@
    "src": "live",
    "pre10": 18.11,
    "after": {
-    "1": 0.854
+    "1": 2.955
    },
    "days": 1,
-   "running": 0.85,
+   "running": 2.95,
    "mature": false
   },
   {
@@ -4420,16 +4475,16 @@
    "src": "live",
    "pre10": -15.59,
    "after": {
-    "1": 3.579
+    "1": -0.137
    },
    "days": 1,
-   "running": 3.58,
+   "running": -0.14,
    "mature": false
   }
  ],
  "verdict": "NO significant edge at any horizon after market adjustment and cluster-robust inference (all week-clustered |t| < 2.67, the Bonferroni threshold for 5 horizons) \u2014 the honest null.",
  "excluded": {
-  "penny_under_1usd": 70,
+  "penny_under_1usd": 65,
   "split_glitch": 12,
   "split_glitch_tickers": [
    "AIMD",
@@ -4440,5 +4495,5 @@
    "KTTA"
   ]
  },
- "method": "STRICT entry = next trading day's OPEN after the filing date (filing-day close is often not fillable \u2014 many Form 4s arrive after hours). Abnormal = stock \u2212 SPY. Horizons = closes N trading days after filing. Immature events excluded per-horizon. SIGNIFICANCE uses the cluster-robust t by entry week (Liang-Zeger), not the naive t: events cluster heavily in calendar weeks and repeat by ticker, so naive \u221aN inference overstates precision. Both are reported per horizon as t (naive) and t_week / t_ticker (clustered). Hygiene: 70 sub-$1 events and 12 split/data-glitch events excluded."
+ "method": "STRICT entry = next trading day's OPEN after the filing date (filing-day close is often not fillable \u2014 many Form 4s arrive after hours). Abnormal = stock \u2212 SPY. Horizons = closes N trading days after filing. Immature events excluded per-horizon. SIGNIFICANCE uses the cluster-robust t by entry week (Liang-Zeger), not the naive t: events cluster heavily in calendar weeks and repeat by ticker, so naive \u221aN inference overstates precision. Both are reported per horizon as t (naive) and t_week / t_ticker (clustered). Hygiene: 65 sub-$1 events and 12 split/data-glitch events excluded."
 }
