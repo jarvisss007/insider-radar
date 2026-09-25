@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-25 14:59 UTC",
+ "updated_utc": "2026-09-25 15:15 UTC",
  "purchases": [
-  {
-   "ticker": "HCAT",
-   "company": "Health Catalyst, Inc.",
-   "insider": "Kohl Simeon",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-14",
-   "shares": 59000.0,
-   "price": 1.7871,
-   "value": 105438.9,
-   "acc": "0001703807-26-000006",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "AVBC",
    "company": "Avidia Bancorp, Inc.",
@@ -4785,6 +4773,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "KBDC",
+   "company": "Kayne Anderson BDC, Inc.",
+   "insider": "ROBO JAMES L",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 105000.0,
+   "price": 13.046,
+   "value": 1369830.0,
+   "acc": "0001183254-26-000007",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Nechmad Yair",
@@ -5024,7 +5024,6 @@
   }
  ],
  "seen": [
-  "0001941365-26-000077",
   "0001941739-26-000006",
   "0001942369-26-000008",
   "0001942421-26-000002",
@@ -7895,6 +7894,7 @@
   "0002140365-26-000005",
   "0002140626-26-000006",
   "0002140847-26-000004",
+  "0002141042-26-000002",
   "0002141063-26-000002",
   "0002141303-26-000005",
   "0002141496-26-000001",
