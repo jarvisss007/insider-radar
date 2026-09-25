@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-25 07:22 UTC",
+ "updated_utc": "2026-09-25 13:08 UTC",
  "purchases": [
-  {
-   "ticker": "EU",
-   "company": "enCore Energy Corp.",
-   "insider": "SHERIFF WILLIAM M",
-   "role": "Executive Chairman",
-   "date": "2026-09-14",
-   "shares": 100000.0,
-   "price": 0.84,
-   "value": 84000.0,
-   "acc": "0001193125-26-393086",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "GLOO",
-   "company": "Gloo Holdings, Inc.",
-   "insider": "GELSINGER PATRICK P",
-   "role": "See Remarks",
-   "date": "2026-09-14",
-   "shares": 25000.0,
-   "price": 3.4493,
-   "value": 86232.5,
-   "acc": "0001316331-26-000013",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 25198.0,
-   "price": 3.5,
-   "value": 88193.0,
-   "acc": "0001628280-26-062092",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "LMB",
-   "company": "Limbach Holdings, Inc.",
-   "insider": "Gaboury David Richard",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 1940.0,
-   "price": 51.35,
-   "value": 99619.0,
-   "acc": "0001628280-26-062236",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "PMTS",
    "company": "CPI Card Group Inc.",
@@ -4677,6 +4629,30 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "ANIX",
+   "company": "Anixa Biosciences Inc",
+   "insider": "Titterton Lewis H jr",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 49036.0,
+   "price": 2.69,
+   "value": 131906.84,
+   "acc": "0001493152-26-044250",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "MSC",
+   "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "insider": "HO LAWRENCE YAU LUNG",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 1043600.0,
+   "price": 0.1977,
+   "value": 206319.72,
+   "acc": "0001193125-26-401498",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "GAM",
    "company": "GENERAL AMERICAN INVESTORS CO INC",
    "insider": "DAVIDSON SPENCER",
@@ -4761,6 +4737,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "CMPX",
+   "company": "Compass Therapeutics, Inc.",
+   "insider": "Lerner Neil",
+   "role": "Chief Accounting Officer",
+   "date": "2026-09-24",
+   "shares": 2500.0,
+   "price": 1.14,
+   "value": 2850.0,
+   "acc": "0001171843-26-006235",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Ben-Avi David",
@@ -4807,6 +4795,18 @@
    "value": 4607722.77,
    "acc": "0001976408-26-000865",
    "filed": "2026-09-24"
+  },
+  {
+   "ticker": "NCT",
+   "company": "Intercont (Cayman) Ltd",
+   "insider": "Zhu Muchun",
+   "role": "CEO and Chairman",
+   "date": "2026-09-25",
+   "shares": 1625000.0,
+   "price": 0.4,
+   "value": 650000.0,
+   "acc": "0001493152-26-044229",
+   "filed": "2026-09-25"
   }
  ],
  "clusters": [
@@ -4896,11 +4896,6 @@
    "total_value": 375157.77
   },
   {
-   "ticker": "LMB",
-   "insiders": 3,
-   "total_value": 338904.61
-  },
-  {
    "ticker": "BUKS",
    "insiders": 3,
    "total_value": 292853.61
@@ -4911,9 +4906,9 @@
    "total_value": 261463.54
   },
   {
-   "ticker": "EU",
+   "ticker": "LMB",
    "insiders": 2,
-   "total_value": 240350.0
+   "total_value": 239285.61
   },
   {
    "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
@@ -4924,6 +4919,11 @@
    "ticker": "CROX",
    "insiders": 2,
    "total_value": 175040.73
+  },
+  {
+   "ticker": "EU",
+   "insiders": 2,
+   "total_value": 156350.0
   },
   {
    "ticker": "MCFT",
@@ -5024,14 +5024,6 @@
   }
  ],
  "seen": [
-  "0001939343-26-000010",
-  "0001939403-26-000002",
-  "0001939403-26-000003",
-  "0001939433-26-000143",
-  "0001940017-26-000010",
-  "0001940272-26-000010",
-  "0001940272-26-000012",
-  "0001940272-26-000017",
   "0001940272-26-000019",
   "0001940272-26-000020",
   "0001940272-26-000021",
@@ -5396,6 +5388,7 @@
   "0001976408-26-000863",
   "0001976408-26-000864",
   "0001976408-26-000865",
+  "0001976408-26-000866",
   "0001976540-26-000008",
   "0001976572-26-000005",
   "0001976672-26-000057",
@@ -5505,6 +5498,7 @@
   "0001986754-26-000004",
   "0001987058-26-000003",
   "0001987126-26-000002",
+  "0001987126-26-000004",
   "0001987164-26-000014",
   "0001987386-26-000005",
   "0001987910-26-000008",
@@ -6361,6 +6355,12 @@
   "0001999371-26-021265",
   "0001999371-26-021274",
   "0001999371-26-021276",
+  "0001999371-26-021292",
+  "0001999371-26-021296",
+  "0001999371-26-021300",
+  "0001999371-26-021304",
+  "0001999371-26-021306",
+  "0001999371-26-021309",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
