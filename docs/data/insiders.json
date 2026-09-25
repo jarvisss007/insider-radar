@@ -1,294 +1,6 @@
 {
- "updated_utc": "2026-09-25 17:22 UTC",
+ "updated_utc": "2026-09-25 20:00 UTC",
  "purchases": [
-  {
-   "ticker": "PMTS",
-   "company": "CPI Card Group Inc.",
-   "insider": "Tricor PMT25 Holdings Inc.",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "shares": 525000.0,
-   "price": 21.5,
-   "value": 11287500.0,
-   "acc": "0001104659-26-107610",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-15",
-   "shares": 100.0,
-   "price": 0.46,
-   "value": 46.0,
-   "acc": "0001213900-26-101248",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "ED",
-   "company": "CONSOLIDATED EDISON INC",
-   "insider": "Miller Joseph",
-   "role": "VP & Controller",
-   "date": "2026-09-15",
-   "shares": 1.05,
-   "price": 105.81,
-   "value": 111.1,
-   "acc": "0001047862-26-000145",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CSPI",
-   "company": "CSP INC /MA/",
-   "insider": "NERGES JOSEPH R",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 28.0,
-   "price": 7.9,
-   "value": 221.2,
-   "acc": "0001214659-26-011702",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "ACNB",
-   "company": "ACNB CORP",
-   "insider": "ELSNER FRANK III",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 3.8291,
-   "price": 65.29,
-   "value": 250.0,
-   "acc": "0001628280-26-062410",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 1.0,
-   "price": 370.59,
-   "value": 370.59,
-   "acc": "0001437749-26-030537",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Daly Joseph Patrick",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 96.0,
-   "price": 3.9,
-   "value": 374.4,
-   "acc": "0001332596-26-000006",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "CTSO",
-   "company": "Cytosorbents Corp",
-   "insider": "Sobel Alan D.",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 100.0,
-   "price": 6.01,
-   "value": 601.0,
-   "acc": "0001104659-26-108246",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Mitchell William Edward",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 67.23,
-   "price": 14.875,
-   "value": 1000.05,
-   "acc": "0000752642-26-000098",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Miller Kevin S.",
-   "role": "EVP, CFO, Treasurer",
-   "date": "2026-09-15",
-   "shares": 67.23,
-   "price": 14.875,
-   "value": 1000.05,
-   "acc": "0000752642-26-000097",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BRID",
-   "company": "BRIDGFORD FOODS CORP",
-   "insider": "Bridgford Allan Jr.",
-   "role": "",
-   "date": "2026-09-15",
-   "shares": 195.0,
-   "price": 5.95,
-   "value": 1160.25,
-   "acc": "0001493152-26-043108",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Hansen Kent A",
-   "role": "CFO & EVP",
-   "date": "2026-09-15",
-   "shares": 159.0,
-   "price": 9.82,
-   "value": 1561.38,
-   "acc": "0001072627-26-000054",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Daly Joseph Patrick",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 404.0,
-   "price": 3.91,
-   "value": 1579.64,
-   "acc": "0001332596-26-000006",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "MCFT",
-   "company": "MasterCraft Boat Holdings, Inc.",
-   "insider": "Nelson Bradley M.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-15",
-   "shares": 100.0,
-   "price": 19.45,
-   "value": 1945.0,
-   "acc": "0001193125-26-393047",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 756.0,
-   "price": 3.05,
-   "value": 2305.8,
-   "acc": "0001437749-26-030533",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 112.0,
-   "price": 21.2,
-   "value": 2374.4,
-   "acc": "0001437749-26-030524",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Fitzgerald John Taylor Maloney",
-   "role": "President and CEO",
-   "date": "2026-09-15",
-   "shares": 254.0,
-   "price": 9.82,
-   "value": 2494.28,
-   "acc": "0001072627-26-000053",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CBKM",
-   "company": "CONSUMERS BANCORP INC /OH/",
-   "insider": "Chuckalovchak Kimberly K",
-   "role": "SVP, Chief Information Officer",
-   "date": "2026-09-15",
-   "shares": 90.9,
-   "price": 32.99,
-   "value": 2998.79,
-   "acc": "0001437749-26-030545",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CTSO",
-   "company": "Cytosorbents Corp",
-   "insider": "Sobel Alan D.",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 500.0,
-   "price": 6.05,
-   "value": 3025.0,
-   "acc": "0001104659-26-108246",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-15",
-   "shares": 20000.0,
-   "price": 0.1859,
-   "value": 3718.0,
-   "acc": "0001214659-26-011758",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "CSPI",
-   "company": "CSP INC /MA/",
-   "insider": "NERGES JOSEPH R",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 472.0,
-   "price": 7.96,
-   "value": 3757.12,
-   "acc": "0001214659-26-011702",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Daly Joseph Patrick",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 1000.0,
-   "price": 4.04,
-   "value": 4040.0,
-   "acc": "0001332596-26-000006",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-09-15",
-   "shares": 22000.0,
-   "price": 0.221,
-   "value": 4862.0,
-   "acc": "0001493152-26-042848",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BENF",
-   "company": "Beneficient",
-   "insider": "Fletcher Derek L.",
-   "role": "See Remarks",
-   "date": "2026-09-15",
-   "shares": 4717.0,
-   "price": 1.06,
-   "value": 5000.02,
-   "acc": "0001493152-26-043125",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
    "company": "Stellus Private Credit BDC",
@@ -2443,6 +2155,18 @@
    "filed": "2026-09-21"
   },
   {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-18",
+   "shares": 300.0,
+   "price": 0.56,
+   "value": 168.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4161,6 +3885,66 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-23",
+   "shares": 300.0,
+   "price": 0.54,
+   "value": 162.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-23",
+   "shares": 300.0,
+   "price": 0.6,
+   "value": 180.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-23",
+   "shares": 300.0,
+   "price": 0.63,
+   "value": 189.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-23",
+   "shares": 500.0,
+   "price": 0.54,
+   "value": 270.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-23",
+   "shares": 500.0,
+   "price": 0.55,
+   "value": 275.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4183,6 +3967,30 @@
    "value": 352.95,
    "acc": "0001437749-26-031121",
    "filed": "2026-09-24"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-23",
+   "shares": 1000.0,
+   "price": 0.54,
+   "value": 540.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-23",
+   "shares": 1200.0,
+   "price": 0.55,
+   "value": 660.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
   },
   {
    "ticker": "RGCO",
@@ -4629,6 +4437,54 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "CALAMOS AKSIA HEDGED STRATEGIES FUND (CIK 2063706)",
+   "company": "Calamos Aksia Hedged Strategies Fund",
+   "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
+   "role": "10% owner",
+   "date": "2026-09-23",
+   "shares": 714183.381,
+   "price": 10.47,
+   "value": 7477500.0,
+   "acc": "0002125773-26-000013",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 0.57,
+   "value": 57.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 0.6,
+   "value": 60.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 0.62,
+   "value": 62.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "WILLIAMSON JOHN B III",
@@ -4641,6 +4497,90 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 0.63,
+   "value": 63.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 0.64,
+   "value": 64.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 200.0,
+   "price": 0.64,
+   "value": 128.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 300.0,
+   "price": 0.54,
+   "value": 162.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 300.0,
+   "price": 0.65,
+   "value": 195.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 500.0,
+   "price": 0.63,
+   "value": 315.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 500.0,
+   "price": 0.66,
+   "value": 330.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4650,6 +4590,18 @@
    "price": 340.28,
    "value": 340.28,
    "acc": "0001437749-26-031186",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-24",
+   "shares": 1500.0,
+   "price": 0.63,
+   "value": 945.0,
+   "acc": "0001213900-26-103430",
    "filed": "2026-09-25"
   },
   {
@@ -4749,6 +4701,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "DHF",
+   "company": "BNY MELLON HIGH YIELD STRATEGIES FUND",
+   "insider": "DIMARTINO JOSEPH S",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 20000.0,
+   "price": 2.22,
+   "value": 44400.0,
+   "acc": "0001180645-26-000001",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "FTHY",
    "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
    "insider": "HOUSEY WILLIAM A JR",
@@ -4773,6 +4737,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "DFDV",
+   "company": "DeFi Development Corp.",
+   "insider": "White Parker",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 9462.0,
+   "price": 8.96,
+   "value": 84779.52,
+   "acc": "0002061848-26-000005",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "KBDC",
    "company": "Kayne Anderson BDC, Inc.",
    "insider": "ROBO JAMES L",
@@ -4795,6 +4771,30 @@
    "value": 4607722.77,
    "acc": "0001976408-26-000865",
    "filed": "2026-09-24"
+  },
+  {
+   "ticker": "CUEN",
+   "company": "Cuentas Inc.",
+   "insider": "Maimon Shalom Arik",
+   "role": "CEO",
+   "date": "2026-09-25",
+   "shares": 100.0,
+   "price": 0.64,
+   "value": 64.0,
+   "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "DFDV",
+   "company": "DeFi Development Corp.",
+   "insider": "White Parker",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 538.0,
+   "price": 8.9,
+   "value": 4788.2,
+   "acc": "0002061848-26-000005",
+   "filed": "2026-09-25"
   },
   {
    "ticker": "NCT",
@@ -4906,6 +4906,11 @@
    "total_value": 199993.4
   },
   {
+   "ticker": "DFDV",
+   "insiders": 2,
+   "total_value": 181751.12
+  },
+  {
    "ticker": "CROX",
    "insiders": 2,
    "total_value": 175040.73
@@ -4918,7 +4923,7 @@
   {
    "ticker": "MCFT",
    "insiders": 3,
-   "total_value": 148719.4
+   "total_value": 146774.4
   },
   {
    "ticker": "BZUN",
@@ -4933,7 +4938,7 @@
   {
    "ticker": "BUKS",
    "insiders": 3,
-   "total_value": 129253.61
+   "total_value": 123259.57
   },
   {
    "ticker": "TENX",
@@ -4948,7 +4953,7 @@
   {
    "ticker": "RGCO",
    "insiders": 3,
-   "total_value": 87462.35
+   "total_value": 85087.95
   },
   {
    "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
@@ -4966,19 +4971,14 @@
    "total_value": 56913.5
   },
   {
-   "ticker": "CTSO",
-   "insiders": 2,
-   "total_value": 37898.0
-  },
-  {
    "ticker": "CULP",
    "insiders": 2,
    "total_value": 36423.72
   },
   {
-   "ticker": "BENF",
-   "insiders": 3,
-   "total_value": 35000.14
+   "ticker": "CTSO",
+   "insiders": 2,
+   "total_value": 34272.0
   },
   {
    "ticker": "RVSB",
@@ -4986,24 +4986,19 @@
    "total_value": 31755.68
   },
   {
-   "ticker": "CBKM",
-   "insiders": 3,
-   "total_value": 11280.96
+   "ticker": "BENF",
+   "insiders": 2,
+   "total_value": 30000.12
   },
   {
    "ticker": "BRID",
    "insiders": 2,
-   "total_value": 10938.15
+   "total_value": 9777.9
   },
   {
-   "ticker": "KWY",
+   "ticker": "CBKM",
    "insiders": 2,
-   "total_value": 4055.66
-  },
-  {
-   "ticker": "UMH",
-   "insiders": 2,
-   "total_value": 2000.1
+   "total_value": 8282.17
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
@@ -5024,29 +5019,6 @@
   }
  ],
  "seen": [
-  "0001942745-26-000004",
-  "0001943150-26-000004",
-  "0001943192-26-000006",
-  "0001943361-26-000008",
-  "0001943435-26-000006",
-  "0001943565-26-000010",
-  "0001943789-26-000001",
-  "0001943789-26-000002",
-  "0001943929-26-000014",
-  "0001943943-26-000014",
-  "0001944013-26-000188",
-  "0001944013-26-000190",
-  "0001944119-26-000033",
-  "0001944373-26-000004",
-  "0001944375-26-000001",
-  "0001944375-26-000002",
-  "0001944970-26-000021",
-  "0001944970-26-000023",
-  "0001945031-26-000013",
-  "0001945228-26-000005",
-  "0001945277-26-000004",
-  "0001945277-26-000006",
-  "0001945352-26-000003",
   "0001945691-26-000008",
   "0001946085-26-000008",
   "0001946262-26-000004",
@@ -5160,6 +5132,7 @@
   "0001964513-26-000004",
   "0001964540-26-000003",
   "0001964741-26-000004",
+  "0001964741-26-000005",
   "0001964789-26-000038",
   "0001964855-26-000016",
   "0001964921-26-000004",
@@ -5275,6 +5248,7 @@
   "0001973495-26-000005",
   "0001973495-26-000006",
   "0001973678-26-000013",
+  "0001973678-26-000015",
   "0001973684-26-000008",
   "0001973685-26-000007",
   "0001974084-26-000011",
@@ -5303,6 +5277,7 @@
   "0001975231-26-000008",
   "0001975231-26-000010",
   "0001975499-26-000004",
+  "0001975499-26-000005",
   "0001975669-26-000011",
   "0001975669-26-000013",
   "0001976230-26-000006",
@@ -6825,7 +6800,10 @@
   "0002043411-26-000014",
   "0002043506-26-000005",
   "0002043764-26-000006",
+  "0002043837-26-000008",
   "0002043885-26-000006",
+  "0002044126-26-000020",
+  "0002044148-26-000009",
   "0002044248-26-000015",
   "0002044248-26-000017",
   "0002044248-26-000019",
@@ -6843,6 +6821,7 @@
   "0002045458-26-000035",
   "0002045458-26-000037",
   "0002045482-26-000008",
+  "0002045771-26-000008",
   "0002045818-26-000005",
   "0002045846-26-000007",
   "0002045848-26-000007",
@@ -7002,6 +6981,7 @@
   "0002059795-26-000013",
   "0002059795-26-000015",
   "0002060000-26-000002",
+  "0002060000-26-000003",
   "0002060030-26-000010",
   "0002060030-26-000012",
   "0002060166-26-000015",
@@ -7041,6 +7021,7 @@
   "0002061801-26-000015",
   "0002061801-26-000017",
   "0002061801-26-000019",
+  "0002061848-26-000005",
   "0002061851-26-000006",
   "0002061851-26-000009",
   "0002062007-26-000005",
@@ -7101,6 +7082,7 @@
   "0002066234-26-000002",
   "0002066491-26-000011",
   "0002066736-26-000004",
+  "0002066736-26-000005",
   "0002066778-26-000006",
   "0002066778-26-000008",
   "0002066890-26-000012",
@@ -7236,6 +7218,14 @@
   "0002071844-26-001272",
   "0002071844-26-001273",
   "0002071844-26-001275",
+  "0002071844-26-001288",
+  "0002071844-26-001289",
+  "0002071844-26-001290",
+  "0002071844-26-001291",
+  "0002071844-26-001292",
+  "0002071844-26-001293",
+  "0002071844-26-001294",
+  "0002071844-26-001295",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071948-26-000005",
@@ -7291,6 +7281,7 @@
   "0002075704-26-000032",
   "0002076000-26-000012",
   "0002076243-26-000002",
+  "0002076243-26-000003",
   "0002076715-26-000005",
   "0002076719-26-000002",
   "0002076763-26-000006",
@@ -7365,6 +7356,7 @@
   "0002078265-26-000389",
   "0002078265-26-000390",
   "0002078265-26-000391",
+  "0002078265-26-000397",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
@@ -7575,6 +7567,7 @@
   "0002098854-26-000002",
   "0002099292-26-000002",
   "0002099647-26-000002",
+  "0002099655-26-000008",
   "0002099821-26-000002",
   "0002100129-26-000005",
   "0002100129-26-000006",
@@ -7793,6 +7786,7 @@
   "0002125667-26-000003",
   "0002125773-26-000005",
   "0002125773-26-000010",
+  "0002125773-26-000013",
   "0002126294-26-000010",
   "0002126576-26-000006",
   "0002126577-26-000003",
@@ -7916,6 +7910,7 @@
   "0002142755-26-000004",
   "0002142805-26-000005",
   "0002143377-26-000003",
+  "0002143460-26-000005",
   "0002143569-26-000007",
   "0002143744-26-000003",
   "0002143781-26-000007",
