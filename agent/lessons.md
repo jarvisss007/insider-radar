@@ -1586,3 +1586,22 @@ conservative behaviour, and the one the council said to keep until Anupam rules.
 - Strata, never blended: **HEADLINE ≥$100k 51% (n=68 on 16 entry days)** · sub-floor <$100k 45%
   (n=29 on 12 days) · unknown 0% (n=1). §4: 68 rows are **16 entry days**. Standing verdict unchanged —
   **no established insider edge** (914 events, 670 mature, all week-clustered |t| < 2.67).
+
+## 2026-09-24 (late catch-up, 20:5x PT) [insider]
+- **Ledger: 4 scored today — by the 20:46 session-end sweep, verified here, not re-scored.** ODYS wrong
+  (3.14 vs 3.68), GEVO wrong (1.40 vs 1.59), CORZ right (18.12 vs 17.78), CWBC right (26.36 vs 26.01) — each
+  re-read against the settled 2026-09-24 Yahoo close and matching. Today: 2 right / 2 wrong.
+- Strata, never blended (strata.py): **HEADLINE ≥$100k 51% (n=73 on 18 entry days)** · sub-floor 42% (n=33 on
+  14 days) · unknown 0% (n=1). All scored rows 47.7% (n=107) vs `stale_quote != yes` 48.1% (n=104), 19 entry
+  days. Coin flip, and long-only — nothing here beats just-buy-SPY.
+- attribution.csv, cited not impressed: CEO buying n=49 / 17 dates hit 41% avg −5.0%; 3+ insiders n=32 / 15 dates
+  44% avg −2.3%; 2 insiders n=73 / 17 dates 48%. Direction is "wider/CEO scores worse", **n too small** to call.
+- **BBD finding (directive thread):** all 17 BBD Form 4s carry one price, 17.98, on one date (09-18), while the
+  ADR closed ~3.5. The price is not in the ADR's units (BRL-scale), so the "$18.53M" is not dollars — roughly
+  a fifth of that in USD — and 17 filers at one identical price on one day reads as ONE program purchase, not
+  17 independent decisions. The widest cluster is plausibly the least independent one. Counted, not restated.
+- **Firm Brain §29 (late retry), checked:** this run fired ~12h late. Session-bound half still true — the
+  2026-09-24 session is closed and settled, so calls took the SETTLED call-day close (cleaner than the morning
+  runs' live prints); 09-25 has not opened. Two-writer hazard is REAL here: a session-end sweep committed and
+  pushed this run's ledger rows at 20:53 mid-run, and `collector_edgar.py --loop 15 --push` (pid 1746) is live
+  and auto-commits docs/data. No clobber observed (append_call appends; forecasts via atomicio hold_book).
