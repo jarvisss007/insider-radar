@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-25 22:43 UTC",
+ "updated_utc": "2026-09-25 22:58 UTC",
  "purchases": [
-  {
-   "ticker": "RVSB",
-   "company": "RIVERVIEW BANCORP INC",
-   "insider": "Wills Bessie Ross",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 2000.0,
-   "price": 5.585,
-   "value": 11170.0,
-   "acc": "0001508267-26-000004",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "LXU",
-   "company": "LSB INDUSTRIES, INC.",
-   "insider": "Ackerman Jonathan Z.",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 1000.0,
-   "price": 11.3,
-   "value": 11300.0,
-   "acc": "0001193125-26-393688",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "CTSO",
-   "company": "Cytosorbents Corp",
-   "insider": "Sobel Alan D.",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 1900.0,
-   "price": 6.12,
-   "value": 11628.0,
-   "acc": "0001104659-26-108246",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Levinson Sam",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 4315.0,
-   "price": 3.3,
-   "value": 14239.5,
-   "acc": "0001539497-26-002522",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "HRGN",
    "company": "Harvard Apparatus Regenerative Technology, Inc.",
@@ -4749,6 +4701,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 7.0,
+   "price": 2.939,
+   "value": 20.57,
+   "acc": "0001536588-26-000036",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
    "insider": "Maimon Shalom Arik",
@@ -4758,6 +4722,30 @@
    "price": 0.64,
    "value": 64.0,
    "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 97.0,
+   "price": 2.915,
+   "value": 282.75,
+   "acc": "0001536588-26-000036",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 441.0,
+   "price": 2.914,
+   "value": 1285.07,
+   "acc": "0001536588-26-000036",
    "filed": "2026-09-25"
   },
   {
@@ -4806,6 +4794,18 @@
    "price": 0.4,
    "value": 650000.0,
    "acc": "0001493152-26-044229",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CX",
+   "company": "CEMEX SAB DE CV",
+   "insider": "Zambrano Lozano Rogelio",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 400800.0,
+   "price": 17.2812,
+   "value": 6926304.96,
+   "acc": "0002035244-26-000009",
    "filed": "2026-09-25"
   }
  ],
@@ -4976,14 +4976,9 @@
    "total_value": 36423.72
   },
   {
-   "ticker": "CTSO",
-   "insiders": 2,
-   "total_value": 34272.0
-  },
-  {
    "ticker": "RVSB",
-   "insiders": 4,
-   "total_value": 31755.68
+   "insiders": 3,
+   "total_value": 20585.68
   },
   {
    "ticker": "BRID",
@@ -5009,7 +5004,6 @@
   }
  ],
  "seen": [
-  "0001949911-26-000016",
   "0001950027-26-000038",
   "0001950027-26-000045",
   "0001950027-26-000047",
@@ -6708,6 +6702,7 @@
   "0002034956-26-000010",
   "0002034984-26-000006",
   "0002035244-26-000008",
+  "0002035244-26-000009",
   "0002035295-26-000006",
   "0002035446-26-000022",
   "0002035446-26-000024",
