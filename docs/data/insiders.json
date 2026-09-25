@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-25 15:31 UTC",
+ "updated_utc": "2026-09-25 16:02 UTC",
  "purchases": [
-  {
-   "ticker": "ARDC",
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "insider": "THRIVENT FINANCIAL FOR LUTHERANS",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "shares": 240000.0,
-   "price": 25.0,
-   "value": 6000000.0,
-   "acc": "0000314984-26-000042",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "PRIVACORE VPC ASSET BACKED CREDIT FUND (CIK 2066579)",
-   "company": "Privacore VPC Asset Backed Credit Fund",
-   "insider": "BANKERS LIFE & CASUALTY CO",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "shares": 785083.415,
-   "price": 10.19,
-   "value": 8000000.0,
-   "acc": "0000903939-26-000030",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "shares": 295967.0,
-   "price": 34.8642,
-   "value": 10318652.68,
-   "acc": "0001193125-26-393133",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "PMTS",
    "company": "CPI Card Group Inc.",
@@ -4355,6 +4319,18 @@
   {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
+   "insider": "Nester Paul W",
+   "role": "President & CEO",
+   "date": "2026-09-23",
+   "shares": 300.0,
+   "price": 21.08,
+   "value": 6324.0,
+   "acc": "0001437749-26-031188",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
    "insider": "WILLIAMSON JOHN B III",
    "role": "Director",
    "date": "2026-09-23",
@@ -4701,6 +4677,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 756.0,
+   "price": 3.04,
+   "value": 2298.24,
+   "acc": "0001437749-26-031189",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "CMPX",
    "company": "Compass Therapeutics, Inc.",
    "insider": "Lerner Neil",
@@ -4758,6 +4746,18 @@
    "price": 9.63,
    "value": 43335.0,
    "acc": "0001104659-26-110663",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "FTHY",
+   "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
+   "insider": "HOUSEY WILLIAM A JR",
+   "role": "",
+   "date": "2026-09-24",
+   "shares": 5000.0,
+   "price": 12.9,
+   "value": 64500.0,
+   "acc": "0001445546-26-007128",
    "filed": "2026-09-25"
   },
   {
@@ -4947,8 +4947,8 @@
   },
   {
    "ticker": "RGCO",
-   "insiders": 2,
-   "total_value": 81138.35
+   "insiders": 3,
+   "total_value": 87462.35
   },
   {
    "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
@@ -5024,7 +5024,6 @@
   }
  ],
  "seen": [
-  "0001942369-26-000008",
   "0001942421-26-000002",
   "0001942639-26-000003",
   "0001942685-26-000002",
@@ -7894,6 +7893,7 @@
   "0002140626-26-000006",
   "0002140847-26-000004",
   "0002141042-26-000002",
+  "0002141056-26-000002",
   "0002141063-26-000002",
   "0002141209-26-000002",
   "0002141303-26-000005",
