@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-25 13:08 UTC",
+ "updated_utc": "2026-09-25 13:23 UTC",
  "purchases": [
-  {
-   "ticker": "PMTS",
-   "company": "CPI Card Group Inc.",
-   "insider": "SHEINBAUM MARC",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 4651.0,
-   "price": 21.5,
-   "value": 99996.5,
-   "acc": "0001605873-26-000004",
-   "filed": "2026-09-14"
-  },
   {
    "ticker": "MAIA",
    "company": "MAIA Biotechnology, Inc.",
@@ -4773,6 +4761,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "AEF",
+   "company": "abrdn Emerging Markets ex-China Fund, Inc.",
+   "insider": "Clark Anthony S.",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 4500.0,
+   "price": 9.63,
+   "value": 43335.0,
+   "acc": "0001104659-26-110663",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "OXM",
    "company": "OXFORD INDUSTRIES INC",
    "insider": "Chubb Thomas Caldecot III",
@@ -4832,8 +4832,8 @@
   },
   {
    "ticker": "PMTS",
-   "insiders": 4,
-   "total_value": 11937488.0
+   "insiders": 3,
+   "total_value": 11837491.5
   },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
@@ -5024,9 +5024,6 @@
   }
  ],
  "seen": [
-  "0001940272-26-000019",
-  "0001940272-26-000020",
-  "0001940272-26-000021",
   "0001940536-26-000014",
   "0001940727-26-000004",
   "0001940842-26-000010",
@@ -6361,6 +6358,9 @@
   "0001999371-26-021304",
   "0001999371-26-021306",
   "0001999371-26-021309",
+  "0001999371-26-021310",
+  "0001999371-26-021314",
+  "0001999371-26-021315",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
