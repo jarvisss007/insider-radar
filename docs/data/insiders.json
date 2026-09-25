@@ -1,162 +1,6 @@
 {
- "updated_utc": "2026-09-25 15:15 UTC",
+ "updated_utc": "2026-09-25 15:31 UTC",
  "purchases": [
-  {
-   "ticker": "AVBC",
-   "company": "Avidia Bancorp, Inc.",
-   "insider": "Murphy Michael Dennis",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 5000.0,
-   "price": 22.12,
-   "value": 110600.0,
-   "acc": "0001437749-26-030507",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "PLNT",
-   "company": "Planet Fitness, Inc.",
-   "insider": "Tanco Christopher",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 2328.0,
-   "price": 51.2281,
-   "value": 119259.02,
-   "acc": "0001842402-26-000005",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Veradace Partners LP",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "shares": 40000.0,
-   "price": 4.09,
-   "value": 163600.0,
-   "acc": "0001772447-26-000020",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "DVN",
-   "company": "DEVON ENERGY CORP/DE",
-   "insider": "Gaspar Clay M",
-   "role": "PRESIDENT AND CEO",
-   "date": "2026-09-14",
-   "shares": 3913.0,
-   "price": 51.08,
-   "value": 199876.04,
-   "acc": "0001090012-26-000124",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "NAMS",
-   "company": "NewAmsterdam Pharma Co N.V.",
-   "insider": "Davidson Michael H.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-14",
-   "shares": 10000.0,
-   "price": 22.65,
-   "value": 226500.0,
-   "acc": "0001193125-26-391985",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "PMTS",
-   "company": "CPI Card Group Inc.",
-   "insider": "Peters Nicholas",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 11628.0,
-   "price": 21.5,
-   "value": 250002.0,
-   "acc": "0001654770-26-000004",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "GLP",
-   "company": "GLOBAL PARTNERS LP",
-   "insider": "Global GP LLC",
-   "role": "",
-   "date": "2026-09-14",
-   "shares": 5000.0,
-   "price": 52.2,
-   "value": 261000.0,
-   "acc": "0001339396-26-000084",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "PMTS",
-   "company": "CPI Card Group Inc.",
-   "insider": "Riley H Sanford",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 13953.0,
-   "price": 21.5,
-   "value": 299989.5,
-   "acc": "0001317406-26-000006",
-   "filed": "2026-09-14"
-  },
-  {
-   "ticker": "ACOG",
-   "company": "Alpha Cognition Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-14",
-   "shares": 40373.0,
-   "price": 8.696,
-   "value": 351083.61,
-   "acc": "0001493152-26-042969",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CELH",
-   "company": "Celsius Holdings, Inc.",
-   "insider": "DeSantis Damon",
-   "role": "Director",
-   "date": "2026-09-14",
-   "shares": 20000.0,
-   "price": 27.65,
-   "value": 553000.0,
-   "acc": "0001628280-26-062057",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "AAT",
-   "company": "American Assets Trust, Inc.",
-   "insider": "RADY ERNEST S",
-   "role": "Executive Chairman",
-   "date": "2026-09-14",
-   "shares": 50000.0,
-   "price": 21.65,
-   "value": 1082500.0,
-   "acc": "0001221359-26-000057",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "GIII",
-   "company": "G III APPAREL GROUP LTD /DE/",
-   "insider": "GOLDFARB MORRIS",
-   "role": "CEO",
-   "date": "2026-09-14",
-   "shares": 40000.0,
-   "price": 27.94,
-   "value": 1117600.0,
-   "acc": "0000821002-26-000041",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "MNR",
-   "company": "MACH NATURAL RESOURCES LP",
-   "insider": "WARD TOM L.",
-   "role": "See Remarks",
-   "date": "2026-09-14",
-   "shares": 172413.0,
-   "price": 11.6,
-   "value": 1999990.8,
-   "acc": "0001213900-26-100673",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "ARDC",
    "company": "Ares Dynamic Credit Allocation Fund, Inc.",
@@ -4377,6 +4221,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "JOHNSTON ROBERT B",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 70.0,
+   "price": 20.62,
+   "value": 1443.4,
+   "acc": "0001437749-26-031185",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
    "insider": "AULT MILTON C III",
@@ -4437,6 +4293,78 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 178.0,
+   "price": 20.7,
+   "value": 3684.6,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 250.0,
+   "price": 20.65,
+   "value": 5162.5,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 250.0,
+   "price": 20.75,
+   "value": 5187.5,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 250.0,
+   "price": 20.79,
+   "value": 5197.5,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 250.0,
+   "price": 20.83,
+   "value": 5207.5,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 322.0,
+   "price": 20.85,
+   "value": 6713.7,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "CIVB",
    "company": "CIVISTA BANCSHARES, INC.",
    "insider": "Parcher Charles A.",
@@ -4495,6 +4423,30 @@
    "value": 17780.0,
    "acc": "0001214659-26-011956",
    "filed": "2026-09-24"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "JOHNSTON ROBERT B",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 1000.0,
+   "price": 20.75,
+   "value": 20750.0,
+   "acc": "0001437749-26-031185",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-23",
+   "shares": 1000.0,
+   "price": 21.19,
+   "value": 21190.0,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
   },
   {
    "ticker": "NYAX",
@@ -4701,6 +4653,54 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 3.0,
+   "price": 20.75,
+   "value": 62.25,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 1.0,
+   "price": 340.28,
+   "value": 340.28,
+   "acc": "0001437749-26-031186",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 20.8,
+   "value": 2080.0,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "WILLIAMSON JOHN B III",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 20.85,
+   "value": 2085.0,
+   "acc": "0001437749-26-031183",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "CMPX",
    "company": "Compass Therapeutics, Inc.",
    "insider": "Lerner Neil",
@@ -4831,11 +4831,6 @@
    "total_value": 14999995.07
   },
   {
-   "ticker": "PMTS",
-   "insiders": 3,
-   "total_value": 11837491.5
-  },
-  {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
    "insiders": 2,
    "total_value": 10033323.16
@@ -4871,11 +4866,6 @@
    "total_value": 1667427.5
   },
   {
-   "ticker": "CELH",
-   "insiders": 2,
-   "total_value": 1336200.0
-  },
-  {
    "ticker": "RWT",
    "insiders": 4,
    "total_value": 1312178.47
@@ -4886,6 +4876,11 @@
    "total_value": 1036485.3
   },
   {
+   "ticker": "CELH",
+   "insiders": 2,
+   "total_value": 783200.0
+  },
+  {
    "ticker": "GAM",
    "insiders": 5,
    "total_value": 672290.0
@@ -4894,11 +4889,6 @@
    "ticker": "TH",
    "insiders": 2,
    "total_value": 375157.77
-  },
-  {
-   "ticker": "BUKS",
-   "insiders": 3,
-   "total_value": 292853.61
   },
   {
    "ticker": "SKIL",
@@ -4941,6 +4931,11 @@
    "total_value": 131838.5
   },
   {
+   "ticker": "BUKS",
+   "insiders": 3,
+   "total_value": 129253.61
+  },
+  {
    "ticker": "TENX",
    "insiders": 2,
    "total_value": 110597.18
@@ -4949,6 +4944,11 @@
    "ticker": "OXM",
    "insiders": 2,
    "total_value": 95104.75
+  },
+  {
+   "ticker": "RGCO",
+   "insiders": 2,
+   "total_value": 81138.35
   },
   {
    "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
@@ -5024,7 +5024,6 @@
   }
  ],
  "seen": [
-  "0001941739-26-000006",
   "0001942369-26-000008",
   "0001942421-26-000002",
   "0001942639-26-000003",
@@ -7896,6 +7895,7 @@
   "0002140847-26-000004",
   "0002141042-26-000002",
   "0002141063-26-000002",
+  "0002141209-26-000002",
   "0002141303-26-000005",
   "0002141496-26-000001",
   "0002141590-26-000008",
