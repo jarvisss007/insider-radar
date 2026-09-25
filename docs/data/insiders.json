@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-25 20:51 UTC",
+ "updated_utc": "2026-09-25 21:23 UTC",
  "purchases": [
-  {
-   "ticker": "NNOX",
-   "company": "Nano-X Imaging Ltd.",
-   "insider": "Meltzer Erez",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-15",
-   "shares": 10000.0,
-   "price": 0.69,
-   "value": 6900.0,
-   "acc": "0001213900-26-100307",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "MPB",
-   "company": "MID PENN BANCORP INC",
-   "insider": "RITRIEVI RORY G",
-   "role": "President and CEO",
-   "date": "2026-09-15",
-   "shares": 193.0,
-   "price": 37.07,
-   "value": 7154.51,
-   "acc": "0001230831-26-000010",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 1325.0,
-   "price": 5.99,
-   "value": 7936.75,
-   "acc": "0000912282-26-001279",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "TENX",
-   "company": "TENAX THERAPEUTICS, INC.",
-   "insider": "Giordano Christopher Thomas",
-   "role": "CEO",
-   "date": "2026-09-15",
-   "shares": 4850.0,
-   "price": 1.8221,
-   "value": 8837.18,
-   "acc": "0001871714-26-000002",
-   "filed": "2026-09-15"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -3861,6 +3813,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-23",
+   "shares": 11.0,
+   "price": 2.929,
+   "value": 32.22,
+   "acc": "0001536588-26-000034",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
    "insider": "Maimon Shalom Arik",
@@ -4677,6 +4641,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 5000.0,
+   "price": 2.925,
+   "value": 14625.0,
+   "acc": "0001536588-26-000034",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "EDRY",
    "company": "EuroDry Ltd.",
    "insider": "Pittas Aristeidis P",
@@ -4773,6 +4749,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 5.0,
+   "price": 2.94,
+   "value": 14.7,
+   "acc": "0001536588-26-000034",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
    "insider": "Maimon Shalom Arik",
@@ -4782,6 +4770,18 @@
    "price": 0.64,
    "value": 64.0,
    "acc": "0001213900-26-103430",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 1326.0,
+   "price": 2.905,
+   "value": 3852.03,
+   "acc": "0001536588-26-000034",
    "filed": "2026-09-25"
   },
   {
@@ -4939,11 +4939,6 @@
    "ticker": "BUKS",
    "insiders": 3,
    "total_value": 123259.57
-  },
-  {
-   "ticker": "TENX",
-   "insiders": 2,
-   "total_value": 110597.18
   },
   {
    "ticker": "OXM",
