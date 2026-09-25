@@ -1,4 +1,5 @@
 """Does insider buying stop working when the market falls? (Anupam, 2026-09-10)
+# BOOK-001 (looked at 2026-09-25): a one-off research output with no concurrent reader, not a shared book - left as a plain write.
 
 Research only: reads insider-radar's events with the lab's own loaders and price fetch; writes only
 research/regime_split_results.json. Rules mirror research/validate_event_study.py exactly: entry = the NEXT
