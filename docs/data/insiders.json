@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-25 21:23 UTC",
+ "updated_utc": "2026-09-25 22:43 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 459.0,
-   "price": 20.89,
-   "value": 9588.51,
-   "acc": "0001510281-26-000305",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "BENF",
-   "company": "Beneficient",
-   "insider": "Silk James G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-15",
-   "shares": 9434.0,
-   "price": 1.06,
-   "value": 10000.04,
-   "acc": "0001493152-26-043124",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "LMB",
-   "company": "Limbach Holdings, Inc.",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 212.0,
-   "price": 50.66,
-   "value": 10739.92,
-   "acc": "0001104659-26-108006",
-   "filed": "2026-09-15"
-  },
   {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
@@ -4065,6 +4029,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "ADAG",
+   "company": "Adagene Inc.",
+   "insider": "Tam Man Kin",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-23",
+   "shares": 2000.0,
+   "price": 3.0,
+   "value": 6000.0,
+   "acc": "0001104659-26-111069",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "Nester Paul W",
@@ -4725,6 +4701,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "DLY",
+   "company": "DoubleLine Yield Opportunities Fund",
+   "insider": "Sherman Jeffrey J.",
+   "role": "Vice President",
+   "date": "2026-09-24",
+   "shares": 10000.0,
+   "price": 13.03,
+   "value": 130300.0,
+   "acc": "0000904454-26-000490",
+   "filed": "2026-09-25"
+  },
+  {
    "ticker": "KBDC",
    "company": "Kayne Anderson BDC, Inc.",
    "insider": "ROBO JAMES L",
@@ -4794,6 +4782,18 @@
    "price": 8.9,
    "value": 4788.2,
    "acc": "0002061848-26-000005",
+   "filed": "2026-09-25"
+  },
+  {
+   "ticker": "RSI",
+   "company": "Rush Street Interactive, Inc.",
+   "insider": "Markell Jack A.",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 1500.0,
+   "price": 19.35,
+   "value": 29025.0,
+   "acc": "0001705859-26-000006",
    "filed": "2026-09-25"
   },
   {
@@ -4898,7 +4898,7 @@
   {
    "ticker": "LMB",
    "insiders": 2,
-   "total_value": 239285.61
+   "total_value": 228545.69
   },
   {
    "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
@@ -4961,6 +4961,11 @@
    "total_value": 71248.0
   },
   {
+   "ticker": "ADAG",
+   "insiders": 2,
+   "total_value": 69980.46
+  },
+  {
    "ticker": "EML",
    "insiders": 2,
    "total_value": 56913.5
@@ -4979,11 +4984,6 @@
    "ticker": "RVSB",
    "insiders": 4,
    "total_value": 31755.68
-  },
-  {
-   "ticker": "BENF",
-   "insiders": 2,
-   "total_value": 30000.12
   },
   {
    "ticker": "BRID",
@@ -5009,10 +5009,6 @@
   }
  ],
  "seen": [
-  "0001948433-26-000006",
-  "0001948442-26-000007",
-  "0001949215-26-000004",
-  "0001949911-26-000014",
   "0001949911-26-000016",
   "0001950027-26-000038",
   "0001950027-26-000045",
@@ -6441,6 +6437,7 @@
   "0002010445-26-000009",
   "0002010445-26-000011",
   "0002010494-26-000014",
+  "0002011077-26-000005",
   "0002011100-26-000006",
   "0002011118-26-000008",
   "0002011525-26-000002",
@@ -6748,6 +6745,7 @@
   "0002038003-26-000006",
   "0002038202-26-000014",
   "0002038202-26-000016",
+  "0002038210-26-000002",
   "0002038311-26-000003",
   "0002038468-26-000012",
   "0002038687-26-000007",
@@ -7220,6 +7218,7 @@
   "0002071959-26-000008",
   "0002072270-26-000013",
   "0002072324-26-000010",
+  "0002072552-26-000002",
   "0002073180-26-000006",
   "0002073270-26-000004",
   "0002073281-26-000010",
@@ -7379,6 +7378,7 @@
   "0002080407-26-000016",
   "0002080407-26-000017",
   "0002080452-26-000011",
+  "0002080452-26-000013",
   "0002080456-26-000007",
   "0002080477-26-000014",
   "0002080477-26-000016",
