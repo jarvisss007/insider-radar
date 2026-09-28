@@ -47,7 +47,24 @@ A row is never silently passed over. Each lands in exactly one bucket:
   VOID          outcome=void — an excluded row, per INS-007
 Counts for every bucket are printed even when zero.
 
-EXIT CODE: 1 if any row is FAIL, else 0. NO_BAR / UNFETCHABLE do not fail the
+THE REFERENCE TEST (INS-020, ruled 2026-09-27 option a) - a second, stronger axis
+----------------------------------------------------------------------------------
+"Inside the bar" could not tell a settled close from a live mid-session print, because
+the cache stored only [low, high]; 35 of 39 open rows turned out to be live prints. The
+cache now stores [low, high, open, close, volume] for SETTLED days only (a bar dated a
+session that has not settled is never cached - it is still moving), and every OPEN priced
+row is tested against the price the written rule owes:
+  queued-fill rows   ([QUEUED / [FILLED / INS-020 restated)  -> the FIRST official open
+                     after registration that traded (volume > 0), REG-PP-002
+  every other row    -> the call-day's settled official CLOSE (INS-014: the bar dated the
+                     call date), and that close must have printed (volume > 0)
+Verdicts: REF_OK, REF_MISMATCH, REF_PENDING (owed bar not settled/printed yet). A mismatch
+on a row dated >= REF_TEST_FROM (the first session after the fix) FAILS the audit; a
+mismatch on an older open row is REF_LEGACY - reported loudly, never failing, because its
+disposal is a ruling (BENCH-002), not a side effect. Scored rows are not reference-tested:
+their numbers are frozen either way.
+
+EXIT CODE: 1 if any row is FAIL or any post-fix row is REF_MISMATCH, else 0. NO_BAR / UNFETCHABLE do not fail the
 audit — they are reported, loudly, because they are not evidence of a violation
 and must not be laundered into one either.
 """
@@ -78,6 +95,11 @@ UA = {"User-Agent": "Mozilla/5.0"}
 # defect this auditor was built for ran +2.38pp against the day's low on average —
 # twenty-three times this tolerance — so the band cannot hide it.
 EPS = 0.001
+REF_TEST_FROM = "2026-09-28"   # INS-020: first session after the writer fix; rows from here must match exactly
+
+# The queued-fill helpers live on the write path (one definition, two readers - Firm Brain S6).
+sys.path.insert(0, os.path.join(ROOT, "agent"))
+import stale_quote as _Q  # noqa: E402
 
 
 def _load_cache() -> dict:
@@ -96,16 +118,30 @@ def _save_cache(c: dict) -> None:
     os.replace(tmp, CACHE)
 
 
-def bars(ticker: str, cache: dict, refresh: bool = False) -> dict | None:
-    """{'YYYY-MM-DD': [low, high]} for this ticker, or None if unfetchable.
+def _settled_day() -> str:
+    """Last settled NYSE session (SESSION-001), PT clock. A later bar is still moving."""
+    try:
+        return _Q._SESS.settled_session().isoformat()
+    except Exception:
+        return date.today().isoformat()
 
-    Cached on disk: the audit re-reads the same historical bars every run and
-    those are settled facts, not live quotes. Only a SETTLED source may be
-    re-derived freely (Firm Brain §11) — that is exactly what this is, and it is
-    why re-running this auditor is idempotent and safe.
+
+def bars(ticker: str, cache: dict, refresh: bool = False, need: str | None = None) -> dict | None:
+    """{'YYYY-MM-DD': [low, high, open, close, volume]} for this ticker, or None if unfetchable.
+
+    Cached on disk: settled historical bars are facts, not live quotes (Firm Brain S11), so
+    re-running is idempotent. INS-020: the cache used to hold only [low, high], which made
+    "settled close or live print?" unanswerable; it now holds open/close/volume too, and ONLY
+    for settled days - a bar for a session still trading is never written to the cache.
+    Refetched when the cache is in the old two-field shape, or lacks a settled day `need`.
     """
-    if not refresh and ticker in cache:
-        v = cache[ticker]
+    settled = _settled_day()
+    v = cache.get(ticker)
+    stale = (v is None or refresh
+             or (isinstance(v, dict) and any(len(x) < 5 for x in v.values()))
+             or (isinstance(v, dict) and need and need <= settled and need not in v
+                 and (not v or max(v) < need)))
+    if not stale:
         return None if v == "UNFETCHABLE" else v
     p1 = int(datetime(2026, 1, 1, tzinfo=timezone.utc).timestamp())
     p2 = int(time.time())
@@ -116,11 +152,18 @@ def bars(ticker: str, cache: dict, refresh: bool = False) -> dict | None:
         res = d["chart"]["result"][0]
         q = res["indicators"]["quote"][0]
         out = {}
-        for ts, lo, hi in zip(res["timestamp"], q["low"], q["high"]):
+        for i, ts in enumerate(res["timestamp"]):
+            lo, hi = q["low"][i], q["high"][i]
             if lo is None or hi is None:
                 continue
             day = datetime.fromtimestamp(ts, timezone.utc).date().isoformat()
-            out[day] = [round(float(lo), 4), round(float(hi), 4)]
+            if day > settled:
+                continue                     # INS-020: never cache a bar that is still moving
+            op, cl, vol = q["open"][i], q["close"][i], q["volume"][i]
+            out[day] = [round(float(lo), 4), round(float(hi), 4),
+                        None if op is None else round(float(op), 4),
+                        None if cl is None else round(float(cl), 4),
+                        int(vol or 0)]
         cache[ticker] = out
         return out
     except Exception:
@@ -128,12 +171,40 @@ def bars(ticker: str, cache: dict, refresh: bool = False) -> dict | None:
         return None
 
 
+def reference(r: dict, b: dict) -> tuple:
+    """INS-020: (verdict, basis, owed_day, owed_px) for one OPEN priced row against settled bars b."""
+    th = str(r.get("thesis") or "")
+    d = (r.get("date") or "").strip()
+    px = float(str(r.get("price_at_call")).strip())
+    if _Q.queued_fill_basis(th):
+        fs = _Q.fill_session_for(d, _Q.registered_at(th))
+        basis = "first traded official open after registration (REG-PP-002)"
+        tup = {k: (v[2], v[1], v[0], v[3], v[4]) for k, v in b.items()}   # -> (open, high, low, close, vol)
+        got = _Q.owed_open(tup, fs)
+        if got is None:
+            return "REF_PENDING", basis, fs.isoformat(), None
+        day, owed = got
+    else:
+        basis = "call-day settled official close (INS-014)"
+        bar = b.get(d)
+        if bar is None:
+            return "REF_PENDING", basis, d, None
+        day, owed = d, bar[3]
+        if owed is None:
+            return "REF_PENDING", basis, d, None
+        if not bar[4]:
+            return "REF_MISMATCH", basis + " - the call-day bar is a ZERO-VOLUME carry-forward, not a printed close", d, owed
+    ok = abs(px - owed) <= max(abs(owed) * EPS, 1e-9)
+    return ("REF_OK" if ok else "REF_MISMATCH"), basis, day, owed
+
+
 def audit(ledger: str = LEDGER, open_only: bool = False,
           since: str | None = None, refresh: bool = False) -> dict:
     rows = list(csv.DictReader(open(ledger)))
     cache = _load_cache()
     buckets = {k: [] for k in
-               ("PASS", "FAIL", "NO_BAR", "UNFETCHABLE", "QUEUED", "VOID")}
+               ("PASS", "FAIL", "NO_BAR", "UNFETCHABLE", "QUEUED", "VOID",
+                "REF_OK", "REF_MISMATCH", "REF_LEGACY", "REF_PENDING")}
     try:
         for r in rows:
             if since and r.get("date", "") < since:
@@ -163,16 +234,26 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                 rec["note"] = f"price_at_call not numeric: {raw!r}"
                 buckets["FAIL"].append(rec)
                 continue
-            b = bars(tick, cache, refresh)
+            _th, _need, _rd = str(r.get("thesis") or ""), d, d
+            if _Q.queued_fill_basis(_th):
+                # INS-020: a queued-fill price comes from the FILL session's bar, so the range test
+                # reads that bar - testing it against the call-day bar would fail a correct fill.
+                _need = _rd = max(d, _Q.fill_session_for(d, _Q.registered_at(_th)).isoformat())
+            b = bars(tick, cache, refresh, need=_need)
             if b is None:
                 rec["note"] = "no series from source"
                 buckets["UNFETCHABLE"].append(rec)
                 continue
-            if d not in b:
-                rec["note"] = f"no bar dated {d} for {tick}"
+            if _rd != d:
+                got = _Q.owed_open({k: (v[2], v[1], v[0], v[3], v[4]) for k, v in b.items()},
+                                   date.fromisoformat(_rd))
+                _rd = got[0] if got else _rd       # a zero-volume fill session rolls to the traded bar
+            if _rd not in b:
+                rec["note"] = f"no bar dated {_rd} for {tick}"
                 buckets["NO_BAR"].append(rec)
                 continue
-            lo, hi = b[d]
+            lo, hi = b[_rd][0], b[_rd][1]
+            rec["range_bar"] = _rd
             rec["low"], rec["high"] = lo, hi
             if px < lo * (1 - EPS):
                 rec["side"] = "below low"
@@ -184,9 +265,53 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                 buckets["FAIL"].append(rec)
             else:
                 buckets["PASS"].append(rec)
+            # INS-020: the reference test, OPEN rows only (a scored number is frozen, BENCH-002).
+            if not str(r.get("outcome", "")).strip():
+                v, basis, oday, owed = reference(r, b)
+                ref = dict(rec, basis=basis, owed_day=oday, owed=owed)
+                if v == "REF_MISMATCH" and d < REF_TEST_FROM:
+                    v = "REF_LEGACY"
+                    # the checker cannot see a legacy row's write time: if it was written mid-session
+                    # (the morning run), the rule owes the next traded open instead - show both.
+                    if not _Q.queued_fill_basis(_th):
+                        alt = _Q.owed_open({k: (x[2], x[1], x[0], x[3], x[4]) for k, x in b.items()},
+                                           _Q._next_session(date.fromisoformat(d)))
+                        ref["alt_next_open"] = alt[1] if alt else None
+                        ref["alt_day"] = alt[0] if alt else None
+                buckets[v].append(ref)
     finally:
         _save_cache(cache)
     return buckets
+
+
+def _selftest() -> int:
+    """INS-020 reference test, offline: synthetic settled bars [low, high, open, close, volume]."""
+    b = {"2026-09-28": [9.0, 11.0, 9.5, 10.0, 1000], "2026-09-29": [10.0, 12.0, 10.5, 11.0, 800],
+         "2026-09-30": [11.0, 11.0, 11.0, 11.0, 0], "2026-10-01": [11.0, 12.0, 11.2, 11.5, 50]}
+    cases = [
+        ({"date": "2026-09-28", "price_at_call": "10.0", "thesis": "[insider] x"}, "REF_OK"),
+        ({"date": "2026-09-28", "price_at_call": "10.4", "thesis": "[insider] x"}, "REF_MISMATCH"),
+        ({"date": "2026-09-28", "price_at_call": "10.5",
+          "thesis": "[insider] x [QUEUED at 2026-09-28T08:35 PT] [FILLED 2026-09-29 official open 10.5]"}, "REF_OK"),
+        ({"date": "2026-09-28", "price_at_call": "10.0",
+          "thesis": "[insider] x [QUEUED at 2026-09-28T08:35 PT] [FILLED 2026-09-29 official open 10.0]"}, "REF_MISMATCH"),
+        ({"date": "2026-09-28", "price_at_call": "9.5",
+          "thesis": "[insider] x [QUEUED at 2026-09-28T05:10 PT] [FILLED 2026-09-28 official open 9.5]"}, "REF_OK"),
+        ({"date": "2026-09-29", "price_at_call": "11.2",
+          "thesis": "[insider] x [QUEUED at 2026-09-29T09:00 PT]"}, "REF_OK"),        # 09-30 is zero-volume -> 10-01 open
+        ({"date": "2026-09-30", "price_at_call": "11.0", "thesis": "[insider] x"}, "REF_MISMATCH"),  # carry-forward close
+        ({"date": "2026-10-02", "price_at_call": "12.0", "thesis": "[insider] x"}, "REF_PENDING"),
+        ({"date": "2026-09-28", "price_at_call": "10.4",
+          "thesis": "prose: the AGENT.md [QUEUED] branch was not available"}, "REF_MISMATCH"),  # prose is not a marker
+    ]
+    bad = 0
+    for row, want in cases:
+        got = reference(row, b)[0]
+        ok = got == want
+        bad += not ok
+        print(("PASS " if ok else "FAIL ") + f"{row['date']} {row['price_at_call']:>5} -> {got} (want {want})")
+    print("selftest:", "all passed" if not bad else f"{bad} FAILED")
+    return 1 if bad else 0
 
 
 def main() -> int:
@@ -197,11 +322,14 @@ def main() -> int:
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--refresh", action="store_true",
                     help="ignore the on-disk bar cache")
+    ap.add_argument("--selftest", action="store_true", help="INS-020 reference test, offline")
     a = ap.parse_args()
+    if a.selftest:
+        return _selftest()
     b = audit(open_only=a.open_only, since=a.since, refresh=a.refresh)
     if a.json:
         print(json.dumps(b, indent=1))
-        return 1 if b["FAIL"] else 0
+        return 1 if (b["FAIL"] or b["REF_MISMATCH"]) else 0
     n = {k: len(v) for k, v in b.items()}
     print(f"INS-014 price audit — {date.today().isoformat()}")
     print(f"  PASS {n['PASS']}  FAIL {n['FAIL']}  NO_BAR {n['NO_BAR']}  "
@@ -214,6 +342,18 @@ def main() -> int:
             print(f"  {k:12s} {r['ticker']:6s} {r['date']}  "
                   f"price_at_call={r['price_at_call']:>10s}  "
                   f"stale_quote={r['stale_quote'] or '(empty)':<7s} {extra}")
+    print(f"  INS-020 reference (open rows): REF_OK {n['REF_OK']}  REF_MISMATCH {n['REF_MISMATCH']}  "
+          f"REF_LEGACY {n['REF_LEGACY']}  REF_PENDING {n['REF_PENDING']}  (exact from {REF_TEST_FROM})")
+    for k in ("REF_MISMATCH", "REF_LEGACY", "REF_PENDING"):
+        for r in b[k]:
+            print(f"  {k:12s} {r['ticker']:6s} {r['date']}  price_at_call={r['price_at_call']:>10s}  "
+                  f"owed={r.get('owed')!s:>10s} ({r.get('owed_day')}; {r.get('basis')})"
+                  + (f" | if written mid-session: {r['alt_day']} open {r['alt_next_open']}"
+                     if r.get("alt_day") else ""))
+    if b["REF_MISMATCH"]:
+        print(f"\nFAIL — {n['REF_MISMATCH']} open row(s) dated >= {REF_TEST_FROM} do not carry the price "
+              "the rule owes (INS-020). The writer queues unsettled calls; find what bypassed it.")
+        return 1
     if b["FAIL"]:
         print(f"\nFAIL — {n['FAIL']} row(s) priced outside their own call-day bar. "
               "INS-014 is live. Restatement of UNSCORED rows is a ruling "

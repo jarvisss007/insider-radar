@@ -223,7 +223,21 @@ def flag_for(ticker: str, asof: str | None = None,
 #   * a call written after the call-day close settled keeps the settled close (the bar DATED the
 #     call date, INS-014); price_audit.py now stores and tests that reference (INS-020 checker).
 OPEN_PT = (6, 30)                     # NYSE 09:30 ET official open, in PT (NY and CA shift together)
-QUEUED_TAG = "[QUEUED"
+QUEUED_TAG = "[QUEUED"   # prefix only; use is_queued()/queued_fill_basis() - prose can mention "[QUEUED] branch"
+
+
+def is_queued(thesis) -> bool:
+    """A row the write path queued: the literal [QUEUED] marker or a stamped [QUEUED at ...]."""
+    th = str(thesis or "")
+    return "[QUEUED]" in th or "[QUEUED at " in th
+
+
+def queued_fill_basis(thesis) -> bool:
+    """True if the row's reference is the queued-fill open: stamped [QUEUED at ..], [FILLED ..], or
+    INS-020 restated. A bare "[QUEUED]" is NOT enough on a priced row - SHMD/ENOV (09-08) mention "the
+    AGENT.md [QUEUED] branch" in prose while carrying a live print."""
+    th = str(thesis or "")
+    return "[QUEUED at " in th or "[FILLED " in th or "[RESTATED 2026-09-27 (INS-020" in th
 _REG_AT = re.compile(r"(?:\[QUEUED at|registered) (\d{4}-\d{2}-\d{2}T\d{2}:\d{2})")
 
 
@@ -324,7 +338,7 @@ def fill_queued(ledger: str = LEDGER, dry: bool = False, now=None) -> int:
         if (r.get("outcome") or "").strip() or str(r.get("price_at_call") or "").strip():
             continue
         th = str(r.get("thesis") or "")
-        if QUEUED_TAG not in th:
+        if not is_queued(th):
             continue
         fs = fill_session_for(r["date"], registered_at(th))
         if fs > now.date():
@@ -400,7 +414,7 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS,
                          f" [QUEUED at {_stamp} PT (INS-020/REG-PP-002): written before the "
                          f"{row.get('date')} close settled; the live print {_px_in} is NOT the "
                          f"reference - fills at the first official open after registration]").strip()
-    elif not _px_in and QUEUED_TAG in str(row.get("thesis") or "") and not registered_at(row.get("thesis")):
+    elif not _px_in and is_queued(row.get("thesis")) and not registered_at(row.get("thesis")):
         row["thesis"] = (str(row.get("thesis") or "") +
                          f" [QUEUED at {_stamp} PT (REG-PP-002)]").strip()
     # INS-014 (2026-09-05 audit): 25 rows carried the PRIOR session's close as price_at_call while
@@ -429,7 +443,7 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS,
     # path refuses it here rather than trusting each caller to remember, which is
     # the same reason stale_quote is computed here instead of by the caller.
     # INS-020: the one blank price this path accepts is the QUEUED row the rule prescribes.
-    if not str(row.get("price_at_call") or "").strip() and QUEUED_TAG not in str(row.get("thesis") or ""):
+    if not str(row.get("price_at_call") or "").strip() and not is_queued(row.get("thesis")):
         raise ValueError(
             f"refusing to log {row.get('ticker')}: no price_at_call. An unpriceable "
             f"cluster can never score — record it as a disclosed exclusion, not an "
