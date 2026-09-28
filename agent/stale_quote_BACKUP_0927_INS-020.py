@@ -57,15 +57,8 @@ import csv
 import json
 import os
 import sys
-import re
-import urllib.parse
 import urllib.request
-from datetime import date, datetime, timedelta
-try:
-    from zoneinfo import ZoneInfo
-    _PT = ZoneInfo("America/Los_Angeles")
-except Exception:   # pragma: no cover
-    _PT = None
+from datetime import date
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 LEDGER = os.path.join(HERE, "ledger.csv")
@@ -208,156 +201,7 @@ def flag_for(ticker: str, asof: str | None = None,
     return flag, f"{ticker}: closes {vals} over {span} -> stale_quote={flag}"
 
 
-# ---- INS-020 (ruled 2026-09-27, option a) + REG-PP-002 queued-fill -----------------------
-# AGENT.md SS INS-014: "If today's bar is not out yet, never write yesterday's close as today's
-# price: write the row with price_at_call EMPTY and [QUEUED], and fill it from the next session's
-# official open." Until 2026-09-27 this write path REFUSED exactly that row (INS-007 below), so the
-# morning run wrote a live intraday print instead and froze it as the 30-day reference - 35 of 39
-# open rows dated 2026-09-14..09-21 (BENF +30.4% off its close). The rule, made executable:
-#   * a call whose call-day close is NOT settled at write time carries no price: it is QUEUED
-#     (stamped with its registration time) and any live print the caller passed is moved into
-#     the thesis as a disclosure, never into price_at_call;
-#   * fill_queued() fills it from the FIRST OFFICIAL OPEN AFTER REGISTRATION (REG-PP-002) - the
-#     first bar dated on/after that session with volume > 0 (a zero-volume bar is a carry-forward,
-#     not an open that printed: INS-015 / Firm Brain S18);
-#   * a call written after the call-day close settled keeps the settled close (the bar DATED the
-#     call date, INS-014); price_audit.py now stores and tests that reference (INS-020 checker).
-OPEN_PT = (6, 30)                     # NYSE 09:30 ET official open, in PT (NY and CA shift together)
-QUEUED_TAG = "[QUEUED"
-_REG_AT = re.compile(r"(?:\[QUEUED at|registered) (\d{4}-\d{2}-\d{2}T\d{2}:\d{2})")
-
-
-def _now_pt():
-    return datetime.now(_PT) if _PT else datetime.now()
-
-
-def _next_session(d):
-    if _SESS:
-        return _SESS.next_session(d)
-    d += timedelta(days=1)
-    while d.weekday() >= 5:
-        d += timedelta(days=1)
-    return d
-
-
-def call_day_settled(call_date, now=None) -> bool:
-    """True iff the call date's official close had settled at `now` (PT). SESSION-001 calendar."""
-    d = date.fromisoformat(str(call_date)[:10])
-    now = now or _now_pt()
-    if _SESS:
-        return _SESS.settled_session(now) >= d
-    return now.date() > d or (now.date() == d and (now.hour, now.minute) >= (13, 5))
-
-
-def registered_at(thesis):
-    """The registration moment stamped on a queued/restated row, as a naive PT datetime, or None."""
-    m = _REG_AT.search(str(thesis or ""))
-    return datetime.fromisoformat(m.group(1)) if m else None
-
-
-def fill_session_for(call_date, reg=None):
-    """REG-PP-002: the session whose official open is the FIRST open after registration.
-
-    Registered before 06:30 PT on a session day -> that day's open. Registered at/after the open,
-    or on a non-session, or at an unknown time (assumed after the call date's open - the morning
-    run fires at ~08:35 PT) -> the next session after it."""
-    if reg is not None:
-        rd = reg.date()
-        if (_SESS.is_session(rd) if _SESS else rd.weekday() < 5) and (reg.hour, reg.minute) < OPEN_PT:
-            return rd
-        return _next_session(rd)
-    return _next_session(date.fromisoformat(str(call_date)[:10]))
-
-
-def daily_bars(ticker, since):
-    """{YYYY-MM-DD: (open, high, low, close, volume)} from Yahoo's chart endpoint, bars dated >= since."""
-    p1 = int(datetime(since.year, since.month, since.day).timestamp()) - 86400
-    p2 = int(datetime.now().timestamp())
-    url = ("https://query1.finance.yahoo.com/v8/finance/chart/"
-           f"{urllib.parse.quote(ticker)}?period1={p1}&period2={p2}&interval=1d")
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    res = json.load(urllib.request.urlopen(req, timeout=30))["chart"]["result"][0]
-    q = res["indicators"]["quote"][0]
-    out = {}
-    from datetime import timezone as _tz
-    for i, ts in enumerate(res.get("timestamp") or []):
-        day = datetime.fromtimestamp(ts, _tz.utc).date().isoformat()
-        out[day] = tuple(q[k][i] for k in ("open", "high", "low", "close", "volume"))
-    return out
-
-
-def owed_open(bars, fill_session):
-    """(day, open) of the first bar dated >= fill_session that actually traded (volume > 0, real
-    open). Zero-volume bars are skipped and never used as a fill (INS-015 / S18). None = not yet."""
-    for day in sorted(bars):
-        if day < fill_session.isoformat():
-            continue
-        o, _h, _l, _c, v = bars[day]
-        if o is None or not v:
-            continue
-        return day, float(o)
-    return None
-
-
-def fmt_px(x):
-    """Price text: 4 dp, trailing zeros trimmed, never fewer than 2 dp (21.95, 0.587, 13.623)."""
-    s = f"{float(x):.4f}".rstrip("0")
-    whole, frac = s.split(".")
-    return f"{whole}.{frac.ljust(2, '0')}"
-
-
-def fill_queued(ledger: str = LEDGER, dry: bool = False, now=None) -> int:
-    """REG-PP-002 / INS-020: fill every open QUEUED row from its owed official open. Idempotent.
-
-    Only rows with outcome empty, price_at_call empty and a [QUEUED marker are touched; a filled
-    row carries [FILLED <day> official open <px>] and is never filled twice. A queued row whose
-    owed open has not printed waits and says so; one still unfilled 7+ calendar days after its fill
-    session is reported UNFILLABLE (an INS-007 exclusion is a human's call, never automatic)."""
-    now = now or _now_pt()
-    if _ATOM and not dry:
-        _ATOM.hold_book(ledger)
-    with open(ledger) as f:
-        rows = list(csv.DictReader(f))
-    header = ledger_header(ledger)
-    filled, waiting = [], []
-    for r in rows:
-        if (r.get("outcome") or "").strip() or str(r.get("price_at_call") or "").strip():
-            continue
-        th = str(r.get("thesis") or "")
-        if QUEUED_TAG not in th:
-            continue
-        fs = fill_session_for(r["date"], registered_at(th))
-        if fs > now.date():
-            waiting.append(f"{r['ticker']} {r['date']}: fills at the {fs} open (not yet)")
-            continue
-        try:
-            got = owed_open(daily_bars(r["ticker"], fs), fs)
-        except Exception as e:
-            got, err = None, f"{type(e).__name__}"
-        else:
-            err = ""
-        if got is None:
-            late = (now.date() - fs).days >= 7
-            waiting.append(f"{r['ticker']} {r['date']}: no traded open on/after {fs} yet"
-                           + (f" ({err})" if err else "")
-                           + (" - UNFILLABLE so far; INS-007 exclusion is Anupam's call" if late else ""))
-            continue
-        day, px = got
-        r["price_at_call"] = fmt_px(px)
-        r["thesis"] = (th + f" [FILLED {day} official open {fmt_px(px)} "
-                            f"(REG-PP-002 queued-fill, INS-020)]").strip()
-        filled.append(f"{r['ticker']} {r['date']} -> {day} open {fmt_px(px)}")
-    if filled and not dry:
-        _atomic_csv(ledger, header, rows)
-    for x in filled:
-        print(f"  FILLED  {x}")
-    for x in waiting:
-        print(f"  QUEUED  {x}")
-    print(f"fill_queued: {len(filled)} filled, {len(waiting)} still queued{' [DRY]' if dry else ''}")
-    return 0
-
-
-def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS, now=None):
+def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS):
     """Append ONE call to the ledger with stale_quote already decided.
 
     This is the write path. Anything logging a call goes through here so the
@@ -387,22 +231,6 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS,
                                  f"session {_d.isoformat()} at write time]").strip()
         except ValueError:
             pass
-    # INS-020 (ruled 2026-09-27, option a): the call-day close must be SETTLED for a price to be
-    # written. Otherwise the row is QUEUED (REG-PP-002) and the caller's live print becomes a
-    # disclosure in the thesis - it is never the reference. Registration time is stamped so
-    # fill_queued() and price_audit.py can compute the owed open without guessing.
-    _now = now or _now_pt()
-    _stamp = _now.strftime("%Y-%m-%dT%H:%M")
-    _px_in = str(row.get("price_at_call") or "").strip()
-    if _px_in and not call_day_settled(row.get("date"), _now):
-        row["price_at_call"] = ""
-        row["thesis"] = (str(row.get("thesis") or "") +
-                         f" [QUEUED at {_stamp} PT (INS-020/REG-PP-002): written before the "
-                         f"{row.get('date')} close settled; the live print {_px_in} is NOT the "
-                         f"reference - fills at the first official open after registration]").strip()
-    elif not _px_in and QUEUED_TAG in str(row.get("thesis") or "") and not registered_at(row.get("thesis")):
-        row["thesis"] = (str(row.get("thesis") or "") +
-                         f" [QUEUED at {_stamp} PT (REG-PP-002)]").strip()
     # INS-014 (2026-09-05 audit): 25 rows carried the PRIOR session's close as price_at_call while
     # stale_quote said "no" — is_stale() watches whether closes MOVE, not whether the quote's own date
     # is the call date. A call price must come from a bar dated the call date; otherwise the row says
@@ -428,8 +256,7 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS,
     # An unpriceable cluster is a DISCLOSED EXCLUSION, not a position. The write
     # path refuses it here rather than trusting each caller to remember, which is
     # the same reason stale_quote is computed here instead of by the caller.
-    # INS-020: the one blank price this path accepts is the QUEUED row the rule prescribes.
-    if not str(row.get("price_at_call") or "").strip() and QUEUED_TAG not in str(row.get("thesis") or ""):
+    if not str(row.get("price_at_call") or "").strip():
         raise ValueError(
             f"refusing to log {row.get('ticker')}: no price_at_call. An unpriceable "
             f"cluster can never score — record it as a disclosed exclusion, not an "
@@ -562,12 +389,7 @@ def main() -> int:
                          "overwrites, never writes to an already-scored row")
     ap.add_argument("--audit", action="store_true",
                     help="print (never write) the computed flag for every row")
-    ap.add_argument("--fill-queued", action="store_true",
-                    help="INS-020/REG-PP-002: fill open [QUEUED] rows from their owed official open")
-    ap.add_argument("--dry", action="store_true", help="with --fill-queued: report, write nothing")
     a = ap.parse_args()
-    if a.fill_queued:
-        return fill_queued(dry=a.dry)
     if a.check:
         flag, detail = flag_for(a.check, a.asof, a.sessions)
         print(detail)
