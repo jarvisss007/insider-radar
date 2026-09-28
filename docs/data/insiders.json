@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-28 14:39 UTC",
+ "updated_utc": "2026-09-28 15:10 UTC",
  "purchases": [
-  {
-   "ticker": "TELA",
-   "company": "TELA Bio, Inc.",
-   "insider": "Capper Joseph H",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 50000.0,
-   "price": 1.0588,
-   "value": 52940.0,
-   "acc": "0001456817-26-000013",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "SBLK",
    "company": "Star Bulk Carriers Corp.",
@@ -4724,6 +4712,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "FTHY",
+   "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
+   "insider": "MCGAREL DAVID",
+   "role": "Officer-Investment Adviser",
+   "date": "2026-09-25",
+   "shares": 10000.0,
+   "price": 12.9247,
+   "value": 129247.0,
+   "acc": "0001445546-26-007146",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "DMRA",
    "company": "Damora Therapeutics, Inc.",
    "insider": "Jarrett Jennifer",
@@ -4895,6 +4895,11 @@
    "total_value": 303253.26
   },
   {
+   "ticker": "FTHY",
+   "insiders": 2,
+   "total_value": 261610.72
+  },
+  {
    "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
    "insiders": 2,
    "total_value": 199993.4
@@ -4988,7 +4993,6 @@
   }
  ],
  "seen": [
-  "0001951059-26-000016",
   "0001951288-26-000004",
   "0001951665-26-000018",
   "0001951665-26-000020",
@@ -7670,6 +7674,7 @@
   "0002117905-26-000040",
   "0002117905-26-000041",
   "0002117905-26-000043",
+  "0002117905-26-000044",
   "0002117999-26-000006",
   "0002118012-26-000003",
   "0002118015-26-000004",
