@@ -1,164 +1,6 @@
 {
- "updated_utc": "2026-09-28 20:11 UTC",
+ "updated_utc": "2026-09-28 21:15 UTC",
  "purchases": [
-  {
-   "ticker": "RWT",
-   "company": "REDWOOD TRUST INC",
-   "insider": "KUBICEK GREG H",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 50000.0,
-   "price": 3.8512,
-   "value": 192560.0,
-   "acc": "0001233565-26-000006",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "XBP",
-   "company": "XBP Global Holdings, Inc.",
-   "insider": "Avenue Global Opportunities Master Fund LP",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 72394.0,
-   "price": 2.83,
-   "value": 204875.02,
-   "acc": "0001140361-26-036978",
-   "filed": "2026-09-17",
-   "placement": true
-  },
-  {
-   "ticker": "TH",
-   "company": "Target Hospitality Corp.",
-   "insider": "Archer James Bradley",
-   "role": "Director and CEO and President",
-   "date": "2026-09-15",
-   "shares": 13385.0,
-   "price": 18.69,
-   "value": 250165.65,
-   "acc": "0001712189-26-000059",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "GLP",
-   "company": "GLOBAL PARTNERS LP",
-   "insider": "Global GP LLC",
-   "role": "",
-   "date": "2026-09-15",
-   "shares": 5000.0,
-   "price": 50.89,
-   "value": 254450.0,
-   "acc": "0001339396-26-000084",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Reskos Nikolaos",
-   "role": "Chief Operating Officer",
-   "date": "2026-09-15",
-   "shares": 10000.0,
-   "price": 28.27,
-   "value": 282700.0,
-   "acc": "0001969292-26-000010",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Zagari Raffaele",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 10000.0,
-   "price": 28.27,
-   "value": 282700.0,
-   "acc": "0002005037-26-000014",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "CELH",
-   "company": "Celsius Holdings, Inc.",
-   "insider": "Kravitz Hal",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 12000.0,
-   "price": 28.0,
-   "value": 336000.0,
-   "acc": "0001628280-26-062134",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "RWT",
-   "company": "REDWOOD TRUST INC",
-   "insider": "Abate Christopher J",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-15",
-   "shares": 100000.0,
-   "price": 3.839,
-   "value": 383900.0,
-   "acc": "0001104659-26-107867",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "RWT",
-   "company": "REDWOOD TRUST INC",
-   "insider": "Abate Christopher J",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-15",
-   "shares": 100000.0,
-   "price": 3.839,
-   "value": 383900.0,
-   "acc": "0001104659-26-109010",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Spyrou Symeon",
-   "role": "co CFO",
-   "date": "2026-09-15",
-   "shares": 15000.0,
-   "price": 28.27,
-   "value": 424050.0,
-   "acc": "0001969701-26-000006",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CELH",
-   "company": "Celsius Holdings, Inc.",
-   "insider": "DeSantis Damon",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 16000.0,
-   "price": 27.95,
-   "value": 447200.0,
-   "acc": "0001628280-26-062057",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "BWMX",
-   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
-   "insider": "CHEVALLIER ANDRES CAMPOS",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-09-15",
-   "shares": 30000.0,
-   "price": 16.4097,
-   "value": 492291.0,
-   "acc": "0001213900-26-101012",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "XBP",
-   "company": "XBP Global Holdings, Inc.",
-   "insider": "CHADHA PAR",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 204946.0,
-   "price": 2.83,
-   "value": 579997.18,
-   "acc": "0001104659-26-108653",
-   "filed": "2026-09-17",
-   "placement": true
-  },
   {
    "ticker": "BWMX",
    "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
@@ -4039,6 +3881,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Carlson Steven J.",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 10000.0,
+   "price": 0.1985,
+   "value": 1985.0,
+   "acc": "0001493152-26-044627",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
    "insider": "WILLIAMSON JOHN B III",
@@ -4120,6 +3974,42 @@
    "price": 0.1723,
    "value": 5685.9,
    "acc": "0001214659-26-011988",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Schaible John Martin",
+   "role": "Executive Chairman",
+   "date": "2026-09-24",
+   "shares": 35100.0,
+   "price": 0.2139,
+   "value": 7507.89,
+   "acc": "0001493152-26-044631",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Ridenhour David Craig",
+   "role": "President",
+   "date": "2026-09-24",
+   "shares": 50000.0,
+   "price": 0.2001,
+   "value": 10005.0,
+   "acc": "0001493152-26-044630",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Patel Sandip I",
+   "role": "CFO & General Counsel",
+   "date": "2026-09-24",
+   "shares": 50000.0,
+   "price": 0.2173,
+   "value": 10865.0,
+   "acc": "0001493152-26-044629",
    "filed": "2026-09-28"
   },
   {
@@ -4303,6 +4193,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Hammond Thomas Jon",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 500000.0,
+   "price": 0.1996,
+   "value": 99800.0,
+   "acc": "0001493152-26-044628",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "DLY",
    "company": "DoubleLine Yield Opportunities Fund",
    "insider": "Sherman Jeffrey J.",
@@ -4337,6 +4239,18 @@
    "value": 747739.3,
    "acc": "0001193125-26-403089",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "QVCG",
+   "company": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 80000.0,
+   "price": 14.35,
+   "value": 1148000.0,
+   "acc": "0001493152-26-044626",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "KBDC",
@@ -4459,6 +4373,30 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "FNWD",
+   "company": "Finward Bancorp",
+   "insider": "Bochnowski Benjamin J",
+   "role": "President, CEO",
+   "date": "2026-09-25",
+   "shares": 5.1564,
+   "price": 43.48,
+   "value": 224.2,
+   "acc": "0001628280-26-063746",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "FNWD",
+   "company": "Finward Bancorp",
+   "insider": "Puntillo Anthony",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 5.3817,
+   "price": 43.46,
+   "value": 233.89,
+   "acc": "0001628280-26-063748",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4483,6 +4421,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Carlson Steven J.",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 5000.0,
+   "price": 0.192,
+   "value": 960.0,
+   "acc": "0001493152-26-044627",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4493,6 +4443,18 @@
    "value": 1285.07,
    "acc": "0001536588-26-000036",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "FNWD",
+   "company": "Finward Bancorp",
+   "insider": "Lowry Robert T",
+   "role": "Executive Vice President",
+   "date": "2026-09-25",
+   "shares": 42.0722,
+   "price": 43.48,
+   "value": 1829.3,
+   "acc": "0001628280-26-063744",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "RCG",
@@ -4555,6 +4517,30 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Ridenhour David Craig",
+   "role": "President",
+   "date": "2026-09-25",
+   "shares": 50000.0,
+   "price": 0.1878,
+   "value": 9390.0,
+   "acc": "0001493152-26-044630",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Patel Sandip I",
+   "role": "CFO & General Counsel",
+   "date": "2026-09-25",
+   "shares": 50000.0,
+   "price": 0.1975,
+   "value": 9875.0,
+   "acc": "0001493152-26-044629",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "FINS",
    "company": "Angel Oak Financial Strategies Income Term Trust",
    "insider": "Parks Kevin",
@@ -4564,6 +4550,18 @@
    "price": 11.9,
    "value": 11900.0,
    "acc": "0001816321-26-000004",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "ATCH",
+   "company": "AtlasClear Holdings, Inc.",
+   "insider": "Schaible John Martin",
+   "role": "Executive Chairman",
+   "date": "2026-09-25",
+   "shares": 64900.0,
+   "price": 0.187,
+   "value": 12136.3,
+   "acc": "0001493152-26-044631",
    "filed": "2026-09-28"
   },
   {
@@ -4835,8 +4833,8 @@
   },
   {
    "ticker": "SBLK",
-   "insiders": 5,
-   "total_value": 6609526.0
+   "insiders": 3,
+   "total_value": 5620076.0
   },
   {
    "ticker": "BORR",
@@ -4849,14 +4847,14 @@
    "total_value": 4752698.02
   },
   {
-   "ticker": "BWMX",
-   "insiders": 3,
-   "total_value": 2293811.0
-  },
-  {
    "ticker": "ADC",
    "insiders": 2,
    "total_value": 1876521.6
+  },
+  {
+   "ticker": "BWMX",
+   "insiders": 3,
+   "total_value": 1801520.0
   },
   {
    "ticker": "HHH",
@@ -4864,29 +4862,14 @@
    "total_value": 1667427.5
   },
   {
-   "ticker": "RWT",
-   "insiders": 3,
-   "total_value": 1211940.3
-  },
-  {
    "ticker": "KRMN",
    "insiders": 3,
    "total_value": 1036485.3
   },
   {
-   "ticker": "CELH",
-   "insiders": 2,
-   "total_value": 783200.0
-  },
-  {
    "ticker": "GAM",
    "insiders": 5,
    "total_value": 552290.0
-  },
-  {
-   "ticker": "TH",
-   "insiders": 2,
-   "total_value": 375157.77
   },
   {
    "ticker": "FTHY",
@@ -4907,6 +4890,11 @@
    "ticker": "ANIX",
    "insiders": 3,
    "total_value": 165166.84
+  },
+  {
+   "ticker": "ATCH",
+   "insiders": 5,
+   "total_value": 162524.19
   },
   {
    "ticker": "VFF",
@@ -4954,15 +4942,14 @@
    "total_value": 9777.9
   },
   {
+   "ticker": "FNWD",
+   "insiders": 3,
+   "total_value": 2287.39
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 3,
    "total_value": 1200.51
-  },
-  {
-   "ticker": "XBP",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 784872.2
   },
   {
    "ticker": "BCBP",
@@ -4972,9 +4959,6 @@
   }
  ],
  "seen": [
-  "0001954584-26-000021",
-  "0001954584-26-000023",
-  "0001954722-26-000003",
   "0001954722-26-000004",
   "0001954883-26-000013",
   "0001955335-26-000012",
@@ -6253,6 +6237,7 @@
   "0001999371-26-021424",
   "0001999371-26-021427",
   "0001999371-26-021438",
+  "0001999371-26-021453",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6303,6 +6288,7 @@
   "0002003131-26-000013",
   "0002003131-26-000014",
   "0002003768-26-000018",
+  "0002003802-26-000005",
   "0002004135-26-000004",
   "0002004135-26-000008",
   "0002004135-26-000010",
@@ -7296,6 +7282,7 @@
   "0002078265-26-000397",
   "0002078265-26-000398",
   "0002078265-26-000399",
+  "0002078265-26-000407",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
