@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-28 16:14 UTC",
+ "updated_utc": "2026-09-28 16:30 UTC",
  "purchases": [
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Karellis Nikolaos",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 2000.0,
-   "price": 28.27,
-   "value": 56540.0,
-   "acc": "0002011929-26-000010",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Veradace Partners LP",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 15000.0,
-   "price": 3.91,
-   "value": 58650.0,
-   "acc": "0001772447-26-000020",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "INM",
    "company": "InMed Pharmaceuticals Inc.",
@@ -2141,6 +2117,18 @@
    "value": 126799.9,
    "acc": "0000905148-26-004241",
    "filed": "2026-09-21"
+  },
+  {
+   "ticker": "ZUMZ",
+   "company": "Zumiez Inc",
+   "insider": "ELLIS ADAM CHRISTOPHER",
+   "role": "President International",
+   "date": "2026-09-18",
+   "shares": 10000.0,
+   "price": 13.4,
+   "value": 134000.0,
+   "acc": "0001700575-26-000005",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "GF",
@@ -4604,6 +4592,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 756.0,
+   "price": 3.02,
+   "value": 2283.12,
+   "acc": "0001437749-26-031300",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4836,8 +4836,8 @@
   },
   {
    "ticker": "SBLK",
-   "insiders": 8,
-   "total_value": 6920496.0
+   "insiders": 7,
+   "total_value": 6863956.0
   },
   {
    "ticker": "BORR",
@@ -4938,11 +4938,6 @@
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 85087.95
-  },
-  {
-   "ticker": "BUKS",
-   "insiders": 2,
-   "total_value": 84159.57
   },
   {
    "ticker": "BFRG",
