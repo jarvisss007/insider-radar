@@ -1,55 +1,6 @@
 {
- "updated_utc": "2026-09-28 06:33 UTC",
+ "updated_utc": "2026-09-28 10:28 UTC",
  "purchases": [
-  {
-   "ticker": "XBP",
-   "company": "XBP Global Holdings, Inc.",
-   "insider": "Avramovic Dejan",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-15",
-   "shares": 8833.0,
-   "price": 2.83,
-   "value": 24997.39,
-   "acc": "0001104659-26-108652",
-   "filed": "2026-09-17",
-   "placement": true
-  },
-  {
-   "ticker": "LMB",
-   "company": "Limbach Holdings, Inc.",
-   "insider": "Krzeminski Laurel J",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 500.0,
-   "price": 50.575,
-   "value": 25287.5,
-   "acc": "0001628280-26-062237",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "ACOG",
-   "company": "Alpha Cognition Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 3375.0,
-   "price": 8.5424,
-   "value": 28830.6,
-   "acc": "0001493152-26-042969",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "OXM",
-   "company": "OXFORD INDUSTRIES INC",
-   "insider": "GRASSMYER SCOTT",
-   "role": "EVP",
-   "date": "2026-09-15",
-   "shares": 1000.0,
-   "price": 29.73,
-   "value": 29730.0,
-   "acc": "0000075288-26-000092",
-   "filed": "2026-09-15"
-  },
   {
    "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
    "company": "Stellus Private Credit BDC",
@@ -4473,6 +4424,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-24",
+   "shares": 33000.0,
+   "price": 0.1723,
+   "value": 5685.9,
+   "acc": "0001214659-26-011988",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "KG",
    "company": "Kestrel Group Ltd",
    "insider": "NIGRO STEVEN HAROLD",
@@ -4495,6 +4458,18 @@
    "value": 14625.0,
    "acc": "0001536588-26-000034",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-24",
+   "shares": 100000.0,
+   "price": 0.1819,
+   "value": 18190.0,
+   "acc": "0001214659-26-011988",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "EDRY",
@@ -4737,6 +4712,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-25",
+   "shares": 56600.0,
+   "price": 0.1649,
+   "value": 9333.34,
+   "acc": "0001214659-26-011988",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "RSI",
    "company": "Rush Street Interactive, Inc.",
    "insider": "Markell Jack A.",
@@ -4747,6 +4734,18 @@
    "value": 29025.0,
    "acc": "0001705859-26-000006",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-25",
+   "shares": 500000.0,
+   "price": 0.1685,
+   "value": 84250.0,
+   "acc": "0001214659-26-011988",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "LEN",
@@ -4896,11 +4895,6 @@
    "total_value": 303253.26
   },
   {
-   "ticker": "LMB",
-   "insiders": 2,
-   "total_value": 228545.69
-  },
-  {
    "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
    "insiders": 2,
    "total_value": 199993.4
@@ -4939,11 +4933,6 @@
    "ticker": "BZUN",
    "insiders": 2,
    "total_value": 117938.0
-  },
-  {
-   "ticker": "OXM",
-   "insiders": 2,
-   "total_value": 95104.75
   },
   {
    "ticker": "RGCO",
@@ -4992,9 +4981,9 @@
   },
   {
    "ticker": "XBP",
-   "insiders": 4,
+   "insiders": 3,
    "total_value": 0,
-   "other_value": 899014.59
+   "other_value": 874017.2
   },
   {
    "ticker": "BCBP",
@@ -5004,7 +4993,6 @@
   }
  ],
  "seen": [
-  "0001950027-26-000045",
   "0001950027-26-000047",
   "0001950032-26-000014",
   "0001950180-26-000004",
@@ -7627,6 +7615,7 @@
   "0002112008-26-000011",
   "0002112139-26-000008",
   "0002112189-26-000013",
+  "0002112397-26-000012",
   "0002112883-26-000013",
   "0002113424-26-000015",
   "0002113531-26-000004",
