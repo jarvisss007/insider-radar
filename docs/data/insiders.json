@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-28 21:31 UTC",
+ "updated_utc": "2026-09-28 21:47 UTC",
  "purchases": [
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Zagari Raffaele",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 50000.0,
-   "price": 28.27,
-   "value": 1413500.0,
-   "acc": "0002005037-26-000014",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "SBLK",
    "company": "Star Bulk Carriers Corp.",
@@ -4097,6 +4085,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "PODC",
+   "company": "PodcastOne, Inc.",
+   "insider": "MERRIMAN D JONATHAN",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 11000.0,
+   "price": 2.21,
+   "value": 24310.0,
+   "acc": "0001213900-26-104166",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4832,11 +4832,6 @@
    "total_value": 10033323.16
   },
   {
-   "ticker": "SBLK",
-   "insiders": 3,
-   "total_value": 5620076.0
-  },
-  {
    "ticker": "BORR",
    "insiders": 2,
    "total_value": 5156625.0
@@ -4845,6 +4840,11 @@
    "ticker": "NYAX",
    "insiders": 2,
    "total_value": 4752698.02
+  },
+  {
+   "ticker": "SBLK",
+   "insiders": 2,
+   "total_value": 4206576.0
   },
   {
    "ticker": "ADC",
