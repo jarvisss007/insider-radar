@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-28 12:33 UTC",
+ "updated_utc": "2026-09-28 12:49 UTC",
  "purchases": [
-  {
-   "ticker": "LMB",
-   "company": "Limbach Holdings, Inc.",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 662.0,
-   "price": 51.25,
-   "value": 33927.5,
-   "acc": "0001104659-26-108006",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 3306.0,
-   "price": 10.92,
-   "value": 36101.52,
-   "acc": "0001510281-26-000304",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "BZUN",
    "company": "Baozun Inc.",
@@ -4460,6 +4436,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "ANIX",
+   "company": "Anixa Biosciences Inc",
+   "insider": "KUMAR AMIT",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-24",
+   "shares": 7000.0,
+   "price": 2.78,
+   "value": 19460.0,
+   "acc": "0001493152-26-044458",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "EDRY",
    "company": "EuroDry Ltd.",
    "insider": "Pittas Aristeidis P",
@@ -4712,6 +4700,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "DX",
+   "company": "DYNEX CAPITAL INC",
+   "insider": "Connelly Terrence John JR",
+   "role": "Chief Investment Officer",
+   "date": "2026-09-25",
+   "shares": 2500.0,
+   "price": 11.18,
+   "value": 27950.0,
+   "acc": "0000826675-26-000107",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "RSI",
    "company": "Rush Street Interactive, Inc.",
    "insider": "Markell Jack A.",
@@ -4910,6 +4910,11 @@
    "total_value": 175040.73
   },
   {
+   "ticker": "ANIX",
+   "insiders": 3,
+   "total_value": 165166.84
+  },
+  {
    "ticker": "EU",
    "insiders": 2,
    "total_value": 156350.0
@@ -4918,11 +4923,6 @@
    "ticker": "MCFT",
    "insiders": 3,
    "total_value": 146774.4
-  },
-  {
-   "ticker": "ANIX",
-   "insiders": 2,
-   "total_value": 145706.84
   },
   {
    "ticker": "VFF",
