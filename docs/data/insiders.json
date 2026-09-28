@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-09-28 21:47 UTC",
+ "updated_utc": "2026-09-28 22:03 UTC",
  "purchases": [
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Pappas Alexandros",
-   "role": "",
-   "date": "2026-09-15",
-   "shares": 74400.0,
-   "price": 28.27,
-   "value": 2103288.0,
-   "acc": "0002107497-26-000002",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Pappa Milena Maria",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 74400.0,
-   "price": 28.27,
-   "value": 2103288.0,
-   "acc": "0002113812-26-000003",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "CV",
-   "company": "CapsoVision, Inc",
-   "insider": "Shen Ching Hang",
-   "role": "10% owner",
-   "date": "2026-09-15",
-   "shares": 878734.0,
-   "price": 5.69,
-   "value": 4999996.46,
-   "acc": "0002102304-26-000003",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "FOX",
-   "company": "Fox Corp",
-   "insider": "MURDOCH LACHLAN K",
-   "role": "Executive Chair, CEO",
-   "date": "2026-09-15",
-   "shares": 149934.0,
-   "price": 68.53,
-   "value": 10274977.02,
-   "acc": "0001628280-26-062330",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "ISBA",
-   "company": "ISABELLA BANK CORP",
-   "insider": "Bourland Jill",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 7.6142,
-   "price": 39.4,
-   "value": 300.0,
-   "acc": "0000842517-26-000220",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-16",
-   "shares": 1.0,
-   "price": 352.36,
-   "value": 352.36,
-   "acc": "0001437749-26-030615",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-09-16",
-   "shares": 10900.0,
-   "price": 0.048,
-   "value": 523.2,
-   "acc": "0001035422-26-000012",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4217,6 +4133,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "INR",
+   "company": "INFINITY NATURAL RESOURCES, INC.",
+   "insider": "Baetz Cary D",
+   "role": "EVP and CFO",
+   "date": "2026-09-24",
+   "shares": 22000.0,
+   "price": 13.441,
+   "value": 295702.0,
+   "acc": "0002029118-26-000113",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4435,6 +4363,18 @@
   {
    "ticker": "FNWD",
    "company": "Finward Bancorp",
+   "insider": "Scheub Todd M.",
+   "role": "Executive Vice President",
+   "date": "2026-09-25",
+   "shares": 32.3643,
+   "price": 43.48,
+   "value": 1407.2,
+   "acc": "0001628280-26-063755",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "FNWD",
+   "company": "Finward Bancorp",
    "insider": "Lowry Robert T",
    "role": "Executive Vice President",
    "date": "2026-09-25",
@@ -4467,6 +4407,18 @@
    "value": 3852.03,
    "acc": "0001536588-26-000034",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "INR",
+   "company": "INFINITY NATURAL RESOURCES, INC.",
+   "insider": "Baetz Cary D",
+   "role": "EVP and CFO",
+   "date": "2026-09-25",
+   "shares": 316.0,
+   "price": 13.58,
+   "value": 4291.28,
+   "acc": "0002029118-26-000113",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "DFDV",
@@ -4661,6 +4613,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-25",
+   "shares": 2176.0,
+   "price": 99.5988,
+   "value": 216726.99,
+   "acc": "0001366074-26-000004",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "DMRA",
    "company": "Damora Therapeutics, Inc.",
    "insider": "Jarrett Jennifer",
@@ -4682,6 +4646,18 @@
    "price": 7.5017,
    "value": 290510.83,
    "acc": "0001766478-26-000056",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-25",
+   "shares": 3324.0,
+   "price": 98.8659,
+   "value": 328630.25,
+   "acc": "0001366074-26-000004",
    "filed": "2026-09-28"
   },
   {
@@ -4803,6 +4779,30 @@
    "value": 187.0,
    "acc": "0001035422-26-000014",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-28",
+   "shares": 1500.0,
+   "price": 98.8803,
+   "value": 148320.45,
+   "acc": "0001366074-26-000004",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-28",
+   "shares": 3000.0,
+   "price": 101.702,
+   "value": 305106.0,
+   "acc": "0001366074-26-000004",
+   "filed": "2026-09-28"
   }
  ],
  "clusters": [
@@ -4822,11 +4822,6 @@
    "total_value": 18526466.14
   },
   {
-   "ticker": "CV",
-   "insiders": 2,
-   "total_value": 14999995.07
-  },
-  {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
    "insiders": 2,
    "total_value": 10033323.16
@@ -4842,11 +4837,6 @@
    "total_value": 4752698.02
   },
   {
-   "ticker": "SBLK",
-   "insiders": 2,
-   "total_value": 4206576.0
-  },
-  {
    "ticker": "ADC",
    "insiders": 2,
    "total_value": 1876521.6
@@ -4855,6 +4845,11 @@
    "ticker": "HHH",
    "insiders": 2,
    "total_value": 1667427.5
+  },
+  {
+   "ticker": "INBX",
+   "insiders": 2,
+   "total_value": 1498783.69
   },
   {
    "ticker": "BWMX",
@@ -4943,8 +4938,8 @@
   },
   {
    "ticker": "FNWD",
-   "insiders": 3,
-   "total_value": 2287.39
+   "insiders": 4,
+   "total_value": 3694.59
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
@@ -4959,10 +4954,6 @@
   }
  ],
  "seen": [
-  "0001957659-26-000011",
-  "0001957684-26-000011",
-  "0001957887-26-000002",
-  "0001958010-26-000010",
   "0001958644-26-000028",
   "0001958644-26-000030",
   "0001958857-26-000003",
@@ -6556,6 +6547,7 @@
   "0002029059-26-000010",
   "0002029118-26-000077",
   "0002029118-26-000104",
+  "0002029118-26-000113",
   "0002029196-26-000011",
   "0002029214-26-000011",
   "0002029288-26-000004",
@@ -7398,10 +7390,12 @@
   "0002087126-26-000006",
   "0002087126-26-000009",
   "0002087126-26-000011",
+  "0002087126-26-000015",
   "0002087127-26-000004",
   "0002087127-26-000006",
   "0002087127-26-000009",
   "0002087127-26-000011",
+  "0002087127-26-000013",
   "0002087376-26-000012",
   "0002087387-26-000002",
   "0002087595-26-000002",
@@ -7709,6 +7703,7 @@
   "0002124509-26-000004",
   "0002124509-26-000008",
   "0002124509-26-000010",
+  "0002124509-26-000012",
   "0002124755-26-000007",
   "0002124863-26-000003",
   "0002125027-26-000004",
