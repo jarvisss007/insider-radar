@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-28 14:23 UTC",
+ "updated_utc": "2026-09-28 14:39 UTC",
  "purchases": [
-  {
-   "ticker": "CAVA",
-   "company": "CAVA GROUP, INC.",
-   "insider": "KADOW JOSEPH JOHN",
-   "role": "CLO & Secretary",
-   "date": "2026-09-15",
-   "shares": 1000.0,
-   "price": 49.96,
-   "value": 49960.0,
-   "acc": "0001628280-26-062235",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "TELA",
    "company": "TELA Bio, Inc.",
@@ -4604,6 +4592,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Staloch Alison",
+   "role": "Treasurer",
+   "date": "2026-09-25",
+   "shares": 42.0168,
+   "price": 11.9,
+   "value": 500.0,
+   "acc": "0001213900-26-103844",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4971,8 +4971,8 @@
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 2,
-   "total_value": 700.51
+   "insiders": 3,
+   "total_value": 1200.51
   },
   {
    "ticker": "XBP",
@@ -4988,7 +4988,6 @@
   }
  ],
  "seen": [
-  "0001951059-26-000013",
   "0001951059-26-000016",
   "0001951288-26-000004",
   "0001951665-26-000018",
@@ -7881,6 +7880,7 @@
   "0002143569-26-000007",
   "0002143744-26-000003",
   "0002143781-26-000007",
+  "0002143852-26-000005",
   "0002143887-26-000005",
   "0002143905-26-000003",
   "0002143947-26-000004",
