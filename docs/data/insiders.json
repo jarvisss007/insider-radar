@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-28 10:28 UTC",
+ "updated_utc": "2026-09-28 11:15 UTC",
  "purchases": [
-  {
-   "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
-   "company": "Stellus Private Credit BDC",
-   "insider": "D'Angelo Dean",
-   "role": "",
-   "date": "2026-09-15",
-   "shares": 2124.0,
-   "price": 15.25,
-   "value": 32391.0,
-   "acc": "0001104659-26-108261",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "ALP",
    "company": "Alpha Compute Corp",
@@ -4748,6 +4736,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "DMRA",
+   "company": "Damora Therapeutics, Inc.",
+   "insider": "Jarrett Jennifer",
+   "role": "Director, President and CEO",
+   "date": "2026-09-25",
+   "shares": 12500.0,
+   "price": 20.23,
+   "value": 252875.0,
+   "acc": "0001193125-26-403355",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4943,11 +4943,6 @@
    "ticker": "BFRG",
    "insiders": 2,
    "total_value": 71342.5
-  },
-  {
-   "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
-   "insiders": 2,
-   "total_value": 71248.0
   },
   {
    "ticker": "ADAG",
