@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-28 23:37 UTC",
+ "updated_utc": "2026-09-28 23:52 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "RICCARDI CHRIS",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 300.0,
-   "price": 1.8887,
-   "value": 566.61,
-   "acc": "0001199835-26-000355",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4049,6 +4037,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "PDI",
+   "company": "PIMCO Dynamic Income Fund",
+   "insider": "Rappaport Alan",
+   "role": "Director",
+   "date": "2026-09-24",
+   "shares": 5500.0,
+   "price": 13.7554,
+   "value": 75654.7,
+   "acc": "0001495443-26-000007",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4890,6 +4890,11 @@
    "ticker": "ATCH",
    "insiders": 5,
    "total_value": 162524.19
+  },
+  {
+   "ticker": "PDI",
+   "insiders": 2,
+   "total_value": 155540.2
   },
   {
    "ticker": "VFF",
