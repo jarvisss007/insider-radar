@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-28 12:49 UTC",
+ "updated_utc": "2026-09-28 13:20 UTC",
  "purchases": [
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Wu Junhua",
-   "role": "Chief Strategy Officer",
-   "date": "2026-09-15",
-   "shares": 13900.0,
-   "price": 2.73,
-   "value": 37947.0,
-   "acc": "0001104659-26-108384",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
    "company": "Stellus Private Credit BDC",
@@ -4700,6 +4688,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "FINS",
+   "company": "Angel Oak Financial Strategies Income Term Trust",
+   "insider": "Parks Kevin",
+   "role": "",
+   "date": "2026-09-25",
+   "shares": 1000.0,
+   "price": 11.9,
+   "value": 11900.0,
+   "acc": "0001816321-26-000004",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "Connelly Terrence John JR",
@@ -4933,11 +4933,6 @@
    "ticker": "BUKS",
    "insiders": 3,
    "total_value": 123259.57
-  },
-  {
-   "ticker": "BZUN",
-   "insiders": 2,
-   "total_value": 117938.0
   },
   {
    "ticker": "RGCO",
