@@ -1,163 +1,6 @@
 {
- "updated_utc": "2026-09-28 19:09 UTC",
+ "updated_utc": "2026-09-28 20:11 UTC",
  "purchases": [
-  {
-   "ticker": "AAON",
-   "company": "AAON, INC.",
-   "insider": "Stewart David Raymond",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 1000.0,
-   "price": 74.66,
-   "value": 74660.0,
-   "acc": "0001887897-26-000003",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "MCFT",
-   "company": "MasterCraft Boat Holdings, Inc.",
-   "insider": "Lambert Roch",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 3845.0,
-   "price": 19.51,
-   "value": 75015.95,
-   "acc": "0001193125-26-393042",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CROX",
-   "company": "Crocs, Inc.",
-   "insider": "SMACH THOMAS J",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 680.0,
-   "price": 111.49,
-   "value": 75813.2,
-   "acc": "0001194106-26-000014",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Plakantonaki Charis",
-   "role": "Chief Strategy Officer",
-   "date": "2026-09-15",
-   "shares": 3000.0,
-   "price": 28.27,
-   "value": 84810.0,
-   "acc": "0001978604-26-000008",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "XBP",
-   "company": "XBP Global Holdings, Inc.",
-   "insider": "Jonovic Andrej",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-15",
-   "shares": 31500.0,
-   "price": 2.83,
-   "value": 89145.0,
-   "acc": "0001104659-26-108649",
-   "filed": "2026-09-17",
-   "placement": true
-  },
-  {
-   "ticker": "WULF",
-   "company": "TERAWULF INC.",
-   "insider": "Bucella Michael C.",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 6085.0,
-   "price": 14.785,
-   "value": 89966.73,
-   "acc": "0001628280-26-062352",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "CROX",
-   "company": "Crocs, Inc.",
-   "insider": "KAPLAN BETH J",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 885.0,
-   "price": 112.1215,
-   "value": 99227.53,
-   "acc": "0001247154-26-000005",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "RWT",
-   "company": "REDWOOD TRUST INC",
-   "insider": "Carillo Brooke",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-15",
-   "shares": 26065.0,
-   "price": 3.8457,
-   "value": 100238.17,
-   "acc": "0001862739-26-000004",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "Heshmatpour Amir F",
-   "role": "CEO, President",
-   "date": "2026-09-15",
-   "shares": 35000.0,
-   "price": 3.297,
-   "value": 115395.0,
-   "acc": "0001213900-26-100269",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "GAM",
-   "company": "GENERAL AMERICAN INVESTORS CO INC",
-   "insider": "Stark Eugene S",
-   "role": "VP Administration",
-   "date": "2026-09-15",
-   "shares": 5000.0,
-   "price": 24.0,
-   "value": 120000.0,
-   "acc": "0000040417-26-000047",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "SKIL",
-   "company": "Skillsoft Corp.",
-   "insider": "FRANKOLA JIM",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 25000.0,
-   "price": 5.1438,
-   "value": 128595.0,
-   "acc": "0001183231-26-000011",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "LMB",
-   "company": "Limbach Holdings, Inc.",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 3346.0,
-   "price": 50.6069,
-   "value": 169330.69,
-   "acc": "0001104659-26-108006",
-   "filed": "2026-09-15"
-  },
-  {
-   "ticker": "SBLK",
-   "company": "Star Bulk Carriers Corp.",
-   "insider": "Erhardt Koert",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 6000.0,
-   "price": 28.27,
-   "value": 169620.0,
-   "acc": "0001333848-26-000003",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
@@ -4340,6 +4183,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 80.0,
+   "price": 251.2225,
+   "value": 20097.8,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4362,6 +4217,18 @@
    "value": 23099.58,
    "acc": "0002127484-26-000018",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 160.0,
+   "price": 252.5638,
+   "value": 40410.21,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "AEF",
@@ -4410,6 +4277,18 @@
    "value": 65374.75,
    "acc": "0000075288-26-000095",
    "filed": "2026-09-24"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 322.0,
+   "price": 250.1501,
+   "value": 80548.33,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "DFDV",
@@ -4472,6 +4351,30 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 15052.0,
+   "price": 248.8463,
+   "value": 3745634.51,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 17647.0,
+   "price": 247.2621,
+   "value": 4363434.28,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Nechmad Yair",
@@ -4482,6 +4385,18 @@
    "value": 4607722.77,
    "acc": "0001976408-26-000865",
    "filed": "2026-09-24"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 42495.0,
+   "price": 247.9635,
+   "value": 10537208.93,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "LEN",
@@ -4616,6 +4531,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 35.0,
+   "price": 253.85,
+   "value": 8884.75,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4700,6 +4627,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 315.0,
+   "price": 250.5352,
+   "value": 78918.59,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4721,6 +4660,18 @@
    "price": 12.9247,
    "value": 129247.0,
    "acc": "0001445546-26-007146",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 857.0,
+   "price": 248.692,
+   "value": 213129.04,
+   "acc": "0000905148-26-004278",
    "filed": "2026-09-28"
   },
   {
@@ -4748,6 +4699,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 2337.0,
+   "price": 249.629,
+   "value": 583382.97,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "NCT",
    "company": "Intercont (Cayman) Ltd",
    "insider": "Zhu Muchun",
@@ -4760,6 +4723,30 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 3011.0,
+   "price": 247.7805,
+   "value": 746067.09,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 13517.0,
+   "price": 253.0237,
+   "value": 3420121.35,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "CX",
    "company": "CEMEX SAB DE CV",
    "insider": "Zambrano Lozano Rogelio",
@@ -4770,6 +4757,18 @@
    "value": 6926304.96,
    "acc": "0002035244-26-000009",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 30460.0,
+   "price": 252.3511,
+   "value": 7686614.51,
+   "acc": "0000905148-26-004278",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "LEN",
@@ -4836,8 +4835,8 @@
   },
   {
    "ticker": "SBLK",
-   "insiders": 7,
-   "total_value": 6863956.0
+   "insiders": 5,
+   "total_value": 6609526.0
   },
   {
    "ticker": "BORR",
@@ -4866,8 +4865,8 @@
   },
   {
    "ticker": "RWT",
-   "insiders": 4,
-   "total_value": 1312178.47
+   "insiders": 3,
+   "total_value": 1211940.3
   },
   {
    "ticker": "KRMN",
@@ -4882,17 +4881,12 @@
   {
    "ticker": "GAM",
    "insiders": 5,
-   "total_value": 672290.0
+   "total_value": 552290.0
   },
   {
    "ticker": "TH",
    "insiders": 2,
    "total_value": 375157.77
-  },
-  {
-   "ticker": "SKIL",
-   "insiders": 2,
-   "total_value": 303253.26
   },
   {
    "ticker": "FTHY",
@@ -4910,11 +4904,6 @@
    "total_value": 181751.12
   },
   {
-   "ticker": "CROX",
-   "insiders": 2,
-   "total_value": 175040.73
-  },
-  {
    "ticker": "ANIX",
    "insiders": 3,
    "total_value": 165166.84
@@ -4928,11 +4917,6 @@
    "ticker": "EU",
    "insiders": 2,
    "total_value": 111850.0
-  },
-  {
-   "ticker": "MCFT",
-   "insiders": 2,
-   "total_value": 99974.4
   },
   {
    "ticker": "RGCO",
@@ -4976,9 +4960,9 @@
   },
   {
    "ticker": "XBP",
-   "insiders": 3,
+   "insiders": 2,
    "total_value": 0,
-   "other_value": 874017.2
+   "other_value": 784872.2
   },
   {
    "ticker": "BCBP",
@@ -4988,20 +4972,12 @@
   }
  ],
  "seen": [
-  "0001953063-26-000009",
-  "0001953086-26-000006",
-  "0001954190-26-000005",
-  "0001954216-26-000005",
-  "0001954239-26-000002",
-  "0001954320-26-000013",
-  "0001954327-26-000043",
-  "0001954327-26-000046",
-  "0001954584-26-000019",
   "0001954584-26-000021",
   "0001954584-26-000023",
   "0001954722-26-000003",
   "0001954722-26-000004",
   "0001954883-26-000013",
+  "0001955335-26-000012",
   "0001955392-26-000008",
   "0001956006-26-000003",
   "0001957238-26-000016",
@@ -5194,6 +5170,7 @@
   "0001974200-26-000012",
   "0001974200-26-000013",
   "0001974234-26-000007",
+  "0001974687-26-000006",
   "0001974756-26-000004",
   "0001974756-26-000006",
   "0001974777-26-000016",
@@ -6275,6 +6252,7 @@
   "0001999371-26-021393",
   "0001999371-26-021424",
   "0001999371-26-021427",
+  "0001999371-26-021438",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6709,6 +6687,7 @@
   "0002037278-26-000008",
   "0002037312-26-000003",
   "0002037321-26-000003",
+  "0002037332-26-000009",
   "0002038003-26-000003",
   "0002038003-26-000006",
   "0002038202-26-000014",
@@ -7055,6 +7034,7 @@
   "0002068229-26-000015",
   "0002068307-26-000004",
   "0002068352-26-000007",
+  "0002068365-26-000009",
   "0002068536-26-000004",
   "0002068884-26-000007",
   "0002069148-26-000002",
@@ -7329,6 +7309,7 @@
   "0002078580-26-000008",
   "0002078700-26-000002",
   "0002078707-26-000004",
+  "0002078870-26-000008",
   "0002079093-26-000001",
   "0002079332-26-000004",
   "0002079445-26-000015",
@@ -7442,6 +7423,7 @@
   "0002087850-26-000008",
   "0002087925-26-000006",
   "0002088410-26-000008",
+  "0002088468-26-000006",
   "0002088547-26-000010",
   "0002088549-26-000007",
   "0002088549-26-000010",
@@ -7560,6 +7542,7 @@
   "0002105635-26-000008",
   "0002105935-26-000007",
   "0002106395-26-000005",
+  "0002106809-26-000005",
   "0002106873-26-000012",
   "0002107246-26-000012",
   "0002107261-26-000011",
@@ -7958,6 +7941,7 @@
   "0002150553-26-000005",
   "0002150553-26-000007",
   "0002150553-26-000009",
+  "0002150557-26-000002",
   "0002150921-26-000004",
   "0002151121-26-000004",
   "0002151232-26-000002",
