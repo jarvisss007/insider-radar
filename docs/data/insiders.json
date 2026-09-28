@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-28 13:36 UTC",
+ "updated_utc": "2026-09-28 14:07 UTC",
  "purchases": [
-  {
-   "ticker": "STELLUS PRIVATE CREDIT BDC (CIK 1901037)",
-   "company": "Stellus Private Credit BDC",
-   "insider": "Ladd Robert T.",
-   "role": "CEO and President",
-   "date": "2026-09-15",
-   "shares": 2548.0,
-   "price": 15.25,
-   "value": 38857.0,
-   "acc": "0001104659-26-108263",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Loh Michael Anthony",
-   "role": "Director",
-   "date": "2026-09-15",
-   "shares": 10000.0,
-   "price": 3.91,
-   "value": 39100.0,
-   "acc": "0002033348-26-000012",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "ALP",
-   "company": "Alpha Compute Corp",
-   "insider": "Villani Fiorenzo",
-   "role": "See Remarks",
-   "date": "2026-09-15",
-   "shares": 10382.0,
-   "price": 4.0708,
-   "value": 42263.05,
-   "acc": "0001171843-26-006099",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "EU",
-   "company": "enCore Energy Corp.",
-   "insider": "SHERIFF WILLIAM M",
-   "role": "Executive Chairman",
-   "date": "2026-09-15",
-   "shares": 50000.0,
-   "price": 0.89,
-   "value": 44500.0,
-   "acc": "0001193125-26-393086",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "MCFT",
-   "company": "MasterCraft Boat Holdings, Inc.",
-   "insider": "Nelson Bradley M.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-15",
-   "shares": 2400.0,
-   "price": 19.5,
-   "value": 46800.0,
-   "acc": "0001193125-26-393047",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "CAVA",
    "company": "CAVA GROUP, INC.",
@@ -4364,6 +4304,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 500.0,
+   "price": 10.85,
+   "value": 5425.0,
+   "acc": "0001510281-26-000312",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4433,6 +4385,18 @@
    "price": 2.78,
    "value": 19460.0,
    "acc": "0001493152-26-044458",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 1049.0,
+   "price": 20.69,
+   "value": 21703.81,
+   "acc": "0001510281-26-000313",
    "filed": "2026-09-28"
   },
   {
@@ -4700,6 +4664,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 834.0,
+   "price": 20.74,
+   "value": 17297.16,
+   "acc": "0001510281-26-000313",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "Connelly Terrence John JR",
@@ -4722,6 +4698,18 @@
    "value": 29025.0,
    "acc": "0001705859-26-000006",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 5256.0,
+   "price": 10.74,
+   "value": 56449.44,
+   "acc": "0001510281-26-000312",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "GPUS",
@@ -4806,6 +4794,18 @@
    "value": 25352361.1,
    "acc": "0001193125-26-403089",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-09-28",
+   "shares": 3400.0,
+   "price": 0.055,
+   "value": 187.0,
+   "acc": "0001035422-26-000014",
+   "filed": "2026-09-28"
   }
  ],
  "clusters": [
@@ -4915,29 +4915,29 @@
    "total_value": 165166.84
   },
   {
-   "ticker": "EU",
-   "insiders": 2,
-   "total_value": 156350.0
-  },
-  {
-   "ticker": "MCFT",
-   "insiders": 3,
-   "total_value": 146774.4
-  },
-  {
    "ticker": "VFF",
    "insiders": 2,
    "total_value": 131838.5
   },
   {
-   "ticker": "BUKS",
-   "insiders": 3,
-   "total_value": 123259.57
+   "ticker": "EU",
+   "insiders": 2,
+   "total_value": 111850.0
+  },
+  {
+   "ticker": "MCFT",
+   "insiders": 2,
+   "total_value": 99974.4
   },
   {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 85087.95
+  },
+  {
+   "ticker": "BUKS",
+   "insiders": 2,
+   "total_value": 84159.57
   },
   {
    "ticker": "BFRG",
@@ -4988,7 +4988,6 @@
   }
  ],
  "seen": [
-  "0001950787-26-000012",
   "0001950787-26-000014",
   "0001950787-26-000016",
   "0001950993-26-000006",
@@ -5341,6 +5340,7 @@
   "0001978319-26-000001",
   "0001978319-26-000002",
   "0001978586-26-000006",
+  "0001978586-26-000007",
   "0001978604-26-000006",
   "0001978604-26-000007",
   "0001978604-26-000008",
