@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-09-28 22:19 UTC",
+ "updated_utc": "2026-09-28 23:05 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "RICCARDI CHRIS",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 300.0,
-   "price": 1.87,
-   "value": 561.0,
-   "acc": "0001199835-26-000355",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "RICCARDI CHRIS",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 300.0,
-   "price": 1.8787,
-   "value": 563.61,
-   "acc": "0001199835-26-000355",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "RICCARDI CHRIS",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 300.0,
-   "price": 1.8799,
-   "value": 563.97,
-   "acc": "0001199835-26-000355",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "RICCARDI CHRIS",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 300.0,
-   "price": 1.88,
-   "value": 564.0,
-   "acc": "0001199835-26-000355",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -696,6 +648,18 @@
    "value": 972.0,
    "acc": "0001214659-26-011835",
    "filed": "2026-09-21"
+  },
+  {
+   "ticker": "CBDS",
+   "company": "Dogecoin Cash, Inc.",
+   "insider": "TOBIAS DAVID",
+   "role": "CEO",
+   "date": "2026-09-17",
+   "shares": 125000.0,
+   "price": 0.008,
+   "value": 1000.0,
+   "acc": "0001096906-26-001459",
+   "filed": "2026-09-28"
   },
   {
    "ticker": "GPUS",
@@ -4001,6 +3965,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-24",
+   "shares": 1135.0,
+   "price": 20.45,
+   "value": 23210.75,
+   "acc": "0000937797-26-000032",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "PODC",
    "company": "PodcastOne, Inc.",
    "insider": "MERRIMAN D JONATHAN",
@@ -4637,6 +4613,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 13362.0,
+   "price": 20.4418,
+   "value": 273143.33,
+   "acc": "0000937797-26-000032",
+   "filed": "2026-09-28"
+  },
+  {
    "ticker": "AOMR",
    "company": "Angel Oak Mortgage REIT, Inc.",
    "insider": "Fierman Michael",
@@ -4790,6 +4778,18 @@
    "price": 98.8803,
    "value": 148320.45,
    "acc": "0001366074-26-000004",
+   "filed": "2026-09-28"
+  },
+  {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 7945.0,
+   "price": 20.4279,
+   "value": 162299.67,
+   "acc": "0000937797-26-000032",
    "filed": "2026-09-28"
   },
   {
@@ -4954,7 +4954,6 @@
   }
  ],
  "seen": [
-  "0001958644-26-000028",
   "0001958644-26-000030",
   "0001958857-26-000003",
   "0001959033-26-000014",
@@ -5010,6 +5009,7 @@
   "0001964741-26-000004",
   "0001964741-26-000005",
   "0001964789-26-000038",
+  "0001964789-26-000040",
   "0001964855-26-000016",
   "0001964921-26-000004",
   "0001965040-26-000103",
