@@ -19,6 +19,12 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
    (one pass, no `--loop`) and confirm it exits cleanly. It updates
    `docs/data/insiders.json` (keys: `purchases`, `clusters`, `updated_utc`).
 
+1b. **Fill queued calls (INS-020 / REG-PP-002)**: run
+   `/opt/anaconda3/bin/python /Users/anupampatil/insider-radar/agent/stale_quote.py --fill-queued`
+   — every open `[QUEUED` row gets the first official open after its registration (a
+   zero-volume bar is skipped, never a fill). Then run `price_audit.py --open-only` and
+   report its INS-020 reference line (REF_OK / REF_MISMATCH / REF_LEGACY / REF_PENDING).
+
 2. **Score due calls**: open `agent/ledger.csv`. For every row where
    `check_date <= today` and `outcome` is empty: fetch the ticker's latest
    daily close from Yahoo's free chart endpoint (same style as
@@ -49,7 +55,11 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
    2026-08-20: this lab's rows are fundamental information by construction — an SEC
    Form 4 purchase — and the lab declares that itself rather than letting the
    Observatory guess; the column was added to every prior row the same day),
-   `price_at_call` = latest daily close from the Yahoo endpoint above,
+   `price_at_call` = the price the INS-014/INS-020 rule owes, written THROUGH
+   `stale_quote.append_call()` (never by hand): the call-day's SETTLED close if the
+   run is after that close settled; otherwise pass whatever you read and the write
+   path QUEUES the row (blank price, `[QUEUED at <time> PT]`, your live print kept
+   only as a disclosure) to be filled at the next official open — see §INS-020 below,
    thesis under 15 words STARTING with `[insider]` (state insider count and
    total value, e.g. `[insider] 2 insiders bought $22.0M within 14d`),
    `price_at_check` and `outcome` empty, and `stale_quote` filled per the
@@ -279,3 +289,27 @@ the SEC ticker, and take price_at_call from the SEC ticker's call-day bar (INS-0
 exclusions.csv with its reason (INS-007), exactly as before. First entry: CYBN -> HELP (Cybin Inc., CIK 1833141). Its cluster
 (2 insiders, $7.24M, filings 09-09 to 09-11) is logged at the next SESSION run, never on a weekend (SESSION-001).
 
+
+
+## INS-020 — THE REFERENCE PRICE, MADE EXECUTABLE (ruled 2026-09-27, option a)
+The morning run fires at ~08:35 PT, mid-session, so a "latest" Yahoo price is a LIVE print. 35 of
+39 open rows dated 2026-09-14..09-21 froze one as the 30-day reference (BENF 0.7331 vs a 0.562
+close). Ruled: the 34 priceable rows were restated pre-outcome to the price SS INS-014 owes — the
+FIRST OFFICIAL OPEN after registration (REG-PP-002), not the call-day close — with the original kept
+on each row (`agent/restate_ins020.py`; GREE has no price series and was left for /void-row).
+From now on:
+- `append_call()` accepts a blank `price_at_call` ONLY on a `[QUEUED]` row (INS-007 still refuses
+  every other blank), and it QUEUES any row whose call-day close has not settled at write time,
+  moving the live print into the thesis. A priced row is therefore always a settled call-day close.
+- `stale_quote.py --fill-queued` fills queued rows at step 1b of every run. Idempotent.
+- `price_audit.py` caches open/close/volume for SETTLED days only and tests every open row against
+  the owed price; a mismatch on a row dated 2026-09-28 or later FAILS the audit. Older open rows
+  that mismatch are listed as REF_LEGACY — their disposal is Anupam's ruling, never a side effect.
+
+## INS-019 — FORECASTS: THE CHECK DATE GOVERNS (ruled 2026-09-27, option a)
+Write every forecast through `agent/forecast_write.py` (`append_forecast(row)`): it sets
+`check_date` to the LAST date the question names, refuses a question with no date or one that
+resolves on a non-session, and refuses a row dated a non-session (MORN-006). The estate grader
+(`~/bin/resolve_forecasts.py`) reads this lab's close ON the recorded check_date — it no longer takes
+the resolution date from the question text. `forecast_write.py --check` lists any open row whose
+check_date and question disagree (exit 1).
