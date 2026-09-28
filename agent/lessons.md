@@ -1605,3 +1605,10 @@ conservative behaviour, and the one the council said to keep until Anupam rules.
   runs' live prints); 09-25 has not opened. Two-writer hazard is REAL here: a session-end sweep committed and
   pushed this run's ledger rows at 20:53 mid-run, and `collector_edgar.py --loop 15 --push` (pid 1746) is live
   and auto-commits docs/data. No clobber observed (append_call appends; forecasts via atomicio hold_book).
+
+## 2026-09-28 [insider]
+- **Ledger: 0 scored.** 10 rows check 2026-09-28 (NGL, SCOR, BXSY, APCX, YORW, MAIR, VENU, SLNH, UNB, BMRA); the
+  run is mid-session, so their check-day close is not settled — they score at the next run, not off a live print.
+- **Forecast XBP (p 0.20) → NO**: −4.31% vs a 20% bar. Book n=33, Brier skill −0.054 (no skill).
+- 3 clusters logged QUEUED (FTHY $0.26M, DFDV $0.18M headline; ADAG $0.07M sub-floor); Fundrise already a disclosed exclusion.
+- Headline stratum 51% (n=75, 19 entry days) — a coin flip, and a long-only coin flip in a rising tape.
