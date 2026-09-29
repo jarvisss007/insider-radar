@@ -25,34 +25,19 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
    zero-volume bar is skipped, never a fill). Then run `price_audit.py --open-only` and
    report its INS-020 reference line (REF_OK / REF_MISMATCH / REF_LEGACY / REF_PENDING).
 
-2. **Read the graded calls — never grade them (INS-018, ruled by Anupam 2026-09-29, option a
-   "one grader only")**: `~/bin/grade_all_due.py` is the ONLY grader of `agent/ledger.csv`. It runs
-   by launchd (`com.anupam.grade-all-due`, 13:40 PT daily, via `~/bin/grade-all-due.sh`) and
-   grades a row only at a SETTLED check date, from the official close of that session, with the
-   INS-015 guards (a zero-volume carry-forward bar or an unprinted/NaN close never grades), the
-   SESSION-001 roll for a non-session check date, and the split guard. This step does NOT fetch a
-   price and does NOT write `price_at_check` or `outcome` — not from Yahoo, not from any feed, not
-   by hand, and not for a row that looks overdue. Two readers of one outcome is the defect this
-   ruling removed: a graded row is frozen (BENCH-002), so whichever reader got there first would
-   decide it.
-   What you do instead: read the rows the grader has scored since the last brief (for the
-   scorecard and step 3), and read its last run in `~/bin/logs/grade-all-due.log`. A row whose
-   `check_date` has passed and is still blank is EITHER not settled yet (normal for a row due
-   today at the 08:35 run) OR listed by the grader as `DUE BUT UNPRICEABLE` — name it in the brief
-   with the grader's stated reason and leave it blank. If the log is missing or its newest run is
-   older than the last settled session, say "grader BROKEN/stale" in the brief; never cover for it
-   by grading.
-   **A check date with no price is never `wrong`.** INS-012 (ruled by Anupam 2026-08-29): "VOID the
-   GRML row, and register a standing rule: a check date with no official close in the feed rolls
-   forward to the next session that has a bar, disclosed on the row." The grader implements that
-   roll on this ledger (stamp `[INS-012 ROLL: ...]` on the row, `check_date` kept as registered).
-   A ticker that never prints again (delisted, never tradeable) has no outcome to score: it is a
-   disposal through /void-row (`outcome=void`, reason on the row, excluded from every hit rate,
-   never a third outcome — INS-007), decided by Anupam's ruling, never by this agent. The old
-   instruction that scored a delisted or unfetchable ticker as a loss is withdrawn (INS-012/INS-018).
-   Never edit or delete old rows otherwise.
+2. **Score due calls**: open `agent/ledger.csv`. For every row where
+   `check_date <= today` and `outcome` is empty: fetch the ticker's latest
+   daily close from Yahoo's free chart endpoint (same style as
+   stock-radar/collector.py):
+   `https://query1.finance.yahoo.com/v8/finance/chart/{TICKER}?range=3mo&interval=1d`
+   → `d["chart"]["result"][0]["indicators"]["quote"][0]["close"]`, take the
+   close on (or first close after) `check_date`. Fill `price_at_check`, set
+   `outcome` to `right` iff `price_at_check > price_at_call`, else `wrong`.
+   No excuses, no "almost", no "it was up until last week". A delisted or
+   unfetchable ticker is scored `wrong` — clusters in stocks that vanish are
+   part of the signal's real-world record. Never edit or delete old rows otherwise.
 
-3. **Update lessons**: if the grader scored anything since the last brief (read in step 2), append dated, blunt takeaways to
+3. **Update lessons**: if you scored anything, append dated, blunt takeaways to
    `agent/lessons.md` — running hit rate, any visible pattern (e.g. clusters in
    micro-caps score worse, big-dollar clusters score better, CEO-included
    clusters differ). Sign entries `[insider]`.
@@ -102,9 +87,9 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
    outcomes are visible. This field removes that judgement.
 
    It is a DISCLOSURE column and nothing else. It changes no bar, drops no row,
-   excludes nothing, and scores nothing differently — the grader (step 2,
-   INS-018) still marks `right` iff `price_at_check > price_at_call`, for
-   flagged rows exactly as for clean ones. Do not use it to filter the ledger or adjust a hit rate
+   excludes nothing, and scores nothing differently — step 2 still marks
+   `right` iff `price_at_check > price_at_call`, for flagged rows exactly as
+   for clean ones. Do not use it to filter the ledger or adjust a hit rate
    unless Anupam decides otherwise; report flagged and unflagged rows side by
    side instead. Never back-edit an already-written `stale_quote`.
 
@@ -174,11 +159,8 @@ Format: `date,instrument,horizon_days,question,p,check_date,outcome,notes`
 - Prefer questions you are actually unsure about. Forecasting 0.99 on a
   near-certainty scores well and teaches nothing.
 
-**Scoring:** `~/bin/resolve_forecasts.py` (13:40 PT, same launchd job as the ledger grader) is
-the ONE resolver of this lab's `agent/forecasts.csv` (INS-018 one-reader rule, 2026-09-29; the
-check date governs per INS-019). Do not set `outcome` on a forecast row yourself — at the 08:35
-run a row due today is still mid-session. If a due row stays open after its settled session, the
-resolver has listed it as unparsed: name it in the brief and leave it. Then run:
+**Scoring:** on each run, resolve every row whose `check_date <= today` by
+setting `outcome` to 1 (YES) or 0 (NO), mechanically. Then run:
 
 ```
 /opt/anaconda3/bin/python ~/bin/score_forecasts.py --lab insider-radar
@@ -270,7 +252,7 @@ and why it could not be scored. They are excluded from every hit rate, and
 
 ## Attribution — the information-to-outcome join (built 2026-08-17, Anupam's ask)
 
-After the grader has scored anything (read in step 2), run:
+After ANY scoring pass (step 2), run:
     /opt/anaconda3/bin/python attribution.py
 It rebuilds agent/attribution.csv — every call joined to the cluster features
 that existed ON THE CALL DATE (vintage feed from git history, no lookahead):
