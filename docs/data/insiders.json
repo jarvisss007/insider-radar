@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-29 21:01 UTC",
+ "updated_utc": "2026-09-29 21:17 UTC",
  "purchases": [
-  {
-   "ticker": "BWMX",
-   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
-   "insider": "CHEVALLIER ANDRES CAMPOS",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-09-16",
-   "shares": 15000.0,
-   "price": 16.4996,
-   "value": 247494.0,
-   "acc": "0001213900-26-101012",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "RWT",
    "company": "REDWOOD TRUST INC",
@@ -4637,6 +4625,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "Edell Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-28",
+   "shares": 2000.0,
+   "price": 0.6444,
+   "value": 1288.8,
+   "acc": "0001628280-26-063849",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4857,11 +4857,6 @@
    "total_value": 1498783.69
   },
   {
-   "ticker": "BWMX",
-   "insiders": 2,
-   "total_value": 822950.0
-  },
-  {
    "ticker": "GAM",
    "insiders": 5,
    "total_value": 552290.0
@@ -4959,8 +4954,6 @@
   }
  ],
  "seen": [
-  "0001962926-26-000009",
-  "0001962944-26-000009",
   "0001963638-26-000011",
   "0001963701-26-000009",
   "0001963781-26-000012",
@@ -6254,6 +6247,7 @@
   "0002001557-26-000165",
   "0002001557-26-000167",
   "0002001557-26-000169",
+  "0002001557-26-000179",
   "0002002093-26-000010",
   "0002002093-26-000012",
   "0002002426-26-000001",
@@ -7271,6 +7265,7 @@
   "0002078265-26-000399",
   "0002078265-26-000407",
   "0002078265-26-000408",
+  "0002078265-26-000415",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
