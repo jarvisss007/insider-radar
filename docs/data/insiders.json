@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-29 14:39 UTC",
+ "updated_utc": "2026-09-29 14:55 UTC",
  "purchases": [
-  {
-   "ticker": "GIPR",
-   "company": "GENERATION INCOME PROPERTIES, INC.",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "date": "2026-09-16",
-   "shares": 6960.0,
-   "price": 0.574,
-   "value": 3995.04,
-   "acc": "0001475597-26-000247",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "TBLD",
-   "company": "Thornburg Income Builder Opportunities Trust",
-   "insider": "Kritzmire Anne W.",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 300.0,
-   "price": 20.78,
-   "value": 6234.0,
-   "acc": "0001873387-26-000004",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
@@ -4517,6 +4493,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "CRAFX",
+   "company": "Cascade Real Assets Fund",
+   "insider": "Williams Paul Jay",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 8000.0,
+   "price": 10.0,
+   "value": 80000.0,
+   "acc": "0001213900-26-104418",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4575,6 +4563,18 @@
    "value": 216726.99,
    "acc": "0001366074-26-000004",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "CRAFX",
+   "company": "Cascade Real Assets Fund",
+   "insider": "Williams Paul Jay",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 22000.0,
+   "price": 10.0,
+   "value": 220000.0,
+   "acc": "0001213900-26-104418",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "DMRA",
