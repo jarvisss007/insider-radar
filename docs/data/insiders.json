@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-29 11:01 UTC",
+ "updated_utc": "2026-09-29 11:16 UTC",
  "purchases": [
-  {
-   "ticker": "BRID",
-   "company": "BRIDGFORD FOODS CORP",
-   "insider": "Bridgford Allan Jr.",
-   "role": "",
-   "date": "2026-09-16",
-   "shares": 326.0,
-   "price": 5.9,
-   "value": 1923.4,
-   "acc": "0001493152-26-043108",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "CBK",
-   "company": "Commercial Bancgroup, Inc.",
-   "insider": "Robertson John Adam",
-   "role": "Executive Chairperson",
-   "date": "2026-09-16",
-   "shares": 70.0,
-   "price": 32.685,
-   "value": 2287.95,
-   "acc": "0000898432-26-000710",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
@@ -4397,6 +4373,18 @@
    "filed": "2026-09-25"
   },
   {
+   "ticker": "DTIL",
+   "company": "PRECISION BIOSCIENCES INC",
+   "insider": "Brown Melinda",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 1135.0,
+   "price": 6.27,
+   "value": 7116.45,
+   "acc": "0001628280-26-063767",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4467,6 +4455,18 @@
    "value": 12136.3,
    "acc": "0001493152-26-044631",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "DTIL",
+   "company": "PRECISION BIOSCIENCES INC",
+   "insider": "Germano Geno J",
+   "role": "Director",
+   "date": "2026-09-25",
+   "shares": 2609.0,
+   "price": 6.28,
+   "value": 16384.52,
+   "acc": "0001628280-26-063766",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "MXF",
@@ -4932,6 +4932,11 @@
    "total_value": 36423.72
   },
   {
+   "ticker": "DTIL",
+   "insiders": 2,
+   "total_value": 23500.97
+  },
+  {
    "ticker": "RVSB",
    "insiders": 3,
    "total_value": 20585.68
@@ -4939,7 +4944,7 @@
   {
    "ticker": "BRID",
    "insiders": 2,
-   "total_value": 9777.9
+   "total_value": 7854.5
   },
   {
    "ticker": "FNWD",
@@ -4959,9 +4964,6 @@
   }
  ],
  "seen": [
-  "0001958644-26-000030",
-  "0001958857-26-000003",
-  "0001959033-26-000014",
   "0001959033-26-000016",
   "0001959033-26-000018",
   "0001959251-26-000004",
@@ -6229,6 +6231,9 @@
   "0001999371-26-021453",
   "0001999371-26-021457",
   "0001999371-26-021458",
+  "0001999371-26-021479",
+  "0001999371-26-021482",
+  "0001999371-26-021483",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
