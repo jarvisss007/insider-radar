@@ -25,17 +25,12 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
    zero-volume bar is skipped, never a fill). Then run `price_audit.py --open-only` and
    report its INS-020 reference line (REF_OK / REF_MISMATCH / REF_LEGACY / REF_PENDING).
 
-2. **Score due calls**: open `agent/ledger.csv`. For every row where
-   `check_date <= today` and `outcome` is empty: fetch the ticker's latest
-   daily close from Yahoo's free chart endpoint (same style as
-   stock-radar/collector.py):
-   `https://query1.finance.yahoo.com/v8/finance/chart/{TICKER}?range=3mo&interval=1d`
-   → `d["chart"]["result"][0]["indicators"]["quote"][0]["close"]`, take the
-   close on (or first close after) `check_date`. Fill `price_at_check`, set
-   `outcome` to `right` iff `price_at_check > price_at_call`, else `wrong`.
-   No excuses, no "almost", no "it was up until last week". A delisted or
-   unfetchable ticker is scored `wrong` — clusters in stocks that vanish are
-   part of the signal's real-world record. Never edit or delete old rows otherwise.
+2. **Score due calls — by the grader, never by hand (INS-018).** `~/bin/grade_all_due.py` (launchd com.anupam.grade-all-due, 13:40 PT) is the only writer of `price_at_check` and `outcome` on this ledger. Never fetch a close yourself and never write either field; read what it graded and stalled in `~/bin/logs/grade-all-due.log` and report both in the brief. The rule it implements is unchanged and every clause is the grader's:
+- At a SETTLED check date, take the official close on `check_date`; set `outcome` to `right` iff `price_at_check > price_at_call`, else `wrong`. No excuses, no "almost", no "it was up until last week".
+- A check date with no official close in the feed rolls forward to the first close after it — the next session that has a traded bar — disclosed on the row (INS-012, Anupam 2026-08-29). `check_date` is never rewritten. A zero-volume carry-forward bar or an unprinted (NaN) close is not a close (INS-015).
+- A delisted or unfetchable ticker is scored `wrong` — clusters in stocks that vanish are part of the signal's real-world record. *Unfetchable* = the source returns no series for the ticker while the same run prices SPY (INS-007's test). *Delisted* = an SEC Form 25 or 25-NSE for the issuer, effective on or before the graded session, with no traded bar after `check_date`. The row names its evidence.
+- A failed fetch proves nothing and scores nothing: the row stalls and the log names it.
+- Never edit or delete old rows otherwise.
 
 3. **Update lessons**: if you scored anything, append dated, blunt takeaways to
    `agent/lessons.md` — running hit rate, any visible pattern (e.g. clusters in
@@ -159,8 +154,7 @@ Format: `date,instrument,horizon_days,question,p,check_date,outcome,notes`
 - Prefer questions you are actually unsure about. Forecasting 0.99 on a
   near-certainty scores well and teaches nothing.
 
-**Scoring:** on each run, resolve every row whose `check_date <= today` by
-setting `outcome` to 1 (YES) or 0 (NO), mechanically. Then run:
+**Scoring:** `~/bin/resolve_forecasts.py` (INS-019) is the only resolver; never set `outcome` yourself. Then run:
 
 ```
 /opt/anaconda3/bin/python ~/bin/score_forecasts.py --lab insider-radar

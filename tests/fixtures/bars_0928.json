@@ -715,5 +715,18 @@
    ]
   ],
   "splits": []
- }
+ },
+ "_recorded_0928_closes": {
+  "NGL": 14.88,
+  "SCOR": 4.86,
+  "BXSY": 17.25,
+  "APCX": 0.24,
+  "YORW": 30.62,
+  "MAIR": 24.97,
+  "VENU": 1.43,
+  "SLNH": 1.18,
+  "UNB": 23.14,
+  "BMRA": 2.39
+ },
+ "_note": "Frozen 2026-09-29 ~08:50 PT from yfinance, window cd-10..settled+1 for cd=settled=2026-09-28. The 09-28 close is overridden by _recorded_0928_closes: the close the 13:40 PT grader wrote (price_at_check, log move%). Yahoo has since revised BXSY 09-28 to 17.21 and APCX to 0.235; the recorded rows stand (BENCH-002)."
 }

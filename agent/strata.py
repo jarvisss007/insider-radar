@@ -156,6 +156,13 @@ def main():
         print("  below the floor — reported, never folded into the headline:")
         for u, t, d in sub:
             print(f"    {d}  {t:<6} ${u:,.0f}")
+    # INS-018: a `wrong` row with a blank price_at_check is a delisted/unfetchable name scored per AGENT.md
+    # step 2. It is already counted in every hit rate above (outcome is what counts); this file computes no
+    # return mean, so there is nothing to exclude from - it is only disclosed.
+    k = sum(1 for r in rows if (r.get("outcome") or "").strip() == "wrong" and not (r.get("price_at_check") or "").strip())
+    if k:
+        print(f"\n  hit rates include {k} delisted/unfetchable row(s) scored wrong with no price; "
+              f"any return mean excludes {k} delisted rows (return unknown).")
     print("\n  There is deliberately NO combined hit rate in this output. If asked for "
           "\"the\"\n  insider hit rate, give both strata with their n.")
 

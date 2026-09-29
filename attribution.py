@@ -121,9 +121,12 @@ def main():
             cache[d] = feed_as_of(d)
         feed, commit = cache[d]
         f = features(feed, r["ticker"], d, r.get("price_at_call")) if feed else None
+        # INS-018: a `wrong` row with a blank price is a delisted/unfetchable name scored per AGENT.md step 2.
+        # It counts in every hit rate; its return is unknown, so it is left out of return means (disclosed).
+        _bw = (r.get("outcome") or "").strip() == "wrong" and not (r.get("price_at_check") or "").strip()
         rows.append({"book": "ledger", "date": d, "ticker": r["ticker"],
                      "call": r.get("call", ""), "outcome": (r.get("outcome") or "").strip(),
-                     "ret_pct": ret_pct(r), "vintage_commit": commit,
+                     "ret_pct": ret_pct(r), "vintage_commit": commit, "_blank_wrong": _bw,
                      "note": "" if f else "vintage feed lacks this ticker — counted, not dropped",
                      **(f or {k: "" for k in ["n_insiders", "total_usd", "max_single_usd",
                                               "ceo", "cfo", "director_only", "pct_placement",
@@ -146,7 +149,7 @@ def main():
                                                   "avg_purchase_px", "runup_at_call_pct",
                                                   "days_filed_to_call"]})})
     with open(OUT, "w", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=COLS)
+        w = csv.DictWriter(fh, fieldnames=COLS, extrasaction="ignore")   # _blank_wrong is in-memory only
         w.writeheader()
         w.writerows(rows)
 
@@ -157,7 +160,8 @@ def main():
     # statistics is not a disposal. strata.py already used the allowlist form; this
     # file did not, so the two disagreed about what "scored" means (INS-012, 2026-08-29).
     scored = [r for r in rows
-              if (r.get("outcome") or "").strip() in ("right", "wrong") and r["ret_pct"] != ""]
+              if (r.get("outcome") or "").strip() in ("right", "wrong")
+              and (r["ret_pct"] != "" or r.get("_blank_wrong"))]
     print(f"attribution: {len(rows)} calls joined ({len(have)} with vintage features, "
           f"{len(rows)-len(have)} disclosed as unrecoverable), {len(scored)} scored")
 
@@ -166,11 +170,14 @@ def main():
             g = [r for r in scored if r["n_insiders"] != "" and pred(r)]
             if not g:
                 return
-            wins = sum(1 for r in g if float(r["ret_pct"]) > 0)
-            avg = sum(float(r["ret_pct"]) for r in g) / len(g)
+            known = [r for r in g if r["ret_pct"] != ""]
+            k = len(g) - len(known)          # INS-018: wrong, price blank -> a miss in the hit rate, no return
+            wins = sum(1 for r in known if float(r["ret_pct"]) > 0)
+            avg = (sum(float(r["ret_pct"]) for r in known) / len(known)) if known else None
             dates = len({r["date"] for r in g})
             print(f"    {name:<28} n={len(g):<3} dates={dates:<3} "
-                  f"hit {100*wins/len(g):3.0f}%  avg {avg:+.1f}%")
+                  f"hit {100*wins/len(g):3.0f}%  avg {'  n/a' if avg is None else f'{avg:+.1f}%'}"
+                  + (f"  (avg excludes {k} delisted rows (return unknown))" if k else ""))
         print("  strata (n counts rows, dates is the honest denominator; "
               "n<30 proves nothing):")
         split("big cluster (>= $5M)", lambda r: float(r["total_usd"]) >= 5e6)
