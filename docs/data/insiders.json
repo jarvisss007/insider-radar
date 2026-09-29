@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-29 13:36 UTC",
+ "updated_utc": "2026-09-29 14:07 UTC",
  "purchases": [
-  {
-   "ticker": "TOFB",
-   "company": "TOFUTTI BRANDS INC",
-   "insider": "A-6684 Ltd.",
-   "role": "10% owner",
-   "date": "2026-09-16",
-   "shares": 10000.0,
-   "price": 0.34,
-   "value": 3400.0,
-   "acc": "0001994334-26-000014",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "SEID PAUL",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 689.0,
-   "price": 5.1,
-   "value": 3513.9,
-   "acc": "0001493152-26-043332",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -4767,6 +4743,30 @@
    "value": 187.0,
    "acc": "0001035422-26-000014",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 1272.0,
+   "price": 10.73,
+   "value": 13648.56,
+   "acc": "0001510281-26-000315",
+   "filed": "2026-09-29"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 4133.0,
+   "price": 20.74,
+   "value": 85718.42,
+   "acc": "0001510281-26-000314",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "INBX",
