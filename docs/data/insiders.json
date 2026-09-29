@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-29 20:29 UTC",
+ "updated_utc": "2026-09-29 20:45 UTC",
  "purchases": [
-  {
-   "ticker": "ADAG",
-   "company": "Adagene Inc.",
-   "insider": "Luo Peter",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-16",
-   "shares": 20290.0,
-   "price": 3.1533,
-   "value": 63980.46,
-   "acc": "0001104659-26-108386",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "TENX",
-   "company": "TENAX THERAPEUTICS, INC.",
-   "insider": "Doogan Declan",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 53000.0,
-   "price": 1.92,
-   "value": 101760.0,
-   "acc": "0001193125-26-394831",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-16",
-   "shares": 6403.0,
-   "price": 20.63,
-   "value": 132093.89,
-   "acc": "0001510281-26-000305",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "THM",
    "company": "INTERNATIONAL TOWER HILL MINES LTD",
@@ -2177,6 +2141,18 @@
    "filed": "2026-09-23"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-09-21",
+   "shares": 67878.0,
+   "price": 11.963,
+   "value": 812024.51,
+   "acc": "0001398344-26-017538",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "GRAB",
    "company": "Grab Holdings Ltd",
    "insider": "Hungate Alexander Charles",
@@ -2607,6 +2583,18 @@
    "value": 132500.0,
    "acc": "0001571123-26-000145",
    "filed": "2026-09-22"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-09-22",
+   "shares": 111885.0,
+   "price": 12.0205,
+   "value": 1344913.64,
+   "acc": "0001398344-26-017538",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "GSHD",
@@ -4803,6 +4791,18 @@
    "value": 305106.0,
    "acc": "0001366074-26-000004",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "Horne William B.",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-29",
+   "shares": 100000.0,
+   "price": 0.168,
+   "value": 16800.0,
+   "acc": "0001214659-26-012204",
+   "filed": "2026-09-29"
   }
  ],
  "clusters": [
@@ -4835,6 +4835,11 @@
    "ticker": "NYAX",
    "insiders": 2,
    "total_value": 4876177.83
+  },
+  {
+   "ticker": "BPRE",
+   "insiders": 2,
+   "total_value": 2281460.47
   },
   {
    "ticker": "ADC",
@@ -4882,6 +4887,11 @@
    "total_value": 165166.84
   },
   {
+   "ticker": "GPUS",
+   "insiders": 2,
+   "total_value": 163394.46
+  },
+  {
    "ticker": "ATCH",
    "insiders": 5,
    "total_value": 162524.19
@@ -4910,11 +4920,6 @@
    "ticker": "BFRG",
    "insiders": 2,
    "total_value": 71342.5
-  },
-  {
-   "ticker": "ADAG",
-   "insiders": 2,
-   "total_value": 69980.46
   },
   {
    "ticker": "CULP",
