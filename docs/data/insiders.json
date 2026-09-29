@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-29 15:43 UTC",
+ "updated_utc": "2026-09-29 15:58 UTC",
  "purchases": [
-  {
-   "ticker": "KRMN",
-   "company": "Karman Holdings Inc.",
-   "insider": "Twitty Stephen",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 275.0,
-   "price": 36.79,
-   "value": 10117.25,
-   "acc": "0001193125-26-395095",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "INM",
    "company": "InMed Pharmaceuticals Inc.",
@@ -4733,6 +4721,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "OVLY",
+   "company": "Oak Valley Bancorp",
+   "insider": "Leonard Daniel J",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 125.0,
+   "price": 34.03,
+   "value": 4253.75,
+   "acc": "0001437749-26-031435",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4858,8 +4858,8 @@
   },
   {
    "ticker": "KRMN",
-   "insiders": 3,
-   "total_value": 1036485.3
+   "insiders": 2,
+   "total_value": 1026368.05
   },
   {
    "ticker": "GAM",
