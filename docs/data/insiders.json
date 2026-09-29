@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-29 15:11 UTC",
+ "updated_utc": "2026-09-29 15:27 UTC",
  "purchases": [
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-16",
-   "shares": 4452.0,
-   "price": 1.54,
-   "value": 6856.08,
-   "acc": "0001553350-26-000129",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "SCM",
-   "company": "Stellus Capital Investment Corp",
-   "insider": "Arnoult J Tim",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 1000.0,
-   "price": 7.97,
-   "value": 7970.0,
-   "acc": "0001104659-26-108591",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "HLEO",
-   "company": "Helio Corp /FL/",
-   "insider": "Knauf Mark Harry",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-16",
-   "shares": 5166.0,
-   "price": 1.55,
-   "value": 8007.3,
-   "acc": "0001683168-26-007242",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "SKIL",
-   "company": "Skillsoft Corp.",
-   "insider": "HOVSEPIAN RONALD W",
-   "role": "CEO & Executive Chair",
-   "date": "2026-09-16",
-   "shares": 1421.0,
-   "price": 5.8958,
-   "value": 8377.93,
-   "acc": "0001091482-26-000013",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "RVSB",
-   "company": "RIVERVIEW BANCORP INC",
-   "insider": "Graham Stacey",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 1750.0,
-   "price": 5.6999,
-   "value": 9974.83,
-   "acc": "0001833500-26-000002",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "KRMN",
    "company": "Karman Holdings Inc.",
@@ -2741,6 +2681,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Ben-Avi David",
+   "role": "CTO and Co Founder",
+   "date": "2026-09-22",
+   "shares": 1554.0,
+   "price": 43.182,
+   "value": 67104.83,
+   "acc": "0001976408-26-000873",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "PDI",
    "company": "PIMCO Dynamic Income Fund",
    "insider": "Morris Sonya",
@@ -3195,6 +3147,18 @@
    "value": 30150.82,
    "acc": "0001976408-26-000864",
    "filed": "2026-09-24"
+  },
+  {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Ben-Avi David",
+   "role": "CTO and Co Founder",
+   "date": "2026-09-23",
+   "shares": 700.0,
+   "price": 43.0726,
+   "value": 30150.82,
+   "acc": "0001976408-26-000873",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "GF",
@@ -3677,6 +3641,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Ben-Avi David",
+   "role": "CTO and Co Founder",
+   "date": "2026-09-24",
+   "shares": 100.0,
+   "price": 42.0906,
+   "value": 4209.06,
+   "acc": "0001976408-26-000873",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -3819,6 +3795,18 @@
    "value": 21703.81,
    "acc": "0001510281-26-000313",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Ben-Avi David",
+   "role": "CTO and Co Founder",
+   "date": "2026-09-24",
+   "shares": 500.0,
+   "price": 44.0302,
+   "value": 22015.1,
+   "acc": "0001976408-26-000873",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "EDRY",
@@ -4757,6 +4745,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "FTHY",
+   "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
+   "insider": "HOUSEY WILLIAM A JR",
+   "role": "",
+   "date": "2026-09-28",
+   "shares": 2500.0,
+   "price": 12.865,
+   "value": 32162.5,
+   "acc": "0001445546-26-007166",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4834,7 +4834,7 @@
   {
    "ticker": "NYAX",
    "insiders": 2,
-   "total_value": 4752698.02
+   "total_value": 4876177.83
   },
   {
    "ticker": "ADC",
@@ -4869,7 +4869,7 @@
   {
    "ticker": "FTHY",
    "insiders": 2,
-   "total_value": 261610.72
+   "total_value": 293773.22
   },
   {
    "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
@@ -4938,8 +4938,8 @@
   },
   {
    "ticker": "RVSB",
-   "insiders": 3,
-   "total_value": 20585.68
+   "insiders": 2,
+   "total_value": 10610.85
   },
   {
    "ticker": "BRID",
@@ -4964,7 +4964,6 @@
   }
  ],
  "seen": [
-  "0001960181-26-000002",
   "0001960415-26-000008",
   "0001960652-26-000009",
   "0001960742-26-000002",
@@ -5231,6 +5230,7 @@
   "0001976408-26-000870",
   "0001976408-26-000871",
   "0001976408-26-000872",
+  "0001976408-26-000873",
   "0001976540-26-000008",
   "0001976572-26-000005",
   "0001976672-26-000057",
