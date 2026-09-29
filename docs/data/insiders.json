@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-29 17:33 UTC",
+ "updated_utc": "2026-09-29 17:49 UTC",
  "purchases": [
-  {
-   "ticker": "ALP",
-   "company": "Alpha Compute Corp",
-   "insider": "Villani Fiorenzo",
-   "role": "See Remarks",
-   "date": "2026-09-16",
-   "shares": 4265.0,
-   "price": 4.05,
-   "value": 17273.25,
-   "acc": "0001171843-26-006099",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "PODC",
    "company": "PodcastOne, Inc.",
@@ -4709,6 +4697,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 1.0,
+   "price": 340.12,
+   "value": 340.12,
+   "acc": "0001437749-26-031441",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4964,8 +4964,6 @@
   }
  ],
  "seen": [
-  "0001960415-26-000008",
-  "0001960652-26-000009",
   "0001960742-26-000002",
   "0001960794-26-000002",
   "0001960971-26-000003",
@@ -6234,6 +6232,8 @@
   "0001999371-26-021488",
   "0001999371-26-021492",
   "0001999371-26-021494",
+  "0001999371-26-021504",
+  "0001999371-26-021505",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
