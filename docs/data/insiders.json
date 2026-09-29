@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-29 21:17 UTC",
+ "updated_utc": "2026-09-29 21:33 UTC",
  "purchases": [
-  {
-   "ticker": "RWT",
-   "company": "REDWOOD TRUST INC",
-   "insider": "Robinson Dashiell I",
-   "role": "President",
-   "date": "2026-09-16",
-   "shares": 63211.13,
-   "price": 3.98,
-   "value": 251580.3,
-   "acc": "0001716998-26-000004",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "GLP",
-   "company": "GLOBAL PARTNERS LP",
-   "insider": "Global GP LLC",
-   "role": "",
-   "date": "2026-09-16",
-   "shares": 5000.0,
-   "price": 50.55,
-   "value": 252750.0,
-   "acc": "0001339396-26-000084",
-   "filed": "2026-09-16"
-  },
   {
    "ticker": "ACOG",
    "company": "Alpha Cognition Inc.",
@@ -4553,6 +4529,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "COUR",
+   "company": "Coursera, Inc.",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 1332742.0,
+   "price": 5.0639,
+   "value": 6748872.21,
+   "acc": "0000921895-26-002677",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "CX",
    "company": "CEMEX SAB DE CV",
    "insider": "Zambrano Lozano Rogelio",
@@ -4793,6 +4781,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "COUR",
+   "company": "Coursera, Inc.",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 1000000.0,
+   "price": 4.6062,
+   "value": 4606200.0,
+   "acc": "0000921895-26-002677",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "GME",
    "company": "GameStop Corp.",
    "insider": "Cohen Ryan",
@@ -4954,7 +4954,6 @@
   }
  ],
  "seen": [
-  "0001963638-26-000011",
   "0001963701-26-000009",
   "0001963781-26-000012",
   "0001963901-26-000003",
@@ -7803,6 +7802,7 @@
   "0002137144-26-000006",
   "0002137444-26-000007",
   "0002137699-26-000004",
+  "0002137798-26-000006",
   "0002137987-26-000003",
   "0002138148-26-000002",
   "0002138368-26-000005",
