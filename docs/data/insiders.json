@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-09-29 19:57 UTC",
+ "updated_utc": "2026-09-29 20:13 UTC",
  "purchases": [
-  {
-   "ticker": "KRMN",
-   "company": "Karman Holdings Inc.",
-   "insider": "Petryszyn Mary D",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 500.0,
-   "price": 37.4399,
-   "value": 18719.95,
-   "acc": "0001193125-26-395097",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Qiu Wenbin",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-16",
-   "shares": 7300.0,
-   "price": 2.74,
-   "value": 20002.0,
-   "acc": "0001104659-26-108719",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-16",
-   "shares": 125000.0,
-   "price": 0.1832,
-   "value": 22900.0,
-   "acc": "0001214659-26-011758",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "EML",
-   "company": "EASTERN CO",
-   "insider": "EVERETS JOHN",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 1037.0,
-   "price": 25.25,
-   "value": 26184.25,
-   "acc": "0000031107-26-000041",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "EML",
-   "company": "EASTERN CO",
-   "insider": "Galbato Chan",
-   "role": "Director",
-   "date": "2026-09-16",
-   "shares": 1217.0,
-   "price": 25.25,
-   "value": 30729.25,
-   "acc": "0000031107-26-000039",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "EPSN",
-   "company": "Epsilon Energy Ltd.",
-   "insider": "Stabell Jason",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-16",
-   "shares": 8207.0,
-   "price": 5.88,
-   "value": 48257.16,
-   "acc": "0001104659-26-109383",
-   "filed": "2026-09-21"
-  },
   {
    "ticker": "HDSN",
    "company": "HUDSON TECHNOLOGIES INC /NY",
@@ -2657,6 +2585,18 @@
    "filed": "2026-09-24"
   },
   {
+   "ticker": "AMFN",
+   "company": "American Fusion, Inc.",
+   "insider": "Rossa Alexander William",
+   "role": "",
+   "date": "2026-09-22",
+   "shares": 842775.0,
+   "price": 0.102,
+   "value": 85963.05,
+   "acc": "0001079973-26-001308",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "VFF",
    "company": "Village Farms International, Inc.",
    "insider": "DEGIGLIO MICHAEL A",
@@ -4349,6 +4289,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "SWZ",
+   "company": "Total Return Securities Fund",
+   "insider": "Dakos Andrew",
+   "role": "President and CEO",
+   "date": "2026-09-25",
+   "shares": 2351.0,
+   "price": 5.82,
+   "value": 13682.82,
+   "acc": "0001398344-26-017532",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "DTIL",
    "company": "PRECISION BIOSCIENCES INC",
    "insider": "Germano Geno J",
@@ -4407,6 +4359,18 @@
    "value": 39798.0,
    "acc": "0001493152-26-044536",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "SWZ",
+   "company": "Total Return Securities Fund",
+   "insider": "Dakos Andrew",
+   "role": "President and CEO",
+   "date": "2026-09-25",
+   "shares": 7649.0,
+   "price": 5.81,
+   "value": 44440.69,
+   "acc": "0001398344-26-017532",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "GF",
@@ -4733,6 +4697,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "SWZ",
+   "company": "Total Return Securities Fund",
+   "insider": "Dakos Andrew",
+   "role": "President and CEO",
+   "date": "2026-09-28",
+   "shares": 1000.0,
+   "price": 5.76,
+   "value": 5760.0,
+   "acc": "0001398344-26-017532",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4745,6 +4721,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "AHRT",
+   "company": "AH Realty Trust, Inc.",
+   "insider": "Wittman Lori",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 3000.0,
+   "price": 5.945,
+   "value": 17835.0,
+   "acc": "0001569187-26-000154",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "FTHY",
    "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
    "insider": "HOUSEY WILLIAM A JR",
@@ -4754,6 +4742,18 @@
    "price": 12.865,
    "value": 32162.5,
    "acc": "0001445546-26-007166",
+   "filed": "2026-09-29"
+  },
+  {
+   "ticker": "SWZ",
+   "company": "Total Return Securities Fund",
+   "insider": "Dakos Andrew",
+   "role": "President and CEO",
+   "date": "2026-09-28",
+   "shares": 9000.0,
+   "price": 5.77,
+   "value": 51930.0,
+   "acc": "0001398344-26-017532",
    "filed": "2026-09-29"
   },
   {
@@ -4857,11 +4857,6 @@
    "total_value": 1069874.0
   },
   {
-   "ticker": "KRMN",
-   "insiders": 2,
-   "total_value": 1026368.05
-  },
-  {
    "ticker": "GAM",
    "insiders": 5,
    "total_value": 552290.0
@@ -4922,11 +4917,6 @@
    "total_value": 69980.46
   },
   {
-   "ticker": "EML",
-   "insiders": 2,
-   "total_value": 56913.5
-  },
-  {
    "ticker": "CULP",
    "insiders": 2,
    "total_value": 36423.72
@@ -4964,8 +4954,6 @@
   }
  ],
  "seen": [
-  "0001961877-26-000046",
-  "0001962136-26-000001",
   "0001962329-26-000057",
   "0001962643-26-000014",
   "0001962729-26-000004",
@@ -7151,6 +7139,7 @@
   "0002072270-26-000013",
   "0002072324-26-000010",
   "0002072552-26-000002",
+  "0002072552-26-000004",
   "0002073180-26-000006",
   "0002073270-26-000004",
   "0002073281-26-000010",
@@ -7585,6 +7574,7 @@
   "0002113531-26-000004",
   "0002113533-26-000004",
   "0002113543-26-000004",
+  "0002113543-26-000006",
   "0002113550-26-000005",
   "0002113721-26-000014",
   "0002113812-26-000003",
