@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-29 20:45 UTC",
+ "updated_utc": "2026-09-29 21:01 UTC",
  "purchases": [
-  {
-   "ticker": "THM",
-   "company": "INTERNATIONAL TOWER HILL MINES LTD",
-   "insider": "Wiens David Victor",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-16",
-   "shares": 83682.0,
-   "price": 2.39,
-   "value": 199999.98,
-   "acc": "0001123292-26-001319",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "ACOG",
-   "company": "Alpha Cognition Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-16",
-   "shares": 27141.0,
-   "price": 8.4,
-   "value": 227984.4,
-   "acc": "0001493152-26-042969",
-   "filed": "2026-09-16"
-  },
-  {
-   "ticker": "BWMX",
-   "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
-   "insider": "CHEVALLIER SANTIAGO CAMPOS",
-   "role": "MD Betterware Mexico",
-   "date": "2026-09-16",
-   "shares": 15000.0,
-   "price": 16.4616,
-   "value": 246924.0,
-   "acc": "0001213900-26-101015",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "BWMX",
    "company": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
@@ -4589,6 +4553,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-25",
+   "shares": 178840.0,
+   "price": 34.5232,
+   "value": 6174129.09,
+   "acc": "0001193125-26-407701",
+   "filed": "2026-09-29"
+  },
+  {
    "ticker": "CX",
    "company": "CEMEX SAB DE CV",
    "insider": "Zambrano Lozano Rogelio",
@@ -4803,18 +4779,42 @@
    "value": 16800.0,
    "acc": "0001214659-26-012204",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "GME",
+   "company": "GameStop Corp.",
+   "insider": "Cohen Ryan",
+   "role": "President, CEO and Chairman",
+   "date": "2026-09-29",
+   "shares": 3500.0,
+   "price": 23.4499,
+   "value": 82074.65,
+   "acc": "0000921895-26-002670",
+   "filed": "2026-09-29"
+  },
+  {
+   "ticker": "GME",
+   "company": "GameStop Corp.",
+   "insider": "Cohen Ryan",
+   "role": "President, CEO and Chairman",
+   "date": "2026-09-29",
+   "shares": 446500.0,
+   "price": 23.4753,
+   "value": 10481721.45,
+   "acc": "0000921895-26-002670",
+   "filed": "2026-09-29"
   }
  ],
  "clusters": [
   {
+   "ticker": "GME",
+   "insiders": 2,
+   "total_value": 37359476.1
+  },
+  {
    "ticker": "GRAB",
    "insiders": 2,
    "total_value": 30743148.65
-  },
-  {
-   "ticker": "GME",
-   "insiders": 2,
-   "total_value": 26795680.0
   },
   {
    "ticker": "BBD",
@@ -4858,8 +4858,8 @@
   },
   {
    "ticker": "BWMX",
-   "insiders": 3,
-   "total_value": 1069874.0
+   "insiders": 2,
+   "total_value": 822950.0
   },
   {
    "ticker": "GAM",
