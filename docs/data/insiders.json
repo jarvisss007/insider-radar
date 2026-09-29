@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-29 17:01 UTC",
+ "updated_utc": "2026-09-29 17:33 UTC",
  "purchases": [
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-16",
-   "shares": 1534.0,
-   "price": 10.88,
-   "value": 16689.92,
-   "acc": "0001510281-26-000304",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "ALP",
    "company": "Alpha Compute Corp",
@@ -4719,6 +4707,18 @@
    "value": 187.0,
    "acc": "0001035422-26-000014",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "RCG",
+   "company": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 756.0,
+   "price": 3.04,
+   "value": 2298.24,
+   "acc": "0001437749-26-031438",
+   "filed": "2026-09-29"
   },
   {
    "ticker": "OVLY",
