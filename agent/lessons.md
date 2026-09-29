@@ -1612,3 +1612,22 @@ conservative behaviour, and the one the council said to keep until Anupam rules.
 - **Forecast XBP (p 0.20) → NO**: −4.31% vs a 20% bar. Book n=33, Brier skill −0.054 (no skill).
 - 3 clusters logged QUEUED (FTHY $0.26M, DFDV $0.18M headline; ADAG $0.07M sub-floor); Fundrise already a disclosed exclusion.
 - Headline stratum 51% (n=75, 19 entry days) — a coin flip, and a long-only coin flip in a rising tape.
+
+## 2026-09-29 [insider]
+- **INS-018 in effect**: this run does NOT score ledger or forecast rows — that's grade_all_due.py /
+  resolve_forecasts.py's job (launchd 13:40 PT). Read-only check: `bin/logs/grade-all-due.log` shows
+  grade_all_due 09-28 graded 10/10 due ledger rows cleanly (right/wrong, no excuses); resolve_forecasts
+  09-28 SKIPPED BORR ("unparsed"). BORR (check_date 09-28) and now BBD (check_date 09-29) sit due-but-blank
+  for the reason named below.
+- **Grader regression found and named, not fixed here**: BORR/BBD/VFF/DFDV forecast questions use the
+  prose template `"Absolute T Ns-session move from V exceeds X% on D"`, which resolve_forecasts.py's regex
+  (A/W/C/R forms only) cannot parse — `SKIP (unparsed)` every run since filing. CV (09-24) and NYAX (09-25)
+  already use the grader-parseable `abs(T last on D / A - 1) >= X` form; DFDV (09-28) reverted to prose.
+  Today's PDI forecast is filed in the parseable form to stop adding to the pile. The writer template fix
+  is REG-PP-001 territory, escalated as an observation, not applied here.
+- **4 new clusters logged, all QUEUED (INS-020)**: ATCH (5 insiders, $162.5K), PDI (2, $155.5K), DTIL
+  (2, $23.5K), FNWD (4, $3.7K). All 4 eligible clusters (no open row, not excluded) were logged — none
+  dropped by a cap. Firm Brain §30 (directed 09-25, open since): the rule is every cluster in
+  docs/data/insiders.json with no currently-open ledger row and not on exclusions.csv, in the feed's own
+  order (descending total_value) — stated in full on today's PDI forecast row.
+- price_audit.py --open-only: REF_OK 83, REF_MISMATCH 0 — clean.
