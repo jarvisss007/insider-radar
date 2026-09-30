@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-30 14:04 UTC",
+ "updated_utc": "2026-09-30 14:36 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-17",
-   "shares": 12500.0,
-   "price": 0.177,
-   "value": 2212.5,
-   "acc": "0001214659-26-011836",
-   "filed": "2026-09-21"
-  },
   {
    "ticker": "CBKM",
    "company": "CONSUMERS BANCORP INC /OH/",
@@ -4804,6 +4792,18 @@
    "value": 10481721.45,
    "acc": "0000921895-26-002670",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "ANIX",
+   "company": "Anixa Biosciences Inc",
+   "insider": "Catelani Michael",
+   "role": "President, COO, & CFO",
+   "date": "2026-09-30",
+   "shares": 5500.0,
+   "price": 2.84,
+   "value": 15620.0,
+   "acc": "0001493152-26-045053",
+   "filed": "2026-09-30"
   }
  ],
  "clusters": [
@@ -4879,18 +4879,18 @@
   },
   {
    "ticker": "ANIX",
-   "insiders": 3,
-   "total_value": 165166.84
-  },
-  {
-   "ticker": "GPUS",
-   "insiders": 2,
-   "total_value": 163394.46
+   "insiders": 4,
+   "total_value": 180786.84
   },
   {
    "ticker": "ATCH",
    "insiders": 5,
    "total_value": 162524.19
+  },
+  {
+   "ticker": "GPUS",
+   "insiders": 2,
+   "total_value": 161181.96
   },
   {
    "ticker": "PDI",
@@ -4950,10 +4950,6 @@
   }
  ],
  "seen": [
-  "0001964406-26-000014",
-  "0001964417-26-000011",
-  "0001964474-26-000004",
-  "0001964477-26-000006",
   "0001964490-26-000012",
   "0001964493-26-000008",
   "0001964500-26-000010",
@@ -6198,6 +6194,10 @@
   "0001999371-26-021504",
   "0001999371-26-021505",
   "0001999371-26-021506",
+  "0001999371-26-021579",
+  "0001999371-26-021582",
+  "0001999371-26-021585",
+  "0001999371-26-021589",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
