@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-09-30 20:38 UTC",
+ "updated_utc": "2026-09-30 20:54 UTC",
  "purchases": [
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 1.0,
-   "price": 348.98,
-   "value": 348.98,
-   "acc": "0001437749-26-030861",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 166.0,
-   "price": 2.926,
-   "value": 485.72,
-   "acc": "0001536588-26-000033",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Booth Richard Whitaker",
-   "role": "",
-   "date": "2026-09-21",
-   "shares": 42.0168,
-   "price": 11.9,
-   "value": 500.0,
-   "acc": "0001213900-26-102144",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 100.0,
-   "price": 5.0724,
-   "value": 507.24,
-   "acc": "0001214659-26-011957",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 174.0,
-   "price": 3.9956,
-   "value": 695.23,
-   "acc": "0001628280-26-063060",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
@@ -3026,6 +2966,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "BBD",
+   "company": "BANK BRADESCO",
+   "insider": "Di Marcello Francesco",
+   "role": "Executive Officer",
+   "date": "2026-09-28",
+   "shares": 50.0,
+   "price": 17.66,
+   "value": 883.0,
+   "acc": "0001292814-26-004756",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "SNES",
    "company": "SenesTech, Inc.",
    "insider": "Edell Michael",
@@ -4107,6 +4059,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "BBD",
+   "company": "BANK BRADESCO",
+   "insider": "Di Marcello Francesco",
+   "role": "Executive Officer",
+   "date": "2026-09-28",
+   "shares": 56800.0,
+   "price": 17.65,
+   "value": 1002520.0,
+   "acc": "0001292814-26-004756",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4479,6 +4443,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "BBD",
+   "company": "BANK BRADESCO",
+   "insider": "Di Marcello Francesco",
+   "role": "Executive Officer",
+   "date": "2026-09-29",
+   "shares": 10.0,
+   "price": 17.56,
+   "value": 175.6,
+   "acc": "0001292814-26-004756",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "ASGI",
    "company": "abrdn Global Infrastructure Income Fund",
    "insider": "Baird Gordon A",
@@ -4527,6 +4503,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "BBD",
+   "company": "BANK BRADESCO",
+   "insider": "Di Marcello Francesco",
+   "role": "Executive Officer",
+   "date": "2026-09-29",
+   "shares": 300.0,
+   "price": 17.55,
+   "value": 5265.0,
+   "acc": "0001292814-26-004756",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4548,6 +4536,18 @@
    "price": 85.8855,
    "value": 7214.38,
    "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "ARR",
+   "company": "Armour Residential REIT, Inc.",
+   "insider": "Losyev Sergey",
+   "role": "Co-Chief Investment Officer",
+   "date": "2026-09-29",
+   "shares": 725.0,
+   "price": 13.91,
+   "value": 10084.75,
+   "acc": "0002016863-26-000011",
    "filed": "2026-09-30"
   },
   {
@@ -4933,16 +4933,9 @@
    "ticker": "FNWD",
    "insiders": 4,
    "total_value": 3694.59
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 2,
-   "total_value": 1000.0
   }
  ],
  "seen": [
-  "0001965586-26-000017",
-  "0001965808-26-000015",
   "0001965920-26-000007",
   "0001965926-26-000010",
   "0001965927-26-000007",
@@ -6396,6 +6389,7 @@
   "0002016416-26-000020",
   "0002016416-26-000022",
   "0002016813-26-000020",
+  "0002016863-26-000011",
   "0002016900-26-000030",
   "0002016900-26-000039",
   "0002016900-26-000042",
@@ -7889,6 +7883,7 @@
   "0002148161-26-000010",
   "0002148287-26-000002",
   "0002148361-26-000003",
+  "0002148361-26-000004",
   "0002148570-26-000003",
   "0002148580-26-000003",
   "0002148701-26-000008",
