@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-30 21:41 UTC",
+ "updated_utc": "2026-09-30 21:57 UTC",
  "purchases": [
-  {
-   "ticker": "TLYS",
-   "company": "TILLY'S, INC.",
-   "insider": "Henry Michael",
-   "role": "CFO",
-   "date": "2026-09-21",
-   "shares": 5000.0,
-   "price": 4.02,
-   "value": 20100.0,
-   "acc": "0001628280-26-062926",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "FMNB",
-   "company": "FARMERS NATIONAL BANC CORP /OH/",
-   "insider": "Richardson Gina A",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 1430.0,
-   "price": 15.35,
-   "value": 21950.5,
-   "acc": "0001437749-26-030864",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "RWAY",
-   "company": "Runway Growth Finance Corp.",
-   "insider": "Goldthorpe Edward J.",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 3749.0,
-   "price": 6.72,
-   "value": 25193.28,
-   "acc": "0001104659-26-109712",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "NSLR",
    "company": "Neostellar Capital Corp.",
@@ -2810,6 +2774,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "SEID PAUL",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 155.0,
+   "price": 5.15,
+   "value": 798.25,
+   "acc": "0001493152-26-045167",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "BBD",
    "company": "BANK BRADESCO",
    "insider": "Di Marcello Francesco",
@@ -3636,6 +3612,18 @@
    "price": 78.5681,
    "value": 233268.69,
    "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "CLPR",
+   "company": "Clipper Realty Inc.",
+   "insider": "Bistricer Jacob",
+   "role": "Chief Operating Officer",
+   "date": "2026-09-28",
+   "shares": 73500.0,
+   "price": 3.35,
+   "value": 246225.0,
+   "acc": "0001437749-26-031626",
    "filed": "2026-09-30"
   },
   {
@@ -4760,6 +4748,18 @@
    "value": 10481721.45,
    "acc": "0000921895-26-002670",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "SEID PAUL",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 29.0,
+   "price": 5.15,
+   "value": 149.35,
+   "acc": "0001493152-26-045167",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "KWY",
