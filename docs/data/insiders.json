@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-30 20:54 UTC",
+ "updated_utc": "2026-09-30 21:10 UTC",
  "purchases": [
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Monte Mark David",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 78.923,
-   "price": 10.13,
-   "value": 799.49,
-   "acc": "0001213900-26-102137",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "YORW",
-   "company": "YORK WATER CO",
-   "insider": "Brossman Douglas S",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 30.315,
-   "price": 32.987,
-   "value": 1000.0,
-   "acc": "0000108985-26-000083",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 451.0,
-   "price": 2.894,
-   "value": 1305.19,
-   "acc": "0001536588-26-000033",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "PPTINC",
    "company": "Presidio Property Trust, Inc.",
@@ -3267,6 +3231,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "UTI",
+   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+   "insider": "DEVINCENZI ROBERT THOMAS",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1000.0,
+   "price": 19.6775,
+   "value": 19677.5,
+   "acc": "0001193125-26-409200",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "MOALX",
    "company": "Lord Abbett Municipal Opportunities Fund",
    "insider": "Shuman Gregory M.",
@@ -4179,6 +4155,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 68968.0,
+   "price": 34.7561,
+   "value": 2397058.7,
+   "acc": "0001193125-26-409206",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4440,6 +4428,18 @@
    "price": 72.3873,
    "value": 20194464.18,
    "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 736814.0,
+   "price": 34.0962,
+   "value": 25122557.51,
+   "acc": "0001193125-26-409206",
    "filed": "2026-09-30"
   },
   {
@@ -4936,13 +4936,6 @@
   }
  ],
  "seen": [
-  "0001965920-26-000007",
-  "0001965926-26-000010",
-  "0001965927-26-000007",
-  "0001965929-26-000007",
-  "0001965935-26-000001",
-  "0001965994-26-000004",
-  "0001965994-26-000006",
   "0001966530-26-000010",
   "0001966530-26-000012",
   "0001966698-26-000008",
@@ -6175,6 +6168,11 @@
   "0001999371-26-021641",
   "0001999371-26-021647",
   "0001999371-26-021658",
+  "0001999371-26-021666",
+  "0001999371-26-021668",
+  "0001999371-26-021671",
+  "0001999371-26-021674",
+  "0001999371-26-021678",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7241,6 +7239,8 @@
   "0002078265-26-000407",
   "0002078265-26-000408",
   "0002078265-26-000415",
+  "0002078265-26-000417",
+  "0002078265-26-000418",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
