@@ -15,18 +15,6 @@ Numbered as the prereg-reviewer's list (2026-09-29):
 10 stock-radar and india-radar fixtures byte-identical (old grader vs new grader)
 11 earnings void never applied to insider rows
 12 a NaN close in resolve_forecasts is not resolved, and the row is named
-
-INS-022 (prereg-reviewer APPROVE WITH CHANGES, 2026-09-29) — a split lookup that is unknown stalls, both paths:
-14 legacy: the full-history lookup raises / returns an empty frame while window bars exist / ends before cd /
-   has no "Stock Splits" column / starts after the call date -> the row stalls with SPLIT-UNKNOWN, ledger
-   bytes unchanged (and the old grader is shown grading those rows across bases)
-15 legacy: a real no-split row and a GRML-shaped x50 row grade byte-identically, old grader vs new
-16 insider (LiveFetch.bars through the real code path): the same failures -> step-1 stall naming SPLIT-UNKNOWN,
-   ledger bytes unchanged; a no-split row and the GRML shape grade byte-identically, old vs new; GRML x50
-INS-023 (APPROVE option (x), text correction; no grader change):
-17 a Saturday check_date is rewritten to Monday, stamped, graded at Monday's close
-18 a session check_date with a missing bar keeps its check_date and gets the INS-012 stamp
-19 AGENT.md step 2 carries "by this substitution" and "SESSION-001" (and the survivorship clause verbatim)
 """
 import csv
 import datetime as dt
@@ -76,7 +64,7 @@ class FixtureFetch:
         self._default = default_bars
         self.delist_calls = []
 
-    def bars(self, tk, start, end, d0=None):
+    def bars(self, tk, start, end):
         b = self._bars.get(tk)
         if b is None and self._default:
             b = self._default(tk, start, end)
@@ -485,9 +473,6 @@ def _legacy_fixture_home(tmp):
         "ALL0": {"bars": [_b("2026-09-12", 10.0, 0.0), _b("2026-09-15", 10.2, 0.0)]},
         "RELI.NS": {"bars": [_b("2026-09-15", 101.0)]},
     }
-    for v in fx.values():   # INS-022: the full-history split lookup covers the call date (Yahoo's range=max does)
-        if isinstance(v["bars"], list):
-            v.setdefault("max", [_b("2026-08-03", 10.0)] + v["bars"])
     return _write_fx(os.path.join(tmp, "yf.json"), fx)
 
 
@@ -589,195 +574,3 @@ def test_13_blank_price_wrong_counts_in_hit_rate_and_is_disclosed(tmp_path, caps
     assert "2 scored" in out
     assert "big cluster (>= $5M)         n=2   dates=1   hit  50%  avg +10.0%  (avg excludes 1 delisted rows (return unknown))" in out
     assert "_blank_wrong" not in open(at.OUT).read()
-
-
-# ================================================================ INS-022 — SPLIT-UNKNOWN stalls
-GRADER_PRE22 = f"{REAL_HOME}/bin/grade_all_due_BACKUP_0929c_INS-022.py"
-SR_COLS = ['date', 'ticker', 'call', 'thesis', 'price_at_call', 'check_date', 'price_at_check', 'outcome',
-           'close_at_check', 'fill_date']
-_WIN = [_b("2026-09-12", 10.0), _b("2026-09-15", 11.0)]
-# every way the full-history lookup can fail to establish the split history over (2026-09-01, 2026-09-15]
-SPLIT_UNKNOWN_CASES = {
-    "SRAISE": ({"bars": _WIN, "max": "RAISE"},
-               "full-history lookup raised ConnectionError: fake full-history failure for SRAISE"),
-    # the realistic defect: a real 1-for-2 reverse split, but the lookup came back empty — the old grader
-    # read that as "no split" and graded 10 -> 11 as +10% right; on the true basis (20) it is -45%
-    "SEMPTY": ({"bars": _WIN, "max": "EMPTY", "splits": [["2026-09-10", 0.5]]},
-               "full-history lookup returned an empty frame"),
-    "SSHORT": ({"bars": _WIN, "max": [_b("2026-08-03", 10.0), _b("2026-09-12", 10.0)]},
-               "full history ends 2026-09-12, before 2026-09-15"),
-    "SNOCOL": ({"bars": _WIN, "max": "NOCOL"}, "full history has no 'Stock Splits' column"),
-    "SLATE": ({"bars": _WIN, "max": [_b("2026-09-05", 10.0)] + _WIN},
-              "full history starts 2026-09-05, after the call date 2026-09-01"),
-}
-
-
-def _sr_row(tk, date="2026-09-01", check="2026-09-15", p0="10", thesis="fixture"):
-    return {"date": date, "ticker": tk, "call": "long", "thesis": thesis, "price_at_call": p0, "check_date": check}
-
-
-def test_14_legacy_split_unknown_stalls(tmp_path):
-    def home(tag):
-        h = str(tmp_path / tag)
-        led = _ledger(h, [_sr_row(tk) for tk in SPLIT_UNKNOWN_CASES], "stock-radar/agent/ledger.csv", SR_COLS)
-        return h, led, _write_fx(os.path.join(h, "yf.json"), {tk: v[0] for tk, v in SPLIT_UNKNOWN_CASES.items()})
-    h, led, fx = home("new")
-    before = open(led, "rb").read()
-    out = _run_script(GRADER, h, fx)
-    assert open(led, "rb").read() == before                               # nothing written
-    assert "stock-radar/agent/ledger.csv: 0 graded, 5 DUE BUT UNPRICEABLE" in out
-    for tk, (_, why) in SPLIT_UNKNOWN_CASES.items():
-        assert f"   !! {tk} due 2026-09-15 — SPLIT-UNKNOWN: {why}; not graded (INS-022)\n" in out, tk
-    # the defect this closes: the pre-INS-022 grader graded all five, SEMPTY across bases
-    h, led, fx = home("old")
-    out_old = _run_script(GRADER_PRE22, h, fx)
-    assert "stock-radar/agent/ledger.csv: 5 graded" in out_old
-    assert "SEMPTY long 10.0 -> 11.00 (+10.00%) = right" in out_old
-
-
-def test_15_legacy_no_split_and_grml_identical_old_vs_new(tmp_path):
-    rows = [_sr_row("OK1"),
-            _sr_row("GRM2", date="2026-07-25", check="2026-08-25", p0="0.2", thesis="[insider] fixture")]
-    grml_bars = [_b("2026-08-21", 0.203), HOLE("2026-08-24"), _b("2026-08-25", 9.71)]
-    fxd = {"OK1": {"bars": _WIN, "max": [_b("2026-08-03", 10.0)] + _WIN},
-           "GRM2": {"bars": grml_bars, "splits": [["2026-08-24", 0.02]], "max": [_b("2026-07-01", 0.3)] + grml_bars}}
-    outs, leds = [], []
-    for tag, script in (("old", GRADER_PRE22), ("new", GRADER)):
-        h = str(tmp_path / tag)
-        led = _ledger(h, rows, "stock-radar/agent/ledger.csv", SR_COLS)
-        outs.append(_run_script(script, h, _write_fx(os.path.join(h, "yf.json"), fxd)))
-        leds.append(open(led, "rb").read())
-    assert outs[0] == outs[1] and leds[0] == leds[1]
-    assert "stock-radar/agent/ledger.csv: 2 graded\n" in outs[1] and "SPLIT-UNKNOWN" not in outs[1]
-    assert "OK1 long 10.0 -> 11.00 (+10.00%) = right" in outs[1]
-    r = {x["ticker"]: x for x in csv.DictReader(io.StringIO(leds[1].decode()))}
-    assert r["GRM2"]["price_at_call"] == "10.0000" and "[SPLIT ADJUSTED x50 on grading" in r["GRM2"]["thesis"]
-    assert r["GRM2"]["outcome"] == "wrong" and r["GRM2"]["price_at_check"] == "9.71"
-
-
-def _fake_yf():
-    sp = importlib.util.spec_from_file_location("fake_yf_ins022", os.path.join(FAKE_YF, "yfinance", "__init__.py"))
-    m = importlib.util.module_from_spec(sp)
-    sp.loader.exec_module(m)
-    return m
-
-
-def _live_fetch(mod):
-    """The module's REAL LiveFetch.bars (the code under test); probe/SPY/SEC answered by fixture."""
-    class LF(mod.LiveFetch):
-        def probe(self, tk):
-            return ("series", "fixture")
-
-        def spy(self, settled):
-            return (True, "SPY fixture")
-
-        def delisting(self, tk, call_date, settled):
-            return {"status": "none", "detail": "fixture: no Form 25"}
-
-        def sec_map_note(self, tk, call_date):
-            return "fixture"
-    return LF()
-
-
-def _run_live(mod, path, settled, today):
-    lines = []
-    n = mod.grade_insider(path, _live_fetch(mod), D(settled), D(today), False,
-                          sessions_between=lambda a, b: 0, out=lines.append)
-    return n, lines
-
-
-def test_16_insider_split_unknown_stalls_at_step1(tmp_path, monkeypatch):
-    fx = _write_fx(str(tmp_path / "yf.json"), {tk: v[0] for tk, v in SPLIT_UNKNOWN_CASES.items()})
-    monkeypatch.setenv("FAKE_YF_FIXTURE", fx)
-    monkeypatch.setattr(G.yf, "Ticker", _fake_yf().Ticker)
-    p = _ledger(str(tmp_path / "new"), [_row(tk, "2026-09-01", "2026-09-15", "10") for tk in SPLIT_UNKNOWN_CASES])
-    before = open(p, "rb").read()
-    n, lines = _run_live(G, p, "2026-09-16", "2026-09-16")
-    assert n == 0 and open(p, "rb").read() == before                       # nothing written
-    assert lines[0].endswith("0 graded, 5 DUE BUT UNPRICEABLE")
-    for tk, (_, why) in SPLIT_UNKNOWN_CASES.items():
-        assert (f"   !! {tk} due 2026-09-15 — price fetch failed: SplitUnknown: SPLIT-UNKNOWN: {why}; "
-                f"nothing scored") in lines, tk
-    # the pre-INS-022 LiveFetch read every one of these as "no split" and graded
-    old = _load(GRADER_PRE22, "gad_pre22")
-    p_old = _ledger(str(tmp_path / "old"), [_row(tk, "2026-09-01", "2026-09-15", "10") for tk in SPLIT_UNKNOWN_CASES])
-    n_old, lines_old = _run_live(old, p_old, "2026-09-16", "2026-09-16")
-    assert n_old == 5 and "   SEMPTY long 10.0 -> 11.00 (+10.00%) = right" in lines_old
-
-
-def test_16b_insider_no_split_and_grml_identical_old_vs_new(tmp_path, monkeypatch):
-    grml_bars = [_b("2026-08-20", 0.21), _b("2026-08-21", 0.203), HOLE("2026-08-24"), _b("2026-08-25", 9.71)]
-    ok_bars = [_b("2026-08-21", 10.0), _b("2026-08-25", 11.0)]
-    fx = _write_fx(str(tmp_path / "yf.json"), {
-        "OKI": {"bars": ok_bars, "max": [_b("2026-07-01", 9.0)] + ok_bars},
-        "GRML": {"bars": grml_bars, "splits": [["2026-08-24", 0.02]], "max": [_b("2026-07-01", 0.3)] + grml_bars}})
-    monkeypatch.setenv("FAKE_YF_FIXTURE", fx)
-    monkeypatch.setattr(G.yf, "Ticker", _fake_yf().Ticker)
-    rows = [_row("OKI", "2026-08-01", "2026-08-25", "10"), _row("GRML", "2026-07-25", "2026-08-24", "0.2")]
-    res = []
-    for tag, mod in (("old", _load(GRADER_PRE22, "gad_pre22b")), ("new", G)):
-        p = _ledger(str(tmp_path / tag), rows)
-        n, lines = _run_live(mod, p, "2026-08-25", "2026-08-25")
-        res.append((n, [l.replace(f"/{tag}/", "/<home>/") for l in lines], open(p, "rb").read()))
-    assert res[0] == res[1]
-    n, lines, data = res[1]
-    assert n == 2 and not any("SPLIT-UNKNOWN" in l for l in lines)
-    assert "   OKI long 10.0 -> 11.00 (+10.00%) = right" in lines
-    r = {x["ticker"]: x for x in csv.DictReader(io.StringIO(data.decode()))}
-    assert r["GRML"]["price_at_call"] == "10.0000" and "[SPLIT ADJUSTED x50" in r["GRML"]["thesis"]
-    assert r["GRML"]["check_date"] == "2026-08-24" and "[INS-012: no bar on 2026-08-24" in r["GRML"]["thesis"]
-    assert r["GRML"]["price_at_check"] == "9.71" and r["GRML"]["outcome"] == "wrong"
-
-
-def test_16c_spy_control_makes_no_split_lookup_and_empty_window_skips_it(monkeypatch):
-    calls = []
-
-    class T:
-        def __init__(self, tk):
-            self.tk = tk
-
-        def history(self, period=None, **kw):
-            calls.append((self.tk, period))
-            import pandas as pd
-            return pd.DataFrame()
-    monkeypatch.setattr(G.yf, "Ticker", T)
-    f = G.LiveFetch()
-    assert f.bars("SPY", D("2026-09-01"), D("2026-09-10")) == ([], None)            # d0=None: SPY control
-    assert f.bars("GONE", D("2026-09-01"), D("2026-09-10"), d0=D("2026-08-01")) == ([], None)  # nothing to price
-    assert all(p is None for _, p in calls)                                          # no period="max" call
-
-
-# ================================================================ INS-023 — the text correction, tested
-def test_17_saturday_check_date_rolls_to_monday(tmp_path):
-    assert G._SESS is not None, "sessions calendar must load for the SESSION-001 roll"
-    p = _ledger(str(tmp_path), [_row("SATX", "2026-08-01", "2026-09-12", "5")])
-    n, lines = _run(p, FixtureFetch(bars={"SATX": [_b("2026-09-11", 5.0), _b("2026-09-14", 5.5)]}),
-                    "2026-09-14", "2026-09-14")
-    r = _read(p)[0]
-    assert n == 1 and r["check_date"] == "2026-09-14"
-    assert "[check_date 2026-09-12 was a non-session (" in r["thesis"]
-    assert "rolled to 2026-09-14 per REG-PP-002/SESSION-001]" in r["thesis"]
-    assert r["price_at_check"] == "5.50" and r["outcome"] == "right"                # Monday's close
-    assert "INS-012" not in r["thesis"]                                             # not a bar substitution
-
-
-def test_18_session_check_date_missing_bar_keeps_check_date(tmp_path):
-    p = _ledger(str(tmp_path), [_row("MISS", "2026-08-01", "2026-09-15", "5")])
-    n, lines = _run(p, FixtureFetch(bars={"MISS": [_b("2026-09-14", 5.0), _b("2026-09-16", 4.5)]}),
-                    "2026-09-16", "2026-09-16")
-    r = _read(p)[0]
-    assert n == 1 and r["check_date"] == "2026-09-15"
-    assert ("[INS-012: no bar on 2026-09-15; scored on the 2026-09-16 close, the next session with a traded bar]"
-            in r["thesis"])
-    assert "was a non-session" not in r["thesis"]
-    assert r["price_at_check"] == "4.50" and r["outcome"] == "wrong"
-
-
-def test_19_agent_step2_text():
-    t = open(f"{REAL_HOME}/insider-radar/agent/AGENT.md").read()
-    i = t.find("2. **Score due calls"); j = t.find("3. **Update lessons**", i)
-    assert i >= 0 and j > i
-    s2 = t[i:j]
-    assert "by this substitution" in s2 and "SESSION-001" in s2
-    assert "A delisted or unfetchable ticker is scored `wrong`" in s2
-    assert "`check_date` is never rewritten." not in s2                             # the contradicted sentence is gone
