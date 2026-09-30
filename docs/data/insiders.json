@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-09-30 14:51 UTC",
+ "updated_utc": "2026-09-30 15:07 UTC",
  "purchases": [
-  {
-   "ticker": "CBKM",
-   "company": "CONSUMERS BANCORP INC /OH/",
-   "insider": "Lober Ralph J II",
-   "role": "CEO & President",
-   "date": "2026-09-17",
-   "shares": 70.0,
-   "price": 32.59,
-   "value": 2281.3,
-   "acc": "0001437749-26-030775",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 756.0,
-   "price": 3.04,
-   "value": 2298.24,
-   "acc": "0001437749-26-030720",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "NWPP",
-   "company": "NEW PEOPLES BANKSHARES INC",
-   "insider": "White Blaine Scott",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 500.0,
-   "price": 4.86,
-   "value": 2430.0,
-   "acc": "0001903596-26-000363",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 168.0,
-   "price": 20.4422,
-   "value": 3434.29,
-   "acc": "0000937797-26-000030",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-17",
-   "shares": 25000.0,
-   "price": 0.1852,
-   "value": 4630.0,
-   "acc": "0001214659-26-011836",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-09-17",
-   "shares": 24000.0,
-   "price": 0.208,
-   "value": 4992.0,
-   "acc": "0001493152-26-043246",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "TOFB",
-   "company": "TOFUTTI BRANDS INC",
-   "insider": "A-6684 Ltd.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 15000.0,
-   "price": 0.35,
-   "value": 5250.0,
-   "acc": "0001994334-26-000015",
-   "filed": "2026-09-21"
-  },
   {
    "ticker": "VENU",
    "company": "Venu Holding Corp",
@@ -4590,6 +4506,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Nechmad Yair",
+   "role": "CEO, Co Founder & Chairman",
+   "date": "2026-09-28",
+   "shares": 1000.0,
+   "price": 45.4865,
+   "value": 45486.5,
+   "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "SWZ",
    "company": "Total Return Securities Fund",
    "insider": "Dakos Andrew",
@@ -4650,6 +4578,18 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Nechmad Yair",
+   "role": "CEO, Co Founder & Chairman",
+   "date": "2026-09-28",
+   "shares": 5504.0,
+   "price": 45.0231,
+   "value": 247807.14,
+   "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4660,6 +4600,30 @@
    "value": 305106.0,
    "acc": "0001366074-26-000004",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Nechmad Yair",
+   "role": "CEO, Co Founder & Chairman",
+   "date": "2026-09-28",
+   "shares": 8000.0,
+   "price": 44.71,
+   "value": 357680.0,
+   "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Nechmad Yair",
+   "role": "CEO, Co Founder & Chairman",
+   "date": "2026-09-28",
+   "shares": 9642.0,
+   "price": 45.2055,
+   "value": 435871.43,
+   "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "PRTA",
@@ -4746,6 +4710,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Nechmad Yair",
+   "role": "CEO, Co Founder & Chairman",
+   "date": "2026-09-29",
+   "shares": 1000.0,
+   "price": 45.49,
+   "value": 45490.0,
+   "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "GME",
    "company": "GameStop Corp.",
    "insider": "Cohen Ryan",
@@ -4758,6 +4734,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Nechmad Yair",
+   "role": "CEO, Co Founder & Chairman",
+   "date": "2026-09-29",
+   "shares": 2789.0,
+   "price": 44.5085,
+   "value": 124134.21,
+   "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "MNSO",
    "company": "MINISO Group Holding Ltd",
    "insider": "Zhang Jingjing Eason",
@@ -4767,6 +4755,18 @@
    "price": 2.2583,
    "value": 340099.98,
    "acc": "0001104659-26-112076",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "NYAX",
+   "company": "Nayax Ltd.",
+   "insider": "Nechmad Yair",
+   "role": "CEO, Co Founder & Chairman",
+   "date": "2026-09-29",
+   "shares": 19000.0,
+   "price": 44.7953,
+   "value": 851110.7,
+   "acc": "0001976408-26-000874",
    "filed": "2026-09-30"
   },
   {
@@ -4833,14 +4833,14 @@
    "total_value": 10033323.16
   },
   {
+   "ticker": "NYAX",
+   "insiders": 2,
+   "total_value": 6983757.81
+  },
+  {
    "ticker": "BPRE",
    "insiders": 2,
    "total_value": 6026074.14
-  },
-  {
-   "ticker": "NYAX",
-   "insiders": 2,
-   "total_value": 4876177.83
   },
   {
    "ticker": "HHH",
@@ -4890,7 +4890,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 161181.96
+   "total_value": 156551.96
   },
   {
    "ticker": "PDI",
@@ -4950,7 +4950,6 @@
   }
  ],
  "seen": [
-  "0001964490-26-000012",
   "0001964493-26-000008",
   "0001964500-26-000010",
   "0001964513-26-000004",
@@ -5187,6 +5186,7 @@
   "0001976408-26-000871",
   "0001976408-26-000872",
   "0001976408-26-000873",
+  "0001976408-26-000874",
   "0001976540-26-000008",
   "0001976572-26-000005",
   "0001976672-26-000057",
