@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-30 10:09 UTC",
+ "updated_utc": "2026-09-30 10:25 UTC",
  "purchases": [
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "SEID PAUL",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 27.0,
-   "price": 5.1,
-   "value": 137.7,
-   "acc": "0001493152-26-043332",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -4563,6 +4551,19 @@
    "value": 2298.24,
    "acc": "0001437749-26-031438",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "LBSR",
+   "company": "LIBERTY STAR URANIUM & METALS CORP.",
+   "insider": "O'HEERON PETE",
+   "role": "COB, Secretary, Treasurer",
+   "date": "2026-09-28",
+   "shares": 171482.0,
+   "price": 0.0228,
+   "value": 3909.79,
+   "acc": "0001493152-26-044992",
+   "filed": "2026-09-30",
+   "placement": true
   },
   {
    "ticker": "OVLY",
