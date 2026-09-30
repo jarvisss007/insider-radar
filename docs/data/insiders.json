@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-30 17:45 UTC",
+ "updated_utc": "2026-09-30 18:32 UTC",
  "purchases": [
-  {
-   "ticker": "RTB",
-   "company": "RTB Digital, Inc.",
-   "insider": "Dorsett Jason Christopher",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 19000.0,
-   "price": 10.36,
-   "value": 196840.0,
-   "acc": "0002146263-26-000003",
-   "filed": "2026-09-21"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4301,6 +4289,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "TPYTX",
+   "company": "TCW Private Asset Income Fund",
+   "insider": "Swell Michael",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1532.034,
+   "price": 9.95,
+   "value": 15243.74,
+   "acc": "0001193125-26-408892",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "AHRT",
    "company": "AH Realty Trust, Inc.",
    "insider": "Wittman Lori",
@@ -4930,6 +4930,11 @@
    "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
    "insiders": 2,
    "total_value": 33570.23
+  },
+  {
+   "ticker": "TPYTX",
+   "insiders": 2,
+   "total_value": 28106.24
   },
   {
    "ticker": "DTIL",
