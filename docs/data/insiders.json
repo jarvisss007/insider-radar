@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-09-30 20:06 UTC",
+ "updated_utc": "2026-09-30 20:22 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 2380.0,
-   "price": 269.0553,
-   "value": 640351.61,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 8306.0,
-   "price": 77.94,
-   "value": 647369.64,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Troim Tor Olav",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 150000.0,
-   "price": 4.3795,
-   "value": 656925.0,
-   "acc": "0001628280-26-062623",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "LEN, LEN.B",
    "company": "LENNAR CORP /NEW/",
@@ -4205,6 +4169,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "DTIL",
+   "company": "PRECISION BIOSCIENCES INC",
+   "insider": "Frankel Stanley",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1000.0,
+   "price": 6.0,
+   "value": 6000.0,
+   "acc": "0001628280-26-063980",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
    "company": "AGL Private Credit Income Fund",
    "insider": "Boswell Taylor",
@@ -4467,6 +4443,18 @@
    "value": 148320.45,
    "acc": "0001366074-26-000004",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "PMPEX",
+   "company": "Primark Meketa Private Equity Investments Fund",
+   "insider": "Woolley Peter Scott",
+   "role": "",
+   "date": "2026-09-28",
+   "shares": 8600.917,
+   "price": 17.44,
+   "value": 149999.99,
+   "acc": "0002102407-26-000005",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "LILA",
@@ -4757,6 +4745,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "BBASX",
+   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "insider": "BROWN BROTHERS HARRIMAN & CO",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 70175.439,
+   "price": 11.4,
+   "value": 800000.0,
+   "acc": "0000929638-26-003758",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Nechmad Yair",
@@ -4852,11 +4852,6 @@
    "total_value": 1007462.81
   },
   {
-   "ticker": "BORR",
-   "insiders": 2,
-   "total_value": 857125.0
-  },
-  {
    "ticker": "FUL",
    "insiders": 5,
    "total_value": 499067.96
@@ -4937,14 +4932,14 @@
    "total_value": 33570.23
   },
   {
+   "ticker": "DTIL",
+   "insiders": 3,
+   "total_value": 29500.97
+  },
+  {
    "ticker": "TPYTX",
    "insiders": 2,
    "total_value": 28106.24
-  },
-  {
-   "ticker": "DTIL",
-   "insiders": 2,
-   "total_value": 23500.97
   },
   {
    "ticker": "FNWD",
@@ -4964,11 +4959,6 @@
   }
  ],
  "seen": [
-  "0001965040-26-000103",
-  "0001965040-26-000116",
-  "0001965040-26-000134",
-  "0001965040-26-000138",
-  "0001965040-26-000140",
   "0001965214-26-000006",
   "0001965544-26-000008",
   "0001965585-26-000006",
@@ -5378,6 +5368,7 @@
   "0001993636-26-000009",
   "0001993684-26-000006",
   "0001993684-26-000008",
+  "0001993776-26-000008",
   "0001993902-26-000008",
   "0001994071-26-000006",
   "0001994121-26-000004",
@@ -6776,10 +6767,12 @@
   "0002051008-26-000002",
   "0002051008-26-000003",
   "0002051034-26-000008",
+  "0002051270-26-000012",
   "0002051327-26-000016",
   "0002051384-26-000009",
   "0002051436-26-000003",
   "0002051485-26-000008",
+  "0002051514-26-000013",
   "0002051575-26-000004",
   "0002051619-26-000018",
   "0002051813-26-000010",
@@ -7504,6 +7497,7 @@
   "0002100829-26-000007",
   "0002101254-26-000004",
   "0002102304-26-000003",
+  "0002102407-26-000005",
   "0002102774-26-000012",
   "0002103514-26-000010",
   "0002104019-26-000006",
@@ -7639,6 +7633,7 @@
   "0002117905-26-000041",
   "0002117905-26-000043",
   "0002117905-26-000044",
+  "0002117905-26-000045",
   "0002117999-26-000006",
   "0002118012-26-000003",
   "0002118015-26-000004",
