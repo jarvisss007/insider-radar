@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-30 13:17 UTC",
+ "updated_utc": "2026-09-30 13:33 UTC",
  "purchases": [
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 204.0,
-   "price": 3.956,
-   "value": 807.02,
-   "acc": "0001628280-26-062758",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
@@ -4746,6 +4734,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-29",
+   "shares": 8440.0,
+   "price": 1.2572,
+   "value": 10610.77,
+   "acc": "0001493152-26-045051",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "Horne William B.",
@@ -4846,6 +4846,11 @@
    "ticker": "HHH",
    "insiders": 2,
    "total_value": 1667427.5
+  },
+  {
+   "ticker": "UXIN",
+   "insiders": 2,
+   "total_value": 1007462.81
   },
   {
    "ticker": "BORR",
