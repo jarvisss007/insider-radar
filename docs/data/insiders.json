@@ -1,43 +1,6 @@
 {
- "updated_utc": "2026-09-30 16:57 UTC",
+ "updated_utc": "2026-09-30 17:45 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 326.0,
-   "price": 262.7798,
-   "value": 85666.21,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 25000.0,
-   "price": 3.5,
-   "value": 87500.0,
-   "acc": "0001628280-26-062756",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "NTRP",
-   "company": "NextTrip, Inc.",
-   "insider": "Kaplan Andrew Jay",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 52910.0,
-   "price": 1.89,
-   "value": 99999.9,
-   "acc": "0001493152-26-043791",
-   "filed": "2026-09-22",
-   "placement": true
-  },
   {
    "ticker": "RTB",
    "company": "RTB Digital, Inc.",
@@ -4290,6 +4253,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
+   "company": "AGL Private Credit Income Fund",
+   "insider": "Boswell Taylor",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-28",
+   "shares": 477.8,
+   "price": 23.42,
+   "value": 11190.08,
+   "acc": "0001193125-26-408818",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "CULP",
    "company": "CULP INC",
    "insider": "CULP ROBERT GEORGE IV",
@@ -4338,6 +4313,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "MOALX",
+   "company": "Lord Abbett Municipal Opportunities Fund",
+   "insider": "Shuman Gregory M.",
+   "role": "",
+   "date": "2026-09-28",
+   "shares": 2079.002,
+   "price": 9.62,
+   "value": 20000.0,
+   "acc": "0000930413-26-003008",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "ASPI",
    "company": "ASP Isotopes Inc.",
    "insider": "Ryan Robert John Andrew",
@@ -4347,6 +4334,18 @@
    "price": 2.7,
    "value": 21600.0,
    "acc": "0001477932-26-005918",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
+   "company": "AGL Private Credit Income Fund",
+   "insider": "Comer Wynne Richards",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 955.6,
+   "price": 23.42,
+   "value": 22380.15,
+   "acc": "0001193125-26-408806",
    "filed": "2026-09-30"
   },
   {
@@ -4928,6 +4927,11 @@
    "total_value": 47938.12
   },
   {
+   "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
+   "insiders": 2,
+   "total_value": 33570.23
+  },
+  {
    "ticker": "DTIL",
    "insiders": 2,
    "total_value": 23500.97
@@ -4950,7 +4954,6 @@
   }
  ],
  "seen": [
-  "0001964513-26-000004",
   "0001964540-26-000003",
   "0001964741-26-000004",
   "0001964741-26-000005",
@@ -6198,6 +6201,7 @@
   "0001999371-26-021585",
   "0001999371-26-021589",
   "0001999371-26-021597",
+  "0001999371-26-021606",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
