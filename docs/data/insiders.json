@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-30 10:25 UTC",
+ "updated_utc": "2026-09-30 10:40 UTC",
  "purchases": [
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 1.0,
-   "price": 349.35,
-   "value": 349.35,
-   "acc": "0001437749-26-030719",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
@@ -4612,6 +4600,18 @@
    "value": 17835.0,
    "acc": "0001569187-26-000154",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "ASPI",
+   "company": "ASP Isotopes Inc.",
+   "insider": "Ryan Robert John Andrew",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 8000.0,
+   "price": 2.7,
+   "value": 21600.0,
+   "acc": "0001477932-26-005918",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "FTHY",
