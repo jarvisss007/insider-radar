@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-09-30 10:40 UTC",
+ "updated_utc": "2026-09-30 12:30 UTC",
  "purchases": [
-  {
-   "ticker": "RVSB",
-   "company": "RIVERVIEW BANCORP INC",
-   "insider": "Lightheart Charmaine",
-   "role": "EVP/CRDEO",
-   "date": "2026-09-17",
-   "shares": 100.0,
-   "price": 5.68,
-   "value": 568.0,
-   "acc": "0002050978-26-000008",
-   "filed": "2026-09-17"
-  },
   {
    "ticker": "DLHC",
    "company": "DLH Holdings Corp.",
@@ -4650,6 +4638,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "NC SLF INC. (CIK 1844684)",
+   "company": "NC SLF Inc.",
+   "insider": "TEACHERS INSURANCE & ANNUITY ASSOCIATION OF AMERICA",
+   "role": "",
+   "date": "2026-09-28",
+   "shares": 10186.0,
+   "price": 9.72,
+   "value": 99007.92,
+   "acc": "0001225208-26-008002",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4921,11 +4921,6 @@
    "ticker": "DTIL",
    "insiders": 2,
    "total_value": 23500.97
-  },
-  {
-   "ticker": "RVSB",
-   "insiders": 2,
-   "total_value": 10610.85
   },
   {
    "ticker": "BRID",
