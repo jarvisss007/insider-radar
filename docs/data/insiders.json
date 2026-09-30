@@ -1,1052 +1,6 @@
 {
- "updated_utc": "2026-09-30 20:22 UTC",
+ "updated_utc": "2026-09-30 20:38 UTC",
  "purchases": [
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 8959.0,
-   "price": 76.96,
-   "value": 689484.64,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 3181.0,
-   "price": 264.1457,
-   "value": 840247.47,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "TFC",
-   "company": "TRUIST FINANCIAL CORP",
-   "insider": "Lyons Michael P.",
-   "role": "President & CEO",
-   "date": "2026-09-17",
-   "shares": 21000.0,
-   "price": 48.3608,
-   "value": 1015576.8,
-   "acc": "0001534574-26-000016",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 3920.0,
-   "price": 269.8858,
-   "value": 1057952.34,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 5705.0,
-   "price": 261.8366,
-   "value": 1493777.8,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 8828.0,
-   "price": 267.8537,
-   "value": 2364612.46,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 174760.0,
-   "price": 35.1953,
-   "value": 6150730.63,
-   "acc": "0001193125-26-396726",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "ENHA",
-   "company": "Enhanced Group Inc.",
-   "insider": "Apeiron Investment Group Ltd.",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 6080047.0,
-   "price": 1.15,
-   "value": 6992054.05,
-   "acc": "0001193125-26-397056",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "5C LENDING PARTNERS CORP. (CIK 1998387)",
-   "company": "5C Lending Partners Corp.",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 398774.0,
-   "price": 24.48,
-   "value": 9761987.52,
-   "acc": "0001193125-26-395720",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 267585.0,
-   "price": 78.41,
-   "value": 20981339.85,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LNBIX",
-   "company": "Lincoln Bain Capital Total Credit Fund",
-   "insider": "Lincoln Financial Investments Corp",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 2460629.92,
-   "price": 10.16,
-   "value": 24999999.99,
-   "acc": "0001193125-26-396327",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 410164.0,
-   "price": 79.41,
-   "value": 32571123.24,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-18",
-   "shares": 300.0,
-   "price": 0.56,
-   "value": 168.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 1.0,
-   "price": 351.34,
-   "value": 351.34,
-   "acc": "0001437749-26-030789",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 100.0,
-   "price": 5.01,
-   "value": 501.0,
-   "acc": "0001214659-26-011872",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "HLEO",
-   "company": "Helio Corp /FL/",
-   "insider": "Knauf Mark Harry",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-18",
-   "shares": 380.0,
-   "price": 1.33,
-   "value": 505.4,
-   "acc": "0001683168-26-007242",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 265.0,
-   "price": 2.905,
-   "value": 769.82,
-   "acc": "0001536588-26-000033",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 316.0,
-   "price": 3.9258,
-   "value": 1240.55,
-   "acc": "0001628280-26-062758",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "BRID",
-   "company": "BRIDGFORD FOODS CORP",
-   "insider": "Bridgford Richard Eugene",
-   "role": "",
-   "date": "2026-09-18",
-   "shares": 350.0,
-   "price": 5.87,
-   "value": 2054.5,
-   "acc": "0001493152-26-043773",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 756.0,
-   "price": 3.04,
-   "value": 2298.24,
-   "acc": "0001437749-26-030794",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 494.0,
-   "price": 5.99,
-   "value": 2959.06,
-   "acc": "0000912282-26-001299",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-18",
-   "shares": 20000.0,
-   "price": 0.1821,
-   "value": 3642.0,
-   "acc": "0001214659-26-011871",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "HKHC",
-   "company": "Horizon Kinetics Holding Corp",
-   "insider": "Nagelberg Allison",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 190.0,
-   "price": 26.27,
-   "value": 4991.3,
-   "acc": "0001437749-26-030860",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "EPSN",
-   "company": "Epsilon Energy Ltd.",
-   "insider": "Stabell Jason",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-18",
-   "shares": 1430.0,
-   "price": 5.9,
-   "value": 8437.0,
-   "acc": "0001104659-26-109383",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "EXPO",
-   "company": "EXPONENT INC",
-   "insider": "Souri Shukri Jeries",
-   "role": "Group Vice President",
-   "date": "2026-09-18",
-   "shares": 184.0,
-   "price": 68.4452,
-   "value": 12593.92,
-   "acc": "0000851520-26-000101",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "PODC",
-   "company": "PodcastOne, Inc.",
-   "insider": "MERRIMAN D JONATHAN",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 6700.0,
-   "price": 2.36,
-   "value": 15812.0,
-   "acc": "0001213900-26-101864",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "CULP",
-   "company": "CULP INC",
-   "insider": "CULP ROBERT GEORGE IV",
-   "role": "President & CEO",
-   "date": "2026-09-18",
-   "shares": 4874.0,
-   "price": 3.78,
-   "value": 18423.72,
-   "acc": "0001294280-26-000006",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Qiu Wenbin",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-18",
-   "shares": 7000.0,
-   "price": 2.88,
-   "value": 20160.0,
-   "acc": "0001104659-26-109444",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "EU",
-   "company": "enCore Energy Corp.",
-   "insider": "SHERIFF WILLIAM M",
-   "role": "Executive Chairman",
-   "date": "2026-09-18",
-   "shares": 25000.0,
-   "price": 0.81,
-   "value": 20250.0,
-   "acc": "0001193125-26-396060",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "PNRG",
-   "company": "PRIMEENERGY RESOURCES CORP",
-   "insider": "FONG GIFFORD",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 100.0,
-   "price": 211.7,
-   "value": 21170.0,
-   "acc": "0001437749-26-031099",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "DUOT",
-   "company": "DUOS TECHNOLOGIES GROUP, INC.",
-   "insider": "Nixon James Craig",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 2857.0,
-   "price": 8.5,
-   "value": 24284.5,
-   "acc": "0001079973-26-001266",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "MCFT",
-   "company": "MasterCraft Boat Holdings, Inc.",
-   "insider": "LEEMPUTTE PETER G",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 1265.0,
-   "price": 19.73,
-   "value": 24958.45,
-   "acc": "0001193125-26-397254",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "DUOT",
-   "company": "DUOS TECHNOLOGIES GROUP, INC.",
-   "insider": "Nixon James Craig",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 2907.2907,
-   "price": 8.6,
-   "value": 25002.7,
-   "acc": "0001079973-26-001266",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 390.0,
-   "price": 75.76,
-   "value": 29546.4,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 120.0,
-   "price": 251.9833,
-   "value": 30238.0,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 10000.0,
-   "price": 3.49,
-   "value": 34900.0,
-   "acc": "0001628280-26-063099",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 500.0,
-   "price": 78.38,
-   "value": 39190.0,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "THRY",
-   "company": "Thryv Holdings, Inc.",
-   "insider": "Walsh Joe",
-   "role": "Chairman and CEO",
-   "date": "2026-09-18",
-   "shares": 25000.0,
-   "price": 1.8,
-   "value": 45000.0,
-   "acc": "0001573298-26-000026",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "FBDT",
-   "company": "First Breach, Inc.",
-   "insider": "LEITH CHARLES KENNETH",
-   "role": "Chief Revenue Officer",
-   "date": "2026-09-18",
-   "shares": 50000.0,
-   "price": 0.9066,
-   "value": 45330.0,
-   "acc": "0001213900-26-101846",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 710.0,
-   "price": 76.98,
-   "value": 54655.8,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BCBP",
-   "company": "BCB BANCORP INC",
-   "insider": "Chaudhry Jawad",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-09-18",
-   "shares": 10000.0,
-   "price": 7.75,
-   "value": 77500.0,
-   "acc": "0001193125-26-397672",
-   "filed": "2026-09-22",
-   "placement": true
-  },
-  {
-   "ticker": "EU",
-   "company": "enCore Energy Corp.",
-   "insider": "SHERIFF WILLIAM M",
-   "role": "Executive Chairman",
-   "date": "2026-09-18",
-   "shares": 100000.0,
-   "price": 0.81,
-   "value": 81000.0,
-   "acc": "0001193125-26-396060",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "SKIL",
-   "company": "Skillsoft Corp.",
-   "insider": "HOVSEPIAN RONALD W",
-   "role": "CEO & Executive Chair",
-   "date": "2026-09-18",
-   "shares": 12777.0,
-   "price": 6.5176,
-   "value": 83275.38,
-   "acc": "0001091482-26-000015",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GAM",
-   "company": "GENERAL AMERICAN INVESTORS CO INC",
-   "insider": "Priest Jeffrey W",
-   "role": "President & CEO",
-   "date": "2026-09-18",
-   "shares": 4000.0,
-   "price": 23.46,
-   "value": 93840.0,
-   "acc": "0000040417-26-000049",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
-   "company": "Fortress Private Lending Fund",
-   "insider": "Munro Lucy Lu",
-   "role": "Chief Operating Officer",
-   "date": "2026-09-18",
-   "shares": 4133.0,
-   "price": 24.1947,
-   "value": 99996.7,
-   "acc": "0001140361-26-037358",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
-   "company": "Fortress Private Lending Fund",
-   "insider": "Dreyfuss Avraham",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-18",
-   "shares": 4133.0,
-   "price": 24.1947,
-   "value": 99996.7,
-   "acc": "0001140361-26-037356",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "CTRI",
-   "company": "Centuri Holdings, Inc.",
-   "insider": "DeMaria Dustin",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 5200.0,
-   "price": 19.27,
-   "value": 100204.0,
-   "acc": "0001981599-26-000127",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "TH",
-   "company": "Target Hospitality Corp.",
-   "insider": "Schrenk Troy C.",
-   "role": "Chief Commercial Officer",
-   "date": "2026-09-18",
-   "shares": 5907.0,
-   "price": 21.16,
-   "value": 124992.12,
-   "acc": "0001712189-26-000061",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 513.0,
-   "price": 247.1733,
-   "value": 126799.9,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "ZUMZ",
-   "company": "Zumiez Inc",
-   "insider": "ELLIS ADAM CHRISTOPHER",
-   "role": "President International",
-   "date": "2026-09-18",
-   "shares": 10000.0,
-   "price": 13.4,
-   "value": 134000.0,
-   "acc": "0001700575-26-000005",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 14185.0,
-   "price": 10.82,
-   "value": 153481.7,
-   "acc": "0001510281-26-000307",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Morand De Oliveira Bruno",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-18",
-   "shares": 45500.0,
-   "price": 4.4,
-   "value": 200200.0,
-   "acc": "0001628280-26-062804",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 1960.0,
-   "price": 253.2,
-   "value": 496272.0,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Nunes Regina Helena Jorge",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 31266.0,
-   "price": 17.98,
-   "value": 562162.68,
-   "acc": "0001292814-26-004644",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Caffarelli Paulo Rogerio",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 31266.0,
-   "price": 17.98,
-   "value": 562162.68,
-   "acc": "0001292814-26-004666",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 7900.0,
-   "price": 78.88,
-   "value": 623152.0,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "da Cunha Paulo Roberto Simoes",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 46874.0,
-   "price": 17.98,
-   "value": 842794.52,
-   "acc": "0001292814-26-004625",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Alvarez Rubens Aguiar",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 46874.0,
-   "price": 17.98,
-   "value": 842794.52,
-   "acc": "0001292814-26-004638",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Pavarina Denise Pauli",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 46874.0,
-   "price": 17.98,
-   "value": 842794.52,
-   "acc": "0001292814-26-004633",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Freiberger Fernando",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 49550.0,
-   "price": 17.98,
-   "value": 890909.0,
-   "acc": "0001292814-26-004648",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Mantarro Renata Geiser",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 54760.0,
-   "price": 17.98,
-   "value": 984584.8,
-   "acc": "0001292814-26-004656",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "de Oliveira Tulio Xavier",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 55444.0,
-   "price": 17.98,
-   "value": 996883.12,
-   "acc": "0001292814-26-004662",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "CRM",
-   "company": "Salesforce, Inc.",
-   "insider": "Kirk David Blair",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 4176.0,
-   "price": 239.3321,
-   "value": 999450.85,
-   "acc": "0001108524-26-000212",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Bueno Julio Cesar",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 56355.0,
-   "price": 17.98,
-   "value": 1013262.9,
-   "acc": "0001292814-26-004650",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Tescarolo Marcos Valerio",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 57012.0,
-   "price": 17.98,
-   "value": 1025075.76,
-   "acc": "0001292814-26-004652",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Favarao Vinicius Urias",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 60492.0,
-   "price": 17.98,
-   "value": 1087646.16,
-   "acc": "0001292814-26-004664",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Marcilio Juliano Ribeiro",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 60779.0,
-   "price": 17.98,
-   "value": 1092806.42,
-   "acc": "0001292814-26-004642",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Machado Silvana Rosa",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 62048.0,
-   "price": 17.98,
-   "value": 1115623.04,
-   "acc": "0001292814-26-004660",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Ramalho Miranda Jose Augusto",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 63719.0,
-   "price": 17.98,
-   "value": 1145667.62,
-   "acc": "0001292814-26-004646",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BCBP",
-   "company": "BCB BANCORP INC",
-   "insider": "OBrien Thomas M",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-09-18",
-   "shares": 160000.0,
-   "price": 7.75,
-   "value": 1240000.0,
-   "acc": "0001193125-26-397677",
-   "filed": "2026-09-22",
-   "placement": true
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 5395.0,
-   "price": 248.3581,
-   "value": 1339891.95,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Fernandes Oswaldo Tadeu",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 79782.0,
-   "price": 17.98,
-   "value": 1434480.36,
-   "acc": "0001292814-26-004654",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 6762.0,
-   "price": 251.2432,
-   "value": 1698906.52,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Paris Roberto de Jesus",
-   "role": "Executive Officer",
-   "date": "2026-09-18",
-   "shares": 96702.0,
-   "price": 17.98,
-   "value": 1738701.96,
-   "acc": "0001292814-26-004658",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Alvarez Denise Aguiar",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 130596.0,
-   "price": 17.98,
-   "value": 2348116.08,
-   "acc": "0001292814-26-004635",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 33122.0,
-   "price": 74.8,
-   "value": 2477525.6,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 10821.0,
-   "price": 249.0756,
-   "value": 2695247.07,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 12079.0,
-   "price": 250.072,
-   "value": 3020619.69,
-   "acc": "0000905148-26-004241",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 51586.0,
-   "price": 77.06,
-   "value": 3975217.16,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 131333.0,
-   "price": 34.8847,
-   "value": 4581512.31,
-   "acc": "0001193125-26-397991",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "CV",
-   "company": "CapsoVision, Inc",
-   "insider": "HARARI ELIYAHOU ET AL",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 878734.0,
-   "price": 5.69,
-   "value": 4999996.46,
-   "acc": "0001009165-26-000009",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "CV",
-   "company": "CapsoVision, Inc",
-   "insider": "HARARI ELIYAHOU ET AL",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 878735.0,
-   "price": 5.69,
-   "value": 5000002.15,
-   "acc": "0001009165-26-000009",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 68760.0,
-   "price": 78.09,
-   "value": 5369468.4,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GSAT",
-   "company": "Globalstar, Inc.",
-   "insider": "Monroe James III",
-   "role": "Director",
-   "date": "2026-09-18",
-   "shares": 361600.0,
-   "price": 82.52,
-   "value": 29839232.0,
-   "acc": "0001379664-26-000002",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-18",
-   "shares": 1218429.0,
-   "price": 76.39,
-   "value": 93075791.31,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-21",
-   "shares": 500.0,
-   "price": 0.1826,
-   "value": 91.3,
-   "acc": "0001214659-26-011956",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Monte Mark David",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 16.8496,
-   "price": 11.9,
-   "value": 200.51,
-   "acc": "0001213900-26-102123",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -4084,6 +3038,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 17.0,
+   "price": 79.63,
+   "value": 1353.71,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4106,6 +3072,18 @@
    "value": 2298.24,
    "acc": "0001437749-26-031438",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 39.0,
+   "price": 81.915,
+   "value": 3194.69,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "BFS",
@@ -4145,6 +3123,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 61.0,
+   "price": 80.52,
+   "value": 4911.72,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
    "insider": "Plott Ronald Todd",
@@ -4178,6 +3168,30 @@
    "price": 6.0,
    "value": 6000.0,
    "acc": "0001628280-26-063980",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 101.0,
+   "price": 82.6822,
+   "value": 8350.9,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 154.0,
+   "price": 68.3736,
+   "value": 10529.53,
+   "acc": "0001193125-26-409116",
    "filed": "2026-09-30"
   },
   {
@@ -4241,6 +3255,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "PMPEX",
+   "company": "Primark Meketa Private Equity Investments Fund",
+   "insider": "Samson Ethan Isaac",
+   "role": "",
+   "date": "2026-09-28",
+   "shares": 831.422,
+   "price": 17.44,
+   "value": 14500.0,
+   "acc": "0002102036-26-000003",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "TPYTX",
    "company": "TCW Private Asset Income Fund",
    "insider": "Swell Michael",
@@ -4250,6 +3276,30 @@
    "price": 9.95,
    "value": 15243.74,
    "acc": "0001193125-26-408892",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 243.0,
+   "price": 62.9623,
+   "value": 15299.84,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 186.0,
+   "price": 86.7217,
+   "value": 16130.24,
+   "acc": "0001193125-26-409127",
    "filed": "2026-09-30"
   },
   {
@@ -4277,6 +3327,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 321.0,
+   "price": 67.0967,
+   "value": 21538.04,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "ASPI",
    "company": "ASP Isotopes Inc.",
    "insider": "Ryan Robert John Andrew",
@@ -4301,6 +3363,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 283.0,
+   "price": 79.63,
+   "value": 22535.29,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "FUL",
    "company": "FULLER H B CO",
    "insider": "Rasmussen Trangsrud Teresa J",
@@ -4310,6 +3384,30 @@
    "price": 48.98,
    "value": 24490.0,
    "acc": "0001225208-26-008013",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 338.0,
+   "price": 81.2019,
+   "value": 27446.24,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 479.0,
+   "price": 64.4276,
+   "value": 30860.82,
+   "acc": "0001193125-26-409116",
    "filed": "2026-09-30"
   },
   {
@@ -4323,6 +3421,42 @@
    "value": 32162.5,
    "acc": "0001445546-26-007166",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 404.0,
+   "price": 80.2259,
+   "value": 32411.26,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 10673.0,
+   "price": 3.57,
+   "value": 38102.61,
+   "acc": "0001628280-26-064003",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 534.0,
+   "price": 79.4045,
+   "value": 42402.0,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "NYAX",
@@ -4349,6 +3483,54 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 856.0,
+   "price": 61.2104,
+   "value": 52396.1,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 651.0,
+   "price": 81.915,
+   "value": 53326.67,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 884.0,
+   "price": 79.7076,
+   "value": 70461.52,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1056.0,
+   "price": 71.4843,
+   "value": 75487.42,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "FUL",
    "company": "FULLER H B CO",
    "insider": "Rasmussen Trangsrud Teresa J",
@@ -4373,6 +3555,54 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1027.0,
+   "price": 80.52,
+   "value": 82694.04,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1024.0,
+   "price": 81.0204,
+   "value": 82964.89,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 957.0,
+   "price": 86.8142,
+   "value": 83081.19,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1044.0,
+   "price": 81.3139,
+   "value": 84891.71,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4383,6 +3613,18 @@
    "value": 85718.42,
    "acc": "0001510281-26-000314",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1167.0,
+   "price": 83.1552,
+   "value": 97042.12,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "FUL",
@@ -4433,6 +3675,42 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1672.0,
+   "price": 81.8162,
+   "value": 136796.69,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1699.0,
+   "price": 82.6822,
+   "value": 140477.06,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1924.0,
+   "price": 75.5151,
+   "value": 145291.05,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4457,6 +3735,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2331.0,
+   "price": 68.9578,
+   "value": 160740.63,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
    "insider": "MALONE JOHN C",
@@ -4467,6 +3757,66 @@
    "value": 162299.67,
    "acc": "0000937797-26-000032",
    "filed": "2026-09-28"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2666.0,
+   "price": 61.6252,
+   "value": 164292.78,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2585.0,
+   "price": 68.3736,
+   "value": 176745.76,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2322.0,
+   "price": 85.9656,
+   "value": 199612.12,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2884.0,
+   "price": 77.4314,
+   "value": 223312.16,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2969.0,
+   "price": 78.5681,
+   "value": 233268.69,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "NYAX",
@@ -4493,6 +3843,42 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 4067.0,
+   "price": 62.9623,
+   "value": 256067.67,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 3114.0,
+   "price": 86.7217,
+   "value": 270051.37,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 3681.0,
+   "price": 76.345,
+   "value": 281025.95,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4505,6 +3891,42 @@
    "filed": "2026-09-28"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 3790.0,
+   "price": 86.9421,
+   "value": 329510.56,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 4577.0,
+   "price": 73.9686,
+   "value": 338554.28,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 4696.0,
+   "price": 73.0777,
+   "value": 343172.88,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Nechmad Yair",
@@ -4514,6 +3936,30 @@
    "price": 44.71,
    "value": 357680.0,
    "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 5382.0,
+   "price": 67.0967,
+   "value": 361114.44,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 4485.0,
+   "price": 87.5065,
+   "value": 392466.65,
+   "acc": "0001193125-26-409127",
    "filed": "2026-09-30"
   },
   {
@@ -4529,6 +3975,126 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 4932.0,
+   "price": 89.6036,
+   "value": 441924.96,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 5654.0,
+   "price": 81.2019,
+   "value": 459115.54,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 8021.0,
+   "price": 64.4276,
+   "value": 516773.78,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 5880.0,
+   "price": 88.5671,
+   "value": 520774.55,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 6783.0,
+   "price": 80.2259,
+   "value": 544172.28,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 6553.0,
+   "price": 84.8543,
+   "value": 556050.23,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 6428.0,
+   "price": 88.646,
+   "value": 569816.49,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 7390.0,
+   "price": 83.9512,
+   "value": 620399.37,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 8956.0,
+   "price": 79.4045,
+   "value": 711146.7,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 14344.0,
+   "price": 61.2104,
+   "value": 878001.98,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
    "insider": "SCULLY WILLIAM P",
@@ -4541,6 +4107,246 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 11729.0,
+   "price": 89.8555,
+   "value": 1053915.16,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 14827.0,
+   "price": 79.7076,
+   "value": 1181824.59,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 16641.0,
+   "price": 72.3873,
+   "value": 1204597.06,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 17698.0,
+   "price": 71.4843,
+   "value": 1265129.14,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 17159.0,
+   "price": 81.0204,
+   "value": 1390229.04,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 16036.0,
+   "price": 86.8142,
+   "value": 1392152.51,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 17490.0,
+   "price": 81.3139,
+   "value": 1422180.11,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 19554.0,
+   "price": 83.1552,
+   "value": 1626016.78,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 28028.0,
+   "price": 81.8162,
+   "value": 2293144.45,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 32261.0,
+   "price": 75.5151,
+   "value": 2436192.64,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 39066.0,
+   "price": 68.9578,
+   "value": 2693905.41,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 44690.0,
+   "price": 61.6252,
+   "value": 2754030.19,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 38932.0,
+   "price": 85.9656,
+   "value": 3346812.74,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 48350.0,
+   "price": 77.4314,
+   "value": 3743808.19,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 49771.0,
+   "price": 78.5681,
+   "value": 3910412.91,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 61700.0,
+   "price": 76.345,
+   "value": 4710486.5,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 63539.0,
+   "price": 86.9421,
+   "value": 5524214.09,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 76723.0,
+   "price": 73.9686,
+   "value": 5675092.9,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 78726.0,
+   "price": 73.0777,
+   "value": 5753115.01,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 75176.0,
+   "price": 87.5065,
+   "value": 6578388.64,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "ADRX",
    "company": "ADARx Pharmaceuticals, Inc.",
    "insider": "George Simeon",
@@ -4565,6 +4371,54 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 82673.0,
+   "price": 89.6036,
+   "value": 7407798.42,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 98561.0,
+   "price": 88.5671,
+   "value": 8729261.94,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 109842.0,
+   "price": 84.8543,
+   "value": 9320566.02,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 107772.0,
+   "price": 88.646,
+   "value": 9553556.71,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "ADRX",
    "company": "ADARx Pharmaceuticals, Inc.",
    "insider": "George Simeon",
@@ -4587,6 +4441,42 @@
    "value": 10074081.0,
    "acc": "0001193125-26-408064",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 123888.0,
+   "price": 83.9512,
+   "value": 10400546.27,
+   "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 196608.0,
+   "price": 89.8555,
+   "value": 17666310.14,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 278978.0,
+   "price": 72.3873,
+   "value": 20194464.18,
+   "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "ASGI",
@@ -4649,6 +4539,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 84.0,
+   "price": 85.8855,
+   "value": 7214.38,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4685,6 +4587,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 619.0,
+   "price": 84.2421,
+   "value": 52145.86,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "GME",
    "company": "GameStop Corp.",
    "insider": "Cohen Ryan",
@@ -4709,6 +4623,30 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 1195.0,
+   "price": 85.403,
+   "value": 102056.59,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 1416.0,
+   "price": 85.8855,
+   "value": 121613.87,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Nechmad Yair",
@@ -4718,6 +4656,18 @@
    "price": 44.5085,
    "value": 124134.21,
    "acc": "0001976408-26-000874",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 40081.0,
+   "price": 3.59,
+   "value": 143890.79,
+   "acc": "0001628280-26-064003",
    "filed": "2026-09-30"
   },
   {
@@ -4769,6 +4719,30 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 10381.0,
+   "price": 84.2421,
+   "value": 874517.24,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "insider": "BAKER BROS. ADVISORS LP",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 20031.0,
+   "price": 85.403,
+   "value": 1710707.49,
+   "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "COUR",
    "company": "Coursera, Inc.",
    "insider": "Pale Fire Capital SE",
@@ -4803,6 +4777,30 @@
    "value": 15620.0,
    "acc": "0001493152-26-045053",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "Horne William B.",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-30",
+   "shares": 100000.0,
+   "price": 0.163,
+   "value": 16300.0,
+   "acc": "0001214659-26-012280",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 44643.0,
+   "price": 3.63,
+   "value": 162054.09,
+   "acc": "0001628280-26-064003",
+   "filed": "2026-09-30"
   }
  ],
  "clusters": [
@@ -4820,11 +4818,6 @@
    "ticker": "GRAB",
    "insiders": 2,
    "total_value": 30743148.65
-  },
-  {
-   "ticker": "BBD",
-   "insiders": 17,
-   "total_value": 18526466.14
   },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
@@ -4858,18 +4851,13 @@
   },
   {
    "ticker": "GAM",
-   "insiders": 4,
-   "total_value": 481250.0
+   "insiders": 3,
+   "total_value": 387410.0
   },
   {
    "ticker": "FTHY",
    "insiders": 2,
    "total_value": 293773.22
-  },
-  {
-   "ticker": "FORTRESS PRIVATE LENDING FUND (CIK 2012139)",
-   "insiders": 2,
-   "total_value": 199993.4
   },
   {
    "ticker": "DFDV",
@@ -4882,14 +4870,19 @@
    "total_value": 180786.84
   },
   {
+   "ticker": "GPUS",
+   "insiders": 2,
+   "total_value": 169118.66
+  },
+  {
+   "ticker": "PMPEX",
+   "insiders": 2,
+   "total_value": 164499.99
+  },
+  {
    "ticker": "ATCH",
    "insiders": 5,
    "total_value": 162524.19
-  },
-  {
-   "ticker": "GPUS",
-   "insiders": 2,
-   "total_value": 156551.96
   },
   {
    "ticker": "PDI",
@@ -4907,11 +4900,6 @@
    "total_value": 127343.51
   },
   {
-   "ticker": "EU",
-   "insiders": 2,
-   "total_value": 111850.0
-  },
-  {
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 85087.95
@@ -4922,14 +4910,14 @@
    "total_value": 71342.5
   },
   {
-   "ticker": "CULP",
-   "insiders": 2,
-   "total_value": 47938.12
-  },
-  {
    "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
    "insiders": 2,
    "total_value": 33570.23
+  },
+  {
+   "ticker": "CULP",
+   "insiders": 2,
+   "total_value": 29514.4
   },
   {
    "ticker": "DTIL",
@@ -4948,20 +4936,11 @@
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 3,
-   "total_value": 1200.51
-  },
-  {
-   "ticker": "BCBP",
    "insiders": 2,
-   "total_value": 0,
-   "other_value": 1317500.0
+   "total_value": 1000.0
   }
  ],
  "seen": [
-  "0001965214-26-000006",
-  "0001965544-26-000008",
-  "0001965585-26-000006",
   "0001965586-26-000017",
   "0001965808-26-000015",
   "0001965920-26-000007",
@@ -6202,6 +6181,7 @@
   "0001999371-26-021639",
   "0001999371-26-021641",
   "0001999371-26-021647",
+  "0001999371-26-021658",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7496,6 +7476,7 @@
   "0002100774-26-000004",
   "0002100829-26-000007",
   "0002101254-26-000004",
+  "0002102036-26-000003",
   "0002102304-26-000003",
   "0002102407-26-000005",
   "0002102774-26-000012",
@@ -7693,6 +7674,7 @@
   "0002123975-26-000021",
   "0002123975-26-000023",
   "0002123975-26-000025",
+  "0002123975-26-000027",
   "0002123988-26-000006",
   "0002124082-26-000005",
   "0002124256-26-000005",
