@@ -1631,3 +1631,60 @@ conservative behaviour, and the one the council said to keep until Anupam rules.
   docs/data/insiders.json with no currently-open ledger row and not on exclusions.csv, in the feed's own
   order (descending total_value) — stated in full on today's PDI forecast row.
 - price_audit.py --open-only: REF_OK 83, REF_MISMATCH 0 — clean.
+
+## 2026-09-30 [insider]
+- **Ledger: 0 scored by this run, by design (INS-018).** `bin/logs/grade-all-due.log` carries nothing
+  for 2026-09-30 — `grade_all_due.py` fires 13:40 PT and this run is ~08:4x PT, well before it. **5 rows
+  come due today** (BLX, BATL, CBU, BIVI, TNXP, all logged 08-31), none overdue from before; they score
+  at the 13:40 PT run, not here. Forecast side: 3 rows sit unscored — BORR (check 09-28) and BBD (check
+  09-29) are the standing INS-025 unparseable-prose casualties, and **VFF (check_date TODAY, 09-30) is a
+  third**: it was filed 09-23 in the same prose template ("Absolute T N-session move from V exceeds X% on
+  D") before the 09-29 fix-forward was adopted, so it will also `SKIP (unparsed)` at the grader. Not
+  patched here — INS-025 is registered and named, not this run's to fix; today's own new forecast (below)
+  uses the parseable form so the pile does not grow further.
+- **1b — 4 queued rows filled at the 09-30 official open** (INS-020/REG-PP-002): ATCH 0.1926, PDI 14.11,
+  DTIL 6.24, FNWD 42.12. `fill_queued: 4 filled, 0 still queued`.
+- **Council KEEP — price_audit.py --open-only, NOT clean.** `PASS 86 FAIL 0 NO_BAR 4 (ATCH/PDI/DTIL/FNWD —
+  today's session hasn't settled yet, so no complete 09-30 bar exists to check the just-filled prices
+  against; not a FAIL) UNFETCHABLE 0 QUEUED 0 VOID 0`. **INS-020 reference check: REF_OK 85, REF_MISMATCH
+  1** — DFDV (logged 09-28, filled 2026-09-29 official open) carries `price_at_call 5.83` but the audit
+  computes the owed 09-29 official open as **5.84**, a one-cent gap. First REF_MISMATCH since INS-020
+  shipped clean on 09-29. **Not restated** — BENCH-002 and the council's own instruction ("disposal is
+  Anupam's ruling, never a side effect") both apply, and a one-cent gap is exactly the kind of thing that
+  is tempting to wave off as noise without checking whether it recurs. Escalated, not repaired.
+- **Council OPEN — Firm Brain §31, quick check only (not a deep dive).** `bars()` has a single call site
+  in `price_audit.py` (inside the per-row loop, keyed by a cache `dict` shared across the whole run). The
+  cache is checked before any fetch, and when a fetch does happen it pulls the ticker's FULL available
+  range through "now" in one call — so a later row's `need` date for the same ticker is already inside
+  the cache from the first fetch and does not trigger a second one. **Answer: no, a ticker's live endpoint
+  is not called twice in one run under normal operation** — the one exception would be a cache entry still
+  in the old two-field `[low, high]` shape, which forces a refetch regardless, but that shape has not been
+  written since INS-020 landed. Not chased further per the council's own "don't do a deep investigation if
+  not quick" instruction.
+- **4 new clusters logged, all QUEUED (INS-020), all `stale_quote=no`**, in the feed's own descending-
+  `total_value` order, no cap (Council KEEP, restated per instruction since new rows landed this run):
+  ADRX ($34.25M, 2 insiders — a brand-new listing, only 3 settled bars, no base rate possible; flagged so
+  its eventual outcome is not read as informative the way 08-11's BLSM/LTGO warning still applies), BPRE
+  ($6.03M, 2), UXIN ($1.01M, 2), FUL ($499.1K, 5) — all headline stratum (>= $100k). No cluster was
+  dropped by a cap; the other clusters in today's feed all already carry an open row or a pre-existing
+  disclosed exclusion (Blackstone Private RE Credit & Income Fund CIK 2049733 $10.03M, Fortress Private
+  Lending Fund CIK 2012139 $0.20M, Fundrise Real Estate Interval Fund CIK 1777677 $1,200.51 — all
+  non-traded, carried forward unchanged in `exclusions.csv`).
+- **Scorecard, never blended (`strata.py`):** HEADLINE >= $100k **49% (n=80 on 21 entry days)**;
+  sub-floor < $100k 38% (n=39 on 17 days); unknown 0% (n=1). All 120 scored rows: **45.0% hit rate**;
+  `stale_quote != yes` rows: 45.3% (n=117). SPY trailing ~30 calendar days (08-31 settled close 767.05 →
+  09-29 settled close 764.20): **−0.37%**. Both strata now sit AT OR BELOW a coin flip, and the book has
+  drifted down from the 51-55% range it held in mid-September — the standing verdict (889 events, 670
+  mature, no significant edge at any horizon, naive t +3.03 collapsing to clustered t +1.13) continues to
+  hold on a growing scored sample, not just the pre-registered one.
+- `attribution.py`: 258 calls joined (255 with vintage features, 3 disclosed unrecoverable), 120 scored.
+  big cluster (>=$5M) n=15 dates=11 hit 33% avg −0.2%; small cluster n=105 dates=21 hit 46% avg −2.4%;
+  CEO buying n=56 dates=20 hit 41% avg −5.1%; directors only n=73 dates=21 hit 45% avg −0.5%; 3+ insiders
+  n=33 dates=16 hit 45% avg −1.9%; bought-the-run-up (>10%) n=21 dates=15 hit 52% avg +1.7%. Every split
+  is still well short of the day-count that would make it a lesson rather than a description.
+- **Forecast filed: UXIN, p=0.28 [p_cal=0.28] (CAL-001, no adjustment — 0.2–0.3 bin n=3, not actionable),
+  parseable C form**, `abs(UXIN last on 2026-10-07 / 1.23 - 1) >= 0.10` — reference is UXIN's SETTLED
+  09-29 close (not today's live print), measured base rate 0.286 (2y) / 0.273 (trailing 6mo, regimes
+  agree), no cluster tilt applied per the standing null. Book calibration unchanged from yesterday at
+  n=33 resolved (today's row is open, not due yet): Brier skill −0.054, no skill; 0.2–0.3 bin still n=3.
+[insider]
