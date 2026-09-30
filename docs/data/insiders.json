@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-30 13:33 UTC",
+ "updated_utc": "2026-09-30 14:04 UTC",
  "purchases": [
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 200.0,
-   "price": 4.86,
-   "value": 972.0,
-   "acc": "0001214659-26-011835",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "CBDS",
-   "company": "Dogecoin Cash, Inc.",
-   "insider": "TOBIAS DAVID",
-   "role": "CEO",
-   "date": "2026-09-17",
-   "shares": 125000.0,
-   "price": 0.008,
-   "value": 1000.0,
-   "acc": "0001096906-26-001459",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -4517,6 +4493,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "BFS",
+   "company": "SAUL CENTERS, INC.",
+   "insider": "Friedman Joel Albert",
+   "role": "Exec VP, CAO & Treasurer",
+   "date": "2026-09-28",
+   "shares": 200.0,
+   "price": 18.53,
+   "value": 3706.0,
+   "acc": "0001472420-26-000004",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "LBSR",
    "company": "LIBERTY STAR URANIUM & METALS CORP.",
    "insider": "O'HEERON PETE",
@@ -4552,6 +4540,18 @@
    "value": 5760.0,
    "acc": "0001398344-26-017532",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "CULP",
+   "company": "CULP INC",
+   "insider": "CULP ROBERT GEORGE IV",
+   "role": "President & CEO",
+   "date": "2026-09-28",
+   "shares": 2960.0,
+   "price": 3.89,
+   "value": 11514.4,
+   "acc": "0001294280-26-000007",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "GF",
@@ -4920,7 +4920,7 @@
   {
    "ticker": "CULP",
    "insiders": 2,
-   "total_value": 36423.72
+   "total_value": 47938.12
   },
   {
    "ticker": "DTIL",
@@ -4950,9 +4950,6 @@
   }
  ],
  "seen": [
-  "0001964248-26-000002",
-  "0001964281-26-000002",
-  "0001964342-26-000004",
   "0001964406-26-000014",
   "0001964417-26-000011",
   "0001964474-26-000004",
@@ -7121,6 +7118,9 @@
   "0002071844-26-001294",
   "0002071844-26-001295",
   "0002071844-26-001297",
+  "0002071844-26-001305",
+  "0002071844-26-001307",
+  "0002071844-26-001309",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071948-26-000005",
