@@ -1,126 +1,6 @@
 {
- "updated_utc": "2026-09-30 15:07 UTC",
+ "updated_utc": "2026-09-30 15:23 UTC",
  "purchases": [
-  {
-   "ticker": "VENU",
-   "company": "Venu Holding Corp",
-   "insider": "Cominsky Stephen Joseph",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 3234.0,
-   "price": 1.7,
-   "value": 5497.8,
-   "acc": "0001493152-26-043617",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BRID",
-   "company": "BRIDGFORD FOODS CORP",
-   "insider": "Bridgford Allan Jr.",
-   "role": "",
-   "date": "2026-09-17",
-   "shares": 1000.0,
-   "price": 5.8,
-   "value": 5800.0,
-   "acc": "0001493152-26-043437",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "RVSB",
-   "company": "RIVERVIEW BANCORP INC",
-   "insider": "Sherman Nicole",
-   "role": "President/CEO",
-   "date": "2026-09-17",
-   "shares": 1765.0,
-   "price": 5.69,
-   "value": 10042.85,
-   "acc": "0001322325-26-000004",
-   "filed": "2026-09-17"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-17",
-   "shares": 1258.0,
-   "price": 11.1,
-   "value": 13963.8,
-   "acc": "0001510281-26-000307",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "KRNY",
-   "company": "Kearny Financial Corp.",
-   "insider": "Wong-Zaza Melvina",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 1560.0,
-   "price": 9.635,
-   "value": 15030.6,
-   "acc": "0001982651-26-000004",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "HLEO",
-   "company": "Helio Corp /FL/",
-   "insider": "Knauf Mark Harry",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-17",
-   "shares": 10700.0,
-   "price": 1.46,
-   "value": 15622.0,
-   "acc": "0001683168-26-007242",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "SKIL",
-   "company": "Skillsoft Corp.",
-   "insider": "HOVSEPIAN RONALD W",
-   "role": "CEO & Executive Chair",
-   "date": "2026-09-17",
-   "shares": 2691.0,
-   "price": 6.1651,
-   "value": 16590.28,
-   "acc": "0001091482-26-000015",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Qiu Wenbin",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-17",
-   "shares": 7100.0,
-   "price": 2.84,
-   "value": 20164.0,
-   "acc": "0001104659-26-108719",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "GAM",
-   "company": "GENERAL AMERICAN INVESTORS CO INC",
-   "insider": "Jin Samantha X.",
-   "role": "Treasurer/PAO/PFO",
-   "date": "2026-09-17",
-   "shares": 1000.0,
-   "price": 23.66,
-   "value": 23660.0,
-   "acc": "0000040417-26-000048",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Ben-Avi David",
-   "role": "CTO and Co Founder",
-   "date": "2026-09-17",
-   "shares": 1014.0,
-   "price": 42.9098,
-   "value": 43510.54,
-   "acc": "0001976408-26-000862",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "GAM",
    "company": "GENERAL AMERICAN INVESTORS CO INC",
@@ -4385,6 +4265,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 466.0,
+   "price": 2.905,
+   "value": 1353.73,
+   "acc": "0001536588-26-000037",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "RCG",
    "company": "RENN Fund, Inc.",
    "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -4494,6 +4386,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "Rasmussen Trangsrud Teresa J",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 500.0,
+   "price": 48.98,
+   "value": 24490.0,
+   "acc": "0001225208-26-008013",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "FTHY",
    "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
    "insider": "HOUSEY WILLIAM A JR",
@@ -4530,6 +4434,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "Rasmussen Trangsrud Teresa J",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1542.0,
+   "price": 48.9587,
+   "value": 75494.32,
+   "acc": "0001225208-26-008013",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4542,6 +4458,30 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "Zaheer Srilata",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2000.0,
+   "price": 49.06,
+   "value": 98120.0,
+   "acc": "0001225208-26-008011",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "HANDLEY THOMAS W",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2000.0,
+   "price": 49.41,
+   "value": 98820.0,
+   "acc": "0001225208-26-008014",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "NC SLF INC. (CIK 1844684)",
    "company": "NC SLF Inc.",
    "insider": "TEACHERS INSURANCE & ANNUITY ASSOCIATION OF AMERICA",
@@ -4551,6 +4491,18 @@
    "price": 9.72,
    "value": 99007.92,
    "acc": "0001225208-26-008002",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "FLORNESS DANIEL L",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2030.0,
+   "price": 49.34,
+   "value": 100160.2,
+   "acc": "0001225208-26-008015",
    "filed": "2026-09-30"
   },
   {
@@ -4686,6 +4638,42 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 278.0,
+   "price": 2.905,
+   "value": 807.59,
+   "acc": "0001536588-26-000037",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "Zaheer Srilata",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 40.0,
+   "price": 49.9726,
+   "value": 1998.9,
+   "acc": "0001225208-26-008011",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 1854.0,
+   "price": 2.915,
+   "value": 5404.41,
+   "acc": "0001536588-26-000037",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4732,6 +4720,18 @@
    "value": 82074.65,
    "acc": "0000921895-26-002670",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "Lauber Charles T",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 2005.0,
+   "price": 49.8676,
+   "value": 99984.54,
+   "acc": "0001225208-26-008012",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "NYAX",
@@ -4835,7 +4835,7 @@
   {
    "ticker": "NYAX",
    "insiders": 2,
-   "total_value": 6983757.81
+   "total_value": 6940247.27
   },
   {
    "ticker": "BPRE",
@@ -4860,7 +4860,12 @@
   {
    "ticker": "GAM",
    "insiders": 5,
-   "total_value": 552290.0
+   "total_value": 528630.0
+  },
+  {
+   "ticker": "FUL",
+   "insiders": 5,
+   "total_value": 499067.96
   },
   {
    "ticker": "FTHY",
@@ -4926,11 +4931,6 @@
    "ticker": "DTIL",
    "insiders": 2,
    "total_value": 23500.97
-  },
-  {
-   "ticker": "BRID",
-   "insiders": 2,
-   "total_value": 7854.5
   },
   {
    "ticker": "FNWD",
