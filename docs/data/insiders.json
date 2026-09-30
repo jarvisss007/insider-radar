@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-09-30 21:26 UTC",
+ "updated_utc": "2026-09-30 21:41 UTC",
  "purchases": [
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Batista de Lima Filho Pedro",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 400.0,
-   "price": 10.55,
-   "value": 4220.0,
-   "acc": "0001213900-26-102459",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 1000.0,
-   "price": 4.36,
-   "value": 4360.0,
-   "acc": "0001062993-26-005069",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-21",
-   "shares": 4300.0,
-   "price": 1.128,
-   "value": 4850.4,
-   "acc": "0001079973-26-001270",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 795.0,
-   "price": 6.21,
-   "value": 4936.95,
-   "acc": "0000912282-26-001303",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "GCO",
-   "company": "GENESCO INC",
-   "insider": "Collins Jonathan M.",
-   "role": "SVP Finance and CFO",
-   "date": "2026-09-21",
-   "shares": 295.0,
-   "price": 33.84,
-   "value": 9982.8,
-   "acc": "0001193125-26-397891",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "EU",
-   "company": "enCore Energy Corp.",
-   "insider": "Little Richard H",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-21",
-   "shares": 10000.0,
-   "price": 1.06,
-   "value": 10600.0,
-   "acc": "0001193125-26-397218",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Qiu Wenbin",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-21",
-   "shares": 6900.0,
-   "price": 2.85,
-   "value": 19665.0,
-   "acc": "0001104659-26-109444",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "UTI",
-   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
-   "insider": "DEVINCENZI ROBERT THOMAS",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 1000.0,
-   "price": 19.8333,
-   "value": 19833.3,
-   "acc": "0001193125-26-399888",
-   "filed": "2026-09-23"
-  },
   {
    "ticker": "TLYS",
    "company": "TILLY'S, INC.",
@@ -1380,6 +1284,18 @@
    "value": 1871280.0,
    "acc": "0001398344-26-017550",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "HAMILTON LANE CREDIT INCOME FUND (CIK 2027232)",
+   "company": "Hamilton Lane Credit Income Fund",
+   "insider": "HAMILTON LANE ADVISORS LLC",
+   "role": "10% owner",
+   "date": "2026-09-23",
+   "shares": 389105.058,
+   "price": 10.28,
+   "value": 4000000.0,
+   "acc": "0001213900-26-105358",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
@@ -3279,6 +3195,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 2717.0,
+   "price": 9.2757,
+   "value": 25202.08,
+   "acc": "0001104659-26-112426",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4024,6 +3952,32 @@
    "placement": true
   },
   {
+   "ticker": "ADRX",
+   "company": "ADARx Pharmaceuticals, Inc.",
+   "insider": "Chimovits Erez",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 61516.0,
+   "price": 17.0,
+   "value": 1045772.0,
+   "acc": "0000947871-26-000912",
+   "filed": "2026-09-30",
+   "placement": true
+  },
+  {
+   "ticker": "ADRX",
+   "company": "ADARx Pharmaceuticals, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 61516.0,
+   "price": 17.0,
+   "value": 1045772.0,
+   "acc": "0000947871-26-000911",
+   "filed": "2026-09-30",
+   "placement": true
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4241,6 +4195,19 @@
    "placement": true
   },
   {
+   "ticker": "ADRX",
+   "company": "ADARx Pharmaceuticals, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 300249.0,
+   "price": 17.0,
+   "value": 5104233.0,
+   "acc": "0000947871-26-000911",
+   "filed": "2026-09-30",
+   "placement": true
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4376,6 +4343,19 @@
   {
    "ticker": "ADRX",
    "company": "ADARx Pharmaceuticals, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 588235.0,
+   "price": 17.0,
+   "value": 9999995.0,
+   "acc": "0000947871-26-000911",
+   "filed": "2026-09-30",
+   "placement": true
+  },
+  {
+   "ticker": "ADRX",
+   "company": "ADARx Pharmaceuticals, Inc.",
    "insider": "George Simeon",
    "role": "Director",
    "date": "2026-09-28",
@@ -4431,6 +4411,18 @@
    "price": 72.3873,
    "value": 20194464.18,
    "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
+   "company": "AGL Private Credit Income Fund",
+   "insider": "Abu Dhabi Investment Authority",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 955608.711,
+   "price": 23.42,
+   "value": 22380356.01,
+   "acc": "0001193125-26-409304",
    "filed": "2026-09-30"
   },
   {
@@ -4770,6 +4762,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Horowitz Joshua",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 858.0,
+   "price": 9.23,
+   "value": 7919.34,
+   "acc": "0001104659-26-112426",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "ANIX",
    "company": "Anixa Biosciences Inc",
    "insider": "Catelani Michael",
@@ -4814,14 +4818,19 @@
   },
   {
    "ticker": "ADRX",
-   "insiders": 3,
+   "insiders": 5,
    "total_value": 34251838.0,
-   "other_value": 16150000.0
+   "other_value": 33345772.0
   },
   {
    "ticker": "GRAB",
    "insiders": 2,
    "total_value": 30743148.65
+  },
+  {
+   "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
+   "insiders": 3,
+   "total_value": 22413926.24
   },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
@@ -4914,11 +4923,6 @@
    "total_value": 71342.5
   },
   {
-   "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
-   "insiders": 2,
-   "total_value": 33570.23
-  },
-  {
    "ticker": "CULP",
    "insiders": 2,
    "total_value": 29514.4
@@ -4940,8 +4944,6 @@
   }
  ],
  "seen": [
-  "0001966857-26-000009",
-  "0001966857-26-000013",
   "0001966942-26-000004",
   "0001966946-26-000007",
   "0001967048-26-000010",
@@ -5320,6 +5322,8 @@
   "0001992104-26-000362",
   "0001992104-26-000363",
   "0001992104-26-000364",
+  "0001992104-26-000425",
+  "0001992104-26-000426",
   "0001992312-26-000012",
   "0001992352-26-000005",
   "0001992394-26-000011",
