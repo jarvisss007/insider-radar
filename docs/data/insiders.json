@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-09-30 15:23 UTC",
+ "updated_utc": "2026-09-30 15:39 UTC",
  "purchases": [
-  {
-   "ticker": "GAM",
-   "company": "GENERAL AMERICAN INVESTORS CO INC",
-   "insider": "Jin Samantha X.",
-   "role": "Treasurer/PAO/PFO",
-   "date": "2026-09-17",
-   "shares": 2000.0,
-   "price": 23.69,
-   "value": 47380.0,
-   "acc": "0000040417-26-000048",
-   "filed": "2026-09-18"
-  },
-  {
-   "ticker": "NWWP",
-   "company": "NEW PEOPLES BANKSHARES INC",
-   "insider": "COX JOHN D",
-   "role": "Director",
-   "date": "2026-09-17",
-   "shares": 12000.0,
-   "price": 4.9,
-   "value": 58800.0,
-   "acc": "0001903596-26-000357",
-   "filed": "2026-09-18"
-  },
   {
    "ticker": "PLAY",
    "company": "Dave & Buster's Entertainment, Inc.",
@@ -4350,6 +4326,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "TPYTX",
+   "company": "TCW Private Asset Income Fund",
+   "insider": "Tarica Andrew",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 1292.714,
+   "price": 9.95,
+   "value": 12862.5,
+   "acc": "0001193125-26-408648",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4638,6 +4626,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "ASGI",
+   "company": "abrdn Global Infrastructure Income Fund",
+   "insider": "Baird Gordon A",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 32.0,
+   "price": 19.13,
+   "value": 612.16,
+   "acc": "0001104659-26-112212",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4858,14 +4858,14 @@
    "total_value": 857125.0
   },
   {
-   "ticker": "GAM",
-   "insiders": 5,
-   "total_value": 528630.0
-  },
-  {
    "ticker": "FUL",
    "insiders": 5,
    "total_value": 499067.96
+  },
+  {
+   "ticker": "GAM",
+   "insiders": 4,
+   "total_value": 481250.0
   },
   {
    "ticker": "FTHY",
