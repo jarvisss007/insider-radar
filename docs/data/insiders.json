@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-10-01 19:57 UTC",
+ "updated_utc": "2026-10-01 20:13 UTC",
  "purchases": [
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 1000.0,
-   "price": 21.19,
-   "value": 21190.0,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Ben-Avi David",
-   "role": "CTO and Co Founder",
-   "date": "2026-09-23",
-   "shares": 700.0,
-   "price": 43.0726,
-   "value": 30150.82,
-   "acc": "0001976408-26-000864",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Ben-Avi David",
-   "role": "CTO and Co Founder",
-   "date": "2026-09-23",
-   "shares": 700.0,
-   "price": 43.0726,
-   "value": 30150.82,
-   "acc": "0001976408-26-000873",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 4657.0,
-   "price": 10.85,
-   "value": 50528.45,
-   "acc": "0001510281-26-000311",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 12034.0,
-   "price": 5.1086,
-   "value": 61476.89,
-   "acc": "0001214659-26-011957",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "HHH",
-   "company": "Howard Hughes Holdings Inc.",
-   "insider": "Davis Andrew D.",
-   "role": "Chief Operating Officer, HHC",
-   "date": "2026-09-23",
-   "shares": 1000.0,
-   "price": 64.49,
-   "value": 64490.0,
-   "acc": "0001104659-26-110504",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "FTHY",
-   "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
-   "insider": "HOUSEY WILLIAM A JR",
-   "role": "",
-   "date": "2026-09-23",
-   "shares": 5000.0,
-   "price": 12.95,
-   "value": 64750.0,
-   "acc": "0001445546-26-007116",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "SKIL",
-   "company": "Skillsoft Corp.",
-   "insider": "HOVSEPIAN RONALD W",
-   "role": "CEO & Executive Chair",
-   "date": "2026-09-23",
-   "shares": 11196.0,
-   "price": 5.932,
-   "value": 66414.67,
-   "acc": "0001091482-26-000019",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -3802,6 +3706,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 512.0,
+   "price": 20.4492,
+   "value": 10469.99,
+   "acc": "0000937797-26-000034",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4040,6 +3956,19 @@
    "value": 340099.98,
    "acc": "0001104659-26-112076",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "TKLF",
+   "company": "Tokyo Lifestyle Co., Ltd.",
+   "insider": "Kanayama Mei",
+   "role": "Representative Director (PEO)",
+   "date": "2026-09-29",
+   "shares": 1396755.0,
+   "price": 0.274,
+   "value": 382710.87,
+   "acc": "0001213900-26-105765",
+   "filed": "2026-10-01",
+   "placement": true
   },
   {
    "ticker": "GPI",
@@ -4378,6 +4307,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 1013.0,
+   "price": 20.4301,
+   "value": 20695.69,
+   "acc": "0000937797-26-000034",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "FUL",
    "company": "FULLER H B CO",
    "insider": "Martin Celine Christine",
@@ -4556,6 +4497,18 @@
    "value": 162054.09,
    "acc": "0001628280-26-064003",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "LILA",
+   "company": "Liberty Latin America Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 20000.0,
+   "price": 8.4016,
+   "value": 168032.0,
+   "acc": "0000937797-26-000034",
+   "filed": "2026-10-01"
   },
   {
    "ticker": "GPI",
@@ -4798,6 +4751,54 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "CTM",
+   "company": "Castellum, Inc.",
+   "insider": "MARTIN TAMMY L",
+   "role": "General Counsel  and Secretary",
+   "date": "2026-10-01",
+   "shares": 1396.0,
+   "price": 0.5352,
+   "value": 747.14,
+   "acc": "0001877939-26-000087",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "CTM",
+   "company": "Castellum, Inc.",
+   "insider": "Bell David T",
+   "role": "Chief Financial Officer",
+   "date": "2026-10-01",
+   "shares": 1396.0,
+   "price": 0.5352,
+   "value": 747.14,
+   "acc": "0001877939-26-000086",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "CTM",
+   "company": "Castellum, Inc.",
+   "insider": "Merriman Andrew",
+   "role": "Chief Operating Officer",
+   "date": "2026-10-01",
+   "shares": 1396.0,
+   "price": 0.5352,
+   "value": 747.14,
+   "acc": "0001877939-26-000085",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "CTM",
+   "company": "Castellum, Inc.",
+   "insider": "Ives Glen R",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 1700.0,
+   "price": 0.5352,
+   "value": 909.84,
+   "acc": "0001877939-26-000084",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "CRESY",
    "company": "CRESUD INC",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4850,7 +4851,7 @@
   {
    "ticker": "NYAX",
    "insiders": 2,
-   "total_value": 6806037.61
+   "total_value": 6745735.97
   },
   {
    "ticker": "GPUS",
@@ -4866,11 +4867,6 @@
    "ticker": "XENE",
    "insiders": 2,
    "total_value": 1681140.0
-  },
-  {
-   "ticker": "HHH",
-   "insiders": 2,
-   "total_value": 1667427.5
   },
   {
    "ticker": "UXIN",
@@ -4895,7 +4891,7 @@
   {
    "ticker": "FTHY",
    "insiders": 2,
-   "total_value": 290659.5
+   "total_value": 225909.5
   },
   {
    "ticker": "ANIX",
@@ -4936,13 +4932,14 @@
    "ticker": "FNWD",
    "insiders": 4,
    "total_value": 3694.59
+  },
+  {
+   "ticker": "CTM",
+   "insiders": 4,
+   "total_value": 3151.26
   }
  ],
  "seen": [
-  "0001968915-26-000119",
-  "0001968915-26-000120",
-  "0001968915-26-000121",
-  "0001968915-26-000122",
   "0001968915-26-000123",
   "0001968915-26-000124",
   "0001968915-26-000125",
@@ -4991,8 +4988,10 @@
   "0001972135-26-000005",
   "0001972630-26-000002",
   "0001972724-26-000010",
+  "0001972789-26-000010",
   "0001972931-26-000004",
   "0001973103-26-000007",
+  "0001973105-26-000010",
   "0001973239-26-000121",
   "0001973239-26-000122",
   "0001973239-26-000130",
@@ -6612,6 +6611,7 @@
   "0002037332-26-000009",
   "0002038003-26-000003",
   "0002038003-26-000006",
+  "0002038097-26-000016",
   "0002038202-26-000014",
   "0002038202-26-000016",
   "0002038210-26-000002",
@@ -6716,6 +6716,7 @@
   "0002050035-26-000011",
   "0002050167-26-000019",
   "0002050167-26-000023",
+  "0002050167-26-000030",
   "0002050172-26-000032",
   "0002050172-26-000036",
   "0002050174-26-000004",
