@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-01 19:14 UTC",
+ "updated_utc": "2026-10-01 19:25 UTC",
  "purchases": [
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 178.0,
-   "price": 20.7,
-   "value": 3684.6,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 250.0,
-   "price": 20.65,
-   "value": 5162.5,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 250.0,
-   "price": 20.75,
-   "value": 5187.5,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 250.0,
-   "price": 20.79,
-   "value": 5197.5,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
@@ -4414,6 +4366,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "Jones Nina P",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 46.0,
+   "price": 202.78,
+   "value": 9327.88,
+   "acc": "0002007895-26-000016",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4423,6 +4387,18 @@
    "price": 1.3362,
    "value": 9945.34,
    "acc": "0001493152-26-045255",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "LEWIS RANDALL J",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 65.0,
+   "price": 202.78,
+   "value": 13180.7,
+   "acc": "0001123485-26-000010",
    "filed": "2026-10-01"
   },
   {
@@ -4498,6 +4474,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "RODKIN GARY M",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 232.0,
+   "price": 202.78,
+   "value": 47044.96,
+   "acc": "0001199045-26-000010",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
    "insider": "AULT MILTON C III",
@@ -4531,6 +4519,18 @@
    "price": 0.92,
    "value": 92000.0,
    "acc": "0001437749-26-031654",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "LEIBOWITZ REUBEN S",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 480.0,
+   "price": 202.78,
+   "value": 97334.4,
+   "acc": "0001210982-26-000010",
    "filed": "2026-10-01"
   },
   {
@@ -4893,6 +4893,11 @@
    "total_value": 290659.5
   },
   {
+   "ticker": "SPG",
+   "insiders": 7,
+   "total_value": 289367.06
+  },
+  {
    "ticker": "ANIX",
    "insiders": 4,
    "total_value": 180786.84
@@ -4913,19 +4918,14 @@
    "total_value": 127343.51
   },
   {
-   "ticker": "SPG",
-   "insiders": 3,
-   "total_value": 122479.12
+   "ticker": "MOALX",
+   "insiders": 2,
+   "total_value": 70000.0
   },
   {
    "ticker": "RGCO",
    "insiders": 3,
-   "total_value": 83644.55
-  },
-  {
-   "ticker": "MOALX",
-   "insiders": 2,
-   "total_value": 70000.0
+   "total_value": 64412.45
   },
   {
    "ticker": "DTIL",
@@ -4944,7 +4944,6 @@
   }
  ],
  "seen": [
-  "0001968915-26-000116",
   "0001968915-26-000117",
   "0001968915-26-000119",
   "0001968915-26-000120",
@@ -6256,6 +6255,7 @@
   "0002006943-26-000012",
   "0002007420-26-000002",
   "0002007443-26-000005",
+  "0002007895-26-000016",
   "0002007928-26-000003",
   "0002008126-26-000003",
   "0002008217-26-000003",
