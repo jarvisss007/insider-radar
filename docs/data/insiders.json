@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-01 19:41 UTC",
+ "updated_utc": "2026-10-01 19:57 UTC",
  "purchases": [
-  {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "company": "Blackstone Private Real Estate Credit & Income Fund",
-   "insider": "Blackstone Private Multi-Asset Credit & Income Fund",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 636.667,
-   "price": 26.17,
-   "value": 16661.58,
-   "acc": "0001213900-26-103145",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "company": "Blackstone Private Real Estate Credit & Income Fund",
-   "insider": "Blackstone Holdings IV L.P.",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 636.667,
-   "price": 26.17,
-   "value": 16661.58,
-   "acc": "0001213900-26-103146",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-23",
-   "shares": 100000.0,
-   "price": 0.1778,
-   "value": 17780.0,
-   "acc": "0001214659-26-011956",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "JOHNSTON ROBERT B",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 1000.0,
-   "price": 20.75,
-   "value": 20750.0,
-   "acc": "0001437749-26-031185",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "RGCO",
    "company": "RGC RESOURCES INC",
@@ -3874,6 +3826,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 1988.0,
+   "price": 10.63,
+   "value": 21132.44,
+   "acc": "0001510281-26-000319",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4306,6 +4270,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 519.0,
+   "price": 9.52,
+   "value": 4940.88,
+   "acc": "0001510281-26-000318",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
    "insider": "Horowitz Joshua",
@@ -4411,6 +4387,18 @@
    "price": 49.5,
    "value": 22997.65,
    "acc": "0001225208-26-008045",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 1238.0,
+   "price": 20.39,
+   "value": 25242.82,
+   "acc": "0001510281-26-000320",
    "filed": "2026-10-01"
   },
   {
@@ -4543,6 +4531,18 @@
    "price": 11.63,
    "value": 99703.99,
    "acc": "0002119764-26-000028",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 11059.0,
+   "price": 10.71,
+   "value": 118441.89,
+   "acc": "0001510281-26-000319",
    "filed": "2026-10-01"
   },
   {
@@ -4833,14 +4833,14 @@
    "total_value": 22413926.24
   },
   {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "insiders": 2,
-   "total_value": 10033323.16
-  },
-  {
    "ticker": "NC SLF INC. (CIK 1844684)",
    "insiders": 2,
    "total_value": 10000004.04
+  },
+  {
+   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
+   "insiders": 2,
+   "total_value": 10000000.0
   },
   {
    "ticker": "BPRE",
@@ -4855,7 +4855,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5219721.31
+   "total_value": 5201941.31
   },
   {
    "ticker": "BBASX",
@@ -4921,11 +4921,6 @@
    "ticker": "MOALX",
    "insiders": 2,
    "total_value": 70000.0
-  },
-  {
-   "ticker": "RGCO",
-   "insiders": 2,
-   "total_value": 46167.25
   },
   {
    "ticker": "DTIL",
