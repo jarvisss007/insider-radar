@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-01 07:23 UTC",
+ "updated_utc": "2026-10-01 10:43 UTC",
  "purchases": [
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Ben-Avi David",
-   "role": "CTO and Co Founder",
-   "date": "2026-09-22",
-   "shares": 1554.0,
-   "price": 43.182,
-   "value": 67104.83,
-   "acc": "0001976408-26-000873",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "PDI",
-   "company": "PIMCO Dynamic Income Fund",
-   "insider": "Morris Sonya",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 5700.0,
-   "price": 14.015,
-   "value": 79885.5,
-   "acc": "0002084606-26-000014",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 23072.0,
-   "price": 3.49,
-   "value": 80521.28,
-   "acc": "0001628280-26-063379",
-   "filed": "2026-09-24"
-  },
   {
    "ticker": "AMFN",
    "company": "American Fusion, Inc.",
@@ -4126,6 +4090,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-29",
+   "shares": 1600.0,
+   "price": 0.1662,
+   "value": 265.92,
+   "acc": "0001214659-26-012383",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "ASGI",
    "company": "abrdn Global Infrastructure Income Fund",
    "insider": "Baird Gordon A",
@@ -4666,6 +4642,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-30",
+   "shares": 311874.0,
+   "price": 0.1639,
+   "value": 51116.15,
+   "acc": "0001214659-26-012383",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
    "insider": "TANNENBAUM LEONARD M",
@@ -4798,6 +4786,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPUS",
+   "company": "Hyperscale Data, Inc.",
+   "insider": "AULT MILTON C III",
+   "role": "Executive Chairman",
+   "date": "2026-09-30",
+   "shares": 10000000.0,
+   "price": 0.5,
+   "value": 5000000.0,
+   "acc": "0001214659-26-012383",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4840,7 +4840,12 @@
   {
    "ticker": "NYAX",
    "insiders": 2,
-   "total_value": 6873142.44
+   "total_value": 6806037.61
+  },
+  {
+   "ticker": "GPUS",
+   "insiders": 2,
+   "total_value": 5220064.91
   },
   {
    "ticker": "HHH",
@@ -4873,11 +4878,6 @@
    "total_value": 180786.84
   },
   {
-   "ticker": "GPUS",
-   "insiders": 2,
-   "total_value": 168682.84
-  },
-  {
    "ticker": "PMPEX",
    "insiders": 2,
    "total_value": 164499.99
@@ -4886,11 +4886,6 @@
    "ticker": "ATCH",
    "insiders": 5,
    "total_value": 162524.19
-  },
-  {
-   "ticker": "PDI",
-   "insiders": 2,
-   "total_value": 155540.2
   },
   {
    "ticker": "SWZ",
