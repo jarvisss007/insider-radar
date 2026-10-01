@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-01 00:02 UTC",
+ "updated_utc": "2026-10-01 00:18 UTC",
  "purchases": [
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Batista de Lima Filho Pedro",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 11500.0,
-   "price": 10.55,
-   "value": 121325.0,
-   "acc": "0001213900-26-102459",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "MacDonald Ryan S",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 10400.0,
-   "price": 11.9733,
-   "value": 124522.32,
-   "acc": "0001398344-26-017349",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Batista de Lima Filho Pedro",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 16900.0,
-   "price": 10.55,
-   "value": 178295.0,
-   "acc": "0001213900-26-102459",
-   "filed": "2026-09-23"
-  },
   {
    "ticker": "GLP",
    "company": "GLOBAL PARTNERS LP",
@@ -4002,6 +3966,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "NC SLF INC. (CIK 1844684)",
+   "company": "NC SLF Inc.",
+   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 198631.0,
+   "price": 9.72,
+   "value": 1930693.32,
+   "acc": "0001104659-26-112487",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4062,6 +4038,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "NC SLF INC. (CIK 1844684)",
+   "company": "NC SLF Inc.",
+   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 309661.0,
+   "price": 9.72,
+   "value": 3009904.92,
+   "acc": "0001104659-26-112487",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4107,6 +4095,18 @@
    "price": 76.345,
    "value": 4710486.5,
    "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "NC SLF INC. (CIK 1844684)",
+   "company": "NC SLF Inc.",
+   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 510329.0,
+   "price": 9.72,
+   "value": 4960397.88,
+   "acc": "0001104659-26-112487",
    "filed": "2026-09-30"
   },
   {
@@ -4838,14 +4838,14 @@
    "total_value": 10033323.16
   },
   {
+   "ticker": "NC SLF INC. (CIK 1844684)",
+   "insiders": 2,
+   "total_value": 10000004.04
+  },
+  {
    "ticker": "NYAX",
    "insiders": 2,
    "total_value": 6940247.27
-  },
-  {
-   "ticker": "BPRE",
-   "insiders": 2,
-   "total_value": 6026074.14
   },
   {
    "ticker": "HHH",
