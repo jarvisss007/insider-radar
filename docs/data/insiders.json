@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-01 21:33 UTC",
+ "updated_utc": "2026-10-01 21:49 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Li Bin (William)",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 104931794.0,
-   "price": 0.0095,
-   "value": 996852.04,
-   "acc": "0001104659-26-110226",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "HHH",
-   "company": "Howard Hughes Holdings Inc.",
-   "insider": "GRANDISSON MARC",
-   "role": "Executive Chairman, Vantage",
-   "date": "2026-09-23",
-   "shares": 25000.0,
-   "price": 64.1175,
-   "value": 1602937.5,
-   "acc": "0001104659-26-110505",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 150000.0,
-   "price": 12.4752,
-   "value": 1871280.0,
-   "acc": "0001398344-26-017550",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "HAMILTON LANE CREDIT INCOME FUND (CIK 2027232)",
-   "company": "Hamilton Lane Credit Income Fund",
-   "insider": "HAMILTON LANE ADVISORS LLC",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 389105.058,
-   "price": 10.28,
-   "value": 4000000.0,
-   "acc": "0001213900-26-105358",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "company": "Blackstone Private Real Estate Credit & Income Fund",
-   "insider": "Blackstone Private Multi-Asset Credit & Income Fund",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 191058.464,
-   "price": 26.17,
-   "value": 5000000.0,
-   "acc": "0001213900-26-103145",
-   "filed": "2026-09-24"
-  },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
    "company": "Blackstone Private Real Estate Credit & Income Fund",
@@ -4019,6 +3959,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "ORCL",
+   "company": "ORACLE CORP",
+   "insider": "RUSCKOWSKI STEPHEN H",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 25000.0,
+   "price": 139.352,
+   "value": 3483800.0,
+   "acc": "0001341439-26-000099",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4307,6 +4259,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "PRHI",
+   "company": "Presurance Holdings, Inc.",
+   "insider": "MELOCHE HAROLD J",
+   "role": "CFO, Treasurer",
+   "date": "2026-09-30",
+   "shares": 4100.0,
+   "price": 6.375,
+   "value": 26137.5,
+   "acc": "0001193125-26-410889",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "Ruddy Jordan B.",
@@ -4364,6 +4328,42 @@
    "price": 202.78,
    "value": 47044.96,
    "acc": "0001199045-26-000010",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "PRHI",
+   "company": "Presurance Holdings, Inc.",
+   "insider": "O'Hanlon Isolde",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 7250.0,
+   "price": 6.7497,
+   "value": 48935.32,
+   "acc": "0001193125-26-410913",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "PRHI",
+   "company": "Presurance Holdings, Inc.",
+   "insider": "Smith James Grant",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 7250.0,
+   "price": 6.7497,
+   "value": 48935.32,
+   "acc": "0001193125-26-410905",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "PRHI",
+   "company": "Presurance Holdings, Inc.",
+   "insider": "RONEY BRIAN J",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-30",
+   "shares": 7500.0,
+   "price": 6.7497,
+   "value": 50622.75,
+   "acc": "0001193125-26-410894",
    "filed": "2026-10-01"
   },
   {
@@ -4839,14 +4839,9 @@
    "total_value": 10000004.04
   },
   {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "insiders": 2,
-   "total_value": 10000000.0
-  },
-  {
    "ticker": "BPRE",
    "insiders": 2,
-   "total_value": 9083511.4
+   "total_value": 7212231.4
   },
   {
    "ticker": "NYAX",
@@ -4869,11 +4864,6 @@
    "total_value": 1681140.0
   },
   {
-   "ticker": "UXIN",
-   "insiders": 2,
-   "total_value": 1017408.15
-  },
-  {
    "ticker": "FUL",
    "insiders": 7,
    "total_value": 621315.61
@@ -4887,6 +4877,11 @@
    "ticker": "FTHY",
    "insiders": 2,
    "total_value": 225909.5
+  },
+  {
+   "ticker": "PRHI",
+   "insiders": 4,
+   "total_value": 174630.89
   },
   {
    "ticker": "PMPEX",
@@ -4940,10 +4935,6 @@
   }
  ],
  "seen": [
-  "0001968915-26-000139",
-  "0001968915-26-000140",
-  "0001968915-26-000141",
-  "0001968915-26-000142",
   "0001968915-26-000143",
   "0001968915-26-000144",
   "0001968915-26-000145",
@@ -7449,6 +7440,7 @@
   "0002097345-26-000016",
   "0002097370-26-000006",
   "0002097393-26-000006",
+  "0002097393-26-000008",
   "0002097504-26-000004",
   "0002097955-26-000004",
   "0002097956-26-000004",
@@ -7457,15 +7449,18 @@
   "0002098854-26-000002",
   "0002099253-26-000006",
   "0002099292-26-000002",
+  "0002099510-26-000012",
   "0002099647-26-000002",
   "0002099655-26-000008",
   "0002099821-26-000002",
+  "0002099966-26-000012",
   "0002100129-26-000005",
   "0002100129-26-000006",
   "0002100129-26-000008",
   "0002100449-26-000004",
   "0002100573-26-000006",
   "0002100774-26-000004",
+  "0002100792-26-000011",
   "0002100829-26-000007",
   "0002101254-26-000004",
   "0002102036-26-000003",
