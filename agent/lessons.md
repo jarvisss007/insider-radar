@@ -1688,3 +1688,40 @@ conservative behaviour, and the one the council said to keep until Anupam rules.
   agree), no cluster tilt applied per the standing null. Book calibration unchanged from yesterday at
   n=33 resolved (today's row is open, not due yet): Brier skill −0.054, no skill; 0.2–0.3 bin still n=3.
 [insider]
+
+## 2026-10-01 [insider]
+- **Feed refreshed**: +3 purchases, feed 400, clusters 26, excluded 18. Event study: 824 events (670
+  mature), still the honest null — naive t +3.17 collapses to clustered t +1.19.
+- **1b — 4 rows still queued, correctly**: ADRX/BPRE/UXIN/FUL (logged 09-30) all show "the 2026-10-01
+  session has not settled" — this run fires mid-session (~noon PT, well before the 1pm PT NYSE close), so
+  none of today's queued rows can fill yet. Not a defect; expected given the run time.
+- **Council KEEP — price_audit.py --open-only, still NOT clean, one NEW mismatch beside the known one.**
+  `PASS 85 FAIL 0 NO_BAR 0 UNFETCHABLE 0 QUEUED 4 VOID 0`. INS-020 reference: REF_OK 83, REF_MISMATCH 2 —
+  DFDV (known since 09-30, 5.83 vs owed 5.84) plus a NEW one, ATCH (logged 09-29, filled 09-30 official
+  open 0.1926, owed 0.193) — both carry `[REF-GAP INS-026]` disclosure already and await Anupam's ruling,
+  0 undisclosed. Not touched (disposal is his call, not a side effect).
+- **Scoring not yet available this run.** The grader (`~/bin/grade_all_due.py`) and the forecast resolver
+  (`~/bin/resolve_forecasts.py`) both fire on launchd at 13:40 PT; this run landed around noon PT, before
+  that job. Last available grading (09-30, from the log): 5 rows graded (BLX right, BATL/CBU/BIVI/TNXP
+  wrong). `score_forecasts.py`'s drought test flagged insider-radar "NO GROWTH" this run — that is a
+  same-day timing artifact (the resolver hasn't run yet today), not a silent lab; a new forecast (XENE)
+  was filed this run and will resolve on its own check_date (2026-10-08).
+- **7 new clusters logged, all QUEUED (INS-020), feed's own order, no cap**: BBASX ($4.0M, 2, stale_quote
+  no), XENE ($1.7M, 2, no), PMPEX ($164.5K, 2, no), SWZ ($127.3K, 2, no), SPG ($122.5K, 3, no), MOALX
+  ($70.0K, 2, no), **TPYTX ($28.1K, 2, stale_quote YES** — closes frozen at 9.95 for 3 sessions running,
+  09-25 through 09-30). All headline except SPG/MOALX/TPYTX which fall sub-floor (<$100k). 5 CIK-only
+  non-traded names (John Hancock GA Senior Loan Trust, John Hancock GA Mortgage Trust, AGL Private Credit
+  Income Fund, Blackstone Private RE Credit & Income Fund, NC SLF Inc.) auto-upserted into
+  `exclusions.csv` by the collector, unpriceable per INS-007 — untouched, as designed. check_date for all
+  7 new rows rolled from 2026-10-31 (a Saturday) to 2026-11-02 at write time (weekend guard).
+- **Scorecard (`strata.py`), never blended**: HEADLINE >= $100k **49% (n=82 on 22 entry days)**; sub-floor
+  < $100k **36% (n=42 on 18 entry days)**; unknown 0% (n=1). All scored rows combined: 44.0% (n=125).
+  Both strata sit at or below a coin flip, same standing picture as yesterday — no change in verdict.
+- **Forecast filed: XENE, p=0.12 [p_cal=0.12], parseable form**, `abs(XENE last on 2026-10-08 / 38.88 -
+  1) >= 0.08` — reference is today's live print (disclosed as unsettled, same cluster's ledger row is
+  QUEUED for the identical reason), measured base rate 0.121 (1y, 247 overlapping 5-session windows), no
+  cluster tilt per the standing null. Book calibration unchanged at n=33 resolved this run (today's row
+  not due yet): Brier skill -0.054, no skill; 0.1-0.2 bin not yet populated.
+- **INS-025 (forecast-writer template regression) unchanged**: BORR/BBD/VFF/DFDV still sit unscored on
+  the old unparseable prose template, all now past check_date (BORR 09-28, BBD 09-29, VFF 09-30, DFDV
+  due 10-05). Not this run's to fix; today's new row used the parseable form.
