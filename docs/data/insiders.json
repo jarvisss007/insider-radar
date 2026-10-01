@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-01 14:25 UTC",
+ "updated_utc": "2026-10-01 15:12 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-23",
-   "shares": 300.0,
-   "price": 0.54,
-   "value": 162.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -4186,6 +4174,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "MOALX",
+   "company": "Lord Abbett Municipal Opportunities Fund",
+   "insider": "English Christopher T.",
+   "role": "",
+   "date": "2026-09-29",
+   "shares": 5213.764,
+   "price": 9.59,
+   "value": 50000.0,
+   "acc": "0000930413-26-003049",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4901,6 +4901,11 @@
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 85087.95
+  },
+  {
+   "ticker": "MOALX",
+   "insiders": 2,
+   "total_value": 70000.0
   },
   {
    "ticker": "DTIL",
