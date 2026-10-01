@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-01 18:54 UTC",
+ "updated_utc": "2026-10-01 19:10 UTC",
  "purchases": [
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 300.0,
-   "price": 4.9805,
-   "value": 1494.15,
-   "acc": "0001214659-26-011957",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "BCDA",
-   "company": "BioCardia, Inc.",
-   "insider": "Altman Peter",
-   "role": "President and CEO",
-   "date": "2026-09-23",
-   "shares": 1900.0,
-   "price": 1.05,
-   "value": 1995.0,
-   "acc": "0001437749-26-031093",
-   "filed": "2026-09-23"
-  },
   {
    "ticker": "CIVB",
    "company": "CIVISTA BANCSHARES, INC.",
@@ -4558,6 +4534,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "CRESY",
+   "company": "CRESUD INC",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "CEO",
+   "date": "2026-09-30",
+   "shares": 8573.0,
+   "price": 11.63,
+   "value": 99703.99,
+   "acc": "0002119764-26-000028",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
    "insider": "TANNENBAUM LEONARD M",
@@ -4808,6 +4796,18 @@
    "value": 52120752.67,
    "acc": "0001193125-26-409451",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "CRESY",
+   "company": "CRESUD INC",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "CEO",
+   "date": "2026-10-01",
+   "shares": 8761.0,
+   "price": 11.3661,
+   "value": 99578.4,
+   "acc": "0002119764-26-000028",
+   "filed": "2026-10-01"
   }
  ],
  "clusters": [
@@ -4939,7 +4939,6 @@
   }
  ],
  "seen": [
-  "0001968347-26-000011",
   "0001968793-26-000006",
   "0001968915-26-000116",
   "0001968915-26-000117",
@@ -7626,6 +7625,7 @@
   "0002119291-26-000006",
   "0002119764-26-000024",
   "0002119764-26-000026",
+  "0002119764-26-000028",
   "0002120008-26-000006",
   "0002120169-26-000001",
   "0002120298-26-000002",
