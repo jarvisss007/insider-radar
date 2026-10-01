@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-01 19:25 UTC",
+ "updated_utc": "2026-10-01 19:41 UTC",
  "purchases": [
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 250.0,
-   "price": 20.83,
-   "value": 5207.5,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "ADAG",
-   "company": "Adagene Inc.",
-   "insider": "Tam Man Kin",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-23",
-   "shares": 2000.0,
-   "price": 3.0,
-   "value": 6000.0,
-   "acc": "0001104659-26-111069",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "Nester Paul W",
-   "role": "President & CEO",
-   "date": "2026-09-23",
-   "shares": 300.0,
-   "price": 21.08,
-   "value": 6324.0,
-   "acc": "0001437749-26-031188",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 322.0,
-   "price": 20.85,
-   "value": 6713.7,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CIVB",
-   "company": "CIVISTA BANCSHARES, INC.",
-   "insider": "Parcher Charles A.",
-   "role": "President",
-   "date": "2026-09-23",
-   "shares": 315.0,
-   "price": 26.75,
-   "value": 8426.25,
-   "acc": "0001193125-26-400675",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 3471.0,
-   "price": 3.49,
-   "value": 12113.79,
-   "acc": "0001628280-26-063379",
-   "filed": "2026-09-24"
-  },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
    "company": "Blackstone Private Real Estate Credit & Income Fund",
@@ -3826,6 +3754,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "TPL",
+   "company": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 4.0,
+   "price": 340.96,
+   "value": 1363.84,
+   "acc": "0001437749-26-031714",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "FUL",
    "company": "FULLER H B CO",
    "insider": "Zaheer Srilata",
@@ -4246,6 +4186,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GBR",
+   "company": "New Concept Energy, Inc.",
+   "insider": "REALTY ADVISORS INC",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 2000000.0,
+   "price": 1.0,
+   "value": 2000000.0,
+   "acc": "0001273348-26-000012",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4438,6 +4390,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "Roe Peggy",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 88.0,
+   "price": 202.78,
+   "value": 17844.64,
+   "acc": "0001898688-26-000011",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "FUL",
    "company": "FULLER H B CO",
    "insider": "Martin Celine Christine",
@@ -4460,6 +4424,30 @@
    "value": 29988.0,
    "acc": "0001398344-26-017659",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "STEWART MARTA R",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 199.0,
+   "price": 202.78,
+   "value": 40353.22,
+   "acc": "0001272064-26-000012",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "SELIG STEFAN M",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 208.0,
+   "price": 202.78,
+   "value": 42178.24,
+   "acc": "0001709407-26-000012",
+   "filed": "2026-10-01"
   },
   {
    "ticker": "SPG",
@@ -4495,6 +4483,18 @@
    "price": 0.1639,
    "value": 51116.15,
    "acc": "0001214659-26-012383",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "SPG",
+   "company": "SIMON PROPERTY GROUP INC.",
+   "insider": "Smith Daniel C.",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 350.0,
+   "price": 202.78,
+   "value": 70973.0,
+   "acc": "0001464273-26-000010",
    "filed": "2026-10-01"
   },
   {
@@ -4883,6 +4883,11 @@
    "total_value": 621315.61
   },
   {
+   "ticker": "SPG",
+   "insiders": 11,
+   "total_value": 460716.16
+  },
+  {
    "ticker": "GAM",
    "insiders": 2,
    "total_value": 341250.0
@@ -4891,11 +4896,6 @@
    "ticker": "FTHY",
    "insiders": 2,
    "total_value": 290659.5
-  },
-  {
-   "ticker": "SPG",
-   "insiders": 7,
-   "total_value": 289367.06
   },
   {
    "ticker": "ANIX",
@@ -4924,8 +4924,8 @@
   },
   {
    "ticker": "RGCO",
-   "insiders": 3,
-   "total_value": 64412.45
+   "insiders": 2,
+   "total_value": 46167.25
   },
   {
    "ticker": "DTIL",
@@ -4944,7 +4944,6 @@
   }
  ],
  "seen": [
-  "0001968915-26-000117",
   "0001968915-26-000119",
   "0001968915-26-000120",
   "0001968915-26-000121",
@@ -6170,6 +6169,7 @@
   "0001999371-26-021798",
   "0001999371-26-021802",
   "0001999371-26-021804",
+  "0001999371-26-021824",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
