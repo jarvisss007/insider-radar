@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-01 22:52 UTC",
+ "updated_utc": "2026-10-01 23:07 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 200.0,
-   "price": 0.64,
-   "value": 128.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 300.0,
-   "price": 0.54,
-   "value": 162.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -3574,6 +3550,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "VENU",
+   "company": "Venu Holding Corp",
+   "insider": "Finke Thomas M",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 50000.0,
+   "price": 1.518,
+   "value": 75900.0,
+   "acc": "0001493152-26-045391",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4799,6 +4787,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "CSWC",
+   "company": "CAPITAL SOUTHWEST CORP",
+   "insider": "Thomas William R III",
+   "role": "Director",
+   "date": "2026-10-01",
+   "shares": 2170.0,
+   "price": 23.044,
+   "value": 50005.48,
+   "acc": "0000017313-26-000159",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "CRESY",
    "company": "CRESUD INC",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4935,7 +4935,6 @@
   }
  ],
  "seen": [
-  "0001968915-26-000148",
   "0001968915-26-000149",
   "0001968968-26-000003",
   "0001968977-26-000012",
@@ -6763,6 +6762,7 @@
   "0002055015-26-000015",
   "0002055015-26-000017",
   "0002055138-26-000008",
+  "0002055138-26-000011",
   "0002055311-26-000002",
   "0002055606-26-000004",
   "0002055817-26-000004",
