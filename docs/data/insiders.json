@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-01 11:47 UTC",
+ "updated_utc": "2026-10-01 12:02 UTC",
  "purchases": [
-  {
-   "ticker": "AMFN",
-   "company": "American Fusion, Inc.",
-   "insider": "Rossa Alexander William",
-   "role": "",
-   "date": "2026-09-22",
-   "shares": 842775.0,
-   "price": 0.102,
-   "value": 85963.05,
-   "acc": "0001079973-26-001308",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "VFF",
-   "company": "Village Farms International, Inc.",
-   "insider": "DEGIGLIO MICHAEL A",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-22",
-   "shares": 35000.0,
-   "price": 2.8931,
-   "value": 101258.5,
-   "acc": "0001193125-26-397230",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "SAIC",
-   "company": "Science Applications International Corp",
-   "insider": "Cush C. David",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 1000.0,
-   "price": 132.5,
-   "value": 132500.0,
-   "acc": "0001571123-26-000145",
-   "filed": "2026-09-22"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -4378,6 +4342,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "FLNA",
+   "company": "FILANA THERAPEUTICS, INC.",
+   "insider": "Barry Richard",
+   "role": "President & CEO",
+   "date": "2026-09-29",
+   "shares": 206813.0,
+   "price": 0.9,
+   "value": 186131.7,
+   "acc": "0001437749-26-031654",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4606,6 +4582,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-09-30",
+   "shares": 7443.0,
+   "price": 1.3362,
+   "value": 9945.34,
+   "acc": "0001493152-26-045255",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "ANIX",
    "company": "Anixa Biosciences Inc",
    "insider": "Catelani Michael",
@@ -4651,6 +4639,18 @@
    "price": 0.1639,
    "value": 51116.15,
    "acc": "0001214659-26-012383",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "FLNA",
+   "company": "FILANA THERAPEUTICS, INC.",
+   "insider": "Barry Richard",
+   "role": "President & CEO",
+   "date": "2026-09-30",
+   "shares": 100000.0,
+   "price": 0.92,
+   "value": 92000.0,
+   "acc": "0001437749-26-031654",
    "filed": "2026-10-01"
   },
   {
@@ -4855,7 +4855,7 @@
   {
    "ticker": "UXIN",
    "insiders": 2,
-   "total_value": 1007462.81
+   "total_value": 1017408.15
   },
   {
    "ticker": "FUL",
