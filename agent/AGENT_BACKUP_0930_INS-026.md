@@ -22,10 +22,7 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
 1b. **Fill queued calls (INS-020 / REG-PP-002)**: run
    `/opt/anaconda3/bin/python /Users/anupampatil/insider-radar/agent/stale_quote.py --fill-queued`
    — every open `[QUEUED` row gets the first official open after its registration (a
-   zero-volume bar is skipped, never a fill). INS-026: a row fills only after its fill session has
-   settled, from the settled bar, so `QUEUED ... has not settled` lines are expected until the run after
-   that session's close (typically two sessions after D for a call written on D) — never fill or price a row by hand.
-   Then run `price_audit.py --open-only` and
+   zero-volume bar is skipped, never a fill). Then run `price_audit.py --open-only` and
    report its INS-020 reference line (REF_OK / REF_MISMATCH / REF_LEGACY / REF_PENDING).
 
 2. **Score due calls — by the grader, never by hand (INS-018).** `~/bin/grade_all_due.py` (launchd com.anupam.grade-all-due, 13:40 PT) is the only writer of `price_at_check` and `outcome` on this ledger. Never fetch a close yourself and never write either field; read what it graded and stalled in `~/bin/logs/grade-all-due.log` and report both in the brief. The rule it implements is unchanged and every clause is the grader's:

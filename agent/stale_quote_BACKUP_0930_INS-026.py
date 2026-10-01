@@ -221,19 +221,7 @@ def flag_for(ticker: str, asof: str | None = None,
 #     first bar dated on/after that session with volume > 0 (a zero-volume bar is a carry-forward,
 #     not an open that printed: INS-015 / Firm Brain S18);
 #   * a call written after the call-day close settled keeps the settled close (the bar DATED the
-#     call date, INS-014); price_audit.py now stores and tests that reference (INS-020 checker);
-#   * INS-026 (2026-09-30, class (d) correction): that open is FINAL only once its session has settled.
-#     fill_queued() used to read the fill session's bar while it was still trading, and a forming bar's
-#     open is the first print, not the official open: DFDV was filled at 5.83 and ATCH at 0.1926 mid-session
-#     while the settled bars carry the official opens 5.84 and 0.193 that price_audit.py tests (the first
-#     one-minute print of each session equals what was written; 5 other in-session fills agreed only because
-#     their first print was the official open). So fill_queued() now fills only from a session that has
-#     settled, and only from settled bars - the fix stock-radar's official_open() took as FILL-002 (d) - and
-#     it fails CLOSED: with no calendar (or one that raises, or no PT clock) it fills nothing, says so and exits non-zero,
-#     never guessing settledness from the clock. A fill therefore lands on the first run after the fill
-#     session's close (typically D+2 rather than D+1 for a call written on D); the price owed, the fill
-#     session and the 30-day check_date are unchanged. Fills made before this change stand as recorded and
-#     are disclosed on their rows.
+#     call date, INS-014); price_audit.py now stores and tests that reference (INS-020 checker).
 OPEN_PT = (6, 30)                     # NYSE 09:30 ET official open, in PT (NY and CA shift together)
 QUEUED_TAG = "[QUEUED"   # prefix only; use is_queued()/queued_fill_basis() - prose can mention "[QUEUED] branch"
 
@@ -332,36 +320,14 @@ def fmt_px(x):
     return f"{whole}.{frac.ljust(2, '0')}"
 
 
-def _settled_for_fill(now):
-    """INS-026: the last settled session (a date) as the sessions calendar states it, or None when it cannot be established.
-    Fails CLOSED: a fill writes a price into a book, so with no calendar - or one that raises - or with a clock that carries no time
-    zone (the PT clock is unavailable), the caller fills nothing. It is deliberately NOT call_day_settled(), whose clock fallback
-    (13:05 PT) is left unchanged for scope."""
-    if not _SESS or getattr(now, "tzinfo", None) is None:
-        return None
-    try:
-        return _SESS.settled_session(now)
-    except Exception:
-        return None
-
-
 def fill_queued(ledger: str = LEDGER, dry: bool = False, now=None) -> int:
     """REG-PP-002 / INS-020: fill every open QUEUED row from its owed official open. Idempotent.
 
     Only rows with outcome empty, price_at_call empty and a [QUEUED marker are touched; a filled
     row carries [FILLED <day> official open <px>] and is never filled twice. A queued row whose
     owed open has not printed waits and says so; one still unfilled 7+ calendar days after its fill
-    session is reported UNFILLABLE (an INS-007 exclusion is a human's call, never automatic).
-
-    INS-026: a row fills only once its fill session has SETTLED, and only from settled bars, so the price written is the
-    official open price_audit.py tests - never the provisional first print of a session still trading. Until then the row
-    waits and says why. If the settled session cannot be established the run fills NOTHING, says so and returns 2."""
+    session is reported UNFILLABLE (an INS-007 exclusion is a human's call, never automatic)."""
     now = now or _now_pt()
-    settled = _settled_for_fill(now)
-    if settled is None:
-        print("fill_queued: CALENDAR UNAVAILABLE (no sessions calendar, or no PT clock) - the settled session cannot be "
-              "established, so NOTHING is filled (INS-026); queued rows keep waiting")
-        return 2
     if _ATOM and not dry:
         _ATOM.hold_book(ledger)
     with open(ledger) as f:
@@ -378,13 +344,8 @@ def fill_queued(ledger: str = LEDGER, dry: bool = False, now=None) -> int:
         if fs > now.date():
             waiting.append(f"{r['ticker']} {r['date']}: fills at the {fs} open (not yet)")
             continue
-        if fs > settled:   # INS-026: the official open is final only after its session settles
-            waiting.append(f"{r['ticker']} {r['date']}: the {fs} session has not settled (last settled session {settled}); "
-                           f"fills at its final official open after the close, on the next run (INS-026)")
-            continue
         try:
-            # INS-026: settled bars only - a bar for a session still trading carries a provisional (first-print) open
-            got = owed_open({d: v for d, v in daily_bars(r["ticker"], fs).items() if d <= settled.isoformat()}, fs)
+            got = owed_open(daily_bars(r["ticker"], fs), fs)
         except Exception as e:
             got, err = None, f"{type(e).__name__}"
         else:

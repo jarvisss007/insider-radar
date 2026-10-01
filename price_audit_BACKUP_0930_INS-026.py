@@ -64,20 +64,6 @@ mismatch on an older open row is REF_LEGACY - reported loudly, never failing, be
 disposal is a ruling (BENCH-002), not a side effect. Scored rows are not reference-tested:
 their numbers are frozen either way.
 
-DISCLOSED REFERENCE GAPS (INS-026, 2026-09-30) - a tag, not a waiver
---------------------------------------------------------------------
-stale_quote.fill_queued() used to fill a queued row mid-session off the still-forming bar, whose open is the
-first print rather than the official open: DFDV was written at 5.83 against a settled official open of 5.84,
-ATCH at 0.1926 against 0.193. Each row carries a note,
-    [REF-GAP INS-026: recorded <px> vs settled official open <px> on <YYYY-MM-DD> ...]
-and when the note matches this row's gap exactly (queued-fill basis; recorded price == price_at_call; official
-open and day == what the settled bar says now) the audit prints the REF_MISMATCH line tagged "disclosed
-(INS-026), awaiting ruling" - for fill sessions before 2026-10-01 only (the writer reads settled bars only from then,
-so a gap there is a bug, never a legacy disclosure). The tag changes nothing else: the row stays REF_MISMATCH and the audit still
-exits 1 - INS-020 ruled that an entry dated 2026-09-28 or later must match the owed reference, so whether to
-restate these rows or to waive the gap is a ruling, not a side effect. A mismatch with no matching note is
-printed "UNDISCLOSED".
-
 EXIT CODE: 1 if any row is FAIL or any post-fix row is REF_MISMATCH, else 0. NO_BAR / UNFETCHABLE do not fail the
 audit — they are reported, loudly, because they are not evidence of a violation
 and must not be laundered into one either.
@@ -89,7 +75,6 @@ import argparse
 import csv
 import json
 import os
-import re
 import sys
 import time
 import urllib.error
@@ -111,9 +96,6 @@ UA = {"User-Agent": "Mozilla/5.0"}
 # twenty-three times this tolerance — so the band cannot hide it.
 EPS = 0.001
 REF_TEST_FROM = "2026-09-28"   # INS-020: first session after the writer fix; rows from here must match exactly
-TAG_ONLY_BEFORE = "2026-10-01"   # INS-026: the writer reads settled bars only for fill sessions from here; no note is ever tagged there
-_GAP = re.compile(r"\[REF-GAP INS-026: recorded ([0-9]+(?:\.[0-9]+)?) vs settled official open "
-                  r"([0-9]+(?:\.[0-9]+)?) on (\d{4}-\d{2}-\d{2})")
 
 # The queued-fill helpers live on the write path (one definition, two readers - Firm Brain S6).
 sys.path.insert(0, os.path.join(ROOT, "agent"))
@@ -137,21 +119,11 @@ def _save_cache(c: dict) -> None:
 
 
 def _settled_day() -> str:
-    """Last settled NYSE session (SESSION-001), PT clock. A later bar is still moving.
-
-    INS-026: fails CLOSED. With no calendar the audit cannot say which bars are final, so it refuses - it used to fall back to
-    today, which treats today as settled at any hour, caches a still-forming bar permanently, and disagrees with the writer
-    (which waits for the settled session) under the same fault (Firm Brain S6)."""
-    if _Q._SESS is None:
-        print("price_audit: the sessions calendar is unavailable - cannot say which bars are settled, so nothing "
-              "is cached or tested (INS-026)", file=sys.stderr)
-        raise SystemExit(2)          # 2 = could not look; 1 stays "looked, and it FAILS"
+    """Last settled NYSE session (SESSION-001), PT clock. A later bar is still moving."""
     try:
         return _Q._SESS.settled_session().isoformat()
-    except Exception as e:
-        print(f"price_audit: the sessions calendar failed ({type(e).__name__}) - cannot say which bars are settled, "
-              "so nothing is cached or tested (INS-026)", file=sys.stderr)
-        raise SystemExit(2)
+    except Exception:
+        return date.today().isoformat()
 
 
 def bars(ticker: str, cache: dict, refresh: bool = False, need: str | None = None) -> dict | None:
@@ -226,20 +198,6 @@ def reference(r: dict, b: dict) -> tuple:
     return ("REF_OK" if ok else "REF_MISMATCH"), basis, day, owed
 
 
-def disclosed_gap(thesis, recorded: float, owed_day: str, owed_px: float):
-    """INS-026: {recorded, owed, day} from the row's own [REF-GAP INS-026: ...] note if, and only if, it describes exactly this
-    gap (queued-fill basis; recorded price == price_at_call; official open and day == what the settled bar says now), else None.
-    It is a TAG only: nothing is waived and the row's verdict does not change. A fill session from TAG_ONLY_BEFORE on is never
-    tagged: the writer reads settled bars only there, so a gap on such a fill is a bug, not a disclosed legacy gap."""
-    if not _Q.queued_fill_basis(thesis) or str(owed_day) >= TAG_ONLY_BEFORE:
-        return None
-    for m in _GAP.finditer(str(thesis or "")):
-        rec, off, day = float(m.group(1)), float(m.group(2)), m.group(3)
-        if day == str(owed_day) and rec == recorded and abs(off - owed_px) <= max(abs(owed_px) * EPS, 1e-9):
-            return {"recorded": rec, "owed": off, "day": day}
-    return None
-
-
 def audit(ledger: str = LEDGER, open_only: bool = False,
           since: str | None = None, refresh: bool = False) -> dict:
     rows = list(csv.DictReader(open(ledger)))
@@ -264,15 +222,10 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                 continue
             raw = str(r.get("price_at_call") or "").strip()
             if not raw:
-                if _Q.is_queued(r.get("thesis")):   # INS-026: the stamped "[QUEUED at ..." marker counts, not only the literal "[QUEUED]"
-                    try:
-                        fs = _Q.fill_session_for(d, _Q.registered_at(str(r.get("thesis") or ""))).isoformat()
-                    except Exception:
-                        fs = None
-                    rec["note"] = "[QUEUED] present" + (f" - fills after the {fs} session settles (INS-026)" if fs else "")
-                else:
-                    rec["note"] = ("price_at_call empty and NO [QUEUED] marker "
-                                   "— unfillable row, INS-007")
+                rec["note"] = ("[QUEUED] present"
+                               if "[QUEUED]" in str(r.get("thesis", ""))
+                               else "price_at_call empty and NO [QUEUED] marker "
+                                    "— unfillable row, INS-007")
                 buckets["QUEUED"].append(rec)
                 continue
             try:
@@ -325,8 +278,6 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                                            _Q._next_session(date.fromisoformat(d)))
                         ref["alt_next_open"] = alt[1] if alt else None
                         ref["alt_day"] = alt[0] if alt else None
-                elif v == "REF_MISMATCH":   # INS-026: a tag only - the row stays a mismatch and the audit still fails
-                    ref["disclosed"] = bool(disclosed_gap(_th, px, oday, owed))
                 buckets[v].append(ref)
     finally:
         _save_cache(cache)
@@ -359,23 +310,6 @@ def _selftest() -> int:
         ok = got == want
         bad += not ok
         print(("PASS " if ok else "FAIL ") + f"{row['date']} {row['price_at_call']:>5} -> {got} (want {want})")
-    # INS-026: a note TAGS exactly the gap it names, on a queued-fill row, and nothing else.
-    q = "[insider] x [QUEUED at 2026-09-28T08:35 PT] [FILLED 2026-09-29 official open 5.83]"
-    note = " [REF-GAP INS-026: recorded 5.83 vs settled official open 5.84 on 2026-09-29 (gap -0.01)]"
-    gcases = [
-        ("a matching note is tagged", q + note, 5.83, "2026-09-29", 5.84, True),
-        ("no note is not", q, 5.83, "2026-09-29", 5.84, False),
-        ("a note for another recorded price is not", q + note, 5.82, "2026-09-29", 5.84, False),
-        ("a note whose official open no longer matches is not", q + note, 5.83, "2026-09-29", 5.90, False),
-        ("a note for another day is not", q + note, 5.83, "2026-09-30", 5.84, False),
-        ("a note on a non-fill row is not", "[insider] x" + note, 5.83, "2026-09-29", 5.84, False),
-        ("a fill session from the fix date on is never tagged", q.replace("09-29", "10-01") + note.replace("09-29", "10-01"),
-         5.83, "2026-10-01", 5.84, False),
-    ]
-    for why, th, rec, day, off, want in gcases:
-        got = disclosed_gap(th, rec, day, off) is not None
-        bad += got != want
-        print(("PASS " if got == want else "FAIL ") + f"disclosure tag: {why} -> {got}")
     print("selftest:", "all passed" if not bad else f"{bad} FAILED")
     return 1 if bad else 0
 
@@ -415,15 +349,10 @@ def main() -> int:
             print(f"  {k:12s} {r['ticker']:6s} {r['date']}  price_at_call={r['price_at_call']:>10s}  "
                   f"owed={r.get('owed')!s:>10s} ({r.get('owed_day')}; {r.get('basis')})"
                   + (f" | if written mid-session: {r['alt_day']} open {r['alt_next_open']}"
-                     if r.get("alt_day") else "")
-                  + ((" | disclosed (INS-026), awaiting ruling" if r.get("disclosed") else " | UNDISCLOSED")
-                     if k == "REF_MISMATCH" else ""))
+                     if r.get("alt_day") else ""))
     if b["REF_MISMATCH"]:
-        n_disc = sum(1 for r in b["REF_MISMATCH"] if r.get("disclosed"))
         print(f"\nFAIL — {n['REF_MISMATCH']} open row(s) dated >= {REF_TEST_FROM} do not carry the price "
-              "the rule owes (INS-020). The writer queues unsettled calls; find what bypassed it."
-              + (f" {n_disc} of them carry a matching [REF-GAP INS-026] disclosure and await a ruling (restate, or waive); "
-                 f"{n['REF_MISMATCH'] - n_disc} are UNDISCLOSED." if n_disc else ""))
+              "the rule owes (INS-020). The writer queues unsettled calls; find what bypassed it.")
         return 1
     if b["FAIL"]:
         print(f"\nFAIL — {n['FAIL']} row(s) priced outside their own call-day bar. "
