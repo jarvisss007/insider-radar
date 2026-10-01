@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-01 21:01 UTC",
+ "updated_utc": "2026-10-01 21:17 UTC",
  "purchases": [
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 1263.0,
-   "price": 79.99,
-   "value": 101027.37,
-   "acc": "0001193125-26-403089",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "GAM",
    "company": "GENERAL AMERICAN INVESTORS CO INC",
@@ -4451,6 +4439,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "RDGL",
+   "company": "VIVOS INC",
+   "insider": "Korenko Michael K",
+   "role": "CEO",
+   "date": "2026-09-30",
+   "shares": 200000.0,
+   "price": 0.498,
+   "value": 99600.0,
+   "acc": "0001486806-26-000010",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "CRESY",
    "company": "CRESUD INC",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4945,7 +4945,6 @@
   }
  ],
  "seen": [
-  "0001968915-26-000133",
   "0001968915-26-000134",
   "0001968915-26-000135",
   "0001968915-26-000136",
@@ -6952,6 +6951,7 @@
   "0002066736-26-000005",
   "0002066778-26-000006",
   "0002066778-26-000008",
+  "0002066824-26-000027",
   "0002066890-26-000012",
   "0002067347-26-000001",
   "0002067425-26-000002",
