@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-01 18:22 UTC",
+ "updated_utc": "2026-10-01 18:38 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-23",
-   "shares": 2000.0,
-   "price": 0.1718,
-   "value": 343.6,
-   "acc": "0001214659-26-011956",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 1.0,
-   "price": 352.95,
-   "value": 352.95,
-   "acc": "0001437749-26-031121",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-23",
-   "shares": 1000.0,
-   "price": 0.54,
-   "value": 540.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -4762,6 +4726,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "company": "John Hancock GA Mortgage Trust",
+   "insider": "Manulife (Singapore) Pte. Ltd.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 227095.1028,
+   "price": 17.613,
+   "value": 3999826.05,
+   "acc": "0001837478-26-000018",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4786,6 +4762,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "company": "John Hancock GA Mortgage Trust",
+   "insider": "Manufacturers Life Reinsurance Ltd",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 510963.9812,
+   "price": 17.613,
+   "value": 8999608.6,
+   "acc": "0001765496-26-000019",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "company": "John Hancock GA Senior Loan Trust",
    "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
@@ -4795,6 +4783,18 @@
    "price": 16.052,
    "value": 11999374.32,
    "acc": "0001833683-26-000018",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "company": "John Hancock GA Senior Loan Trust",
+   "insider": "Manufacturers Life Reinsurance Ltd",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 1931122.8289,
+   "price": 16.052,
+   "value": 30998383.65,
+   "acc": "0001765496-26-000018",
    "filed": "2026-10-01"
   },
   {
@@ -4812,6 +4812,11 @@
  ],
  "clusters": [
   {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "insiders": 2,
+   "total_value": 42997757.97
+  },
+  {
    "ticker": "ADRX",
    "insiders": 5,
    "total_value": 34251838.0,
@@ -4821,6 +4826,11 @@
    "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
    "insiders": 3,
    "total_value": 22413926.24
+  },
+  {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "insiders": 2,
+   "total_value": 12999434.65
   },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
@@ -4845,7 +4855,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5220064.91
+   "total_value": 5219721.31
   },
   {
    "ticker": "BBASX",
