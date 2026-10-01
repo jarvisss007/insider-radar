@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-01 13:05 UTC",
+ "updated_utc": "2026-10-01 13:21 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 111885.0,
-   "price": 12.0205,
-   "value": 1344913.64,
-   "acc": "0001398344-26-017538",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "GSHD",
    "company": "Goosehead Insurance, Inc.",
@@ -4714,6 +4702,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "XENE",
+   "company": "Xenon Pharmaceuticals Inc.",
+   "insider": "MORTIMER IAN",
+   "role": "PRESIDENT & CEO",
+   "date": "2026-09-30",
+   "shares": 30000.0,
+   "price": 37.38,
+   "value": 1121400.0,
+   "acc": "0001193125-26-409999",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4823,11 +4823,6 @@
    "total_value": 22413926.24
   },
   {
-   "ticker": "BPRE",
-   "insiders": 2,
-   "total_value": 10500734.64
-  },
-  {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
    "insiders": 2,
    "total_value": 10033323.16
@@ -4836,6 +4831,11 @@
    "ticker": "NC SLF INC. (CIK 1844684)",
    "insiders": 2,
    "total_value": 10000004.04
+  },
+  {
+   "ticker": "BPRE",
+   "insiders": 2,
+   "total_value": 9155821.0
   },
   {
    "ticker": "NYAX",
