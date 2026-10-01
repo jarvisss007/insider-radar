@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-10-01 21:49 UTC",
+ "updated_utc": "2026-10-01 22:04 UTC",
  "purchases": [
-  {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "company": "Blackstone Private Real Estate Credit & Income Fund",
-   "insider": "Blackstone Holdings IV L.P.",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 191058.464,
-   "price": 26.17,
-   "value": 5000000.0,
-   "acc": "0001213900-26-103146",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "CALAMOS AKSIA HEDGED STRATEGIES FUND (CIK 2063706)",
-   "company": "Calamos Aksia Hedged Strategies Fund",
-   "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 714183.381,
-   "price": 10.47,
-   "value": 7477500.0,
-   "acc": "0002125773-26-000013",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 219273.0,
-   "price": 34.134,
-   "value": 7484664.58,
-   "acc": "0001193125-26-402895",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-23",
-   "shares": 532993.0,
-   "price": 81.65,
-   "value": 43518878.45,
-   "acc": "0001193125-26-403089",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 0.57,
-   "value": 57.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 0.6,
-   "value": 60.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 0.62,
-   "value": 62.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-24",
-   "shares": 3.0,
-   "price": 20.75,
-   "value": 62.25,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 0.63,
-   "value": 63.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -3586,6 +3478,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "FUND",
+   "company": "SPROTT FOCUS TRUST INC.",
+   "insider": "GEORGE W WHITNEY",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 1760.0,
+   "price": 10.05,
+   "value": 17688.0,
+   "acc": "0001193125-26-410922",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -3610,6 +3514,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "FUND",
+   "company": "SPROTT FOCUS TRUST INC.",
+   "insider": "GEORGE W WHITNEY",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 4076.0,
+   "price": 10.05,
+   "value": 40963.8,
+   "acc": "0001193125-26-410922",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Nechmad Yair",
@@ -3620,6 +3536,18 @@
    "value": 45490.0,
    "acc": "0001976408-26-000874",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "FUND",
+   "company": "SPROTT FOCUS TRUST INC.",
+   "insider": "GEORGE W WHITNEY",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 4725.0,
+   "price": 10.05,
+   "value": 47486.25,
+   "acc": "0001193125-26-410922",
+   "filed": "2026-10-01"
   },
   {
    "ticker": "MOALX",
@@ -3766,6 +3694,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "FUND",
+   "company": "SPROTT FOCUS TRUST INC.",
+   "insider": "GEORGE W WHITNEY",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 21944.0,
+   "price": 10.05,
+   "value": 220537.2,
+   "acc": "0001193125-26-410922",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -3813,6 +3753,42 @@
    "acc": "0001213900-26-105765",
    "filed": "2026-10-01",
    "placement": true
+  },
+  {
+   "ticker": "FUND",
+   "company": "SPROTT FOCUS TRUST INC.",
+   "insider": "GEORGE W WHITNEY",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 39863.0,
+   "price": 10.05,
+   "value": 400623.15,
+   "acc": "0001193125-26-410922",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "FUND",
+   "company": "SPROTT FOCUS TRUST INC.",
+   "insider": "GEORGE W WHITNEY",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 49743.0,
+   "price": 10.05,
+   "value": 499917.15,
+   "acc": "0001193125-26-410922",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "FUND",
+   "company": "SPROTT FOCUS TRUST INC.",
+   "insider": "GEORGE W WHITNEY",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 59702.0,
+   "price": 10.05,
+   "value": 600005.1,
+   "acc": "0001193125-26-410922",
+   "filed": "2026-10-01"
   },
   {
    "ticker": "GPI",
@@ -4283,6 +4259,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "ASPI",
+   "company": "ASP Isotopes Inc.",
+   "insider": "Ryan Robert John Andrew",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 15000.0,
+   "price": 2.68,
+   "value": 40200.0,
+   "acc": "0001477932-26-005964",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "SPG",
    "company": "SIMON PROPERTY GROUP INC.",
    "insider": "STEWART MARTA R",
@@ -4388,6 +4376,18 @@
    "price": 202.78,
    "value": 70973.0,
    "acc": "0001464273-26-000010",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "PRHI",
+   "company": "Presurance Holdings, Inc.",
+   "insider": "SARAFA JOSEPH D",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 11000.0,
+   "price": 6.7497,
+   "value": 74246.7,
+   "acc": "0001193125-26-410914",
    "filed": "2026-10-01"
   },
   {
@@ -4874,14 +4874,14 @@
    "total_value": 460716.16
   },
   {
+   "ticker": "PRHI",
+   "insiders": 5,
+   "total_value": 248877.59
+  },
+  {
    "ticker": "FTHY",
    "insiders": 2,
    "total_value": 225909.5
-  },
-  {
-   "ticker": "PRHI",
-   "insiders": 4,
-   "total_value": 174630.89
   },
   {
    "ticker": "PMPEX",
@@ -4935,7 +4935,6 @@
   }
  ],
  "seen": [
-  "0001968915-26-000143",
   "0001968915-26-000144",
   "0001968915-26-000145",
   "0001968915-26-000146",
@@ -7458,6 +7457,7 @@
   "0002100129-26-000006",
   "0002100129-26-000008",
   "0002100449-26-000004",
+  "0002100449-26-000006",
   "0002100573-26-000006",
   "0002100774-26-000004",
   "0002100792-26-000011",
