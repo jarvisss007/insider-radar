@@ -1,150 +1,6 @@
 {
- "updated_utc": "2026-10-01 23:07 UTC",
+ "updated_utc": "2026-10-01 23:39 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 300.0,
-   "price": 0.65,
-   "value": 195.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 500.0,
-   "price": 0.63,
-   "value": 315.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 500.0,
-   "price": 0.66,
-   "value": 330.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-24",
-   "shares": 1.0,
-   "price": 340.28,
-   "value": 340.28,
-   "acc": "0001437749-26-031186",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-24",
-   "shares": 1500.0,
-   "price": 0.63,
-   "value": 945.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "ATCH",
-   "company": "AtlasClear Holdings, Inc.",
-   "insider": "Carlson Steven J.",
-   "role": "Director",
-   "date": "2026-09-24",
-   "shares": 10000.0,
-   "price": 0.1985,
-   "value": 1985.0,
-   "acc": "0001493152-26-044627",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 20.8,
-   "value": 2080.0,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "WILLIAMSON JOHN B III",
-   "role": "Director",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 20.85,
-   "value": 2085.0,
-   "acc": "0001437749-26-031183",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-24",
-   "shares": 756.0,
-   "price": 3.04,
-   "value": 2298.24,
-   "acc": "0001437749-26-031189",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "CMPX",
-   "company": "Compass Therapeutics, Inc.",
-   "insider": "Lerner Neil",
-   "role": "Chief Accounting Officer",
-   "date": "2026-09-24",
-   "shares": 2500.0,
-   "price": 1.14,
-   "value": 2850.0,
-   "acc": "0001171843-26-006235",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Ben-Avi David",
-   "role": "CTO and Co Founder",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 42.0906,
-   "value": 4209.06,
-   "acc": "0001976408-26-000864",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Ben-Avi David",
-   "role": "CTO and Co Founder",
-   "date": "2026-09-24",
-   "shares": 100.0,
-   "price": 42.0906,
-   "value": 4209.06,
-   "acc": "0001976408-26-000873",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
@@ -1332,6 +1188,18 @@
    "value": 25352361.1,
    "acc": "0001193125-26-403089",
    "filed": "2026-09-25"
+  },
+  {
+   "ticker": "ARBE",
+   "company": "Arbe Robotics Ltd.",
+   "insider": "CRIST EUGENE SCOTT",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 50.0,
+   "price": 0.605,
+   "value": 30.25,
+   "acc": "0001213900-26-106000",
+   "filed": "2026-10-01"
   },
   {
    "ticker": "CTTH",
@@ -4739,6 +4607,102 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 55.0,
+   "price": 1.75,
+   "value": 96.25,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 100.0,
+   "price": 1.71,
+   "value": 171.0,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 100.0,
+   "price": 1.73,
+   "value": 173.0,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 100.0,
+   "price": 1.75,
+   "value": 175.0,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 145.0,
+   "price": 1.75,
+   "value": 253.75,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 189.0,
+   "price": 1.75,
+   "value": 330.75,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 211.0,
+   "price": 1.73,
+   "value": 365.03,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 300.0,
+   "price": 1.75,
+   "value": 525.0,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "CTM",
    "company": "Castellum, Inc.",
    "insider": "MARTIN TAMMY L",
@@ -4775,6 +4739,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 500.0,
+   "price": 1.75,
+   "value": 875.0,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "CTM",
    "company": "Castellum, Inc.",
    "insider": "Ives Glen R",
@@ -4784,6 +4760,30 @@
    "price": 0.5352,
    "value": 909.84,
    "acc": "0001877939-26-000084",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 900.0,
+   "price": 1.71,
+   "value": 1539.0,
+   "acc": "0001199835-26-000361",
+   "filed": "2026-10-01"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "BERNAU JAMES W",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 2200.0,
+   "price": 1.71,
+   "value": 3762.0,
+   "acc": "0001199835-26-000361",
    "filed": "2026-10-01"
   },
   {
@@ -4846,7 +4846,7 @@
   {
    "ticker": "NYAX",
    "insiders": 2,
-   "total_value": 6745735.97
+   "total_value": 6737317.85
   },
   {
    "ticker": "GPUS",
@@ -4891,7 +4891,7 @@
   {
    "ticker": "ATCH",
    "insiders": 5,
-   "total_value": 162524.19
+   "total_value": 160539.19
   },
   {
    "ticker": "SWZ",
@@ -4935,8 +4935,6 @@
   }
  ],
  "seen": [
-  "0001968915-26-000149",
-  "0001968968-26-000003",
   "0001968977-26-000012",
   "0001968977-26-000014",
   "0001969082-26-000009",
@@ -6232,6 +6230,7 @@
   "0002008603-26-000003",
   "0002008790-26-000006",
   "0002008967-26-000013",
+  "0002008981-26-000011",
   "0002008989-26-000008",
   "0002009110-26-000003",
   "0002009110-26-000005",
@@ -7302,6 +7301,7 @@
   "0002083591-26-000005",
   "0002083591-26-000007",
   "0002083595-26-000006",
+  "0002083595-26-000008",
   "0002083617-26-000012",
   "0002083724-26-000005",
   "0002083761-26-000003",
