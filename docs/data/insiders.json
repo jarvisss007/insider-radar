@@ -1,402 +1,6 @@
 {
- "updated_utc": "2026-10-01 00:34 UTC",
+ "updated_utc": "2026-10-01 00:50 UTC",
  "purchases": [
-  {
-   "ticker": "GME",
-   "company": "GameStop Corp.",
-   "insider": "Attal Alain",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 17500.0,
-   "price": 22.969,
-   "value": 401957.5,
-   "acc": "0001840485-26-000008",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Batista de Lima Filho Pedro",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 51700.0,
-   "price": 10.55,
-   "value": 545435.0,
-   "acc": "0001213900-26-102459",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-09-21",
-   "shares": 67878.0,
-   "price": 11.963,
-   "value": 812024.51,
-   "acc": "0001398344-26-017538",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "GRAB",
-   "company": "Grab Holdings Ltd",
-   "insider": "Hungate Alexander Charles",
-   "role": "President and COO",
-   "date": "2026-09-21",
-   "shares": 299571.0,
-   "price": 2.8936,
-   "value": 866838.65,
-   "acc": "0002026373-26-000010",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "CYBN",
-   "company": "CYBIN INC.",
-   "insider": "Halstead Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-21",
-   "shares": 100000.0,
-   "price": 13.4705,
-   "value": 1347050.0,
-   "acc": "0000912282-26-001293",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 18146.0,
-   "price": 76.62,
-   "value": 1390346.52,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 160275.0,
-   "price": 77.23,
-   "value": 12378038.25,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GME",
-   "company": "GameStop Corp.",
-   "insider": "Cohen Ryan",
-   "role": "President, CEO and Chairman",
-   "date": "2026-09-21",
-   "shares": 1150680.0,
-   "price": 22.9375,
-   "value": 26393722.5,
-   "acc": "0000921895-26-002608",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "GRAB",
-   "company": "Grab Holdings Ltd",
-   "insider": "Tan Anthony Ping Yeow",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-21",
-   "shares": 10350000.0,
-   "price": 2.8866,
-   "value": 29876310.0,
-   "acc": "0001896497-26-000009",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "LEN, LEN.B",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-21",
-   "shares": 483809.0,
-   "price": 77.97,
-   "value": 37722587.73,
-   "acc": "0001193125-26-397059",
-   "filed": "2026-09-21"
-  },
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-22",
-   "shares": 1.0,
-   "price": 361.36,
-   "value": 361.36,
-   "acc": "0001437749-26-031028",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-22",
-   "shares": 2200.0,
-   "price": 0.1981,
-   "value": 435.82,
-   "acc": "0001214659-26-011956",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-09-22",
-   "shares": 10100.0,
-   "price": 0.045,
-   "value": 454.5,
-   "acc": "0001035422-26-000013",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-09-22",
-   "shares": 10100.0,
-   "price": 0.045,
-   "value": 454.5,
-   "acc": "0001035422-26-000015",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "CSBB",
-   "company": "CSB Bancorp, Inc.",
-   "insider": "Kirkbride Cheryl M",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 7.81,
-   "price": 79.69,
-   "value": 622.38,
-   "acc": "0001193125-26-400323",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "DLHC",
-   "company": "DLH Holdings Corp.",
-   "insider": "Mink Brook Asset Management LLC",
-   "role": "10% owner",
-   "date": "2026-09-22",
-   "shares": 301.0,
-   "price": 3.9986,
-   "value": 1203.58,
-   "acc": "0001628280-26-063060",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-22",
-   "shares": 110.0,
-   "price": 20.9,
-   "value": 2299.0,
-   "acc": "0001510281-26-000310",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-22",
-   "shares": 756.0,
-   "price": 3.05,
-   "value": 2305.8,
-   "acc": "0001437749-26-031017",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Daly Joseph Patrick",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 1303.0,
-   "price": 4.19,
-   "value": 5459.57,
-   "acc": "0001332596-26-000008",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-22",
-   "shares": 200.0,
-   "price": 34.92,
-   "value": 6984.0,
-   "acc": "0001193125-26-401049",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "ENGN",
-   "company": "enGene Therapeutics Inc.",
-   "insider": "Grossman William",
-   "role": "Interim Chief Medical Officer",
-   "date": "2026-09-22",
-   "shares": 5102.0,
-   "price": 1.97,
-   "value": 10050.94,
-   "acc": "0001552781-26-000501",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "UUU",
-   "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 3000.0,
-   "price": 5.0225,
-   "value": 15067.5,
-   "acc": "0001214659-26-011957",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "CULP",
-   "company": "CULP INC",
-   "insider": "Hunsberger Mary Elizabeth",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-22",
-   "shares": 5000.0,
-   "price": 3.6,
-   "value": 18000.0,
-   "acc": "0002032661-26-000003",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BUKS",
-   "company": "BUTLER NATIONAL CORP",
-   "insider": "Daly Joseph Patrick",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 5000.0,
-   "price": 4.01,
-   "value": 20050.0,
-   "acc": "0001332596-26-000008",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BFRG",
-   "company": "BullFrog AI Holdings, Inc.",
-   "insider": "Blacher Joshua",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-22",
-   "shares": 50000.0,
-   "price": 0.5285,
-   "value": 26425.0,
-   "acc": "0001628280-26-063056",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "VFF",
-   "company": "Village Farms International, Inc.",
-   "insider": "Woodward Christopher C.",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 10000.0,
-   "price": 3.058,
-   "value": 30580.0,
-   "acc": "0001193125-26-397890",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "DFDV",
-   "company": "DeFi Development Corp.",
-   "insider": "Kang Daniel",
-   "role": "Chief Strategy Officer",
-   "date": "2026-09-22",
-   "shares": 3540.0,
-   "price": 8.81,
-   "value": 31187.4,
-   "acc": "0002087925-26-000006",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "GOAI",
-   "company": "Eva Live Inc",
-   "insider": "Boulette David",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-22",
-   "shares": 18478.0,
-   "price": 2.03,
-   "value": 37510.34,
-   "acc": "0001493152-26-043852",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "RWAY",
-   "company": "Runway Growth Finance Corp.",
-   "insider": "Goldthorpe Edward J.",
-   "role": "Director",
-   "date": "2026-09-22",
-   "shares": 6251.0,
-   "price": 6.76,
-   "value": 42256.76,
-   "acc": "0001104659-26-109712",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "BFRG",
-   "company": "BullFrog AI Holdings, Inc.",
-   "insider": "Singh Vininder",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-22",
-   "shares": 75000.0,
-   "price": 0.5989,
-   "value": 44917.5,
-   "acc": "0001628280-26-063054",
-   "filed": "2026-09-22"
-  },
-  {
-   "ticker": "GAM",
-   "company": "GENERAL AMERICAN INVESTORS CO INC",
-   "insider": "Grassi Craig Anthony",
-   "role": "Vice-President",
-   "date": "2026-09-22",
-   "shares": 2000.0,
-   "price": 23.08,
-   "value": 46160.0,
-   "acc": "0000040417-26-000050",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "DFDV",
-   "company": "DeFi Development Corp.",
-   "insider": "Kang Daniel",
-   "role": "Chief Strategy Officer",
-   "date": "2026-09-22",
-   "shares": 6900.0,
-   "price": 8.84,
-   "value": 60996.0,
-   "acc": "0002087925-26-000006",
-   "filed": "2026-09-23"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Ben-Avi David",
-   "role": "CTO and Co Founder",
-   "date": "2026-09-22",
-   "shares": 1554.0,
-   "price": 43.182,
-   "value": 67104.83,
-   "acc": "0001976408-26-000864",
-   "filed": "2026-09-24"
-  },
   {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
@@ -3051,6 +2655,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "LPCN",
+   "company": "Lipocine Inc.",
+   "insider": "Higuchi John W.",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 12561.0,
+   "price": 2.16,
+   "value": 27131.76,
+   "acc": "0001493152-26-045185",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -3180,6 +2796,18 @@
    "price": 81.915,
    "value": 53326.67,
    "acc": "0001193125-26-409118",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 230.0,
+   "price": 250.3504,
+   "value": 57580.59,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -3495,6 +3123,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 942.0,
+   "price": 248.3331,
+   "value": 233929.78,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "CLPR",
    "company": "Clipper Realty Inc.",
    "insider": "Bistricer Jacob",
@@ -3651,6 +3291,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 1672.0,
+   "price": 240.8285,
+   "value": 402665.25,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -3771,6 +3423,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 2571.0,
+   "price": 246.1898,
+   "value": 632953.98,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -3816,6 +3480,18 @@
    "price": 17.65,
    "value": 1002520.0,
    "acc": "0001292814-26-004756",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 4018.0,
+   "price": 249.5298,
+   "value": 1002610.74,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -3954,6 +3630,30 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-09-28",
+   "shares": 135669.0,
+   "price": 12.5011,
+   "value": 1696011.74,
+   "acc": "0001398344-26-017661",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 7741.0,
+   "price": 247.3982,
+   "value": 1915109.47,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "NC SLF INC. (CIK 1844684)",
    "company": "NC SLF Inc.",
    "insider": "UAW Chrysler Retirees Medical Benefits Plan",
@@ -4026,6 +3726,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 12560.0,
+   "price": 239.5001,
+   "value": 3008121.26,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "NC SLF INC. (CIK 1844684)",
    "company": "NC SLF Inc.",
    "insider": "UAW Chrysler Retirees Medical Benefits Plan",
@@ -4062,6 +3774,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 15442.0,
+   "price": 244.1313,
+   "value": 3769875.53,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4083,6 +3807,18 @@
    "price": 76.345,
    "value": 4710486.5,
    "acc": "0001193125-26-409116",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 19257.0,
+   "price": 245.5418,
+   "value": 4728398.44,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -4205,6 +3941,30 @@
    "price": 89.6036,
    "value": 7407798.42,
    "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 34446.0,
+   "price": 242.2667,
+   "value": 8345118.75,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-28",
+   "shares": 34593.0,
+   "price": 243.2334,
+   "value": 8414173.01,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -4510,6 +4270,18 @@
    "filed": "2026-09-29"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 160.0,
+   "price": 244.83,
+   "value": 39172.8,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
    "insider": "Nechmad Yair",
@@ -4531,6 +4303,18 @@
    "price": 84.2421,
    "value": 52145.86,
    "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 320.0,
+   "price": 243.8588,
+   "value": 78034.82,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -4594,6 +4378,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 523.0,
+   "price": 238.799,
+   "value": 124891.88,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
    "insider": "TANNENBAUM LEONARD M",
@@ -4603,6 +4399,18 @@
    "price": 3.59,
    "value": 143890.79,
    "acc": "0001628280-26-064003",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 980.0,
+   "price": 242.9246,
+   "value": 238066.11,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -4627,6 +4435,30 @@
    "price": 2.2583,
    "value": 340099.98,
    "acc": "0001104659-26-112076",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 2821.0,
+   "price": 235.6335,
+   "value": 664722.1,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 3292.0,
+   "price": 237.8379,
+   "value": 782962.37,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -4678,6 +4510,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 4249.0,
+   "price": 241.6866,
+   "value": 1026926.36,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4687,6 +4531,42 @@
    "price": 85.403,
    "value": 1710707.49,
    "acc": "0001193125-26-409127",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 135817.0,
+   "price": 12.6029,
+   "value": 1711688.07,
+   "acc": "0001398344-26-017661",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 12942.0,
+   "price": 236.4808,
+   "value": 3060534.51,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 14570.0,
+   "price": 239.5223,
+   "value": 3489839.91,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -4700,6 +4580,18 @@
    "value": 4606200.0,
    "acc": "0000921895-26-002677",
    "filed": "2026-09-29"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 28791.0,
+   "price": 240.8725,
+   "value": 6934960.15,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
   },
   {
    "ticker": "GME",
@@ -4786,6 +4678,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 1040.0,
+   "price": 245.0998,
+   "value": 254903.79,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4795,6 +4699,102 @@
    "price": 79.98,
    "value": 320559.84,
    "acc": "0001193125-26-409451",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 2133.0,
+   "price": 238.3684,
+   "value": 508439.8,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 3151.0,
+   "price": 241.0405,
+   "value": 759518.62,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 5352.0,
+   "price": 242.6513,
+   "value": 1298669.76,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 154104.0,
+   "price": 12.6119,
+   "value": 1943544.24,
+   "acc": "0001398344-26-017661",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 12342.0,
+   "price": 240.3113,
+   "value": 2965922.06,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 14717.0,
+   "price": 239.3659,
+   "value": 3522747.95,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 16343.0,
+   "price": 244.6067,
+   "value": 3997607.3,
+   "acc": "0000905148-26-004310",
+   "filed": "2026-09-30"
+  },
+  {
+   "ticker": "GPI",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "insider": "Conifer Management, L.L.C.",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 16514.0,
+   "price": 243.4213,
+   "value": 4019859.35,
+   "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
   },
   {
@@ -4812,25 +4812,20 @@
  ],
  "clusters": [
   {
-   "ticker": "GME",
-   "insiders": 2,
-   "total_value": 37359476.1
-  },
-  {
    "ticker": "ADRX",
    "insiders": 5,
    "total_value": 34251838.0,
    "other_value": 33345772.0
   },
   {
-   "ticker": "GRAB",
-   "insiders": 2,
-   "total_value": 30743148.65
-  },
-  {
    "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
    "insiders": 3,
    "total_value": 22413926.24
+  },
+  {
+   "ticker": "BPRE",
+   "insiders": 2,
+   "total_value": 10500734.64
   },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
@@ -4845,12 +4840,7 @@
   {
    "ticker": "NYAX",
    "insiders": 2,
-   "total_value": 6940247.27
-  },
-  {
-   "ticker": "BPRE",
-   "insiders": 2,
-   "total_value": 5961515.1
+   "total_value": 6873142.44
   },
   {
    "ticker": "HHH",
@@ -4869,18 +4859,13 @@
   },
   {
    "ticker": "GAM",
-   "insiders": 3,
-   "total_value": 387410.0
+   "insiders": 2,
+   "total_value": 341250.0
   },
   {
    "ticker": "FTHY",
    "insiders": 2,
    "total_value": 293773.22
-  },
-  {
-   "ticker": "DFDV",
-   "insiders": 2,
-   "total_value": 181751.12
   },
   {
    "ticker": "ANIX",
@@ -4890,7 +4875,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 169118.66
+   "total_value": 168682.84
   },
   {
    "ticker": "PMPEX",
@@ -4908,11 +4893,6 @@
    "total_value": 155540.2
   },
   {
-   "ticker": "VFF",
-   "insiders": 2,
-   "total_value": 131838.5
-  },
-  {
    "ticker": "SWZ",
    "insiders": 2,
    "total_value": 127343.51
@@ -4921,16 +4901,6 @@
    "ticker": "RGCO",
    "insiders": 3,
    "total_value": 85087.95
-  },
-  {
-   "ticker": "BFRG",
-   "insiders": 2,
-   "total_value": 71342.5
-  },
-  {
-   "ticker": "CULP",
-   "insiders": 2,
-   "total_value": 29514.4
   },
   {
    "ticker": "DTIL",
