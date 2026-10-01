@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-01 18:38 UTC",
+ "updated_utc": "2026-10-01 18:54 UTC",
  "purchases": [
-  {
-   "ticker": "CUEN",
-   "company": "Cuentas Inc.",
-   "insider": "Maimon Shalom Arik",
-   "role": "CEO",
-   "date": "2026-09-23",
-   "shares": 1200.0,
-   "price": 0.55,
-   "value": 660.0,
-   "acc": "0001213900-26-103430",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "JOHNSTON ROBERT B",
-   "role": "Director",
-   "date": "2026-09-23",
-   "shares": 70.0,
-   "price": 20.62,
-   "value": 1443.4,
-   "acc": "0001437749-26-031185",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
@@ -4654,6 +4630,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "company": "John Hancock GA Mortgage Trust",
+   "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 56773.7757,
+   "price": 17.613,
+   "value": 999956.51,
+   "acc": "0001833683-26-000019",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "XENE",
    "company": "Xenon Pharmaceuticals Inc.",
    "insider": "MORTIMER IAN",
@@ -4786,6 +4774,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "company": "John Hancock GA Mortgage Trust",
+   "insider": "Manulife (International) Ltd",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 1476118.168,
+   "price": 17.613,
+   "value": 25998869.29,
+   "acc": "0001765518-26-000006",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "company": "John Hancock GA Senior Loan Trust",
    "insider": "Manufacturers Life Reinsurance Ltd",
@@ -4817,6 +4817,11 @@
    "total_value": 42997757.97
   },
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "insiders": 4,
+   "total_value": 39998260.45
+  },
+  {
    "ticker": "ADRX",
    "insiders": 5,
    "total_value": 34251838.0,
@@ -4826,11 +4831,6 @@
    "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
    "insiders": 3,
    "total_value": 22413926.24
-  },
-  {
-   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "insiders": 2,
-   "total_value": 12999434.65
   },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
@@ -4915,7 +4915,7 @@
   {
    "ticker": "RGCO",
    "insiders": 3,
-   "total_value": 85087.95
+   "total_value": 83644.55
   },
   {
    "ticker": "MOALX",
