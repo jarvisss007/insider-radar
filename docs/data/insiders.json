@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-01 13:21 UTC",
+ "updated_utc": "2026-10-01 13:37 UTC",
  "purchases": [
-  {
-   "ticker": "GSHD",
-   "company": "Goosehead Insurance, Inc.",
-   "insider": "Durable Capital Partners LP",
-   "role": "10% owner",
-   "date": "2026-09-22",
-   "shares": 150000.0,
-   "price": 47.32,
-   "value": 7098000.0,
-   "acc": "0001193125-26-401141",
-   "filed": "2026-09-24"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-09-22",
-   "shares": 296668.0,
-   "price": 34.3091,
-   "value": 10178412.08,
-   "acc": "0001193125-26-401049",
-   "filed": "2026-09-24"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4558,6 +4534,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "MFM",
+   "company": "ABERDEEN MUNICIPAL INCOME FUND",
+   "insider": "Baird Gordon A",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 300.0,
+   "price": 4.8877,
+   "value": 1466.31,
+   "acc": "0001104659-26-112638",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
    "insider": "Horowitz Joshua",
@@ -4688,6 +4676,18 @@
    "value": 508439.8,
    "acc": "0000905148-26-004310",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "XENE",
+   "company": "Xenon Pharmaceuticals Inc.",
+   "insider": "Kelly Thomas Patrick",
+   "role": "Chief Financial Officer",
+   "date": "2026-09-30",
+   "shares": 15000.0,
+   "price": 37.316,
+   "value": 559740.0,
+   "acc": "0001193125-26-410001",
+   "filed": "2026-10-01"
   },
   {
    "ticker": "GPI",
@@ -4848,6 +4848,11 @@
    "total_value": 5220064.91
   },
   {
+   "ticker": "XENE",
+   "insiders": 2,
+   "total_value": 1681140.0
+  },
+  {
    "ticker": "HHH",
    "insiders": 2,
    "total_value": 1667427.5
@@ -4914,7 +4919,6 @@
   }
  ],
  "seen": [
-  "0001967680-26-000036",
   "0001967680-26-000038",
   "0001967680-26-000040",
   "0001967722-26-000002",
@@ -5288,6 +5292,7 @@
   "0001992104-26-000364",
   "0001992104-26-000425",
   "0001992104-26-000426",
+  "0001992104-26-000459",
   "0001992312-26-000012",
   "0001992352-26-000005",
   "0001992394-26-000011",
