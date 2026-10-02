@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-02 17:37 UTC",
+ "updated_utc": "2026-10-02 18:38 UTC",
  "purchases": [
-  {
-   "ticker": "ANIX",
-   "company": "Anixa Biosciences Inc",
-   "insider": "KUMAR AMIT",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-24",
-   "shares": 7000.0,
-   "price": 2.78,
-   "value": 19460.0,
-   "acc": "0001493152-26-044458",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-24",
-   "shares": 80.0,
-   "price": 251.2225,
-   "value": 20097.8,
-   "acc": "0000905148-26-004278",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -3154,6 +3130,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Garcia Cuellar Maria Regina",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 403.0,
+   "price": 20.53,
+   "value": 8273.59,
+   "acc": "0002063220-26-000002",
+   "filed": "2026-10-02"
+  },
+  {
    "ticker": "ARR",
    "company": "Armour Residential REIT, Inc.",
    "insider": "Losyev Sergey",
@@ -3837,6 +3825,18 @@
    "value": 7919.34,
    "acc": "0001104659-26-112426",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Garcia Cuellar Maria Regina",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 423.0,
+   "price": 20.5,
+   "value": 8671.5,
+   "acc": "0002063220-26-000002",
+   "filed": "2026-10-02"
   },
   {
    "ticker": "CINT",
@@ -4889,6 +4889,11 @@
    "total_value": 225909.5
   },
   {
+   "ticker": "MXF",
+   "insiders": 2,
+   "total_value": 166907.3
+  },
+  {
    "ticker": "PMPEX",
    "insiders": 2,
    "total_value": 164499.99
@@ -4907,11 +4912,6 @@
    "ticker": "MOALX",
    "insiders": 2,
    "total_value": 70000.0
-  },
-  {
-   "ticker": "ANIX",
-   "insiders": 2,
-   "total_value": 35080.0
   },
   {
    "ticker": "DTIL",
@@ -4945,7 +4945,6 @@
   }
  ],
  "seen": [
-  "0001970748-26-000002",
   "0001971298-26-000003",
   "0001971363-26-000006",
   "0001971511-26-000004",
@@ -6887,6 +6886,7 @@
   "0002062781-26-000020",
   "0002062781-26-000022",
   "0002062781-26-000024",
+  "0002063220-26-000002",
   "0002063228-26-000013",
   "0002063228-26-000015",
   "0002063236-26-000012",
