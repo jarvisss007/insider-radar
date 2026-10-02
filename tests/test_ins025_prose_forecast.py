@@ -16,6 +16,7 @@ Numbered:
  5 the guards close_on() has: a NaN or zero-volume close on either date stalls the row, blank and named. NOTE these
    tests run close_on()'s yfinance FALLBACK path (the isolated HOME has no options_settle.py): the production path reads
    quote.close only, so the zero-volume refusal is the fallback's - a separate, pre-existing gap, not claimed here
+   (FCST-007 has since closed that gap on the production path; tests/test_fcst007_production_zero_volume.py covers it)
  6 a row not yet due is not examined; a scored row is never touched (BENCH-002)
  7 check_date governs the resolution date (INS-019) and the row says so
  8 N is descriptive: the two dates decide, nothing is written about N; a from-date not strictly before the resolution
