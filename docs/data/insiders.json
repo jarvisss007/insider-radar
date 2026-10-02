@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-01 23:55 UTC",
+ "updated_utc": "2026-10-02 00:11 UTC",
  "purchases": [
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-24",
-   "shares": 500.0,
-   "price": 10.85,
-   "value": 5425.0,
-   "acc": "0001510281-26-000312",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-24",
-   "shares": 33000.0,
-   "price": 0.1723,
-   "value": 5685.9,
-   "acc": "0001214659-26-011988",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "ATCH",
    "company": "AtlasClear Holdings, Inc.",
@@ -4403,6 +4379,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "AVR",
+   "company": "Anteris Technologies Global Corp.",
+   "insider": "L1 Capital Pty Ltd",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 74286.0,
+   "price": 7.72,
+   "value": 573487.92,
+   "acc": "0001817646-26-000028",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4809,6 +4797,18 @@
    "value": 99578.4,
    "acc": "0002119764-26-000028",
    "filed": "2026-10-01"
+  },
+  {
+   "ticker": "AVR",
+   "company": "Anteris Technologies Global Corp.",
+   "insider": "L1 Capital Pty Ltd",
+   "role": "10% owner",
+   "date": "2026-10-01",
+   "shares": 322940.0,
+   "price": 7.6,
+   "value": 2454344.0,
+   "acc": "0001817646-26-000028",
+   "filed": "2026-10-01"
   }
  ],
  "clusters": [
@@ -4851,7 +4851,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5201941.31
+   "total_value": 5196255.41
   },
   {
    "ticker": "BBASX",
