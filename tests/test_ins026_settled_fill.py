@@ -23,7 +23,8 @@ Audit (price_audit.py):
 10b the audit's own selftest passes
 10c the audit FAILS CLOSED with no calendar (it used to treat today as settled at any hour)
 10d a stamped "[QUEUED at ..." row is named as queued, with when it fills - not "NO [QUEUED] marker - unfillable row"
-11 the two live rows: recorded numbers untouched, unscored, disclosed once, with the reviewer-required wording
+11 the two live rows: restated to the settled official opens (INS-026 ruling (a) FIX, 2026-10-01), restated once, the recorded first
+   prints kept in each row's notes, unscored, disclosed once, with the reviewer-required wording
 12 AGENT.md step 1b tells the daily agent that "has not settled" is expected and a row is never filled by hand
 """
 import csv
@@ -325,15 +326,18 @@ def test_10d_a_stamped_queued_row_is_named_queued_with_when_it_fills(tmp_path):
 
 
 # ---------------------------------------------------------------- 11 the two live rows
-def test_11_the_two_live_rows_keep_their_recorded_numbers_and_carry_the_disclosure():
+def test_11_the_two_live_rows_are_restated_and_keep_the_recorded_numbers_and_the_disclosure_in_their_notes():
     rows = {(r["ticker"], r["date"]): r for r in csv.DictReader(open(os.path.join(AGENT, "ledger.csv")))}
     want = {("DFDV", "2026-09-28"): ("5.83", "5.84", "2026-09-29", "2026-10-28"),
             ("ATCH", "2026-09-29"): ("0.1926", "0.193", "2026-09-30", "2026-10-29")}
     for key, (rec, off, day, check) in want.items():
         r = rows[key]
-        assert r["price_at_call"] == rec                                   # the recorded number stands
+        assert r["price_at_call"] == off                                   # INS-026 ruling (a) FIX: the settled official open
         assert r["outcome"] == "" and r["price_at_check"] == ""            # and the row is unscored
         t = r["thesis"]
+        assert t.count("RESTATED 2026-10-01 per Anupam's INS-026 ruling:") == 1                         # restated exactly once ...
+        assert (f"RESTATED 2026-10-01 per Anupam's INS-026 ruling: was {rec} (first print of a forming bar) -> "
+                f"{off} settled official open") in t                       # ... and the recorded first print is kept in the note
         assert f"[REF-GAP INS-026: recorded {rec} vs settled official open {off} on {day}" in t
         assert f"[FILLED {day} official open {rec} " in t                   # the original fill stamp is still there, unedited
         assert t.count("[REF-GAP INS-026:") == 1
