@@ -27,6 +27,7 @@ Audit (price_audit.py):
    prints kept in each row's notes, unscored, disclosed once, with the reviewer-required wording
 12 AGENT.md step 1b tells the daily agent that "has not settled" is expected and a row is never filled by hand
 """
+import datetime as _dt_t11   # test_11: the unscored assertion applies only before each row's check date
 import csv
 import datetime as dt
 import importlib.util
@@ -333,7 +334,8 @@ def test_11_the_two_live_rows_are_restated_and_keep_the_recorded_numbers_and_the
     for key, (rec, off, day, check) in want.items():
         r = rows[key]
         assert r["price_at_call"] == off                                   # INS-026 ruling (a) FIX: the settled official open
-        assert r["outcome"] == "" and r["price_at_check"] == ""            # and the row is unscored
+        if _dt_t11.date.today().isoformat() < check:                     # unscored before its check date; from it the grader may score it,
+            assert r["outcome"] == "" and r["price_at_check"] == ""        # and the restated price_at_call above must hold either way
         t = r["thesis"]
         assert t.count("RESTATED 2026-10-01 per Anupam's INS-026 ruling:") == 1                         # restated exactly once ...
         assert (f"RESTATED 2026-10-01 per Anupam's INS-026 ruling: was {rec} (first print of a forming bar) -> "
