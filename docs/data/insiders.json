@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-02 19:58 UTC",
+ "updated_utc": "2026-10-02 20:14 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-24",
-   "shares": 1049.0,
-   "price": 20.69,
-   "value": 21703.81,
-   "acc": "0001510281-26-000313",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
@@ -4355,6 +4343,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "FGBI",
+   "company": "First Guaranty Bancshares, Inc.",
+   "insider": "Smith Edgar R. III",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 99277.0,
+   "price": 8.28,
+   "value": 822013.56,
+   "acc": "0001437749-26-031876",
+   "filed": "2026-10-02"
+  },
+  {
    "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
    "company": "John Hancock GA Mortgage Trust",
    "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
@@ -4889,14 +4889,14 @@
    "total_value": 225909.5
   },
   {
-   "ticker": "MXF",
-   "insiders": 2,
-   "total_value": 166907.3
-  },
-  {
    "ticker": "PMPEX",
    "insiders": 2,
    "total_value": 164499.99
+  },
+  {
+   "ticker": "MXF",
+   "insiders": 2,
+   "total_value": 145203.49
   },
   {
    "ticker": "ATCH",
@@ -4945,8 +4945,6 @@
   }
  ],
  "seen": [
-  "0001971511-26-000004",
-  "0001971797-26-000010",
   "0001971798-26-000005",
   "0001972135-26-000005",
   "0001972630-26-000002",
@@ -6541,6 +6539,7 @@
   "0002034458-26-000007",
   "0002034458-26-000010",
   "0002034568-26-000003",
+  "0002034766-26-000002",
   "0002034782-26-000012",
   "0002034782-26-000017",
   "0002034782-26-000020",
@@ -7929,6 +7928,7 @@
   "0002153015-26-000004",
   "0002153122-26-000005",
   "0002153127-26-000004",
+  "0002153131-26-000007",
   "0002153364-26-000004",
   "0002153365-26-000004",
   "0002153366-26-000006",
