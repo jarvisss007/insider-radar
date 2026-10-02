@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-02 00:27 UTC",
+ "updated_utc": "2026-10-02 00:42 UTC",
  "purchases": [
-  {
-   "ticker": "ATCH",
-   "company": "AtlasClear Holdings, Inc.",
-   "insider": "Ridenhour David Craig",
-   "role": "President",
-   "date": "2026-09-24",
-   "shares": 50000.0,
-   "price": 0.2001,
-   "value": 10005.0,
-   "acc": "0001493152-26-044630",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "ATCH",
-   "company": "AtlasClear Holdings, Inc.",
-   "insider": "Patel Sandip I",
-   "role": "CFO & General Counsel",
-   "date": "2026-09-24",
-   "shares": 50000.0,
-   "price": 0.2173,
-   "value": 10865.0,
-   "acc": "0001493152-26-044629",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "KG",
    "company": "Kestrel Group Ltd",
@@ -3298,6 +3274,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "LPCN",
+   "company": "Lipocine Inc.",
+   "insider": "Higuchi John W.",
+   "role": "Director",
+   "date": "2026-09-29",
+   "shares": 9037.0,
+   "price": 2.15,
+   "value": 19429.55,
+   "acc": "0001493152-26-045400",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4089,6 +4077,18 @@
    "value": 29988.0,
    "acc": "0001398344-26-017659",
    "filed": "2026-09-30"
+  },
+  {
+   "ticker": "LPCN",
+   "company": "Lipocine Inc.",
+   "insider": "Higuchi John W.",
+   "role": "Director",
+   "date": "2026-09-30",
+   "shares": 15970.0,
+   "price": 2.23,
+   "value": 35613.1,
+   "acc": "0001493152-26-045400",
+   "filed": "2026-10-01"
   },
   {
    "ticker": "ASPI",
@@ -4891,7 +4891,7 @@
   {
    "ticker": "ATCH",
    "insiders": 5,
-   "total_value": 153031.3
+   "total_value": 132161.3
   },
   {
    "ticker": "SWZ",
