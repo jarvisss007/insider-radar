@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-02 00:42 UTC",
+ "updated_utc": "2026-10-02 00:58 UTC",
  "purchases": [
-  {
-   "ticker": "KG",
-   "company": "Kestrel Group Ltd",
-   "insider": "NIGRO STEVEN HAROLD",
-   "role": "Director",
-   "date": "2026-09-24",
-   "shares": 2500.0,
-   "price": 5.34,
-   "value": 13350.0,
-   "acc": "0001628280-26-063450",
-   "filed": "2026-09-24"
-  },
   {
    "ticker": "ANIX",
    "company": "Anixa Biosciences Inc",
@@ -4799,6 +4787,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "GME",
+   "company": "GameStop Corp.",
+   "insider": "Turner Nat",
+   "role": "Director",
+   "date": "2026-10-01",
+   "shares": 10462.0,
+   "price": 24.33,
+   "value": 254540.46,
+   "acc": "0001822293-26-000002",
+   "filed": "2026-10-01"
+  },
+  {
    "ticker": "AVR",
    "company": "Anteris Technologies Global Corp.",
    "insider": "L1 Capital Pty Ltd",
@@ -4832,6 +4832,11 @@
    "ticker": "AGL PRIVATE CREDIT INCOME FUND (CIK 2011498)",
    "insiders": 3,
    "total_value": 22413926.24
+  },
+  {
+   "ticker": "GME",
+   "insiders": 2,
+   "total_value": 10818336.56
   },
   {
    "ticker": "NC SLF INC. (CIK 1844684)",
