@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-02 17:06 UTC",
+ "updated_utc": "2026-10-02 17:37 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-24",
-   "shares": 5000.0,
-   "price": 2.925,
-   "value": 14625.0,
-   "acc": "0001536588-26-000034",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-24",
-   "shares": 100000.0,
-   "price": 0.1819,
-   "value": 18190.0,
-   "acc": "0001214659-26-011988",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "ANIX",
    "company": "Anixa Biosciences Inc",
@@ -4583,6 +4559,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "Miles Christen Brooke",
+   "role": "VP, Human Resources",
+   "date": "2026-10-01",
+   "shares": 4.632,
+   "price": 21.59,
+   "value": 100.0,
+   "acc": "0001437749-26-031825",
+   "filed": "2026-10-02"
+  },
+  {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
    "insider": "BERNAU JAMES W",
@@ -4617,6 +4605,18 @@
    "value": 175.0,
    "acc": "0001199835-26-000361",
    "filed": "2026-10-01"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "Oliver Lawrence T.",
+   "role": "Senior VP and Secretary",
+   "date": "2026-10-01",
+   "shares": 9.264,
+   "price": 21.59,
+   "value": 200.01,
+   "acc": "0001437749-26-031827",
+   "filed": "2026-10-02"
   },
   {
    "ticker": "WVVI",
@@ -4856,7 +4856,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5196255.41
+   "total_value": 5178065.41
   },
   {
    "ticker": "BBASX",
@@ -4937,6 +4937,11 @@
    "ticker": "CTM",
    "insiders": 4,
    "total_value": 3151.26
+  },
+  {
+   "ticker": "RGCO",
+   "insiders": 2,
+   "total_value": 300.01
   }
  ],
  "seen": [
