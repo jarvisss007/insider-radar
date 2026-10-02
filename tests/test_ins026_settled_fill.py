@@ -232,6 +232,7 @@ def _audit(tmp_path, rows, cache=None, *args, patch_quote=None):
         w = csv.DictWriter(f, fieldnames=HEADER)
         w.writeheader()
         w.writerows(rows)
+    # BOOK-001 does not apply: a scratch fixture inside a temp directory, never a shared book
     json.dump(cache or {}, open(root / "data" / "price_audit_cache.json", "w"))
     r = subprocess.run([PY, str(root / "price_audit.py"), "--open-only", *args], capture_output=True, text=True, timeout=120)
     return r.returncode, r.stdout + r.stderr

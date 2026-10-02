@@ -326,6 +326,7 @@ def _fcst007_production_path_refuses_zero_volume():
                 w = csv.DictWriter(f, fieldnames=cols)
                 w.writeheader()
                 w.writerows(rows)
+            # BOOK-001 does not apply: a scratch fixture inside a temp directory, never a shared book
             json.dump({"PROBECF": {"bars": tape(True), "splits": []}, "PROBEOK": {"bars": tape(False), "splits": []}}, open(f"{h}/yf.json", "w"))
             env = dict(_fcst007_os.environ, HOME=h, FAKE_YF_FIXTURE=f"{h}/yf.json", PYTHONPATH=_fcst007_FAKE_YF)
             r = subprocess.run([_fcst007_PY, _fcst007_RESOLVER], capture_output=True, text=True, env=env, timeout=300)
