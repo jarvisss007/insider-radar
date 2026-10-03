@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-02 23:57 UTC",
+ "updated_utc": "2026-10-03 00:29 UTC",
  "purchases": [
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-09-24",
-   "shares": 80000.0,
-   "price": 14.35,
-   "value": 1148000.0,
-   "acc": "0001493152-26-044626",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "KBDC",
-   "company": "Kayne Anderson BDC, Inc.",
-   "insider": "ROBO JAMES L",
-   "role": "Director",
-   "date": "2026-09-24",
-   "shares": 105000.0,
-   "price": 13.046,
-   "value": 1369830.0,
-   "acc": "0001183254-26-000007",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-09-24",
-   "shares": 115229.0,
-   "price": 12.3899,
-   "value": 1427675.79,
-   "acc": "0001398344-26-017550",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -2902,6 +2866,18 @@
    "filed": "2026-09-30"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Lin Yi-Chien",
+   "role": "10% owner",
+   "date": "2026-09-29",
+   "shares": 3000.0,
+   "price": 2.69,
+   "value": 8070.0,
+   "acc": "0002144385-26-000005",
+   "filed": "2026-10-02"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Garcia Cuellar Maria Regina",
@@ -3705,6 +3681,18 @@
    "value": 4940.88,
    "acc": "0001510281-26-000318",
    "filed": "2026-10-01"
+  },
+  {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Lin Yi-Chien",
+   "role": "10% owner",
+   "date": "2026-09-30",
+   "shares": 2000.0,
+   "price": 2.71,
+   "value": 5420.0,
+   "acc": "0002144385-26-000005",
+   "filed": "2026-10-02"
   },
   {
    "ticker": "KWY",
@@ -4715,6 +4703,18 @@
    "filed": "2026-10-02"
   },
   {
+   "ticker": "XAIR",
+   "company": "Beyond Air, Inc.",
+   "insider": "Lin Yi-Chien",
+   "role": "10% owner",
+   "date": "2026-10-01",
+   "shares": 15393.0,
+   "price": 2.8,
+   "value": 43100.4,
+   "acc": "0002144385-26-000005",
+   "filed": "2026-10-02"
+  },
+  {
    "ticker": "CSWC",
    "company": "CAPITAL SOUTHWEST CORP",
    "insider": "Thomas William R III",
@@ -4846,7 +4846,7 @@
   {
    "ticker": "BPRE",
    "insiders": 2,
-   "total_value": 7212231.4
+   "total_value": 5784555.61
   },
   {
    "ticker": "GPUS",
@@ -4945,8 +4945,6 @@
   }
  ],
  "seen": [
-  "0001975515-26-000006",
-  "0001975669-26-000011",
   "0001975669-26-000013",
   "0001976012-26-000008",
   "0001976230-26-000006",
@@ -5087,6 +5085,7 @@
   "0001979088-26-000018",
   "0001979088-26-000019",
   "0001979088-26-000020",
+  "0001979088-26-000022",
   "0001979116-26-000010",
   "0001979195-26-000002",
   "0001979195-26-000003",
@@ -7835,6 +7834,7 @@
   "0002144093-26-000007",
   "0002144116-26-000005",
   "0002144320-26-000003",
+  "0002144385-26-000005",
   "0002144418-26-000006",
   "0002144468-26-000004",
   "0002144584-26-000004",
