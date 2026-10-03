@@ -410,47 +410,14 @@ def fill_queued(ledger: str = LEDGER, dry: bool = False, now=None) -> int:
     return 0
 
 
-def issuer_quote_type(ticker: str) -> str:
-    """Yahoo quoteType for `ticker` (INS-030). Isolated so tests can monkeypatch it offline."""
-    import yfinance as yf
-    return (yf.Ticker(ticker).info or {})["quoteType"]
-
-
-def _require_equity_issuer(ticker) -> None:
-    """INS-030: this lab's charter is open-market purchases in corporate (equity) issuers.
-
-    Mutual / interval funds (BBASX, PMPEX, MOALX, TPYTX) were logged as stock calls: no traded
-    open, so queued rows could never fill, and not the thesis. Refuse anything that is not
-    EQUITY; if the lookup itself fails or returns nothing, refuse too - never guess equity.
-    """
-    t = str(ticker or "").strip()
-    try:
-        qt = issuer_quote_type(t)
-    except Exception as e:
-        raise ValueError(f"refusing to log {t}: issuer type unverifiable "
-                         f"({type(e).__name__}: {e}) - INS-030 never guesses equity.")
-    if str(qt or "").strip().upper() != "EQUITY":
-        if not str(qt or "").strip():
-            raise ValueError(f"refusing to log {t}: issuer type unverifiable (empty quoteType) - INS-030.")
-        raise ValueError(f"refusing to log {t}: quoteType {qt!r} is not EQUITY. Funds/ETFs are "
-                         f"not open-market common-stock Form 4 purchases and have no traded "
-                         f"open to fill (INS-030).")
-
-
-def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS, now=None,
-                check_issuer_type: bool = True):
+def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS, now=None):
     """Append ONE call to the ledger with stale_quote already decided.
 
     This is the write path. Anything logging a call goes through here so the
     disclosure cannot be forgotten: if the caller does not supply stale_quote,
     it is computed from the pre-call series. `price_at_check` and `outcome` are
     always written empty — a call is never born scored.
-
-    INS-030: non-equity issuers (funds, ETFs) are refused at write time. `check_issuer_type=False`
-    exists for tests only; no production caller may pass it.
     """
-    if check_issuer_type:
-        _require_equity_issuer(row.get("ticker"))
     # WEEKEND CHECK-DATE GUARD (2026-08-31). Anupam caught SCTX on the desk page:
     # check_date 2026-08-30, a Sunday, still "open" past its exit plan — because the
     # date was computed as entry+30 CALENDAR days and no session exists to score it.

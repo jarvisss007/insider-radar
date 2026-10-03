@@ -54,7 +54,7 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
    Form 4 purchase — and the lab declares that itself rather than letting the
    Observatory guess; the column was added to every prior row the same day),
    `price_at_call` = the price the INS-014/INS-020 rule owes, written THROUGH
-   `stale_quote.append_call()` (never by hand; non-equity issuers (funds, ETFs) are refused at write time (INS-030)): the call-day's SETTLED close if the
+   `stale_quote.append_call()` (never by hand): the call-day's SETTLED close if the
    run is after that close settled; otherwise pass whatever you read and the write
    path QUEUES the row (blank price, `[QUEUED at <time> PT]`, your live print kept
    only as a disclosure) to be filled at the next official open — see §INS-020 below,
