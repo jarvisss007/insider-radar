@@ -39,8 +39,11 @@ A row is never silently passed over. Each lands in exactly one bucket:
   PASS          price inside the call-day bar's range
   FAIL          price outside it — the INS-014 defect, by how much and on which side
   NO_BAR        the call date is not a trading day for this ticker (halt, pre-IPO,
-                or the date is not a session) — a real finding, never a pass
-  UNFETCHABLE   the ticker could not be priced at all (delisted, bad symbol)
+                or the date is not a session) — a real finding, never a pass. A bar whose
+                session has simply not SETTLED yet is not a missing bar: it is tagged
+                `unsettled` (waiting, not missing; INS-029)
+  UNFETCHABLE   the ticker could not be priced: the source said not-found (delisted, bad
+                symbol) or did not answer (429, 5xx, timeout). The record says which (INS-029)
   QUEUED        `price_at_call` is empty and the row says [QUEUED] — the documented
                 state for a call written before its bar existed, awaiting the next
                 official open. Correct, not a violation.
@@ -78,6 +81,20 @@ exits 1 - INS-020 ruled that an entry dated 2026-09-28 or later must match the o
 restate these rows or to waive the gap is a ruling, not a side effect. A mismatch with no matching note is
 printed "UNDISCLOSED".
 
+A FAILED READ IS NOT A VERDICT, AND AN UNCHECKED ROW IS NOT A PASS (INS-029, 2026-10-02)
+-----------------------------------------------------------------------------------------
+bars() used to cache ANY exception - a 429, a timeout - as a permanent "UNFETCHABLE", so one transient error could hide a row's verification for good
+(an AAPL row priced 1.00 stayed unchecked once the cache was poisoned). Now:
+  * only a definitive answer is remembered: HTTP 404, a `Not Found` error body, or a reply with no bars in range. It is kept in the cache's
+    `_not_found` section, stamped with the settled session it was said in, and asked again after the next close (the TTL is one settled
+    session - the data's own clock, never the wall clock). Anything else (429, 5xx, a timeout, a body that is not the chart) is TRANSIENT:
+    reported this run, never cached, read again next run, and not re-read within a run. A pre-INS-029 permanent "UNFETCHABLE" marker proves
+    nothing and is ignored; bars already held are never overwritten by a failed refresh.
+  * the closing line no longer says "every priced row sits inside its call-day bar" when rows could not be checked: an UNVERIFIED paragraph names
+    how many (UNFETCHABLE; NO_BAR for a settled day; a bar whose session has not settled yet), and the verdict reads "OK for the rows it could check".
+THE EXIT CODE BELOW IS UNCHANGED ON PURPOSE. Whether an unchecked row should fail the audit - and so redden the wired INS-028 check - is a ruling, not a
+defect fix (INS-029): the clause below was written deliberately, and changing it is the owner's decision.
+
 EXIT CODE: 1 if any row is FAIL or any post-fix row is REF_MISMATCH, else 0. NO_BAR / UNFETCHABLE do not fail the
 audit — they are reported, loudly, because they are not evidence of a violation
 and must not be laundered into one either.
@@ -112,6 +129,7 @@ UA = {"User-Agent": "Mozilla/5.0"}
 EPS = 0.001
 REF_TEST_FROM = "2026-09-28"   # INS-020: first session after the writer fix; rows from here must match exactly
 TAG_ONLY_BEFORE = "2026-10-01"   # INS-026: the writer reads settled bars only for fill sessions from here; no note is ever tagged there
+NOT_FOUND = "_not_found"         # INS-029: cache section {ticker: {why, settled, at}} - only the source's own "not found", only for the session it was said in
 _GAP = re.compile(r"\[REF-GAP INS-026: recorded ([0-9]+(?:\.[0-9]+)?) vs settled official open "
                   r"([0-9]+(?:\.[0-9]+)?) on (\d{4}-\d{2}-\d{2})")
 
@@ -154,30 +172,33 @@ def _settled_day() -> str:
         raise SystemExit(2)
 
 
-def bars(ticker: str, cache: dict, refresh: bool = False, need: str | None = None) -> dict | None:
-    """{'YYYY-MM-DD': [low, high, open, close, volume]} for this ticker, or None if unfetchable.
-
-    Cached on disk: settled historical bars are facts, not live quotes (Firm Brain S11), so
-    re-running is idempotent. INS-020: the cache used to hold only [low, high], which made
-    "settled close or live print?" unanswerable; it now holds open/close/volume too, and ONLY
-    for settled days - a bar for a session still trading is never written to the cache.
-    Refetched when the cache is in the old two-field shape, or lacks a settled day `need`.
-    """
-    settled = _settled_day()
-    v = cache.get(ticker)
-    stale = (v is None or refresh
-             or (isinstance(v, dict) and any(len(x) < 5 for x in v.values()))
-             or (isinstance(v, dict) and need and need <= settled and need not in v
-                 and (not v or max(v) < need)))
-    if not stale:
-        return None if v == "UNFETCHABLE" else v
+def _fetch(ticker: str, settled: str):
+    """INS-029. One read of the source -> (bars, kind, why). kind is "ok"; "not_found" (the source ANSWERED that it has nothing: HTTP 404,
+    a `Not Found` error body, or a reply with no bars in range - the only kind that may be remembered); or "transient" (it did not answer, or
+    what it sent is not the chart: 429, 5xx, a timeout, DNS, TLS, a body that is not the chart JSON - never remembered, read again next run)."""
     p1 = int(datetime(2026, 1, 1, tzinfo=timezone.utc).timestamp())
     p2 = int(time.time())
     url = CHART.format(t=urllib.parse.quote(ticker), p1=p1, p2=p2)
     try:
         req = urllib.request.Request(url, headers=UA)
         d = json.load(urllib.request.urlopen(req, timeout=30))
-        res = d["chart"]["result"][0]
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return None, "not_found", "HTTP 404 Not Found"
+        return None, "transient", f"HTTP {e.code}"
+    except Exception as e:                       # URLError, timeout, TLS, a body that is not JSON
+        return None, "transient", type(e).__name__
+    try:
+        chart = d["chart"]
+        res = chart.get("result")
+        if not res:
+            code = str((chart.get("error") or {}).get("code") or "")
+            if code.lower() == "not found":
+                return None, "not_found", "error body: Not Found"
+            return None, "transient", f"no result ({code or 'no error code'})"
+        res = res[0]
+        if not res.get("timestamp"):
+            return None, "not_found", "no bars in range"
         q = res["indicators"]["quote"][0]
         out = {}
         for i, ts in enumerate(res["timestamp"]):
@@ -192,11 +213,58 @@ def bars(ticker: str, cache: dict, refresh: bool = False, need: str | None = Non
                         None if op is None else round(float(op), 4),
                         None if cl is None else round(float(cl), 4),
                         int(vol or 0)]
+        return out, "ok", ""
+    except (KeyError, IndexError, TypeError, ValueError, AttributeError) as e:
+        return None, "transient", f"unexpected reply shape ({type(e).__name__})"
+
+
+def _bars(ticker: str, cache: dict, refresh: bool = False, need: str | None = None, run_fail: dict | None = None):
+    """-> (bars, why, kind): {'YYYY-MM-DD': [low, high, open, close, volume]} for this ticker, or None with the reason and its kind
+    ("not_found" | "transient"; "ok" with bars).
+
+    Cached on disk: settled historical bars are facts, not live quotes (Firm Brain S11), so
+    re-running is idempotent. INS-020: the cache used to hold only [low, high], which made
+    "settled close or live print?" unanswerable; it now holds open/close/volume too, and ONLY
+    for settled days - a bar for a session still trading is never written to the cache.
+    Refetched when the cache is in the old two-field shape, or lacks a settled day `need`.
+
+    INS-029: a failed read is never cached as a verdict. Only the source's own "not found" is remembered (cache[NOT_FOUND], stamped with the
+    settled session it was said in and honoured only inside that session); a transient failure is reported, left out of the cache, and not
+    retried again within this run (`run_fail`). Good bars already cached are never overwritten by a failed refresh."""
+    settled = _settled_day()
+    v = cache.get(ticker)
+    if v == "UNFETCHABLE":                       # pre-INS-029 permanent marker, written for ANY exception: it proves nothing
+        v = None
+    stale = (v is None or refresh
+             or (isinstance(v, dict) and any(len(x) < 5 for x in v.values()))
+             or (isinstance(v, dict) and need and need <= settled and need not in v
+                 and (not v or max(v) < need)))
+    if not stale:
+        return v, "", "ok"                       # bars already held are facts: a later "not found" does not take them away
+    ent = (cache.get(NOT_FOUND) or {}).get(ticker)
+    if ent and not refresh and str(ent.get("settled", "")) >= settled:
+        return (None, f"the source said not found ({ent.get('why')}) in the {ent.get('settled')} session; asked again after the next close",
+                "not_found")
+    if run_fail is not None and ticker in run_fail:
+        return None, run_fail[ticker], "transient"
+    out, kind, why = _fetch(ticker, settled)
+    if kind == "ok":
         cache[ticker] = out
-        return out
-    except Exception:
-        cache[ticker] = "UNFETCHABLE"
-        return None
+        (cache.get(NOT_FOUND) or {}).pop(ticker, None)
+        return out, "", "ok"
+    if kind == "not_found":
+        cache.setdefault(NOT_FOUND, {})[ticker] = {"why": why, "settled": settled,
+                                                   "at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+        return None, f"the source said not found ({why}); remembered for the {settled} session only", kind
+    msg = f"transient fetch error ({why}); not cached, read again next run"
+    if run_fail is not None:
+        run_fail[ticker] = msg
+    return None, msg, kind
+
+
+def bars(ticker: str, cache: dict, refresh: bool = False, need: str | None = None) -> dict | None:
+    """The bars (see _bars), or None if the ticker could not be read; _bars says why."""
+    return _bars(ticker, cache, refresh, need)[0]
 
 
 def reference(r: dict, b: dict) -> tuple:
@@ -244,6 +312,7 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
           since: str | None = None, refresh: bool = False) -> dict:
     rows = list(csv.DictReader(open(ledger)))
     cache = _load_cache()
+    run_fail: dict = {}                      # INS-029: a ticker whose read failed transiently is not read again within this run
     buckets = {k: [] for k in
                ("PASS", "FAIL", "NO_BAR", "UNFETCHABLE", "QUEUED", "VOID",
                 "REF_OK", "REF_MISMATCH", "REF_LEGACY", "REF_PENDING")}
@@ -286,9 +355,10 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                 # INS-020: a queued-fill price comes from the FILL session's bar, so the range test
                 # reads that bar - testing it against the call-day bar would fail a correct fill.
                 _need = _rd = max(d, _Q.fill_session_for(d, _Q.registered_at(_th)).isoformat())
-            b = bars(tick, cache, refresh, need=_need)
+            b, why, kind = _bars(tick, cache, refresh, need=_need, run_fail=run_fail)
             if b is None:
-                rec["note"] = "no series from source"
+                rec["note"] = f"no series from source: {why}"
+                rec["source"] = kind                   # INS-029: "not_found" (the source answered) | "transient" (it did not)
                 buckets["UNFETCHABLE"].append(rec)
                 continue
             if _rd != d:
@@ -296,7 +366,11 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                                    date.fromisoformat(_rd))
                 _rd = got[0] if got else _rd       # a zero-volume fill session rolls to the traded bar
             if _rd not in b:
-                rec["note"] = f"no bar dated {_rd} for {tick}"
+                if _rd > _settled_day():           # INS-029: the owed bar belongs to a session that has not settled - not missing, not yet checkable
+                    rec["note"] = f"the {_rd} bar has not settled yet - not a missing bar; checked once its session settles"
+                    rec["unsettled"] = True
+                else:
+                    rec["note"] = f"no bar dated {_rd} for {tick}"
                 buckets["NO_BAR"].append(rec)
                 continue
             lo, hi = b[_rd][0], b[_rd][1]
@@ -418,6 +492,13 @@ def main() -> int:
                      if r.get("alt_day") else "")
                   + ((" | disclosed (INS-026), awaiting ruling" if r.get("disclosed") else " | UNDISCLOSED")
                      if k == "REF_MISMATCH" else ""))
+    unv = len(b["UNFETCHABLE"]) + sum(1 for r in b["NO_BAR"] if not r.get("unsettled"))
+    waiting = sum(1 for r in b["NO_BAR"] if r.get("unsettled"))
+    if unv or waiting:                         # INS-029: say so before any verdict
+        print(f"\nUNVERIFIED — {unv + waiting} priced row(s) were not checked: UNFETCHABLE {n['UNFETCHABLE']}, "
+              f"NO_BAR for a settled day {unv - n['UNFETCHABLE']}, bar not settled yet {waiting}. An unchecked row is not a pass (INS-029). "
+              "A 'transient' source error is read again next run, a 'not_found' one after the next close; the exit status does not change "
+              "(whether an unchecked row should fail the audit is a ruling).")
     if b["REF_MISMATCH"]:
         n_disc = sum(1 for r in b["REF_MISMATCH"] if r.get("disclosed"))
         print(f"\nFAIL — {n['REF_MISMATCH']} open row(s) dated >= {REF_TEST_FROM} do not carry the price "
@@ -430,6 +511,9 @@ def main() -> int:
               "INS-014 is live. Restatement of UNSCORED rows is a ruling "
               "(BENCH-002 forbids touching scored ones).")
         return 1
+    if unv or waiting:
+        print("\nOK for the rows it could check - not for the UNVERIFIED rows above.")
+        return 0
     print("\nOK — every priced row sits inside its call-day bar.")
     return 0
 
