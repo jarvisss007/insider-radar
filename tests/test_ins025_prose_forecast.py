@@ -21,10 +21,11 @@ Numbered:
  7 check_date governs the resolution date (INS-019) and the row says so
  8 N is descriptive: the two dates decide, nothing is written about N; a from-date not strictly before the resolution
    date is refused, never scored
- 9 scope: the same prose question in another lab's ledger stays "SKIP (unparsed)" (insider ledger only)
+ 9 scope: the same prose question in a ledger no ruling covers (stock-radar, macro-branch) stays "SKIP (unparsed)"; india-radar's
+   ledger has its own ruling since 2026-10-02 (FCST-010) and its own suite, ~/india-radar/tests/test_fcst010_nse_prose_forecast.py
 10 no new behaviour for the existing forms: old resolver vs new, row by row, on a mixed ledger, on a seeded fuzz
    (NaN / zero-volume / missing bars) and on a full-reopen replay of the four REAL forecast ledgers - only the prose-form
-   insider rows differ
+   rows of the insider ledger (INS-025) and of india-radar's ledger (FCST-010) differ
 11 the notes of a resolved row carry both closes and the move, so each outcome can be re-derived from the row alone
 """
 import csv
@@ -238,12 +239,13 @@ def test_08_n_is_descriptive_and_a_backward_window_is_refused(tmp_path):
 
 # ---------------------------------------------------------------- 9 scope
 def test_09_other_labs_stay_unparsed(tmp_path):
+    # FCST-010 (2026-10-02) ruled india-radar's ledger in; the labs no ruling covers are stock-radar and macro-branch
     q = _prose("AAA", None, "4.0", "2026-09-28", anchor="1830.20")
     rows = [_row("AAA", q)]
-    h, fx = _home(tmp_path, {"india-radar": rows, "stock-radar": [dict(rows[0], instrument="BBB", question=q.replace("AAA", "BBB"))]},
-                  {"AAA.NS": [_b("2026-09-28", 2000.0)], "BBB": [_b("2026-09-28", 2000.0)]})
+    h, fx = _home(tmp_path, {"macro-branch": rows, "stock-radar": [dict(rows[0], instrument="BBB", question=q.replace("AAA", "BBB"))]},
+                  {"AAA": [_b("2026-09-28", 2000.0)], "BBB": [_b("2026-09-28", 2000.0)]})
     out = _run(RESOLVER, h, fx)
-    assert _rows(h, "india-radar")["AAA"]["outcome"] == "" and _rows(h, "stock-radar")["BBB"]["outcome"] == ""
+    assert _rows(h, "macro-branch")["AAA"]["outcome"] == "" and _rows(h, "stock-radar")["BBB"]["outcome"] == ""
     assert out.count("SKIP (unparsed)") == 2
 
 
@@ -353,12 +355,18 @@ def test_10b_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
     src_text = open(RESOLVER).read()
     rx = {n: eval(re.search(rf"^{n} = (re\.compile\(.*\))\s*(?:#.*)?$", src_text, re.M).group(1), {"re": re}) for n in "ACRWP"}
 
+    nse_idx = {"NIFTY": "^NSEI", "BANKNIFTY": "^NSEBANK", "INDIAVIX": "^INDIAVIX"}
+
     def build(label):
         h = str(tmp_path / label)
         os.makedirs(os.path.join(h, "stock-radar"))
         shutil.copy(f"{HOME}/stock-radar/sessions.py", os.path.join(h, "stock-radar", "sessions.py"))
         with open(os.path.join(h, "stock-radar", "sessions.py"), "a") as f:   # the real calendar, settled_session() frozen
             f.write("\n\ndef settled_session(now=None, cutoff=None):\n    return dt.date.fromisoformat('2026-09-30')\n")
+        os.makedirs(os.path.join(h, "india-radar"))                          # FCST-010: india-radar's prose rows live on the NSE calendar, frozen the same way
+        shutil.copy(f"{HOME}/india-radar/sessions_nse.py", os.path.join(h, "india-radar", "sessions_nse.py"))
+        with open(os.path.join(h, "india-radar", "sessions_nse.py"), "a") as f:
+            f.write("\n\ndef settled_session(now=None):\n    return dt.date.fromisoformat('2026-09-30')\n")
         fx = {}
         for lab, suf in labs.items():
             rows = [dict(r, outcome="") for r in live[lab]]              # re-open EVERY row
@@ -366,6 +374,8 @@ def test_10b_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
                 q = r["question"].replace("radar.json ", "")
                 for tk in {r["instrument"]} | {m.group(1).strip() for m in (rx[n].search(q) for n in "ACRWP") if m and m.group(1)}:
                     fx[tk + suf] = {"bars": _tape(tk + suf, 7), "splits": []}
+                    if lab == "india-radar" and tk in nse_idx:               # the NSE reader asks Yahoo for the index symbols
+                        fx[nse_idx[tk]] = {"bars": _tape(nse_idx[tk], 7), "splits": []}
             p = os.path.join(h, lab, "agent", "forecasts.csv")
             os.makedirs(os.path.dirname(p))
             with open(p, "w", newline="") as f:
@@ -381,7 +391,7 @@ def test_10b_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
     for lab in labs:   # --dry writes nothing
         assert open(os.path.join(ho, lab, "agent", "forecasts.csv"), "rb").read() == open(os.path.join(hn, lab, "agent", "forecasts.csv"), "rb").read()
     oo, no = _run(RESOLVER_OLD, ho, fo), _run(RESOLVER, hn, fn)
-    prose = {("insider-radar", r["instrument"]) for r in live["insider-radar"]
+    prose = {(lab, i) for lab in ("insider-radar", "india-radar") for i, r in enumerate(live[lab])      # INS-025 (insider) and FCST-010 (india-radar), by ROW
              if rx["P"].search(r["question"]) and not any(rx[n].search(r["question"]) for n in "ACRW")}
     norm = lambda r: dict(r, notes=re.sub(r"RESOLVED \d{4}-\d{2}-\d{2}", "RESOLVED D", r["notes"]))
     differ, scored_old, scored_new, n_rows = set(), 0, 0, 0
@@ -389,17 +399,30 @@ def test_10b_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
         ro = list(csv.DictReader(open(os.path.join(ho, lab, "agent", "forecasts.csv"))))
         rn = list(csv.DictReader(open(os.path.join(hn, lab, "agent", "forecasts.csv"))))
         assert len(ro) == len(rn)
-        for a, b in zip(ro, rn):
+        for i, (a, b) in enumerate(zip(ro, rn)):
             n_rows += 1
             scored_old += bool(a["outcome"])
             scored_new += bool(b["outcome"])
             if norm(a) != norm(b):
-                differ.add((lab, a["instrument"]))
+                differ.add((lab, i))
     assert n_rows >= 100 and scored_old >= 40, (n_rows, scored_old)        # the replay really exercised the old forms
-    assert differ <= prose, f"rows that differ and are NOT prose-form insider rows: {sorted(differ - prose)}"
+    assert differ <= prose, f"rows that differ and are NOT prose-form rows of the insider / india-radar ledgers: {sorted(differ - prose)}"
     assert scored_new - scored_old == len(differ)                            # and every difference is a newly scored prose row
+    nse_prose = {i for lab, i in prose if lab == "india-radar"}
+    # FCST-010: the lines the NEW resolver prints for india-radar's prose rows (scored, or a named refusal) have no counterpart in the old output; masked ROW by row
+    # (instrument + p + wording / the question's dates), never by name, so the lab's other rows of the same instrument stay compared
+    nse_rx = []
+    for i in nse_prose:
+        r_ = live["india-radar"][i]
+        ins_, q_ = r_["instrument"], r_["question"].replace("radar.json ", "")
+        ds_ = "|".join(sorted(set(re.findall(r"[0-9]{4}-[0-9]{2}-[0-9]{2}", q_))))
+        nse_rx += [re.compile(rf"^  {re.escape(ins_)} p={re.escape(r_['p'])} → (?:YES|no) \(close [0-9.]+ vs "),
+                   re.compile(rf"^  SKIP \(unparsed\): {re.escape(ins_)} — {re.escape(q_[:70])}"),
+                   re.compile(rf"^  SKIP \(no close\): {re.escape(ins_)} — {re.escape(ins_)}\.NS (?:{ds_})(?:, [0-9]{{4}}-[0-9]{{2}}-[0-9]{{2}})*: ")]
+    own = lambda l: any(x.match(l) for x in nse_rx)
     body = lambda s: [l for l in re.sub(r"resolve_forecasts \d{4}-\d{2}-\d{2}:", "R:", s).splitlines()
-                      if not l.startswith("R:") and "— Absolute" not in l and "|move|" not in l]
+                      if not l.startswith("R:") and "— Absolute" not in l and "|move|" not in l and not own(l)]
     assert body(oo) == body(no)
-    # another lab's prose rows are still listed as unparsed by BOTH versions
-    assert [l for l in oo.splitlines() if "SKIP (unparsed): NIFTY" in l] == [l for l in no.splitlines() if "SKIP (unparsed): NIFTY" in l] != []
+    # india-radar's prose rows (FCST-010): listed as unparsed by the OLD resolver, scored or named by the NEW one (its own suite proves how)
+    assert any(l.startswith("  SKIP (unparsed): NIFTY — Absolute") for l in oo.splitlines())
+    assert not any(l.startswith("  SKIP (unparsed): NIFTY — Absolute") for l in no.splitlines())

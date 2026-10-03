@@ -396,6 +396,10 @@ def test_08_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
             f.write("\n\ndef settled_session(now=None, cutoff=None):\n    return dt.date.fromisoformat('2026-09-30')\n")
         with open(os.path.join(h, "stock-radar", "options_settle.py"), "w") as f:
             f.write(STUB_SETTLE)
+        os.makedirs(os.path.join(h, "india-radar"))                          # FCST-010: india-radar's prose rows live on the NSE calendar, frozen the same way
+        shutil.copy(f"{HOME}/india-radar/sessions_nse.py", os.path.join(h, "india-radar", "sessions_nse.py"))
+        with open(os.path.join(h, "india-radar", "sessions_nse.py"), "a") as f:
+            f.write("\n\ndef settled_session(now=None):\n    return dt.date.fromisoformat('2026-09-30')\n")
         fx = {}
         for lab, suf in labs.items():
             rows = [dict(r, outcome="") for r in live[lab]]              # re-open EVERY row
@@ -403,6 +407,9 @@ def test_08_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
                 q = r["question"].replace("radar.json ", "")
                 for tk in {r["instrument"]} | {m.group(1).strip() for m in (rx[n].search(q) for n in "ACRWP") if m and m.group(1)}:
                     fx[tk + suf] = _e(_tape(tk + suf, 7))
+                    if lab == "india-radar" and tk in {"NIFTY": "^NSEI", "BANKNIFTY": "^NSEBANK", "INDIAVIX": "^INDIAVIX"}:      # the NSE reader asks Yahoo for the index symbols
+                        sym = {"NIFTY": "^NSEI", "BANKNIFTY": "^NSEBANK", "INDIAVIX": "^INDIAVIX"}[tk]
+                        fx[sym] = _e(_tape(sym, 7))
             p = os.path.join(h, lab, "agent", "forecasts.csv")
             os.makedirs(os.path.dirname(p))
             with open(p, "w", newline="") as f:
@@ -418,15 +425,22 @@ def test_08_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
     for lab in labs:   # --dry writes nothing
         assert open(os.path.join(ho, lab, "agent", "forecasts.csv"), "rb").read() == open(os.path.join(hn, lab, "agent", "forecasts.csv"), "rb").read()
     oo, no = _run(RESOLVER_OLD, ho, fo), _run(RESOLVER, hn, fn)
-    differ, n_rows, scored_old, scored_new = [], 0, 0, 0
+    # FCST-010 (2026-10-02): india-radar's prose rows are handled by the NSE path in the new resolver and were "unparsed" in the old one.
+    # They are a different change (its own suite: ~/india-radar/tests/test_fcst010_nse_prose_forecast.py); this test is about the carry-forward guard.
+    nse_prose = {i for i, r in enumerate(live["india-radar"]) if rx["P"].search(r["question"]) and not any(rx[n].search(r["question"]) for n in "ACRW")}
+    differ, n_rows, scored_old, scored_new, newly = [], 0, 0, 0, 0
     for lab in labs:
         ro = list(csv.DictReader(open(os.path.join(ho, lab, "agent", "forecasts.csv"))))
         rn = list(csv.DictReader(open(os.path.join(hn, lab, "agent", "forecasts.csv"))))
         assert len(ro) == len(rn) == len(live[lab])
-        for a, b, orig in zip(ro, rn, live[lab]):
+        for i, (a, b, orig) in enumerate(zip(ro, rn, live[lab])):
             n_rows += 1
             scored_old += bool(a["outcome"])
             scored_new += bool(b["outcome"])
+            if lab == "india-radar" and i in nse_prose:
+                newly += bool(b["outcome"]) and not a["outcome"]
+                assert not a["outcome"], a["instrument"]                         # the old resolver never scored them
+                continue
             if norm_row(a) != norm_row(b):
                 differ.append((lab, a["instrument"], a, b, orig))
     assert n_rows >= 100 and scored_old >= 40 and len(differ) >= 3, (n_rows, scored_old, len(differ))   # the replay really exercised the guard
@@ -434,10 +448,22 @@ def test_08_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
         assert a["outcome"] and not b["outcome"], (lab, ins)                 # old scored it, new defers it - never a different outcome
         assert b["notes"] == orig["notes"], (lab, ins)                       # and a deferred row is not touched
         assert any(l.startswith(f"  SKIP (no close): {ins} —") and CF in l for l in no.splitlines()), (lab, ins)
-    assert scored_new == scored_old - len(differ)
-    # every output line that is not about a differing row is identical
+    assert scored_new == scored_old - len(differ) + newly
+    # every output line that is not about a differing row (or an india-radar prose row, FCST-010) is identical
+    # FCST-010: the lines the NEW resolver prints for india-radar's prose rows (scored, or a named refusal) have no counterpart in the old output; masked ROW by row
+    # (instrument + p + wording / the question's dates), never by name, so the lab's other rows of the same instrument stay compared
+    nse_rx = []
+    for i in nse_prose:
+        r_ = live["india-radar"][i]
+        ins_, q_ = r_["instrument"], r_["question"].replace("radar.json ", "")
+        ds_ = "|".join(sorted(set(re.findall(r"[0-9]{4}-[0-9]{2}-[0-9]{2}", q_))))
+        nse_rx += [re.compile(rf"^  {re.escape(ins_)} p={re.escape(r_['p'])} → (?:YES|no) \(close [0-9.]+ vs "),
+                   re.compile(rf"^  SKIP \(unparsed\): {re.escape(ins_)} — {re.escape(q_[:70])}"),
+                   re.compile(rf"^  SKIP \(no close\): {re.escape(ins_)} — {re.escape(ins_)}\.NS (?:{ds_})(?:, [0-9]{{4}}-[0-9]{{2}}-[0-9]{{2}})*: ")]
+    own = lambda l: any(x.match(l) for x in nse_rx)
     names = {ins for _l, ins, _a, _b, _o in differ}
-    body = lambda s: [l for l in norm_out(s).splitlines() if not l.startswith("R:") and not any(re.search(rf"^  (SKIP \(no close\): )?{re.escape(n)}\b", l) for n in names)]
+    body = lambda s: [l for l in norm_out(s).splitlines() if not l.startswith("R:") and not any(re.search(rf"^  (SKIP \(no close\): )?{re.escape(n)}\b", l) for n in names)
+                      and not own(l)]
     assert body(oo) == body(no)
 
 
