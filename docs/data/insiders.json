@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-05 20:47 UTC",
+ "updated_utc": "2026-10-05 21:03 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 834.0,
-   "price": 20.74,
-   "value": 17297.16,
-   "acc": "0001510281-26-000313",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "DX",
-   "company": "DYNEX CAPITAL INC",
-   "insider": "Connelly Terrence John JR",
-   "role": "Chief Investment Officer",
-   "date": "2026-09-25",
-   "shares": 2500.0,
-   "price": 11.18,
-   "value": 27950.0,
-   "acc": "0000826675-26-000107",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "RSI",
    "company": "Rush Street Interactive, Inc.",
@@ -4284,6 +4260,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "SUNB",
+   "company": "Sunbelt Rentals Holdings, Inc.",
+   "insider": "Horgan Kyle",
+   "role": "Executive VP, Specialty",
+   "date": "2026-10-01",
+   "shares": 25.417,
+   "price": 73.3,
+   "value": 1863.07,
+   "acc": "0001193125-26-414334",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
    "insider": "BERNAU JAMES W",
@@ -4413,6 +4401,18 @@
    "price": 10.22,
    "value": 500000.01,
    "acc": "0001580642-26-006725",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "CAZ GP STAKES GROWTH FUND (CIK 2128311)",
+   "company": "CAZ GP Stakes Growth Fund",
+   "insider": "Zook Christopher",
+   "role": "",
+   "date": "2026-10-01",
+   "shares": 25599.49,
+   "price": 20.0,
+   "value": 511989.8,
+   "acc": "0001213900-26-106873",
    "filed": "2026-10-05"
   },
   {
@@ -4872,7 +4872,7 @@
   {
    "ticker": "MXF",
    "insiders": 2,
-   "total_value": 534674.51
+   "total_value": 517377.35
   },
   {
    "ticker": "SPG",
@@ -4941,8 +4941,6 @@
   }
  ],
  "seen": [
-  "0001976408-26-000849",
-  "0001976408-26-000850",
   "0001976408-26-000851",
   "0001976408-26-000852",
   "0001976408-26-000853",
@@ -6173,6 +6171,7 @@
   "0002009110-26-000005",
   "0002009110-26-000007",
   "0002009130-26-000004",
+  "0002009130-26-000006",
   "0002009371-26-000002",
   "0002009633-26-000003",
   "0002009633-26-000005",
@@ -7386,6 +7385,7 @@
   "0002092917-26-000002",
   "0002092936-26-000004",
   "0002092936-26-000006",
+  "0002093099-26-000003",
   "0002093121-26-000005",
   "0002093121-26-000006",
   "0002093135-26-000004",
