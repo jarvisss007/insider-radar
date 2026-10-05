@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-05 17:21 UTC",
+ "updated_utc": "2026-10-05 18:08 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-25",
-   "shares": 56600.0,
-   "price": 0.1649,
-   "value": 9333.34,
-   "acc": "0001214659-26-011988",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "ATCH",
    "company": "AtlasClear Holdings, Inc.",
@@ -4728,6 +4716,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "CZNC",
+   "company": "CITIZENS & NORTHERN CORP",
+   "insider": "Pellegrino Frank G",
+   "role": "Director",
+   "date": "2026-10-02",
+   "shares": 245.0,
+   "price": 25.51,
+   "value": 6249.95,
+   "acc": "0001667211-26-000028",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4852,7 +4852,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5178065.41
+   "total_value": 5168732.07
   },
   {
    "ticker": "BBASX",
