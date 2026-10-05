@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-05 22:22 UTC",
+ "updated_utc": "2026-10-05 22:54 UTC",
  "purchases": [
-  {
-   "ticker": "ACOG",
-   "company": "Alpha Cognition Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 13426.0,
-   "price": 8.47,
-   "value": 113718.22,
-   "acc": "0001493152-26-044690",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "FTHY",
-   "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
-   "insider": "MCGAREL DAVID",
-   "role": "Officer-Investment Adviser",
-   "date": "2026-09-25",
-   "shares": 10000.0,
-   "price": 12.9247,
-   "value": 129247.0,
-   "acc": "0001445546-26-007146",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 857.0,
-   "price": 248.692,
-   "value": 213129.04,
-   "acc": "0000905148-26-004278",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "INBX",
-   "company": "Inhibrx Biosciences, Inc.",
-   "insider": "Lappe Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-25",
-   "shares": 2176.0,
-   "price": 99.5988,
-   "value": 216726.99,
-   "acc": "0001366074-26-000004",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "CRAFX",
    "company": "Cascade Real Assets Fund",
@@ -4272,6 +4224,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-01",
+   "shares": 38796.0,
+   "price": 2.0353,
+   "value": 78961.5,
+   "acc": "0001493152-26-045809",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "CRESY",
    "company": "CRESUD INC",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4716,6 +4680,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-02",
+   "shares": 20000.0,
+   "price": 2.0684,
+   "value": 41368.0,
+   "acc": "0001493152-26-045809",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "MKC",
    "company": "MCCORMICK & CO INC",
    "insider": "Hattersley Gavin",
@@ -4776,6 +4752,18 @@
    "filed": "2026-10-02"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-05",
+   "shares": 1694.0,
+   "price": 2.06,
+   "value": 3489.64,
+   "acc": "0001493152-26-045809",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
    "insider": "Voorhies Gregory William",
@@ -4785,6 +4773,18 @@
    "price": 1.95,
    "value": 3900.0,
    "acc": "0001199835-26-000369",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-05",
+   "shares": 4500.0,
+   "price": 1.079,
+   "value": 4855.5,
+   "acc": "0001079973-26-001320",
    "filed": "2026-10-05"
   },
   {
@@ -4890,11 +4890,6 @@
    "total_value": 164499.99
   },
   {
-   "ticker": "FTHY",
-   "insiders": 2,
-   "total_value": 161409.5
-  },
-  {
    "ticker": "MOALX",
    "insiders": 2,
    "total_value": 70000.0
@@ -4941,12 +4936,6 @@
   }
  ],
  "seen": [
-  "0001976408-26-000874",
-  "0001976408-26-000882",
-  "0001976408-26-000883",
-  "0001976408-26-000884",
-  "0001976408-26-000885",
-  "0001976408-26-000886",
   "0001976540-26-000008",
   "0001976572-26-000005",
   "0001976672-26-000057",
@@ -6321,6 +6310,7 @@
   "0002019804-26-000027",
   "0002019843-26-000004",
   "0002019976-26-000010",
+  "0002019976-26-000011",
   "0002020220-26-000022",
   "0002020286-26-000008",
   "0002020287-26-000002",
@@ -6517,6 +6507,7 @@
   "0002035989-26-000078",
   "0002036238-26-000005",
   "0002036499-26-000005",
+  "0002036499-26-000007",
   "0002036507-26-000007",
   "0002036536-26-000010",
   "0002036664-26-000003",
@@ -6589,7 +6580,9 @@
   "0002044248-26-000021",
   "0002044259-26-000010",
   "0002044259-26-000012",
+  "0002044356-26-000014",
   "0002044398-26-000007",
+  "0002044425-26-000014",
   "0002044800-26-000006",
   "0002044927-26-000009",
   "0002045034-26-000003",
@@ -7679,6 +7672,7 @@
   "0002125562-26-000005",
   "0002125667-26-000003",
   "0002125667-26-000004",
+  "0002125738-26-000005",
   "0002125773-26-000005",
   "0002125773-26-000010",
   "0002125773-26-000013",
@@ -7937,6 +7931,7 @@
   "0002155115-26-000003",
   "0002155766-26-000006",
   "0002155883-26-000004",
+  "0002156048-26-000004",
   "0002156224-26-000005",
   "0002156293-26-000005",
   "0002156505-26-000004",
