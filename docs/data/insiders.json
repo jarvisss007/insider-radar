@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-05 14:58 UTC",
+ "updated_utc": "2026-10-05 15:14 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 5.0,
-   "price": 2.94,
-   "value": 14.7,
-   "acc": "0001536588-26-000034",
-   "filed": "2026-09-25"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 7.0,
-   "price": 2.939,
-   "value": 20.57,
-   "acc": "0001536588-26-000036",
-   "filed": "2026-09-25"
-  },
   {
    "ticker": "CUEN",
    "company": "Cuentas Inc.",
@@ -4704,6 +4680,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-01",
+   "shares": 17921.0,
+   "price": 20.0,
+   "value": 358420.0,
+   "acc": "0001510281-26-000323",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "AVR",
    "company": "Anteris Technologies Global Corp.",
    "insider": "L1 Capital Pty Ltd",
@@ -4773,6 +4761,18 @@
    "price": 1.2911,
    "value": 7323.12,
    "acc": "0001493152-26-045702",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-02",
+   "shares": 1573.0,
+   "price": 19.74,
+   "value": 31051.02,
+   "acc": "0001510281-26-000323",
    "filed": "2026-10-05"
   },
   {
@@ -4870,6 +4870,11 @@
    "total_value": 621315.61
   },
   {
+   "ticker": "MXF",
+   "insiders": 2,
+   "total_value": 534674.51
+  },
+  {
    "ticker": "SPG",
    "insiders": 11,
    "total_value": 460716.16
@@ -4888,11 +4893,6 @@
    "ticker": "FTHY",
    "insiders": 2,
    "total_value": 161409.5
-  },
-  {
-   "ticker": "MXF",
-   "insiders": 2,
-   "total_value": 145203.49
   },
   {
    "ticker": "SWZ",
