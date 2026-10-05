@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-05 18:08 UTC",
+ "updated_utc": "2026-10-05 18:24 UTC",
  "purchases": [
-  {
-   "ticker": "ATCH",
-   "company": "AtlasClear Holdings, Inc.",
-   "insider": "Ridenhour David Craig",
-   "role": "President",
-   "date": "2026-09-25",
-   "shares": 50000.0,
-   "price": 0.1878,
-   "value": 9390.0,
-   "acc": "0001493152-26-044630",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "ATCH",
    "company": "AtlasClear Holdings, Inc.",
@@ -4572,6 +4560,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "CZNC",
+   "company": "CITIZENS & NORTHERN CORP",
+   "insider": "Shattuck Katherine W",
+   "role": "Director",
+   "date": "2026-10-02",
+   "shares": 8.0,
+   "price": 25.51,
+   "value": 204.08,
+   "acc": "0001870473-26-000030",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
    "insider": "Osborn Michael Jordan",
@@ -4910,11 +4910,6 @@
    "total_value": 41665.79
   },
   {
-   "ticker": "ATCH",
-   "insiders": 3,
-   "total_value": 31401.3
-  },
-  {
    "ticker": "TPYTX",
    "insiders": 2,
    "total_value": 28106.24
@@ -4928,6 +4923,16 @@
    "ticker": "DTIL",
    "insiders": 2,
    "total_value": 22384.52
+  },
+  {
+   "ticker": "ATCH",
+   "insiders": 2,
+   "total_value": 22011.3
+  },
+  {
+   "ticker": "CZNC",
+   "insiders": 2,
+   "total_value": 6454.03
   },
   {
    "ticker": "AUBN",
@@ -4946,7 +4951,6 @@
   }
  ],
  "seen": [
-  "0001976408-26-000746",
   "0001976408-26-000747",
   "0001976408-26-000752",
   "0001976408-26-000755",
@@ -7342,6 +7346,7 @@
   "0002087127-26-000009",
   "0002087127-26-000011",
   "0002087127-26-000013",
+  "0002087141-26-000004",
   "0002087376-26-000012",
   "0002087387-26-000002",
   "0002087595-26-000002",
