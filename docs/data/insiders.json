@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-05 23:41 UTC",
+ "updated_utc": "2026-10-05 23:57 UTC",
  "purchases": [
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 13362.0,
-   "price": 20.4418,
-   "value": 273143.33,
-   "acc": "0000937797-26-000032",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "AOMR",
-   "company": "Angel Oak Mortgage REIT, Inc.",
-   "insider": "Fierman Michael",
-   "role": "Director",
-   "date": "2026-09-25",
-   "shares": 38726.0,
-   "price": 7.5017,
-   "value": 290510.83,
-   "acc": "0001766478-26-000056",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
@@ -4224,6 +4200,18 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "NXRT",
+   "company": "NexPoint Residential Trust, Inc.",
+   "insider": "McGraner Matt",
+   "role": "See Remarks",
+   "date": "2026-10-01",
+   "shares": 5280.0,
+   "price": 18.89,
+   "value": 99739.2,
+   "acc": "0001437749-26-032065",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "GME",
    "company": "GameStop Corp.",
    "insider": "Turner Nat",
@@ -4797,6 +4785,18 @@
    "price": 3.7261,
    "value": 43781.68,
    "acc": "0002119764-26-000030",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "NXRT",
+   "company": "NexPoint Residential Trust, Inc.",
+   "insider": "McGraner Matt",
+   "role": "See Remarks",
+   "date": "2026-10-05",
+   "shares": 5500.0,
+   "price": 18.42,
+   "value": 101310.0,
+   "acc": "0001437749-26-032065",
    "filed": "2026-10-05"
   },
   {
