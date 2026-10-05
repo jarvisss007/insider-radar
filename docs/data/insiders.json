@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-05 20:31 UTC",
+ "updated_utc": "2026-10-05 20:47 UTC",
  "purchases": [
-  {
-   "ticker": "SWZ",
-   "company": "Total Return Securities Fund",
-   "insider": "Dakos Andrew",
-   "role": "President and CEO",
-   "date": "2026-09-25",
-   "shares": 2351.0,
-   "price": 5.82,
-   "value": 13682.82,
-   "acc": "0001398344-26-017532",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "DTIL",
-   "company": "PRECISION BIOSCIENCES INC",
-   "insider": "Germano Geno J",
-   "role": "Director",
-   "date": "2026-09-25",
-   "shares": 2609.0,
-   "price": 6.28,
-   "value": 16384.52,
-   "acc": "0001628280-26-063766",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -4452,6 +4428,30 @@
    "filed": "2026-10-01"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-01",
+   "shares": 119635.0,
+   "price": 33.4469,
+   "value": 4001419.88,
+   "acc": "0001193125-26-414288",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-01",
+   "shares": 152573.0,
+   "price": 32.7781,
+   "value": 5001053.05,
+   "acc": "0001193125-26-414288",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "FORTRESS NET LEASE REIT (CIK 1966394)",
    "company": "Fortress Net Lease REIT",
    "insider": "TIEDEMANN ADVISORS, LLC",
@@ -4897,7 +4897,7 @@
   {
    "ticker": "SWZ",
    "insiders": 2,
-   "total_value": 127343.51
+   "total_value": 113660.69
   },
   {
    "ticker": "MOALX",
@@ -4918,11 +4918,6 @@
    "ticker": "WVVI",
    "insiders": 2,
    "total_value": 27330.33
-  },
-  {
-   "ticker": "DTIL",
-   "insiders": 2,
-   "total_value": 22384.52
   },
   {
    "ticker": "CZNC",
@@ -4946,7 +4941,6 @@
   }
  ],
  "seen": [
-  "0001976408-26-000846",
   "0001976408-26-000849",
   "0001976408-26-000850",
   "0001976408-26-000851",
@@ -6566,6 +6560,7 @@
   "0002038741-26-000007",
   "0002039201-26-000008",
   "0002039219-26-000008",
+  "0002039714-26-000004",
   "0002039770-26-000002",
   "0002039801-26-000008",
   "0002039852-26-000117",
