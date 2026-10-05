@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-05 17:05 UTC",
+ "updated_utc": "2026-10-05 17:21 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 35.0,
-   "price": 253.85,
-   "value": 8884.75,
-   "acc": "0000905148-26-004278",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -4797,6 +4785,18 @@
    "price": 71.0721,
    "value": 37312.85,
    "acc": "0002127484-26-000019",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "MKC",
+   "company": "MCCORMICK & CO INC",
+   "insider": "Hattersley Gavin",
+   "role": "Director",
+   "date": "2026-10-02",
+   "shares": 1000.0,
+   "price": 44.61,
+   "value": 44610.0,
+   "acc": "0000063754-26-000331",
    "filed": "2026-10-05"
   },
   {
