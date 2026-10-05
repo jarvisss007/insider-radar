@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-05 16:49 UTC",
+ "updated_utc": "2026-10-05 17:05 UTC",
  "purchases": [
-  {
-   "ticker": "DTIL",
-   "company": "PRECISION BIOSCIENCES INC",
-   "insider": "Brown Melinda",
-   "role": "Director",
-   "date": "2026-09-25",
-   "shares": 1135.0,
-   "price": 6.27,
-   "value": 7116.45,
-   "acc": "0001628280-26-063767",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4512,6 +4500,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "83 INVESTMENT GROUP INCOME FUND (CIK 2036029)",
+   "company": "83 Investment Group Income Fund",
+   "insider": "SELTER ERIC JAY",
+   "role": "",
+   "date": "2026-10-01",
+   "shares": 48923.68,
+   "price": 10.22,
+   "value": 500000.01,
+   "acc": "0001580642-26-006725",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "AVR",
    "company": "Anteris Technologies Global Corp.",
    "insider": "L1 Capital Pty Ltd",
@@ -4915,11 +4915,6 @@
    "total_value": 31401.3
   },
   {
-   "ticker": "DTIL",
-   "insiders": 3,
-   "total_value": 29500.97
-  },
-  {
    "ticker": "TPYTX",
    "insiders": 2,
    "total_value": 28106.24
@@ -4928,6 +4923,11 @@
    "ticker": "WVVI",
    "insiders": 2,
    "total_value": 27330.33
+  },
+  {
+   "ticker": "DTIL",
+   "insiders": 2,
+   "total_value": 22384.52
   },
   {
    "ticker": "AUBN",
