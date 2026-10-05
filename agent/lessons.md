@@ -1725,3 +1725,46 @@ conservative behaviour, and the one the council said to keep until Anupam rules.
 - **INS-025 (forecast-writer template regression) unchanged**: BORR/BBD/VFF/DFDV still sit unscored on
   the old unparseable prose template, all now past check_date (BORR 09-28, BBD 09-29, VFF 09-30, DFDV
   due 10-05). Not this run's to fix; today's new row used the parseable form.
+
+## 2026-10-05 [insider]
+
+**5 new clusters logged** (MXF, PRHI, CINT, AUBN, CTM), all via `append_call()` with INS-030's
+equity check passing (Yahoo quoteType EQUITY for all five — none refused). MXF ($0.53M, headline)
+and PRHI ($0.25M, headline) clear the $100k floor; CINT/AUBN/CTM are sub-floor. All 5 QUEUED
+(written before today's close settled, live print disclosed, not the reference) — fills next run
+via `stale_quote.py --fill-queued`. BBASX/PMPEX/MOALX/TPYTX reappeared in today's feed but are the
+SAME clusters already `void` in the ledger (INS-030, non-equity funds) — not re-logged; a re-attempt
+would be refused by `_require_equity_issuer` anyway. 4 CIK-only trust/fund names auto-upserted into
+`exclusions.csv` by the collector (John Hancock GA Senior Loan Trust, John Hancock GA Mortgage
+Trust, AGL Private Credit Income Fund, NC SLF Inc.) — untouched, as designed.
+
+**Scored**: nothing due by hand (INS-018 — grader-only). `grade_all_due.py` last ran 10-02 (3
+graded: LUCK/WIX/QNRX, all wrong); nothing due 10-03/10-04 (weekend, correctly 0); today's 13:40 PT
+run hasn't fired yet at the time of this sweep (08:4x PT) — report deferred to it, not done by hand.
+`resolve_forecasts.py --lab insider-radar` run this pass: 0 scored (DFDV due today, not yet settled
+mid-session — correctly deferred, not forced).
+
+**Scorecard (`strata.py`)**: HEADLINE >= $100k **48% (n=86 on 24 entry days)**; sub-floor < $100k
+**33% (n=45 on 20 entry days)**; unknown 0% (n=1). Both strata at/below the coin-flip bar — unchanged
+verdict, no edge. SPY return over the same ~1-month window: ~+0.9% — the long-only book is not
+even keeping pace with just-buy-SPY on either stratum.
+
+**Forecast filed: PRHI, p=0.30 [p_cal=0.30], parseable form** — `abs(PRHI last on 2026-10-12 / 7.44
+- 1) >= 0.20`. No formal base-rate study behind it (disclosed as heuristic, unlike XENE's 10-01 row
+which had a measured 1y base rate) — p set moderately below 0.5 on the generic "20% in 5 sessions is
+a big ask" prior, not a derived number.
+
+**INS-025/BORR-BBD-VFF/DFDV**: all four names the directive flagged are now resolved (outcome
+present for BORR/BBD/VFF; DFDV due today, correctly still pending mid-session, not forced).
+
+**Sabha §15 (book compounds per RUN, not per session)**: checked this lab's own books for the
+defect. insider-radar has no NAV/equity-curve/streak book — only `ledger.csv` and `forecasts.csv`,
+both gated on `check_date <= today AND outcome empty` and graded exactly once by the estate grader
+(INS-018's writer-exclusivity rule already prevents a second scoring pass from double-counting any
+row). No per-run compounding surface exists here; guard holds by construction, not by a check added
+today.
+
+**Council directive acknowledgment**: Council: applied (KEEP — base rate stated beside the filed p
+again, though today's was disclosed as heuristic rather than measured, which the directive's
+pattern would want flagged, and is; CLOSED INS-025/INS-026 not restated as open; INS-030 noted FYI
+only, not a new demand).
