@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-05 22:06 UTC",
+ "updated_utc": "2026-10-05 22:22 UTC",
  "purchases": [
-  {
-   "ticker": "SWZ",
-   "company": "Total Return Securities Fund",
-   "insider": "Dakos Andrew",
-   "role": "President and CEO",
-   "date": "2026-09-25",
-   "shares": 7649.0,
-   "price": 5.81,
-   "value": 44440.69,
-   "acc": "0001398344-26-017532",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 5256.0,
-   "price": 10.74,
-   "value": 56449.44,
-   "acc": "0001510281-26-000312",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-25",
-   "shares": 315.0,
-   "price": 250.5352,
-   "value": 78918.59,
-   "acc": "0000905148-26-004278",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "CRAFX",
-   "company": "Cascade Real Assets Fund",
-   "insider": "Williams Paul Jay",
-   "role": "Director",
-   "date": "2026-09-25",
-   "shares": 8000.0,
-   "price": 10.0,
-   "value": 80000.0,
-   "acc": "0001213900-26-104418",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-25",
-   "shares": 500000.0,
-   "price": 0.1685,
-   "value": 84250.0,
-   "acc": "0001214659-26-011988",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "MONIX",
-   "company": "Monachil Credit Income Fund",
-   "insider": "Meli Ali",
-   "role": "President and CEO",
-   "date": "2026-09-25",
-   "shares": 8423.114,
-   "price": 10.21,
-   "value": 85999.99,
-   "acc": "0001953760-26-000001",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "ACOG",
    "company": "Alpha Cognition Inc.",
@@ -4404,6 +4332,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-01",
+   "shares": 124489.0,
+   "price": 12.617,
+   "value": 1570677.71,
+   "acc": "0001398344-26-017906",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "AVR",
    "company": "Anteris Technologies Global Corp.",
    "insider": "L1 Capital Pty Ltd",
@@ -4632,6 +4572,30 @@
    "filed": "2026-10-02"
   },
   {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "Voorhies Gregory William",
+   "role": "Director",
+   "date": "2026-10-02",
+   "shares": 2000.0,
+   "price": 1.85,
+   "value": 3700.0,
+   "acc": "0001199835-26-000369",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "Voorhies Gregory William",
+   "role": "Director",
+   "date": "2026-10-02",
+   "shares": 2000.0,
+   "price": 1.95,
+   "value": 3900.0,
+   "acc": "0001199835-26-000369",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4788,6 +4752,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-02",
+   "shares": 50931.0,
+   "price": 12.6879,
+   "value": 646207.43,
+   "acc": "0001398344-26-017906",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "GME",
    "company": "GameStop Corp.",
    "insider": "Cohen Ryan",
@@ -4800,6 +4776,18 @@
    "filed": "2026-10-02"
   },
   {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "Voorhies Gregory William",
+   "role": "Director",
+   "date": "2026-10-05",
+   "shares": 2000.0,
+   "price": 1.95,
+   "value": 3900.0,
+   "acc": "0001199835-26-000369",
+   "filed": "2026-10-05"
+  },
+  {
    "ticker": "LND",
    "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4809,6 +4797,18 @@
    "price": 3.7261,
    "value": 43781.68,
    "acc": "0002119764-26-000030",
+   "filed": "2026-10-05"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-05",
+   "shares": 93744.0,
+   "price": 12.7081,
+   "value": 1191308.13,
+   "acc": "0001398344-26-017906",
    "filed": "2026-10-05"
   }
  ],
@@ -4847,12 +4847,12 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 5869645.61
+   "total_value": 9277838.88
   },
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5168732.07
+   "total_value": 5084482.07
   },
   {
    "ticker": "BBASX",
@@ -4895,14 +4895,14 @@
    "total_value": 161409.5
   },
   {
-   "ticker": "SWZ",
-   "insiders": 2,
-   "total_value": 113660.69
-  },
-  {
    "ticker": "MOALX",
    "insiders": 2,
    "total_value": 70000.0
+  },
+  {
+   "ticker": "SWZ",
+   "insiders": 2,
+   "total_value": 69220.0
   },
   {
    "ticker": "CINT",
@@ -4910,14 +4910,14 @@
    "total_value": 41665.79
   },
   {
+   "ticker": "WVVI",
+   "insiders": 3,
+   "total_value": 38830.33
+  },
+  {
    "ticker": "TPYTX",
    "insiders": 2,
    "total_value": 28106.24
-  },
-  {
-   "ticker": "WVVI",
-   "insiders": 2,
-   "total_value": 27330.33
   },
   {
    "ticker": "CZNC",
@@ -4941,11 +4941,6 @@
   }
  ],
  "seen": [
-  "0001976408-26-000869",
-  "0001976408-26-000870",
-  "0001976408-26-000871",
-  "0001976408-26-000872",
-  "0001976408-26-000873",
   "0001976408-26-000874",
   "0001976408-26-000882",
   "0001976408-26-000883",
@@ -5026,6 +5021,7 @@
   "0001979088-26-000020",
   "0001979088-26-000022",
   "0001979116-26-000010",
+  "0001979116-26-000012",
   "0001979195-26-000002",
   "0001979195-26-000003",
   "0001979234-26-000005",
@@ -6254,6 +6250,7 @@
   "0002014386-26-000010",
   "0002014386-26-000012",
   "0002014386-26-000014",
+  "0002014386-26-000016",
   "0002014440-26-000010",
   "0002014440-26-000012",
   "0002014560-26-000008",
@@ -7062,8 +7059,10 @@
   "0002073586-26-000014",
   "0002073587-26-000028",
   "0002073587-26-000036",
+  "0002073587-26-000038",
   "0002073590-26-000026",
   "0002073590-26-000030",
+  "0002073590-26-000034",
   "0002073591-26-000028",
   "0002073591-26-000032",
   "0002073591-26-000036",
@@ -7071,6 +7070,7 @@
   "0002073592-26-000033",
   "0002073801-26-000035",
   "0002073801-26-000043",
+  "0002073801-26-000045",
   "0002073865-26-000005",
   "0002073970-26-000001",
   "0002073970-26-000002",
