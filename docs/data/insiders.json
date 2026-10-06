@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-06 01:31 UTC",
+ "updated_utc": "2026-10-06 01:47 UTC",
  "purchases": [
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "Edell Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-28",
-   "shares": 2000.0,
-   "price": 0.6444,
-   "value": 1288.8,
-   "acc": "0001628280-26-063849",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 17.0,
-   "price": 79.63,
-   "value": 1353.71,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -3973,6 +3949,19 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "ACCV",
+   "company": "Accelevation Holdings Corp.",
+   "insider": "Rubiera Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-01",
+   "shares": 3200.0,
+   "price": 18.0,
+   "value": 57600.0,
+   "acc": "0001628280-26-065167",
+   "filed": "2026-10-05",
+   "placement": true
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4154,6 +4143,19 @@
    "value": 2454344.0,
    "acc": "0001817646-26-000028",
    "filed": "2026-10-01"
+  },
+  {
+   "ticker": "ACCV",
+   "company": "Accelevation Holdings Corp.",
+   "insider": "Rubiera Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-01",
+   "shares": 200000.0,
+   "price": 18.0,
+   "value": 3600000.0,
+   "acc": "0001628280-26-065167",
+   "filed": "2026-10-05",
+   "placement": true
   },
   {
    "ticker": "CRBG",
@@ -4940,13 +4942,12 @@
   },
   {
    "ticker": "ACCV",
-   "insiders": 4,
+   "insiders": 5,
    "total_value": 0,
-   "other_value": 441000.0
+   "other_value": 4098600.0
   }
  ],
  "seen": [
-  "0001976672-26-000067",
   "0001976672-26-000069",
   "0001976672-26-000077",
   "0001976672-26-000081",
@@ -7382,6 +7383,7 @@
   "0002093099-26-000003",
   "0002093121-26-000005",
   "0002093121-26-000006",
+  "0002093121-26-000007",
   "0002093135-26-000004",
   "0002093167-26-000009",
   "0002093210-26-000004",
