@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-06 06:45 UTC",
+ "updated_utc": "2026-10-06 10:24 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 466.0,
-   "price": 2.905,
-   "value": 1353.73,
-   "acc": "0001536588-26-000037",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "RCG",
-   "company": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 756.0,
-   "price": 3.04,
-   "value": 2298.24,
-   "acc": "0001437749-26-031438",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4686,6 +4662,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "AVR",
+   "company": "Anteris Technologies Global Corp.",
+   "insider": "L1 Capital Pty Ltd",
+   "role": "10% owner",
+   "date": "2026-10-02",
+   "shares": 236354.0,
+   "price": 7.78,
+   "value": 1838834.12,
+   "acc": "0001817646-26-000029",
+   "filed": "2026-10-06"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4816,6 +4804,18 @@
    "value": 1191308.13,
    "acc": "0001398344-26-017906",
    "filed": "2026-10-05"
+  },
+  {
+   "ticker": "AVR",
+   "company": "Anteris Technologies Global Corp.",
+   "insider": "L1 Capital Pty Ltd",
+   "role": "10% owner",
+   "date": "2026-10-05",
+   "shares": 648455.0,
+   "price": 7.51,
+   "value": 4869897.05,
+   "acc": "0001817646-26-000029",
+   "filed": "2026-10-06"
   }
  ],
  "clusters": [
