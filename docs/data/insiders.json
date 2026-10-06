@@ -1,19 +1,6 @@
 {
- "updated_utc": "2026-10-06 14:51 UTC",
+ "updated_utc": "2026-10-06 15:06 UTC",
  "purchases": [
-  {
-   "ticker": "LBSR",
-   "company": "LIBERTY STAR URANIUM & METALS CORP.",
-   "insider": "O'HEERON PETE",
-   "role": "COB, Secretary, Treasurer",
-   "date": "2026-09-28",
-   "shares": 171482.0,
-   "price": 0.0228,
-   "value": 3909.79,
-   "acc": "0001493152-26-044992",
-   "filed": "2026-09-30",
-   "placement": true
-  },
   {
    "ticker": "OVLY",
    "company": "Oak Valley Bancorp",
@@ -4758,6 +4745,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "AEF",
+   "company": "abrdn Emerging Markets ex-China Fund, Inc.",
+   "insider": "Clark Anthony S.",
+   "role": "Director",
+   "date": "2026-10-05",
+   "shares": 2000.0,
+   "price": 9.726,
+   "value": 19452.0,
+   "acc": "0001104659-26-113936",
+   "filed": "2026-10-06"
+  },
+  {
    "ticker": "LND",
    "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4948,8 +4947,6 @@
   }
  ],
  "seen": [
-  "0001977188-26-000008",
-  "0001977249-26-000104",
   "0001977249-26-000105",
   "0001977249-26-000106",
   "0001977249-26-000107",
@@ -6548,6 +6545,8 @@
   "0002040500-26-000006",
   "0002040500-26-000008",
   "0002040519-26-000073",
+  "0002040519-26-000075",
+  "0002040519-26-000077",
   "0002040705-26-000007",
   "0002040815-26-000018",
   "0002041211-26-000014",
