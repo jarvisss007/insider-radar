@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-06 18:00 UTC",
+ "updated_utc": "2026-10-06 18:47 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 61.0,
-   "price": 80.52,
-   "value": 4911.72,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
@@ -4048,6 +4036,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "SAH",
+   "company": "SONIC AUTOMOTIVE INC",
+   "insider": "Rusnak Paul P.",
+   "role": "10% owner",
+   "date": "2026-10-01",
+   "shares": 21645.0,
+   "price": 59.5,
+   "value": 1287877.5,
+   "acc": "0001460471-26-000005",
+   "filed": "2026-10-06"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4947,7 +4947,6 @@
   }
  ],
  "seen": [
-  "0001977249-26-000111",
   "0001977249-26-000112",
   "0001977249-26-000113",
   "0001977249-26-000114",
@@ -7946,6 +7945,7 @@
   "0002156293-26-000005",
   "0002156505-26-000004",
   "0002157924-26-000006",
+  "0002158060-26-000005",
   "0002158511-26-000003"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
