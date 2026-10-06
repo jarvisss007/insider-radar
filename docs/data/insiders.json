@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-06 10:24 UTC",
+ "updated_utc": "2026-10-06 11:42 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 39.0,
-   "price": 81.915,
-   "value": 3194.69,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "BFS",
    "company": "SAUL CENTERS, INC.",
@@ -4815,6 +4803,18 @@
    "price": 7.51,
    "value": 4869897.05,
    "acc": "0001817646-26-000029",
+   "filed": "2026-10-06"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "date": "2026-10-05",
+   "shares": 1500000.0,
+   "price": 4.1314,
+   "value": 6197100.0,
+   "acc": "0001628280-26-065174",
    "filed": "2026-10-06"
   }
  ],
