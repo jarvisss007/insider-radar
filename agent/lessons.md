@@ -1768,3 +1768,32 @@ today.
 again, though today's was disclosed as heuristic rather than measured, which the directive's
 pattern would want flagged, and is; CLOSED INS-025/INS-026 not restated as open; INS-030 noted FYI
 only, not a new demand).
+
+## 2026-10-06 [insider] — GARUDA (labs-morning-sweep)
+
+**Collector:** 400 feed, 25 clusters, 18 excluded. Event study (own `collector_edgar.py`
+study): 847 events (670 mature), still NO significant edge after cluster-robust
+inference (all |t|<2.67 Bonferroni threshold) — the honest null holds.
+
+**New clusters logged (2):** GPUS (2 insiders, $5.08M, QUEUED — call-day not settled) and
+WVVI (3 insiders, $38.8K, sub-floor, QUEUED). 5 queued from 10-05 (MXF, PRHI, CINT, AUBN,
+CTM) still waiting on their fill session per INS-026 — none filled this run (10-06 session
+itself not settled yet). JOHN HANCOCK x2 / AGL PRIVATE CREDIT / NC SLF INC correctly
+auto-excluded (no ticker, CIK-only). BBASX/PMPEX/MOALX/TPYTX re-tested by hand this run —
+confirmed still refused at append_call (quoteType MUTUALFUND, INS-030), nothing written.
+
+**Grading:** `grade_all_due.py` / `resolve_forecasts.py` have not fired again since
+2026-10-05's run (launchd 13:40 PT, later than this sweep); last grading stands at 5/5
+ledger rows (GROV right, OPAL/GPUS/OVLY/FRST wrong — 1/5, matches the standing no-edge
+verdict) and 1 forecast (DFDV, no). Nothing new to grade this run per the log.
+
+**Strata (agent/strata.py):** HEADLINE (>=$100k) 47% n=89 on 25 entry days; sub-floor
+(<$100k) 32% n=47 on 21 entry days — consistent with the standing "no edge, at or below
+coin-flip" verdict, not a new finding.
+
+**Forecast:** filed GPUS (p=0.27, base-rate magnitude read, no bin actionable). PDI (due
+today) could not resolve — its own call-day close not yet settled; disclosed, not forced.
+
+**Firm Brain check (S30, cap-in-loop-order):** 2 new + 0 capped-out this run (4 eligible,
+4 logged across today+yesterday's queue) — ranking is clusters.json's own descending
+total_value order, named in notes. No defect found, guard already documented.
