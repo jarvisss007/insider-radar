@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-06 13:00 UTC",
+ "updated_utc": "2026-10-06 13:16 UTC",
  "purchases": [
-  {
-   "ticker": "BFS",
-   "company": "SAUL CENTERS, INC.",
-   "insider": "Friedman Joel Albert",
-   "role": "Exec VP, CAO & Treasurer",
-   "date": "2026-09-28",
-   "shares": 200.0,
-   "price": 18.53,
-   "value": 3706.0,
-   "acc": "0001472420-26-000004",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "LBSR",
    "company": "LIBERTY STAR URANIUM & METALS CORP.",
@@ -4758,6 +4746,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-05",
+   "shares": 8683.0,
+   "price": 1.2687,
+   "value": 11016.12,
+   "acc": "0001493152-26-045879",
+   "filed": "2026-10-06"
+  },
+  {
    "ticker": "LND",
    "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4948,7 +4948,6 @@
   }
  ],
  "seen": [
-  "0001976672-26-000085",
   "0001976684-26-000011",
   "0001976685-26-000017",
   "0001976685-26-000048",
@@ -6044,6 +6043,7 @@
   "0001999371-26-022143",
   "0001999371-26-022161",
   "0001999371-26-022177",
+  "0001999371-26-022180",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
