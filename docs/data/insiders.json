@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-06 17:12 UTC",
+ "updated_utc": "2026-10-06 18:00 UTC",
  "purchases": [
-  {
-   "ticker": "OVLY",
-   "company": "Oak Valley Bancorp",
-   "insider": "Leonard Daniel J",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 125.0,
-   "price": 34.03,
-   "value": 4253.75,
-   "acc": "0001437749-26-031435",
-   "filed": "2026-09-29"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4613,6 +4601,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-10-02",
+   "shares": 100000.0,
+   "price": 8.5724,
+   "value": 857240.0,
+   "acc": "0001045463-26-000019",
+   "filed": "2026-10-06"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4947,7 +4947,6 @@
   }
  ],
  "seen": [
-  "0001977249-26-000110",
   "0001977249-26-000111",
   "0001977249-26-000112",
   "0001977249-26-000113",
@@ -7946,6 +7945,7 @@
   "0002156224-26-000005",
   "0002156293-26-000005",
   "0002156505-26-000004",
+  "0002157924-26-000006",
   "0002158511-26-000003"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
