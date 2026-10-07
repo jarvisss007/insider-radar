@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-07 16:38 UTC",
+ "updated_utc": "2026-10-07 18:13 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 479.0,
-   "price": 64.4276,
-   "value": 30860.82,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "FTHY",
-   "company": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
-   "insider": "HOUSEY WILLIAM A JR",
-   "role": "",
-   "date": "2026-09-28",
-   "shares": 2500.0,
-   "price": 12.865,
-   "value": 32162.5,
-   "acc": "0001445546-26-007166",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 404.0,
-   "price": 80.2259,
-   "value": 32411.26,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
@@ -4541,6 +4505,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-05",
+   "shares": 1775.0,
+   "price": 9.38,
+   "value": 16649.5,
+   "acc": "0001510281-26-000327",
+   "filed": "2026-10-07"
+  },
+  {
    "ticker": "AEF",
    "company": "abrdn Emerging Markets ex-China Fund, Inc.",
    "insider": "Clark Anthony S.",
@@ -4611,6 +4587,30 @@
    "value": 201000.0,
    "acc": "0001531376-26-000014",
    "filed": "2026-10-06"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-05",
+   "shares": 25144.0,
+   "price": 10.51,
+   "value": 264263.44,
+   "acc": "0001510281-26-000326",
+   "filed": "2026-10-07"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-05",
+   "shares": 25900.0,
+   "price": 20.09,
+   "value": 520331.0,
+   "acc": "0001510281-26-000325",
+   "filed": "2026-10-07"
   },
   {
    "ticker": "LWAY",
@@ -4865,14 +4865,14 @@
    "total_value": 1681140.0
   },
   {
+   "ticker": "MXF",
+   "insiders": 2,
+   "total_value": 1037708.35
+  },
+  {
    "ticker": "FUL",
    "insiders": 7,
    "total_value": 596825.61
-  },
-  {
-   "ticker": "MXF",
-   "insiders": 2,
-   "total_value": 517377.35
   },
   {
    "ticker": "SPG",
@@ -4927,8 +4927,6 @@
   }
  ],
  "seen": [
-  "0001979088-26-000018",
-  "0001979088-26-000019",
   "0001979088-26-000020",
   "0001979088-26-000022",
   "0001979116-26-000010",
@@ -5983,6 +5981,7 @@
   "0001999371-26-022302",
   "0001999371-26-022306",
   "0001999371-26-022325",
+  "0001999371-26-022328",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7541,6 +7540,7 @@
   "0002117102-26-000004",
   "0002117458-26-000008",
   "0002117770-26-000005",
+  "0002117903-26-000001",
   "0002117905-26-000018",
   "0002117905-26-000020",
   "0002117905-26-000022",
