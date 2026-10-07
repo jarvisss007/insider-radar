@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-07 12:43 UTC",
+ "updated_utc": "2026-10-07 12:58 UTC",
  "purchases": [
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 2717.0,
-   "price": 9.2757,
-   "value": 25202.08,
-   "acc": "0001104659-26-112426",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "LPCN",
-   "company": "Lipocine Inc.",
-   "insider": "Higuchi John W.",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 12561.0,
-   "price": 2.16,
-   "value": 27131.76,
-   "acc": "0001493152-26-045185",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 338.0,
-   "price": 81.2019,
-   "value": 27446.24,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "Ruddy Jordan B.",
-   "role": "President",
-   "date": "2026-09-28",
-   "shares": 2400.0,
-   "price": 12.4897,
-   "value": 29975.28,
-   "acc": "0001398344-26-017659",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "ARBE",
-   "company": "Arbe Robotics Ltd.",
-   "insider": "CRIST EUGENE SCOTT",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 50000.0,
-   "price": 0.605,
-   "value": 30250.0,
-   "acc": "0001213900-26-107326",
-   "filed": "2026-10-06"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4613,6 +4553,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "AGMB",
+   "company": "AgomAb Therapeutics NV",
+   "insider": "Epstein David R",
+   "role": "Director",
+   "date": "2026-10-05",
+   "shares": 5000.0,
+   "price": 8.57,
+   "value": 42850.0,
+   "acc": "0001445826-26-000013",
+   "filed": "2026-10-07"
+  },
+  {
    "ticker": "LND",
    "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4759,6 +4711,42 @@
   {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
+   "insider": "Kemula Pierre Thadee Victor",
+   "role": "Chief Financial Officer",
+   "date": "2026-10-06",
+   "shares": 2000.0,
+   "price": 8.54,
+   "value": 17080.0,
+   "acc": "0002119332-26-000001",
+   "filed": "2026-10-07"
+  },
+  {
+   "ticker": "AGMB",
+   "company": "AgomAb Therapeutics NV",
+   "insider": "Kemula Pierre Thadee Victor",
+   "role": "Chief Financial Officer",
+   "date": "2026-10-06",
+   "shares": 3000.0,
+   "price": 8.67,
+   "value": 26010.0,
+   "acc": "0002119332-26-000001",
+   "filed": "2026-10-07"
+  },
+  {
+   "ticker": "AGMB",
+   "company": "AgomAb Therapeutics NV",
+   "insider": "Kemula Pierre Thadee Victor",
+   "role": "Chief Financial Officer",
+   "date": "2026-10-06",
+   "shares": 5000.0,
+   "price": 8.57,
+   "value": 42850.0,
+   "acc": "0002119332-26-000001",
+   "filed": "2026-10-07"
+  },
+  {
+   "ticker": "AGMB",
+   "company": "AgomAb Therapeutics NV",
    "insider": "Knotnerus Tim Jasper",
    "role": "Chief Executive Officer",
    "date": "2026-10-06",
@@ -4766,6 +4754,18 @@
    "price": 8.7,
    "value": 43500.0,
    "acc": "0002120886-26-000001",
+   "filed": "2026-10-07"
+  },
+  {
+   "ticker": "AGMB",
+   "company": "AgomAb Therapeutics NV",
+   "insider": "Epstein David R",
+   "role": "Director",
+   "date": "2026-10-06",
+   "shares": 5000.0,
+   "price": 8.7,
+   "value": 43500.0,
+   "acc": "0001445826-26-000013",
    "filed": "2026-10-07"
   },
   {
@@ -4847,7 +4847,7 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 8904490.6
+   "total_value": 8874515.32
   },
   {
    "ticker": "GPUS",
@@ -4878,6 +4878,11 @@
    "ticker": "SPG",
    "insiders": 11,
    "total_value": 460716.16
+  },
+  {
+   "ticker": "AGMB",
+   "insiders": 3,
+   "total_value": 266670.0
   },
   {
    "ticker": "PRHI",
@@ -4922,8 +4927,6 @@
   }
  ],
  "seen": [
-  "0001978604-26-000006",
-  "0001978604-26-000007",
   "0001978604-26-000008",
   "0001978942-26-000010",
   "0001979088-26-000014",
@@ -7574,6 +7577,7 @@
   "0002119288-26-000005",
   "0002119291-26-000004",
   "0002119291-26-000006",
+  "0002119332-26-000001",
   "0002119764-26-000024",
   "0002119764-26-000026",
   "0002119764-26-000028",
@@ -7919,6 +7923,7 @@
   "0002156224-26-000005",
   "0002156293-26-000005",
   "0002156505-26-000004",
+  "0002156592-26-000002",
   "0002157924-26-000006",
   "0002158060-26-000005",
   "0002158511-26-000003"
