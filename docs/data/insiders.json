@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-07 19:17 UTC",
+ "updated_utc": "2026-10-07 20:04 UTC",
  "purchases": [
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Nechmad Yair",
-   "role": "CEO, Co Founder & Chairman",
-   "date": "2026-09-28",
-   "shares": 1000.0,
-   "price": 45.4865,
-   "value": 45486.5,
-   "acc": "0001976408-26-000874",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "SWZ",
    "company": "Total Return Securities Fund",
@@ -4709,6 +4697,18 @@
    "filed": "2026-10-07"
   },
   {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "TAGLICH ROBERT",
+   "role": "10% owner",
+   "date": "2026-10-06",
+   "shares": 4000.0,
+   "price": 5.0,
+   "value": 20000.0,
+   "acc": "0001493152-26-046129",
+   "filed": "2026-10-07"
+  },
+  {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
    "insider": "Kemula Pierre Thadee Victor",
@@ -4900,6 +4900,11 @@
    "total_value": 38830.33
   },
   {
+   "ticker": "INLX",
+   "insiders": 2,
+   "total_value": 20983.65
+  },
+  {
    "ticker": "CZNC",
    "insiders": 2,
    "total_value": 6454.03
@@ -4927,7 +4932,6 @@
   }
  ],
  "seen": [
-  "0001979088-26-000020",
   "0001979088-26-000022",
   "0001979116-26-000010",
   "0001979116-26-000012",
@@ -6888,6 +6892,7 @@
   "0002070849-26-000067",
   "0002070849-26-000069",
   "0002070858-26-000012",
+  "0002070979-26-000282",
   "0002071214-26-000012",
   "0002071761-26-000009",
   "0002071761-26-000010",
