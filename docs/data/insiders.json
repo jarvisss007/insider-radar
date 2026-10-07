@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-07 00:34 UTC",
+ "updated_utc": "2026-10-07 00:50 UTC",
  "purchases": [
-  {
-   "ticker": "UTI",
-   "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
-   "insider": "DEVINCENZI ROBERT THOMAS",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 1000.0,
-   "price": 19.6775,
-   "value": 19677.5,
-   "acc": "0001193125-26-409200",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "MOALX",
-   "company": "Lord Abbett Municipal Opportunities Fund",
-   "insider": "Shuman Gregory M.",
-   "role": "",
-   "date": "2026-09-28",
-   "shares": 2079.002,
-   "price": 9.62,
-   "value": 20000.0,
-   "acc": "0000930413-26-003008",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 321.0,
-   "price": 67.0967,
-   "value": 21538.04,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "ASPI",
    "company": "ASP Isotopes Inc.",
@@ -4445,6 +4409,18 @@
    "filed": "2026-10-05"
   },
   {
+   "ticker": "LWAY",
+   "company": "Lifeway Foods, Inc.",
+   "insider": "Divisadero Street Capital Management, LP",
+   "role": "10% owner",
+   "date": "2026-10-02",
+   "shares": 17482.0,
+   "price": 21.0885,
+   "value": 368669.16,
+   "acc": "0000919574-26-006685",
+   "filed": "2026-10-06"
+  },
+  {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
    "insider": "BERKSHIRE HATHAWAY INC",
@@ -4721,6 +4697,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "LWAY",
+   "company": "Lifeway Foods, Inc.",
+   "insider": "Divisadero Street Capital Management, LP",
+   "role": "10% owner",
+   "date": "2026-10-05",
+   "shares": 36202.0,
+   "price": 21.0081,
+   "value": 760535.24,
+   "acc": "0000919574-26-006685",
+   "filed": "2026-10-06"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4802,6 +4790,18 @@
    "price": 2.76,
    "value": 1000000.44,
    "acc": "0001136478-26-000010",
+   "filed": "2026-10-06"
+  },
+  {
+   "ticker": "LWAY",
+   "company": "Lifeway Foods, Inc.",
+   "insider": "Divisadero Street Capital Management, LP",
+   "role": "10% owner",
+   "date": "2026-10-06",
+   "shares": 50000.0,
+   "price": 20.8038,
+   "value": 1040190.0,
+   "acc": "0000919574-26-006685",
    "filed": "2026-10-06"
   },
   {
@@ -4888,11 +4888,6 @@
    "ticker": "PRHI",
    "insiders": 5,
    "total_value": 248877.59
-  },
-  {
-   "ticker": "MOALX",
-   "insiders": 2,
-   "total_value": 70000.0
   },
   {
    "ticker": "CINT",
