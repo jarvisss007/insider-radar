@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-08 14:50 UTC",
+ "updated_utc": "2026-10-08 15:22 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 4696.0,
-   "price": 73.0777,
-   "value": 343172.88,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "NYAX",
    "company": "Nayax Ltd.",
@@ -4814,6 +4802,18 @@
    "price": 79.39,
    "value": 11432.16,
    "acc": "0001046179-26-000715",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 1250000.0,
+   "price": 4.3122,
+   "value": 5390250.0,
+   "acc": "0001628280-26-065416",
    "filed": "2026-10-08"
   }
  ],
