@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-08 10:44 UTC",
+ "updated_utc": "2026-10-08 13:17 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 3114.0,
-   "price": 86.7217,
-   "value": 270051.37,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 3681.0,
-   "price": 76.345,
-   "value": 281025.95,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
@@ -4445,6 +4421,18 @@
    "filed": "2026-10-07"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Booth Richard Whitaker",
+   "role": "",
+   "date": "2026-10-07",
+   "shares": 41.7362,
+   "price": 11.98,
+   "value": 500.0,
+   "acc": "0001435109-26-000150",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Tien Bor-Zen",
@@ -4805,6 +4793,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-07",
+   "shares": 5505.0,
+   "price": 1.2128,
+   "value": 6676.46,
+   "acc": "0001493152-26-046274",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Wei Che-Chia",
@@ -4932,9 +4932,6 @@
   }
  ],
  "seen": [
-  "0001981599-26-000118",
-  "0001981599-26-000122",
-  "0001981599-26-000124",
   "0001981599-26-000127",
   "0001981864-26-000008",
   "0001982002-26-000004",
@@ -5966,6 +5963,7 @@
   "0001999371-26-022325",
   "0001999371-26-022328",
   "0001999371-26-022382",
+  "0001999371-26-022409",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7579,6 +7577,7 @@
   "0002119291-26-000004",
   "0002119291-26-000006",
   "0002119332-26-000001",
+  "0002119563-26-000002",
   "0002119764-26-000024",
   "0002119764-26-000026",
   "0002119764-26-000028",
@@ -7618,6 +7617,7 @@
   "0002122342-26-000008",
   "0002122401-26-000002",
   "0002122411-26-000001",
+  "0002122411-26-000002",
   "0002122712-26-000004",
   "0002122855-26-000006",
   "0002123155-26-000002",
