@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-08 22:12 UTC",
+ "updated_utc": "2026-10-08 22:43 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 16641.0,
-   "price": 72.3873,
-   "value": 1204597.06,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 17698.0,
-   "price": 71.4843,
-   "value": 1265129.14,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 17159.0,
-   "price": 81.0204,
-   "value": 1390229.04,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -3914,6 +3878,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-06",
+   "shares": 5601.0,
+   "price": 1.3277,
+   "value": 7436.45,
+   "acc": "0001940272-26-000023",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4562,6 +4538,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-07",
+   "shares": 3046.0,
+   "price": 1.33,
+   "value": 4051.18,
+   "acc": "0001940272-26-000023",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Hsu Kuo-Chin",
@@ -4802,6 +4790,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 2256.0,
+   "price": 1.3283,
+   "value": 2996.64,
+   "acc": "0001940272-26-000023",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "NRXS",
    "company": "Neuraxis, INC",
    "insider": "Henrichs Timothy Robert",
@@ -4934,8 +4934,6 @@
   }
  ],
  "seen": [
-  "0001984784-26-000024",
-  "0001984784-26-000026",
   "0001984784-26-000028",
   "0001985206-26-000004",
   "0001985226-26-000004",
@@ -4954,6 +4952,7 @@
   "0001987910-26-000008",
   "0001988238-26-000004",
   "0001988277-26-000003",
+  "0001988473-26-000005",
   "0001988564-26-000008",
   "0001988737-26-000005",
   "0001988894-26-000089",
@@ -6212,6 +6211,7 @@
   "0002018394-26-000005",
   "0002018465-26-000005",
   "0002018513-26-000015",
+  "0002018516-26-000005",
   "0002018686-26-000014",
   "0002018689-26-000007",
   "0002018971-26-000004",
