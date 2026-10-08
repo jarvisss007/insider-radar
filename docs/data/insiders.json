@@ -1,81 +1,6 @@
 {
- "updated_utc": "2026-10-08 21:56 UTC",
+ "updated_utc": "2026-10-08 22:12 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 4018.0,
-   "price": 249.5298,
-   "value": 1002610.74,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "ADRX",
-   "company": "ADARx Pharmaceuticals, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 61516.0,
-   "price": 17.0,
-   "value": 1045772.0,
-   "acc": "0000947871-26-000910",
-   "filed": "2026-09-30",
-   "placement": true
-  },
-  {
-   "ticker": "ADRX",
-   "company": "ADARx Pharmaceuticals, Inc.",
-   "insider": "Chimovits Erez",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 61516.0,
-   "price": 17.0,
-   "value": 1045772.0,
-   "acc": "0000947871-26-000912",
-   "filed": "2026-09-30",
-   "placement": true
-  },
-  {
-   "ticker": "ADRX",
-   "company": "ADARx Pharmaceuticals, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 61516.0,
-   "price": 17.0,
-   "value": 1045772.0,
-   "acc": "0000947871-26-000911",
-   "filed": "2026-09-30",
-   "placement": true
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 11729.0,
-   "price": 89.8555,
-   "value": 1053915.16,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 14827.0,
-   "price": 79.7076,
-   "value": 1181824.59,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4025,6 +3950,18 @@
    "filed": "2026-10-07"
   },
   {
+   "ticker": "CINT",
+   "company": "CI&T Inc",
+   "insider": "Martins Fernando Matt Borges",
+   "role": "Director",
+   "date": "2026-10-06",
+   "shares": 6629.0,
+   "price": 3.15,
+   "value": 20881.35,
+   "acc": "0001292814-26-004872",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
    "insider": "Kemula Pierre Thadee Victor",
@@ -4757,6 +4694,66 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "IMMR",
+   "company": "IMMERSION CORP",
+   "insider": "Singer Eric",
+   "role": "President and CEO",
+   "date": "2026-10-07",
+   "shares": 3000.0,
+   "price": 7.15,
+   "value": 21450.0,
+   "acc": "0001193125-26-418131",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "IMMR",
+   "company": "IMMERSION CORP",
+   "insider": "Singer Eric",
+   "role": "President and CEO",
+   "date": "2026-10-07",
+   "shares": 3050.0,
+   "price": 7.14,
+   "value": 21777.0,
+   "acc": "0001193125-26-418131",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "CINT",
+   "company": "CI&T Inc",
+   "insider": "Martins Fernando Matt Borges",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 9116.0,
+   "price": 3.12,
+   "value": 28441.92,
+   "acc": "0001292814-26-004872",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "IMMR",
+   "company": "IMMERSION CORP",
+   "insider": "Singer Eric",
+   "role": "President and CEO",
+   "date": "2026-10-07",
+   "shares": 8000.0,
+   "price": 7.11,
+   "value": 56880.0,
+   "acc": "0001193125-26-418131",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "IMMR",
+   "company": "IMMERSION CORP",
+   "insider": "Singer Eric",
+   "role": "President and CEO",
+   "date": "2026-10-07",
+   "shares": 26950.0,
+   "price": 7.15,
+   "value": 192692.5,
+   "acc": "0001193125-26-418131",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "FUL",
    "company": "FULLER H B CO",
    "insider": "BAILLY R JEFFREY",
@@ -4830,9 +4827,9 @@
   },
   {
    "ticker": "ADRX",
-   "insiders": 5,
+   "insiders": 4,
    "total_value": 34251838.0,
-   "other_value": 33345772.0
+   "other_value": 30208456.0
   },
   {
    "ticker": "GME",
@@ -4890,14 +4887,14 @@
    "total_value": 121466.7
   },
   {
+   "ticker": "CINT",
+   "insiders": 3,
+   "total_value": 90989.06
+  },
+  {
    "ticker": "WVVI",
    "insiders": 3,
    "total_value": 46590.0
-  },
-  {
-   "ticker": "CINT",
-   "insiders": 3,
-   "total_value": 41665.79
   },
   {
    "ticker": "INLX",
@@ -4937,8 +4934,6 @@
   }
  ],
  "seen": [
-  "0001984784-26-000020",
-  "0001984784-26-000022",
   "0001984784-26-000024",
   "0001984784-26-000026",
   "0001984784-26-000028",
@@ -6812,6 +6807,7 @@
   "0002064832-26-000322",
   "0002064832-26-000325",
   "0002064832-26-000327",
+  "0002064832-26-000329",
   "0002064953-26-000088",
   "0002065340-26-000017",
   "0002065340-26-000019",
@@ -7060,6 +7056,7 @@
   "0002076715-26-000005",
   "0002076719-26-000002",
   "0002076763-26-000006",
+  "0002076763-26-000011",
   "0002076878-26-000003",
   "0002077005-26-000010",
   "0002077005-26-000012",
