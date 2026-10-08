@@ -1,138 +1,6 @@
 {
- "updated_utc": "2026-10-08 10:29 UTC",
+ "updated_utc": "2026-10-08 10:44 UTC",
  "purchases": [
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 7945.0,
-   "price": 20.4279,
-   "value": 162299.67,
-   "acc": "0000937797-26-000032",
-   "filed": "2026-09-28"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 2666.0,
-   "price": 61.6252,
-   "value": 164292.78,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 2585.0,
-   "price": 68.3736,
-   "value": 176745.76,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 2322.0,
-   "price": 85.9656,
-   "value": 199612.12,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 2884.0,
-   "price": 77.4314,
-   "value": 223312.16,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 2969.0,
-   "price": 78.5681,
-   "value": 233268.69,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 942.0,
-   "price": 248.3331,
-   "value": 233929.78,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "CLPR",
-   "company": "Clipper Realty Inc.",
-   "insider": "Bistricer Jacob",
-   "role": "Chief Operating Officer",
-   "date": "2026-09-28",
-   "shares": 73500.0,
-   "price": 3.35,
-   "value": 246225.0,
-   "acc": "0001437749-26-031626",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Nechmad Yair",
-   "role": "CEO, Co Founder & Chairman",
-   "date": "2026-09-28",
-   "shares": 5504.0,
-   "price": 45.0231,
-   "value": 247807.14,
-   "acc": "0001976408-26-000874",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "NUVEEN CHURCHILL PRIVATE CAPITAL INCOME FUND (CIK 1911066)",
-   "company": "Nuveen Churchill Private Capital Income Fund",
-   "insider": "Kencel Kenneth J.",
-   "role": "CEO and President",
-   "date": "2026-09-28",
-   "shares": 10482.18,
-   "price": 23.85,
-   "value": 249999.99,
-   "acc": "0001225208-26-008020",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 4067.0,
-   "price": 62.9623,
-   "value": 256067.67,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4579,6 +4447,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 7.0,
+   "price": 79.39,
+   "value": 555.73,
+   "acc": "0001046179-26-000708",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Huang Jen-Chau",
    "role": "SVP and CFO",
    "date": "2026-10-07",
@@ -4622,6 +4502,42 @@
    "price": 79.39,
    "value": 3096.21,
    "acc": "0001046179-26-000692",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wu Yi-Huang",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 39.0,
+   "price": 79.39,
+   "value": 3096.21,
+   "acc": "0001046179-26-000714",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yuan Lipen",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 40.0,
+   "price": 79.39,
+   "value": 3175.6,
+   "acc": "0001046179-26-000724",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 40.0,
+   "price": 79.39,
+   "value": 3175.6,
+   "acc": "0001046179-26-000708",
    "filed": "2026-10-08"
   },
   {
@@ -4735,6 +4651,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yoo Chue-San",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 50.0,
+   "price": 79.39,
+   "value": 3969.5,
+   "acc": "0001046179-26-000721",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Cao Min",
    "role": "VP",
    "date": "2026-10-07",
@@ -4783,6 +4711,30 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yeap Choh Fei",
+   "role": "SVP",
+   "date": "2026-10-07",
+   "shares": 52.0,
+   "price": 79.39,
+   "value": 4128.28,
+   "acc": "0001046179-26-000723",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wang Ying-Lang",
+   "role": "SVP",
+   "date": "2026-10-07",
+   "shares": 52.0,
+   "price": 79.39,
+   "value": 4128.28,
+   "acc": "0001046179-26-000710",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Fang Shu-Hua",
    "role": "SVP and GC",
    "date": "2026-10-07",
@@ -4790,6 +4742,30 @@
    "price": 79.39,
    "value": 4207.67,
    "acc": "0001046179-26-000675",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wu Shien-Yang",
+   "role": "SVP",
+   "date": "2026-10-07",
+   "shares": 53.0,
+   "price": 79.39,
+   "value": 4207.67,
+   "acc": "0001046179-26-000716",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Zhang Kevin Xiaoqiang",
+   "role": "SVP and Deputy Co-COO",
+   "date": "2026-10-07",
+   "shares": 59.0,
+   "price": 79.39,
+   "value": 4684.01,
+   "acc": "0001046179-26-000722",
    "filed": "2026-10-08"
   },
   {
@@ -4814,6 +4790,30 @@
    "price": 79.39,
    "value": 5319.13,
    "acc": "0001046179-26-000677",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Mii Yuh-Jier",
+   "role": "EVP and Co-COO",
+   "date": "2026-10-07",
+   "shares": 68.0,
+   "price": 79.39,
+   "value": 5398.52,
+   "acc": "0001046179-26-000709",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wei Che-Chia",
+   "role": "Chairman and CEO",
+   "date": "2026-10-07",
+   "shares": 144.0,
+   "price": 79.39,
+   "value": 11432.16,
+   "acc": "0001046179-26-000715",
    "filed": "2026-10-08"
   }
  ],
@@ -4886,8 +4886,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 20,
-   "total_value": 73515.14
+   "insiders": 30,
+   "total_value": 121466.7
   },
   {
    "ticker": "CINT",
@@ -4932,7 +4932,6 @@
   }
  ],
  "seen": [
-  "0001981599-26-000117",
   "0001981599-26-000118",
   "0001981599-26-000122",
   "0001981599-26-000124",
@@ -6352,6 +6351,7 @@
   "0002029760-26-000007",
   "0002029760-26-000008",
   "0002029760-26-000009",
+  "0002029760-26-000010",
   "0002030240-26-000007",
   "0002030396-26-000003",
   "0002030650-26-000006",
