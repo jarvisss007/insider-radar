@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-08 13:17 UTC",
+ "updated_utc": "2026-10-08 14:03 UTC",
  "purchases": [
-  {
-   "ticker": "INBX",
-   "company": "Inhibrx Biosciences, Inc.",
-   "insider": "Lappe Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-28",
-   "shares": 3000.0,
-   "price": 101.702,
-   "value": 305106.0,
-   "acc": "0001366074-26-000004",
-   "filed": "2026-09-28"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4445,6 +4433,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Hall Bjorn",
+   "role": "Secretary and CCO",
+   "date": "2026-10-07",
+   "shares": 98.8142,
+   "price": 10.12,
+   "value": 1000.0,
+   "acc": "0001213900-26-107756",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Huang Jen-Chau",
@@ -4932,7 +4932,6 @@
   }
  ],
  "seen": [
-  "0001981599-26-000127",
   "0001981864-26-000008",
   "0001982002-26-000004",
   "0001982651-26-000004",
@@ -5964,6 +5963,7 @@
   "0001999371-26-022328",
   "0001999371-26-022382",
   "0001999371-26-022409",
+  "0001999371-26-022415",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
