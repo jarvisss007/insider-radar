@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-10-08 04:44 UTC",
+ "updated_utc": "2026-10-08 10:13 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 884.0,
-   "price": 79.7076,
-   "value": 70461.52,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 1056.0,
-   "price": 71.4843,
-   "value": 75487.42,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "FUL",
-   "company": "FULLER H B CO",
-   "insider": "Rasmussen Trangsrud Teresa J",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 1542.0,
-   "price": 48.9587,
-   "value": 75494.32,
-   "acc": "0001225208-26-008013",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "FLNA",
-   "company": "FILANA THERAPEUTICS, INC.",
-   "insider": "Barry Richard",
-   "role": "President & CEO",
-   "date": "2026-09-28",
-   "shares": 93091.0,
-   "price": 0.84,
-   "value": 78196.44,
-   "acc": "0001437749-26-031597",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 1027.0,
-   "price": 80.52,
-   "value": 82694.04,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 1024.0,
-   "price": 81.0204,
-   "value": 82964.89,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 957.0,
-   "price": 86.8142,
-   "value": 83081.19,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 1044.0,
-   "price": 81.3139,
-   "value": 84891.71,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -4815,6 +4719,102 @@
    "value": 6364200.0,
    "acc": "0001628280-26-065290",
    "filed": "2026-10-07"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chen Chih-Ho",
+   "role": "Controller",
+   "date": "2026-10-07",
+   "shares": 31.0,
+   "price": 79.39,
+   "value": 2461.09,
+   "acc": "0001046179-26-000672",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chen Pei-Hung",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 43.0,
+   "price": 79.39,
+   "value": 3413.77,
+   "acc": "0001046179-26-000673",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chuang Tzu-Sou",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 46.0,
+   "price": 79.39,
+   "value": 3651.94,
+   "acc": "0001046179-26-000679",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chuang Juiping",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 46.0,
+   "price": 79.39,
+   "value": 3651.94,
+   "acc": "0001046179-26-000674",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Cao Min",
+   "role": "VP",
+   "date": "2026-10-07",
+   "shares": 51.0,
+   "price": 79.39,
+   "value": 4048.89,
+   "acc": "0001046179-26-000678",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chang Tzonz-Sheng",
+   "role": "SVP",
+   "date": "2026-10-07",
+   "shares": 51.0,
+   "price": 79.39,
+   "value": 4048.89,
+   "acc": "0001046179-26-000676",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Fang Shu-Hua",
+   "role": "SVP and GC",
+   "date": "2026-10-07",
+   "shares": 53.0,
+   "price": 79.39,
+   "value": 4207.67,
+   "acc": "0001046179-26-000675",
+   "filed": "2026-10-08"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chin Yung-Pei",
+   "role": "EVP and Co-COO",
+   "date": "2026-10-07",
+   "shares": 67.0,
+   "price": 79.39,
+   "value": 5319.13,
+   "acc": "0001046179-26-000677",
+   "filed": "2026-10-08"
   }
  ],
  "clusters": [
@@ -4871,8 +4871,8 @@
   },
   {
    "ticker": "FUL",
-   "insiders": 7,
-   "total_value": 596825.61
+   "insiders": 6,
+   "total_value": 521331.29
   },
   {
    "ticker": "SPG",
@@ -4898,6 +4898,11 @@
    "ticker": "WVVI",
    "insiders": 3,
    "total_value": 38830.33
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 8,
+   "total_value": 30803.32
   },
   {
    "ticker": "INLX",
