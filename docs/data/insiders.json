@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-08 20:21 UTC",
+ "updated_utc": "2026-10-08 20:37 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 8956.0,
-   "price": 79.4045,
-   "value": 711146.7,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4241,6 +4229,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-06",
+   "shares": 116345.0,
+   "price": 35.2323,
+   "value": 4099101.94,
+   "acc": "0001193125-26-417973",
+   "filed": "2026-10-08"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4932,7 +4932,6 @@
   }
  ],
  "seen": [
-  "0001983441-26-000016",
   "0001983441-26-000018",
   "0001983489-26-000016",
   "0001983489-26-000018",
@@ -7146,6 +7145,7 @@
   "0002078265-26-000424",
   "0002078265-26-000425",
   "0002078265-26-000428",
+  "0002078265-26-000432",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
