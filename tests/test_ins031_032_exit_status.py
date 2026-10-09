@@ -96,7 +96,7 @@ def test_04_a_queued_row_is_pending_until_its_fill_session_is_behind_the_latest_
     assert rc == 0 and "QUEUED 1" in out and "QUEUED_OVERDUE 0" in out
     _pin(pa, monkeypatch, "2026-10-02")                              # a full session later and still blank: PAST its fill session
     rc, out = _main(pa, monkeypatch, capsys)
-    assert rc == 3 and "QUEUED_OVERDUE 1" in out and "QUEUED 0" in out and "past its fill session 2026-10-01" in out
+    assert rc == 3 and "QUEUED_OVERDUE 1" in out and "QUEUED 0" in out and "PAST its fill session 2026-10-01" in out
     assert "UNVERIFIED — 1 open row(s)" in out and "QUEUED_OVERDUE 1" in out and "Exit 3." in out
     assert src.calls == 0                                            # the verdict needs no read at all
     # a row stamped before the open fills at THAT day's open
