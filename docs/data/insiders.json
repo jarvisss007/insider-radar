@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-09 17:59 UTC",
+ "updated_utc": "2026-10-09 18:15 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 38932.0,
-   "price": 85.9656,
-   "value": 3346812.74,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 48350.0,
-   "price": 77.4314,
-   "value": 3743808.19,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 15442.0,
-   "price": 244.1313,
-   "value": 3769875.53,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4478,6 +4442,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 1000.0,
+   "price": 4.4,
+   "value": 4400.0,
+   "acc": "0001062993-26-005264",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Zhang Kevin Xiaoqiang",
@@ -4742,6 +4718,30 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 1000.0,
+   "price": 4.21,
+   "value": 4210.0,
+   "acc": "0001062993-26-005264",
+   "filed": "2026-10-09"
+  },
+  {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 1000.0,
+   "price": 4.22,
+   "value": 4220.0,
+   "acc": "0001062993-26-005264",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "NRXS",
    "company": "Neuraxis, INC",
    "insider": "Henrichs Timothy Robert",
@@ -4900,6 +4900,11 @@
    "ticker": "INLX",
    "insiders": 2,
    "total_value": 20983.65
+  },
+  {
+   "ticker": "LCU",
+   "insiders": 2,
+   "total_value": 17218.0
   },
   {
    "ticker": "NRXS",
