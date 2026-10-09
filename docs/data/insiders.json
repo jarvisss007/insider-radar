@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-09 21:25 UTC",
+ "updated_utc": "2026-10-09 21:41 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 76723.0,
-   "price": 73.9686,
-   "value": 5675092.9,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4524,6 +4512,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "MWA",
+   "company": "Mueller Water Products, Inc.",
+   "insider": "Healy Brian C.",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 1376.0,
+   "price": 21.7496,
+   "value": 29927.45,
+   "acc": "0001225208-26-008364",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "IMMR",
    "company": "IMMERSION CORP",
    "insider": "Singer Eric",
@@ -4942,8 +4942,6 @@
   }
  ],
  "seen": [
-  "0001990547-26-000023",
-  "0001990732-26-000010",
   "0001990865-26-000009",
   "0001990865-26-000011",
   "0001990865-26-000013",
@@ -6971,6 +6969,8 @@
   "0002071844-26-001330",
   "0002071844-26-001332",
   "0002071844-26-001334",
+  "0002071844-26-001367",
+  "0002071844-26-001368",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
