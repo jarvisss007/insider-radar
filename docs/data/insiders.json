@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-09 17:12 UTC",
+ "updated_utc": "2026-10-09 17:59 UTC",
  "purchases": [
-  {
-   "ticker": "NC SLF INC. (CIK 1844684)",
-   "company": "NC SLF Inc.",
-   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 309661.0,
-   "price": 9.72,
-   "value": 3009904.92,
-   "acc": "0001104659-26-112487",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4478,6 +4466,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "SHARMAN MARK BRADY",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 1000.0,
+   "price": 4.388,
+   "value": 4388.0,
+   "acc": "0001062993-26-005260",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Zhang Kevin Xiaoqiang",
@@ -4934,7 +4934,6 @@
   }
  ],
  "seen": [
-  "0001986754-26-000004",
   "0001987058-26-000003",
   "0001987126-26-000002",
   "0001987126-26-000004",
@@ -7475,6 +7474,7 @@
   "0002111103-26-000035",
   "0002111103-26-000037",
   "0002111103-26-000039",
+  "0002111103-26-000041",
   "0002111348-26-000011",
   "0002111354-26-000016",
   "0002111465-26-000004",
