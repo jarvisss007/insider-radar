@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-09 13:31 UTC",
+ "updated_utc": "2026-10-09 13:47 UTC",
  "purchases": [
-  {
-   "ticker": "NC SLF INC. (CIK 1844684)",
-   "company": "NC SLF Inc.",
-   "insider": "UAW Chrysler Retirees Medical Benefits Plan",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 198631.0,
-   "price": 9.72,
-   "value": 1930693.32,
-   "acc": "0001104659-26-112487",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 28028.0,
-   "price": 81.8162,
-   "value": 2293144.45,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "CRBG",
    "company": "Corebridge Financial, Inc.",
@@ -4706,6 +4682,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-10-07",
+   "shares": 125000.0,
+   "price": 8.4012,
+   "value": 1050150.0,
+   "acc": "0001045463-26-000020",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4811,6 +4799,18 @@
    "price": 8.9,
    "value": 44500.0,
    "acc": "0001445826-26-000014",
+   "filed": "2026-10-09"
+  },
+  {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 90000.0,
+   "price": 8.5656,
+   "value": 770904.0,
+   "acc": "0001045463-26-000020",
    "filed": "2026-10-09"
   }
  ],
@@ -4934,9 +4934,6 @@
   }
  ],
  "seen": [
-  "0001985367-26-000002",
-  "0001985370-26-000002",
-  "0001985704-26-000011",
   "0001985704-26-000013",
   "0001986157-26-000016",
   "0001986754-26-000004",
@@ -7064,6 +7061,9 @@
   "0002077808-26-000059",
   "0002077808-26-000060",
   "0002077808-26-000061",
+  "0002077808-26-000065",
+  "0002077808-26-000066",
+  "0002077808-26-000067",
   "0002077810-26-000259",
   "0002077810-26-000262",
   "0002077810-26-000263",
