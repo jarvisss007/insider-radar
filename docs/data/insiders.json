@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-09 23:00 UTC",
+ "updated_utc": "2026-10-09 23:15 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 78726.0,
-   "price": 73.0777,
-   "value": 5753115.01,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4536,6 +4524,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "SKYA",
+   "company": "SkyAI, Inc.",
+   "insider": "Bastion Trading Ltd",
+   "role": "10% owner",
+   "date": "2026-10-07",
+   "shares": 44000.0,
+   "price": 1.7787,
+   "value": 78262.8,
+   "acc": "0000921895-26-002775",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "IMMR",
    "company": "IMMERSION CORP",
    "insider": "Singer Eric",
@@ -4942,7 +4942,6 @@
   }
  ],
  "seen": [
-  "0001990865-26-000013",
   "0001990997-26-000013",
   "0001991005-26-000004",
   "0001991005-26-000006",
@@ -7485,6 +7484,7 @@
   "0002111867-26-000011",
   "0002111867-26-000012",
   "0002111867-26-000013",
+  "0002111902-26-000005",
   "0002111904-26-000003",
   "0002111929-26-000016",
   "0002111933-26-000005",
