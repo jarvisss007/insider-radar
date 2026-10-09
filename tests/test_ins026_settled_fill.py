@@ -321,10 +321,13 @@ def test_10c_the_audit_fails_closed_with_no_calendar(tmp_path):
 def test_10d_a_stamped_queued_row_is_named_queued_with_when_it_fills(tmp_path):
     queued = _queued(tk="SYQ", date="2026-09-30")["thesis"]
     rc, out = _audit(tmp_path, [_row("SYQ", queued, "", date="2026-09-30"), _row("SYU", "[insider] x", "", date="2026-09-30")])
-    lines = {l.split()[1]: l for l in out.splitlines() if l.strip().startswith("QUEUED")}
+    # INS-032: this runs on the real clock, where a 2026-09-30 queued row is long past its fill session (QUEUED_OVERDUE, with the same "fills after" note),
+    # and a blank price with no marker is its own BLANK line (exit 1) - the QUEUED / pending split is pinned in tests/test_ins031_032_exit_status.py
+    lines = {l.split()[1]: l for l in out.splitlines() if l.strip().startswith(("QUEUED", "BLANK"))}
     assert "[QUEUED] present - fills after the 2026-10-01 session settles (INS-026)" in lines["SYQ"]
     assert "NO [QUEUED] marker" not in lines["SYQ"]
-    assert "price_at_call empty and NO [QUEUED] marker" in lines["SYU"]      # a blank price with no marker is still INS-007
+    assert "price_at_call empty and NO [QUEUED] marker" in lines["SYU"] and lines["SYU"].lstrip().startswith("BLANK")    # still INS-007, and now a failure
+    assert rc == 1
 
 
 # ---------------------------------------------------------------- 11 the two live rows

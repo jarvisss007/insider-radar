@@ -377,9 +377,9 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                         rec["note"] += " - the fill session could not be computed, so the row cannot be called pending"
                         buckets["QUEUED_OVERDUE"].append(rec)
                     elif fs < _settled():           # INS-032: past its fill session: the filler has had a full run since it settled
-                        rec["note"] = (f"[QUEUED] row is past its fill session {fs} (the latest settled session is {_settled()}) and is still unfilled - "
-                                       "stale_quote.py --fill-queued has had a run since; a zero-volume fill session rolls the owed open to the next traded bar "
-                                       "and clears by itself (INS-032)")
+                        rec["note"] += (f" - but the row is PAST its fill session {fs} (the latest settled session is {_settled()}) and is still unfilled: "
+                                        "stale_quote.py --fill-queued has had a run since; a zero-volume fill session rolls the owed open to the next traded bar "
+                                        "and clears by itself (INS-032)")
                         buckets["QUEUED_OVERDUE"].append(rec)
                     else:
                         buckets["QUEUED"].append(rec)     # before (or at) the latest settled session: legitimately pending
