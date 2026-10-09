@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-09 20:22 UTC",
+ "updated_utc": "2026-10-09 20:38 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 61700.0,
-   "price": 76.345,
-   "value": 4710486.5,
-   "acc": "0001193125-26-409116",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4622,6 +4610,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "SAH",
+   "company": "SONIC AUTOMOTIVE INC",
+   "insider": "Rusnak Paul P.",
+   "role": "10% owner",
+   "date": "2026-10-07",
+   "shares": 13701.0,
+   "price": 59.78,
+   "value": 819045.78,
+   "acc": "0001460471-26-000008",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
    "insider": "SCULLY WILLIAM P",
@@ -4939,7 +4939,6 @@
   }
  ],
  "seen": [
-  "0001989210-26-000017",
   "0001989210-26-000020",
   "0001989273-26-000014",
   "0001989382-26-000014",
@@ -7932,6 +7931,7 @@
   "0002155784-26-000004",
   "0002155883-26-000004",
   "0002156048-26-000004",
+  "0002156092-26-000005",
   "0002156224-26-000005",
   "0002156293-26-000005",
   "0002156505-26-000004",
