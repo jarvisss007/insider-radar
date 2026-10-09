@@ -39,14 +39,17 @@ A row is never silently passed over. Each lands in exactly one bucket:
   PASS          price inside the call-day bar's range
   FAIL          price outside it — the INS-014 defect, by how much and on which side
   NO_BAR        the call date is not a trading day for this ticker (halt, pre-IPO,
-                or the date is not a session) — a real finding, never a pass. A bar whose
-                session has simply not SETTLED yet is not a missing bar: it is tagged
-                `unsettled` (waiting, not missing; INS-029)
+                or the date is not a session) — a real finding, never a pass (exit 3, INS-031). A bar
+                whose session has simply not SETTLED yet is not a missing bar: it is tagged `unsettled`
+                (waiting, not missing; INS-029); a bar missing for the LATEST settled session alone is
+                tagged `grace` (the one-session grace, INS-031) and does not fail
   UNFETCHABLE   the ticker could not be priced: the source said not-found (delisted, bad
                 symbol) or did not answer (429, 5xx, timeout). The record says which (INS-029)
   QUEUED        `price_at_call` is empty and the row says [QUEUED] — the documented
                 state for a call written before its bar existed, awaiting the next
-                official open. Correct, not a violation.
+                official open. Correct, not a violation, until its fill session is past
+                (then it is QUEUED_OVERDUE, exit 3, INS-032).
+  BLANK         `price_at_call` is empty and the row carries NO [QUEUED] marker (INS-032): exit 1
   VOID          outcome=void — an excluded row, per INS-007
 Counts for every bucket are printed even when zero.
 
@@ -92,12 +95,33 @@ bars() used to cache ANY exception - a 429, a timeout - as a permanent "UNFETCHA
     nothing and is ignored; bars already held are never overwritten by a failed refresh.
   * the closing line no longer says "every priced row sits inside its call-day bar" when rows could not be checked: an UNVERIFIED paragraph names
     how many (UNFETCHABLE; NO_BAR for a settled day; a bar whose session has not settled yet), and the verdict reads "OK for the rows it could check".
-THE EXIT CODE BELOW IS UNCHANGED ON PURPOSE. Whether an unchecked row should fail the audit - and so redden the wired INS-028 check - is a ruling, not a
-defect fix (INS-029): the clause below was written deliberately, and changing it is the owner's decision.
-
-EXIT CODE: 1 if any row is FAIL or any post-fix row is REF_MISMATCH, else 0. NO_BAR / UNFETCHABLE do not fail the
-audit — they are reported, loudly, because they are not evidence of a violation
-and must not be laundered into one either.
+THE EXIT STATUS: AN AUDIT THAT CANNOT LOOK SAYS SO (INS-031, ruled 2026-10-04 (a); INS-032, 2026-10-09)
+------------------------------------------------------------------------------------------------------
+INS-031 was ruled by Anupam ('ok', 2026-10-04 17:43 PT) and executed 2026-10-09 by Claude under his 'fix all' delegation (2026-10-08 ~23:21 PT): a row the
+audit could not check no longer leaves it green. Three exit statuses carry the verdict:
+  1  looked, and a row FAILS: FAIL (price outside its bar), a post-fix REF_MISMATCH, or BLANK (INS-032: a blank price with no [QUEUED] marker). A
+     violation wins over everything else.
+  3  looked, nothing FAILS, but at least one OPEN row could not be verified: UNFETCHABLE; NO_BAR for a session that settled before the latest one; REF_PENDING
+     whose owed session settled before the latest one; QUEUED_OVERDUE (INS-032). It is not 1 (an unchecked row is not evidence of a violation and must not be
+     laundered into one) and not 0 (it must not be laundered into a pass either).
+  2  could not look at all (no sessions calendar); 0 = clean, or only legitimately WAITING rows.
+WHAT 'WAITING' MEANS, AND THE ONE-SESSION GRACE. The latest settled session (`_settled_day()`, the data's own clock) is S. A bar for a session AFTER S has not
+settled: a row owed it is waiting (NO_BAR tagged `unsettled`; REF_PENDING tagged `waiting`). A bar missing for S ITSELF is inside the one-session GRACE the ruling
+carries (Yahoo served null bars for ~2 mornings in September): NO_BAR / REF_PENDING tagged `grace`, reported loudly, exit 0 - but the SAME row one session later
+is a settled-day miss and exits 3. A bar missing for a session BEFORE S fails. Nothing about the grace is cached: it is recomputed from S on every run.
+INS-032 (the residual exit-0 paths), decided under that policy:
+  * BLANK  - `price_at_call` empty and no [QUEUED] marker (INS-007 refuses these at write time; one in the book is a writer bypass and the filler never touches it):
+    exit 1. It used to be filed under QUEUED with a note and pass.
+  * QUEUED_OVERDUE - a queued row (blank price, [QUEUED] marker) whose FILL SESSION (stale_quote.fill_session_for, REG-PP-002) is strictly before S: the filler
+    (`stale_quote.py --fill-queued`, step 1b of every run) has had a full run since that session settled and the row is still blank - exit 3. A queued row whose fill
+    session is S or later is legitimately pending (QUEUED, exit 0): S itself settled after the last filler run, which is what 'typically two sessions after D' means.
+    A fill session that cannot be computed is overdue (cannot say it is pending). A zero-volume fill session rolls the owed open to the next traded bar
+    (owed_open), so such a row can be overdue for the session it takes to roll: that is named in its note and clears by itself.
+  * REF_PENDING - 'pending' legitimately means the owed bar's SESSION IS NOT SETTLED YET (the bar is not in the settled-bar set because it cannot be). Once the owed
+    session is S the grace applies; once it is before S the row exits 3 (a settled session whose open/close the source never served, or a halt that outlasted S).
+    Only OPEN priced rows are reference-tested, and a REF_PENDING row has already passed the range test, so a pending row is never an unpriced one.
+No row is ever disposed of here: a row that can never be verified (a delisted ticker, a halted one) is a /void-row ruling for Anupam (BENCH-002), and the audit stays
+red on it until then - that is the point.
 """
 
 from __future__ import annotations
@@ -130,6 +154,7 @@ EPS = 0.001
 REF_TEST_FROM = "2026-09-28"   # INS-020: first session after the writer fix; rows from here must match exactly
 TAG_ONLY_BEFORE = "2026-10-01"   # INS-026: the writer reads settled bars only for fill sessions from here; no note is ever tagged there
 NOT_FOUND = "_not_found"         # INS-029: cache section {ticker: {why, settled, at}} - only the source's own "not found", only for the session it was said in
+EXIT_FAIL, EXIT_UNVERIFIED = 1, 3            # INS-031: 1 = a row FAILS; 3 = a row could not be checked; 2 (could not look at all) is _settled_day()'s
 _GAP = re.compile(r"\[REF-GAP INS-026: recorded ([0-9]+(?:\.[0-9]+)?) vs settled official open "
                   r"([0-9]+(?:\.[0-9]+)?) on (\d{4}-\d{2}-\d{2})")
 
@@ -313,9 +338,17 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
     rows = list(csv.DictReader(open(ledger)))
     cache = _load_cache()
     run_fail: dict = {}                      # INS-029: a ticker whose read failed transiently is not read again within this run
+    _memo: list = []
+
+    def _settled() -> str:
+        """The latest settled session, asked once per run and only when a row needs it (a ledger of priced-and-bar-held rows never asks twice)."""
+        if not _memo:
+            _memo.append(_settled_day())
+        return _memo[0]
     buckets = {k: [] for k in
                ("PASS", "FAIL", "NO_BAR", "UNFETCHABLE", "QUEUED", "VOID",
-                "REF_OK", "REF_MISMATCH", "REF_LEGACY", "REF_PENDING")}
+                "REF_OK", "REF_MISMATCH", "REF_LEGACY", "REF_PENDING",
+                "BLANK", "QUEUED_OVERDUE")}
     try:
         for r in rows:
             if since and r.get("date", "") < since:
@@ -339,10 +372,21 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                     except Exception:
                         fs = None
                     rec["note"] = "[QUEUED] present" + (f" - fills after the {fs} session settles (INS-026)" if fs else "")
+                    rec["fill_session"] = fs
+                    if fs is None:                  # INS-032: a pending row must be able to say what it is waiting for
+                        rec["note"] += " - the fill session could not be computed, so the row cannot be called pending"
+                        buckets["QUEUED_OVERDUE"].append(rec)
+                    elif fs < _settled():           # INS-032: past its fill session: the filler has had a full run since it settled
+                        rec["note"] = (f"[QUEUED] row is past its fill session {fs} (the latest settled session is {_settled()}) and is still unfilled - "
+                                       "stale_quote.py --fill-queued has had a run since; a zero-volume fill session rolls the owed open to the next traded bar "
+                                       "and clears by itself (INS-032)")
+                        buckets["QUEUED_OVERDUE"].append(rec)
+                    else:
+                        buckets["QUEUED"].append(rec)     # before (or at) the latest settled session: legitimately pending
                 else:
                     rec["note"] = ("price_at_call empty and NO [QUEUED] marker "
-                                   "— unfillable row, INS-007")
-                buckets["QUEUED"].append(rec)
+                                   "— unfillable row, INS-007 (INS-032: fails the audit)")
+                    buckets["BLANK"].append(rec)
                 continue
             try:
                 px = float(raw)
@@ -366,9 +410,13 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                                    date.fromisoformat(_rd))
                 _rd = got[0] if got else _rd       # a zero-volume fill session rolls to the traded bar
             if _rd not in b:
-                if _rd > _settled_day():           # INS-029: the owed bar belongs to a session that has not settled - not missing, not yet checkable
+                if _rd > _settled():               # INS-029: the owed bar belongs to a session that has not settled - not missing, not yet checkable
                     rec["note"] = f"the {_rd} bar has not settled yet - not a missing bar; checked once its session settles"
                     rec["unsettled"] = True
+                elif _rd == _settled():            # INS-031: the one-session grace - the latest settled session's bar may simply not be served yet
+                    rec["note"] = (f"no bar dated {_rd} for {tick} - inside the one-session grace (the latest settled session); "
+                                   "the same gap one session later FAILS the audit (INS-031)")
+                    rec["grace"] = True
                 else:
                     rec["note"] = f"no bar dated {_rd} for {tick}"
                 buckets["NO_BAR"].append(rec)
@@ -401,10 +449,46 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
                         ref["alt_day"] = alt[0] if alt else None
                 elif v == "REF_MISMATCH":   # INS-026: a tag only - the row stays a mismatch and the audit still fails
                     ref["disclosed"] = bool(disclosed_gap(_th, px, oday, owed))
+                elif v == "REF_PENDING":    # INS-032: pending = the owed session has not settled (waiting); the latest settled one gets the grace; older fails
+                    if str(oday) > _settled():
+                        ref["waiting"] = True
+                    elif str(oday) == _settled():
+                        ref["grace"] = True
                 buckets[v].append(ref)
     finally:
         _save_cache(cache)
     return buckets
+
+
+def unverified(b: dict) -> list:
+    """INS-031/032. The open rows the audit could NOT verify and that are past any waiting or grace -> [(bucket, record, why)]. Exit 3 iff this is non-empty
+    and nothing FAILS. Waiting rows (an `unsettled` or `grace` NO_BAR, a `waiting` or `grace` REF_PENDING, a QUEUED row before its fill session) are not here."""
+    out = [("UNFETCHABLE", r, r.get("source") or "no series") for r in b.get("UNFETCHABLE", [])]
+    out += [("NO_BAR", r, "no bar for a settled session") for r in b.get("NO_BAR", []) if not r.get("unsettled") and not r.get("grace")]
+    out += [("REF_PENDING", r, "owed session settled before the latest one, no reference bar") for r in b.get("REF_PENDING", [])
+            if not r.get("waiting") and not r.get("grace")]
+    out += [("QUEUED_OVERDUE", r, "queued row past its fill session") for r in b.get("QUEUED_OVERDUE", [])]
+    return out
+
+
+def waiting(b: dict) -> list:
+    """INS-031/032. Rows that are legitimately not checkable YET (exit 0) -> [(bucket, record, why)]."""
+    out = [("NO_BAR", r, "bar not settled yet" if r.get("unsettled") else "inside the one-session grace")
+           for r in b.get("NO_BAR", []) if r.get("unsettled") or r.get("grace")]
+    out += [("REF_PENDING", r, "owed session not settled yet" if r.get("waiting") else "inside the one-session grace")
+            for r in b.get("REF_PENDING", []) if r.get("waiting") or r.get("grace")]
+    out += [("QUEUED", r, "before its fill session") for r in b.get("QUEUED", [])]
+    return out
+
+
+def exit_code(b: dict) -> int:
+    """INS-031/032. 1 = looked, and a row FAILS (FAIL, a post-fix REF_MISMATCH, or BLANK): a violation wins over everything. 3 = looked, nothing fails, but an
+    open row could not be verified past any waiting/grace (see unverified()). 0 = clean or only waiting rows. (2 = could not look at all: _settled_day().)"""
+    if b.get("FAIL") or b.get("REF_MISMATCH") or b.get("BLANK"):
+        return EXIT_FAIL
+    if unverified(b):
+        return EXIT_UNVERIFIED
+    return 0
 
 
 def _selftest() -> int:
@@ -469,12 +553,13 @@ def main() -> int:
     b = audit(open_only=a.open_only, since=a.since, refresh=a.refresh)
     if a.json:
         print(json.dumps(b, indent=1))
-        return 1 if (b["FAIL"] or b["REF_MISMATCH"]) else 0
+        return exit_code(b)
     n = {k: len(v) for k, v in b.items()}
     print(f"INS-014 price audit — {date.today().isoformat()}")
     print(f"  PASS {n['PASS']}  FAIL {n['FAIL']}  NO_BAR {n['NO_BAR']}  "
-          f"UNFETCHABLE {n['UNFETCHABLE']}  QUEUED {n['QUEUED']}  VOID {n['VOID']}")
-    for k in ("FAIL", "NO_BAR", "UNFETCHABLE", "QUEUED"):
+          f"UNFETCHABLE {n['UNFETCHABLE']}  QUEUED {n['QUEUED']}  VOID {n['VOID']}  "
+          f"BLANK {n['BLANK']}  QUEUED_OVERDUE {n['QUEUED_OVERDUE']}")
+    for k in ("FAIL", "BLANK", "NO_BAR", "UNFETCHABLE", "QUEUED_OVERDUE", "QUEUED"):
         for r in b[k]:
             extra = (f"{r.get('side')} by {r.get('gap_pct')}% "
                      f"(bar {r.get('low')}-{r.get('high')})"
@@ -491,31 +576,44 @@ def main() -> int:
                   + (f" | if written mid-session: {r['alt_day']} open {r['alt_next_open']}"
                      if r.get("alt_day") else "")
                   + ((" | disclosed (INS-026), awaiting ruling" if r.get("disclosed") else " | UNDISCLOSED")
-                     if k == "REF_MISMATCH" else ""))
-    unv = len(b["UNFETCHABLE"]) + sum(1 for r in b["NO_BAR"] if not r.get("unsettled"))
-    waiting = sum(1 for r in b["NO_BAR"] if r.get("unsettled"))
-    if unv or waiting:                         # INS-029: say so before any verdict
-        print(f"\nUNVERIFIED — {unv + waiting} priced row(s) were not checked: UNFETCHABLE {n['UNFETCHABLE']}, "
-              f"NO_BAR for a settled day {unv - n['UNFETCHABLE']}, bar not settled yet {waiting}. An unchecked row is not a pass (INS-029). "
-              "A 'transient' source error is read again next run, a 'not_found' one after the next close; the exit status does not change "
-              "(whether an unchecked row should fail the audit is a ruling).")
+                     if k == "REF_MISMATCH" else "")
+                  + (" | WAITING: the owed session has not settled yet" if k == "REF_PENDING" and r.get("waiting") else "")
+                  + (" | inside the one-session grace (the owed session is the latest settled one)" if k == "REF_PENDING" and r.get("grace") else "")
+                  + (" | PAST THE SETTLE POINT: the owed session settled before the latest one (INS-032)" if k == "REF_PENDING" and not r.get("waiting") and not r.get("grace") else ""))
+    rc = exit_code(b)
+    unv, wait = unverified(b), [w for w in waiting(b) if w[0] != "QUEUED"]
+    if unv:                                    # INS-029/031: say so before any verdict
+        by = {}
+        for k, _r, _why in unv:
+            by[k] = by.get(k, 0) + 1
+        print(f"\nUNVERIFIED — {len(unv)} open row(s) could not be checked and are past any waiting or grace: "
+              + ", ".join(f"{k} {v}" for k, v in by.items())
+              + ". An unchecked row is not a pass (INS-029) and fails the audit (INS-031/032)"
+              + (" - Exit 3." if rc == EXIT_UNVERIFIED else ".")
+              + " A 'transient' source error is read again next run, a 'not_found' one after the next close; a row that can never be verified is a /void-row ruling.")
+    elif wait:
+        by = {}
+        for k, r, why in wait:
+            by[why] = by.get(why, 0) + 1
+        print(f"\nWAITING — {len(wait)} row(s) are not checkable yet by design and do not fail the audit: "
+              + ", ".join(f"{v} {k}" for k, v in by.items()) + ".")
     if b["REF_MISMATCH"]:
         n_disc = sum(1 for r in b["REF_MISMATCH"] if r.get("disclosed"))
         print(f"\nFAIL — {n['REF_MISMATCH']} open row(s) dated >= {REF_TEST_FROM} do not carry the price "
               "the rule owes (INS-020). The writer queues unsettled calls; find what bypassed it."
               + (f" {n_disc} of them carry a matching [REF-GAP INS-026] disclosure and await a ruling (restate, or waive); "
                  f"{n['REF_MISMATCH'] - n_disc} are UNDISCLOSED." if n_disc else ""))
-        return 1
-    if b["FAIL"]:
+    elif b["FAIL"]:
         print(f"\nFAIL — {n['FAIL']} row(s) priced outside their own call-day bar. "
               "INS-014 is live. Restatement of UNSCORED rows is a ruling "
               "(BENCH-002 forbids touching scored ones).")
-        return 1
-    if unv or waiting:
-        print("\nOK for the rows it could check - not for the UNVERIFIED rows above.")
-        return 0
-    print("\nOK — every priced row sits inside its call-day bar.")
-    return 0
+    if b["BLANK"]:
+        print(f"\nFAIL — {n['BLANK']} row(s) carry no price and no [QUEUED] marker (INS-007 refuses these at write time; the filler never touches them; "
+              "INS-032). A writer bypassed the guard; a disposal is a /void-row ruling.")
+    if rc == 0:
+        print("\nOK for the rows it could check - not for the WAITING rows above." if wait
+              else "\nOK — every priced row sits inside its call-day bar.")
+    return rc
 
 
 if __name__ == "__main__":

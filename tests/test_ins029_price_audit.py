@@ -1,10 +1,11 @@
-"""INS-029 - price_audit.py no longer turns a failed read into a permanent verdict, and no longer calls an unchecked row a pass. Offline.
+"""INS-029 (+ INS-031 exit status) - price_audit.py no longer turns a failed read into a permanent verdict, and an unchecked row shows in the exit status. Offline.
 
 Run:  /opt/anaconda3/bin/python -m pytest -q ~/insider-radar/tests/test_ins029_price_audit.py
 
-The defect: bars() cached ANY exception (a 429, a timeout) as a permanent "UNFETCHABLE", so one transient error could hide a row's verification for good
-(an AAPL row priced 1.00 stayed unchecked once the cache was poisoned). The EXIT STATUS is deliberately NOT changed here (HEAD's clause: NO_BAR / UNFETCHABLE do
-not fail the audit; changing it is a ruling) - what changes is the cache and the closing line. Every test runs the audit as shipped, in a scratch root
+The defect: bars() cached ANY exception (a 429, a timeout) as a permanent "UNFETCHABLE", and UNFETCHABLE / NO_BAR exited 0, so one transient error could hide a
+wrong price for good (an AAPL row priced 1.00 audited clean once the cache was poisoned). INS-029 fixed the cache and the closing line; INS-031 (ruled 2026-10-04,
+executed 2026-10-09) made the exit status say it: 3 = looked, nothing FAILS, but an open row could not be verified. The one-session grace, BLANK, QUEUED_OVERDUE and
+REF_PENDING (INS-032) are tested in test_ins031_032_exit_status.py. Every test runs the audit as shipped, in a scratch root
 (its own ledger, its own bar cache), with the network replaced by a stub and the settled session pinned - no live file, no clock dependence.
 
 Source reads (_bars):
@@ -15,15 +16,14 @@ Source reads (_bars):
  4 a pre-INS-029 permanent "UNFETCHABLE" marker proves nothing: it is ignored and replaced
  5 a failed refresh never overwrites good bars already cached; bars already held still verify the rows they cover after a later "not found"
  6 a ticker that failed transiently is not read again within a run
-The audit's verdict (main):
- 7 a transient failure on a priced open row: UNFETCHABLE 1 with the cause on the record (`source: transient`), nothing cached, an UNVERIFIED paragraph, a
-   qualified OK ("OK for the rows it could check"), and the exit status UNCHANGED (0)
- 8 a settled day with no bar (NO_BAR), and a call dated a non-session: the same UNVERIFIED reading, exit 0
- 9 a bar whose session has not settled is not a missing bar: NO_BAR tagged `unsettled`, named as waiting, never "every priced row sits inside its bar"
- 9b the boundary: a row dated EXACTLY the last settled session with no bar is missing (not unsettled); the next session is waiting
-10 QUEUED rows alone leave the plain OK (they are not priced rows); beside an unsettled row the OK is qualified
-11 a violation wins: FAIL plus UNFETCHABLE exits 1 and prints both; a clean run prints the plain OK and exits 0
-12 --json: the exit status is HEAD's (1 only for FAIL / REF_MISMATCH), stdout is still only the JSON the resolver parses, records carry `source` / `unsettled`
+Exit status (main):
+ 7 a transient failure on a priced open row: exit 3, UNFETCHABLE 1, the cause on the record (`source: transient`), nothing cached, an UNVERIFIED paragraph
+ 8 a settled day with no bar (NO_BAR) older than the latest settled session, and a call dated a non-session: exit 3
+ 9 a bar whose session has not settled is not a missing bar: NO_BAR tagged `unsettled`, a WAITING paragraph, exit 0
+9b the boundary: a row dated EXACTLY the latest settled session with no bar is inside the one-session grace (tagged `grace`, exit 0); the next session is waiting
+10 QUEUED rows before their fill session stay non-failing (exit 0), with or without an unsettled neighbour
+11 a violation wins: FAIL plus UNFETCHABLE exits 1 and prints both lines; a clean run prints OK and exits 0
+12 --json: exit 3 on an unchecked row, stdout still only the JSON the resolver parses
 """
 import csv
 import datetime as dt
@@ -226,14 +226,13 @@ def test_06_a_transient_failure_is_not_read_again_within_a_run(pa, monkeypatch):
 
 
 # ---------------------------------------------------------------- 7
-def test_07_a_transient_failure_on_a_priced_row_is_named_not_cached_and_not_called_ok(pa, monkeypatch, capsys):
+def test_07_a_transient_failure_on_a_priced_row_exits_3_and_says_why(pa, monkeypatch, capsys):
     _ledger(pa, [_row("AAPL", price="1.00")])                                         # a wrong price nobody can check this run
     _Source(monkeypatch, pa, _http(429))
     rc, out = _main(pa, monkeypatch, capsys)
-    assert rc == 0                                                                    # HEAD's exit clause stands: whether this should fail the audit is a ruling
-    assert "UNFETCHABLE 1" in out and "transient fetch error (HTTP 429)" in out
-    assert "UNVERIFIED — 1 priced row(s) were not checked: UNFETCHABLE 1, NO_BAR for a settled day 0, bar not settled yet 0" in out
-    assert "OK for the rows it could check - not for the UNVERIFIED rows above." in out and "OK — every priced row sits inside" not in out
+    assert rc == 3 and "UNFETCHABLE 1" in out and "transient fetch error (HTTP 429)" in out
+    assert "UNVERIFIED — 1 open row(s) could not be checked and are past any waiting or grace: UNFETCHABLE 1" in out and "Exit 3." in out
+    assert "OK —" not in out and "OK for the rows" not in out
     assert json.load(open(pa.CACHE)) == {}                                           # the poisoned-cache path is closed
     # and with the source back, the same row is checked, and the wrong price is caught
     _Source(monkeypatch, pa, _chart({"2026-09-29": (150.0, 155.0, 151.0, 154.0, 5000)}))
@@ -242,15 +241,14 @@ def test_07_a_transient_failure_on_a_priced_row_is_named_not_cached_and_not_call
 
 
 # ---------------------------------------------------------------- 8
-def test_08_a_settled_day_with_no_bar_and_a_non_session_call_date_are_unverified(pa, monkeypatch, capsys):
-    _ledger(pa, [_row("SYA", "2026-09-28", "10.0")])                                  # settled (09-28 <= 10-01), but the source has no 09-28 bar
+def test_08_a_settled_day_with_no_bar_and_a_non_session_call_date_exit_3(pa, monkeypatch, capsys):
+    _ledger(pa, [_row("SYA", "2026-09-28", "10.0")])                                  # settled (09-28 < 10-01), but the source has no 09-28 bar
     _Source(monkeypatch, pa, _chart(GOOD))
     rc, out = _main(pa, monkeypatch, capsys)
-    assert rc == 0 and "NO_BAR 1" in out and "no bar dated 2026-09-28 for SYA" in out
-    assert "UNVERIFIED — 1 priced row(s) were not checked: UNFETCHABLE 0, NO_BAR for a settled day 1, bar not settled yet 0" in out and "OK — every priced row" not in out
+    assert rc == 3 and "NO_BAR 1" in out and "no bar dated 2026-09-28 for SYA" in out and "UNVERIFIED — 1 open row(s)" in out and "NO_BAR 1" in out
     _ledger(pa, [_row("SYB", "2026-09-26", "10.0")])                                  # a Saturday
     rc, out = _main(pa, monkeypatch, capsys)
-    assert rc == 0 and "no bar dated 2026-09-26 for SYB" in out and "UNVERIFIED — 1" in out
+    assert rc == 3 and "no bar dated 2026-09-26 for SYB" in out and "UNVERIFIED — 1" in out
 
 
 # ---------------------------------------------------------------- 9
@@ -259,31 +257,32 @@ def test_09_a_bar_that_has_not_settled_is_waiting_not_missing(pa, monkeypatch, c
     _Source(monkeypatch, pa, _chart(GOOD))
     rc, out = _main(pa, monkeypatch, capsys)
     assert rc == 0 and "NO_BAR 1" in out and "has not settled yet - not a missing bar" in out
-    assert "UNVERIFIED — 1 priced row(s) were not checked: UNFETCHABLE 0, NO_BAR for a settled day 0, bar not settled yet 1" in out
-    assert "OK for the rows it could check" in out and "OK — every priced row sits inside" not in out
+    assert "WAITING — 1 row(s) are not checkable yet by design and do not fail the audit" in out and "UNVERIFIED" not in out
+    assert "OK for the rows it could check - not for the WAITING rows above." in out and "OK — every priced row sits inside" not in out
     b = pa.audit(open_only=True)
-    assert b["NO_BAR"][0]["unsettled"] is True
+    assert b["NO_BAR"][0]["unsettled"] is True and pa.exit_code(b) == 0
 
 
-def test_09b_the_settled_session_itself_is_missing_the_next_one_is_waiting(pa, monkeypatch):
+def test_09b_the_latest_settled_session_gets_the_one_session_grace_the_next_one_is_waiting(pa, monkeypatch, capsys):
     _Source(monkeypatch, pa, _chart(GOOD))
-    _ledger(pa, [_row("SYA", SETTLED, "10.0")])                                       # the last SETTLED session: its bar must exist, so its absence is a finding
+    _ledger(pa, [_row("SYA", SETTLED, "10.0")])                                       # the latest SETTLED session: its bar may simply not be served yet -> grace, loud, exit 0
     b = pa.audit(open_only=True)
-    assert len(b["NO_BAR"]) == 1 and not b["NO_BAR"][0].get("unsettled") and b["NO_BAR"][0]["note"] == f"no bar dated {SETTLED} for SYA"
+    assert len(b["NO_BAR"]) == 1 and not b["NO_BAR"][0].get("unsettled") and b["NO_BAR"][0]["grace"] is True
+    assert "inside the one-session grace" in b["NO_BAR"][0]["note"] and pa.exit_code(b) == 0
     _ledger(pa, [_row("SYB", "2026-10-02", "10.0")])                                  # the day after: not settled yet, so waiting
     b = pa.audit(open_only=True)
-    assert len(b["NO_BAR"]) == 1 and b["NO_BAR"][0]["unsettled"] is True
+    assert len(b["NO_BAR"]) == 1 and b["NO_BAR"][0]["unsettled"] is True and "grace" not in b["NO_BAR"][0]
 
 
 # ---------------------------------------------------------------- 10
-def test_10_queued_rows_are_not_priced_rows(pa, monkeypatch, capsys):
+def test_10_queued_rows_before_their_fill_session_stay_non_failing(pa, monkeypatch, capsys):
     queued = ("[insider] x [QUEUED at 2026-09-30T08:35 PT (INS-020/REG-PP-002): written before the 2026-09-30 close settled; "
               "fills at the first official open after registration]")
-    _ledger(pa, [_row("SYQ", "2026-09-30", "", queued)])
+    _ledger(pa, [_row("SYQ", "2026-09-30", "", queued)])                              # fill session 10-01 == the latest settled: the filler has not had a run since
     _Source(monkeypatch, pa, _http(429))                                              # never read: a QUEUED row has no price to audit
     rc, out = _main(pa, monkeypatch, capsys)
     assert rc == 0 and "QUEUED 1" in out and "fills after the" in out and "OK — every priced row sits inside its call-day bar." in out
-    assert "UNVERIFIED" not in out                                                    # a QUEUED row is waiting by design: it does not qualify the OK
+    assert "UNVERIFIED" not in out and "WAITING" not in out                           # a QUEUED row is waiting by design: it does not qualify the OK
     _ledger(pa, [_row("SYQ", "2026-09-30", "", queued), _row("SYA", "2026-10-02", "10.0")])
     _Source(monkeypatch, pa, _chart(GOOD))
     rc, out = _main(pa, monkeypatch, capsys)
@@ -296,11 +295,11 @@ def test_11_a_violation_wins_and_a_clean_run_is_plainly_ok(pa, monkeypatch, caps
     _Source(monkeypatch, pa, _chart(GOOD), _http(429))                                # SYA's bar: price 12.0 is above the 9-11 range -> FAIL; SYB's read fails
     rc, out = _main(pa, monkeypatch, capsys)                                          # a post-fix REF_MISMATCH wins over an unreadable neighbour
     assert rc == 1 and "FAIL — 1 open row(s) dated >= 2026-09-28 do not carry the price the rule owes" in out
-    assert "UNVERIFIED — 1 priced row(s) were not checked" in out and "OK for the rows it could check" not in out
+    assert "UNVERIFIED — 1 open row(s)" in out and "Exit 3." not in out               # the exit is 1, and the text does not claim otherwise
     _ledger(pa, [_row("SYL", "2026-09-25", "12.0"), _row("SYB", "2026-09-29", "10.0")])
     _Source(monkeypatch, pa, _chart({"2026-09-25": (9.0, 11.0, 9.5, 10.0, 1000)}), _http(429))
     rc, out = _main(pa, monkeypatch, capsys)                                          # a legacy range FAIL (dated before the reference test) wins too
-    assert rc == 1 and "FAIL — 1 row(s) priced outside their own call-day bar" in out and "UNVERIFIED — 1 priced row(s)" in out
+    assert rc == 1 and "FAIL — 1 row(s) priced outside their own call-day bar" in out and "UNVERIFIED — 1 open row(s)" in out and "Exit 3." not in out
     _ledger(pa, [_row("SYA", "2026-09-29", "10.0")])
     _Source(monkeypatch, pa, _chart(GOOD))
     rc, out = _main(pa, monkeypatch, capsys)
@@ -308,17 +307,17 @@ def test_11_a_violation_wins_and_a_clean_run_is_plainly_ok(pa, monkeypatch, caps
 
 
 # ---------------------------------------------------------------- 12
-def test_12_json_mode_keeps_the_exit_status_and_stays_pure_json(pa, monkeypatch, capsys):
+def test_12_json_mode_carries_the_exit_status_and_stays_pure_json(pa, monkeypatch, capsys):
     _ledger(pa, [_row("SYA", "2026-09-29", "10.0"), _row("SYB", "2026-09-29", "10.0")])
     _Source(monkeypatch, pa, _chart(GOOD), _http(429))
     rc, out = _main(pa, monkeypatch, capsys, "--json")
     d = json.loads(out)                                                               # the resolver's checks json.loads(stdout): nothing else may print
-    assert rc == 0 and len(d["UNFETCHABLE"]) == 1 and d["UNFETCHABLE"][0]["ticker"] == "SYB" and d["UNFETCHABLE"][0]["source"] == "transient"
-    assert len(d["PASS"]) == 1 and d["REF_MISMATCH"] == [] and d["FAIL"] == [] and "REF_OK" in d
+    assert rc == 3 and len(d["UNFETCHABLE"]) == 1 and d["UNFETCHABLE"][0]["ticker"] == "SYB" and d["UNFETCHABLE"][0]["source"] == "transient"
+    assert len(d["PASS"]) == 1 and d["REF_MISMATCH"] == [] and d["FAIL"] == [] and "REF_OK" in d and d["BLANK"] == [] and d["QUEUED_OVERDUE"] == []
     _ledger(pa, [_row("SYA", "2026-09-29", "12.0")])
     _Source(monkeypatch, pa, _chart(GOOD))
     rc, out = _main(pa, monkeypatch, capsys, "--json")
-    assert rc == 1 and len(json.loads(out)["REF_MISMATCH"]) == 1                      # a violation still exits 1, as at HEAD
+    assert rc == 1 and len(json.loads(out)["REF_MISMATCH"]) == 1                      # a violation exits 1
     _ledger(pa, [_row("SYA", "2026-09-29", "10.0")])
     rc, out = _main(pa, monkeypatch, capsys, "--json")
     assert rc == 0 and json.loads(out)["UNFETCHABLE"] == []
