@@ -39,6 +39,16 @@ class Ticker:
                              "Volume": [f(b[5]) for b in rows]}, index=idx)
 
     @property
+    def history_metadata(self):
+        # FCST-011: real yfinance 0.2.66 fills this from the same chart payload as the bars; {"instrumentType": "EQUITY" | "ETF" |
+        # "INDEX" | "CURRENCY" | "FUTURE" | ...}. An entry's optional "type" feeds it; no "type" = no instrumentType (an empty dict),
+        # and "type": "RAISE" makes the property raise, as the real one does when history() has not been called.
+        t = self._d.get("type")
+        if t == "RAISE":
+            raise RuntimeError(f"fake history_metadata failure for {self.tk}")
+        return {"instrumentType": t} if t else {}
+
+    @property
     def splits(self):
         # Real yfinance 0.2.66: `.splits` reads history(period="max") with raise_errors=False, so a failed
         # full-history fetch comes back as an EMPTY Series — the defect INS-022 closes. Emulated here.
