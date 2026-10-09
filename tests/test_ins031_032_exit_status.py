@@ -15,6 +15,7 @@ Every test runs the audit as shipped in a scratch root with a stubbed network an
  6 REF_PENDING: the latest settled session = grace (exit 0); an older one = past the settle point (exit 3); null-close non-queued rows follow the same rule
  7 the exit-code table: violation > unverified > waiting; BLANK is a violation; waiting rows never fail
  8 --json carries the same exit status and the new buckets, and stays pure JSON
+ 8b a SCORED row's gap is history, not red: only open rows are unverified (a bare run without --open-only still carries them in the buckets)
  9 the live-shaped regression: a priced row inside its bar and a QUEUED row before its fill session exit 0 (the INS-028 monitor stays green on a healthy book)
 """
 import json
@@ -189,3 +190,11 @@ def test_09_a_healthy_book_stays_green(pa, monkeypatch, capsys):
     _Source(monkeypatch, pa, _chart(GOOD))
     rc, out = _main(pa, monkeypatch, capsys)
     assert rc == 0 and "PASS 1" in out and "QUEUED 1" in out and "OK — every priced row sits inside its call-day bar." in out
+
+
+# ---------------------------------------------------------------- 8b
+def test_08b_a_scored_rows_gap_is_not_an_open_unverified_row(pa):
+    base = {k: [] for k in ("PASS", "FAIL", "NO_BAR", "UNFETCHABLE", "QUEUED", "VOID", "REF_OK", "REF_MISMATCH", "REF_LEGACY", "REF_PENDING", "BLANK", "QUEUED_OVERDUE")}
+    assert pa.exit_code({**base, "NO_BAR": [{"outcome": "right"}], "UNFETCHABLE": [{"outcome": "wrong"}], "QUEUED_OVERDUE": [{"outcome": "right"}]}) == 0
+    assert pa.exit_code({**base, "NO_BAR": [{"outcome": ""}, {"outcome": "right"}]}) == 3
+    assert pa.exit_code({**base, "BLANK": [{"outcome": "right"}]}) == 0 and pa.exit_code({**base, "BLANK": [{"outcome": ""}]}) == 1

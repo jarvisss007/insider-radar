@@ -4,7 +4,7 @@ Run:  /opt/anaconda3/bin/python -m pytest -q ~/insider-radar/tests/test_ins029_p
 
 The defect: bars() cached ANY exception (a 429, a timeout) as a permanent "UNFETCHABLE", and UNFETCHABLE / NO_BAR exited 0, so one transient error could hide a
 wrong price for good (an AAPL row priced 1.00 audited clean once the cache was poisoned). INS-029 fixed the cache and the closing line; INS-031 (ruled 2026-10-04,
-executed 2026-10-09) made the exit status say it: 3 = looked, nothing FAILS, but an open row could not be verified. The one-session grace, BLANK, QUEUED_OVERDUE and
+executed 2026-10-08 PT) made the exit status say it: 3 = looked, nothing FAILS, but an open row could not be verified. The one-session grace, BLANK, QUEUED_OVERDUE and
 REF_PENDING (INS-032) are tested in test_ins031_032_exit_status.py. Every test runs the audit as shipped, in a scratch root
 (its own ledger, its own bar cache), with the network replaced by a stub and the settled session pinned - no live file, no clock dependence.
 

@@ -31,8 +31,10 @@ without discretion — the agent is scoring the SIGNAL, not its own taste.
    (price outside its bar, a post-fix REF_MISMATCH, or a BLANK row - a blank price with no [QUEUED] marker); 3 = a row
    could not be verified (UNFETCHABLE; NO_BAR for a settled day; QUEUED_OVERDUE, a queued row past its fill session;
    REF_PENDING past the settle point). A bar missing for the latest settled session alone gets a one-session grace
-   (exit 0, listed). Report any non-zero exit and name the rows in the brief; never fill, price or dispose of a row
-   by hand - a row that can never be verified is a /void-row ruling for Anupam.
+   (exit 0, listed); exit 2 = it could not look at all (no sessions calendar). Report any non-zero exit and name the
+   rows in the brief; never fill, price or dispose of a row by hand. A ticker that vanished after pricing is scored by
+   the grader (step 2: unfetchable or delisted = `wrong`) when its check date comes - it is not voided, and the audit
+   stays red on it until then. Any other row that can never be verified is a /void-row ruling for Anupam.
 
 2. **Score due calls — by the grader, never by hand (INS-018).** `~/bin/grade_all_due.py` (launchd com.anupam.grade-all-due, 13:40 PT) is the only writer of `price_at_check` and `outcome` on this ledger. Never fetch a close yourself and never write either field; read what it graded and stalled in `~/bin/logs/grade-all-due.log` and report both in the brief. The rule it implements is unchanged and every clause is the grader's:
 - At a SETTLED check date, take the official close on `check_date`; set `outcome` to `right` iff `price_at_check > price_at_call`, else `wrong`. No excuses, no "almost", no "it was up until last week".

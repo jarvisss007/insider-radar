@@ -95,9 +95,9 @@ bars() used to cache ANY exception - a 429, a timeout - as a permanent "UNFETCHA
     nothing and is ignored; bars already held are never overwritten by a failed refresh.
   * the closing line no longer says "every priced row sits inside its call-day bar" when rows could not be checked: an UNVERIFIED paragraph names
     how many (UNFETCHABLE; NO_BAR for a settled day; a bar whose session has not settled yet), and the verdict reads "OK for the rows it could check".
-THE EXIT STATUS: AN AUDIT THAT CANNOT LOOK SAYS SO (INS-031, ruled 2026-10-04 (a); INS-032, 2026-10-09)
+THE EXIT STATUS: AN AUDIT THAT CANNOT LOOK SAYS SO (INS-031, ruled 2026-10-04 (a); INS-032, decided 2026-10-08)
 ------------------------------------------------------------------------------------------------------
-INS-031 was ruled by Anupam ('ok', 2026-10-04 17:43 PT) and executed 2026-10-09 by Claude under his 'fix all' delegation (2026-10-08 ~23:21 PT): a row the
+INS-031 was ruled by Anupam ('ok', 2026-10-04 17:43 PT) and executed 2026-10-08 (PT) by Claude under his 'fix all' delegation (2026-10-08 ~23:21 PT): a row the
 audit could not check no longer leaves it green. Three exit statuses carry the verdict:
   1  looked, and a row FAILS: FAIL (price outside its bar), a post-fix REF_MISMATCH, or BLANK (INS-032: a blank price with no [QUEUED] marker). A
      violation wins over everything else.
@@ -105,10 +105,12 @@ audit could not check no longer leaves it green. Three exit statuses carry the v
      whose owed session settled before the latest one; QUEUED_OVERDUE (INS-032). It is not 1 (an unchecked row is not evidence of a violation and must not be
      laundered into one) and not 0 (it must not be laundered into a pass either).
   2  could not look at all (no sessions calendar); 0 = clean, or only legitimately WAITING rows.
-WHAT 'WAITING' MEANS, AND THE ONE-SESSION GRACE. The latest settled session (`_settled_day()`, the data's own clock) is S. A bar for a session AFTER S has not
+WHAT 'WAITING' MEANS, AND THE ONE-SESSION GRACE. The latest settled session (`_settled_day()` = the sessions calendar's settle clock, 13:05 PT on a session day) is S. A bar for a session AFTER S has not
 settled: a row owed it is waiting (NO_BAR tagged `unsettled`; REF_PENDING tagged `waiting`). A bar missing for S ITSELF is inside the one-session GRACE the ruling
 carries (Yahoo served null bars for ~2 mornings in September): NO_BAR / REF_PENDING tagged `grace`, reported loudly, exit 0 - but the SAME row one session later
 is a settled-day miss and exits 3. A bar missing for a session BEFORE S fails. Nothing about the grace is cached: it is recomputed from S on every run.
+In clock terms: a bar missing for session D is graced at every run before D+1's 13:05 PT settle (the 05:50 PT morning run) and exits 3 from the first run after it (the
+15:30 PT resolver), so the grace is one morning plus the hours to the next settle - the ruling's wording ('the latest settled session alone'), not a longer one.
 INS-032 (the residual exit-0 paths), decided under that policy:
   * BLANK  - `price_at_call` empty and no [QUEUED] marker (INS-007 refuses these at write time; one in the book is a writer bypass and the filler never touches it):
     exit 1. It used to be filed under QUEUED with a note and pass.
@@ -463,11 +465,12 @@ def audit(ledger: str = LEDGER, open_only: bool = False,
 def unverified(b: dict) -> list:
     """INS-031/032. The open rows the audit could NOT verify and that are past any waiting or grace -> [(bucket, record, why)]. Exit 3 iff this is non-empty
     and nothing FAILS. Waiting rows (an `unsettled` or `grace` NO_BAR, a `waiting` or `grace` REF_PENDING, a QUEUED row before its fill session) are not here."""
-    out = [("UNFETCHABLE", r, r.get("source") or "no series") for r in b.get("UNFETCHABLE", [])]
-    out += [("NO_BAR", r, "no bar for a settled session") for r in b.get("NO_BAR", []) if not r.get("unsettled") and not r.get("grace")]
-    out += [("REF_PENDING", r, "owed session settled before the latest one, no reference bar") for r in b.get("REF_PENDING", [])
+    op = lambda rs: [r for r in rs if not str(r.get("outcome", "")).strip()]          # INS-031 says OPEN rows: a scored row's history is not this audit's red
+    out = [("UNFETCHABLE", r, r.get("source") or "no series") for r in op(b.get("UNFETCHABLE", []))]
+    out += [("NO_BAR", r, "no bar for a settled session") for r in op(b.get("NO_BAR", [])) if not r.get("unsettled") and not r.get("grace")]
+    out += [("REF_PENDING", r, "owed session settled before the latest one, no reference bar") for r in op(b.get("REF_PENDING", []))
             if not r.get("waiting") and not r.get("grace")]
-    out += [("QUEUED_OVERDUE", r, "queued row past its fill session") for r in b.get("QUEUED_OVERDUE", [])]
+    out += [("QUEUED_OVERDUE", r, "queued row past its fill session") for r in op(b.get("QUEUED_OVERDUE", []))]
     return out
 
 
@@ -484,7 +487,7 @@ def waiting(b: dict) -> list:
 def exit_code(b: dict) -> int:
     """INS-031/032. 1 = looked, and a row FAILS (FAIL, a post-fix REF_MISMATCH, or BLANK): a violation wins over everything. 3 = looked, nothing fails, but an
     open row could not be verified past any waiting/grace (see unverified()). 0 = clean or only waiting rows. (2 = could not look at all: _settled_day().)"""
-    if b.get("FAIL") or b.get("REF_MISMATCH") or b.get("BLANK"):
+    if b.get("FAIL") or b.get("REF_MISMATCH") or [r for r in b.get("BLANK", []) if not str(r.get("outcome", "")).strip()]:
         return EXIT_FAIL
     if unverified(b):
         return EXIT_UNVERIFIED
