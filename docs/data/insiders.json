@@ -1,44 +1,6 @@
 {
- "updated_utc": "2026-10-09 20:54 UTC",
+ "updated_utc": "2026-10-09 21:10 UTC",
  "purchases": [
-  {
-   "ticker": "ADRX",
-   "company": "ADARx Pharmaceuticals, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 300249.0,
-   "price": 17.0,
-   "value": 5104233.0,
-   "acc": "0000947871-26-000910",
-   "filed": "2026-09-30",
-   "placement": true
-  },
-  {
-   "ticker": "ADRX",
-   "company": "ADARx Pharmaceuticals, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 300249.0,
-   "price": 17.0,
-   "value": 5104233.0,
-   "acc": "0000947871-26-000911",
-   "filed": "2026-09-30",
-   "placement": true
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 63539.0,
-   "price": 86.9421,
-   "value": 5524214.09,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -4106,6 +4068,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "AHRT",
+   "company": "AH Realty Trust, Inc.",
+   "insider": "Wimbush Frederick Blair",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 494.44,
+   "price": 5.96,
+   "value": 2946.86,
+   "acc": "0001569187-26-000158",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Hwang Yuan-Ko",
@@ -4706,6 +4680,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "AHRT",
+   "company": "AH Realty Trust, Inc.",
+   "insider": "Wimbush Frederick Blair",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 632.59,
+   "price": 5.99,
+   "value": 3789.21,
+   "acc": "0001569187-26-000158",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "insider": "Alford Tony L",
@@ -4740,6 +4726,18 @@
    "value": 9375.08,
    "acc": "0001493152-26-046380",
    "filed": "2026-10-08"
+  },
+  {
+   "ticker": "AHRT",
+   "company": "AH Realty Trust, Inc.",
+   "insider": "BIGMAN THEODORE",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 1879.19,
+   "price": 5.96,
+   "value": 11199.97,
+   "acc": "0001569187-26-000156",
+   "filed": "2026-10-09"
   },
   {
    "ticker": "UXIN",
@@ -4829,7 +4827,7 @@
    "ticker": "ADRX",
    "insiders": 4,
    "total_value": 34251838.0,
-   "other_value": 30208456.0
+   "other_value": 19999990.0
   },
   {
    "ticker": "GME",
@@ -4902,6 +4900,11 @@
    "total_value": 20983.65
   },
   {
+   "ticker": "AHRT",
+   "insiders": 2,
+   "total_value": 17936.04
+  },
+  {
    "ticker": "LCU",
    "insiders": 2,
    "total_value": 17218.0
@@ -4939,13 +4942,6 @@
   }
  ],
  "seen": [
-  "0001989382-26-000016",
-  "0001989421-26-000008",
-  "0001989421-26-000012",
-  "0001989533-26-000015",
-  "0001989648-26-000012",
-  "0001989706-26-000010",
-  "0001989913-26-000008",
   "0001990106-26-000017",
   "0001990106-26-000019",
   "0001990547-26-000023",
@@ -6978,6 +6974,12 @@
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
+  "0002071876-26-000235",
+  "0002071876-26-000236",
+  "0002071876-26-000237",
+  "0002071876-26-000238",
+  "0002071876-26-000239",
+  "0002071876-26-000240",
   "0002071948-26-000005",
   "0002071959-26-000008",
   "0002072270-26-000013",
@@ -7183,6 +7185,7 @@
   "0002080406-26-000013",
   "0002080406-26-000014",
   "0002080406-26-000016",
+  "0002080406-26-000017",
   "0002080407-26-000016",
   "0002080407-26-000017",
   "0002080407-26-000019",
