@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-10 01:05 UTC",
+ "updated_utc": "2026-10-10 01:21 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 34446.0,
-   "price": 242.2667,
-   "value": 8345118.75,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-28",
-   "shares": 34593.0,
-   "price": 243.2334,
-   "value": 8414173.01,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 98561.0,
-   "price": 88.5671,
-   "value": 8729261.94,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-28",
-   "shares": 109842.0,
-   "price": 84.8543,
-   "value": 9320566.02,
-   "acc": "0001193125-26-409118",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "KOD",
    "company": "Kodiak Sciences Inc.",
@@ -3744,6 +3696,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-06",
+   "shares": 142420.0,
+   "price": 13.0231,
+   "value": 1854749.9,
+   "acc": "0001398344-26-018110",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "AVR",
    "company": "Anteris Technologies Global Corp.",
    "insider": "L1 Capital Pty Ltd",
@@ -4548,6 +4512,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 186612.0,
+   "price": 12.9904,
+   "value": 2424164.52,
+   "acc": "0001398344-26-018110",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4764,6 +4740,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 150937.0,
+   "price": 13.0481,
+   "value": 1969441.07,
+   "acc": "0001398344-26-018110",
+   "filed": "2026-10-09"
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "insider": "Alford Tony L",
@@ -4810,6 +4798,18 @@
    "value": 30362.27,
    "acc": "0001185185-26-004675",
    "filed": "2026-10-09"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 171094.0,
+   "price": 13.1692,
+   "value": 2253171.1,
+   "acc": "0001398344-26-018110",
+   "filed": "2026-10-09"
   }
  ],
  "clusters": [
@@ -4837,7 +4837,7 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 7178503.58
+   "total_value": 15680030.17
   },
   {
    "ticker": "GPUS",
