@@ -92,3 +92,16 @@ def test_write_exclusions_writes_the_same_bytes_as_the_old_loop(tmp_path, monkey
         for r in sorted(rows, key=lambda x: -float(x["total_value"] or 0)):
             w.writerow({k: r.get(k, "") for k in cols})
     assert got == (tmp_path / "old.csv").read_bytes()
+
+ROOT_DIR = IR
+LOADABLE = ["collector_edgar.py", "attribution.py"]
+
+
+def test_each_converted_module_loads_by_path_from_any_cwd(tmp_path):
+    """a resolver check, a bin script or another repo may load these with spec_from_file_location and no sys.path help: the atomicio import must not depend on the
+    caller's path (found by loading every converted module from cwd=/ on 2026-10-09; a bare `from atomicio import` failed for most of them)."""
+    import subprocess
+    code = "import importlib.util as u,sys; s=u.spec_from_file_location('probe', sys.argv[1]); m=u.module_from_spec(s); s.loader.exec_module(m)"
+    for name in LOADABLE:
+        r = subprocess.run([sys.executable, "-c", code, str(ROOT_DIR / name)], cwd=tmp_path, capture_output=True, text=True, timeout=180)
+        assert r.returncode == 0, (name, r.stderr[-300:])
