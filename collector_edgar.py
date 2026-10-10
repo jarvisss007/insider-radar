@@ -20,6 +20,7 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 import requests
+from atomicio import atomic_write_text, atomic_csv   # BOOK-001: never truncate a book in place
 
 HERE = Path(__file__).resolve().parent
 OUT = HERE / "docs" / "data" / "insiders.json"
@@ -110,7 +111,7 @@ def cik_to_ticker(cik):
         try:
             if (not TICKER_MAP_CACHE.exists()
                     or time.time() - TICKER_MAP_CACHE.stat().st_mtime > TICKER_MAP_MAX_AGE):
-                TICKER_MAP_CACHE.write_text(get(TICKER_MAP_URL).text)
+                atomic_write_text(str(TICKER_MAP_CACHE), get(TICKER_MAP_URL).text)
             raw = json.loads(TICKER_MAP_CACHE.read_text())
             _CIK_TICKERS = {int(v["cik_str"]): v["ticker"].upper() for v in raw.values()}
         except Exception as e:
@@ -314,11 +315,7 @@ def write_exclusions(cluster_rows, today=None):
         return 0
     import csv as _csv
     EXCLUSIONS.parent.mkdir(parents=True, exist_ok=True)
-    with EXCLUSIONS.open("w", newline="") as f:
-        w = _csv.DictWriter(f, fieldnames=cols)
-        w.writeheader()
-        for r in sorted(prior.values(), key=lambda x: -float(x["total_value"] or 0)):
-            w.writerow({k: r.get(k, "") for k in cols})
+    atomic_csv(str(EXCLUSIONS), cols, [{k: r.get(k, "") for k in cols} for r in sorted(prior.values(), key=lambda x: -float(x["total_value"] or 0))])
     return len(prior)
 
 
@@ -378,7 +375,7 @@ def one_pass():
         "note": "Open-market purchases (Form 4 code P) only. Educational; not advice.",
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(doc, indent=1))
+    atomic_write_text(str(OUT), json.dumps(doc, indent=1))      # BOOK-001: the Pages viewer reads this; write beside and replace
     n_ex = write_exclusions(doc["clusters"])
     print(f"[{datetime.datetime.now():%H:%M:%S}] pass done: +{new_p} purchases "
           f"(+{new_s} sales ignored) · feed {len(purchases)} · clusters {len(doc['clusters'])}"

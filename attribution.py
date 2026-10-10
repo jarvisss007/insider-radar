@@ -43,6 +43,7 @@ import json
 import os
 import re
 import subprocess
+from atomicio import atomic_csv   # BOOK-001: never truncate a book in place
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 LEDGER = os.path.join(BASE, "agent", "ledger.csv")
@@ -148,10 +149,7 @@ def main():
                                                   "ceo", "cfo", "director_only", "pct_placement",
                                                   "avg_purchase_px", "runup_at_call_pct",
                                                   "days_filed_to_call"]})})
-    with open(OUT, "w", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=COLS, extrasaction="ignore")   # _blank_wrong is in-memory only
-        w.writeheader()
-        w.writerows(rows)
+    atomic_csv(OUT, COLS, rows, extrasaction="ignore")     # _blank_wrong is in-memory only; BOOK-001: write beside and replace
 
     have = [r for r in rows if r["n_insiders"] != ""]
     # Allowlist, not a denylist. This read `outcome not in ("", None)`, which counted

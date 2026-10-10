@@ -18,6 +18,7 @@ from pathlib import Path
 import requests
 
 from collector_edgar import UA, PAUSE, form4_xml_url, parse_form4, get
+from atomicio import atomic_write_text   # BOOK-001: never truncate a book in place
 
 HERE = Path(__file__).resolve().parent
 EVENTS = HERE / "docs" / "data" / "events.json"
@@ -100,7 +101,7 @@ def main():
                     day_hits += 1
             print(f"{d} · sampled {len(sample):3d}/{len(filings):4d} form4s · "
                   f"+{day_hits} purchases (total {n_new})", flush=True)
-            EVENTS.write_text(json.dumps(doc, indent=1))   # checkpoint per day
+            atomic_write_text(str(EVENTS), json.dumps(doc, indent=1))   # checkpoint per day (BOOK-001: write beside and replace)
         d += datetime.timedelta(days=1)
     print(f"done: scanned {n_seen} filings, added {n_new} purchase events "
           f"→ {len(doc['events'])} total in {EVENTS}", flush=True)
