@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-13 14:19 UTC",
+ "updated_utc": "2026-10-13 14:35 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-29",
-   "shares": 8440.0,
-   "price": 1.2572,
-   "value": 10610.77,
-   "acc": "0001493152-26-045051",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "CINT",
-   "company": "CI&T Inc",
-   "insider": "Gon Cesar Nivaldo",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-29",
-   "shares": 3835.0,
-   "price": 2.95,
-   "value": 11313.25,
-   "acc": "0001292814-26-004824",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -4618,6 +4594,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "IIPR",
+   "company": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
+   "insider": "Gold Alan D",
+   "role": "EXECUTIVE CHAIRMAN",
+   "date": "2026-10-08",
+   "shares": 40000.0,
+   "price": 25.0,
+   "value": 1000000.0,
+   "acc": "0000897069-26-001838",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "PED",
    "company": "PEDEVCO CORP",
    "insider": "KUKES SIMON G",
@@ -4736,6 +4724,18 @@
    "value": 30362.27,
    "acc": "0001185185-26-004675",
    "filed": "2026-10-09"
+  },
+  {
+   "ticker": "HBIA.PK",
+   "company": "HILLS BANCORPORATION",
+   "insider": "Slattery Thomas M.",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 1000.0,
+   "price": 47.0,
+   "value": 47000.0,
+   "acc": "0002069798-26-000002",
+   "filed": "2026-10-13"
   },
   {
    "ticker": "SAR",
@@ -4879,7 +4879,7 @@
   {
    "ticker": "CINT",
    "insiders": 3,
-   "total_value": 85035.56
+   "total_value": 73722.31
   },
   {
    "ticker": "WVVI",
@@ -4939,7 +4939,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000283",
   "0001992104-26-000284",
   "0001992104-26-000285",
   "0001992104-26-000286",
@@ -6827,6 +6826,7 @@
   "0002069377-26-000002",
   "0002069605-26-000010",
   "0002069605-26-000012",
+  "0002069798-26-000002",
   "0002069860-26-000010",
   "0002069861-26-000007",
   "0002070264-26-000008",
