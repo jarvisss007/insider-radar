@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-13 21:57 UTC",
+ "updated_utc": "2026-10-13 22:13 UTC",
  "purchases": [
-  {
-   "ticker": "AUBN",
-   "company": "AUBURN NATIONAL BANCORPORATION, INC",
-   "insider": "O'DONNELL SHANNON",
-   "role": "Senior Vice President",
-   "date": "2026-09-30",
-   "shares": 11.0,
-   "price": 27.7,
-   "value": 304.7,
-   "acc": "0001437749-26-031937",
-   "filed": "2026-10-02"
-  },
-  {
-   "ticker": "AUBN",
-   "company": "AUBURN NATIONAL BANCORPORATION, INC",
-   "insider": "HOUSEL DAVID E",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 14.0,
-   "price": 27.7,
-   "value": 387.8,
-   "acc": "0001437749-26-031936",
-   "filed": "2026-10-02"
-  },
   {
    "ticker": "AUBN",
    "company": "AUBURN NATIONAL BANCORPORATION, INC",
@@ -4807,6 +4783,30 @@
    "value": 20998.57,
    "acc": "0001185185-26-004708",
    "filed": "2026-10-13"
+  },
+  {
+   "ticker": "RTSN",
+   "company": "Retension Pharmaceuticals, Inc.",
+   "insider": "BERGER FRANKLIN M",
+   "role": "Director",
+   "date": "2026-10-13",
+   "shares": 10000.0,
+   "price": 12.0,
+   "value": 120000.0,
+   "acc": "0001213900-26-109155",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "RTSN",
+   "company": "Retension Pharmaceuticals, Inc.",
+   "insider": "Keller Eric L.",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-10-13",
+   "shares": 20800.0,
+   "price": 12.0,
+   "value": 249600.0,
+   "acc": "0001213900-26-109160",
+   "filed": "2026-10-13"
   }
  ],
  "clusters": [
@@ -4859,6 +4859,11 @@
    "ticker": "SPG",
    "insiders": 11,
    "total_value": 460716.16
+  },
+  {
+   "ticker": "RTSN",
+   "insiders": 2,
+   "total_value": 369600.0
   },
   {
    "ticker": "AGMB",
@@ -4918,7 +4923,7 @@
   {
    "ticker": "AUBN",
    "insiders": 4,
-   "total_value": 5440.81
+   "total_value": 4748.31
   },
   {
    "ticker": "CTM",
