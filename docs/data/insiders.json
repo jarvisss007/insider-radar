@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-13 23:00 UTC",
+ "updated_utc": "2026-10-13 23:32 UTC",
  "purchases": [
-  {
-   "ticker": "MFM",
-   "company": "ABERDEEN MUNICIPAL INCOME FUND",
-   "insider": "Baird Gordon A",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 300.0,
-   "price": 4.8877,
-   "value": 1466.31,
-   "acc": "0001104659-26-112638",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4617,6 +4605,19 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "CTNT",
+   "company": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+   "insider": "Liu Huan",
+   "role": "See Remarks",
+   "date": "2026-10-09",
+   "shares": 100000.0,
+   "price": 3.3,
+   "value": 330000.0,
+   "acc": "0001104659-26-115608",
+   "filed": "2026-10-13",
+   "placement": true
+  },
+  {
    "ticker": "AVO",
    "company": "Mission Produce, Inc.",
    "insider": "Gonzalez Luis A",
@@ -4948,7 +4949,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000464",
   "0001992104-26-000465",
   "0001992104-26-000466",
   "0001992104-26-000467",
@@ -6576,6 +6576,7 @@
   "0002052363-26-000054",
   "0002052363-26-000056",
   "0002052363-26-000059",
+  "0002052363-26-000061",
   "0002052444-26-000034",
   "0002052698-26-000002",
   "0002052698-26-000008",
