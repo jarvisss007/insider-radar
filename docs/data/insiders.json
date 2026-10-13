@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-13 15:54 UTC",
+ "updated_utc": "2026-10-13 16:10 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 1416.0,
-   "price": 85.8855,
-   "value": 121613.87,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Nechmad Yair",
-   "role": "CEO, Co Founder & Chairman",
-   "date": "2026-09-29",
-   "shares": 2789.0,
-   "price": 44.5085,
-   "value": 124134.21,
-   "acc": "0001976408-26-000874",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4416,6 +4392,30 @@
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Starr Gayle P",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 3.5263,
+   "price": 11.99,
+   "value": 42.28,
+   "acc": "0001435109-26-000153",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Starr Gayle P",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 6.7519,
+   "price": 11.97,
+   "value": 80.82,
+   "acc": "0001435109-26-000153",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Staloch Alison",
    "role": "Treasurer",
    "date": "2026-10-09",
@@ -4923,8 +4923,8 @@
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 3,
-   "total_value": 922.72
+   "insiders": 4,
+   "total_value": 1045.82
   },
   {
    "ticker": "RGCO",
