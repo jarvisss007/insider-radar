@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-10-13 19:03 UTC",
+ "updated_utc": "2026-10-13 19:35 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 2821.0,
-   "price": 235.6335,
-   "value": 664722.1,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 3292.0,
-   "price": 237.8379,
-   "value": 782962.37,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "BBASX",
-   "company": "AMG BBH Asset-Backed Credit Fund, LLC",
-   "insider": "BROWN BROTHERS HARRIMAN & CO",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 70175.439,
-   "price": 11.4,
-   "value": 800000.0,
-   "acc": "0000929638-26-003758",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "NYAX",
-   "company": "Nayax Ltd.",
-   "insider": "Nechmad Yair",
-   "role": "CEO, Co Founder & Chairman",
-   "date": "2026-09-29",
-   "shares": 19000.0,
-   "price": 44.7953,
-   "value": 851110.7,
-   "acc": "0001976408-26-000874",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 10381.0,
-   "price": 84.2421,
-   "value": 874517.24,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 12289.0,
-   "price": 81.95,
-   "value": 1007083.55,
-   "acc": "0001193125-26-409451",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 4249.0,
-   "price": 241.6866,
-   "value": 1026926.36,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 20031.0,
-   "price": 85.403,
-   "value": 1710707.49,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 135817.0,
-   "price": 12.6029,
-   "value": 1711688.07,
-   "acc": "0001398344-26-017661",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "GBR",
    "company": "New Concept Energy, Inc.",
@@ -4185,6 +4077,102 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "Neitzel Julie",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 592.0,
+   "price": 294.9343,
+   "value": 174601.11,
+   "acc": "0001620811-26-000006",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "MENDELSON VICTOR H",
+   "role": "Co-COB and Co-CEO",
+   "date": "2026-10-08",
+   "shares": 795.0,
+   "price": 220.3043,
+   "value": 175141.92,
+   "acc": "0001031082-26-000007",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "CULLIGAN THOMAS M",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 795.0,
+   "price": 220.3043,
+   "value": 175141.92,
+   "acc": "0001217585-26-000002",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "Hildebrandt Mark H",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 795.0,
+   "price": 220.3043,
+   "value": 175141.92,
+   "acc": "0001445233-26-000002",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "Fine Carol F.",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 795.0,
+   "price": 220.3043,
+   "value": 175141.92,
+   "acc": "0001960016-26-000002",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "SCHRIESHEIM ALAN",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 795.0,
+   "price": 220.3043,
+   "value": 175141.92,
+   "acc": "0001200631-26-000006",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "HENRIQUES ADOLFO",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 795.0,
+   "price": 220.3043,
+   "value": 175141.92,
+   "acc": "0001181803-26-000002",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "company": "HEICO CORP",
+   "insider": "CHERUVATATH NANDAKUMAR",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 795.0,
+   "price": 220.3043,
+   "value": 175141.92,
+   "acc": "0001698957-26-000008",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "FEAM",
    "company": "5E Advanced Materials, Inc.",
    "insider": "vant Hoff Graham",
@@ -4785,6 +4773,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "PCQ",
+   "company": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-12",
+   "shares": 2000.0,
+   "price": 8.0398,
+   "value": 16079.6,
+   "acc": "0000070858-26-000478",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "GOLD",
    "company": "Gold.com, Inc.",
    "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
@@ -4828,7 +4828,7 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 15680030.17
+   "total_value": 13968342.1
   },
   {
    "ticker": "GPUS",
@@ -4836,14 +4836,14 @@
    "total_value": 5067416.15
   },
   {
-   "ticker": "BBASX",
-   "insiders": 2,
-   "total_value": 4000000.0
-  },
-  {
    "ticker": "XENE",
    "insiders": 2,
    "total_value": 1681140.0
+  },
+  {
+   "ticker": "HEI, HEI.A",
+   "insiders": 8,
+   "total_value": 1400594.55
   },
   {
    "ticker": "MXF",
@@ -4948,7 +4948,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000330",
   "0001992104-26-000331",
   "0001992104-26-000332",
   "0001992104-26-000345",
@@ -7053,6 +7052,7 @@
   "0002077005-26-000012",
   "0002077027-26-000006",
   "0002077096-26-000235",
+  "0002077096-26-000278",
   "0002077291-26-000002",
   "0002077808-26-000059",
   "0002077808-26-000060",
