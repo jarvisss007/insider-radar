@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-13 12:29 UTC",
+ "updated_utc": "2026-10-13 12:45 UTC",
  "purchases": [
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Di Marcello Francesco",
-   "role": "Executive Officer",
-   "date": "2026-09-29",
-   "shares": 300.0,
-   "price": 17.55,
-   "value": 5265.0,
-   "acc": "0001292814-26-004756",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 1854.0,
-   "price": 2.915,
-   "value": 5404.41,
-   "acc": "0001536588-26-000037",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "CINT",
    "company": "CI&T Inc",
@@ -4654,6 +4630,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "SAR",
+   "company": "SARATOGA INVESTMENT CORP.",
+   "insider": "Oberbeck Christian L",
+   "role": "CEO and Director",
+   "date": "2026-10-08",
+   "shares": 15000.0,
+   "price": 14.89,
+   "value": 223350.0,
+   "acc": "0001213900-26-108753",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
    "insider": "SCULLY WILLIAM P",
@@ -4760,6 +4748,18 @@
    "value": 30362.27,
    "acc": "0001185185-26-004675",
    "filed": "2026-10-09"
+  },
+  {
+   "ticker": "SAR",
+   "company": "SARATOGA INVESTMENT CORP.",
+   "insider": "Oberbeck Christian L",
+   "role": "CEO and Director",
+   "date": "2026-10-09",
+   "shares": 15000.0,
+   "price": 14.83,
+   "value": 222450.0,
+   "acc": "0001213900-26-108753",
+   "filed": "2026-10-13"
   },
   {
    "ticker": "BPRE",
@@ -4934,7 +4934,6 @@
   }
  ],
  "seen": [
-  "0001991703-26-000004",
   "0001991958-26-000006",
   "0001992104-26-000282",
   "0001992104-26-000283",
@@ -7374,6 +7373,7 @@
   "0002097393-26-000006",
   "0002097393-26-000008",
   "0002097504-26-000004",
+  "0002097627-26-000014",
   "0002097955-26-000004",
   "0002097956-26-000004",
   "0002098091-26-000005",
