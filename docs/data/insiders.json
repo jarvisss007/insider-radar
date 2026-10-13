@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-13 14:51 UTC",
+ "updated_utc": "2026-10-13 15:23 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "Horne William B.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-29",
-   "shares": 100000.0,
-   "price": 0.168,
-   "value": 16800.0,
-   "acc": "0001214659-26-012204",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "FUND",
-   "company": "SPROTT FOCUS TRUST INC.",
-   "insider": "GEORGE W WHITNEY",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 1760.0,
-   "price": 10.05,
-   "value": 17688.0,
-   "acc": "0001193125-26-410922",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "LPCN",
    "company": "Lipocine Inc.",
@@ -4642,6 +4618,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Miller Benjamin S.",
+   "role": "President",
+   "date": "2026-10-09",
+   "shares": 21.7907,
+   "price": 11.99,
+   "value": 261.27,
+   "acc": "0001213900-26-108865",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
    "insider": "Hall Bjorn",
@@ -4724,6 +4712,18 @@
    "value": 30362.27,
    "acc": "0001185185-26-004675",
    "filed": "2026-10-09"
+  },
+  {
+   "ticker": "IMSR",
+   "company": "Terrestrial Energy Inc. /DE/",
+   "insider": "BUCKMAN FREDERICK W",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 12000.0,
+   "price": 3.278,
+   "value": 39336.0,
+   "acc": "0001193125-26-420002",
+   "filed": "2026-10-13"
   },
   {
    "ticker": "HBIA.PK",
@@ -4834,7 +4834,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5084216.15
+   "total_value": 5067416.15
   },
   {
    "ticker": "BBASX",
@@ -4923,8 +4923,8 @@
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 2,
-   "total_value": 661.45
+   "insiders": 3,
+   "total_value": 922.72
   },
   {
    "ticker": "RGCO",
@@ -4939,9 +4939,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000285",
-  "0001992104-26-000286",
-  "0001992104-26-000303",
   "0001992104-26-000304",
   "0001992104-26-000305",
   "0001992104-26-000306",
@@ -5914,6 +5911,7 @@
   "0001999371-26-022588",
   "0001999371-26-022601",
   "0001999371-26-022604",
+  "0001999371-26-022617",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6562,6 +6560,7 @@
   "0002051514-26-000013",
   "0002051575-26-000004",
   "0002051619-26-000018",
+  "0002051619-26-000020",
   "0002051813-26-000010",
   "0002051813-26-000011",
   "0002052022-26-000005",
@@ -6595,6 +6594,7 @@
   "0002053125-26-000003",
   "0002053424-26-000018",
   "0002053424-26-000020",
+  "0002053424-26-000022",
   "0002053652-26-000008",
   "0002053652-26-000009",
   "0002053652-26-000010",
