@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-13 11:42 UTC",
+ "updated_utc": "2026-10-13 12:14 UTC",
  "purchases": [
-  {
-   "ticker": "TPL",
-   "company": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 4.0,
-   "price": 340.96,
-   "value": 1363.84,
-   "acc": "0001437749-26-031714",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "FUL",
-   "company": "FULLER H B CO",
-   "insider": "Zaheer Srilata",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 40.0,
-   "price": 49.9726,
-   "value": 1998.9,
-   "acc": "0001225208-26-008011",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "SBMT",
-   "company": "SILVER BOW MINING CORP.",
-   "insider": "Nickerson Phillip Anson",
-   "role": "Vice President of Exploration",
-   "date": "2026-09-29",
-   "shares": 500.0,
-   "price": 8.86,
-   "value": 4430.0,
-   "acc": "0000912282-26-001331",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
@@ -4714,6 +4678,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "PED",
+   "company": "PEDEVCO CORP",
+   "insider": "KUKES SIMON G",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 147070.0,
+   "price": 13.0,
+   "value": 1911910.0,
+   "acc": "0001654954-26-008905",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4748,6 +4724,18 @@
    "value": 6034.75,
    "acc": "0000711377-26-000029",
    "filed": "2026-10-09"
+  },
+  {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-09",
+   "shares": 9027.0,
+   "price": 1.1278,
+   "value": 10180.65,
+   "acc": "0001493152-26-046736",
+   "filed": "2026-10-13"
   },
   {
    "ticker": "LCU",
@@ -4808,6 +4796,18 @@
    "value": 4784.6,
    "acc": "0001400253-26-000010",
    "filed": "2026-10-13"
+  },
+  {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-12",
+   "shares": 9800.0,
+   "price": 1.1495,
+   "value": 11265.1,
+   "acc": "0001493152-26-046736",
+   "filed": "2026-10-13"
   }
  ],
  "clusters": [
@@ -4853,8 +4853,8 @@
   },
   {
    "ticker": "FUL",
-   "insiders": 5,
-   "total_value": 724231.09
+   "insiders": 4,
+   "total_value": 722232.19
   },
   {
    "ticker": "SPG",
@@ -4934,9 +4934,6 @@
   }
  ],
  "seen": [
-  "0001991569-26-000006",
-  "0001991569-26-000008",
-  "0001991569-26-000010",
   "0001991703-26-000004",
   "0001991958-26-000006",
   "0001992104-26-000282",
@@ -5913,6 +5910,8 @@
   "0001999371-26-022560",
   "0001999371-26-022562",
   "0001999371-26-022577",
+  "0001999371-26-022586",
+  "0001999371-26-022588",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7309,6 +7308,7 @@
   "0002090789-26-000009",
   "0002090789-26-000011",
   "0002090789-26-000013",
+  "0002090789-26-000016",
   "0002090886-26-000008",
   "0002090886-26-000010",
   "0002091022-26-000010",
