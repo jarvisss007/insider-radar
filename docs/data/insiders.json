@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-13 13:01 UTC",
+ "updated_utc": "2026-10-13 13:17 UTC",
  "purchases": [
-  {
-   "ticker": "KOD",
-   "company": "Kodiak Sciences Inc.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 84.0,
-   "price": 85.8855,
-   "value": 7214.38,
-   "acc": "0001193125-26-409127",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
@@ -4678,6 +4666,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Staloch Alison",
+   "role": "Treasurer",
+   "date": "2026-10-09",
+   "shares": 13.4654,
+   "price": 11.99,
+   "value": 161.45,
+   "acc": "0001435109-26-000151",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "insider": "Alford Tony L",
@@ -4920,6 +4920,11 @@
    "ticker": "CTM",
    "insiders": 4,
    "total_value": 3151.26
+  },
+  {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "insiders": 2,
+   "total_value": 661.45
   },
   {
    "ticker": "RGCO",
