@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-13 11:10 UTC",
+ "updated_utc": "2026-10-13 11:26 UTC",
  "purchases": [
-  {
-   "ticker": "BBD",
-   "company": "BANK BRADESCO",
-   "insider": "Di Marcello Francesco",
-   "role": "Executive Officer",
-   "date": "2026-09-29",
-   "shares": 10.0,
-   "price": 17.56,
-   "value": 175.6,
-   "acc": "0001292814-26-004756",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-29",
-   "shares": 1600.0,
-   "price": 0.1662,
-   "value": 265.92,
-   "acc": "0001214659-26-012383",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "ASGI",
-   "company": "abrdn Global Infrastructure Income Fund",
-   "insider": "Baird Gordon A",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 32.0,
-   "price": 19.13,
-   "value": 612.16,
-   "acc": "0001104659-26-112212",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 278.0,
-   "price": 2.905,
-   "value": 807.59,
-   "acc": "0001536588-26-000037",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "BCDA",
    "company": "BioCardia, Inc.",
@@ -3214,6 +3166,18 @@
    "filed": "2026-10-06"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Mulacek Phil E",
+   "role": "Director",
+   "date": "2026-10-05",
+   "shares": 14508.0,
+   "price": 2.672,
+   "value": 38765.38,
+   "acc": "0001072613-26-000825",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "API",
    "company": "Agora, Inc.",
    "insider": "Zhao Bin",
@@ -3416,6 +3380,18 @@
    "value": 203.5,
    "acc": "0001035422-26-000016",
    "filed": "2026-10-06"
+  },
+  {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Mulacek Phil E",
+   "role": "Director",
+   "date": "2026-10-06",
+   "shares": 2315.0,
+   "price": 2.718,
+   "value": 6292.17,
+   "acc": "0001072613-26-000825",
+   "filed": "2026-10-13"
   },
   {
    "ticker": "INM",
@@ -4282,6 +4258,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Mulacek Phil E",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 4023.0,
+   "price": 2.72,
+   "value": 10942.56,
+   "acc": "0001072613-26-000825",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Wei Che-Chia",
@@ -4642,6 +4630,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Mulacek Phil E",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 4281.0,
+   "price": 2.819,
+   "value": 12068.14,
+   "acc": "0001072613-26-000825",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4834,7 +4834,7 @@
   {
    "ticker": "GPUS",
    "insiders": 2,
-   "total_value": 5084482.07
+   "total_value": 5084216.15
   },
   {
    "ticker": "BBASX",
