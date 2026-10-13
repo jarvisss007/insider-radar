@@ -1802,3 +1802,7 @@ total_value order, named in notes. No defect found, guard already documented.
 Grader scored 2 today (SHMD right, ENOV wrong); headline 47% n=91 on 26 entry days, sub-floor 32% n=47. Attribution: 3+ insiders n=38 on 19 dates hit 42% avg -3.9% -- no support for "more insiders = better"; n is still too small to argue the reverse.
 Logged AGMB, INLX, NRXS, ACCV at settled 10-08 closes (after-close run, so no queue was needed). ACCV reports $0 total value: logged per INS-002 (log every cluster), sits sub-floor.
 Clusters that first appeared during the missed 10-07 sweep were not back-dated; they were logged today with today's bar.
+
+## 2026-10-13 [insider] — GARUDA sweep
+- Grader's 10-12 pass: 2 right / 6 wrong (GME +29% the lone big win; CZNC, a $5k sub-floor cluster, wrong). Headline now 46% (n=99), sub-floor 31% (n=52) — both under a coin; the null is not moving. n too small for any value-band lesson.
+- Re-logs of scored tickers (GME, CZNC) are the rule (one open row per ticker), but GME's cluster grew 20x between rows: the second row is a new information set, not a duplicate. Disclosed on the row.
