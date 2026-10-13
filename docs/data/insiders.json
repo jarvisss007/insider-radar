@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-13 12:14 UTC",
+ "updated_utc": "2026-10-13 12:29 UTC",
  "purchases": [
-  {
-   "ticker": "PHIO",
-   "company": "Phio Pharmaceuticals Corp.",
-   "insider": "Plott Ronald Todd",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 5000.0,
-   "price": 1.04,
-   "value": 5200.0,
-   "acc": "0001683168-26-007499",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "BBD",
    "company": "BANK BRADESCO",
@@ -4784,6 +4772,18 @@
    "value": 2253171.1,
    "acc": "0001398344-26-018110",
    "filed": "2026-10-09"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 2500000.0,
+   "price": 4.7374,
+   "value": 11843500.0,
+   "acc": "0001628280-26-065603",
+   "filed": "2026-10-13"
   },
   {
    "ticker": "DLPN",
