@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-13 21:26 UTC",
+ "updated_utc": "2026-10-13 21:57 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 28791.0,
-   "price": 240.8725,
-   "value": 6934960.15,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "GME",
-   "company": "GameStop Corp.",
-   "insider": "Cohen Ryan",
-   "role": "President, CEO and Chairman",
-   "date": "2026-09-29",
-   "shares": 446500.0,
-   "price": 23.4753,
-   "value": 10481721.45,
-   "acc": "0000921895-26-002670",
-   "filed": "2026-09-29"
-  },
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "SEID PAUL",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 29.0,
-   "price": 5.15,
-   "value": 149.35,
-   "acc": "0001493152-26-045167",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "AUBN",
    "company": "AUBURN NATIONAL BANCORPORATION, INC",
@@ -3885,6 +3849,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 2077.0,
+   "price": 2.0175,
+   "value": 4190.35,
+   "acc": "0001493152-26-046899",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "insider": "Alford Tony L",
@@ -4581,6 +4557,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-09",
+   "shares": 5340.0,
+   "price": 2.0446,
+   "value": 10918.16,
+   "acc": "0001493152-26-046899",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "insider": "SHARMAN MARK BRADY",
@@ -4761,6 +4749,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-12",
+   "shares": 7215.0,
+   "price": 2.02,
+   "value": 14574.3,
+   "acc": "0001493152-26-046899",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "PCQ",
    "company": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
    "insider": "BANK OF AMERICA CORP /DE/",
@@ -4823,7 +4823,7 @@
   {
    "ticker": "GME",
    "insiders": 2,
-   "total_value": 27820531.91
+   "total_value": 17338810.46
   },
   {
    "ticker": "BPRE",
@@ -4898,7 +4898,7 @@
   {
    "ticker": "INLX",
    "insiders": 2,
-   "total_value": 20983.65
+   "total_value": 20834.3
   },
   {
    "ticker": "AHRT",
@@ -4948,10 +4948,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000459",
-  "0001992104-26-000460",
-  "0001992104-26-000461",
-  "0001992104-26-000462",
   "0001992104-26-000463",
   "0001992104-26-000464",
   "0001992104-26-000465",
@@ -6704,6 +6700,7 @@
   "0002061219-26-000013",
   "0002061219-26-000015",
   "0002061219-26-000017",
+  "0002061219-26-000019",
   "0002061268-26-000011",
   "0002061361-26-000009",
   "0002061361-26-000011",
@@ -6741,6 +6738,7 @@
   "0002062781-26-000020",
   "0002062781-26-000022",
   "0002062781-26-000024",
+  "0002062781-26-000026",
   "0002063220-26-000002",
   "0002063228-26-000013",
   "0002063228-26-000015",
@@ -7176,6 +7174,7 @@
   "0002080406-26-000014",
   "0002080406-26-000016",
   "0002080406-26-000017",
+  "0002080406-26-000018",
   "0002080407-26-000016",
   "0002080407-26-000017",
   "0002080407-26-000019",
@@ -7625,6 +7624,7 @@
   "0002122712-26-000004",
   "0002122855-26-000006",
   "0002123155-26-000002",
+  "0002123306-26-000006",
   "0002123334-26-000003",
   "0002123843-26-000008",
   "0002123863-26-000008",
