@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-13 17:29 UTC",
+ "updated_utc": "2026-10-13 19:03 UTC",
  "purchases": [
-  {
-   "ticker": "FUND",
-   "company": "SPROTT FOCUS TRUST INC.",
-   "insider": "GEORGE W WHITNEY",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 59702.0,
-   "price": 10.05,
-   "value": 600005.1,
-   "acc": "0001193125-26-410922",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4197,6 +4185,18 @@
    "filed": "2026-10-09"
   },
   {
+   "ticker": "FEAM",
+   "company": "5E Advanced Materials, Inc.",
+   "insider": "vant Hoff Graham",
+   "role": "Director",
+   "date": "2026-10-08",
+   "shares": 60000.0,
+   "price": 3.59,
+   "value": 215400.0,
+   "acc": "0001829340-26-000011",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "SAR",
    "company": "SARATOGA INVESTMENT CORP.",
    "insider": "Oberbeck Christian L",
@@ -4871,6 +4871,11 @@
    "total_value": 248877.59
   },
   {
+   "ticker": "FEAM",
+   "insiders": 2,
+   "total_value": 240371.85
+  },
+  {
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 121466.7
@@ -4943,8 +4948,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000328",
-  "0001992104-26-000329",
   "0001992104-26-000330",
   "0001992104-26-000331",
   "0001992104-26-000332",
@@ -5915,6 +5918,8 @@
   "0001999371-26-022617",
   "0001999371-26-022635",
   "0001999371-26-022637",
+  "0001999371-26-022644",
+  "0001999371-26-022651",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
