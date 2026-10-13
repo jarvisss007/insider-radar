@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-13 16:42 UTC",
+ "updated_utc": "2026-10-13 16:57 UTC",
  "purchases": [
-  {
-   "ticker": "TSI",
-   "company": "TCW STRATEGIC INCOME FUND INC",
-   "insider": "HADEN PATRICK C",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 63000.0,
-   "price": 4.2419,
-   "value": 267239.7,
-   "acc": "0001193125-26-408652",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "MNSO",
    "company": "MINISO Group Holding Ltd",
@@ -4368,6 +4356,18 @@
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 7.0609,
+   "price": 11.99,
+   "value": 84.66,
+   "acc": "0001435109-26-000155",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Staloch Alison",
    "role": "Treasurer",
    "date": "2026-10-09",
@@ -4928,8 +4928,8 @@
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 5,
-   "total_value": 1068.4
+   "insiders": 6,
+   "total_value": 1153.06
   },
   {
    "ticker": "RGCO",
