@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-13 14:04 UTC",
+ "updated_utc": "2026-10-13 14:19 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Garcia Cuellar Maria Regina",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 403.0,
-   "price": 20.53,
-   "value": 8273.59,
-   "acc": "0002063220-26-000002",
-   "filed": "2026-10-02"
-  },
-  {
-   "ticker": "ARR",
-   "company": "Armour Residential REIT, Inc.",
-   "insider": "Losyev Sergey",
-   "role": "Co-Chief Investment Officer",
-   "date": "2026-09-29",
-   "shares": 725.0,
-   "price": 13.91,
-   "value": 10084.75,
-   "acc": "0002016863-26-000011",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "LILA",
-   "company": "Liberty Latin America Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 512.0,
-   "price": 20.4492,
-   "value": 10469.99,
-   "acc": "0000937797-26-000034",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4270,6 +4234,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-10-07",
+   "shares": 1030.0,
+   "price": 39.96,
+   "value": 41158.8,
+   "acc": "0001104659-26-115328",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "IMMR",
    "company": "IMMERSION CORP",
    "insider": "Singer Eric",
@@ -4678,6 +4654,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Hall Bjorn",
+   "role": "Secretary and CCO",
+   "date": "2026-10-09",
+   "shares": 26.8389,
+   "price": 10.12,
+   "value": 271.61,
+   "acc": "0001435109-26-000152",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "insider": "Alford Tony L",
@@ -4808,6 +4796,18 @@
    "value": 11265.1,
    "acc": "0001493152-26-046736",
    "filed": "2026-10-13"
+  },
+  {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-10-12",
+   "shares": 31088.0,
+   "price": 39.8667,
+   "value": 1239375.97,
+   "acc": "0001104659-26-115328",
+   "filed": "2026-10-13"
   }
  ],
  "clusters": [
@@ -4849,7 +4849,7 @@
   {
    "ticker": "MXF",
    "insiders": 2,
-   "total_value": 951989.93
+   "total_value": 943716.34
   },
   {
    "ticker": "FUL",
