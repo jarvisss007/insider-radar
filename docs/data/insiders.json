@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-13 13:48 UTC",
+ "updated_utc": "2026-10-13 14:04 UTC",
  "purchases": [
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 100.0,
-   "price": 80.0,
-   "value": 8000.0,
-   "acc": "0001193125-26-409451",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "XAIR",
-   "company": "Beyond Air, Inc.",
-   "insider": "Lin Yi-Chien",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 3000.0,
-   "price": 2.69,
-   "value": 8070.0,
-   "acc": "0002144385-26-000005",
-   "filed": "2026-10-02"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -4486,6 +4462,18 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 400.0,
+   "price": 9.4,
+   "value": 3760.0,
+   "acc": "0001510281-26-000340",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "AHRT",
    "company": "AH Realty Trust, Inc.",
    "insider": "Wimbush Frederick Blair",
@@ -4627,6 +4615,18 @@
    "price": 14.89,
    "value": 223350.0,
    "acc": "0001213900-26-108753",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 27937.0,
+   "price": 11.95,
+   "value": 333847.15,
+   "acc": "0001510281-26-000341",
    "filed": "2026-10-13"
   },
   {
@@ -4939,7 +4939,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000282",
   "0001992104-26-000283",
   "0001992104-26-000284",
   "0001992104-26-000285",
@@ -5916,6 +5915,7 @@
   "0001999371-26-022586",
   "0001999371-26-022588",
   "0001999371-26-022601",
+  "0001999371-26-022604",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
