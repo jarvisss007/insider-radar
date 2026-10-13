@@ -1,43 +1,6 @@
 {
- "updated_utc": "2026-10-13 16:57 UTC",
+ "updated_utc": "2026-10-13 17:13 UTC",
  "purchases": [
-  {
-   "ticker": "MNSO",
-   "company": "MINISO Group Holding Ltd",
-   "insider": "Zhang Jingjing Eason",
-   "role": "VP and Chief Financial Officer",
-   "date": "2026-09-29",
-   "shares": 150600.0,
-   "price": 2.2583,
-   "value": 340099.98,
-   "acc": "0001104659-26-112076",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "TKLF",
-   "company": "Tokyo Lifestyle Co., Ltd.",
-   "insider": "Kanayama Mei",
-   "role": "Representative Director (PEO)",
-   "date": "2026-09-29",
-   "shares": 1396755.0,
-   "price": 0.274,
-   "value": 382710.87,
-   "acc": "0001213900-26-105765",
-   "filed": "2026-10-01",
-   "placement": true
-  },
-  {
-   "ticker": "FUND",
-   "company": "SPROTT FOCUS TRUST INC.",
-   "insider": "GEORGE W WHITNEY",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 39863.0,
-   "price": 10.05,
-   "value": 400623.15,
-   "acc": "0001193125-26-410922",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "FUND",
    "company": "SPROTT FOCUS TRUST INC.",
@@ -4510,6 +4473,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 61.3231,
+   "price": 10.12,
+   "value": 620.59,
+   "acc": "0001435109-26-000156",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
    "insider": "Hazlett John Walter",
@@ -4639,6 +4614,30 @@
    "price": 1.1278,
    "value": 10180.65,
    "acc": "0001493152-26-046736",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "SHARMAN MARK BRADY",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 3500.0,
+   "price": 3.97,
+   "value": 13895.0,
+   "acc": "0001062993-26-005296",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "SHARMAN MARK BRADY",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 3785.0,
+   "price": 3.99,
+   "value": 15102.15,
+   "acc": "0001062993-26-005296",
    "filed": "2026-10-13"
   },
   {
@@ -4882,14 +4881,14 @@
    "total_value": 73722.31
   },
   {
+   "ticker": "LCU",
+   "insiders": 2,
+   "total_value": 68672.15
+  },
+  {
    "ticker": "WVVI",
    "insiders": 4,
    "total_value": 66794.57
-  },
-  {
-   "ticker": "LCU",
-   "insiders": 2,
-   "total_value": 39675.0
   },
   {
    "ticker": "INLX",
@@ -4923,8 +4922,8 @@
   },
   {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "insiders": 2,
-   "total_value": 1955.8
+   "insiders": 3,
+   "total_value": 2576.39
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
