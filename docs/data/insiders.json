@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-13 16:10 UTC",
+ "updated_utc": "2026-10-13 16:42 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 523.0,
-   "price": 238.799,
-   "value": 124891.88,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 40081.0,
-   "price": 3.59,
-   "value": 143890.79,
-   "acc": "0001628280-26-064003",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "FLNA",
-   "company": "FILANA THERAPEUTICS, INC.",
-   "insider": "Barry Richard",
-   "role": "President & CEO",
-   "date": "2026-09-29",
-   "shares": 206813.0,
-   "price": 0.9,
-   "value": 186131.7,
-   "acc": "0001437749-26-031654",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "FUND",
-   "company": "SPROTT FOCUS TRUST INC.",
-   "insider": "GEORGE W WHITNEY",
-   "role": "Director",
-   "date": "2026-09-29",
-   "shares": 21944.0,
-   "price": 10.05,
-   "value": 220537.2,
-   "acc": "0001193125-26-410922",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-29",
-   "shares": 980.0,
-   "price": 242.9246,
-   "value": 238066.11,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "TSI",
    "company": "TCW STRATEGIC INCOME FUND INC",
@@ -4392,6 +4332,18 @@
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Jenkins Brandon T.",
+   "role": "",
+   "date": "2026-10-09",
+   "shares": 1.8832,
+   "price": 11.99,
+   "value": 22.58,
+   "acc": "0001213900-26-108892",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Starr Gayle P",
    "role": "Director",
    "date": "2026-10-09",
@@ -4476,6 +4428,18 @@
   {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Starr Gayle P",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 26.1868,
+   "price": 10.12,
+   "value": 265.01,
+   "acc": "0001435109-26-000154",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
    "insider": "Hall Bjorn",
    "role": "Secretary and CCO",
    "date": "2026-10-09",
@@ -4495,6 +4459,18 @@
    "price": 2.01,
    "value": 349.74,
    "acc": "0001199835-26-000373",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Starr Gayle P",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 41.4619,
+   "price": 10.11,
+   "value": 419.18,
+   "acc": "0001435109-26-000154",
    "filed": "2026-10-13"
   },
   {
@@ -4786,6 +4762,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "FINS",
+   "company": "Angel Oak Financial Strategies Income Term Trust",
+   "insider": "Bortz Robert Edward III",
+   "role": "President",
+   "date": "2026-10-12",
+   "shares": 418.0,
+   "price": 11.92,
+   "value": 4982.56,
+   "acc": "0002086785-26-000003",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4807,6 +4795,18 @@
    "price": 39.8667,
    "value": 1239375.97,
    "acc": "0001104659-26-115328",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "QTEX",
+   "company": "QTREX Quantum Ltd.",
+   "insider": "Ben-Noon Dagi Shahar",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-13",
+   "shares": 14093.0,
+   "price": 1.49,
+   "value": 20998.57,
+   "acc": "0001185185-26-004708",
    "filed": "2026-10-13"
   }
  ],
@@ -4922,9 +4922,14 @@
    "total_value": 3151.26
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "insiders": 2,
+   "total_value": 1955.8
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 4,
-   "total_value": 1045.82
+   "insiders": 5,
+   "total_value": 1068.4
   },
   {
    "ticker": "RGCO",
@@ -4939,7 +4944,6 @@
   }
  ],
  "seen": [
-  "0001992104-26-000304",
   "0001992104-26-000305",
   "0001992104-26-000306",
   "0001992104-26-000328",
@@ -7261,6 +7265,7 @@
   "0002086403-26-000008",
   "0002086420-26-000005",
   "0002086718-26-000008",
+  "0002086785-26-000003",
   "0002087126-26-000006",
   "0002087126-26-000009",
   "0002087126-26-000011",
