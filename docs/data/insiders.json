@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-13 11:26 UTC",
+ "updated_utc": "2026-10-13 11:42 UTC",
  "purchases": [
-  {
-   "ticker": "BCDA",
-   "company": "BioCardia, Inc.",
-   "insider": "Altman Peter",
-   "role": "President and CEO",
-   "date": "2026-09-29",
-   "shares": 1000.0,
-   "price": 1.03,
-   "value": 1030.0,
-   "acc": "0001437749-26-031638",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "TPL",
    "company": "Texas Pacific Land Corp",
@@ -4304,6 +4292,18 @@
    "value": 15143.82,
    "acc": "0001104659-26-115066",
    "filed": "2026-10-09"
+  },
+  {
+   "ticker": "ALP",
+   "company": "Alpha Compute Corp",
+   "insider": "Villani Fiorenzo",
+   "role": "See Remarks",
+   "date": "2026-10-07",
+   "shares": 5150.0,
+   "price": 3.8,
+   "value": 19570.0,
+   "acc": "0001171843-26-006594",
+   "filed": "2026-10-13"
   },
   {
    "ticker": "IMMR",
