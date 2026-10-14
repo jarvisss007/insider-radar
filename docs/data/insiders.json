@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-14 16:30 UTC",
+ "updated_utc": "2026-10-14 17:01 UTC",
  "purchases": [
-  {
-   "ticker": "ANIX",
-   "company": "Anixa Biosciences Inc",
-   "insider": "Catelani Michael",
-   "role": "President, COO, & CFO",
-   "date": "2026-09-30",
-   "shares": 5500.0,
-   "price": 2.84,
-   "value": 15620.0,
-   "acc": "0001493152-26-045053",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -4573,6 +4561,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-10-12",
+   "shares": 1000.0,
+   "price": 3.84,
+   "value": 3840.0,
+   "acc": "0001062993-26-005332",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
    "insider": "Hazlett John Walter",
@@ -4892,7 +4892,7 @@
   {
    "ticker": "LCU",
    "insiders": 2,
-   "total_value": 68672.15
+   "total_value": 72512.15
   },
   {
    "ticker": "WVVI",
