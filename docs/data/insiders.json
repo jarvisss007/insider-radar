@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-14 11:15 UTC",
+ "updated_utc": "2026-10-14 12:33 UTC",
  "purchases": [
-  {
-   "ticker": "CINT",
-   "company": "CI&T Inc",
-   "insider": "Gon Cesar Nivaldo",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-30",
-   "shares": 2849.0,
-   "price": 3.1,
-   "value": 8831.9,
-   "acc": "0001292814-26-004824",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "SPG",
    "company": "SIMON PROPERTY GROUP INC.",
@@ -4740,6 +4728,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "EDRY",
+   "company": "EuroDry Ltd.",
+   "insider": "Pittas Aristeidis P",
+   "role": "Director",
+   "date": "2026-10-13",
+   "shares": 350.0,
+   "price": 51.18,
+   "value": 17913.0,
+   "acc": "0002127484-26-000020",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "BZUN",
    "company": "Baozun Inc.",
    "insider": "Qiu Wenbin",
@@ -4884,11 +4884,6 @@
    "total_value": 121466.7
   },
   {
-   "ticker": "CINT",
-   "insiders": 2,
-   "total_value": 71672.87
-  },
-  {
    "ticker": "LCU",
    "insiders": 2,
    "total_value": 68672.15
@@ -4952,7 +4947,6 @@
   }
  ],
  "seen": [
-  "0001992779-26-000008",
   "0001992808-26-000022",
   "0001992808-26-000024",
   "0001992808-26-000027",
@@ -7692,6 +7686,7 @@
   "0002127484-26-000017",
   "0002127484-26-000018",
   "0002127484-26-000019",
+  "0002127484-26-000020",
   "0002127558-26-000013",
   "0002127674-26-000002",
   "0002127814-26-000004",
