@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-14 13:05 UTC",
+ "updated_utc": "2026-10-14 13:20 UTC",
  "purchases": [
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "Jones Nina P",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 46.0,
-   "price": 202.78,
-   "value": 9327.88,
-   "acc": "0002007895-26-000016",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4776,6 +4764,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "IMSR",
+   "company": "Terrestrial Energy Inc. /DE/",
+   "insider": "Irish Simon",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-13",
+   "shares": 16900.0,
+   "price": 3.007,
+   "value": 50818.3,
+   "acc": "0001193125-26-421089",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "ZONE",
    "company": "Zone Frontier Inc.",
    "insider": "Hassen Tyler Lewis",
@@ -4855,8 +4855,8 @@
   },
   {
    "ticker": "SPG",
-   "insiders": 10,
-   "total_value": 457674.46
+   "insiders": 9,
+   "total_value": 448346.58
   },
   {
    "ticker": "RTSN",
@@ -4882,6 +4882,11 @@
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 121466.7
+  },
+  {
+   "ticker": "IMSR",
+   "insiders": 2,
+   "total_value": 90154.3
   },
   {
    "ticker": "LCU",
@@ -4947,7 +4952,6 @@
   }
  ],
  "seen": [
-  "0001992808-26-000022",
   "0001992808-26-000024",
   "0001992808-26-000027",
   "0001993147-26-000002",
@@ -7123,6 +7127,7 @@
   "0002078265-26-000435",
   "0002078265-26-000436",
   "0002078265-26-000441",
+  "0002078265-26-000443",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
