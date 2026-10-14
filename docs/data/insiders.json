@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-14 14:55 UTC",
+ "updated_utc": "2026-10-14 15:11 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-30",
-   "shares": 7443.0,
-   "price": 1.3362,
-   "value": 9945.34,
-   "acc": "0001493152-26-045255",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "RGT",
-   "company": "ROYCE GLOBAL TRUST, INC.",
-   "insider": "CLARK CHRISTOPHER D",
-   "role": "President",
-   "date": "2026-09-30",
-   "shares": 743.0,
-   "price": 14.22,
-   "value": 10565.46,
-   "acc": "0000906304-26-000164",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "LEWIS RANDALL J",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 65.0,
-   "price": 202.78,
-   "value": 13180.7,
-   "acc": "0001123485-26-000010",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "RMT",
-   "company": "ROYCE MICRO-CAP TRUST, INC.",
-   "insider": "CLARK CHRISTOPHER D",
-   "role": "President",
-   "date": "2026-09-30",
-   "shares": 1000.0,
-   "price": 13.4,
-   "value": 13400.0,
-   "acc": "0000906304-26-000163",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "SKYH",
-   "company": "Sky Harbour Group Corp",
-   "insider": "Gonzalez Francisco",
-   "role": "Chief Financial Officer",
-   "date": "2026-09-30",
-   "shares": 1500.0,
-   "price": 9.69,
-   "value": 14535.0,
-   "acc": "0001437749-26-031686",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -1033,6 +973,18 @@
    "value": 8000.0,
    "acc": "0001193125-26-414744",
    "filed": "2026-10-05"
+  },
+  {
+   "ticker": "KIO",
+   "company": "KKR Income Opportunities Fund",
+   "insider": "Pimentel Rudy",
+   "role": "President",
+   "date": "2026-10-01",
+   "shares": 1000.0,
+   "price": 10.3,
+   "value": 10300.0,
+   "acc": "0000945621-26-001261",
+   "filed": "2026-10-14"
   },
   {
    "ticker": "CINT",
@@ -2131,6 +2083,30 @@
    "value": 10000.0,
    "acc": "0001580642-26-006778",
    "filed": "2026-10-07"
+  },
+  {
+   "ticker": "KIO",
+   "company": "KKR Income Opportunities Fund",
+   "insider": "Pimentel Rudy",
+   "role": "President",
+   "date": "2026-10-05",
+   "shares": 1000.0,
+   "price": 10.2,
+   "value": 10200.0,
+   "acc": "0000945621-26-001261",
+   "filed": "2026-10-14"
+  },
+  {
+   "ticker": "KIO",
+   "company": "KKR Income Opportunities Fund",
+   "insider": "Pimentel Rudy",
+   "role": "President",
+   "date": "2026-10-05",
+   "shares": 1000.0,
+   "price": 10.24,
+   "value": 10240.0,
+   "acc": "0000945621-26-001261",
+   "filed": "2026-10-14"
   },
   {
    "ticker": "UXIN",
@@ -3718,6 +3694,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "KIO",
+   "company": "KKR Income Opportunities Fund",
+   "insider": "Pimentel Rudy",
+   "role": "President",
+   "date": "2026-10-08",
+   "shares": 1000.0,
+   "price": 10.15,
+   "value": 10150.0,
+   "acc": "0000945621-26-001261",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "AHRT",
    "company": "AH Realty Trust, Inc.",
    "insider": "BIGMAN THEODORE",
@@ -4560,6 +4548,19 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "TDIC",
+   "company": "Dreamland Ltd",
+   "insider": "Seto Wai Yue",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-09",
+   "shares": 300000.0,
+   "price": 2.0,
+   "value": 600000.0,
+   "acc": "0001493152-26-046945",
+   "filed": "2026-10-14",
+   "placement": true
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4855,8 +4856,8 @@
   },
   {
    "ticker": "SPG",
-   "insiders": 9,
-   "total_value": 448346.58
+   "insiders": 8,
+   "total_value": 435165.88
   },
   {
    "ticker": "RTSN",
@@ -4952,7 +4953,6 @@
   }
  ],
  "seen": [
-  "0001992808-26-000024",
   "0001992808-26-000027",
   "0001993147-26-000002",
   "0001993636-26-000009",
@@ -5895,6 +5895,7 @@
   "0001999371-26-022651",
   "0001999371-26-022675",
   "0001999371-26-022678",
+  "0001999371-26-022714",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
