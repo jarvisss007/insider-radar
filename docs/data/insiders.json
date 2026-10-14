@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-14 05:01 UTC",
+ "updated_utc": "2026-10-14 10:29 UTC",
  "purchases": [
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Horowitz Joshua",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 858.0,
-   "price": 9.23,
-   "value": 7919.34,
-   "acc": "0001104659-26-112426",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Garcia Cuellar Maria Regina",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 423.0,
-   "price": 20.5,
-   "value": 8671.5,
-   "acc": "0002063220-26-000002",
-   "filed": "2026-10-02"
-  },
   {
    "ticker": "CINT",
    "company": "CI&T Inc",
@@ -4728,6 +4704,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "BZUN",
+   "company": "Baozun Inc.",
+   "insider": "Qiu Wenbin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-12",
+   "shares": 6000.0,
+   "price": 3.34,
+   "value": 20040.0,
+   "acc": "0001104659-26-115702",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "AVO",
    "company": "Mission Produce, Inc.",
    "insider": "Gonzalez Luis A",
@@ -4750,6 +4738,18 @@
    "value": 1239375.97,
    "acc": "0001104659-26-115328",
    "filed": "2026-10-13"
+  },
+  {
+   "ticker": "BZUN",
+   "company": "Baozun Inc.",
+   "insider": "Qiu Wenbin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-13",
+   "shares": 5800.0,
+   "price": 3.47,
+   "value": 20126.0,
+   "acc": "0001104659-26-115702",
+   "filed": "2026-10-14"
   },
   {
    "ticker": "QTEX",
@@ -4847,11 +4847,6 @@
    "ticker": "HEI, HEI.A",
    "insiders": 8,
    "total_value": 1400594.55
-  },
-  {
-   "ticker": "MXF",
-   "insiders": 2,
-   "total_value": 943716.34
   },
   {
    "ticker": "FUL",
