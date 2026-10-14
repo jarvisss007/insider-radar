@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-14 19:54 UTC",
+ "updated_utc": "2026-10-14 20:10 UTC",
  "purchases": [
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "Horne William B.",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-30",
-   "shares": 100000.0,
-   "price": 0.163,
-   "value": 16300.0,
-   "acc": "0001214659-26-012280",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "Roe Peggy",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 88.0,
-   "price": 202.78,
-   "value": 17844.64,
-   "acc": "0001898688-26-000011",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -4330,6 +4306,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-09",
+   "shares": 585.0,
+   "price": 10.28,
+   "value": 6013.8,
+   "acc": "0001510281-26-000344",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "NEOG",
    "company": "NEOGEN CORP",
    "insider": "Nassif Mikheal",
@@ -4669,6 +4657,18 @@
    "filed": "2026-10-14"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-12",
+   "shares": 3100.0,
+   "price": 10.32,
+   "value": 31992.0,
+   "acc": "0001510281-26-000344",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "AVO",
    "company": "Mission Produce, Inc.",
    "insider": "Gonzalez Luis A",
@@ -4835,11 +4835,6 @@
    "total_value": 13968342.1
   },
   {
-   "ticker": "GPUS",
-   "insiders": 2,
-   "total_value": 5067416.15
-  },
-  {
    "ticker": "XENE",
    "insiders": 2,
    "total_value": 1681140.0
@@ -4856,8 +4851,8 @@
   },
   {
    "ticker": "SPG",
-   "insiders": 8,
-   "total_value": 435165.88
+   "insiders": 7,
+   "total_value": 417321.24
   },
   {
    "ticker": "RTSN",
@@ -4953,10 +4948,6 @@
   }
  ],
  "seen": [
-  "0001994121-26-000004",
-  "0001994131-26-000008",
-  "0001994334-26-000010",
-  "0001994334-26-000012",
   "0001994334-26-000013",
   "0001994334-26-000014",
   "0001994334-26-000015",
@@ -5891,6 +5882,8 @@
   "0001999371-26-022721",
   "0001999371-26-022738",
   "0001999371-26-022742",
+  "0001999371-26-022749",
+  "0001999371-26-022751",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7000,6 +6993,7 @@
   "0002074298-26-000016",
   "0002074298-26-000017",
   "0002074298-26-000018",
+  "0002074304-26-000003",
   "0002074423-26-000002",
   "0002074521-26-000002",
   "0002074644-26-000006",
@@ -7943,6 +7937,7 @@
   "0002155766-26-000006",
   "0002155784-26-000004",
   "0002155883-26-000004",
+  "0002155916-26-000004",
   "0002156048-26-000004",
   "0002156092-26-000005",
   "0002156224-26-000005",
