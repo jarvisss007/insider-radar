@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-14 00:20 UTC",
+ "updated_utc": "2026-10-14 00:35 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 516.0,
-   "price": 2.915,
-   "value": 1504.14,
-   "acc": "0001536588-26-000038",
-   "filed": "2026-10-02"
-  },
-  {
-   "ticker": "CINT",
-   "company": "CI&T Inc",
-   "insider": "Guicardi Neto Bruno",
-   "role": "Pres. of N. Am. /Europe Ops",
-   "date": "2026-09-30",
-   "shares": 800.0,
-   "price": 3.07,
-   "value": 2456.0,
-   "acc": "0001292814-26-004822",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "CRL",
-   "company": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
-   "insider": "Coleman Glenn",
-   "role": "EVP & Chief Financial Officer",
-   "date": "2026-09-30",
-   "shares": 10.0,
-   "price": 297.43,
-   "value": 2974.3,
-   "acc": "0001100682-26-000144",
-   "filed": "2026-10-02"
-  },
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "Cicco Martin J",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 15.0,
-   "price": 202.78,
-   "value": 3041.7,
-   "acc": "0002109729-26-000010",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "GRX",
    "company": "Gabelli Healthcare & WellnessRx Trust",
@@ -3585,6 +3537,19 @@
    "filed": "2026-10-08"
   },
   {
+   "ticker": "ONMD",
+   "company": "OneMedNet Corp",
+   "insider": "Kosasa Thomas",
+   "role": "Director",
+   "date": "2026-10-07",
+   "shares": 129758.0,
+   "price": 5.78,
+   "value": 750001.24,
+   "acc": "0001493152-26-046909",
+   "filed": "2026-10-13",
+   "placement": true
+  },
+  {
    "ticker": "SAH",
    "company": "SONIC AUTOMOTIVE INC",
    "insider": "Rusnak Paul P.",
@@ -4605,6 +4570,19 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "ONMD",
+   "company": "OneMedNet Corp",
+   "insider": "Yu Jeffrey",
+   "role": "Chief Medical Officer",
+   "date": "2026-10-09",
+   "shares": 45126.0,
+   "price": 5.54,
+   "value": 249998.04,
+   "acc": "0001493152-26-046908",
+   "filed": "2026-10-13",
+   "placement": true
+  },
+  {
    "ticker": "CTNT",
    "company": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
    "insider": "Liu Huan",
@@ -4786,6 +4764,30 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "ZONE",
+   "company": "Zone Frontier Inc.",
+   "insider": "Hassen Tyler Lewis",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-13",
+   "shares": 250000.0,
+   "price": 0.1187,
+   "value": 29675.0,
+   "acc": "0001213900-26-109187",
+   "filed": "2026-10-13"
+  },
+  {
+   "ticker": "ZONE",
+   "company": "Zone Frontier Inc.",
+   "insider": "Hassen Tyler Lewis",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-13",
+   "shares": 1000000.0,
+   "price": 0.1164,
+   "value": 116400.0,
+   "acc": "0001213900-26-109187",
+   "filed": "2026-10-13"
+  },
+  {
    "ticker": "RTSN",
    "company": "Retension Pharmaceuticals, Inc.",
    "insider": "BERGER FRANKLIN M",
@@ -4858,8 +4860,8 @@
   },
   {
    "ticker": "SPG",
-   "insiders": 11,
-   "total_value": 460716.16
+   "insiders": 10,
+   "total_value": 457674.46
   },
   {
    "ticker": "RTSN",
@@ -4888,8 +4890,8 @@
   },
   {
    "ticker": "CINT",
-   "insiders": 3,
-   "total_value": 74128.87
+   "insiders": 2,
+   "total_value": 71672.87
   },
   {
    "ticker": "LCU",
@@ -4946,10 +4948,15 @@
    "insiders": 5,
    "total_value": 0,
    "other_value": 4098600.0
+  },
+  {
+   "ticker": "ONMD",
+   "insiders": 2,
+   "total_value": 0,
+   "other_value": 999999.28
   }
  ],
  "seen": [
-  "0001992104-26-000465",
   "0001992104-26-000466",
   "0001992104-26-000467",
   "0001992104-26-000468",
@@ -6662,6 +6669,7 @@
   "0002058897-26-000316",
   "0002058905-26-000008",
   "0002058966-26-000002",
+  "0002059140-26-000010",
   "0002059222-26-000003",
   "0002059447-26-000004",
   "0002059447-26-000006",
