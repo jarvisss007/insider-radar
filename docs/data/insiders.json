@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-14 22:48 UTC",
+ "updated_utc": "2026-10-14 23:04 UTC",
  "purchases": [
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "RODKIN GARY M",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 232.0,
-   "price": 202.78,
-   "value": 47044.96,
-   "acc": "0001199045-26-000010",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "PRHI",
-   "company": "Presurance Holdings, Inc.",
-   "insider": "O'Hanlon Isolde",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 7250.0,
-   "price": 6.7497,
-   "value": 48935.32,
-   "acc": "0001193125-26-410913",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "PRHI",
-   "company": "Presurance Holdings, Inc.",
-   "insider": "Smith James Grant",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 7250.0,
-   "price": 6.7497,
-   "value": 48935.32,
-   "acc": "0001193125-26-410905",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "PRHI",
-   "company": "Presurance Holdings, Inc.",
-   "insider": "RONEY BRIAN J",
-   "role": "Chief Executive Officer",
-   "date": "2026-09-30",
-   "shares": 7500.0,
-   "price": 6.7497,
-   "value": 50622.75,
-   "acc": "0001193125-26-410894",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "GPUS",
-   "company": "Hyperscale Data, Inc.",
-   "insider": "AULT MILTON C III",
-   "role": "Executive Chairman",
-   "date": "2026-09-30",
-   "shares": 311874.0,
-   "price": 0.1639,
-   "value": 51116.15,
-   "acc": "0001214659-26-012383",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "LND",
    "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
@@ -4801,6 +4741,66 @@
    "filed": "2026-10-14"
   },
   {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 100.0,
+   "price": 85.76,
+   "value": 8576.0,
+   "acc": "0001366074-26-000006",
+   "filed": "2026-10-14"
+  },
+  {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 2449.0,
+   "price": 84.0707,
+   "value": 205889.14,
+   "acc": "0001366074-26-000006",
+   "filed": "2026-10-14"
+  },
+  {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 2470.0,
+   "price": 84.0707,
+   "value": 207654.63,
+   "acc": "0001366074-26-000006",
+   "filed": "2026-10-14"
+  },
+  {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 2451.0,
+   "price": 84.9992,
+   "value": 208333.04,
+   "acc": "0001366074-26-000006",
+   "filed": "2026-10-14"
+  },
+  {
+   "ticker": "INBX",
+   "company": "Inhibrx Biosciences, Inc.",
+   "insider": "Lappe Mark",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 2470.0,
+   "price": 84.9992,
+   "value": 209948.02,
+   "acc": "0001366074-26-000006",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4856,18 +4856,13 @@
   },
   {
    "ticker": "SPG",
-   "insiders": 4,
-   "total_value": 289772.62
+   "insiders": 3,
+   "total_value": 242727.66
   },
   {
    "ticker": "FEAM",
    "insiders": 2,
    "total_value": 240371.85
-  },
-  {
-   "ticker": "PRHI",
-   "insiders": 4,
-   "total_value": 222740.09
   },
   {
    "ticker": "TSM",
