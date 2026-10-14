@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-14 22:01 UTC",
+ "updated_utc": "2026-10-14 22:32 UTC",
  "purchases": [
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "STEWART MARTA R",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 199.0,
-   "price": 202.78,
-   "value": 40353.22,
-   "acc": "0001272064-26-000012",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "SELIG STEFAN M",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 208.0,
-   "price": 202.78,
-   "value": 42178.24,
-   "acc": "0001709407-26-000012",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "Aeppel Glyn",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 222.0,
-   "price": 202.78,
-   "value": 45017.16,
-   "acc": "0001340262-26-000013",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "SPG",
    "company": "SIMON PROPERTY GROUP INC.",
@@ -4669,6 +4633,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-12",
+   "shares": 158984.0,
+   "price": 12.9589,
+   "value": 2060257.76,
+   "acc": "0001398344-26-018199",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "CRBG",
    "company": "Corebridge Financial, Inc.",
    "insider": "NIPPON LIFE INSURANCE CO",
@@ -4801,6 +4777,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-13",
+   "shares": 110964.0,
+   "price": 12.8506,
+   "value": 1425953.98,
+   "acc": "0001398344-26-018199",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4810,6 +4798,18 @@
    "price": 4.9344,
    "value": 7401600.0,
    "acc": "0001628280-26-065849",
+   "filed": "2026-10-14"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-14",
+   "shares": 157661.0,
+   "price": 12.6332,
+   "value": 1991762.95,
+   "acc": "0001398344-26-018199",
    "filed": "2026-10-14"
   }
  ],
@@ -4825,14 +4825,14 @@
    "total_value": 39998260.45
   },
   {
+   "ticker": "BPRE",
+   "insiders": 2,
+   "total_value": 19416328.79
+  },
+  {
    "ticker": "GME",
    "insiders": 2,
    "total_value": 17338810.46
-  },
-  {
-   "ticker": "BPRE",
-   "insiders": 2,
-   "total_value": 13938354.1
   },
   {
    "ticker": "XENE",
@@ -4845,11 +4845,6 @@
    "total_value": 1400594.55
   },
   {
-   "ticker": "SPG",
-   "insiders": 7,
-   "total_value": 417321.24
-  },
-  {
    "ticker": "RTSN",
    "insiders": 2,
    "total_value": 369600.0
@@ -4858,6 +4853,11 @@
    "ticker": "AGMB",
    "insiders": 3,
    "total_value": 311170.0
+  },
+  {
+   "ticker": "SPG",
+   "insiders": 4,
+   "total_value": 289772.62
   },
   {
    "ticker": "FEAM",
@@ -4943,8 +4943,6 @@
   }
  ],
  "seen": [
-  "0001995346-26-000012",
-  "0001995565-26-000003",
   "0001996124-26-000014",
   "0001996255-26-000004",
   "0001996303-26-000008",
@@ -6816,6 +6814,7 @@
   "0002070849-26-000067",
   "0002070849-26-000069",
   "0002070849-26-000071",
+  "0002070849-26-000072",
   "0002070858-26-000012",
   "0002070979-26-000282",
   "0002070979-26-000284",
@@ -7942,7 +7941,8 @@
   "0002157600-26-000005",
   "0002157924-26-000006",
   "0002158060-26-000005",
-  "0002158511-26-000003"
+  "0002158511-26-000003",
+  "0002160029-26-000004"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
