@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-15 15:07 UTC",
+ "updated_utc": "2026-10-15 15:23 UTC",
  "purchases": [
-  {
-   "ticker": "CRESY",
-   "company": "CRESUD INC",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "CEO",
-   "date": "2026-09-30",
-   "shares": 8573.0,
-   "price": 11.63,
-   "value": 99703.99,
-   "acc": "0002119764-26-000028",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 11059.0,
-   "price": 10.71,
-   "value": 118441.89,
-   "acc": "0001510281-26-000319",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 44643.0,
-   "price": 3.63,
-   "value": 162054.09,
-   "acc": "0001628280-26-064003",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "LILA",
    "company": "Liberty Latin America Ltd.",
@@ -4597,6 +4561,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "VMO",
+   "company": "Invesco Municipal Opportunity Trust",
+   "insider": "Setcavage Rebecca",
+   "role": "",
+   "date": "2026-10-13",
+   "shares": 3000.0,
+   "price": 8.64,
+   "value": 25920.0,
+   "acc": "0001852367-26-000009",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "ZONE",
    "company": "Zone Frontier Inc.",
    "insider": "Hassen Tyler Lewis",
@@ -4667,6 +4643,18 @@
    "value": 1425953.98,
    "acc": "0001398344-26-018199",
    "filed": "2026-10-14"
+  },
+  {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-10-13",
+   "shares": 42682.0,
+   "price": 39.917,
+   "value": 1703737.39,
+   "acc": "0001104659-26-116094",
+   "filed": "2026-10-15"
   },
   {
    "ticker": "BORR",
@@ -4775,6 +4763,18 @@
    "value": 209948.02,
    "acc": "0001366074-26-000006",
    "filed": "2026-10-14"
+  },
+  {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 25200.0,
+   "price": 39.6328,
+   "value": 998746.56,
+   "acc": "0001104659-26-116094",
+   "filed": "2026-10-15"
   },
   {
    "ticker": "BPRE",
