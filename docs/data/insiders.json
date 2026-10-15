@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-15 14:04 UTC",
+ "updated_utc": "2026-10-15 14:36 UTC",
  "purchases": [
-  {
-   "ticker": "RDGL",
-   "company": "VIVOS INC",
-   "insider": "Korenko Michael K",
-   "role": "CEO",
-   "date": "2026-09-30",
-   "shares": 200000.0,
-   "price": 0.498,
-   "value": 99600.0,
-   "acc": "0001486806-26-000010",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "CRESY",
    "company": "CRESUD INC",
@@ -4811,6 +4799,18 @@
    "value": 3542550.0,
    "acc": "0001628280-26-065947",
    "filed": "2026-10-15"
+  },
+  {
+   "ticker": "QTEX",
+   "company": "QTREX Quantum Ltd.",
+   "insider": "Parnes Tal",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 6666.0,
+   "price": 1.5,
+   "value": 9999.0,
+   "acc": "0001185185-26-004770",
+   "filed": "2026-10-15"
   }
  ],
  "clusters": [
@@ -4863,6 +4863,11 @@
    "ticker": "WVVI",
    "insiders": 4,
    "total_value": 66794.57
+  },
+  {
+   "ticker": "QTEX",
+   "insiders": 2,
+   "total_value": 61359.84
   },
   {
    "ticker": "INLX",
