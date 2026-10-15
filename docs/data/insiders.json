@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-15 07:03 UTC",
+ "updated_utc": "2026-10-15 11:11 UTC",
  "purchases": [
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "Smith Daniel C.",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 350.0,
-   "price": 202.78,
-   "value": 70973.0,
-   "acc": "0001464273-26-000010",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "PRHI",
-   "company": "Presurance Holdings, Inc.",
-   "insider": "SARAFA JOSEPH D",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 11000.0,
-   "price": 6.7497,
-   "value": 74246.7,
-   "acc": "0001193125-26-410914",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "SPG",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "insider": "GLASSCOCK LARRY C",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 367.0,
-   "price": 202.78,
-   "value": 74420.26,
-   "acc": "0001189793-26-000014",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "FLNA",
    "company": "FILANA THERAPEUTICS, INC.",
@@ -4501,6 +4465,18 @@
    "filed": "2026-10-14"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-12",
+   "shares": 8937.0,
+   "price": 4.1117,
+   "value": 36746.26,
+   "acc": "0001193125-26-422252",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "CRT",
    "company": "CROSS TIMBERS ROYALTY TRUST",
    "insider": "OLIVER ERIC L",
@@ -4645,6 +4621,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-13",
+   "shares": 5438.0,
+   "price": 4.2048,
+   "value": 22865.7,
+   "acc": "0001193125-26-422252",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "ZONE",
    "company": "Zone Frontier Inc.",
    "insider": "Hassen Tyler Lewis",
@@ -4739,6 +4727,18 @@
    "value": 8576.0,
    "acc": "0001366074-26-000006",
    "filed": "2026-10-14"
+  },
+  {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 9757.0,
+   "price": 4.2953,
+   "value": 41909.24,
+   "acc": "0001193125-26-422252",
+   "filed": "2026-10-15"
   },
   {
    "ticker": "ZONE",
@@ -4918,8 +4918,6 @@
   }
  ],
  "seen": [
-  "0001996303-26-000008",
-  "0001996312-26-000012",
   "0001997180-26-000008",
   "0001997505-26-000010",
   "0001997584-26-000004",
@@ -5839,6 +5837,7 @@
   "0001999371-26-022749",
   "0001999371-26-022751",
   "0001999371-26-022757",
+  "0001999371-26-022779",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7439,6 +7438,7 @@
   "0002111103-26-000037",
   "0002111103-26-000039",
   "0002111103-26-000041",
+  "0002111248-26-000004",
   "0002111348-26-000011",
   "0002111354-26-000016",
   "0002111465-26-000004",
