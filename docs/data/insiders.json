@@ -1,43 +1,6 @@
 {
- "updated_utc": "2026-10-15 18:16 UTC",
+ "updated_utc": "2026-10-15 19:35 UTC",
  "purchases": [
-  {
-   "ticker": "VCIG",
-   "company": "VCI Global Ltd",
-   "insider": "HOO VOON HIM",
-   "role": "CEO and Director",
-   "date": "2026-09-30",
-   "shares": 193349.0,
-   "price": 1.62,
-   "value": 313225.38,
-   "acc": "0001213900-26-106613",
-   "filed": "2026-10-05",
-   "placement": true
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 4008.0,
-   "price": 79.98,
-   "value": 320559.84,
-   "acc": "0001193125-26-409451",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "DKS",
-   "company": "DICK'S SPORTING GOODS, INC.",
-   "insider": "Barnes Matthew",
-   "role": "President - Foot Locker Intl",
-   "date": "2026-09-30",
-   "shares": 3665.0,
-   "price": 136.3899,
-   "value": 499868.98,
-   "acc": "0002100573-26-000006",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4573,6 +4536,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-13",
+   "shares": 3678.0,
+   "price": 10.27,
+   "value": 37773.06,
+   "acc": "0001510281-26-000350",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "IMSR",
    "company": "Terrestrial Energy Inc. /DE/",
    "insider": "Irish Simon",
@@ -4681,6 +4656,18 @@
    "filed": "2026-10-14"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 1662.0,
+   "price": 10.25,
+   "value": 17035.5,
+   "acc": "0001510281-26-000350",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "API",
    "company": "Agora, Inc.",
    "insider": "Zhao Bin",
@@ -4751,6 +4738,18 @@
    "value": 209948.02,
    "acc": "0001366074-26-000006",
    "filed": "2026-10-14"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 56083.0,
+   "price": 11.74,
+   "value": 658414.42,
+   "acc": "0001510281-26-000349",
+   "filed": "2026-10-15"
   },
   {
    "ticker": "GOLD",
@@ -4923,7 +4922,6 @@
   }
  ],
  "seen": [
-  "0001997710-26-000004",
   "0001997711-26-000147",
   "0001997711-26-000161",
   "0001997751-26-000002",
@@ -6733,6 +6731,7 @@
   "0002065757-26-000007",
   "0002065999-26-000003",
   "0002065999-26-000005",
+  "0002065999-26-000007",
   "0002066234-26-000002",
   "0002066491-26-000011",
   "0002066736-26-000004",
