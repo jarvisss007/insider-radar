@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-15 21:26 UTC",
+ "updated_utc": "2026-10-15 21:58 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 16343.0,
-   "price": 244.6067,
-   "value": 3997607.3,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manulife (Singapore) Pte. Ltd.",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 227095.1028,
-   "price": 17.613,
-   "value": 3999826.05,
-   "acc": "0001837478-26-000018",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 16514.0,
-   "price": 243.4213,
-   "value": 4019859.35,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "GPUS",
    "company": "Hyperscale Data, Inc.",
@@ -4308,6 +4272,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "MacDonald Ryan S",
+   "role": "Director",
+   "date": "2026-10-13",
+   "shares": 120.0,
+   "price": 12.8,
+   "value": 1536.0,
+   "acc": "0001398344-26-018261",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "XAIR",
    "company": "Beyond Air, Inc.",
    "insider": "Lin Yi-Chien",
@@ -4608,6 +4584,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "IMSR",
+   "company": "Terrestrial Energy Inc. /DE/",
+   "insider": "Pardee Charles G",
+   "role": "Director",
+   "date": "2026-10-14",
+   "shares": 7500.0,
+   "price": 2.95,
+   "value": 22125.0,
+   "acc": "0001193125-26-423068",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "API",
    "company": "Agora, Inc.",
    "insider": "Zhao Bin",
@@ -4617,6 +4605,18 @@
    "price": 4.2953,
    "value": 41909.24,
    "acc": "0001193125-26-422252",
+   "filed": "2026-10-15"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "Ruddy Jordan B.",
+   "role": "President",
+   "date": "2026-10-14",
+   "shares": 3520.0,
+   "price": 12.59,
+   "value": 44316.8,
+   "acc": "0001398344-26-018255",
    "filed": "2026-10-15"
   },
   {
@@ -4815,8 +4815,8 @@
  "clusters": [
   {
    "ticker": "BPRE",
-   "insiders": 2,
-   "total_value": 17472784.55
+   "insiders": 3,
+   "total_value": 17518637.35
   },
   {
    "ticker": "GME",
@@ -4855,8 +4855,8 @@
   },
   {
    "ticker": "IMSR",
-   "insiders": 2,
-   "total_value": 90154.3
+   "insiders": 3,
+   "total_value": 112279.3
   },
   {
    "ticker": "LCU",
@@ -4927,8 +4927,6 @@
   }
  ],
  "seen": [
-  "0001998256-26-000013",
-  "0001998256-26-000015",
   "0001998332-26-000008",
   "0001998460-26-000009",
   "0001998460-26-000013",
@@ -6034,6 +6032,7 @@
   "0002014240-26-000006",
   "0002014275-26-000012",
   "0002014275-26-000014",
+  "0002014328-26-000010",
   "0002014361-26-000032",
   "0002014361-26-000035",
   "0002014386-26-000006",
@@ -7451,6 +7450,7 @@
   "0002111867-26-000012",
   "0002111867-26-000013",
   "0002111902-26-000005",
+  "0002111902-26-000007",
   "0002111904-26-000003",
   "0002111929-26-000016",
   "0002111933-26-000005",
