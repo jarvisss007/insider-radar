@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-14 23:35 UTC",
+ "updated_utc": "2026-10-15 00:21 UTC",
  "purchases": [
-  {
-   "ticker": "LND",
-   "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 15000.0,
-   "price": 3.4829,
-   "value": 52243.5,
-   "acc": "0002119764-26-000030",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "SPG",
    "company": "SIMON PROPERTY GROUP INC.",
@@ -4753,6 +4741,18 @@
    "filed": "2026-10-14"
   },
   {
+   "ticker": "ZONE",
+   "company": "Zone Frontier Inc.",
+   "insider": "Hassen Tyler Lewis",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 750000.0,
+   "price": 0.1136,
+   "value": 85200.0,
+   "acc": "0001213900-26-109523",
+   "filed": "2026-10-14"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4938,7 +4938,6 @@
   }
  ],
  "seen": [
-  "0001996124-26-000014",
   "0001996255-26-000004",
   "0001996303-26-000008",
   "0001996312-26-000012",
@@ -7358,6 +7357,7 @@
   "0002097345-26-000012",
   "0002097345-26-000014",
   "0002097345-26-000016",
+  "0002097368-26-000005",
   "0002097370-26-000006",
   "0002097393-26-000006",
   "0002097393-26-000008",
