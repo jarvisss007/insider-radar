@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-15 17:44 UTC",
+ "updated_utc": "2026-10-15 18:16 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 1040.0,
-   "price": 245.0998,
-   "value": 254903.79,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "VCIG",
    "company": "VCI Global Ltd",
@@ -4513,6 +4501,18 @@
    "filed": "2026-10-14"
   },
   {
+   "ticker": "MDBH",
+   "company": "MDB Capital Holdings, LLC",
+   "insider": "MARLETT CHRISTOPHER A",
+   "role": "Co-Founder",
+   "date": "2026-10-13",
+   "shares": 10000.0,
+   "price": 1.99,
+   "value": 19900.0,
+   "acc": "0001493152-26-047198",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "BZUN",
    "company": "Baozun Inc.",
    "insider": "Qiu Wenbin",
@@ -4923,7 +4923,6 @@
   }
  ],
  "seen": [
-  "0001997584-26-000006",
   "0001997710-26-000004",
   "0001997711-26-000147",
   "0001997711-26-000161",
@@ -7663,6 +7662,7 @@
   "0002127674-26-000002",
   "0002127814-26-000004",
   "0002127850-26-000002",
+  "0002127871-26-000006",
   "0002127888-26-000004",
   "0002127908-26-000004",
   "0002127924-26-000015",
