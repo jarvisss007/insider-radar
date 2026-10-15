@@ -178,3 +178,11 @@ week-clustered bootstrap CI containing zero) are untouched by either clause.
 n=40 is reached at approximately **2026-10-13** at one forecast per weekday. If Clause A fails at that
 date, the correct reading is that fourteen months of this book's probabilities were unfalsifiable, and
 that finding is to be reported as prominently as any verdict about the market would have been.
+
+---
+
+## PRE-REGISTERED 2026-10-14 — INS-033/v1: does a $5 entry-price floor help the desk? (forward test; the desk is unchanged)
+**Claim.** Among insider-desk longs, D = (mean excess vs IWM of rows priced at or above $5.00) minus (that of rows under $5.00) is > 0.
+**Where it came from, stated so it cannot later be dressed up as a prediction.** The 2026-10-13/14 audit: 48 insider longs under $5 lost $7,772; 66 at $20+ made $331. One of many cuts looked at, so it is mined and luck-taxed (K = 20); only calls dated 2026-10-15..2026-12-01 count.
+**Test, bar, looks, minimum n, pause rule, prior.** All in `research/PREREG_INS-033.md`; the code is `ins033_floor_test.py` (RULE_SHA `ee0cbe25…`); the in-sample cut table is `research/INS-033_cuts_looked_at.txt`. Looks 2026-12-31 and 2027-03-31 only; counts only before the first. PASS only proposes a floor to Anupam; FAIL retires the idea (no re-cut at $3 or $10). CONTINUE is the likeliest first answer and is not a refutation.
+Like the others in this file, it changes nothing the desk does while it is untested.
