@@ -1806,3 +1806,9 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 ## 2026-10-13 [insider] — GARUDA sweep
 - Grader's 10-12 pass: 2 right / 6 wrong (GME +29% the lone big win; CZNC, a $5k sub-floor cluster, wrong). Headline now 46% (n=99), sub-floor 31% (n=52) — both under a coin; the null is not moving. n too small for any value-band lesson.
 - Re-logs of scored tickers (GME, CZNC) are the rule (one open row per ticker), but GME's cluster grew 20x between rows: the second row is a new information set, not a duplicate. Disclosed on the row.
+
+## 2026-10-15 [insider] — GARUDA sweep (catch-up on the grader's 10-14 pass)
+- Grader's 10-14 pass, not lessoned until now: 0 right / 5 wrong (HELP -23.8%, DOMH -10.7%, ALP -9.6%, ANIX -5.2%, FGBI -4.9%). A five-for-five loss on one day is one market observation, not five.
+- Directive's n=100 checkpoint reached: HEADLINE 45% (n=102, 30 entry days) vs sub-floor 30% (n=54, 25 entry days). Both below a coin; the null stands. The gap between strata is reported, not argued — sub-floor is n<100 on 25 dates.
+- Attribution (157 scored): CEO buying n=77/29 dates hit 36% avg -6.2%; directors only n=94/31 dates 43% avg -0.7%; big (>= $5M) n=17 — n too small. No support for "CEO-included is better"; if anything the reverse, still not a proof.
+- Logged QTEX (2 insiders, $0.06M, sub-floor) QUEUED per INS-014. 5 rows due today (PMTS, MAIA, NNOX, OFLX, UAVS) wait for the 13:40 grader; today's bar is not settled.
