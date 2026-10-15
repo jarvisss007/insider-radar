@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-15 20:07 UTC",
+ "updated_utc": "2026-10-15 20:23 UTC",
  "purchases": [
-  {
-   "ticker": "AVR",
-   "company": "Anteris Technologies Global Corp.",
-   "insider": "L1 Capital Pty Ltd",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 74286.0,
-   "price": 7.72,
-   "value": 573487.92,
-   "acc": "0001817646-26-000028",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 3151.0,
-   "price": 241.0405,
-   "value": 759518.62,
-   "acc": "0000905148-26-004310",
-   "filed": "2026-09-30"
-  },
-  {
-   "ticker": "FGBI",
-   "company": "First Guaranty Bancshares, Inc.",
-   "insider": "Smith Edgar R. III",
-   "role": "Director",
-   "date": "2026-09-30",
-   "shares": 99277.0,
-   "price": 8.28,
-   "value": 822013.56,
-   "acc": "0001437749-26-031876",
-   "filed": "2026-10-02"
-  },
   {
    "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
    "company": "John Hancock GA Mortgage Trust",
@@ -4572,6 +4536,30 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-10-13",
+   "shares": 100000.0,
+   "price": 8.3548,
+   "value": 835480.0,
+   "acc": "0001045463-26-000021",
+   "filed": "2026-10-15"
+  },
+  {
+   "ticker": "CXM",
+   "company": "Sprinklr, Inc.",
+   "insider": "WARD JR STEPHEN M",
+   "role": "Director",
+   "date": "2026-10-13",
+   "shares": 150000.0,
+   "price": 5.67,
+   "value": 850500.0,
+   "acc": "0001164644-26-000008",
+   "filed": "2026-10-15"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4665,6 +4653,18 @@
    "price": 2.7628,
    "value": 55256.0,
    "acc": "0001213900-26-109819",
+   "filed": "2026-10-15"
+  },
+  {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 10000.0,
+   "price": 8.4569,
+   "value": 84569.0,
+   "acc": "0001045463-26-000021",
    "filed": "2026-10-15"
   },
   {
@@ -4922,7 +4922,6 @@
   }
  ],
  "seen": [
-  "0001997751-26-000002",
   "0001997961-26-000002",
   "0001998053-26-000023",
   "0001998054-26-000008",
@@ -7890,6 +7889,7 @@
   "0002153122-26-000005",
   "0002153127-26-000004",
   "0002153131-26-000007",
+  "0002153282-26-000004",
   "0002153364-26-000004",
   "0002153365-26-000004",
   "0002153366-26-000006",
