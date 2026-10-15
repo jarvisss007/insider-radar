@@ -203,10 +203,24 @@ def test_a_void_row_with_a_price_is_stamped_but_never_scored(env):
     assert (by["LT5"]["void"], len(by["LT5"]["rows"]), by["LT5"]["stamped"]) == (1, 1, 2)
 
 
-def test_two_rows_with_one_key_fail_loud(env):
+def test_two_rows_with_one_date_and_ticker_are_two_cohort_rows_and_a_check_date_roll_orphans_nothing(env):
     write_ledger(F.LEDGER, [L("2026-10-15", "DUP", "3.00"), L("2026-10-15", "DUP", "6.00")])
+    s = F.stamp()
+    got = read_cohort(F.COHORT)
+    assert s["added"] == 2 and [r["key"] for r in got] == ["2026-10-15|DUP|0", "2026-10-15|DUP|1"] and [r["bucket"] for r in got] == ["LT5", "GE5"]
+    # a SESSION-001 roll rewrites check_date later: the stamped row still joins, and a second stamp adds nothing
+    write_ledger(F.LEDGER, [L("2026-10-15", "DUP", "3.00", check="2026-11-17"), L("2026-10-15", "DUP", "6.00", check="2026-11-16")])
+    assert F.stamp()["added"] == 0
+    by = F.classify(read_cohort(F.COHORT), F.read_ledger())
+    assert by["LT5"]["stamped"] == 1 and by["GE5"]["stamped"] == 1
+
+
+def test_a_stamped_row_that_leaves_the_ledger_is_broken(env):
+    write_ledger(F.LEDGER, [L("2026-10-15", "GONE", "3.00")])
+    F.stamp()
+    write_ledger(F.LEDGER, [])
     with pytest.raises(F.Broken):
-        F.stamp()
+        F.classify(read_cohort(F.COHORT), F.read_ledger())
 
 
 def test_a_missing_ledger_is_broken_not_a_clean_zero(env, capsys):

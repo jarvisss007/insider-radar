@@ -222,8 +222,17 @@ def read_cohort(path=None):
         return list(rd)
 
 
-def row_key(r):
-    return f"{r['date']}|{r['ticker']}|{r.get('check_date', '')}"
+def keyed(ledger):
+    """[(key, row)], key = date|ticker|ordinal among the ledger rows that share that date and ticker. The ledger only grows at the end
+    and a row is never deleted (BENCH-002), so a row's ordinal never moves. check_date is deliberately NOT in the key: a SESSION-001
+    roll rewrites it, and a key that moved would orphan a stamped row."""
+    n, out = {}, []
+    for r in ledger:
+        base = f"{(r.get('date') or '').strip()}|{(r.get('ticker') or '').strip()}"
+        i = n.get(base, 0)
+        n[base] = i + 1
+        out.append((f"{base}|{i}", r))
+    return out
 
 
 # ── pause (the cohort ends on the pause date) ─────────────────────────────────────────────────────────────────────────────
@@ -278,7 +287,6 @@ def stamp(now=None):
     ledger = read_ledger()
     have = read_cohort()
     keys = {r["key"] for r in have}
-    seen = {}
     warn = None
     try:
         end, src = cohort_end()
@@ -292,14 +300,10 @@ def stamp(now=None):
     if end and not persisted:
         atomicio.atomic_json(STATE, {"cohort_end": end, "source": src, "recorded_at": utc_stamp(now), "rule_sha": RULE_SHA}, indent=1)
     new, unfilled, nonlong, void_nop, after_end = [], 0, 0, 0, 0
-    for r in ledger:
+    for k, r in keyed(ledger):
         d = (r.get("date") or "").strip()
         if not in_window(d):
             continue
-        k = row_key(r)
-        if k in seen:
-            raise Broken(f"two ledger rows share the key {k}: refusing to stamp (a silent drop would shrink the cohort)")
-        seen[k] = 1
         if (r.get("call") or "").strip() != "long":
             nonlong += 1
             continue
@@ -355,7 +359,7 @@ def blotter_row(r):
 
 def classify(cohort, ledger, end=None):
     """Join the stamped cohort to the live ledger. -> dict bucket -> {'rows': [blotter rows], 'open': n, 'void': n, 'noret': n, 'restated': n}."""
-    by_key = {row_key(r): r for r in ledger}
+    by_key = dict(keyed(ledger))
     out = {b: dict(stamped=0, rows=[], open=0, void=0, noret=0, restated=0, other=0) for b in BUCKETS}
     for c in cohort:
         if end and c["date"] >= end:
@@ -509,7 +513,8 @@ def render_counts(by_bucket, ledger_counts, asof, end, nxt):
          f"{'':32}{'GE5':>8}{'LT5':>8}"]
     cs = {b: counts_of(by_bucket[b]["rows"]) for b in BUCKETS}
     for label, key in (("stamped rows", "stamped"), ("scored (right/wrong)", None), ("open (not yet graded)", "open"),
-                       ("void (excluded)", "void"), ("scored without a return", "noret"), ("restated since stamp", "restated")):
+                       ("void (excluded)", "void"), ("scored without a return", "noret"), ("restated since stamp", "restated"),
+                       ("other outcome (excluded)", "other")):
         vals = [len(by_bucket[b]["rows"]) if key is None else by_bucket[b][key] for b in BUCKETS]
         L.append(f"{label:32}{vals[0]:>8}{vals[1]:>8}")
     for label, key, need in (("entry days (scored)", "entry_days", MIN_N["entry_days"]), ("entry weeks (scored)", "entry_weeks", MIN_N["entry_weeks"]),
@@ -548,7 +553,7 @@ def score(asof=None):
     res = evaluate(by_bucket, asof, i)
     due =sum(1 for r in ledger if in_window((r.get("date") or "").strip()) and (r.get("check_date") or "") <= LOOKS[i]
               and (r.get("price_at_call") or "").strip() and not (r.get("outcome") or "").strip())
-    extra = [f"  voids per bucket: GE5 {by_bucket['GE5']['void']}, LT5 {by_bucket['LT5']['void']}; open per bucket: GE5 {by_bucket['GE5']['open']}, LT5 {by_bucket['LT5']['open']}; "
+    extra = [f"  voids per bucket: GE5 {by_bucket['GE5']['void']}, LT5 {by_bucket['LT5']['void']}; other outcomes (excluded): GE5 {by_bucket['GE5']['other']}, LT5 {by_bucket['LT5']['other']}; open per bucket: GE5 {by_bucket['GE5']['open']}, LT5 {by_bucket['LT5']['open']}; "
              f"no price yet (bucket unknown): {wc['unfilled']}; restated since stamp (bucket frozen): GE5 {by_bucket['GE5']['restated']}, LT5 {by_bucket['LT5']['restated']}"]
     if due:
         extra.append(f"  WARNING: {due} cohort row(s) are due on or before {LOOKS[i]} but not yet graded; the 13:40 PT grader may not have run. This look is premature until they are.")
