@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-16 15:29 UTC",
+ "updated_utc": "2026-10-16 16:49 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 55.0,
-   "price": 1.75,
-   "value": 96.25,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "Miles Christen Brooke",
-   "role": "VP, Human Resources",
-   "date": "2026-10-01",
-   "shares": 4.632,
-   "price": 21.59,
-   "value": 100.0,
-   "acc": "0001437749-26-031825",
-   "filed": "2026-10-02"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4716,6 +4692,30 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Mitchell William Edward",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 68.38,
+   "price": 14.625,
+   "value": 1000.06,
+   "acc": "0000752642-26-000132",
+   "filed": "2026-10-16"
+  },
+  {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Miller Kevin S.",
+   "role": "EVP, CFO, Treasurer",
+   "date": "2026-10-15",
+   "shares": 68.38,
+   "price": 14.625,
+   "value": 1000.06,
+   "acc": "0000752642-26-000131",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "INM",
    "company": "InMed Pharmaceuticals Inc.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -4894,6 +4894,11 @@
    "total_value": 2576.39
   },
   {
+   "ticker": "UMH",
+   "insiders": 2,
+   "total_value": 2000.12
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 6,
    "total_value": 1374.53
@@ -4906,9 +4911,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-014447",
-  "0001999371-26-014455",
-  "0001999371-26-014476",
   "0001999371-26-014767",
   "0001999371-26-014769",
   "0001999371-26-014777",
@@ -5803,6 +5805,8 @@
   "0001999371-26-022913",
   "0001999371-26-022918",
   "0001999371-26-022921",
+  "0001999371-26-022936",
+  "0001999371-26-022938",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6418,6 +6422,7 @@
   "0002047821-26-000007",
   "0002047976-26-000183",
   "0002047976-26-000184",
+  "0002047976-26-000192",
   "0002048260-26-000002",
   "0002048376-26-000002",
   "0002048376-26-000003",
