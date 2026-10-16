@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-16 18:39 UTC",
+ "updated_utc": "2026-10-16 19:27 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 189.0,
-   "price": 1.75,
-   "value": 330.75,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 211.0,
-   "price": 1.73,
-   "value": 365.03,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4716,6 +4692,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "MDBH",
+   "company": "MDB Capital Holdings, LLC",
+   "insider": "MARLETT CHRISTOPHER A",
+   "role": "Co-Founder",
+   "date": "2026-10-15",
+   "shares": 917.0,
+   "price": 1.93,
+   "value": 1769.81,
+   "acc": "0001493152-26-047389",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4810,6 +4798,18 @@
    "value": 3000000.0,
    "acc": "0001193125-26-422957",
    "filed": "2026-10-15"
+  },
+  {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 435000.0,
+   "price": 80.78,
+   "value": 35139300.0,
+   "acc": "0002022936-26-000017",
+   "filed": "2026-10-16"
   }
  ],
  "clusters": [
@@ -4916,9 +4916,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-014780",
-  "0001999371-26-014807",
-  "0001999371-26-014828",
   "0001999371-26-014858",
   "0001999371-26-014860",
   "0001999371-26-014888",
@@ -5810,6 +5807,8 @@
   "0001999371-26-022936",
   "0001999371-26-022938",
   "0001999371-26-022957",
+  "0001999371-26-022960",
+  "0001999371-26-022962",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6125,6 +6124,7 @@
   "0002022936-26-000012",
   "0002022936-26-000015",
   "0002022936-26-000016",
+  "0002022936-26-000017",
   "0002023157-26-000005",
   "0002023175-26-000007",
   "0002023255-26-000007",
