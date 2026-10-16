@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-16 21:18 UTC",
+ "updated_utc": "2026-10-16 21:34 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 2200.0,
-   "price": 1.71,
-   "value": 3762.0,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "BBR ALO FUND, LLC (CIK 1811114)",
-   "company": "BBR ALO Fund, LLC",
-   "insider": "WINGERTZAHN MICHAEL",
-   "role": "Director",
-   "date": "2026-10-01",
-   "shares": 342.682,
-   "price": 14.5908,
-   "value": 5000.0,
-   "acc": "0001104659-26-113107",
-   "filed": "2026-10-02"
-  },
-  {
-   "ticker": "BBR ALO FUND, LLC (CIK 1811114)",
-   "company": "BBR ALO Fund, LLC",
-   "insider": "WINGERTZAHN MICHAEL",
-   "role": "Director",
-   "date": "2026-10-01",
-   "shares": 342.649,
-   "price": 14.5922,
-   "value": 5000.0,
-   "acc": "0001104659-26-115304",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 100.0,
-   "price": 80.0,
-   "value": 8000.0,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "KIO",
    "company": "KKR Income Opportunities Fund",
@@ -4644,6 +4596,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Fitzgerald John Taylor Maloney",
+   "role": "President and CEO",
+   "date": "2026-10-15",
+   "shares": 357.0,
+   "price": 9.74,
+   "value": 3477.18,
+   "acc": "0001072627-26-000058",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4713,6 +4677,30 @@
    "price": 169.99,
    "value": 25158.52,
    "acc": "0001513845-26-000130",
+   "filed": "2026-10-16"
+  },
+  {
+   "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
+   "company": "BIP Ventures Evergreen BDC",
+   "insider": "Flickinger Mark",
+   "role": "Chief Operating Officer",
+   "date": "2026-10-15",
+   "shares": 1064.0,
+   "price": 34.79,
+   "value": 37016.56,
+   "acc": "0001193125-26-424273",
+   "filed": "2026-10-16"
+  },
+  {
+   "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
+   "company": "BIP Ventures Evergreen BDC",
+   "insider": "Flickinger Mark",
+   "role": "Chief Operating Officer",
+   "date": "2026-10-15",
+   "shares": 1207.0,
+   "price": 34.79,
+   "value": 41991.53,
+   "acc": "0001193125-26-424273",
    "filed": "2026-10-16"
   },
   {
@@ -4788,6 +4776,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "KWY",
+   "company": "KINGSWAY Corp",
+   "insider": "Hansen Kent A",
+   "role": "CFO & EVP",
+   "date": "2026-10-16",
+   "shares": 160.0,
+   "price": 9.74,
+   "value": 1558.4,
+   "acc": "0001072627-26-000057",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4849,6 +4849,11 @@
    "total_value": 240371.85
   },
   {
+   "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
+   "insiders": 2,
+   "total_value": 129001.32
+  },
+  {
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 121466.7
@@ -4894,6 +4899,11 @@
    "total_value": 6454.03
   },
   {
+   "ticker": "KWY",
+   "insiders": 2,
+   "total_value": 5035.58
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "insiders": 3,
    "total_value": 2576.39
@@ -4916,8 +4926,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-015255",
-  "0001999371-26-015258",
   "0001999371-26-015260",
   "0001999371-26-015263",
   "0001999371-26-015265",
@@ -7460,6 +7468,7 @@
   "0002114046-26-000006",
   "0002114067-26-000004",
   "0002114109-26-000003",
+  "0002114165-26-000002",
   "0002114274-26-000004",
   "0002114274-26-000006",
   "0002114309-26-000005",
@@ -7659,6 +7668,7 @@
   "0002128786-26-000006",
   "0002129321-26-000013",
   "0002129321-26-000015",
+  "0002129321-26-000017",
   "0002129331-26-000005",
   "0002129331-26-000006",
   "0002129745-26-000003",
