@@ -1812,3 +1812,10 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - Directive's n=100 checkpoint reached: HEADLINE 45% (n=102, 30 entry days) vs sub-floor 30% (n=54, 25 entry days). Both below a coin; the null stands. The gap between strata is reported, not argued — sub-floor is n<100 on 25 dates.
 - Attribution (157 scored): CEO buying n=77/29 dates hit 36% avg -6.2%; directors only n=94/31 dates 43% avg -0.7%; big (>= $5M) n=17 — n too small. No support for "CEO-included is better"; if anything the reverse, still not a proof.
 - Logged QTEX (2 insiders, $0.06M, sub-floor) QUEUED per INS-014. 5 rows due today (PMTS, MAIA, NNOX, OFLX, UAVS) wait for the 13:40 grader; today's bar is not settled.
+
+## 2026-10-16 [insider] — GARUDA sweep (catch-up on the grader's 10-15 pass)
+- Grader's 10-15 pass: 1 right / 4 wrong (PMTS +5.1% right; MAIA -17.0%, NNOX -28.4%, UAVS -23.3%, OFLX -4.4%). One market day, not five observations.
+- Strata (agent/strata.py): HEADLINE 45% (n=104, 31 entry days); sub-floor 28% (n=57, 26 entry days). Both under the coin; the null stands. No blended figure.
+- Attribution (162 scored): CEO buying n=79/30 dates 35% avg -6.6%; directors only n=97/32 dates 42% avg -1.0% — the CEO-included gap persists, still not a proof. Big (>= $5M) n=18 — n too small.
+- Logged TRXB (2 x 10% owners, $3.80M, headline) QUEUED per INS-014. Caveat: every fill at $14.00 flat on a name listed 10-09 — placement-style buying, not the open-market conviction the hypothesis is about; logged anyway (INS-002: log every cluster).
+- 6 rows due today (CELH, RWT, SBLK, OXM, STI, TENX) wait for the 13:40 grader; today's bar is not settled. Nothing overdue.
