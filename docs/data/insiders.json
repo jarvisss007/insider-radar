@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-16 18:24 UTC",
+ "updated_utc": "2026-10-16 18:39 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 100.0,
-   "price": 1.73,
-   "value": 173.0,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 100.0,
-   "price": 1.75,
-   "value": 175.0,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "Oliver Lawrence T.",
-   "role": "Senior VP and Secretary",
-   "date": "2026-10-01",
-   "shares": 9.264,
-   "price": 21.59,
-   "value": 200.01,
-   "acc": "0001437749-26-031827",
-   "filed": "2026-10-02"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 145.0,
-   "price": 1.75,
-   "value": 253.75,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4572,6 +4524,18 @@
    "filed": "2026-10-14"
   },
   {
+   "ticker": "JOF",
+   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 13133.0,
+   "price": 12.33,
+   "value": 161929.89,
+   "acc": "0001510281-26-000353",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
    "insider": "Lappe Mark",
@@ -4692,6 +4656,30 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "GABC",
+   "company": "GERMAN AMERICAN BANCORP, INC.",
+   "insider": "Ryan Christina M",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 2.0136,
+   "price": 49.6635,
+   "value": 100.0,
+   "acc": "0001791771-26-000007",
+   "filed": "2026-10-16"
+  },
+  {
+   "ticker": "GABC",
+   "company": "GERMAN AMERICAN BANCORP, INC.",
+   "insider": "Seger Andrew M",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 2.0136,
+   "price": 49.6635,
+   "value": 100.0,
+   "acc": "0002081604-26-000013",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Mitchell William Edward",
@@ -4773,6 +4761,18 @@
    "price": 48.1682,
    "value": 14450.46,
    "acc": "0002127484-26-000021",
+   "filed": "2026-10-16"
+  },
+  {
+   "ticker": "GABC",
+   "company": "GERMAN AMERICAN BANCORP, INC.",
+   "insider": "Bawel Zachary W",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 344.3173,
+   "price": 49.6635,
+   "value": 17100.0,
+   "acc": "0001746448-26-000010",
    "filed": "2026-10-16"
   },
   {
@@ -4879,6 +4879,11 @@
    "total_value": 17936.04
   },
   {
+   "ticker": "GABC",
+   "insiders": 3,
+   "total_value": 17300.0
+  },
+  {
    "ticker": "NRXS",
    "insiders": 3,
    "total_value": 12259.72
@@ -4911,8 +4916,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-014769",
-  "0001999371-26-014777",
   "0001999371-26-014780",
   "0001999371-26-014807",
   "0001999371-26-014828",
@@ -6001,6 +6004,7 @@
   "0002013812-26-000021",
   "0002013812-26-000024",
   "0002013944-26-000003",
+  "0002014109-26-000004",
   "0002014191-26-000014",
   "0002014208-26-000010",
   "0002014215-26-000020",
@@ -7138,6 +7142,7 @@
   "0002081460-26-000009",
   "0002081604-26-000008",
   "0002081604-26-000009",
+  "0002081604-26-000013",
   "0002081627-26-000013",
   "0002081627-26-000015",
   "0002081627-26-000017",
