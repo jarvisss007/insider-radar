@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-16 05:49 UTC",
+ "updated_utc": "2026-10-16 10:16 UTC",
  "purchases": [
-  {
-   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
-   "company": "John Hancock GA Senior Loan Trust",
-   "insider": "Manufacturers Life Reinsurance Ltd",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 1931122.8289,
-   "price": 16.052,
-   "value": 30998383.65,
-   "acc": "0001765496-26-000018",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
@@ -4572,6 +4560,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "BZUN",
+   "company": "Baozun Inc.",
+   "insider": "Qiu Wenbin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-14",
+   "shares": 5800.0,
+   "price": 3.44,
+   "value": 19952.0,
+   "acc": "0001104659-26-116383",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "IMSR",
    "company": "Terrestrial Energy Inc. /DE/",
    "insider": "Pardee Charles G",
@@ -4816,12 +4816,7 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 17518637.35
-  },
-  {
-   "ticker": "GME",
-   "insiders": 2,
-   "total_value": 17338810.46
+   "total_value": 15947959.64
   },
   {
    "ticker": "TRXB",
@@ -4864,19 +4859,14 @@
    "total_value": 72512.15
   },
   {
-   "ticker": "WVVI",
-   "insiders": 4,
-   "total_value": 66794.57
-  },
-  {
    "ticker": "QTEX",
    "insiders": 2,
    "total_value": 61359.84
   },
   {
-   "ticker": "INLX",
-   "insiders": 2,
-   "total_value": 20834.3
+   "ticker": "WVVI",
+   "insiders": 3,
+   "total_value": 58528.79
   },
   {
    "ticker": "AHRT",
@@ -4894,11 +4884,6 @@
    "total_value": 6454.03
   },
   {
-   "ticker": "CTM",
-   "insiders": 4,
-   "total_value": 3151.26
-  },
-  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "insiders": 3,
    "total_value": 2576.39
@@ -4909,17 +4894,6 @@
    "total_value": 1374.53
   },
   {
-   "ticker": "RGCO",
-   "insiders": 2,
-   "total_value": 300.01
-  },
-  {
-   "ticker": "ACCV",
-   "insiders": 5,
-   "total_value": 0,
-   "other_value": 4098600.0
-  },
-  {
    "ticker": "ONMD",
    "insiders": 2,
    "total_value": 0,
@@ -4927,9 +4901,6 @@
   }
  ],
  "seen": [
-  "0001998544-26-000006",
-  "0001998622-26-000008",
-  "0001998739-26-000006",
   "0001998826-26-000014",
   "0001998826-26-000020",
   "0001998941-26-000004",
@@ -5830,6 +5801,7 @@
   "0001999371-26-022853",
   "0001999371-26-022860",
   "0001999371-26-022862",
+  "0001999371-26-022873",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5900,6 +5872,7 @@
   "0002004397-26-000005",
   "0002004397-26-000007",
   "0002004883-26-000006",
+  "0002004903-26-000006",
   "0002005037-26-000012",
   "0002005037-26-000013",
   "0002005037-26-000014",
@@ -6689,6 +6662,7 @@
   "0002063597-26-000006",
   "0002063597-26-000008",
   "0002063861-26-000008",
+  "0002063872-26-000008",
   "0002063881-26-000004",
   "0002063900-26-000014",
   "0002063923-26-000004",
