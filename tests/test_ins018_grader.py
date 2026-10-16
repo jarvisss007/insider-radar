@@ -430,7 +430,11 @@ def test_09_scored_rows_byte_identical(tmp_path):
                 out.append(_b(d.isoformat(), 1.0))
             d += dt.timedelta(days=1)
         return out
-    n, lines = _run(p, FixtureFetch(default_bars=weekdays), "2026-10-16", "2026-10-16")
+    # INS-024 (VIDUR 2026-10-16): the as-of was a literal 2026-10-16, chosen on 09-29 to sit after every open row's
+    # check_date; on 10-16 the live ledger caught up with it, no open row was due and `n > 0` failed on data, not on the
+    # grader. The horizon now stays 28 days past today (never earlier than the original), so the run always grades.
+    asof = max(dt.date(2026, 10, 16), dt.date.today() + dt.timedelta(days=28)).isoformat()
+    n, lines = _run(p, FixtureFetch(default_bars=weekdays), asof, asof)
     after_txt = open(p, newline="").read()
     after = list(csv.reader(io.StringIO(after_txt)))
     assert n > 0                                               # the run did grade the open rows
