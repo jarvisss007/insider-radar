@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-16 17:52 UTC",
+ "updated_utc": "2026-10-16 18:24 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "BERNAU JAMES W",
-   "role": "President",
-   "date": "2026-10-01",
-   "shares": 100.0,
-   "price": 1.71,
-   "value": 171.0,
-   "acc": "0001199835-26-000361",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4476,6 +4464,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "PCQ",
+   "company": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 2000.0,
+   "price": 8.1303,
+   "value": 16260.6,
+   "acc": "0000070858-26-000486",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4911,7 +4911,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-014767",
   "0001999371-26-014769",
   "0001999371-26-014777",
   "0001999371-26-014780",
@@ -5807,6 +5806,7 @@
   "0001999371-26-022921",
   "0001999371-26-022936",
   "0001999371-26-022938",
+  "0001999371-26-022957",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
