@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-16 13:55 UTC",
+ "updated_utc": "2026-10-16 14:26 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 22.0,
-   "price": 2.932,
-   "value": 64.5,
-   "acc": "0001536588-26-000038",
-   "filed": "2026-10-02"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4692,6 +4680,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Snowling Harvey Edward",
+   "role": "Chief Operating Officer",
+   "date": "2026-10-14",
+   "shares": 300000.0,
+   "price": 4.91,
+   "value": 1473000.0,
+   "acc": "0001628280-26-066061",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4814,6 +4814,11 @@
  ],
  "clusters": [
   {
+   "ticker": "BORR",
+   "insiders": 2,
+   "total_value": 44511350.0
+  },
+  {
    "ticker": "BPRE",
    "insiders": 3,
    "total_value": 15947959.64
@@ -4901,8 +4906,6 @@
   }
  ],
  "seen": [
-  "0001999086-26-000023",
-  "0001999086-26-000031",
   "0001999104-26-000010",
   "0001999371-26-014413",
   "0001999371-26-014416",
@@ -5798,6 +5801,8 @@
   "0001999371-26-022862",
   "0001999371-26-022873",
   "0001999371-26-022893",
+  "0001999371-26-022900",
+  "0001999371-26-022907",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
