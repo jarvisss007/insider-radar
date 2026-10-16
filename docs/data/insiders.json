@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-16 10:16 UTC",
+ "updated_utc": "2026-10-16 10:47 UTC",
  "purchases": [
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-09-30",
-   "shares": 638813.0,
-   "price": 81.59,
-   "value": 52120752.67,
-   "acc": "0001193125-26-409451",
-   "filed": "2026-09-30"
-  },
   {
    "ticker": "UUU",
    "company": "UNIVERSAL SAFETY PRODUCTS, INC.",
@@ -4788,6 +4776,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "EDRY",
+   "company": "EuroDry Ltd.",
+   "insider": "Pittas Aristeidis P",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 300.0,
+   "price": 48.1682,
+   "value": 14450.46,
+   "acc": "0002127484-26-000021",
+   "filed": "2026-10-16"
+  },
+  {
    "ticker": "CRESY",
    "company": "CRESUD INC",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4901,7 +4901,6 @@
   }
  ],
  "seen": [
-  "0001998826-26-000014",
   "0001998826-26-000020",
   "0001998941-26-000004",
   "0001998996-26-000020",
@@ -7633,6 +7632,7 @@
   "0002127484-26-000018",
   "0002127484-26-000019",
   "0002127484-26-000020",
+  "0002127484-26-000021",
   "0002127558-26-000013",
   "0002127674-26-000002",
   "0002127814-26-000004",
