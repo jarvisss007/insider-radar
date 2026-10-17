@@ -161,7 +161,8 @@ Format: `date,instrument,horizon_days,question,p,check_date,outcome,notes`
   today's close on <check_date>". Bad: "looks constructive".
 - `p` — honest probability the question resolves YES, in (0,1). Never exactly
   0 or 1. Genuinely no view? Write 0.5; that is real information about your
-  uncertainty and it scores fine.
+  uncertainty and it scores fine. **SUPERSEDED from 2026-10-17: the writer sets `p`
+  (REGISTRY Clause B) - see the "CLAUSE B" section at the end of this file.**
 - Prefer questions you are actually unsure about. Forecasting 0.99 on a
   near-certainty scores well and teaches nothing.
 
@@ -318,3 +319,17 @@ resolves on a non-session, and refuses a row dated a non-session (MORN-006). The
 (`~/bin/resolve_forecasts.py`) reads this lab's close ON the recorded check_date — it no longer takes
 the resolution date from the question text. `forecast_write.py --check` lists any open row whose
 check_date and question disagree (exit 1).
+
+## CLAUSE B — THE DISCRETIONARY p IS RETIRED (REGISTRY.md, pre-registered 2026-09-04; tripped 2026-10-05; applied 2026-10-17)
+Clause A passed (sd(p) 0.106) and the book's Brier skill at n=40 was -0.055, so Clause B reads: the cluster question
+as this lab poses it is unforecastable by this lab, the discretionary p is retired, and every later row is filed at the
+running climatological base rate. Not tuning, no third branch, no extension. From the next run on:
+- **`agent/forecast_write.py` sets `p`.** `append_forecast(row)` files the YES share of the book's resolved rows (the number
+  `score_forecasts.py` calls climatology; 4 dp; 12/47 = 0.2553 on 2026-10-17) whatever `p` you pass, and says so in the row's notes
+  with the stamp `[CLAUSE-B ... base= k= n=]`. You may pass a `p` (it is named as retired) or omit it. Never write the row any other way,
+  and never set `p` by hand: the CALIBRATION section's halfway adjustment and the "write 0.5" instruction no longer apply to `p`.
+- **Still yours:** a question that resolves mechanically from a named, settled reference (INS-019 / INS-025 forms), and the Clause A
+  basis note. They shape the question being scored, not `p`. Do not file a question whose only purpose is to make the base rate look right.
+- **Every brief says, permanently, on one line:** "Forecast p is the running base rate - REGISTRY Clause B tripped at n=40 on 2026-10-05
+  (skill -0.055), so the cluster question as this lab poses it is unforecastable by this lab." Keep printing the n and skill beside it.
+- Rows filed before this section stand as filed (BENCH-002). The switch is `agent/clause_b.json`; removing it is a new pre-registration, not an edit.
