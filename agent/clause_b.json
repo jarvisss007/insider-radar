@@ -1,0 +1,12 @@
+{
+  "clause": "REGISTRY.md, PRE-REGISTERED 2026-09-04, Clause B (skill <= 0 at n=40, only if Clause A passes)",
+  "tripped_at_n": 40,
+  "tripped_on": "2026-10-05",
+  "skill_at_trip": -0.055,
+  "base_rate_at_trip": 0.275,
+  "sd_p_at_trip": 0.1056,
+  "clause_a": "passed (sd(p) 0.106 >= 0.05)",
+  "applied_on": "2026-10-17",
+  "rule": "p := YES share of all resolved rows in agent/forecasts.csv at write time (score_forecasts.py's climatology), 4 dp",
+  "scope": "rows filed from the next run on; every row already filed stands as filed (BENCH-002)"
+}

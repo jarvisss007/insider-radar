@@ -14,7 +14,12 @@ What this path enforces, every row:
   * that date is an NYSE session (SESSION-001) - a question about a non-session close is unresolvable;
   * the row's own `date` is a session (MORN-006: zero forecast rows dated a non-session);
   * 0 < p < 1; outcome is written empty (a forecast is never born scored);
-  * the header is the file's own (INS-011); the write is atomic under the book lock (BOOK-001).
+  * the header is the file's own (INS-011); the write is atomic under the book lock (BOOK-001);
+  * CLAUSE B (REGISTRY.md, pre-registered 2026-09-04; tripped at n=40 on 2026-10-05, applied 2026-10-17): when
+    `clause_b.json` sits beside the book, `p` is NOT the caller's - it is set to the running climatological base
+    rate (the YES share of the book's resolved rows, the number score_forecasts.py calls climatology, 4 dp), the
+    retired discretionary p is named in `notes`, and the stamp `[CLAUSE-B ... base=B k=K n=N]` is written so
+    the resolver check can verify the row. Rows already filed are never touched (BENCH-002).
 
     /opt/anaconda3/bin/python agent/forecast_write.py --check   # audit: open rows whose check_date
                                                                # disagrees with the question (exit 1)
@@ -31,6 +36,7 @@ sys.path.insert(0, HERE)
 import stale_quote as Q  # noqa: E402  (loads stock-radar/sessions.py and atomicio.py by path)
 
 FORECASTS = os.path.join(HERE, "forecasts.csv")
+CLAUSE_B_FLAG = "clause_b.json"   # beside the book; its presence IS the verdict (REGISTRY.md Clause B, tripped n=40)
 _FALLBACK = ["date", "instrument", "horizon_days", "question", "p", "check_date", "outcome", "notes"]
 _DATE = re.compile(r"\b(\d{4}-\d{2}-\d{2})\b")
 
@@ -86,7 +92,68 @@ def prepare(row):
     return row
 
 
+def _read_rows(path):
+    return list(csv.DictReader(open(path))) if os.path.exists(path) and os.path.getsize(path) else []
+
+
+def clause_b_flag(path=FORECASTS):
+    """The Clause B verdict record beside the book, or None if the verdict has not been applied to this book.
+    A flag file that is unreadable or incomplete raises: silently falling back to a discretionary p is the
+    exact failure this clause exists to end."""
+    import json
+    fp = os.path.join(os.path.dirname(os.path.abspath(path)), CLAUSE_B_FLAG)
+    if not os.path.exists(fp):
+        return None
+    try:
+        flag = json.load(open(fp))
+        for k in ("tripped_at_n", "tripped_on", "skill_at_trip"):
+            flag[k]
+    except (ValueError, KeyError, TypeError) as e:
+        raise ValueError(f"CLAUSE-B: {fp} is unreadable or incomplete ({e!r}) - refusing to file a discretionary p")
+    return flag
+
+
+def running_base_rate(rows):
+    """(k_yes, n_resolved) over the book's resolved rows - the climatology score_forecasts.py scores against.
+    Same filters as its _read(): a non-empty `void` is out; outcome must be 1/0/yes/no/true/false; p a number in [0,1]."""
+    k = n = 0
+    for r in rows:
+        if (r.get("void") or "").strip():
+            continue
+        out = (r.get("outcome") or "").strip().lower()
+        if out not in ("1", "0", "yes", "no", "true", "false"):
+            continue
+        try:
+            if not 0.0 <= float(r["p"]) <= 1.0:
+                continue
+        except (KeyError, TypeError, ValueError):
+            continue
+        n += 1
+        k += out in ("1", "yes", "true")
+    return k, n
+
+
+def apply_clause_b(row, rows, flag):
+    """Clause B: p := the running climatological base rate (4 dp); the caller's p is retired and named in notes."""
+    k, n = running_base_rate(rows)
+    if n == 0 or k in (0, n):
+        raise ValueError(f"CLAUSE-B: running base rate is {k}/{n} - not strictly inside (0,1); refusing to invent a p")
+    base = round(k / n, 4)
+    proposed = str(row.get("p") if row.get("p") not in (None, "") else "none supplied")
+    row["p"] = base
+    row["notes"] = (str(row.get("notes") or "") +
+                    f" [CLAUSE-B: REGISTRY Clause B tripped at n={flag['tripped_at_n']} on {flag['tripped_on']} "
+                    f"(skill {float(flag['skill_at_trip']):+.4f}); the discretionary p ({proposed}) is retired - filed at "
+                    f"the running climatological base rate base={base:.4f} k={k} n={n} (YES share of resolved rows)]").strip()
+    return row
+
+
 def append_forecast(row, path=FORECASTS):
+    flag = clause_b_flag(path)
+    if flag:
+        if Q._ATOM:
+            Q._ATOM.hold_book(path)   # hold before reading, so the base rate and the append see the same book
+        apply_clause_b(row, _read_rows(path), flag)
     prepare(row)
     h = header(path)
     missing = [k for k in h if k not in row and k not in ("outcome", "notes")]
@@ -94,7 +161,7 @@ def append_forecast(row, path=FORECASTS):
         raise ValueError(f"forecast is missing fields: {missing}")
     if Q._ATOM:
         Q._ATOM.hold_book(path)
-    rows = list(csv.DictReader(open(path))) if os.path.exists(path) and os.path.getsize(path) else []
+    rows = _read_rows(path)
     rows.append({k: row.get(k, "") for k in h})
     Q._atomic_csv(path, h, rows)
     return row
