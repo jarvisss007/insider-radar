@@ -168,6 +168,15 @@ first — p=0.49 off OVLY's own 2-year unconditional 5-session up rate of 0.492 
   identical rule. Power at n=40 against a 3×-compressed real signal: **0.324**.
 - No third branch, no extension, and no re-derivation of these thresholds after the number is visible.
 
+#### Verdict entry — appended 2026-10-17 (the clause text above is untouched; found by the 2026-10-17 lab audit)
+**Clause B tripped at n=40 on 2026-10-05, skill −0.055; applied 2026-10-17, and eight rows (2026-10-06, 10-08, 10-09, 10-12, 10-13, 10-14, 10-15, 10-16) were filed discretionary after the trip and stand as filed (BENCH-002).**
+- **Clause A passed:** sd(p) over the 40 resolved forecasts = 0.106 (bar: 0.05).
+- **The number:** the 40th resolved forecast was DFDV, graded by `resolve_forecasts.py` on 2026-10-05; at n=40 the book's Brier skill was **−0.0550** (YES share 11/40 = 0.275). That is the number the clause reads; it is not re-read at a later n (at n=47 it is −0.0286, which changes nothing). n=40 arrived earlier than the "approximately 2026-10-13" estimate above: resolutions ran ahead of one per weekday (four on 2026-10-01, two on 10-02).
+- **Why it went unapplied:** no brief or lessons entry recorded the trip. The 2026-10-08 brief printed "n=43 resolved, Brier skill -0.042 (no skill vs base rate)" and the 2026-10-12 brief "n=43, skill −0.0423", and both moved on; the forecast writer had no way to enforce the clause. PRHI (2026-10-05) was filed that morning, before the grader tripped it, so it is not one of the eight.
+- **Applied:** from the next session run, `agent/forecast_write.py` files every row's `p` at the running climatological base rate, i.e. the YES share of the book's resolved rows, the same number `score_forecasts.py` scores against (at application: 12 of 47 = **0.2553**), names the retired discretionary p in the row's notes and stamps `[CLAUSE-B ... base= k= n=]`. The switch is `agent/clause_b.json`. `agent/AGENT.md` carries the standing brief line the clause requires. No filed row was changed.
+- **Not touched:** the trade desk. INS-033/v1 (`research/PREREG_INS-033.md`) freezes cluster detection, price and size filters, the INS-020/INS-026 fills, the 30-day clock, the grader, the $2,000 lot and the IWM benchmark; the forecast `p` is none of those.
+- **What it means and does not mean:** this lab's discretionary probabilities carried no skill over the base rate by the pre-registered test. It is the clause's own conclusion about the cluster question *as this lab poses it*, and still says nothing about insider clusters in the world (see below).
+
 ### What is NOT being claimed
 This says nothing about whether insider clusters predict returns in the world. It is a test of **this
 lab's probabilistic commentary about them**, which is a much smaller thing. The ledger's separate
