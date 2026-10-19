@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-10-19 21:24 UTC",
+ "updated_utc": "2026-10-19 21:40 UTC",
  "purchases": [
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 152573.0,
-   "price": 32.7781,
-   "value": 5001053.05,
-   "acc": "0001193125-26-414288",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 92830.0,
-   "price": 80.57,
-   "value": 7479313.1,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 186991.0,
-   "price": 81.46,
-   "value": 15232286.86,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "FORTRESS NET LEASE REIT (CIK 1966394)",
-   "company": "Fortress Net Lease REIT",
-   "insider": "TIEDEMANN ADVISORS, LLC",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 1860568.96,
-   "price": 10.7494,
-   "value": 19999999.98,
-   "acc": "0000919574-26-006648",
-   "filed": "2026-10-02"
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 425869.0,
-   "price": 79.49,
-   "value": 33852326.81,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 1.0,
-   "price": 1.85,
-   "value": 1.85,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 1.0,
-   "price": 1.86,
-   "value": 1.86,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 21.0,
-   "price": 1.83,
-   "value": 38.43,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4350,6 +4254,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "GRSD",
+   "company": "GRANDSTAND Ltd",
+   "insider": "McCrystle Kevin Ross",
+   "role": "CEO",
+   "date": "2026-10-15",
+   "shares": 2901.0,
+   "price": 1.16,
+   "value": 3365.16,
+   "acc": "0001839799-26-000143",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
    "insider": "Fitzgerald John Taylor Maloney",
@@ -4384,6 +4300,18 @@
    "value": 8081.71,
    "acc": "0001536588-26-000041",
    "filed": "2026-10-15"
+  },
+  {
+   "ticker": "HQY",
+   "company": "HEALTHEQUITY, INC.",
+   "insider": "Rajasekar Sunil",
+   "role": "EVP Chief Prod & Strat Officer",
+   "date": "2026-10-15",
+   "shares": 108.0,
+   "price": 90.33,
+   "value": 9755.64,
+   "acc": "0001934884-26-000007",
+   "filed": "2026-10-19"
   },
   {
    "ticker": "QTEX",
@@ -4528,6 +4456,30 @@
    "value": 92738.1,
    "acc": "0002119764-26-000032",
    "filed": "2026-10-15"
+  },
+  {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-15",
+   "shares": 22657.0,
+   "price": 8.4289,
+   "value": 190973.59,
+   "acc": "0001493152-26-047631",
+   "filed": "2026-10-19"
+  },
+  {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-10-15",
+   "shares": 426000.0,
+   "price": 0.7679,
+   "value": 327125.4,
+   "acc": "0000902664-26-004215",
+   "filed": "2026-10-19"
   },
   {
    "ticker": "CNXU",
@@ -4746,6 +4698,30 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 181252.0,
+   "price": 0.6289,
+   "value": 113989.38,
+   "acc": "0000902664-26-004215",
+   "filed": "2026-10-19"
+  },
+  {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 14283.0,
+   "price": 8.2337,
+   "value": 117601.94,
+   "acc": "0001493152-26-047631",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "APLD",
    "company": "Applied Digital Corp.",
    "insider": "Cummins Wes",
@@ -4803,6 +4779,30 @@
    "price": 48.78,
    "value": 18536.4,
    "acc": "0001886793-26-000004",
+   "filed": "2026-10-19"
+  },
+  {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 376552.0,
+   "price": 0.7036,
+   "value": 264941.99,
+   "acc": "0000902664-26-004215",
+   "filed": "2026-10-19"
+  },
+  {
+   "ticker": "CTY",
+   "company": "CITY THERAPEUTICS, INC.",
+   "insider": "NELSEN ROBERT",
+   "role": "Director",
+   "date": "2026-10-19",
+   "shares": 170000.0,
+   "price": 18.0,
+   "value": 3060000.0,
+   "acc": "0001104659-26-116965",
    "filed": "2026-10-19"
   }
  ],
