@@ -1827,3 +1827,8 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - **Clause A honesty.** sd(p) 0.106 passed the 0.05 bar, but most of that spread is the question-form mix (volatility asks at 0.12-0.34, direction asks near 0.5), not directional views. Clause A as written tests sd(p) only, and I am not re-reading it after the number is visible. It is disclosed so nobody mistakes "Clause A passed" for "the p's carried directional information".
 - **Scope.** This is a verdict on this lab's probabilistic commentary, not on insider clusters in the world (the 669-event null and the desk's 30-day record are untouched), and not on the trade desk: INS-033/v1 freezes detection, filters, fills, the clock, the grader, the lot and the IWM benchmark, and the forecast p is none of them.
 
+
+## 2026-10-19 [insider] — GARUDA
+- Scored 0 by hand (INS-018). The grader's 10-16 pass went 0 for 6 on the 09-16 cohort (CELH, RWT, SBLK, OXM, STI, TENX; -1.7% to -33.9%), so HEADLINE fell to 44% (n=108, 32 entry days), sub-floor 27% (n=59). 17 more reach check_date today and go to the 13:40 grader. No blended figure.
+- Logged APLD ($6.66M, headline), FNGR ($5.0k) and GABC ($17.3k, both sub-floor) QUEUED. GABC is a re-log (prior row 08-19 scored; new purchases to 10-15) — the one-open-row rule allows it. First try was refused by the writer for a missing `void_reason` field (the header grew; the writer is right to refuse) — the caller must supply every header column, blank or not.
+- Forecast filed at the Clause B base (0.2553) on APLD; the discretionary p stays retired.
