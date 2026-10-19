@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-19 21:40 UTC",
+ "updated_utc": "2026-10-19 21:56 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 32.0,
-   "price": 1.8,
-   "value": 57.6,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 100.0,
-   "price": 1.96,
-   "value": 196.0,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "CZNC",
-   "company": "CITIZENS & NORTHERN CORP",
-   "insider": "Shattuck Katherine W",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 8.0,
-   "price": 25.51,
-   "value": 204.08,
-   "acc": "0001870473-26-000030",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4458,6 +4422,30 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-15",
+   "shares": 9969.0,
+   "price": 11.62,
+   "value": 115839.78,
+   "acc": "0001510281-26-000357",
+   "filed": "2026-10-19"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-15",
+   "shares": 16577.0,
+   "price": 10.3,
+   "value": 170743.1,
+   "acc": "0001510281-26-000358",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "ACOG",
    "company": "Alpha Cognition Inc.",
    "insider": "Opaleye Management Inc.",
@@ -4804,6 +4792,18 @@
    "value": 3060000.0,
    "acc": "0001104659-26-116965",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "CTY",
+   "company": "CITY THERAPEUTICS, INC.",
+   "insider": "ARCH Venture Partners XII, LLC",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 170000.0,
+   "price": 18.0,
+   "value": 3060000.0,
+   "acc": "0001104659-26-116966",
+   "filed": "2026-10-19"
   }
  ],
  "clusters": [
@@ -4821,6 +4821,11 @@
    "ticker": "APLD",
    "insiders": 2,
    "total_value": 6664686.12
+  },
+  {
+   "ticker": "CTY",
+   "insiders": 2,
+   "total_value": 6120000.0
   },
   {
    "ticker": "TRXB",
@@ -4935,7 +4940,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-015952",
   "0001999371-26-015955",
   "0001999371-26-015957",
   "0001999371-26-015959",
@@ -6527,6 +6531,7 @@
   "0002058648-26-000008",
   "0002058648-26-000010",
   "0002058648-26-000012",
+  "0002058648-26-000014",
   "0002058769-26-000005",
   "0002058769-26-000006",
   "0002058781-26-000003",
