@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-19 20:52 UTC",
+ "updated_utc": "2026-10-19 21:08 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-01",
-   "shares": 124489.0,
-   "price": 12.617,
-   "value": 1570677.71,
-   "acc": "0001398344-26-017906",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "AVR",
-   "company": "Anteris Technologies Global Corp.",
-   "insider": "L1 Capital Pty Ltd",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 322940.0,
-   "price": 7.6,
-   "value": 2454344.0,
-   "acc": "0001817646-26-000028",
-   "filed": "2026-10-01"
-  },
   {
    "ticker": "ACCV",
    "company": "Accelevation Holdings Corp.",
@@ -4579,6 +4555,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 92475.0,
+   "price": 12.5647,
+   "value": 1161920.63,
+   "acc": "0001398344-26-018404",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4771,6 +4759,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-16",
+   "shares": 101753.0,
+   "price": 12.387,
+   "value": 1260414.41,
+   "acc": "0001398344-26-018404",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "APLD",
    "company": "Applied Digital Corp.",
    "insider": "Zhang Jason Gechen",
@@ -4816,7 +4816,7 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 15216662.21
+   "total_value": 17638997.25
   },
   {
    "ticker": "APLD",
@@ -4936,7 +4936,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-015947",
   "0001999371-26-015948",
   "0001999371-26-015951",
   "0001999371-26-015952",
@@ -5764,6 +5763,7 @@
   "0001999371-26-023054",
   "0001999371-26-023062",
   "0001999371-26-023066",
+  "0001999371-26-023082",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
