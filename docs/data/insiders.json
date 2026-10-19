@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-19 10:19 UTC",
+ "updated_utc": "2026-10-19 11:22 UTC",
  "purchases": [
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 950.0,
-   "price": 79.51,
-   "value": 75534.5,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 38796.0,
-   "price": 2.0353,
-   "value": 78961.5,
-   "acc": "0001493152-26-045809",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "ACCV",
    "company": "Accelevation Holdings Corp.",
@@ -4798,6 +4774,30 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "APLD",
+   "company": "Applied Digital Corp.",
+   "insider": "Cummins Wes",
+   "role": "CEO; Chairman",
+   "date": "2026-10-16",
+   "shares": 55803.0,
+   "price": 18.04,
+   "value": 1006686.12,
+   "acc": "0001391935-26-000009",
+   "filed": "2026-10-19"
+  },
+  {
+   "ticker": "APLD",
+   "company": "Applied Digital Corp.",
+   "insider": "Zhang Jason Gechen",
+   "role": "President",
+   "date": "2026-10-16",
+   "shares": 300000.0,
+   "price": 18.86,
+   "value": 5658000.0,
+   "acc": "0001900445-26-000006",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "SAFX",
    "company": "XCF Global, Inc.",
    "insider": "EEME Energy SPV I, LLC",
@@ -4820,6 +4820,11 @@
    "ticker": "BPRE",
    "insiders": 3,
    "total_value": 15216662.21
+  },
+  {
+   "ticker": "APLD",
+   "insiders": 2,
+   "total_value": 6664686.12
   },
   {
    "ticker": "TRXB",
