@@ -1,19 +1,6 @@
 {
- "updated_utc": "2026-10-19 13:11 UTC",
+ "updated_utc": "2026-10-19 13:43 UTC",
  "purchases": [
-  {
-   "ticker": "ACCV",
-   "company": "Accelevation Holdings Corp.",
-   "insider": "Donahue Paul D",
-   "role": "Director",
-   "date": "2026-10-01",
-   "shares": 7000.0,
-   "price": 18.0,
-   "value": 126000.0,
-   "acc": "0001628280-26-065155",
-   "filed": "2026-10-05",
-   "placement": true
-  },
   {
    "ticker": "ACCV",
    "company": "Accelevation Holdings Corp.",
@@ -4725,6 +4712,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "FUL",
+   "company": "FULLER H B CO",
+   "insider": "Malik Muhammad Shahbaz",
+   "role": "Senior VP, BAS",
+   "date": "2026-10-16",
+   "shares": 478.6594,
+   "price": 52.2292,
+   "value": 25000.0,
+   "acc": "0001225208-26-008441",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4834,6 +4833,11 @@
    "ticker": "HEI, HEI.A",
    "insiders": 8,
    "total_value": 1400594.55
+  },
+  {
+   "ticker": "FUL",
+   "insiders": 2,
+   "total_value": 525000.0
   },
   {
    "ticker": "RTSN",
