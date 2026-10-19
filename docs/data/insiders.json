@@ -1,43 +1,6 @@
 {
- "updated_utc": "2026-10-19 11:22 UTC",
+ "updated_utc": "2026-10-19 12:40 UTC",
  "purchases": [
-  {
-   "ticker": "ACCV",
-   "company": "Accelevation Holdings Corp.",
-   "insider": "HECKES HOWARD C",
-   "role": "Director",
-   "date": "2026-10-01",
-   "shares": 5000.0,
-   "price": 18.0,
-   "value": 90000.0,
-   "acc": "0001628280-26-065156",
-   "filed": "2026-10-05",
-   "placement": true
-  },
-  {
-   "ticker": "CRESY",
-   "company": "CRESUD INC",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "CEO",
-   "date": "2026-10-01",
-   "shares": 8761.0,
-   "price": 11.3661,
-   "value": 99578.4,
-   "acc": "0002119764-26-000028",
-   "filed": "2026-10-01"
-  },
-  {
-   "ticker": "NXRT",
-   "company": "NexPoint Residential Trust, Inc.",
-   "insider": "McGraner Matt",
-   "role": "See Remarks",
-   "date": "2026-10-01",
-   "shares": 5280.0,
-   "price": 18.89,
-   "value": 99739.2,
-   "acc": "0001437749-26-032065",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "ACCV",
    "company": "Accelevation Holdings Corp.",
@@ -4606,6 +4569,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-15",
+   "shares": 8545.0,
+   "price": 4.445,
+   "value": 37982.53,
+   "acc": "0001193125-26-424723",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
    "company": "BIP Ventures Evergreen BDC",
    "insider": "Flickinger Mark",
@@ -4738,6 +4713,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-16",
+   "shares": 2548.0,
+   "price": 1.0266,
+   "value": 2615.78,
+   "acc": "0001493152-26-047506",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4748,6 +4735,18 @@
    "value": 25158.52,
    "acc": "0001513845-26-000130",
    "filed": "2026-10-16"
+  },
+  {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-16",
+   "shares": 8800.0,
+   "price": 4.4259,
+   "value": 38947.92,
+   "acc": "0001193125-26-424723",
+   "filed": "2026-10-19"
   },
   {
    "ticker": "ZONE",
@@ -4929,13 +4928,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-015452",
-  "0001999371-26-015487",
-  "0001999371-26-015541",
-  "0001999371-26-015580",
-  "0001999371-26-015642",
-  "0001999371-26-015643",
-  "0001999371-26-015750",
   "0001999371-26-015756",
   "0001999371-26-015763",
   "0001999371-26-015764",
@@ -5779,6 +5771,9 @@
   "0001999371-26-022962",
   "0001999371-26-022980",
   "0001999371-26-022986",
+  "0001999371-26-023011",
+  "0001999371-26-023016",
+  "0001999371-26-023023",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6871,6 +6866,10 @@
   "0002071844-26-001334",
   "0002071844-26-001367",
   "0002071844-26-001368",
+  "0002071844-26-001401",
+  "0002071844-26-001402",
+  "0002071844-26-001403",
+  "0002071844-26-001404",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
