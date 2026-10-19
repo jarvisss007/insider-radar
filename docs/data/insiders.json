@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-19 17:25 UTC",
+ "updated_utc": "2026-10-19 17:41 UTC",
  "purchases": [
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 3802.0,
-   "price": 78.26,
-   "value": 297544.52,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -4649,6 +4637,18 @@
    "value": 3000000.0,
    "acc": "0001193125-26-422957",
    "filed": "2026-10-15"
+  },
+  {
+   "ticker": "LNBIX",
+   "company": "Lincoln Bain Capital Total Credit Fund",
+   "insider": "Lincoln Financial Investments Corp",
+   "role": "10% owner",
+   "date": "2026-10-15",
+   "shares": 2477700.69,
+   "price": 10.09,
+   "value": 24999999.96,
+   "acc": "0001193125-26-425009",
+   "filed": "2026-10-19"
   },
   {
    "ticker": "PAM",
