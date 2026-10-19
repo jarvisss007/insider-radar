@@ -1,43 +1,6 @@
 {
- "updated_utc": "2026-10-19 05:52 UTC",
+ "updated_utc": "2026-10-19 10:19 UTC",
  "purchases": [
-  {
-   "ticker": "LND",
-   "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "Director",
-   "date": "2026-10-01",
-   "shares": 15000.0,
-   "price": 3.4349,
-   "value": 51523.5,
-   "acc": "0002119764-26-000030",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-01",
-   "shares": 5720.0,
-   "price": 9.41,
-   "value": 53825.2,
-   "acc": "0001510281-26-000322",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "ACCV",
-   "company": "Accelevation Holdings Corp.",
-   "insider": "Rubiera Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-01",
-   "shares": 3200.0,
-   "price": 18.0,
-   "value": 57600.0,
-   "acc": "0001628280-26-065167",
-   "filed": "2026-10-05",
-   "placement": true
-  },
   {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
@@ -3428,6 +3391,18 @@
    "filed": "2026-10-13"
   },
   {
+   "ticker": "ELTP",
+   "company": "ELITE PHARMACEUTICALS INC /NV/",
+   "insider": "Dash Barry H",
+   "role": "Director",
+   "date": "2026-10-09",
+   "shares": 100000.0,
+   "price": 0.2598,
+   "value": 25980.0,
+   "acc": "0001493152-26-047486",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "QTEX",
    "company": "QTREX Quantum Ltd.",
    "insider": "Ben-Noon Dagi Shahar",
@@ -4763,6 +4738,30 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "FNGR",
+   "company": "FingerMotion, Inc.",
+   "insider": "Polimeni Christopher Vincent",
+   "role": "CFO",
+   "date": "2026-10-16",
+   "shares": 13500.0,
+   "price": 0.1829,
+   "value": 2469.15,
+   "acc": "0001493152-26-047479",
+   "filed": "2026-10-19"
+  },
+  {
+   "ticker": "FNGR",
+   "company": "FingerMotion, Inc.",
+   "insider": "KAHN JOLIE",
+   "role": "CEO",
+   "date": "2026-10-16",
+   "shares": 15000.0,
+   "price": 0.17,
+   "value": 2550.0,
+   "acc": "0001493152-26-047482",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4896,6 +4895,11 @@
    "ticker": "KWY",
    "insiders": 2,
    "total_value": 5035.58
+  },
+  {
+   "ticker": "FNGR",
+   "insiders": 2,
+   "total_value": 5019.15
   },
   {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
