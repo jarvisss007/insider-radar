@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-20 05:31 UTC",
+ "updated_utc": "2026-10-20 10:12 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 980.0,
-   "price": 1.9,
-   "value": 1862.0,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4758,6 +4746,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "NNOX",
+   "company": "Nano-X Imaging Ltd.",
+   "insider": "Meltzer Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-19",
+   "shares": 25000.0,
+   "price": 0.45,
+   "value": 11250.0,
+   "acc": "0001213900-26-110808",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "EQBK",
    "company": "EQUITY BANCSHARES INC",
    "insider": "Borck Leon",
@@ -4810,12 +4810,12 @@
   {
    "ticker": "BORR",
    "insiders": 2,
-   "total_value": 44511350.0
+   "total_value": 38314250.0
   },
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 17638997.25
+   "total_value": 16447689.12
   },
   {
    "ticker": "APLD",
@@ -4848,14 +4848,14 @@
    "total_value": 369600.0
   },
   {
-   "ticker": "AGMB",
-   "insiders": 3,
-   "total_value": 311170.0
-  },
-  {
    "ticker": "FEAM",
    "insiders": 2,
    "total_value": 240371.85
+  },
+  {
+   "ticker": "AGMB",
+   "insiders": 3,
+   "total_value": 217440.0
   },
   {
    "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
@@ -4884,8 +4884,8 @@
   },
   {
    "ticker": "WVVI",
-   "insiders": 3,
-   "total_value": 31864.24
+   "insiders": 2,
+   "total_value": 27964.24
   },
   {
    "ticker": "STERLING REAL ESTATE TRUST (CIK 1412502)",
