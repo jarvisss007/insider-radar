@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-20 17:47 UTC",
+ "updated_utc": "2026-10-20 18:03 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 1573.0,
-   "price": 19.74,
-   "value": 31051.02,
-   "acc": "0001510281-26-000323",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "SKYH",
-   "company": "Sky Harbour Group Corp",
-   "insider": "Gonzalez Francisco",
-   "role": "Chief Financial Officer",
-   "date": "2026-10-02",
-   "shares": 3850.0,
-   "price": 9.25,
-   "value": 35612.5,
-   "acc": "0001437749-26-031986",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 9065.0,
-   "price": 4.1124,
-   "value": 37278.91,
-   "acc": "0001193125-26-419691",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "ESEA",
    "company": "EUROSEAS LTD.",
@@ -4590,6 +4554,30 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 48135.0,
+   "price": 5.26,
+   "value": 253190.1,
+   "acc": "0001510281-26-000362",
+   "filed": "2026-10-20"
+  },
+  {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 90507.0,
+   "price": 5.28,
+   "value": 477876.96,
+   "acc": "0001510281-26-000362",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "APLD",
    "company": "Applied Digital Corp.",
    "insider": "Cummins Wes",
@@ -4780,6 +4768,18 @@
    "value": 264941.99,
    "acc": "0000902664-26-004215",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 69080.0,
+   "price": 5.29,
+   "value": 365433.2,
+   "acc": "0001510281-26-000362",
+   "filed": "2026-10-20"
   },
   {
    "ticker": "CTY",
