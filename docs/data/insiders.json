@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-20 10:12 UTC",
+ "updated_utc": "2026-10-20 10:43 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 867.0,
-   "price": 2.905,
-   "value": 2518.63,
-   "acc": "0001536588-26-000038",
-   "filed": "2026-10-02"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4768,6 +4756,18 @@
    "value": 18536.4,
    "acc": "0001886793-26-000004",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "NBIS",
+   "company": "Nebius Group N.V.",
+   "insider": "Grimme Arne",
+   "role": "Director",
+   "date": "2026-10-19",
+   "shares": 148.0,
+   "price": 169.99,
+   "value": 25158.52,
+   "acc": "0001513845-26-000134",
+   "filed": "2026-10-20"
   },
   {
    "ticker": "SNES",
