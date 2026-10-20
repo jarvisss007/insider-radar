@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-20 14:53 UTC",
+ "updated_utc": "2026-10-20 17:31 UTC",
  "purchases": [
-  {
-   "ticker": "CZNC",
-   "company": "CITIZENS & NORTHERN CORP",
-   "insider": "Pellegrino Frank G",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 245.0,
-   "price": 25.51,
-   "value": 6249.95,
-   "acc": "0001667211-26-000028",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "AIRG",
-   "company": "AIRGAIN INC",
-   "insider": "Memmen Stephan D",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 1500.0,
-   "price": 4.55,
-   "value": 6825.0,
-   "acc": "0001193125-26-414198",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 5672.0,
-   "price": 1.2911,
-   "value": 7323.12,
-   "acc": "0001493152-26-045702",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 4253.0,
-   "price": 1.98,
-   "value": 8420.94,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Batista de Lima Filho Pedro",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 1800.0,
-   "price": 10.81,
-   "value": 19458.0,
-   "acc": "0001213900-26-107316",
-   "filed": "2026-10-06"
-  },
   {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
@@ -4530,6 +4470,30 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "GRF",
+   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
+   "insider": "Sims David C",
+   "role": "CFO, CCO, Secretary, Treasurer",
+   "date": "2026-10-16",
+   "shares": 1396.0,
+   "price": 10.16,
+   "value": 14183.36,
+   "acc": "0001401612-26-000005",
+   "filed": "2026-10-20"
+  },
+  {
+   "ticker": "GRF",
+   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
+   "insider": "Sims David C",
+   "role": "CFO, CCO, Secretary, Treasurer",
+   "date": "2026-10-16",
+   "shares": 1981.0,
+   "price": 10.16,
+   "value": 20126.96,
+   "acc": "0001401612-26-000005",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "FUL",
    "company": "FULLER H B CO",
    "insider": "Malik Muhammad Shahbaz",
@@ -4590,6 +4554,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "GRF",
+   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
+   "insider": "Sims David C",
+   "role": "CFO, CCO, Secretary, Treasurer",
+   "date": "2026-10-16",
+   "shares": 7410.0,
+   "price": 10.03,
+   "value": 74322.3,
+   "acc": "0001401612-26-000005",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "SNES",
    "company": "SenesTech, Inc.",
    "insider": "GLENBROOK CAPITAL MANAGEMENT",
@@ -4612,6 +4588,18 @@
    "value": 117601.94,
    "acc": "0001493152-26-047631",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 16347.0,
+   "price": 11.65,
+   "value": 190442.55,
+   "acc": "0001510281-26-000360",
+   "filed": "2026-10-20"
   },
   {
    "ticker": "APLD",
@@ -4767,6 +4755,18 @@
    "price": 7.46,
    "value": 104440.0,
    "acc": "0001193805-26-001382",
+   "filed": "2026-10-20"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 17079.0,
+   "price": 11.47,
+   "value": 195896.13,
+   "acc": "0001510281-26-000360",
    "filed": "2026-10-20"
   },
   {
@@ -4940,9 +4940,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016108",
-  "0001999371-26-016109",
-  "0001999371-26-016110",
   "0001999371-26-016111",
   "0001999371-26-016112",
   "0001999371-26-016113",
@@ -5747,6 +5744,7 @@
   "0001999371-26-023066",
   "0001999371-26-023082",
   "0001999371-26-023092",
+  "0001999371-26-023122",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5847,6 +5845,7 @@
   "0002007420-26-000002",
   "0002007443-26-000005",
   "0002007895-26-000016",
+  "0002007897-26-000004",
   "0002007928-26-000003",
   "0002008126-26-000003",
   "0002008217-26-000003",
@@ -6310,6 +6309,7 @@
   "0002040519-26-000073",
   "0002040519-26-000075",
   "0002040519-26-000077",
+  "0002040519-26-000079",
   "0002040705-26-000007",
   "0002040815-26-000018",
   "0002041211-26-000014",
