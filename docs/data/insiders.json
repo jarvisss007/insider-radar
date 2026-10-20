@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-20 00:02 UTC",
+ "updated_utc": "2026-10-20 00:33 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-02",
-   "shares": 300.0,
-   "price": 1.79,
-   "value": 537.0,
-   "acc": "0001199835-26-000367",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4758,6 +4746,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-19",
+   "shares": 4700.0,
+   "price": 1.046,
+   "value": 4916.2,
+   "acc": "0001079973-26-001373",
+   "filed": "2026-10-19"
+  },
+  {
    "ticker": "EQBK",
    "company": "EQUITY BANCSHARES INC",
    "insider": "Borck Leon",
@@ -4940,7 +4940,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016026",
   "0001999371-26-016028",
   "0001999371-26-016038",
   "0001999371-26-016049",
@@ -6188,6 +6187,7 @@
   "0002031802-26-000010",
   "0002031998-26-000003",
   "0002031998-26-000006",
+  "0002031998-26-000008",
   "0002032089-26-000004",
   "0002032126-26-000010",
   "0002032190-26-000003",
