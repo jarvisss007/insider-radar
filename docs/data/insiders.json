@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-10-20 21:31 UTC",
+ "updated_utc": "2026-10-20 21:47 UTC",
  "purchases": [
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 2452.0,
-   "price": 77.93,
-   "value": 191084.36,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "LWAY",
-   "company": "Lifeway Foods, Inc.",
-   "insider": "Divisadero Street Capital Management, LP",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 17482.0,
-   "price": 21.0885,
-   "value": 368669.16,
-   "acc": "0000919574-26-006685",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 5135.0,
-   "price": 78.77,
-   "value": 404483.95,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Batista de Lima Filho Pedro",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 55200.0,
-   "price": 10.81,
-   "value": 596712.0,
-   "acc": "0001213900-26-107316",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 50931.0,
-   "price": 12.6879,
-   "value": 646207.43,
-   "acc": "0001398344-26-017906",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "AXIA3",
-   "company": "AXIA Energia S.A.",
-   "insider": "Batista de Lima Filho Pedro",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 62000.0,
-   "price": 10.81,
-   "value": 670220.0,
-   "acc": "0001213900-26-107316",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "PRTA",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "insider": "SCULLY WILLIAM P",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 100000.0,
-   "price": 8.5724,
-   "value": 857240.0,
-   "acc": "0001045463-26-000019",
-   "filed": "2026-10-06"
-  },
   {
    "ticker": "AXIA3",
    "company": "AXIA Energia S.A.",
@@ -3786,6 +3702,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "BCDA",
+   "company": "BioCardia, Inc.",
+   "insider": "Altman Peter",
+   "role": "President and CEO",
+   "date": "2026-10-15",
+   "shares": 200.0,
+   "price": 0.95,
+   "value": 190.0,
+   "acc": "0001437749-26-033030",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Mitchell William Edward",
@@ -4254,6 +4182,30 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 1.0,
+   "price": 1.32,
+   "value": 1.32,
+   "acc": "0001940272-26-000026",
+   "filed": "2026-10-20"
+  },
+  {
+   "ticker": "BCDA",
+   "company": "BioCardia, Inc.",
+   "insider": "Altman Peter",
+   "role": "President and CEO",
+   "date": "2026-10-16",
+   "shares": 300.0,
+   "price": 0.95,
+   "value": 285.0,
+   "acc": "0001437749-26-033030",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "ISBA",
    "company": "ISABELLA BANK CORP",
    "insider": "Bourland Jill",
@@ -4312,6 +4264,18 @@
    "value": 2615.78,
    "acc": "0001493152-26-047506",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 2136.0,
+   "price": 2.905,
+   "value": 6205.08,
+   "acc": "0001536588-26-000043",
+   "filed": "2026-10-20"
   },
   {
    "ticker": "GRF",
@@ -4614,6 +4578,30 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "INM",
+   "company": "InMed Pharmaceuticals Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 1086.0,
+   "price": 1.32,
+   "value": 1433.52,
+   "acc": "0001940272-26-000026",
+   "filed": "2026-10-20"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 1224.0,
+   "price": 2.905,
+   "value": 3555.72,
+   "acc": "0001536588-26-000043",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4803,6 +4791,18 @@
    "price": 0.115,
    "value": 1150.0,
    "acc": "0001683168-26-007994",
+   "filed": "2026-10-20"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 3945.0,
+   "price": 2.905,
+   "value": 11460.22,
+   "acc": "0001536588-26-000043",
    "filed": "2026-10-20"
   }
  ],
