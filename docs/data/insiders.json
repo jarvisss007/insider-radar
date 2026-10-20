@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-20 20:59 UTC",
+ "updated_utc": "2026-10-20 21:15 UTC",
  "purchases": [
-  {
-   "ticker": "LND",
-   "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 15000.0,
-   "price": 3.4765,
-   "value": 52147.5,
-   "acc": "0002119764-26-000030",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "OM",
-   "company": "Outset Medical, Inc.",
-   "insider": "Leonard Braden Michael",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 16575.0,
-   "price": 3.8758,
-   "value": 64241.39,
-   "acc": "0001373604-26-000050",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "MacDonald Ryan S",
-   "role": "Director",
-   "date": "2026-10-02",
-   "shares": 6700.0,
-   "price": 12.7,
-   "value": 85090.0,
-   "acc": "0001398344-26-017904",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "LEN",
    "company": "LENNAR CORP /NEW/",
@@ -4542,6 +4506,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 72771.0,
+   "price": 5.63,
+   "value": 409700.73,
+   "acc": "0001510281-26-000365",
+   "filed": "2026-10-20"
+  },
+  {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
    "insider": "Saba Capital Management, L.P.",
@@ -4576,6 +4552,18 @@
    "value": 1260414.41,
    "acc": "0001398344-26-018404",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 250087.0,
+   "price": 5.66,
+   "value": 1415492.42,
+   "acc": "0001510281-26-000365",
+   "filed": "2026-10-20"
   },
   {
    "ticker": "SCISX",
@@ -4695,6 +4683,18 @@
    "price": 46.5,
    "value": 46500.0,
    "acc": "0001957908-26-000003",
+   "filed": "2026-10-20"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 15246.0,
+   "price": 5.67,
+   "value": 86444.82,
+   "acc": "0001510281-26-000365",
    "filed": "2026-10-20"
   },
   {
@@ -4940,8 +4940,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016117",
-  "0001999371-26-016118",
   "0001999371-26-016119",
   "0001999371-26-016120",
   "0001999371-26-016121",
@@ -7052,6 +7050,7 @@
   "0002078265-26-000447",
   "0002078265-26-000448",
   "0002078265-26-000449",
+  "0002078265-26-000451",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
@@ -7936,6 +7935,7 @@
   "0002157600-26-000005",
   "0002157924-26-000006",
   "0002158060-26-000005",
+  "0002158408-26-000007",
   "0002158511-26-000003",
   "0002158778-26-000004",
   "0002160029-26-000004",
