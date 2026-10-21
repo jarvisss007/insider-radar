@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-21 21:55 UTC",
+ "updated_utc": "2026-10-21 22:11 UTC",
  "purchases": [
-  {
-   "ticker": "CINT",
-   "company": "CI&T Inc",
-   "insider": "Martins Fernando Matt Borges",
-   "role": "Director",
-   "date": "2026-10-06",
-   "shares": 6629.0,
-   "price": 3.15,
-   "value": 20881.35,
-   "acc": "0001292814-26-004872",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
@@ -4254,6 +4242,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 4256.0,
+   "price": 1.88,
+   "value": 8001.28,
+   "acc": "0001493152-26-047949",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "NNOX",
    "company": "Nano-X Imaging Ltd.",
    "insider": "Meltzer Erez",
@@ -4945,7 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016148",
   "0001999371-26-016149",
   "0001999371-26-016150",
   "0001999371-26-016151",
@@ -5940,6 +5939,7 @@
   "0002014386-26-000016",
   "0002014386-26-000018",
   "0002014386-26-000020",
+  "0002014386-26-000022",
   "0002014440-26-000010",
   "0002014440-26-000012",
   "0002014560-26-000008",
