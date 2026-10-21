@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-21 22:11 UTC",
+ "updated_utc": "2026-10-21 22:26 UTC",
  "purchases": [
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Kemula Pierre Thadee Victor",
-   "role": "Chief Financial Officer",
-   "date": "2026-10-06",
-   "shares": 3000.0,
-   "price": 8.67,
-   "value": 26010.0,
-   "acc": "0002119332-26-000001",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "CET",
-   "company": "CENTRAL SECURITIES CORP",
-   "insider": "Hill John C",
-   "role": "CEO & President",
-   "date": "2026-10-06",
-   "shares": 500.0,
-   "price": 56.37,
-   "value": 28185.0,
-   "acc": "0001209992-26-000050",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-06",
-   "shares": 9773.0,
-   "price": 4.1933,
-   "value": 40981.12,
-   "acc": "0001193125-26-419691",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "GRX",
    "company": "Gabelli Healthcare & WellnessRx Trust",
@@ -4458,6 +4422,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-19",
+   "shares": 64662.0,
+   "price": 12.2707,
+   "value": 793448.0,
+   "acc": "0001398344-26-018550",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "CTY",
    "company": "CITY THERAPEUTICS, INC.",
    "insider": "NELSEN ROBERT",
@@ -4758,6 +4734,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-20",
+   "shares": 92029.0,
+   "price": 12.4304,
+   "value": 1143957.28,
+   "acc": "0001398344-26-018550",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "MCDEARMAN JOHN",
@@ -4804,6 +4792,18 @@
    "value": 550686.77,
    "acc": "0001940272-26-000027",
    "filed": "2026-10-21"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 114864.0,
+   "price": 12.2545,
+   "value": 1407600.89,
+   "acc": "0001398344-26-018550",
+   "filed": "2026-10-21"
   }
  ],
  "clusters": [
@@ -4815,7 +4815,7 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 14592939.22
+   "total_value": 17937945.39
   },
   {
    "ticker": "APLD",
@@ -4945,7 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016149",
   "0001999371-26-016150",
   "0001999371-26-016151",
   "0001999371-26-016152",
@@ -6291,6 +6290,7 @@
   "0002041211-26-000014",
   "0002041258-26-000004",
   "0002041258-26-000006",
+  "0002041533-26-000008",
   "0002041944-26-000005",
   "0002041944-26-000006",
   "0002042007-26-000002",
