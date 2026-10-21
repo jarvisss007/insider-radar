@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-21 20:04 UTC",
+ "updated_utc": "2026-10-21 20:20 UTC",
  "purchases": [
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 1775.0,
-   "price": 9.38,
-   "value": 16649.5,
-   "acc": "0001510281-26-000327",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "AEF",
-   "company": "abrdn Emerging Markets ex-China Fund, Inc.",
-   "insider": "Clark Anthony S.",
-   "role": "Director",
-   "date": "2026-10-05",
-   "shares": 2000.0,
-   "price": 9.726,
-   "value": 19452.0,
-   "acc": "0001104659-26-113936",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Mulacek Phil E",
-   "role": "Director",
-   "date": "2026-10-05",
-   "shares": 14508.0,
-   "price": 2.672,
-   "value": 38765.38,
-   "acc": "0001072613-26-000825",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-05",
-   "shares": 9713.0,
-   "price": 4.1762,
-   "value": 40563.43,
-   "acc": "0001193125-26-419691",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Epstein David R",
-   "role": "Director",
-   "date": "2026-10-05",
-   "shares": 5000.0,
-   "price": 8.57,
-   "value": 42850.0,
-   "acc": "0001445826-26-000013",
-   "filed": "2026-10-07"
-  },
   {
    "ticker": "LND",
    "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
@@ -4734,6 +4674,30 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "NBIS",
+   "company": "Nebius Group N.V.",
+   "insider": "Grimme Arne",
+   "role": "Director",
+   "date": "2026-10-20",
+   "shares": 151.0,
+   "price": 164.62,
+   "value": 24857.62,
+   "acc": "0001513845-26-000136",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "VRXA",
+   "company": "Veraxa Biotech AG - Post de-SPAC",
+   "insider": "Ziegler Christoph Samuel",
+   "role": "Director",
+   "date": "2026-10-20",
+   "shares": 30000.0,
+   "price": 1.09,
+   "value": 32700.0,
+   "acc": "0001829126-26-011387",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "YORW",
    "company": "YORK WATER CO",
    "insider": "Velazquez David M",
@@ -4743,6 +4707,18 @@
    "price": 31.0673,
    "value": 40000.05,
    "acc": "0000108985-26-000091",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 7724.0,
+   "price": 5.72,
+   "value": 44181.28,
+   "acc": "0001510281-26-000369",
    "filed": "2026-10-21"
   },
   {
@@ -4784,6 +4760,18 @@
   {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
+   "insider": "BOSTON BYRON L",
+   "role": "Co-CEO & Chairman of the Board",
+   "date": "2026-10-20",
+   "shares": 9180.0,
+   "price": 10.89,
+   "value": 99970.2,
+   "acc": "0000826675-26-000124",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "DX",
+   "company": "DYNEX CAPITAL INC",
    "insider": "Popenoe Smriti Laxman",
    "role": "Co-CEO and President",
    "date": "2026-10-20",
@@ -4803,6 +4791,18 @@
    "price": 10.35,
    "value": 906898.05,
    "acc": "0001510281-26-000367",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "NBIS",
+   "company": "Nebius Group N.V.",
+   "insider": "Grimme Arne",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 148.0,
+   "price": 167.94,
+   "value": 24855.12,
+   "acc": "0001513845-26-000136",
    "filed": "2026-10-21"
   }
  ],
@@ -4848,14 +4848,14 @@
    "total_value": 369600.0
   },
   {
+   "ticker": "DX",
+   "insiders": 3,
+   "total_value": 267230.2
+  },
+  {
    "ticker": "FEAM",
    "insiders": 2,
    "total_value": 240371.85
-  },
-  {
-   "ticker": "DX",
-   "insiders": 2,
-   "total_value": 167260.0
   },
   {
    "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
