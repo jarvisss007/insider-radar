@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-21 12:12 UTC",
+ "updated_utc": "2026-10-21 12:58 UTC",
  "purchases": [
-  {
-   "ticker": "LEN",
-   "company": "LENNAR CORP /NEW/",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-02",
-   "shares": 842753.0,
-   "price": 80.04,
-   "value": 67453950.12,
-   "acc": "0001193125-26-414744",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 14.0,
-   "price": 2.929,
-   "value": 41.01,
-   "acc": "0001536588-26-000039",
-   "filed": "2026-10-07"
-  },
   {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
@@ -4542,6 +4518,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "MHH",
+   "company": "Mastech Digital, Inc.",
+   "insider": "SHAW STEVEN A",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 2500.0,
+   "price": 6.44,
+   "value": 16100.0,
+   "acc": "0001193125-26-427279",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "EQBK",
    "company": "EQUITY BANCSHARES INC",
    "insider": "Borck Leon",
@@ -4782,6 +4770,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "MHH",
+   "company": "Mastech Digital, Inc.",
+   "insider": "SHAW STEVEN A",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 2200.0,
+   "price": 6.33,
+   "value": 13926.0,
+   "acc": "0001193125-26-427279",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "Popenoe Smriti Laxman",
@@ -4940,7 +4940,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016126",
   "0001999371-26-016127",
   "0001999371-26-016128",
   "0001999371-26-016129",
@@ -5730,6 +5729,7 @@
   "0001999371-26-023082",
   "0001999371-26-023092",
   "0001999371-26-023122",
+  "0001999371-26-023171",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
