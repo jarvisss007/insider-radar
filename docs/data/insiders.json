@@ -1,138 +1,6 @@
 {
- "updated_utc": "2026-10-21 20:20 UTC",
+ "updated_utc": "2026-10-21 20:36 UTC",
  "purchases": [
-  {
-   "ticker": "LND",
-   "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "Director",
-   "date": "2026-10-05",
-   "shares": 11750.0,
-   "price": 3.7261,
-   "value": 43781.68,
-   "acc": "0002119764-26-000030",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Knotnerus Tim Jasper",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-05",
-   "shares": 6000.0,
-   "price": 8.48,
-   "value": 50880.0,
-   "acc": "0002120886-26-000001",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "NXRT",
-   "company": "NexPoint Residential Trust, Inc.",
-   "insider": "McGraner Matt",
-   "role": "See Remarks",
-   "date": "2026-10-05",
-   "shares": 5500.0,
-   "price": 18.42,
-   "value": 101310.0,
-   "acc": "0001437749-26-032065",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "STWI",
-   "company": "StageWise Strategies Corp.",
-   "insider": "Tourism & Entertainment Group, LLC",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 1000000.0,
-   "price": 0.138,
-   "value": 138000.0,
-   "acc": "0001213900-26-107676",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "HRL",
-   "company": "HORMEL FOODS CORP /DE/",
-   "insider": "Newlands William A",
-   "role": "Director",
-   "date": "2026-10-05",
-   "shares": 10000.0,
-   "price": 20.1,
-   "value": 201000.0,
-   "acc": "0001531376-26-000014",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 25144.0,
-   "price": 10.51,
-   "value": 264263.44,
-   "acc": "0001510281-26-000326",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 25900.0,
-   "price": 20.09,
-   "value": 520331.0,
-   "acc": "0001510281-26-000325",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "LWAY",
-   "company": "Lifeway Foods, Inc.",
-   "insider": "Divisadero Street Capital Management, LP",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 36202.0,
-   "price": 21.0081,
-   "value": 760535.24,
-   "acc": "0000919574-26-006685",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-05",
-   "shares": 93744.0,
-   "price": 12.7081,
-   "value": 1191308.13,
-   "acc": "0001398344-26-017906",
-   "filed": "2026-10-05"
-  },
-  {
-   "ticker": "SAH",
-   "company": "SONIC AUTOMOTIVE INC",
-   "insider": "Rusnak Paul P.",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 27756.0,
-   "price": 59.76,
-   "value": 1658698.56,
-   "acc": "0001460471-26-000006",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 65711.0,
-   "price": 34.7529,
-   "value": 2283647.81,
-   "acc": "0001193125-26-417005",
-   "filed": "2026-10-07"
-  },
   {
    "ticker": "PSUS",
    "company": "Pershing Square USA, Ltd.",
@@ -2766,6 +2634,18 @@
    "filed": "2026-10-15"
   },
   {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-13",
+   "shares": 4000.0,
+   "price": 0.7,
+   "value": 2800.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "XAIR",
    "company": "Beyond Air, Inc.",
    "insider": "Lin Yi-Chien",
@@ -2776,6 +2656,18 @@
    "value": 5761.47,
    "acc": "0002144385-26-000006",
    "filed": "2026-10-14"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-13",
+   "shares": 9000.0,
+   "price": 0.68,
+   "value": 6120.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
   },
   {
    "ticker": "CRT",
@@ -3042,6 +2934,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 4000.0,
+   "price": 0.7,
+   "value": 2800.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -3052,6 +2956,18 @@
    "value": 2826.56,
    "acc": "0001536588-26-000041",
    "filed": "2026-10-15"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-14",
+   "shares": 4286.0,
+   "price": 0.72,
+   "value": 3085.92,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
   },
   {
    "ticker": "UXIN",
@@ -3558,6 +3474,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-15",
+   "shares": 10000.0,
+   "price": 0.74,
+   "value": 7400.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -3942,6 +3870,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 2000.0,
+   "price": 0.7,
+   "value": 1400.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
    "insider": "Hansen Kent A",
@@ -3954,6 +3894,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 3000.0,
+   "price": 0.7,
+   "value": 2100.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "FNGR",
    "company": "FingerMotion, Inc.",
    "insider": "Polimeni Christopher Vincent",
@@ -3964,6 +3916,18 @@
    "value": 2469.15,
    "acc": "0001493152-26-047479",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 3600.0,
+   "price": 0.7,
+   "value": 2520.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
   },
   {
    "ticker": "FNGR",
@@ -3988,6 +3952,42 @@
    "value": 2615.78,
    "acc": "0001493152-26-047506",
    "filed": "2026-10-19"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 6000.0,
+   "price": 0.7,
+   "value": 4200.0,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 6000.0,
+   "price": 0.7487,
+   "value": 4492.2,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "PETV",
+   "company": "PetVivo Holdings, Inc.",
+   "insider": "A.L. Sarroff Fund, LLC",
+   "role": "10% owner",
+   "date": "2026-10-16",
+   "shares": 6969.0,
+   "price": 0.69,
+   "value": 4808.61,
+   "acc": "0001099910-26-000286",
+   "filed": "2026-10-21"
   },
   {
    "ticker": "JCTC",
@@ -4945,8 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016137",
-  "0001999371-26-016138",
   "0001999371-26-016139",
   "0001999371-26-016140",
   "0001999371-26-016141",
@@ -6861,6 +6859,7 @@
   "0002071844-26-001418",
   "0002071844-26-001419",
   "0002071844-26-001433",
+  "0002071844-26-001439",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
@@ -7051,6 +7050,7 @@
   "0002078265-26-000451",
   "0002078265-26-000452",
   "0002078265-26-000453",
+  "0002078265-26-000454",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
