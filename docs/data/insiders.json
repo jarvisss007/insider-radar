@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-21 20:52 UTC",
+ "updated_utc": "2026-10-21 21:08 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-10-06",
-   "shares": 3700.0,
-   "price": 0.055,
-   "value": 203.5,
-   "acc": "0001035422-26-000016",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Mulacek Phil E",
-   "role": "Director",
-   "date": "2026-10-06",
-   "shares": 2315.0,
-   "price": 2.718,
-   "value": 6292.17,
-   "acc": "0001072613-26-000825",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-06",
-   "shares": 5601.0,
-   "price": 1.3277,
-   "value": 7436.45,
-   "acc": "0001940272-26-000023",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4542,6 +4506,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 162024.0,
+   "price": 34.5087,
+   "value": 5591237.61,
+   "acc": "0001193125-26-427950",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "GXVIX",
    "company": "Global X Venture & Innovation Fund",
    "insider": "GLOBAL X MANAGEMENT COMPANY, INC.",
@@ -4734,6 +4710,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "CLM",
+   "company": "Cornerstone Strategic Investment Fund, Inc.",
+   "insider": "Bradshaw Joshua",
+   "role": "Vice Chairman and President",
+   "date": "2026-10-20",
+   "shares": 16000.0,
+   "price": 6.08,
+   "value": 97280.0,
+   "acc": "0001398344-26-018541",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "BOSTON BYRON L",
@@ -4756,6 +4744,18 @@
    "value": 106200.0,
    "acc": "0000826675-26-000121",
    "filed": "2026-10-20"
+  },
+  {
+   "ticker": "CRF",
+   "company": "CORNERSTONE TOTAL RETURN FUND INC",
+   "insider": "Bradshaw Joshua",
+   "role": "Vice Chairman and President",
+   "date": "2026-10-20",
+   "shares": 20000.0,
+   "price": 5.88,
+   "value": 117600.0,
+   "acc": "0001398344-26-018542",
+   "filed": "2026-10-21"
   },
   {
    "ticker": "TENX",
