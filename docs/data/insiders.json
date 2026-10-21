@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-21 21:08 UTC",
+ "updated_utc": "2026-10-21 21:23 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-06",
-   "shares": 7023.0,
-   "price": 1.2383,
-   "value": 8696.58,
-   "acc": "0001493152-26-046079",
-   "filed": "2026-10-07"
-  },
   {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
@@ -4446,6 +4434,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "MSD INVESTMENT CORP. (CIK 1849894)",
+   "company": "MSD Investment Corp.",
+   "insider": "Williams Brian S",
+   "role": "See Remarks",
+   "date": "2026-10-19",
+   "shares": 13129.501,
+   "price": 23.68,
+   "value": 310906.58,
+   "acc": "0001193125-26-427983",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4945,8 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016142",
-  "0001999371-26-016143",
   "0001999371-26-016144",
   "0001999371-26-016145",
   "0001999371-26-016146",
@@ -5722,6 +5720,8 @@
   "0001999371-26-023171",
   "0001999371-26-023181",
   "0001999371-26-023197",
+  "0001999371-26-023231",
+  "0001999371-26-023233",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
