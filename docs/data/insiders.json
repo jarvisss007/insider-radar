@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-21 19:32 UTC",
+ "updated_utc": "2026-10-21 20:04 UTC",
  "purchases": [
-  {
-   "ticker": "KIO",
-   "company": "KKR Income Opportunities Fund",
-   "insider": "Pimentel Rudy",
-   "role": "President",
-   "date": "2026-10-05",
-   "shares": 1000.0,
-   "price": 10.24,
-   "value": 10240.0,
-   "acc": "0000945621-26-001261",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-05",
-   "shares": 8683.0,
-   "price": 1.2687,
-   "value": 11016.12,
-   "acc": "0001493152-26-045879",
-   "filed": "2026-10-06"
-  },
   {
    "ticker": "GRX",
    "company": "Gabelli Healthcare & WellnessRx Trust",
@@ -4650,6 +4626,18 @@
    "filed": "2026-10-19"
   },
   {
+   "ticker": "GXVIX",
+   "company": "Global X Venture & Innovation Fund",
+   "insider": "GLOBAL X MANAGEMENT COMPANY, INC.",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 1945525.292,
+   "price": 12.85,
+   "value": 25000000.0,
+   "acc": "0001213900-26-111339",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -4779,6 +4767,18 @@
    "price": 5.52,
    "value": 70104.0,
    "acc": "0001104659-26-117603",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 14573.0,
+   "price": 5.32,
+   "value": 77528.36,
+   "acc": "0001510281-26-000368",
    "filed": "2026-10-21"
   },
   {
