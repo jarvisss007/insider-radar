@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-21 12:58 UTC",
+ "updated_utc": "2026-10-21 14:32 UTC",
  "purchases": [
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 1694.0,
-   "price": 2.06,
-   "value": 3489.64,
-   "acc": "0001493152-26-045809",
-   "filed": "2026-10-05"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4722,6 +4710,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "YORW",
+   "company": "YORK WATER CO",
+   "insider": "Brossman Douglas S",
+   "role": "Director",
+   "date": "2026-10-20",
+   "shares": 32.188,
+   "price": 31.0673,
+   "value": 999.99,
+   "acc": "0000108985-26-000090",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "AHNRF",
    "company": "ATHENA GOLD CORP",
    "insider": "POWER JOHN C /CA/",
@@ -4940,7 +4940,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016127",
   "0001999371-26-016128",
   "0001999371-26-016129",
   "0001999371-26-016130",
@@ -5730,6 +5729,7 @@
   "0001999371-26-023092",
   "0001999371-26-023122",
   "0001999371-26-023171",
+  "0001999371-26-023181",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
