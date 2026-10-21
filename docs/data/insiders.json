@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-21 20:36 UTC",
+ "updated_utc": "2026-10-21 20:52 UTC",
  "purchases": [
-  {
-   "ticker": "PSUS",
-   "company": "Pershing Square USA, Ltd.",
-   "insider": "ISRAEL RYAN",
-   "role": "Chief Investment Officer",
-   "date": "2026-10-05",
-   "shares": 120816.0,
-   "price": 37.4454,
-   "value": 4524003.45,
-   "acc": "0001193125-26-415861",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "AVR",
-   "company": "Anteris Technologies Global Corp.",
-   "insider": "L1 Capital Pty Ltd",
-   "role": "10% owner",
-   "date": "2026-10-05",
-   "shares": 648455.0,
-   "price": 7.51,
-   "value": 4869897.05,
-   "acc": "0001817646-26-000029",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Troim Tor Olav",
-   "role": "Director",
-   "date": "2026-10-05",
-   "shares": 1500000.0,
-   "price": 4.1314,
-   "value": 6197100.0,
-   "acc": "0001628280-26-065174",
-   "filed": "2026-10-06"
-  },
   {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4542,6 +4506,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "TENX",
+   "company": "TENAX THERAPEUTICS, INC.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-19",
+   "shares": 336528.0,
+   "price": 1.5066,
+   "value": 507013.08,
+   "acc": "0001940272-26-000027",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "CTY",
    "company": "CITY THERAPEUTICS, INC.",
    "insider": "NELSEN ROBERT",
@@ -4782,6 +4758,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "TENX",
+   "company": "TENAX THERAPEUTICS, INC.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 254342.0,
+   "price": 1.5952,
+   "value": 405726.36,
+   "acc": "0001940272-26-000027",
+   "filed": "2026-10-21"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4803,6 +4791,18 @@
    "price": 167.94,
    "value": 24855.12,
    "acc": "0001513845-26-000136",
+   "filed": "2026-10-21"
+  },
+  {
+   "ticker": "TENX",
+   "company": "TENAX THERAPEUTICS, INC.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 331979.0,
+   "price": 1.6588,
+   "value": 550686.77,
+   "acc": "0001940272-26-000027",
    "filed": "2026-10-21"
   }
  ],
@@ -4945,9 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016139",
-  "0001999371-26-016140",
-  "0001999371-26-016141",
   "0001999371-26-016142",
   "0001999371-26-016143",
   "0001999371-26-016144",
@@ -6191,6 +6188,7 @@
   "0002033834-26-000021",
   "0002034012-26-000021",
   "0002034019-26-000005",
+  "0002034019-26-000007",
   "0002034071-26-000004",
   "0002034144-26-000006",
   "0002034303-26-000006",
@@ -6219,6 +6217,7 @@
   "0002035244-26-000008",
   "0002035244-26-000009",
   "0002035295-26-000006",
+  "0002035295-26-000008",
   "0002035446-26-000022",
   "0002035446-26-000024",
   "0002035613-26-000003",
@@ -7051,6 +7050,7 @@
   "0002078265-26-000452",
   "0002078265-26-000453",
   "0002078265-26-000454",
+  "0002078265-26-000455",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
