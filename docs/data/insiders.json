@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-22 19:06 UTC",
+ "updated_utc": "2026-10-22 19:38 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 60.0,
-   "price": 1.95,
-   "value": 117.0,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4662,6 +4650,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 2462.0,
+   "price": 10.44,
+   "value": 25703.28,
+   "acc": "0001510281-26-000371",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "ECF",
    "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
    "insider": "Saba Capital Management, L.P.",
@@ -4929,7 +4929,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016166",
   "0001999371-26-016167",
   "0001999371-26-016168",
   "0001999371-26-016169",
@@ -7031,6 +7030,7 @@
   "0002078265-26-000453",
   "0002078265-26-000454",
   "0002078265-26-000455",
+  "0002078265-26-000457",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
