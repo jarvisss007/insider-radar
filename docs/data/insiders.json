@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-22 14:38 UTC",
+ "updated_utc": "2026-10-22 14:54 UTC",
  "purchases": [
-  {
-   "ticker": "NXH",
-   "company": "NEIGHBORHOOD INTELLIGENCE, INC.",
-   "insider": "LEMONIS MARCUS",
-   "role": "EXECUTIVE CHAIRMAN & CEO",
-   "date": "2026-10-06",
-   "shares": 362319.0,
-   "price": 2.76,
-   "value": 1000000.44,
-   "acc": "0001136478-26-000010",
-   "filed": "2026-10-06"
-  },
   {
    "ticker": "LWAY",
    "company": "Lifeway Foods, Inc.",
@@ -4698,6 +4686,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Booth Richard Whitaker",
+   "role": "",
+   "date": "2026-10-21",
+   "shares": 41.876,
+   "price": 11.94,
+   "value": 500.0,
+   "acc": "0001435109-26-000160",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
    "insider": "Monte Mark David",
@@ -4925,7 +4925,7 @@
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 6,
-   "total_value": 1079.57
+   "total_value": 1579.57
   }
  ],
  "seen": [
