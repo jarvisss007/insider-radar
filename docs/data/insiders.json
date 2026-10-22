@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-22 22:32 UTC",
+ "updated_utc": "2026-10-22 22:47 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lin Chris Horng-Dar",
-   "role": "VP and CIO",
-   "date": "2026-10-07",
-   "shares": 44.0,
-   "price": 79.39,
-   "value": 3493.16,
-   "acc": "0001046179-26-000698",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chuang Tzu-Sou",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 46.0,
-   "price": 79.39,
-   "value": 3651.94,
-   "acc": "0001046179-26-000679",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chuang Juiping",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 46.0,
-   "price": 79.39,
-   "value": 3651.94,
-   "acc": "0001046179-26-000674",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Ku Yao-Ching",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 46.0,
-   "price": 79.39,
-   "value": 3651.94,
-   "acc": "0001046179-26-000696",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Jang Syun-Ming",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 46.0,
-   "price": 79.39,
-   "value": 3651.94,
-   "acc": "0001046179-26-000690",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lu Lee-Chung",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 49.0,
-   "price": 79.39,
-   "value": 3890.11,
-   "acc": "0001046179-26-000703",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4254,6 +4182,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 36375.0,
+   "price": 0.6746,
+   "value": 24538.58,
+   "acc": "0000902664-26-004257",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4396,6 +4336,18 @@
    "value": 405726.36,
    "acc": "0001940272-26-000027",
    "filed": "2026-10-21"
+  },
+  {
+   "ticker": "DOLE",
+   "company": "Dole plc",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 45676.0,
+   "price": 13.2364,
+   "value": 604585.81,
+   "acc": "0000921895-26-002845",
+   "filed": "2026-10-22"
   },
   {
    "ticker": "FBK",
@@ -4578,6 +4530,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 60000.0,
+   "price": 0.7385,
+   "value": 44310.0,
+   "acc": "0000902664-26-004257",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
    "insider": "Epstein David R",
@@ -4662,6 +4626,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "DOLE",
+   "company": "Dole plc",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 438900.0,
+   "price": 13.1166,
+   "value": 5756875.74,
+   "acc": "0000921895-26-002845",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
    "insider": "RAN ASSAF",
@@ -4695,6 +4671,18 @@
    "price": 3.4899,
    "value": 5932.83,
    "acc": "0001493152-26-048080",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "SNES",
+   "company": "SenesTech, Inc.",
+   "insider": "GLENBROOK CAPITAL MANAGEMENT",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 7500.0,
+   "price": 0.7986,
+   "value": 5989.5,
+   "acc": "0000902664-26-004257",
    "filed": "2026-10-22"
   },
   {
@@ -4803,6 +4791,18 @@
    "price": 27.28,
    "value": 974277.92,
    "acc": "0001193125-26-429073",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "DOLE",
+   "company": "Dole plc",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 163780.0,
+   "price": 13.3896,
+   "value": 2192948.69,
+   "acc": "0000921895-26-002845",
    "filed": "2026-10-22"
   }
  ],
