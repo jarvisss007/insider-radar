@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-22 20:57 UTC",
+ "updated_utc": "2026-10-22 21:13 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chen Chih-Ho",
-   "role": "Controller",
-   "date": "2026-10-07",
-   "shares": 31.0,
-   "price": 79.39,
-   "value": 2461.09,
-   "acc": "0001046179-26-000672",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lu Chin-Sheng",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 36.0,
-   "price": 79.39,
-   "value": 2858.04,
-   "acc": "0001046179-26-000704",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "AHRT",
-   "company": "AH Realty Trust, Inc.",
-   "insider": "Wimbush Frederick Blair",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 494.44,
-   "price": 5.96,
-   "value": 2946.86,
-   "acc": "0001569187-26-000158",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Hwang Yuan-Ko",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 39.0,
-   "price": 79.39,
-   "value": 3096.21,
-   "acc": "0001046179-26-000692",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wu Yi-Huang",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 39.0,
-   "price": 79.39,
-   "value": 3096.21,
-   "acc": "0001046179-26-000714",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yuan Lipen",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 40.0,
-   "price": 79.39,
-   "value": 3175.6,
-   "acc": "0001046179-26-000724",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4554,6 +4482,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 193357.0,
+   "price": 35.0106,
+   "value": 6769544.58,
+   "acc": "0001193125-26-429089",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Monte Mark David",
@@ -4804,6 +4744,66 @@
    "value": 6949.2,
    "acc": "0001493152-26-048080",
    "filed": "2026-10-22"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "MARAGANORE JOHN",
+   "role": "Director",
+   "date": "2026-10-22",
+   "shares": 1172.0,
+   "price": 26.9173,
+   "value": 31547.08,
+   "acc": "0001193125-26-429071",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "Silva Paul M",
+   "role": "Director",
+   "date": "2026-10-22",
+   "shares": 3680.0,
+   "price": 27.075,
+   "value": 99636.0,
+   "acc": "0001193125-26-429075",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "Young Wendy B.",
+   "role": "Director",
+   "date": "2026-10-22",
+   "shares": 3789.0,
+   "price": 26.39,
+   "value": 99991.71,
+   "acc": "0001193125-26-429074",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "MARAGANORE JOHN",
+   "role": "Director",
+   "date": "2026-10-22",
+   "shares": 8239.0,
+   "price": 26.3799,
+   "value": 217344.0,
+   "acc": "0001193125-26-429071",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "PAUL STEVEN M",
+   "role": "Director",
+   "date": "2026-10-22",
+   "shares": 35714.0,
+   "price": 27.28,
+   "value": 974277.92,
+   "acc": "0001193125-26-429073",
+   "filed": "2026-10-22"
   }
  ],
  "clusters": [
@@ -4836,6 +4836,11 @@
    "ticker": "LEO",
    "insiders": 2,
    "total_value": 1956858.57
+  },
+  {
+   "ticker": "RAPP",
+   "insiders": 5,
+   "total_value": 1566346.71
   },
   {
    "ticker": "HEI, HEI.A",
@@ -4944,9 +4949,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016191",
-  "0001999371-26-016220",
-  "0001999371-26-016225",
   "0001999371-26-016239",
   "0001999371-26-016241",
   "0001999371-26-016247",
@@ -6381,6 +6383,7 @@
   "0002050372-26-000015",
   "0002050530-26-000008",
   "0002050576-26-000004",
+  "0002050724-26-000004",
   "0002050784-26-000005",
   "0002050857-26-000012",
   "0002050857-26-000016",
@@ -7347,6 +7350,7 @@
   "0002102774-26-000012",
   "0002103514-26-000010",
   "0002103719-26-000008",
+  "0002103972-26-000007",
   "0002104019-26-000006",
   "0002104052-26-000132",
   "0002104052-26-000134",
@@ -7667,6 +7671,7 @@
   "0002128593-26-000004",
   "0002128637-26-000007",
   "0002128745-26-000009",
+  "0002128771-26-000004",
   "0002128786-26-000004",
   "0002128786-26-000006",
   "0002129321-26-000013",
