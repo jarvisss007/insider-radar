@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-22 20:25 UTC",
+ "updated_utc": "2026-10-22 20:41 UTC",
  "purchases": [
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Hall Bjorn",
-   "role": "Secretary and CCO",
-   "date": "2026-10-07",
-   "shares": 98.8142,
-   "price": 10.12,
-   "value": 1000.0,
-   "acc": "0001213900-26-107756",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 1000.0,
-   "price": 1.895,
-   "value": 1895.0,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 1000.0,
-   "price": 1.96,
-   "value": 1960.0,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4170,6 +4134,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "NMS",
+   "company": "Nuveen Minnesota Quality Municipal Income Fund",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 18.0,
+   "price": 10.215,
+   "value": 183.87,
+   "acc": "0000070858-26-000499",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
    "insider": "BANK OF AMERICA CORP /DE/",
@@ -4206,6 +4182,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "NMS",
+   "company": "Nuveen Minnesota Quality Municipal Income Fund",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 82.0,
+   "price": 10.2502,
+   "value": 840.52,
+   "acc": "0000070858-26-000499",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "NMCO",
    "company": "Nuveen Municipal Credit Opportunities Fund",
    "insider": "BANK OF AMERICA CORP /DE/",
@@ -4215,6 +4203,18 @@
    "price": 8.779,
    "value": 842.78,
    "acc": "0000070858-26-000498",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "VKI",
+   "company": "Invesco Advantage Municipal Income Trust II",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 105.0,
+   "price": 8.03,
+   "value": 843.15,
+   "acc": "0000070858-26-000500",
    "filed": "2026-10-22"
   },
   {
@@ -4944,8 +4944,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016173",
-  "0001999371-26-016174",
   "0001999371-26-016175",
   "0001999371-26-016176",
   "0001999371-26-016182",
@@ -6562,6 +6560,7 @@
   "0002061219-26-000015",
   "0002061219-26-000017",
   "0002061219-26-000019",
+  "0002061219-26-000023",
   "0002061268-26-000011",
   "0002061361-26-000009",
   "0002061361-26-000011",
@@ -7329,6 +7328,7 @@
   "0002100129-26-000005",
   "0002100129-26-000006",
   "0002100129-26-000008",
+  "0002100241-26-000005",
   "0002100449-26-000004",
   "0002100449-26-000006",
   "0002100573-26-000006",
