@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-22 20:09 UTC",
+ "updated_utc": "2026-10-22 20:25 UTC",
  "purchases": [
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Booth Richard Whitaker",
-   "role": "",
-   "date": "2026-10-07",
-   "shares": 41.7362,
-   "price": 11.98,
-   "value": 500.0,
-   "acc": "0001435109-26-000150",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 7.0,
-   "price": 79.39,
-   "value": 555.73,
-   "acc": "0001046179-26-000708",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 294.0,
-   "price": 1.95,
-   "value": 573.3,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 336.0,
-   "price": 1.97,
-   "value": 661.92,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 345.0,
-   "price": 1.95,
-   "value": 672.75,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 450.0,
-   "price": 1.97,
-   "value": 886.5,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
@@ -4230,6 +4158,30 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "NMCO",
+   "company": "Nuveen Municipal Credit Opportunities Fund",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 15.0,
+   "price": 8.765,
+   "value": 131.48,
+   "acc": "0000070858-26-000498",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 34.0,
+   "price": 5.725,
+   "value": 194.65,
+   "acc": "0000070858-26-000496",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
    "insider": "BANK OF AMERICA CORP /DE/",
@@ -4252,6 +4204,42 @@
    "value": 521.4,
    "acc": "0001178579-26-000019",
    "filed": "2026-10-20"
+  },
+  {
+   "ticker": "NMCO",
+   "company": "Nuveen Municipal Credit Opportunities Fund",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 96.0,
+   "price": 8.779,
+   "value": 842.78,
+   "acc": "0000070858-26-000498",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 149.0,
+   "price": 5.6689,
+   "value": 844.67,
+   "acc": "0000070858-26-000496",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "NBH",
+   "company": "NEUBERGER MUNICIPAL FUND INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 92.0,
+   "price": 9.1899,
+   "value": 845.47,
+   "acc": "0000070858-26-000497",
+   "filed": "2026-10-22"
   },
   {
    "ticker": "DSM",
@@ -4698,6 +4686,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 20575.0,
+   "price": 5.32,
+   "value": 109459.0,
+   "acc": "0001510281-26-000372",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
    "insider": "Ignelzi Troy A.",
@@ -4833,6 +4833,11 @@
    "total_value": 3799992.0
   },
   {
+   "ticker": "LEO",
+   "insiders": 2,
+   "total_value": 1956858.57
+  },
+  {
    "ticker": "HEI, HEI.A",
    "insiders": 8,
    "total_value": 1400594.55
@@ -4840,7 +4845,7 @@
   {
    "ticker": "DSM",
    "insiders": 2,
-   "total_value": 1247200.42
+   "total_value": 1356659.42
   },
   {
    "ticker": "RTSN",
@@ -4918,6 +4923,11 @@
    "total_value": 5019.15
   },
   {
+   "ticker": "NMCO",
+   "insiders": 2,
+   "total_value": 4686.76
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "insiders": 3,
    "total_value": 2371.35
@@ -4934,9 +4944,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016170",
-  "0001999371-26-016171",
-  "0001999371-26-016172",
   "0001999371-26-016173",
   "0001999371-26-016174",
   "0001999371-26-016175",
@@ -5693,6 +5700,7 @@
   "0001999371-26-023305",
   "0001999371-26-023307",
   "0001999371-26-023310",
+  "0001999371-26-023330",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7807,6 +7815,7 @@
   "0002146790-26-000010",
   "0002146790-26-000017",
   "0002146790-26-000019",
+  "0002146790-26-000023",
   "0002146822-26-000005",
   "0002146828-26-000008",
   "0002146828-26-000010",
@@ -7881,6 +7890,7 @@
   "0002152188-26-000007",
   "0002152432-26-000004",
   "0002152526-26-000007",
+  "0002152531-26-000006",
   "0002152870-26-000010",
   "0002152984-26-000004",
   "0002152990-26-000002",
