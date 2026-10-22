@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-22 19:53 UTC",
+ "updated_utc": "2026-10-22 20:09 UTC",
  "purchases": [
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 216.0,
-   "price": 1.88,
-   "value": 406.08,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 214.0,
-   "price": 1.969,
-   "value": 421.37,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
@@ -4254,6 +4230,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 39.0,
+   "price": 5.315,
+   "value": 207.29,
+   "acc": "0000070858-26-000495",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -4264,6 +4252,18 @@
    "value": 521.4,
    "acc": "0001178579-26-000019",
    "filed": "2026-10-20"
+  },
+  {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 161.0,
+   "price": 5.2896,
+   "value": 851.63,
+   "acc": "0000070858-26-000495",
+   "filed": "2026-10-22"
   },
   {
    "ticker": "YORW",
@@ -4838,6 +4838,11 @@
    "total_value": 1400594.55
   },
   {
+   "ticker": "DSM",
+   "insiders": 2,
+   "total_value": 1247200.42
+  },
+  {
    "ticker": "RTSN",
    "insiders": 2,
    "total_value": 369600.0
@@ -4929,9 +4934,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016167",
-  "0001999371-26-016168",
-  "0001999371-26-016169",
   "0001999371-26-016170",
   "0001999371-26-016171",
   "0001999371-26-016172",
@@ -6119,6 +6121,7 @@
   "0002030738-26-000002",
   "0002030738-26-000004",
   "0002030833-26-000003",
+  "0002030833-26-000004",
   "0002030841-26-000005",
   "0002030855-26-000008",
   "0002030941-26-000010",
@@ -6837,6 +6840,7 @@
   "0002071844-26-001439",
   "0002071844-26-001448",
   "0002071844-26-001452",
+  "0002071844-26-001457",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
@@ -7784,6 +7788,7 @@
   "0002144584-26-000004",
   "0002144594-26-000003",
   "0002144890-26-000006",
+  "0002144890-26-000008",
   "0002145121-26-000006",
   "0002145258-26-000006",
   "0002145476-26-000004",
