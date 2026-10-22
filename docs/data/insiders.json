@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-22 18:18 UTC",
+ "updated_utc": "2026-10-22 19:06 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-06",
-   "shares": 142420.0,
-   "price": 13.0231,
-   "value": 1854749.9,
-   "acc": "0001398344-26-018110",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "AVR",
-   "company": "Anteris Technologies Global Corp.",
-   "insider": "L1 Capital Pty Ltd",
-   "role": "10% owner",
-   "date": "2026-10-06",
-   "shares": 272695.0,
-   "price": 7.18,
-   "value": 1957950.1,
-   "acc": "0001817646-26-000032",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "PSUS",
-   "company": "Pershing Square USA, Ltd.",
-   "insider": "ISRAEL RYAN",
-   "role": "Chief Investment Officer",
-   "date": "2026-10-06",
-   "shares": 57659.0,
-   "price": 37.8737,
-   "value": 2183759.67,
-   "acc": "0001193125-26-415861",
-   "filed": "2026-10-06"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-06",
-   "shares": 116345.0,
-   "price": 35.2323,
-   "value": 4099101.94,
-   "acc": "0001193125-26-417973",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Troim Tor Olav",
-   "role": "Director",
-   "date": "2026-10-06",
-   "shares": 1500000.0,
-   "price": 4.2428,
-   "value": 6364200.0,
-   "acc": "0001628280-26-065290",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Osborn Michael Jordan",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 1.0,
-   "price": 1.95,
-   "value": 1.95,
-   "acc": "0001199835-26-000371",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "WVVI",
    "company": "WILLAMETTE VALLEY VINEYARDS INC",
@@ -4804,6 +4732,78 @@
    "value": 1407600.89,
    "acc": "0001398344-26-018550",
    "filed": "2026-10-21"
+  },
+  {
+   "ticker": "LOAN",
+   "company": "MANHATTAN BRIDGE CAPITAL, INC",
+   "insider": "RAN ASSAF",
+   "role": "President and CEO",
+   "date": "2026-10-22",
+   "shares": 1081.0,
+   "price": 3.436,
+   "value": 3714.32,
+   "acc": "0001493152-26-048080",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LOAN",
+   "company": "MANHATTAN BRIDGE CAPITAL, INC",
+   "insider": "RAN ASSAF",
+   "role": "President and CEO",
+   "date": "2026-10-22",
+   "shares": 1600.0,
+   "price": 3.4675,
+   "value": 5548.0,
+   "acc": "0001493152-26-048080",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LOAN",
+   "company": "MANHATTAN BRIDGE CAPITAL, INC",
+   "insider": "RAN ASSAF",
+   "role": "President and CEO",
+   "date": "2026-10-22",
+   "shares": 1700.0,
+   "price": 3.4899,
+   "value": 5932.83,
+   "acc": "0001493152-26-048080",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LOAN",
+   "company": "MANHATTAN BRIDGE CAPITAL, INC",
+   "insider": "RAN ASSAF",
+   "role": "President and CEO",
+   "date": "2026-10-22",
+   "shares": 1800.0,
+   "price": 3.445,
+   "value": 6201.0,
+   "acc": "0001493152-26-048080",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LOAN",
+   "company": "MANHATTAN BRIDGE CAPITAL, INC",
+   "insider": "RAN ASSAF",
+   "role": "President and CEO",
+   "date": "2026-10-22",
+   "shares": 1819.0,
+   "price": 3.4895,
+   "value": 6347.4,
+   "acc": "0001493152-26-048080",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LOAN",
+   "company": "MANHATTAN BRIDGE CAPITAL, INC",
+   "insider": "RAN ASSAF",
+   "role": "President and CEO",
+   "date": "2026-10-22",
+   "shares": 2000.0,
+   "price": 3.4746,
+   "value": 6949.2,
+   "acc": "0001493152-26-048080",
+   "filed": "2026-10-22"
   }
  ],
  "clusters": [
@@ -4929,8 +4929,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016164",
-  "0001999371-26-016165",
   "0001999371-26-016166",
   "0001999371-26-016167",
   "0001999371-26-016168",
@@ -5692,6 +5690,8 @@
   "0001999371-26-023270",
   "0001999371-26-023284",
   "0001999371-26-023305",
+  "0001999371-26-023307",
+  "0001999371-26-023310",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
