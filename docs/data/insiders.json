@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-22 14:54 UTC",
+ "updated_utc": "2026-10-22 17:00 UTC",
  "purchases": [
-  {
-   "ticker": "LWAY",
-   "company": "Lifeway Foods, Inc.",
-   "insider": "Divisadero Street Capital Management, LP",
-   "role": "10% owner",
-   "date": "2026-10-06",
-   "shares": 50000.0,
-   "price": 20.8038,
-   "value": 1040190.0,
-   "acc": "0000919574-26-006685",
-   "filed": "2026-10-06"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -4746,6 +4734,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 2600.0,
+   "price": 11.58,
+   "value": 30108.0,
+   "acc": "0001510281-26-000370",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
    "insider": "Epstein David R",
@@ -4929,7 +4929,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016160",
   "0001999371-26-016161",
   "0001999371-26-016162",
   "0001999371-26-016163",
@@ -5694,6 +5693,7 @@
   "0001999371-26-023258",
   "0001999371-26-023262",
   "0001999371-26-023270",
+  "0001999371-26-023284",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
