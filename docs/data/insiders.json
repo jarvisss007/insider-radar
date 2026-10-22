@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-22 14:07 UTC",
+ "updated_utc": "2026-10-22 14:38 UTC",
  "purchases": [
-  {
-   "ticker": "SAH",
-   "company": "SONIC AUTOMOTIVE INC",
-   "insider": "Rusnak Paul P.",
-   "role": "10% owner",
-   "date": "2026-10-06",
-   "shares": 1119.0,
-   "price": 59.9,
-   "value": 67028.1,
-   "acc": "0001460471-26-000007",
-   "filed": "2026-10-07"
-  },
-  {
-   "ticker": "PHK",
-   "company": "PIMCO HIGH INCOME FUND",
-   "insider": "FLATTUM DAVID C",
-   "role": "Director",
-   "date": "2026-10-06",
-   "shares": 60204.17,
-   "price": 4.14,
-   "value": 249245.26,
-   "acc": "0001201917-26-000005",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "PDI",
-   "company": "PIMCO Dynamic Income Fund",
-   "insider": "FLATTUM DAVID C",
-   "role": "Director",
-   "date": "2026-10-06",
-   "shares": 17448.13,
-   "price": 14.3,
-   "value": 249508.26,
-   "acc": "0001201917-26-000004",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "NXH",
    "company": "NEIGHBORHOOD INTELLIGENCE, INC.",
@@ -4458,6 +4422,30 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "GROW",
+   "company": "U S GLOBAL INVESTORS INC",
+   "insider": "Gator Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 2886.0,
+   "price": 2.57,
+   "value": 7417.02,
+   "acc": "0001062993-26-005480",
+   "filed": "2026-10-22"
+  },
+  {
+   "ticker": "GROW",
+   "company": "U S GLOBAL INVESTORS INC",
+   "insider": "Pilecki Derek Steven",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 2886.0,
+   "price": 2.57,
+   "value": 7417.02,
+   "acc": "0001062993-26-005478",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "Sartori Michael Andrew",
@@ -4710,6 +4698,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 78.6311,
+   "price": 10.11,
+   "value": 794.96,
+   "acc": "0001435109-26-000159",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "MCDEARMAN JOHN",
@@ -4893,6 +4893,11 @@
    "total_value": 14989.18
   },
   {
+   "ticker": "GROW",
+   "insiders": 2,
+   "total_value": 14834.04
+  },
+  {
    "ticker": "NRXS",
    "insiders": 3,
    "total_value": 12259.72
@@ -4908,14 +4913,14 @@
    "total_value": 5019.15
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "insiders": 3,
+   "total_value": 2371.35
+  },
+  {
    "ticker": "UMH",
    "insiders": 2,
    "total_value": 2000.12
-  },
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "insiders": 3,
-   "total_value": 1576.39
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
@@ -4924,7 +4929,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016159",
   "0001999371-26-016160",
   "0001999371-26-016161",
   "0001999371-26-016162",
@@ -5689,6 +5693,7 @@
   "0001999371-26-023234",
   "0001999371-26-023258",
   "0001999371-26-023262",
+  "0001999371-26-023270",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
