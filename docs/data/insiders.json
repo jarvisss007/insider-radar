@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-23 13:09 UTC",
+ "updated_utc": "2026-10-23 13:40 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wang Ying-Lang",
-   "role": "SVP",
-   "date": "2026-10-07",
-   "shares": 52.0,
-   "price": 79.39,
-   "value": 4128.28,
-   "acc": "0001046179-26-000710",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4758,6 +4746,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "CLF",
+   "company": "CLEVELAND-CLIFFS INC.",
+   "insider": "Camara Edilson",
+   "role": "Director",
+   "date": "2026-10-22",
+   "shares": 7400.0,
+   "price": 13.49,
+   "value": 99826.0,
+   "acc": "0000764065-26-000117",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
    "insider": "Young Wendy B.",
@@ -4924,7 +4924,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016326",
   "0001999371-26-016329",
   "0001999371-26-016348",
   "0001999371-26-016349",
@@ -5665,6 +5664,7 @@
   "0001999371-26-023384",
   "0001999371-26-023387",
   "0001999371-26-023390",
+  "0001999371-26-023393",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
