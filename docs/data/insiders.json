@@ -1,91 +1,6 @@
 {
- "updated_utc": "2026-10-23 21:19 UTC",
+ "updated_utc": "2026-10-23 21:35 UTC",
  "purchases": [
-  {
-   "ticker": "IMMR",
-   "company": "IMMERSION CORP",
-   "insider": "Singer Eric",
-   "role": "President and CEO",
-   "date": "2026-10-07",
-   "shares": 8000.0,
-   "price": 7.11,
-   "value": 56880.0,
-   "acc": "0001193125-26-418131",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "SKYA",
-   "company": "SkyAI, Inc.",
-   "insider": "Bastion Trading Ltd",
-   "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 44000.0,
-   "price": 1.7787,
-   "value": 78262.8,
-   "acc": "0000921895-26-002775",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "IMMR",
-   "company": "IMMERSION CORP",
-   "insider": "Singer Eric",
-   "role": "President and CEO",
-   "date": "2026-10-07",
-   "shares": 26950.0,
-   "price": 7.15,
-   "value": 192692.5,
-   "acc": "0001193125-26-418131",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 17548.0,
-   "price": 11.97,
-   "value": 210049.56,
-   "acc": "0001510281-26-000334",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "FUL",
-   "company": "FULLER H B CO",
-   "insider": "BAILLY R JEFFREY",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 10000.0,
-   "price": 50.0,
-   "value": 500000.0,
-   "acc": "0001225208-26-008325",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "ONMD",
-   "company": "OneMedNet Corp",
-   "insider": "Kosasa Thomas",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 129758.0,
-   "price": 5.78,
-   "value": 750001.24,
-   "acc": "0001493152-26-046909",
-   "filed": "2026-10-13",
-   "placement": true
-  },
-  {
-   "ticker": "SAH",
-   "company": "SONIC AUTOMOTIVE INC",
-   "insider": "Rusnak Paul P.",
-   "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 13701.0,
-   "price": 59.78,
-   "value": 819045.78,
-   "acc": "0001460471-26-000008",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
@@ -2586,6 +2501,18 @@
    "filed": "2026-10-16"
   },
   {
+   "ticker": "SAMG",
+   "company": "Silvercrest Asset Management Group Inc.",
+   "insider": "Equinox Partners Investment Management LLC",
+   "role": "10% owner",
+   "date": "2026-10-15",
+   "shares": 5692.0,
+   "price": 10.47,
+   "value": 59595.24,
+   "acc": "0001013594-26-001082",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
    "insider": "Saba Capital Management, L.P.",
@@ -3990,6 +3917,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "SAMG",
+   "company": "Silvercrest Asset Management Group Inc.",
+   "insider": "Equinox Partners Investment Management LLC",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 10368.0,
+   "price": 10.24,
+   "value": 106168.32,
+   "acc": "0001013594-26-001082",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "Popenoe Smriti Laxman",
@@ -4158,6 +4097,30 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 1000.0,
+   "price": 4.1,
+   "value": 4100.0,
+   "acc": "0001062993-26-005533",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 2000.0,
+   "price": 4.2,
+   "value": 8400.0,
+   "acc": "0001062993-26-005533",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "BZUN",
    "company": "Baozun Inc.",
    "insider": "Qiu Wenbin",
@@ -4300,6 +4263,18 @@
    "value": 143550.0,
    "acc": "0001193125-26-428018",
    "filed": "2026-10-21"
+  },
+  {
+   "ticker": "SAMG",
+   "company": "Silvercrest Asset Management Group Inc.",
+   "insider": "Equinox Partners Investment Management LLC",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 14744.0,
+   "price": 10.33,
+   "value": 152305.52,
+   "acc": "0001013594-26-001082",
+   "filed": "2026-10-23"
   },
   {
    "ticker": "LEO",
@@ -4602,6 +4577,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "SAMG",
+   "company": "Silvercrest Asset Management Group Inc.",
+   "insider": "Equinox Partners Investment Management LLC",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 3322.0,
+   "price": 10.42,
+   "value": 34615.24,
+   "acc": "0001013594-26-001082",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "API",
    "company": "Agora, Inc.",
    "insider": "Zhao Bin",
@@ -4696,6 +4683,18 @@
    "value": 2192948.69,
    "acc": "0000921895-26-002845",
    "filed": "2026-10-22"
+  },
+  {
+   "ticker": "LCU",
+   "company": "Lion Copper Corp.",
+   "insider": "Alford Tony L",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 1000.0,
+   "price": 4.2,
+   "value": 4200.0,
+   "acc": "0001062993-26-005533",
+   "filed": "2026-10-23"
   },
   {
    "ticker": "MSM",
@@ -4873,6 +4872,11 @@
    "total_value": 112279.3
   },
   {
+   "ticker": "LCU",
+   "insiders": 2,
+   "total_value": 71577.15
+  },
+  {
    "ticker": "CHCO",
    "insiders": 4,
    "total_value": 68222.4
@@ -4881,11 +4885,6 @@
    "ticker": "QTEX",
    "insiders": 2,
    "total_value": 61359.84
-  },
-  {
-   "ticker": "LCU",
-   "insiders": 2,
-   "total_value": 54877.15
   },
   {
    "ticker": "YORW",
@@ -4939,9 +4938,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016492",
-  "0001999371-26-016508",
-  "0001999371-26-016509",
   "0001999371-26-016513",
   "0001999371-26-016521",
   "0001999371-26-016522",
@@ -6517,6 +6513,7 @@
   "0002059978-26-000008",
   "0002060000-26-000002",
   "0002060000-26-000003",
+  "0002060000-26-000005",
   "0002060030-26-000010",
   "0002060030-26-000012",
   "0002060166-26-000015",
@@ -6918,6 +6915,7 @@
   "0002076000-26-000012",
   "0002076243-26-000002",
   "0002076243-26-000003",
+  "0002076243-26-000005",
   "0002076280-26-000009",
   "0002076715-26-000005",
   "0002076719-26-000002",
@@ -7787,6 +7785,7 @@
   "0002144418-26-000006",
   "0002144468-26-000004",
   "0002144584-26-000004",
+  "0002144584-26-000006",
   "0002144594-26-000003",
   "0002144890-26-000006",
   "0002144890-26-000008",
