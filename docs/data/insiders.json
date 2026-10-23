@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-23 00:53 UTC",
+ "updated_utc": "2026-10-23 01:08 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yoo Chue-San",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 50.0,
-   "price": 79.39,
-   "value": 3969.5,
-   "acc": "0001046179-26-000721",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Cao Min",
-   "role": "VP",
-   "date": "2026-10-07",
-   "shares": 51.0,
-   "price": 79.39,
-   "value": 4048.89,
-   "acc": "0001046179-26-000678",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chang Tzonz-Sheng",
-   "role": "SVP",
-   "date": "2026-10-07",
-   "shares": 51.0,
-   "price": 79.39,
-   "value": 4048.89,
-   "acc": "0001046179-26-000676",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lee Chun-Hsien",
-   "role": "SVP",
-   "date": "2026-10-07",
-   "shares": 51.0,
-   "price": 79.39,
-   "value": 4048.89,
-   "acc": "0001046179-26-000697",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "INM",
    "company": "InMed Pharmaceuticals Inc.",
@@ -3726,6 +3678,18 @@
    "filed": "2026-10-20"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-19",
+   "shares": 9971.0,
+   "price": 4.3855,
+   "value": 43727.82,
+   "acc": "0001193125-26-429245",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "NXG",
    "company": "NXG NextGen Infrastructure Income Fund",
    "insider": "Sunderland Todd",
@@ -4230,6 +4194,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-20",
+   "shares": 9794.0,
+   "price": 4.3551,
+   "value": 42653.85,
+   "acc": "0001193125-26-429245",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
    "insider": "Saba Capital Management, L.P.",
@@ -4518,6 +4494,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-21",
+   "shares": 9513.0,
+   "price": 4.4551,
+   "value": 42381.37,
+   "acc": "0001193125-26-429245",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
    "insider": "Epstein David R",
@@ -4746,6 +4734,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-22",
+   "shares": 8989.0,
+   "price": 4.3989,
+   "value": 39541.71,
+   "acc": "0001193125-26-429245",
+   "filed": "2026-10-22"
+  },
+  {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
    "insider": "Silva Paul M",
@@ -4949,7 +4949,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016252",
   "0001999371-26-016253",
   "0001999371-26-016261",
   "0001999371-26-016301",
@@ -6658,6 +6657,7 @@
   "0002065999-26-000007",
   "0002066234-26-000002",
   "0002066491-26-000011",
+  "0002066491-26-000013",
   "0002066736-26-000004",
   "0002066736-26-000005",
   "0002066778-26-000006",
