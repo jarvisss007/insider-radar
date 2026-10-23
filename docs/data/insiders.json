@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-23 16:18 UTC",
+ "updated_utc": "2026-10-23 16:34 UTC",
  "purchases": [
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 1000.0,
-   "price": 4.4,
-   "value": 4400.0,
-   "acc": "0001062993-26-005264",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4602,6 +4590,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-10-22",
+   "shares": 31250.0,
+   "price": 0.163,
+   "value": 5093.75,
+   "acc": "0001493152-26-048196",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
    "insider": "RAN ASSAF",
@@ -4924,8 +4924,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016381",
-  "0001999371-26-016401",
   "0001999371-26-016404",
   "0001999371-26-016408",
   "0001999371-26-016411",
@@ -5665,6 +5663,8 @@
   "0001999371-26-023416",
   "0001999371-26-023418",
   "0001999371-26-023420",
+  "0001999371-26-023423",
+  "0001999371-26-023426",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
