@@ -437,9 +437,34 @@ def _require_equity_issuer(ticker) -> None:
                          f"open to fill (INS-030).")
 
 
+_FIRM_HALT = None
+
+
+def _firm_halt():
+    """stock-radar/firm_halt.py (PORT-006) loaded by path, once; None when it cannot be loaded (the caller then WITHHOLDS)."""
+    global _FIRM_HALT
+    if _FIRM_HALT is None:
+        try:
+            import importlib.util as _iu
+            _p = os.path.join(os.path.expanduser("~"), "stock-radar", "firm_halt.py")
+            _sp = _iu.spec_from_file_location("firm_halt", _p)
+            _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m)
+            _FIRM_HALT = _m
+        except Exception as _e:
+            print(f"  PORT-006: stock-radar/firm_halt.py could not be loaded ({type(_e).__name__}: {_e})", file=sys.stderr)
+            _FIRM_HALT = False
+    return _FIRM_HALT or None
+
+
 def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS, now=None,
-                check_issuer_type: bool = True):
+                check_issuer_type: bool = True, halts=None, refusals=None):
     """Append ONE call to the ledger with stale_quote already decided.
+
+    PORT-006 (2026-10-22): the FIRM-WIDE halt (stock-radar/agent/HALTS.json `portfolio-kill` / `portfolio-brake`, read through
+    stock-radar/firm_halt.py). The call is STILL appended - it is this lab's own scored record, and prereg P5 says this function
+    must not delete it - but it carries firm_halt.MARKER, so stock-radar/portfolio_data.read_labs never makes it an account row,
+    and the withheld entry is recorded in agent/halt_refusals_insider.csv. A gate that cannot be loaded or a HALTS.json that cannot
+    be read WITHHOLDS (never assumes no halt). `halts` / `refusals` are test seams (paths).
 
     This is the write path. Anything logging a call goes through here so the
     disclosure cannot be forgotten: if the caller does not supply stale_quote,
@@ -532,6 +557,20 @@ def append_call(row: dict, ledger: str = LEDGER, sessions: int = STALE_SESSIONS,
             f"refusing to log {row.get('ticker')}: blank `tags`. The tag is declared "
             f"at the lab, never inferred downstream (TAG-001); this lab's rows are "
             f"`fund` by construction -- see agent/AGENT.md step 5 (INS-011).")
+    # PORT-006: the firm-wide halt gate (see the docstring). Decided here, after every other refusal, right before the write.
+    _fh = _firm_halt()
+    if _fh is None:
+        row["thesis"] = (str(row.get("thesis") or "") + " [ACCOUNT-WITHHELD PORT-006: stock-radar/firm_halt.py could not be loaded, so "
+                         "the firm-wide halt is unknown; this call is the lab's record only and NOT a row in THE ACCOUNT]").strip()
+        print(f"  PORT-006: {row.get('ticker')} appended WITHHELD from THE ACCOUNT (firm_halt.py unavailable)", file=sys.stderr)
+    else:
+        _halt, _ok, _ref = _fh.refuse("insider", [{"date": row.get("date"), "ticker": row.get("ticker"), "side": row.get("call"),
+                                                   "notional": 2000.0}], halts=halts, refusals=refusals, beside=ledger,
+                                      writer="insider-radar/agent/stale_quote.py append_call()")
+        if _halt:
+            row["thesis"] = (str(row.get("thesis") or "") + " " + _fh.marker(_halt)).strip()
+            print(f"  {_fh.RULING}: FIRM-WIDE HALT - {_halt['text']}. {row.get('ticker')} appended WITH the ACCOUNT-WITHHELD marker "
+                  f"(the lab's scored record); not a row in THE ACCOUNT; recorded in halt_refusals_insider.csv", file=sys.stderr)
     new = not os.path.exists(ledger) or os.path.getsize(ledger) == 0
     with open(ledger, "a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=ledger_header(), extrasaction="ignore")
