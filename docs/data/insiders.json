@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-23 21:04 UTC",
+ "updated_utc": "2026-10-23 21:19 UTC",
  "purchases": [
-  {
-   "ticker": "GOLD",
-   "company": "Gold.com, Inc.",
-   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
-   "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 1030.0,
-   "price": 39.96,
-   "value": 41158.8,
-   "acc": "0001104659-26-115328",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "IMMR",
    "company": "IMMERSION CORP",
@@ -4804,6 +4792,18 @@
    "value": 98477.64,
    "acc": "0001193125-26-430397",
    "filed": "2026-10-23"
+  },
+  {
+   "ticker": "NXG",
+   "company": "NXG NextGen Infrastructure Income Fund",
+   "insider": "Swank Jerry V",
+   "role": "See Remarks",
+   "date": "2026-10-23",
+   "shares": 10000.0,
+   "price": 43.9493,
+   "value": 439493.0,
+   "acc": "0001354719-26-000001",
+   "filed": "2026-10-23"
   }
  ],
  "clusters": [
@@ -4848,6 +4848,11 @@
    "total_value": 1356659.42
   },
   {
+   "ticker": "NXG",
+   "insiders": 3,
+   "total_value": 525575.0
+  },
+  {
    "ticker": "RTSN",
    "insiders": 2,
    "total_value": 369600.0
@@ -4866,11 +4871,6 @@
    "ticker": "IMSR",
    "insiders": 3,
    "total_value": 112279.3
-  },
-  {
-   "ticker": "NXG",
-   "insiders": 2,
-   "total_value": 86082.0
   },
   {
    "ticker": "CHCO",
