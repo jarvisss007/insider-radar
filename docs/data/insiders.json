@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-23 20:00 UTC",
+ "updated_utc": "2026-10-23 20:15 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chin Yung-Pei",
-   "role": "EVP and Co-COO",
-   "date": "2026-10-07",
-   "shares": 67.0,
-   "price": 79.39,
-   "value": 5319.13,
-   "acc": "0001046179-26-000677",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Mii Yuh-Jier",
-   "role": "EVP and Co-COO",
-   "date": "2026-10-07",
-   "shares": 68.0,
-   "price": 79.39,
-   "value": 5398.52,
-   "acc": "0001046179-26-000709",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-07",
-   "shares": 5505.0,
-   "price": 1.2128,
-   "value": 6676.46,
-   "acc": "0001493152-26-046274",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Mulacek Phil E",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 4023.0,
-   "price": 2.72,
-   "value": 10942.56,
-   "acc": "0001072613-26-000825",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4542,6 +4494,42 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "RENT",
+   "company": "Rent the Runway, Inc.",
+   "insider": "CHS US Investments LLC",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 458245.0,
+   "price": 3.55,
+   "value": 1626769.75,
+   "acc": "0001012975-26-000980",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "RENT",
+   "company": "Rent the Runway, Inc.",
+   "insider": "STORY3 Capital Partners, LLC",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 632922.0,
+   "price": 3.55,
+   "value": 2246873.1,
+   "acc": "0001012975-26-000982",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "RENT",
+   "company": "Rent the Runway, Inc.",
+   "insider": "Nexus Capital Management LP",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 632922.0,
+   "price": 3.55,
+   "value": 2246873.1,
+   "acc": "0001012975-26-000981",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "DOLE",
    "company": "Dole plc",
    "insider": "Pale Fire Capital SE",
@@ -4804,6 +4792,18 @@
    "value": 2192948.69,
    "acc": "0000921895-26-002845",
    "filed": "2026-10-22"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "Sanchez Ramiro",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 3600.0,
+   "price": 27.3549,
+   "value": 98477.64,
+   "acc": "0001193125-26-430397",
+   "filed": "2026-10-23"
   }
  ],
  "clusters": [
@@ -4823,6 +4823,11 @@
    "total_value": 6664686.12
   },
   {
+   "ticker": "RENT",
+   "insiders": 3,
+   "total_value": 6120515.95
+  },
+  {
    "ticker": "CTY",
    "insiders": 2,
    "total_value": 6120000.0
@@ -4834,8 +4839,8 @@
   },
   {
    "ticker": "RAPP",
-   "insiders": 5,
-   "total_value": 1566346.71
+   "insiders": 6,
+   "total_value": 1664824.35
   },
   {
    "ticker": "DSM",
