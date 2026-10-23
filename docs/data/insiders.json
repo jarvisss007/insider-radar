@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-23 17:05 UTC",
+ "updated_utc": "2026-10-23 18:24 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Zhang Kevin Xiaoqiang",
-   "role": "SVP and Deputy Co-COO",
-   "date": "2026-10-07",
-   "shares": 59.0,
-   "price": 79.39,
-   "value": 4684.01,
-   "acc": "0001046179-26-000722",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4734,6 +4722,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO EQUITY & INCOME FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 2000.0,
+   "price": 20.14,
+   "value": 40280.0,
+   "acc": "0001510281-26-000376",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
    "insider": "Silva Paul M",
@@ -4924,7 +4924,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016404",
   "0001999371-26-016408",
   "0001999371-26-016411",
   "0001999371-26-016421",
@@ -7392,6 +7391,7 @@
   "0002111103-26-000037",
   "0002111103-26-000039",
   "0002111103-26-000041",
+  "0002111103-26-000043",
   "0002111248-26-000004",
   "0002111348-26-000011",
   "0002111354-26-000016",
