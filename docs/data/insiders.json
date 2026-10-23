@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-23 12:21 UTC",
+ "updated_utc": "2026-10-23 12:37 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yeap Choh Fei",
-   "role": "SVP",
-   "date": "2026-10-07",
-   "shares": 52.0,
-   "price": 79.39,
-   "value": 4128.28,
-   "acc": "0001046179-26-000723",
-   "filed": "2026-10-08"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4674,6 +4662,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-22",
+   "shares": 7000.0,
+   "price": 0.8901,
+   "value": 6230.7,
+   "acc": "0001493152-26-048181",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
    "insider": "RAN ASSAF",
@@ -4924,7 +4924,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016309",
   "0001999371-26-016313",
   "0001999371-26-016317",
   "0001999371-26-016326",
@@ -5665,6 +5664,7 @@
   "0001999371-26-023345",
   "0001999371-26-023378",
   "0001999371-26-023381",
+  "0001999371-26-023384",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
