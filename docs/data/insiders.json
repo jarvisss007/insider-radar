@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-10-23 20:15 UTC",
+ "updated_utc": "2026-10-23 20:31 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wei Che-Chia",
-   "role": "Chairman and CEO",
-   "date": "2026-10-07",
-   "shares": 144.0,
-   "price": 79.39,
-   "value": 11432.16,
-   "acc": "0001046179-26-000715",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 1223.0,
-   "price": 10.36,
-   "value": 12670.28,
-   "acc": "0001510281-26-000333",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 1318.0,
-   "price": 11.49,
-   "value": 15143.82,
-   "acc": "0001104659-26-115066",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "ALP",
-   "company": "Alpha Compute Corp",
-   "insider": "Villani Fiorenzo",
-   "role": "See Remarks",
-   "date": "2026-10-07",
-   "shares": 5150.0,
-   "price": 3.8,
-   "value": 19570.0,
-   "acc": "0001171843-26-006594",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "IMMR",
-   "company": "IMMERSION CORP",
-   "insider": "Singer Eric",
-   "role": "President and CEO",
-   "date": "2026-10-07",
-   "shares": 3000.0,
-   "price": 7.15,
-   "value": 21450.0,
-   "acc": "0001193125-26-418131",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "IMMR",
-   "company": "IMMERSION CORP",
-   "insider": "Singer Eric",
-   "role": "President and CEO",
-   "date": "2026-10-07",
-   "shares": 3050.0,
-   "price": 7.14,
-   "value": 21777.0,
-   "acc": "0001193125-26-418131",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 2955.0,
-   "price": 9.43,
-   "value": 27865.65,
-   "acc": "0001510281-26-000335",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "CINT",
-   "company": "CI&T Inc",
-   "insider": "Martins Fernando Matt Borges",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 9116.0,
-   "price": 3.12,
-   "value": 28441.92,
-   "acc": "0001292814-26-004872",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "MWA",
-   "company": "Mueller Water Products, Inc.",
-   "insider": "Healy Brian C.",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 1376.0,
-   "price": 21.7496,
-   "value": 29927.45,
-   "acc": "0001225208-26-008364",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "API",
    "company": "Agora, Inc.",
@@ -4482,6 +4374,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
+   "company": "Blackstone Private Real Estate Credit & Income Fund",
+   "insider": "Blackstone Private Multi-Asset Credit & Income Fund",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 27718.571,
+   "price": 26.2,
+   "value": 726226.56,
+   "acc": "0001213900-26-112120",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4503,6 +4407,18 @@
    "price": 3.55,
    "value": 1626769.75,
    "acc": "0001012975-26-000980",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
+   "company": "Blackstone Private Real Estate Credit & Income Fund",
+   "insider": "Blackstone Private Multi-Asset Credit & Income Fund",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 76335.878,
+   "price": 26.2,
+   "value": 2000000.0,
+   "acc": "0001213900-26-112120",
    "filed": "2026-10-23"
   },
   {
@@ -4540,6 +4456,18 @@
    "value": 5756875.74,
    "acc": "0000921895-26-002845",
    "filed": "2026-10-22"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-21",
+   "shares": 217182.0,
+   "price": 35.382,
+   "value": 7684333.52,
+   "acc": "0001193125-26-430508",
+   "filed": "2026-10-23"
   },
   {
    "ticker": "WAST",
@@ -4794,6 +4722,78 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "MSM",
+   "company": "MSC INDUSTRIAL DIRECT CO INC",
+   "insider": "Slone Reuben E",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 63.0,
+   "price": 116.5161,
+   "value": 7340.51,
+   "acc": "0001003078-26-000112",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "CHCO",
+   "company": "CITY HOLDING CO",
+   "insider": "Reyes Javier A",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 95.0,
+   "price": 142.13,
+   "value": 13502.35,
+   "acc": "0000726854-26-000187",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "CHCO",
+   "company": "CITY HOLDING CO",
+   "insider": "Hoyer James A",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 100.0,
+   "price": 142.13,
+   "value": 14213.0,
+   "acc": "0000726854-26-000186",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "CHCO",
+   "company": "CITY HOLDING CO",
+   "insider": "STRONG-TREISTER DIANE W",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 120.0,
+   "price": 142.13,
+   "value": 17055.6,
+   "acc": "0000726854-26-000188",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "CHCO",
+   "company": "CITY HOLDING CO",
+   "insider": "FISHER ROBERT D",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 165.0,
+   "price": 142.13,
+   "value": 23451.45,
+   "acc": "0000726854-26-000185",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "MSM",
+   "company": "MSC INDUSTRIAL DIRECT CO INC",
+   "insider": "Slone Reuben E",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 370.0,
+   "price": 115.645,
+   "value": 42788.65,
+   "acc": "0001003078-26-000112",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
    "insider": "Sanchez Ramiro",
@@ -4866,6 +4866,11 @@
    "ticker": "IMSR",
    "insiders": 3,
    "total_value": 112279.3
+  },
+  {
+   "ticker": "CHCO",
+   "insiders": 4,
+   "total_value": 68222.4
   },
   {
    "ticker": "QTEX",
