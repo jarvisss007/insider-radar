@@ -1,65 +1,53 @@
 {
- "updated_utc": "2026-10-24 01:16 UTC",
+ "updated_utc": "2026-10-24 01:32 UTC",
  "purchases": [
   {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 186612.0,
-   "price": 12.9904,
-   "value": 2424164.52,
-   "acc": "0001398344-26-018110",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Troim Tor Olav",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 1250000.0,
-   "price": 4.3122,
-   "value": 5390250.0,
-   "acc": "0001628280-26-065416",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "GGR",
-   "company": "Gogoro Inc.",
-   "insider": "Yin Chung-Yao",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 3466310.0,
-   "price": 2.48,
-   "value": 8596448.8,
-   "acc": "0001193125-26-418446",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
+   "ticker": "NMHI",
+   "company": "Nature's Miracle Holding Inc.",
+   "insider": "Adair Kathleen Theresa",
    "role": "10% owner",
-   "date": "2026-10-07",
-   "shares": 606912.0,
-   "price": 34.4038,
-   "value": 20880079.07,
-   "acc": "0001193125-26-419124",
-   "filed": "2026-10-09"
+   "date": "2026-10-08",
+   "shares": 2500.0,
+   "price": 0.0005,
+   "value": 1.25,
+   "acc": "0002160363-26-000004",
+   "filed": "2026-10-23"
   },
   {
-   "ticker": "GGR",
-   "company": "Gogoro Inc.",
-   "insider": "Yin Chung-Yao",
-   "role": "Director",
-   "date": "2026-10-07",
-   "shares": 10692681.0,
-   "price": 2.48,
-   "value": 26517848.88,
-   "acc": "0001193125-26-418446",
-   "filed": "2026-10-09"
+   "ticker": "NMHI",
+   "company": "Nature's Miracle Holding Inc.",
+   "insider": "Adair Kathleen Theresa",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 5000.0,
+   "price": 0.0006,
+   "value": 3.0,
+   "acc": "0002160363-26-000004",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "NMHI",
+   "company": "Nature's Miracle Holding Inc.",
+   "insider": "Adair Kathleen Theresa",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 13000.0,
+   "price": 0.0005,
+   "value": 6.5,
+   "acc": "0002160363-26-000004",
+   "filed": "2026-10-23"
+  },
+  {
+   "ticker": "NMHI",
+   "company": "Nature's Miracle Holding Inc.",
+   "insider": "Adair Kathleen Theresa",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 90000.0,
+   "price": 0.0006,
+   "value": 54.0,
+   "acc": "0002160363-26-000004",
+   "filed": "2026-10-23"
   },
   {
    "ticker": "JCTC",
@@ -72,6 +60,18 @@
    "value": 70.3,
    "acc": "0001536588-26-000040",
    "filed": "2026-10-13"
+  },
+  {
+   "ticker": "NMHI",
+   "company": "Nature's Miracle Holding Inc.",
+   "insider": "Adair Kathleen Theresa",
+   "role": "10% owner",
+   "date": "2026-10-08",
+   "shares": 487000.0,
+   "price": 0.0006,
+   "value": 292.2,
+   "acc": "0002160363-26-000004",
+   "filed": "2026-10-23"
   },
   {
    "ticker": "LCU",
@@ -4938,7 +4938,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016521",
   "0001999371-26-016522",
   "0001999371-26-016547",
   "0001999371-26-016554",
@@ -7935,6 +7934,7 @@
   "0002158778-26-000004",
   "0002160029-26-000004",
   "0002160363-26-000003",
+  "0002160363-26-000004",
   "0002160413-26-000004",
   "0002160652-26-000004",
   "0002161365-26-000008"
