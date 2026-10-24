@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-24 01:32 UTC",
+ "updated_utc": "2026-10-24 01:47 UTC",
  "purchases": [
-  {
-   "ticker": "NMHI",
-   "company": "Nature's Miracle Holding Inc.",
-   "insider": "Adair Kathleen Theresa",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 2500.0,
-   "price": 0.0005,
-   "value": 1.25,
-   "acc": "0002160363-26-000004",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "NMHI",
    "company": "Nature's Miracle Holding Inc.",
@@ -4133,6 +4121,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "Ruddy Jordan B.",
+   "role": "President",
+   "date": "2026-10-21",
+   "shares": 2040.0,
+   "price": 12.2484,
+   "value": 24986.74,
+   "acc": "0001398344-26-018733",
+   "filed": "2026-10-23"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4814,7 +4814,7 @@
   {
    "ticker": "BPRE",
    "insiders": 3,
-   "total_value": 13544339.8
+   "total_value": 13569326.54
   },
   {
    "ticker": "APLD",
