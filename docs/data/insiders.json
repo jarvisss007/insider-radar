@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-26 16:25 UTC",
+ "updated_utc": "2026-10-26 18:16 UTC",
  "purchases": [
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 100.0,
-   "price": 4.17,
-   "value": 417.0,
-   "acc": "0001062993-26-005273",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4685,6 +4673,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "GROW",
+   "company": "U S GLOBAL INVESTORS INC",
+   "insider": "Pilecki Derek Steven",
+   "role": "",
+   "date": "2026-10-23",
+   "shares": 4532.0,
+   "price": 2.5799,
+   "value": 11692.11,
+   "acc": "0001062993-26-005547",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "CHCO",
    "company": "CITY HOLDING CO",
    "insider": "Reyes Javier A",
@@ -4892,14 +4892,14 @@
    "total_value": 27000.0
   },
   {
+   "ticker": "GROW",
+   "insiders": 2,
+   "total_value": 26526.15
+  },
+  {
    "ticker": "GABC",
    "insiders": 3,
    "total_value": 17300.0
-  },
-  {
-   "ticker": "GROW",
-   "insiders": 2,
-   "total_value": 14834.04
   },
   {
    "ticker": "KWY",
@@ -4928,8 +4928,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016560",
-  "0001999371-26-016561",
   "0001999371-26-016562",
   "0001999371-26-016564",
   "0001999371-26-016573",
@@ -5659,6 +5657,7 @@
   "0001999371-26-023486",
   "0001999371-26-023494",
   "0001999371-26-023502",
+  "0001999371-26-023508",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7927,6 +7926,7 @@
   "0002160363-26-000004",
   "0002160413-26-000004",
   "0002160652-26-000004",
+  "0002160813-26-000005",
   "0002161365-26-000008"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
