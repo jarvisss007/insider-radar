@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-26 18:16 UTC",
+ "updated_utc": "2026-10-26 18:31 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 425.0,
-   "price": 2.915,
-   "value": 1238.88,
-   "acc": "0001536588-26-000040",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "NRXS",
    "company": "Neuraxis, INC",
@@ -4685,6 +4673,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "GROW",
+   "company": "U S GLOBAL INVESTORS INC",
+   "insider": "Gator Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 4532.0,
+   "price": 2.5799,
+   "value": 11692.11,
+   "acc": "0001062993-26-005549",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "CHCO",
    "company": "CITY HOLDING CO",
    "insider": "Reyes Javier A",
@@ -4882,6 +4882,11 @@
    "total_value": 41000.04
   },
   {
+   "ticker": "GROW",
+   "insiders": 2,
+   "total_value": 38218.26
+  },
+  {
    "ticker": "QTEX",
    "insiders": 2,
    "total_value": 30997.57
@@ -4890,11 +4895,6 @@
    "ticker": "STERLING REAL ESTATE TRUST (CIK 1412502)",
    "insiders": 2,
    "total_value": 27000.0
-  },
-  {
-   "ticker": "GROW",
-   "insiders": 2,
-   "total_value": 26526.15
   },
   {
    "ticker": "GABC",
