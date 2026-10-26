@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-26 21:41 UTC",
+ "updated_utc": "2026-10-26 21:57 UTC",
  "purchases": [
-  {
-   "ticker": "HEI, HEI.A",
-   "company": "HEICO CORP",
-   "insider": "CULLIGAN THOMAS M",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 795.0,
-   "price": 220.3043,
-   "value": 175141.92,
-   "acc": "0001217585-26-000002",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "HEI, HEI.A",
    "company": "HEICO CORP",
@@ -4710,6 +4698,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "THRM",
+   "company": "Gentherm Inc",
+   "insider": "MASCARENAS PAUL ANTHONY",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 20000.0,
+   "price": 26.63,
+   "value": 532600.0,
+   "acc": "0001193125-26-432218",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
    "insider": "KAMFAR RAMIN",
@@ -4846,6 +4846,11 @@
    "ticker": "DSM",
    "insiders": 2,
    "total_value": 1356659.42
+  },
+  {
+   "ticker": "THRM",
+   "insiders": 2,
+   "total_value": 662600.0
   },
   {
    "ticker": "NXG",
