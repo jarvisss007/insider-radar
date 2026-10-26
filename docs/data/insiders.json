@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-26 16:09 UTC",
+ "updated_utc": "2026-10-26 16:25 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 24.0,
-   "price": 2.929,
-   "value": 70.3,
-   "acc": "0001536588-26-000040",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "NMHI",
-   "company": "Nature's Miracle Holding Inc.",
-   "insider": "Adair Kathleen Theresa",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 487000.0,
-   "price": 0.0006,
-   "value": 292.2,
-   "acc": "0002160363-26-000004",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
@@ -4673,6 +4649,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-10-23",
+   "shares": 31675.0,
+   "price": 0.16,
+   "value": 5068.0,
+   "acc": "0001493152-26-048460",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4719,6 +4707,18 @@
    "value": 14213.0,
    "acc": "0000726854-26-000186",
    "filed": "2026-10-23"
+  },
+  {
+   "ticker": "XFLT",
+   "company": "XAI Floating Rate & Alternative Income Trust",
+   "insider": "Spence John Yogi",
+   "role": "Vice President",
+   "date": "2026-10-23",
+   "shares": 1000.0,
+   "price": 16.5,
+   "value": 16500.0,
+   "acc": "0001718133-26-000006",
+   "filed": "2026-10-26"
   },
   {
    "ticker": "CHCO",
@@ -4928,8 +4928,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016557",
-  "0001999371-26-016558",
   "0001999371-26-016560",
   "0001999371-26-016561",
   "0001999371-26-016562",
@@ -5660,6 +5658,7 @@
   "0001999371-26-023462",
   "0001999371-26-023486",
   "0001999371-26-023494",
+  "0001999371-26-023502",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7016,6 +7015,7 @@
   "0002078265-26-000454",
   "0002078265-26-000455",
   "0002078265-26-000457",
+  "0002078265-26-000460",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
