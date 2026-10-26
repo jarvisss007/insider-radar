@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-26 21:57 UTC",
+ "updated_utc": "2026-10-26 22:12 UTC",
  "purchases": [
-  {
-   "ticker": "HEI, HEI.A",
-   "company": "HEICO CORP",
-   "insider": "Hildebrandt Mark H",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 795.0,
-   "price": 220.3043,
-   "value": 175141.92,
-   "acc": "0001445233-26-000002",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "HEI, HEI.A",
-   "company": "HEICO CORP",
-   "insider": "Fine Carol F.",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 795.0,
-   "price": 220.3043,
-   "value": 175141.92,
-   "acc": "0001960016-26-000002",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "HEI, HEI.A",
    "company": "HEICO CORP",
@@ -4301,6 +4277,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 21390.0,
+   "price": 1.9258,
+   "value": 41192.86,
+   "acc": "0001493152-26-048591",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4804,6 +4792,18 @@
    "value": 104983.5,
    "acc": "0001628280-26-067255",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 66411.0,
+   "price": 1.7679,
+   "value": 117408.01,
+   "acc": "0001493152-26-048591",
+   "filed": "2026-10-26"
   }
  ],
  "clusters": [
@@ -4939,7 +4939,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016627",
   "0001999371-26-016628",
   "0001999371-26-016629",
   "0001999371-26-016630",
@@ -5884,6 +5883,7 @@
   "0002014386-26-000018",
   "0002014386-26-000020",
   "0002014386-26-000022",
+  "0002014386-26-000024",
   "0002014440-26-000010",
   "0002014440-26-000012",
   "0002014560-26-000008",
