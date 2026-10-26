@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-26 22:44 UTC",
+ "updated_utc": "2026-10-26 23:00 UTC",
  "purchases": [
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 27937.0,
-   "price": 11.95,
-   "value": 333847.15,
-   "acc": "0001510281-26-000341",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "PRTA",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "insider": "SCULLY WILLIAM P",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 90000.0,
-   "price": 8.5656,
-   "value": 770904.0,
-   "acc": "0001045463-26-000020",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "IIPR",
-   "company": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
-   "insider": "Gold Alan D",
-   "role": "EXECUTIVE CHAIRMAN",
-   "date": "2026-10-08",
-   "shares": 40000.0,
-   "price": 25.0,
-   "value": 1000000.0,
-   "acc": "0000897069-26-001838",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "TRXB",
-   "company": "TRex Bio, Inc.",
-   "insider": "SVLSF VI, LLC",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 89783.0,
-   "price": 14.0,
-   "value": 1256962.0,
-   "acc": "0001829126-26-011084",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "PED",
-   "company": "PEDEVCO CORP",
-   "insider": "KUKES SIMON G",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 147070.0,
-   "price": 13.0,
-   "value": 1911910.0,
-   "acc": "0001654954-26-008905",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -4398,6 +4338,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 246440.0,
+   "price": 35.1523,
+   "value": 8662932.81,
+   "acc": "0001193125-26-432280",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "insider": "Alford Tony L",
@@ -4600,6 +4552,54 @@
    "value": 42788.65,
    "acc": "0001003078-26-000112",
    "filed": "2026-10-23"
+  },
+  {
+   "ticker": "STC",
+   "company": "STEWART INFORMATION SERVICES CORP",
+   "insider": "Apel Thomas G",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 1000.0,
+   "price": 47.47,
+   "value": 47470.0,
+   "acc": "0001628280-26-067363",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "STC",
+   "company": "STEWART INFORMATION SERVICES CORP",
+   "insider": "Apel Thomas G",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 1000.0,
+   "price": 48.0,
+   "value": 48000.0,
+   "acc": "0001628280-26-067363",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "STC",
+   "company": "STEWART INFORMATION SERVICES CORP",
+   "insider": "Corey William S. Jr.",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 2000.0,
+   "price": 46.82,
+   "value": 93640.0,
+   "acc": "0001628280-26-067362",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "STC",
+   "company": "STEWART INFORMATION SERVICES CORP",
+   "insider": "BRADLEY C ALLEN JR",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 2000.0,
+   "price": 47.3,
+   "value": 94600.0,
+   "acc": "0001628280-26-067360",
+   "filed": "2026-10-26"
   },
   {
    "ticker": "RAPP",
@@ -4863,6 +4863,11 @@
    "total_value": 369600.0
   },
   {
+   "ticker": "STC",
+   "insiders": 3,
+   "total_value": 283710.0
+  },
+  {
    "ticker": "DX",
    "insiders": 3,
    "total_value": 267230.2
@@ -4939,7 +4944,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016628",
   "0001999371-26-016629",
   "0001999371-26-016630",
   "0001999371-26-016631",
@@ -6349,6 +6353,7 @@
   "0002050280-26-000004",
   "0002050372-26-000013",
   "0002050372-26-000015",
+  "0002050422-26-000017",
   "0002050530-26-000008",
   "0002050576-26-000004",
   "0002050724-26-000004",
