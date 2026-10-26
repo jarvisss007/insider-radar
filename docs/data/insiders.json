@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-10-26 22:28 UTC",
+ "updated_utc": "2026-10-26 22:44 UTC",
  "purchases": [
-  {
-   "ticker": "HEI, HEI.A",
-   "company": "HEICO CORP",
-   "insider": "SCHRIESHEIM ALAN",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 795.0,
-   "price": 220.3043,
-   "value": 175141.92,
-   "acc": "0001200631-26-000006",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "HEI, HEI.A",
-   "company": "HEICO CORP",
-   "insider": "HENRIQUES ADOLFO",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 795.0,
-   "price": 220.3043,
-   "value": 175141.92,
-   "acc": "0001181803-26-000002",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "HEI, HEI.A",
-   "company": "HEICO CORP",
-   "insider": "CHERUVATATH NANDAKUMAR",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 795.0,
-   "price": 220.3043,
-   "value": 175141.92,
-   "acc": "0001698957-26-000008",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "FEAM",
-   "company": "5E Advanced Materials, Inc.",
-   "insider": "vant Hoff Graham",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 60000.0,
-   "price": 3.59,
-   "value": 215400.0,
-   "acc": "0001829340-26-000011",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "SAR",
-   "company": "SARATOGA INVESTMENT CORP.",
-   "insider": "Oberbeck Christian L",
-   "role": "CEO and Director",
-   "date": "2026-10-08",
-   "shares": 15000.0,
-   "price": 14.89,
-   "value": 223350.0,
-   "acc": "0001213900-26-108753",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "ECF",
    "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
@@ -4337,6 +4277,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "KRRO",
+   "company": "Korro Bio, Inc.",
+   "insider": "Lynx1 Capital Management LP",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 12175.0,
+   "price": 9.6764,
+   "value": 117810.17,
+   "acc": "0000902664-26-004286",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "ACOG",
    "company": "Alpha Cognition Inc.",
    "insider": "Opaleye Management Inc.",
@@ -4361,6 +4313,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "KRRO",
+   "company": "Korro Bio, Inc.",
+   "insider": "Lynx1 Capital Management LP",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 40000.0,
+   "price": 11.0366,
+   "value": 441464.0,
+   "acc": "0000902664-26-004286",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "CITR",
    "company": "CitroTech Inc.",
    "insider": "HUFF CRAIG A",
@@ -4383,6 +4347,18 @@
    "price": 12.421,
    "value": 758028.79,
    "acc": "0001398344-26-018736",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
+   "company": "Blackstone Multi-Strategy Hedge Fund L.P.",
+   "insider": "Abrahams Riad M",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-22",
+   "shares": 31213.19,
+   "price": 25.47,
+   "value": 794999.95,
+   "acc": "0001193125-26-432266",
    "filed": "2026-10-26"
   },
   {
@@ -4575,6 +4551,18 @@
    "price": 2.98,
    "value": 23840.0,
    "acc": "0001493152-26-048520",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "KRRO",
+   "company": "Korro Bio, Inc.",
+   "insider": "Lynx1 Capital Management LP",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 2510.0,
+   "price": 12.1061,
+   "value": 30386.31,
+   "acc": "0000902664-26-004286",
    "filed": "2026-10-26"
   },
   {
@@ -4803,6 +4791,18 @@
    "price": 1.7679,
    "value": 117408.01,
    "acc": "0001493152-26-048591",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "KRRO",
+   "company": "Korro Bio, Inc.",
+   "insider": "Lynx1 Capital Management LP",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 25124.0,
+   "price": 11.7454,
+   "value": 295091.43,
+   "acc": "0000902664-26-004286",
    "filed": "2026-10-26"
   }
  ],
