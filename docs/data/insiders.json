@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-26 19:34 UTC",
+ "updated_utc": "2026-10-26 20:21 UTC",
  "purchases": [
-  {
-   "ticker": "NRXS",
-   "company": "Neuraxis, INC",
-   "insider": "Carrico Thomas Joeseph",
-   "role": "CRO, CCO, CPO",
-   "date": "2026-10-08",
-   "shares": 328.0,
-   "price": 4.84,
-   "value": 1587.52,
-   "acc": "0001493152-26-046381",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 2256.0,
-   "price": 1.3283,
-   "value": 2996.64,
-   "acc": "0001940272-26-000023",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-08",
-   "shares": 400.0,
-   "price": 9.4,
-   "value": 3760.0,
-   "acc": "0001510281-26-000340",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "AHRT",
-   "company": "AH Realty Trust, Inc.",
-   "insider": "Wimbush Frederick Blair",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 632.59,
-   "price": 5.99,
-   "value": 3789.21,
-   "acc": "0001569187-26-000158",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
@@ -2259,6 +2211,18 @@
    "value": 9999.0,
    "acc": "0001185185-26-004770",
    "filed": "2026-10-15"
+  },
+  {
+   "ticker": "LXU",
+   "company": "LSB INDUSTRIES, INC.",
+   "insider": "Ackerman Jonathan Z.",
+   "role": "Director",
+   "date": "2026-10-15",
+   "shares": 1000.0,
+   "price": 10.17,
+   "value": 10170.0,
+   "acc": "0001193125-26-431955",
+   "filed": "2026-10-26"
   },
   {
    "ticker": "EDRY",
@@ -4577,6 +4541,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 100000.0,
+   "price": 8.1852,
+   "value": 818520.0,
+   "acc": "0001045463-26-000022",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
    "insider": "PAUL STEVEN M",
@@ -4733,6 +4709,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "ANIX",
+   "company": "Anixa Biosciences Inc",
+   "insider": "Titterton Lewis H jr",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 8000.0,
+   "price": 2.98,
+   "value": 23840.0,
+   "acc": "0001493152-26-048520",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "NXG",
    "company": "NXG NextGen Infrastructure Income Fund",
    "insider": "Nelson Blake",
@@ -4767,6 +4755,18 @@
    "value": 98477.64,
    "acc": "0001193125-26-430397",
    "filed": "2026-10-23"
+  },
+  {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 50000.0,
+   "price": 8.0705,
+   "value": 403525.0,
+   "acc": "0001045463-26-000022",
+   "filed": "2026-10-26"
   },
   {
    "ticker": "NXG",
@@ -4877,6 +4877,11 @@
    "total_value": 68222.4
   },
   {
+   "ticker": "ANIX",
+   "insiders": 2,
+   "total_value": 45600.0
+  },
+  {
    "ticker": "YORW",
    "insiders": 2,
    "total_value": 41000.04
@@ -4928,10 +4933,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016564",
-  "0001999371-26-016573",
-  "0001999371-26-016589",
-  "0001999371-26-016591",
   "0001999371-26-016617",
   "0001999371-26-016618",
   "0001999371-26-016619",
@@ -5658,6 +5659,7 @@
   "0001999371-26-023502",
   "0001999371-26-023508",
   "0001999371-26-023527",
+  "0001999371-26-023540",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5755,6 +5757,7 @@
   "0002006846-26-000008",
   "0002006852-26-000005",
   "0002006943-26-000012",
+  "0002006945-26-000007",
   "0002006956-26-000004",
   "0002007420-26-000002",
   "0002007443-26-000005",
@@ -6937,6 +6940,8 @@
   "0002077810-26-000299",
   "0002077810-26-000300",
   "0002077810-26-000301",
+  "0002077810-26-000310",
+  "0002077810-26-000311",
   "0002078265-26-000317",
   "0002078265-26-000318",
   "0002078265-26-000321",
