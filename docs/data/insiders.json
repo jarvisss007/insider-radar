@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-10-26 20:37 UTC",
+ "updated_utc": "2026-10-26 20:53 UTC",
  "purchases": [
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 1000.0,
-   "price": 4.22,
-   "value": 4220.0,
-   "acc": "0001062993-26-005264",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "NRXS",
-   "company": "Neuraxis, INC",
-   "insider": "Henrichs Timothy Robert",
-   "role": "Chief Financial Officer",
-   "date": "2026-10-08",
-   "shares": 1937.0,
-   "price": 4.84,
-   "value": 9375.08,
-   "acc": "0001493152-26-046380",
-   "filed": "2026-10-08"
-  },
-  {
-   "ticker": "PODC",
-   "company": "PodcastOne, Inc.",
-   "insider": "MERRIMAN D JONATHAN",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 4700.0,
-   "price": 2.08,
-   "value": 9776.0,
-   "acc": "0001213900-26-109198",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "KIO",
-   "company": "KKR Income Opportunities Fund",
-   "insider": "Pimentel Rudy",
-   "role": "President",
-   "date": "2026-10-08",
-   "shares": 1000.0,
-   "price": 10.15,
-   "value": 10150.0,
-   "acc": "0000945621-26-001261",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "AHRT",
-   "company": "AH Realty Trust, Inc.",
-   "insider": "BIGMAN THEODORE",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 1879.19,
-   "price": 5.96,
-   "value": 11199.97,
-   "acc": "0001569187-26-000156",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Mulacek Phil E",
-   "role": "Director",
-   "date": "2026-10-08",
-   "shares": 4281.0,
-   "price": 2.819,
-   "value": 12068.14,
-   "acc": "0001072613-26-000825",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-08",
-   "shares": 11836.0,
-   "price": 1.1265,
-   "value": 13333.25,
-   "acc": "0001493152-26-046445",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "FEAM",
    "company": "5E Advanced Materials, Inc.",
@@ -3941,6 +3857,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "PEBK",
+   "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+   "insider": "PRICE BILLY L JR DR",
+   "role": "Director",
+   "date": "2026-10-21",
+   "shares": 200.0,
+   "price": 42.285,
+   "value": 8457.0,
+   "acc": "0001654954-26-009146",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "BZUN",
    "company": "Baozun Inc.",
    "insider": "Qiu Wenbin",
@@ -4385,6 +4313,18 @@
    "filed": "2026-10-22"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 5800.0,
+   "price": 2.4,
+   "value": 13920.0,
+   "acc": "0001178579-26-000020",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "BZUN",
    "company": "Baozun Inc.",
    "insider": "Qiu Wenbin",
@@ -4491,6 +4431,18 @@
    "value": 99991.71,
    "acc": "0001193125-26-429074",
    "filed": "2026-10-22"
+  },
+  {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-22",
+   "shares": 17117.0,
+   "price": 8.3266,
+   "value": 142526.41,
+   "acc": "0001493152-26-048562",
+   "filed": "2026-10-26"
   },
   {
    "ticker": "RAPP",
@@ -4662,6 +4614,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 6234.0,
+   "price": 2.38,
+   "value": 14836.92,
+   "acc": "0001178579-26-000020",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "XFLT",
    "company": "XAI Floating Rate & Alternative Income Trust",
    "insider": "Spence John Yogi",
@@ -4746,6 +4710,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "ACOG",
+   "company": "Alpha Cognition Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 14973.0,
+   "price": 8.2344,
+   "value": 123293.67,
+   "acc": "0001493152-26-048562",
+   "filed": "2026-10-26"
+  },
+  {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
    "insider": "SCULLY WILLIAM P",
@@ -4779,6 +4755,30 @@
    "price": 12.5175,
    "value": 1368062.61,
    "acc": "0001398344-26-018736",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "CCBG",
+   "company": "CAPITAL CITY BANK GROUP INC",
+   "insider": "Butler William F",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 392.0,
+   "price": 51.0699,
+   "value": 20019.4,
+   "acc": "0001899058-26-000006",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 9606.0,
+   "price": 2.38,
+   "value": 22862.28,
+   "acc": "0001178579-26-000020",
    "filed": "2026-10-26"
   },
   {
