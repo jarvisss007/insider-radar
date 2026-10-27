@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-27 19:57 UTC",
+ "updated_utc": "2026-10-27 20:13 UTC",
  "purchases": [
-  {
-   "ticker": "NUAI",
-   "company": "New ERA Energy & Digital, Inc.",
-   "insider": "MCCARTHY KENT C",
-   "role": "10% owner",
-   "date": "2026-10-09",
-   "shares": 250000.0,
-   "price": 4.7694,
-   "value": 1192350.0,
-   "acc": "0001225028-26-000006",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-09",
-   "shares": 171094.0,
-   "price": 13.1692,
-   "value": 2253171.1,
-   "acc": "0001398344-26-018110",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-09",
-   "shares": 336750.0,
-   "price": 34.0717,
-   "value": 11473644.97,
-   "acc": "0001193125-26-421727",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Troim Tor Olav",
-   "role": "Director",
-   "date": "2026-10-09",
-   "shares": 2500000.0,
-   "price": 4.7374,
-   "value": 11843500.0,
-   "acc": "0001628280-26-065603",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "QVCG",
    "company": "QVC Group, Inc.",
@@ -4239,6 +4191,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "NPB",
+   "company": "NORTHPOINTE BANCSHARES INC",
+   "insider": "Long Joseph B",
+   "role": "Chief Operating Officer",
+   "date": "2026-10-23",
+   "shares": 3240.0,
+   "price": 15.3703,
+   "value": 49799.77,
+   "acc": "0001336706-26-000081",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "KIO",
    "company": "KKR Income Opportunities Fund",
    "insider": "Takao Justin",
@@ -4309,6 +4273,18 @@
    "value": 130000.0,
    "acc": "0001193125-26-432207",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "NPB",
+   "company": "NORTHPOINTE BANCSHARES INC",
+   "insider": "Boer Carrie L",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 12000.0,
+   "price": 15.3968,
+   "value": 184761.6,
+   "acc": "0002056954-26-000006",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "GPI",
@@ -4429,6 +4405,18 @@
    "value": 532600.0,
    "acc": "0001193125-26-432218",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "NPB",
+   "company": "NORTHPOINTE BANCSHARES INC",
+   "insider": "Williams Charles Alan",
+   "role": "CHAIRMAN & CEO",
+   "date": "2026-10-23",
+   "shares": 50000.0,
+   "price": 15.4243,
+   "value": 771215.0,
+   "acc": "0001336706-26-000080",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "GPI",
@@ -4769,6 +4757,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "NPB",
+   "company": "NORTHPOINTE BANCSHARES INC",
+   "insider": "Williams Charles Alan",
+   "role": "CHAIRMAN & CEO",
+   "date": "2026-10-26",
+   "shares": 50000.0,
+   "price": 15.3235,
+   "value": 766175.0,
+   "acc": "0001336706-26-000080",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4835,6 +4835,11 @@
    "ticker": "LEO",
    "insiders": 2,
    "total_value": 2588670.2
+  },
+  {
+   "ticker": "NPB",
+   "insiders": 3,
+   "total_value": 1771951.37
   },
   {
    "ticker": "RAPP",
@@ -4943,9 +4948,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017094",
-  "0001999371-26-017096",
-  "0001999371-26-017162",
   "0001999371-26-017163",
   "0001999371-26-017165",
   "0001999371-26-017167",
@@ -5799,6 +5801,7 @@
   "0002011077-26-000005",
   "0002011100-26-000006",
   "0002011118-26-000008",
+  "0002011128-26-000007",
   "0002011525-26-000002",
   "0002011929-26-000010",
   "0002012024-26-000008",
@@ -6418,6 +6421,7 @@
   "0002056453-26-000005",
   "0002056657-26-000002",
   "0002056949-26-000005",
+  "0002056954-26-000006",
   "0002057116-26-000006",
   "0002057292-26-000006",
   "0002057385-26-000004",
@@ -7460,6 +7464,7 @@
   "0002114937-26-000003",
   "0002114937-26-000007",
   "0002114987-26-000002",
+  "0002115094-26-000002",
   "0002115144-26-000012",
   "0002115245-26-000004",
   "0002115312-26-000002",
