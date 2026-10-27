@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-27 21:33 UTC",
+ "updated_utc": "2026-10-27 21:48 UTC",
  "purchases": [
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-12",
-   "shares": 143190.0,
-   "price": 34.4902,
-   "value": 4938651.74,
-   "acc": "0001193125-26-421727",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-13",
-   "shares": 564.0,
-   "price": 1.33,
-   "value": 750.12,
-   "acc": "0001940272-26-000025",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -2546,6 +2522,18 @@
    "filed": "2026-10-21"
   },
   {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 130199.0,
+   "price": 2.68,
+   "value": 348933.32,
+   "acc": "0001325533-26-000012",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "TENX",
    "company": "TENAX THERAPEUTICS, INC.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -2568,6 +2556,18 @@
    "value": 604585.81,
    "acc": "0000921895-26-002845",
    "filed": "2026-10-22"
+  },
+  {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-10-20",
+   "shares": 242934.0,
+   "price": 2.68,
+   "value": 651063.12,
+   "acc": "0001325533-26-000012",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "FBK",
@@ -4953,7 +4953,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017167",
   "0001999371-26-017169",
   "0001999371-26-017172",
   "0001999371-26-017175",
@@ -7937,6 +7936,7 @@
   "0002156505-26-000006",
   "0002156592-26-000002",
   "0002156811-26-000002",
+  "0002157254-26-000004",
   "0002157445-26-000002",
   "0002157600-26-000005",
   "0002157924-26-000006",
