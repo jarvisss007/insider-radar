@@ -25,7 +25,7 @@ from atomicio import atomic_write_text, atomic_csv   # BOOK-001: never truncate 
 
 HERE = Path(__file__).resolve().parent
 OUT = HERE / "docs" / "data" / "insiders.json"
-UA = {"User-Agent": "Anupam Patil research anupam.p.patil@gmail.com"}
+UA = {"User-Agent": "Anupam Patil research apati077@ucr.edu"}
 ATOM = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
         "&type=4&company=&dateb=&owner=include&count=100&output=atom")
 KEEP = 400            # purchases retained in the feed
