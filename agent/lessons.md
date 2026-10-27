@@ -1838,3 +1838,10 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - Logged 11 clusters QUEUED today; 5 of them are re-logs of names whose prior row scored wrong (BORR, YORW, KWY, UMH) or was never logged (CTY, LEO, RAPP, DSM, DX, GROW, NMCO). The one-open-row rule allowed each; the writer refused nothing (all 11 EQUITY by Yahoo's quoteType — LEO/DSM/NMCO are municipal closed-end funds that Yahoo labels EQUITY; INS-030's refusal did not fire. A line for the council, not an edit).
 - Defect found, not patched (INS-025-class): the forecast writer accepts "closes higher on D than its settled D0 close P" but the resolver reads only "than it closes on D0" (R) and the Absolute forms (P); five rows sit unparsed. Today's row uses the R form. The missed 10-20/21/22 sessions carry no forecast and are not back-filled.
 - Sabha §4: headline n=124 rows is 36 entry days; today's 11 rows are ONE entry day. Quote days beside n.
+
+## 2026-10-27 [insider] — GARUDA
+- Grader (INS-018), 10-26 13:40 PT pass: CV +11.7%, NYAX +12.7%, HHH +13.5% — 3 right, 0 wrong; CBKM (due 10-19) still waits on INS-015. Nothing scored by hand.
+- strata.py: HEADLINE 41% (n=128, 38 entry days); sub-floor 28% (n=72, 32 days). Never blended. Three rights on one day is ONE entry-day cohort (10-26 checks), not three independent observations; the headline remains under a coin and under just-buy-SPY.
+- attribution.csv: "bought the run-up (>10%)" n=34 / 23 dates, hit 38%, avg -4.3%; 3+ insiders n=59 / 28 dates, hit 41%, avg -2.7%. Both n are under a verdict; recorded, not argued from.
+- Writer note (append_call): THRM/STC/ANIX check_date 11-26 is Thanksgiving, a HOLIDAY; the roll to 11-27 is correct but the stamp text says "was a weekend". Mislabel only, not patched (REG-PP-001) — a proposal for the writer's owner.
+- Sabha §9: this run wrote no outcome or entry number into this lab (three rows QUEUED blank; the 11 fills were prep's fill_queued from the settled 10-26 bar, proved closed by the 10-27 session having opened). Nothing to name.
