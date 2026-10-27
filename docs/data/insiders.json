@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-27 20:13 UTC",
+ "updated_utc": "2026-10-27 20:29 UTC",
  "purchases": [
-  {
-   "ticker": "QVCG",
-   "company": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-10-09",
-   "shares": 1352000.0,
-   "price": 12.35,
-   "value": 16697200.0,
-   "acc": "0001493152-26-047051",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-12",
-   "shares": 776.0,
-   "price": 2.905,
-   "value": 2254.28,
-   "acc": "0001536588-26-000040",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-10-12",
-   "shares": 1000.0,
-   "price": 3.84,
-   "value": 3840.0,
-   "acc": "0001062993-26-005332",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Hazlett John Walter",
-   "role": "Chief Financial Officer",
-   "date": "2026-10-12",
-   "shares": 2004.0,
-   "price": 2.05,
-   "value": 4108.2,
-   "acc": "0001199835-26-000373",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
@@ -4637,6 +4589,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 2618.0,
+   "price": 11.43,
+   "value": 29923.74,
+   "acc": "0001510281-26-000379",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4793,6 +4757,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "WILLOW TREE CAPITAL CORP (CIK 1944831)",
+   "company": "Willow Tree Capital Corp",
+   "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 76981.648,
+   "price": 15.95,
+   "value": 1227857.29,
+   "acc": "0000950142-26-002868",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4803,6 +4779,30 @@
    "value": 1612025.85,
    "acc": "0000905148-26-004561",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "BHRB",
+   "company": "Burke & Herbert Financial Services Corp.",
+   "insider": "WILSON DAVID",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 35.0,
+   "price": 70.115,
+   "value": 2454.02,
+   "acc": "0001208842-26-000014",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "BHRB",
+   "company": "Burke & Herbert Financial Services Corp.",
+   "insider": "WILSON DAVID",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 69.0,
+   "price": 69.85,
+   "value": 4819.65,
+   "acc": "0001208842-26-000014",
+   "filed": "2026-10-27"
   }
  ],
  "clusters": [
