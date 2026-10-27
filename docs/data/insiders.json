@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-27 22:36 UTC",
+ "updated_utc": "2026-10-27 22:52 UTC",
  "purchases": [
-  {
-   "ticker": "EDRY",
-   "company": "EuroDry Ltd.",
-   "insider": "Pittas Aristeidis P",
-   "role": "Director",
-   "date": "2026-10-13",
-   "shares": 350.0,
-   "price": 51.18,
-   "value": 17913.0,
-   "acc": "0002127484-26-000020",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "MDBH",
-   "company": "MDB Capital Holdings, LLC",
-   "insider": "MARLETT CHRISTOPHER A",
-   "role": "Co-Founder",
-   "date": "2026-10-13",
-   "shares": 10000.0,
-   "price": 1.99,
-   "value": 19900.0,
-   "acc": "0001493152-26-047198",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Qiu Wenbin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-13",
-   "shares": 5800.0,
-   "price": 3.47,
-   "value": 20126.0,
-   "acc": "0001104659-26-115702",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "QTEX",
-   "company": "QTREX Quantum Ltd.",
-   "insider": "Ben-Noon Dagi Shahar",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-13",
-   "shares": 14093.0,
-   "price": 1.49,
-   "value": 20998.57,
-   "acc": "0001185185-26-004708",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-13",
-   "shares": 5438.0,
-   "price": 4.2048,
-   "value": 22865.7,
-   "acc": "0001193125-26-422252",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "VMO",
-   "company": "Invesco Municipal Opportunity Trust",
-   "insider": "Setcavage Rebecca",
-   "role": "",
-   "date": "2026-10-13",
-   "shares": 3000.0,
-   "price": 8.64,
-   "value": 25920.0,
-   "acc": "0001852367-26-000009",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "ZONE",
    "company": "Zone Frontier Inc.",
@@ -4203,6 +4131,30 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 24560.0,
+   "price": 25.68,
+   "value": 630700.8,
+   "acc": "0001231919-26-001503",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 28379.0,
+   "price": 26.11,
+   "value": 740975.69,
+   "acc": "0001231919-26-001503",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "NPB",
    "company": "NORTHPOINTE BANCSHARES INC",
    "insider": "Williams Charles Alan",
@@ -4649,6 +4601,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 8261.0,
+   "price": 26.97,
+   "value": 222799.17,
+   "acc": "0001231919-26-001503",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "KRRO",
    "company": "Korro Bio, Inc.",
    "insider": "Lynx1 Capital Management LP",
@@ -4781,6 +4745,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 1944444.0,
+   "price": 18.0,
+   "value": 34999992.0,
+   "acc": "0001231919-26-001503",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "BHRB",
    "company": "Burke & Herbert Financial Services Corp.",
    "insider": "WILSON DAVID",
@@ -4802,6 +4778,30 @@
    "price": 69.85,
    "value": 4819.65,
    "acc": "0001208842-26-000014",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 8729.0,
+   "price": 25.84,
+   "value": 225557.36,
+   "acc": "0001231919-26-001503",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 31067.0,
+   "price": 26.84,
+   "value": 833838.28,
+   "acc": "0001231919-26-001503",
    "filed": "2026-10-27"
   }
  ],
@@ -4915,11 +4915,6 @@
    "ticker": "GROW",
    "insiders": 2,
    "total_value": 38218.26
-  },
-  {
-   "ticker": "QTEX",
-   "insiders": 2,
-   "total_value": 30997.57
   },
   {
    "ticker": "STERLING REAL ESTATE TRUST (CIK 1412502)",
