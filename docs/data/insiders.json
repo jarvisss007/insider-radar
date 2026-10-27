@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-27 21:48 UTC",
+ "updated_utc": "2026-10-27 22:04 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "MacDonald Ryan S",
-   "role": "Director",
-   "date": "2026-10-13",
-   "shares": 120.0,
-   "price": 12.8,
-   "value": 1536.0,
-   "acc": "0001398344-26-018261",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4601,6 +4589,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 12583.0,
+   "price": 5.76,
+   "value": 72478.08,
+   "acc": "0001510281-26-000382",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "BBT",
    "company": "Beacon Financial Corp",
    "insider": "Hollister Thomas J",
@@ -4818,8 +4818,8 @@
   },
   {
    "ticker": "BPRE",
-   "insiders": 3,
-   "total_value": 11381989.08
+   "insiders": 2,
+   "total_value": 11380453.08
   },
   {
    "ticker": "APLD",
@@ -4839,7 +4839,7 @@
   {
    "ticker": "LEO",
    "insiders": 2,
-   "total_value": 2588670.2
+   "total_value": 2661148.28
   },
   {
    "ticker": "NPB",
@@ -4953,7 +4953,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017169",
   "0001999371-26-017172",
   "0001999371-26-017175",
   "0001999371-26-017179",
@@ -7946,6 +7945,7 @@
   "0002158778-26-000004",
   "0002159565-26-000005",
   "0002159567-26-000005",
+  "0002159752-26-000006",
   "0002160029-26-000004",
   "0002160363-26-000003",
   "0002160363-26-000004",
