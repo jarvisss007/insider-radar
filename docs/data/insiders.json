@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-27 11:47 UTC",
+ "updated_utc": "2026-10-27 12:03 UTC",
  "purchases": [
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-10-09",
-   "shares": 5000.0,
-   "price": 3.99,
-   "value": 19950.0,
-   "acc": "0001062993-26-005273",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "API",
    "company": "Agora, Inc.",
@@ -4615,6 +4603,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-26",
+   "shares": 3117.0,
+   "price": 0.8767,
+   "value": 2732.67,
+   "acc": "0001493152-26-048634",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4945,7 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016632",
   "0001999371-26-016633",
   "0001999371-26-016634",
   "0001999371-26-016635",
@@ -5660,6 +5659,7 @@
   "0001999371-26-023527",
   "0001999371-26-023540",
   "0001999371-26-023544",
+  "0001999371-26-023599",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
