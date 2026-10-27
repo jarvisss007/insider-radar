@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-27 13:52 UTC",
+ "updated_utc": "2026-10-27 14:08 UTC",
  "purchases": [
-  {
-   "ticker": "IMSR",
-   "company": "Terrestrial Energy Inc. /DE/",
-   "insider": "BUCKMAN FREDERICK W",
-   "role": "Director",
-   "date": "2026-10-09",
-   "shares": 12000.0,
-   "price": 3.278,
-   "value": 39336.0,
-   "acc": "0001193125-26-420002",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "HBIA.PK",
    "company": "HILLS BANCORPORATION",
@@ -4194,6 +4182,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "FFIN",
+   "company": "FIRST FINANCIAL BANKSHARES INC",
+   "insider": "Nickles Robert Clark Jr",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 820.0,
+   "price": 30.12,
+   "value": 24698.4,
+   "acc": "0001193125-26-433039",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "RVII",
    "company": "Robinhood Ventures Fund II",
    "insider": "Whitney Meredith",
@@ -4945,9 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016636",
-  "0001999371-26-016637",
-  "0001999371-26-016640",
   "0001999371-26-016659",
   "0001999371-26-016660",
   "0001999371-26-016661",
@@ -7561,6 +7558,9 @@
   "0002121472-26-000003",
   "0002121472-26-000004",
   "0002122040-26-000003",
+  "0002122308-26-000007",
+  "0002122308-26-000008",
+  "0002122308-26-000009",
   "0002122338-26-000005",
   "0002122338-26-000006",
   "0002122338-26-000007",
