@@ -51,7 +51,13 @@ def _mod(name, path):
     return m
 
 
-CHECK = _mod("clause_b_check", os.path.join(REPO, "PROPOSED_resolver_check_clause_b.py"))
+# INS-034 (insider-radar ef671e60, 2026-10-17): PROPOSED_resolver_check_clause_b.py, the file this test was written against, moved
+# into the firm's resolver as check_ins_clause_b_applied 32 minutes after this test was committed, and the old path made the
+# whole file fail to collect (AUDIT_2026-10-26_repos 4a). The check is loaded from where it lives now. The resolver exists only on
+# the estate's Mac; anywhere else the six check tests skip and the rest still run.
+RESOLVER = os.path.join(HOME, "command-center", "council", "resolver.py")
+CHECK = _mod("clause_b_check", RESOLVER) if os.path.exists(RESOLVER) else None
+needs_check = pytest.mark.skipif(CHECK is None, reason="needs command-center/council/resolver.py (INS-034 moved the check there)")
 
 
 def _book(dirpath, outcomes, cols=COLS, extra=None, flag=True):
@@ -200,30 +206,35 @@ def _root(tmp_path, outcomes, last_note, last_p, registry="Clause B tripped at n
     return str(tmp_path), path
 
 
+@needs_check
 def test_check_passes_on_a_row_filed_at_the_base_rate(tmp_path):
     root, _ = _root(tmp_path, ["1", "0", "0", "0"], "[CLAUSE-B: ... base=0.2500 k=1 n=4 (YES share of resolved rows)]", 0.25)
     ok, msg = CHECK.check_ins_clause_b_applied(root)
     assert ok, msg
 
 
+@needs_check
 def test_check_fails_on_a_discretionary_row(tmp_path):
     root, _ = _root(tmp_path, ["1", "0", "0", "0"], "[insider] p_cal=0.47", 0.47)
     ok, msg = CHECK.check_ins_clause_b_applied(root)
     assert not ok and "not the base rate" in msg
 
 
+@needs_check
 def test_check_fails_without_the_registry_entry(tmp_path):
     root, _ = _root(tmp_path, ["1", "0", "0", "0"], "[CLAUSE-B: ... base=0.2500 k=1 n=4 ...]", 0.25, registry="nothing here")
     ok, msg = CHECK.check_ins_clause_b_applied(root)
     assert not ok and "REGISTRY.md lacks" in msg
 
 
+@needs_check
 def test_check_fails_on_a_forged_stamp(tmp_path):
     root, _ = _root(tmp_path, ["1", "0", "0", "0"], "[CLAUSE-B: ... base=0.4700 k=47 n=100 ...]", 0.47)
     ok, msg = CHECK.check_ins_clause_b_applied(root)
     assert not ok and "far from today's running base" in msg
 
 
+@needs_check
 def test_check_tolerates_the_base_drifting_after_filing(tmp_path):
     # filed at 12/47 = 0.2553; two NOs have since resolved, so the base is now 12/49 = 0.2449 - still the stamped row
     root, _ = _root(tmp_path, ["1"] * 12 + ["0"] * 37, "[CLAUSE-B: ... base=0.2553 k=12 n=47 ...]", 0.2553)
@@ -231,6 +242,7 @@ def test_check_tolerates_the_base_drifting_after_filing(tmp_path):
     assert ok, msg
 
 
+@needs_check
 def test_the_writers_own_output_passes_the_check(tmp_path):
     root = str(tmp_path)
     path = _book(os.path.join(root, "agent"), ["1"] * 12 + ["0"] * 35)
