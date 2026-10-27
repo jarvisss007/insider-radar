@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-27 23:07 UTC",
+ "updated_utc": "2026-10-27 23:39 UTC",
  "purchases": [
-  {
-   "ticker": "ZONE",
-   "company": "Zone Frontier Inc.",
-   "insider": "Hassen Tyler Lewis",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-13",
-   "shares": 250000.0,
-   "price": 0.1187,
-   "value": 29675.0,
-   "acc": "0001213900-26-109187",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-13",
-   "shares": 3678.0,
-   "price": 10.27,
-   "value": 37773.06,
-   "acc": "0001510281-26-000350",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "IMSR",
-   "company": "Terrestrial Energy Inc. /DE/",
-   "insider": "Irish Simon",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-13",
-   "shares": 16900.0,
-   "price": 3.007,
-   "value": 50818.3,
-   "acc": "0001193125-26-421089",
-   "filed": "2026-10-14"
-  },
   {
    "ticker": "ZONE",
    "company": "Zone Frontier Inc.",
@@ -3723,6 +3687,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "NXTC",
+   "company": "NextCure, Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 5626.0,
+   "price": 4.8294,
+   "value": 27170.2,
+   "acc": "0001940272-26-000029",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "KRRO",
    "company": "Korro Bio, Inc.",
    "insider": "Lynx1 Capital Management LP",
@@ -4372,6 +4348,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "NXTC",
+   "company": "NextCure, Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 1672.0,
+   "price": 5.0344,
+   "value": 8417.52,
+   "acc": "0001940272-26-000029",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "PEBO",
    "company": "PEOPLES BANCORP INC",
    "insider": "Smith Dwight Eric",
@@ -4781,6 +4769,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "NXTC",
+   "company": "NextCure, Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 3553.0,
+   "price": 5.0953,
+   "value": 18103.6,
+   "acc": "0001940272-26-000029",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
    "insider": "Venrock Healthcare Capital Partners III, L.P.",
@@ -4890,11 +4890,6 @@
    "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
    "insiders": 2,
    "total_value": 129001.32
-  },
-  {
-   "ticker": "IMSR",
-   "insiders": 2,
-   "total_value": 72943.3
   },
   {
    "ticker": "CHCO",
