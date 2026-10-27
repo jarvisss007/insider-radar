@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-27 12:03 UTC",
+ "updated_utc": "2026-10-27 12:18 UTC",
  "purchases": [
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-09",
-   "shares": 5301.0,
-   "price": 4.078,
-   "value": 21617.48,
-   "acc": "0001193125-26-419691",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "ELTP",
    "company": "ELITE PHARMACEUTICALS INC /NV/",
@@ -4639,6 +4627,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "OWLS",
+   "company": "OBOOK HOLDINGS INC.",
+   "insider": "WANG CHUN KAI",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-26",
+   "shares": 11105.0,
+   "price": 2.0066,
+   "value": 22283.29,
+   "acc": "0002109337-26-000013",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -4945,7 +4945,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016633",
   "0001999371-26-016634",
   "0001999371-26-016635",
   "0001999371-26-016636",
@@ -7384,6 +7383,7 @@
   "0002109337-26-000010",
   "0002109337-26-000011",
   "0002109337-26-000012",
+  "0002109337-26-000013",
   "0002109729-26-000010",
   "0002109817-26-000012",
   "0002109966-26-000006",
