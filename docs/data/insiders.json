@@ -1,138 +1,6 @@
 {
- "updated_utc": "2026-10-27 20:29 UTC",
+ "updated_utc": "2026-10-27 20:45 UTC",
  "purchases": [
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-12",
-   "shares": 4700.0,
-   "price": 1.018,
-   "value": 4784.6,
-   "acc": "0001400253-26-000010",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "FINS",
-   "company": "Angel Oak Financial Strategies Income Term Trust",
-   "insider": "Bortz Robert Edward III",
-   "role": "President",
-   "date": "2026-10-12",
-   "shares": 418.0,
-   "price": 11.92,
-   "value": 4982.56,
-   "acc": "0002086785-26-000003",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-12",
-   "shares": 9800.0,
-   "price": 1.1495,
-   "value": 11265.1,
-   "acc": "0001493152-26-046736",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-12",
-   "shares": 5000.0,
-   "price": 2.905,
-   "value": 14525.0,
-   "acc": "0001536588-26-000040",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-10-12",
-   "shares": 7215.0,
-   "price": 2.02,
-   "value": 14574.3,
-   "acc": "0001493152-26-046899",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "PCQ",
-   "company": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-12",
-   "shares": 2000.0,
-   "price": 8.0398,
-   "value": 16079.6,
-   "acc": "0000070858-26-000478",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Qiu Wenbin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-12",
-   "shares": 6000.0,
-   "price": 3.34,
-   "value": 20040.0,
-   "acc": "0001104659-26-115702",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-12",
-   "shares": 3100.0,
-   "price": 10.32,
-   "value": 31992.0,
-   "acc": "0001510281-26-000344",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-12",
-   "shares": 8937.0,
-   "price": 4.1117,
-   "value": 36746.26,
-   "acc": "0001193125-26-422252",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-10-12",
-   "shares": 4817.0,
-   "price": 12.0,
-   "value": 57804.0,
-   "acc": "0001104659-26-115905",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Mulacek Phil E",
-   "role": "Director",
-   "date": "2026-10-12",
-   "shares": 20073.0,
-   "price": 3.1996,
-   "value": 64225.57,
-   "acc": "0001072613-26-000827",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "DOLE",
    "company": "Dole plc",
@@ -4121,6 +3989,18 @@
   {
    "ticker": "STC",
    "company": "STEWART INFORMATION SERVICES CORP",
+   "insider": "Matz Deborah Jane",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 1000.0,
+   "price": 43.91,
+   "value": 43910.0,
+   "acc": "0001628280-26-067619",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "STC",
+   "company": "STEWART INFORMATION SERVICES CORP",
    "insider": "Apel Thomas G",
    "role": "Director",
    "date": "2026-10-23",
@@ -4251,6 +4131,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "NMCO",
+   "company": "Nuveen Municipal Credit Opportunities Fund",
+   "insider": "Robert Young L",
+   "role": "",
+   "date": "2026-10-23",
+   "shares": 28575.0,
+   "price": 8.7098,
+   "value": 248882.53,
+   "acc": "0001225208-26-008526",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4285,6 +4177,30 @@
    "value": 290746.36,
    "acc": "0000905148-26-004561",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "NUV",
+   "company": "NUVEEN MUNICIPAL VALUE FUND INC",
+   "insider": "Robert Young L",
+   "role": "",
+   "date": "2026-10-23",
+   "shares": 36430.0,
+   "price": 8.2458,
+   "value": 300394.49,
+   "acc": "0001225208-26-008525",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "NXP",
+   "company": "NUVEEN SELECT TAX FREE INCOME PORTFOLIO",
+   "insider": "Robert Young L",
+   "role": "",
+   "date": "2026-10-23",
+   "shares": 22848.0,
+   "price": 13.1492,
+   "value": 300432.92,
+   "acc": "0001225208-26-008524",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "LEO",
@@ -4383,6 +4299,30 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 50000.0,
+   "price": 23.5328,
+   "value": 1176640.0,
+   "acc": "0001104659-26-119180",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 50000.0,
+   "price": 23.5328,
+   "value": 1176640.0,
+   "acc": "0001104659-26-119177",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "PLUR",
    "company": "Pluri Inc.",
    "insider": "Manieu Alexandre Weinstein",
@@ -4442,6 +4382,30 @@
    "value": 2273379.93,
    "acc": "0000905148-26-004561",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 184093.0,
+   "price": 34.4802,
+   "value": 6347563.46,
+   "acc": "0001193125-26-434287",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-23",
+   "shares": 411516.0,
+   "price": 33.7365,
+   "value": 13883109.53,
+   "acc": "0001193125-26-434287",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "CTTH",
@@ -4673,6 +4637,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "STC",
+   "company": "STEWART INFORMATION SERVICES CORP",
+   "insider": "EPPINGER FREDERICK H",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-26",
+   "shares": 3000.0,
+   "price": 44.45,
+   "value": 133350.0,
+   "acc": "0001628280-26-067616",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "KRRO",
    "company": "Korro Bio, Inc.",
    "insider": "Lynx1 Capital Management LP",
@@ -4695,6 +4671,30 @@
    "value": 389890.07,
    "acc": "0000905148-26-004561",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 20834.0,
+   "price": 24.0696,
+   "value": 501466.05,
+   "acc": "0001104659-26-119180",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 20834.0,
+   "price": 24.0696,
+   "value": 501466.05,
+   "acc": "0001104659-26-119177",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "GPI",
@@ -4862,19 +4862,24 @@
    "total_value": 525575.0
   },
   {
+   "ticker": "STC",
+   "insiders": 5,
+   "total_value": 460970.0
+  },
+  {
    "ticker": "RTSN",
    "insiders": 2,
    "total_value": 369600.0
   },
   {
-   "ticker": "STC",
-   "insiders": 3,
-   "total_value": 283710.0
-  },
-  {
    "ticker": "DX",
    "insiders": 3,
    "total_value": 267230.2
+  },
+  {
+   "ticker": "NMCO",
+   "insiders": 3,
+   "total_value": 253569.29
   },
   {
    "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
@@ -4932,11 +4937,6 @@
    "total_value": 5019.15
   },
   {
-   "ticker": "NMCO",
-   "insiders": 2,
-   "total_value": 4686.76
-  },
-  {
    "ticker": "UMH",
    "insiders": 2,
    "total_value": 2000.12
@@ -4948,7 +4948,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017163",
   "0001999371-26-017165",
   "0001999371-26-017167",
   "0001999371-26-017169",
@@ -6816,6 +6815,7 @@
   "0002071844-26-001448",
   "0002071844-26-001452",
   "0002071844-26-001457",
+  "0002071844-26-001476",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
