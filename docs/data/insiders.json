@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-10-27 23:39 UTC",
+ "updated_utc": "2026-10-27 23:54 UTC",
  "purchases": [
-  {
-   "ticker": "ZONE",
-   "company": "Zone Frontier Inc.",
-   "insider": "Hassen Tyler Lewis",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-13",
-   "shares": 1000000.0,
-   "price": 0.1164,
-   "value": 116400.0,
-   "acc": "0001213900-26-109187",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "RTSN",
-   "company": "Retension Pharmaceuticals, Inc.",
-   "insider": "BERGER FRANKLIN M",
-   "role": "Director",
-   "date": "2026-10-13",
-   "shares": 10000.0,
-   "price": 12.0,
-   "value": 120000.0,
-   "acc": "0001213900-26-109155",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "RTSN",
-   "company": "Retension Pharmaceuticals, Inc.",
-   "insider": "Keller Eric L.",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-10-13",
-   "shares": 20800.0,
-   "price": 12.0,
-   "value": 249600.0,
-   "acc": "0001213900-26-109160",
-   "filed": "2026-10-13"
-  },
-  {
-   "ticker": "PRTA",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "insider": "SCULLY WILLIAM P",
-   "role": "10% owner",
-   "date": "2026-10-13",
-   "shares": 100000.0,
-   "price": 8.3548,
-   "value": 835480.0,
-   "acc": "0001045463-26-000021",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "CXM",
-   "company": "Sprinklr, Inc.",
-   "insider": "WARD JR STEPHEN M",
-   "role": "Director",
-   "date": "2026-10-13",
-   "shares": 150000.0,
-   "price": 5.67,
-   "value": 850500.0,
-   "acc": "0001164644-26-000008",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-13",
-   "shares": 110964.0,
-   "price": 12.8506,
-   "value": 1425953.98,
-   "acc": "0001398344-26-018199",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "GOLD",
-   "company": "Gold.com, Inc.",
-   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
-   "role": "10% owner",
-   "date": "2026-10-13",
-   "shares": 42682.0,
-   "price": 39.917,
-   "value": 1703737.39,
-   "acc": "0001104659-26-116094",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "TRXB",
-   "company": "TRex Bio, Inc.",
-   "insider": "Alexandria Venture Investments, LLC",
-   "role": "10% owner",
-   "date": "2026-10-13",
-   "shares": 178571.0,
-   "price": 14.0,
-   "value": 2499994.0,
-   "acc": "0001722024-26-000004",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Troim Tor Olav",
-   "role": "Director",
-   "date": "2026-10-13",
-   "shares": 1500000.0,
-   "price": 4.9344,
-   "value": 7401600.0,
-   "acc": "0001628280-26-065849",
-   "filed": "2026-10-14"
-  },
   {
    "ticker": "CRBG",
    "company": "Corebridge Financial, Inc.",
@@ -3615,6 +3507,18 @@
    "filed": "2026-10-23"
   },
   {
+   "ticker": "SRRK",
+   "company": "Scholar Rock Holding Corp",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 500.0,
+   "price": 41.82,
+   "value": 20910.0,
+   "acc": "0001253170-26-000014",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "CHCO",
    "company": "CITY HOLDING CO",
    "insider": "FISHER ROBERT D",
@@ -3745,6 +3649,18 @@
    "value": 39582.0,
    "acc": "0001899813-26-000003",
    "filed": "2026-10-23"
+  },
+  {
+   "ticker": "SRRK",
+   "company": "Scholar Rock Holding Corp",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 1000.0,
+   "price": 41.82,
+   "value": 41820.0,
+   "acc": "0001253170-26-000014",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "MSM",
@@ -4216,6 +4132,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "SRRK",
+   "company": "Scholar Rock Holding Corp",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 47000.0,
+   "price": 41.31,
+   "value": 1941570.0,
+   "acc": "0001253170-26-000014",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4238,6 +4166,30 @@
    "value": 2273379.93,
    "acc": "0000905148-26-004561",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "SRRK",
+   "company": "Scholar Rock Holding Corp",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 94000.0,
+   "price": 41.31,
+   "value": 3883140.0,
+   "acc": "0001253170-26-000014",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "LRN",
+   "company": "Stride, Inc.",
+   "insider": "Haggart Dylan G.",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 59188.0,
+   "price": 79.84,
+   "value": 4725569.92,
+   "acc": "0001213900-26-113031",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "CRBG",
@@ -4613,6 +4565,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "LRN",
+   "company": "Stride, Inc.",
+   "insider": "Haggart Dylan G.",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 4152.0,
+   "price": 78.47,
+   "value": 325807.44,
+   "acc": "0001213900-26-113031",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4733,6 +4697,42 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "SRRK",
+   "company": "Scholar Rock Holding Corp",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 48988.0,
+   "price": 41.59,
+   "value": 2037410.92,
+   "acc": "0001253170-26-000014",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "SRRK",
+   "company": "Scholar Rock Holding Corp",
+   "insider": "AKKARAJU SRINIVAS",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 97982.0,
+   "price": 41.59,
+   "value": 4075071.38,
+   "acc": "0001253170-26-000014",
+   "filed": "2026-10-27"
+  },
+  {
+   "ticker": "LRN",
+   "company": "Stride, Inc.",
+   "insider": "Haggart Dylan G.",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 90856.0,
+   "price": 78.44,
+   "value": 7126744.64,
+   "acc": "0001213900-26-113031",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
    "insider": "Venrock Healthcare Capital Partners III, L.P.",
@@ -4812,14 +4812,14 @@
    "total_value": 29034298.9
   },
   {
-   "ticker": "BORR",
-   "insiders": 2,
-   "total_value": 14716300.0
-  },
-  {
    "ticker": "BPRE",
    "insiders": 2,
-   "total_value": 11380453.08
+   "total_value": 9954499.1
+  },
+  {
+   "ticker": "BORR",
+   "insiders": 2,
+   "total_value": 7314700.0
   },
   {
    "ticker": "APLD",
@@ -4870,11 +4870,6 @@
    "ticker": "STC",
    "insiders": 5,
    "total_value": 460970.0
-  },
-  {
-   "ticker": "RTSN",
-   "insiders": 2,
-   "total_value": 369600.0
   },
   {
    "ticker": "DX",
