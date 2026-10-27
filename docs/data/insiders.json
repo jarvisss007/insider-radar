@@ -1,19 +1,6 @@
 {
- "updated_utc": "2026-10-27 18:37 UTC",
+ "updated_utc": "2026-10-27 19:41 UTC",
  "purchases": [
-  {
-   "ticker": "TDIC",
-   "company": "Dreamland Ltd",
-   "insider": "Seto Wai Yue",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-09",
-   "shares": 300000.0,
-   "price": 2.0,
-   "value": 600000.0,
-   "acc": "0001493152-26-046945",
-   "filed": "2026-10-14",
-   "placement": true
-  },
   {
    "ticker": "NUAI",
    "company": "New ERA Energy & Digital, Inc.",
@@ -4577,6 +4564,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "CBKM",
+   "company": "CONSUMERS BANCORP INC /OH/",
+   "insider": "Lober Ralph J II",
+   "role": "CEO & President",
+   "date": "2026-10-26",
+   "shares": 500.0,
+   "price": 31.97,
+   "value": 15985.0,
+   "acc": "0001437749-26-033633",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "CCBG",
    "company": "CAPITAL CITY BANK GROUP INC",
    "insider": "Butler William F",
@@ -4944,7 +4943,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017087",
   "0001999371-26-017088",
   "0001999371-26-017094",
   "0001999371-26-017096",
@@ -7024,6 +7022,7 @@
   "0002078265-26-000468",
   "0002078265-26-000469",
   "0002078265-26-000470",
+  "0002078265-26-000471",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
