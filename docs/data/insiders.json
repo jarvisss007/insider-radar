@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-27 13:05 UTC",
+ "updated_utc": "2026-10-27 13:36 UTC",
  "purchases": [
-  {
-   "ticker": "ELTP",
-   "company": "ELITE PHARMACEUTICALS INC /NV/",
-   "insider": "Dash Barry H",
-   "role": "Director",
-   "date": "2026-10-09",
-   "shares": 100000.0,
-   "price": 0.2598,
-   "value": 25980.0,
-   "acc": "0001493152-26-047486",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "QTEX",
-   "company": "QTREX Quantum Ltd.",
-   "insider": "Ben-Noon Dagi Shahar",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-09",
-   "shares": 18181.0,
-   "price": 1.67,
-   "value": 30362.27,
-   "acc": "0001185185-26-004675",
-   "filed": "2026-10-09"
-  },
   {
    "ticker": "IMSR",
    "company": "Terrestrial Energy Inc. /DE/",
@@ -4591,6 +4567,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Staloch Alison",
+   "role": "Treasurer",
+   "date": "2026-10-26",
+   "shares": 41.876,
+   "price": 11.94,
+   "value": 500.0,
+   "acc": "0001435109-26-000161",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4649,6 +4637,18 @@
    "value": 22862.28,
    "acc": "0001178579-26-000020",
    "filed": "2026-10-26"
+  },
+  {
+   "ticker": "ASIC",
+   "company": "Ategrity Specialty Insurance Co Holdings",
+   "insider": "Schenk Chris",
+   "role": "See Remarks",
+   "date": "2026-10-26",
+   "shares": 1000.0,
+   "price": 24.29,
+   "value": 24290.0,
+   "acc": "0002040491-26-000054",
+   "filed": "2026-10-27"
   },
   {
    "ticker": "NBIS",
@@ -4940,12 +4940,11 @@
   },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 2,
-   "total_value": 705.04
+   "insiders": 3,
+   "total_value": 1205.04
   }
  ],
  "seen": [
-  "0001999371-26-016634",
   "0001999371-26-016635",
   "0001999371-26-016636",
   "0001999371-26-016637",
@@ -6234,6 +6233,7 @@
   "0002040321-26-000005",
   "0002040340-26-000002",
   "0002040491-26-000048",
+  "0002040491-26-000054",
   "0002040500-26-000006",
   "0002040500-26-000008",
   "0002040519-26-000073",
