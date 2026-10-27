@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-27 15:27 UTC",
+ "updated_utc": "2026-10-27 17:03 UTC",
  "purchases": [
-  {
-   "ticker": "SAR",
-   "company": "SARATOGA INVESTMENT CORP.",
-   "insider": "Oberbeck Christian L",
-   "role": "CEO and Director",
-   "date": "2026-10-09",
-   "shares": 15000.0,
-   "price": 14.83,
-   "value": 222450.0,
-   "acc": "0001213900-26-108753",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "ONMD",
    "company": "OneMedNet Corp",
@@ -4591,6 +4579,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "PEBO",
+   "company": "PEOPLES BANCORP INC",
+   "insider": "Smith Dwight Eric",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 300.0,
+   "price": 38.655,
+   "value": 11596.5,
+   "acc": "0000318300-26-000238",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "CCBG",
    "company": "CAPITAL CITY BANK GROUP INC",
    "insider": "Butler William F",
@@ -4946,8 +4946,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-016672",
-  "0001999371-26-016674",
   "0001999371-26-016687",
   "0001999371-26-016880",
   "0001999371-26-016890",
@@ -5654,6 +5652,8 @@
   "0001999371-26-023599",
   "0001999371-26-023611",
   "0001999371-26-023614",
+  "0001999371-26-023621",
+  "0001999371-26-023623",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
