@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-27 01:37 UTC",
+ "updated_utc": "2026-10-27 01:53 UTC",
  "purchases": [
-  {
-   "ticker": "NEOG",
-   "company": "NEOGEN CORP",
-   "insider": "Nassif Mikheal",
-   "role": "CEO",
-   "date": "2026-10-09",
-   "shares": 505.0,
-   "price": 11.95,
-   "value": 6034.75,
-   "acc": "0000711377-26-000029",
-   "filed": "2026-10-09"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-09",
-   "shares": 9027.0,
-   "price": 1.1278,
-   "value": 10180.65,
-   "acc": "0001493152-26-046736",
-   "filed": "2026-10-13"
-  },
   {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
@@ -3578,6 +3554,30 @@
    "price": 228.2393,
    "value": 228.24,
    "acc": "0000905148-26-004561",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "PHR",
+   "company": "Phreesia, Inc.",
+   "insider": "Linetsky David",
+   "role": "President, Network Solutions",
+   "date": "2026-10-22",
+   "shares": 35.0,
+   "price": 9.15,
+   "value": 320.25,
+   "acc": "0001776729-26-000001",
+   "filed": "2026-10-26"
+  },
+  {
+   "ticker": "PHR",
+   "company": "Phreesia, Inc.",
+   "insider": "Linetsky David",
+   "role": "President, Network Solutions",
+   "date": "2026-10-22",
+   "shares": 35.0,
+   "price": 10.35,
+   "value": 362.25,
+   "acc": "0001776729-26-000001",
    "filed": "2026-10-26"
   },
   {
