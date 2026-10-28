@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-28 12:12 UTC",
+ "updated_utc": "2026-10-28 12:44 UTC",
  "purchases": [
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 4286.0,
-   "price": 0.72,
-   "value": 3085.92,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4769,6 +4757,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "BBT",
+   "company": "Beacon Financial Corp",
+   "insider": "Fitzgerald Margaret Boles",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 329.0,
+   "price": 30.77,
+   "value": 10123.33,
+   "acc": "0001628280-26-067740",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "NXTC",
    "company": "NextCure, Inc.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -4892,6 +4892,11 @@
    "total_value": 129001.32
   },
   {
+   "ticker": "BBT",
+   "insiders": 2,
+   "total_value": 115106.83
+  },
+  {
    "ticker": "CHCO",
    "insiders": 4,
    "total_value": 68222.4
@@ -4943,8 +4948,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017189",
-  "0001999371-26-017198",
   "0001999371-26-017262",
   "0001999371-26-017271",
   "0001999371-26-017278",
@@ -5630,6 +5633,8 @@
   "0001999371-26-023644",
   "0001999371-26-023666",
   "0001999371-26-023667",
+  "0001999371-26-023671",
+  "0001999371-26-023673",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
