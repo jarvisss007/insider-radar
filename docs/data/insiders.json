@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-28 14:49 UTC",
+ "updated_utc": "2026-10-28 15:21 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 5400.0,
-   "price": 1.0948,
-   "value": 5911.92,
-   "acc": "0001493152-26-047147",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
@@ -4288,6 +4276,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 1600.0,
+   "price": 10.21,
+   "value": 16336.0,
+   "acc": "0001510281-26-000383",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "CCBG",
    "company": "CAPITAL CITY BANK GROUP INC",
    "insider": "Butler William F",
@@ -4948,7 +4948,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017284",
   "0001999371-26-017286",
   "0001999371-26-017287",
   "0001999371-26-017288",
@@ -5631,6 +5630,7 @@
   "0001999371-26-023671",
   "0001999371-26-023673",
   "0001999371-26-023681",
+  "0001999371-26-023692",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
