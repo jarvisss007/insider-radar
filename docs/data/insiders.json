@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-28 00:26 UTC",
+ "updated_utc": "2026-10-28 00:57 UTC",
  "purchases": [
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-13",
-   "shares": 253776.0,
-   "price": 34.6839,
-   "value": 8801941.41,
-   "acc": "0001193125-26-422935",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "NAD",
    "company": "Nuveen Quality Municipal Income Fund",
@@ -3771,6 +3759,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "PDI",
+   "company": "PIMCO Dynamic Income Fund",
+   "insider": "Morris Sonya",
+   "role": "Director",
+   "date": "2026-10-23",
+   "shares": 5700.0,
+   "price": 14.32,
+   "value": 81624.0,
+   "acc": "0002084606-26-000017",
+   "filed": "2026-10-27"
+  },
+  {
    "ticker": "STC",
    "company": "STEWART INFORMATION SERVICES CORP",
    "insider": "Corey William S. Jr.",
@@ -4938,7 +4938,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017175",
   "0001999371-26-017179",
   "0001999371-26-017183",
   "0001999371-26-017186",
@@ -7123,6 +7122,7 @@
   "0002084264-26-000006",
   "0002084455-26-000005",
   "0002084606-26-000014",
+  "0002084606-26-000017",
   "0002084658-26-000002",
   "0002084812-26-000013",
   "0002084812-26-000015",
