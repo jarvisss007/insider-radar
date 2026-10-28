@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-28 21:23 UTC",
+ "updated_utc": "2026-10-28 21:39 UTC",
  "purchases": [
-  {
-   "ticker": "JOF",
-   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 13133.0,
-   "price": 12.33,
-   "value": 161929.89,
-   "acc": "0001510281-26-000353",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "INBX",
-   "company": "Inhibrx Biosciences, Inc.",
-   "insider": "Lappe Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 2449.0,
-   "price": 84.0707,
-   "value": 205889.14,
-   "acc": "0001366074-26-000006",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "INBX",
-   "company": "Inhibrx Biosciences, Inc.",
-   "insider": "Lappe Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 2470.0,
-   "price": 84.0707,
-   "value": 207654.63,
-   "acc": "0001366074-26-000006",
-   "filed": "2026-10-14"
-  },
   {
    "ticker": "INBX",
    "company": "Inhibrx Biosciences, Inc.",
@@ -4409,6 +4373,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "HXL",
+   "company": "HEXCEL CORP /DE/",
+   "insider": "KEATING NEAL J.",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 3000.0,
+   "price": 80.67,
+   "value": 242010.0,
+   "acc": "0001193125-26-436418",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "KRRO",
    "company": "Korro Bio, Inc.",
    "insider": "Lynx1 Capital Management LP",
@@ -4671,6 +4647,30 @@
    "value": 2454.02,
    "acc": "0001208842-26-000014",
    "filed": "2026-10-27"
+  },
+  {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 300.0,
+   "price": 9.99,
+   "value": 2997.0,
+   "acc": "0001510281-26-000387",
+   "filed": "2026-10-28"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 400.0,
+   "price": 11.63,
+   "value": 4652.0,
+   "acc": "0001510281-26-000386",
+   "filed": "2026-10-28"
   },
   {
    "ticker": "BHRB",
@@ -4959,7 +4959,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017737",
   "0001999371-26-017742",
   "0001999371-26-017746",
   "0001999371-26-017779",
@@ -5619,6 +5618,7 @@
   "0001999371-26-023783",
   "0001999371-26-023784",
   "0001999371-26-023786",
+  "0001999371-26-023788",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
