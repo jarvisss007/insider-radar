@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-28 08:01 UTC",
+ "updated_utc": "2026-10-28 10:54 UTC",
  "purchases": [
-  {
-   "ticker": "NAD",
-   "company": "Nuveen Quality Municipal Income Fund",
-   "insider": "TOTH TERENCE J",
-   "role": "",
-   "date": "2026-10-14",
-   "shares": 0.3711,
-   "price": 10.1264,
-   "value": 3.76,
-   "acc": "0001225208-26-008437",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "NAD",
-   "company": "Nuveen Quality Municipal Income Fund",
-   "insider": "TOTH TERENCE J",
-   "role": "",
-   "date": "2026-10-14",
-   "shares": 3.0,
-   "price": 10.13,
-   "value": 30.39,
-   "acc": "0001225208-26-008437",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 4000.0,
-   "price": 0.7,
-   "value": 2800.0,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4541,6 +4505,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "ACN",
+   "company": "Accenture plc",
+   "insider": "Price Paula A",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 800.0,
+   "price": 249.8097,
+   "value": 199847.76,
+   "acc": "0001369240-26-000014",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
    "insider": "Venrock Healthcare Capital Partners III, L.P.",
@@ -4625,6 +4601,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "ACN",
+   "company": "Accenture plc",
+   "insider": "Sweet Julie Spellman",
+   "role": "Chair and CEO",
+   "date": "2026-10-26",
+   "shares": 2100.0,
+   "price": 245.1063,
+   "value": 514723.23,
+   "acc": "0001487630-26-000022",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4707,6 +4695,18 @@
    "value": 2037410.92,
    "acc": "0001253170-26-000014",
    "filed": "2026-10-27"
+  },
+  {
+   "ticker": "ACN",
+   "company": "Accenture plc",
+   "insider": "Sweet Julie Spellman",
+   "role": "Chair and CEO",
+   "date": "2026-10-26",
+   "shares": 10100.0,
+   "price": 246.1701,
+   "value": 2486318.01,
+   "acc": "0001487630-26-000022",
+   "filed": "2026-10-28"
   },
   {
    "ticker": "SRRK",
@@ -4835,6 +4835,11 @@
    "ticker": "CTY",
    "insiders": 2,
    "total_value": 6120000.0
+  },
+  {
+   "ticker": "ACN",
+   "insiders": 2,
+   "total_value": 3200889.0
   },
   {
    "ticker": "LEO",
