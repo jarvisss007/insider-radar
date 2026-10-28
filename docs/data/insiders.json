@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-28 17:26 UTC",
+ "updated_utc": "2026-10-28 18:13 UTC",
  "purchases": [
-  {
-   "ticker": "PCQ",
-   "company": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 2000.0,
-   "price": 8.1303,
-   "value": 16260.6,
-   "acc": "0000070858-26-000486",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
@@ -4781,6 +4769,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "NYSE:FLG",
+   "company": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
+   "insider": "Frank Alan L",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 10000.0,
+   "price": 10.14,
+   "value": 101400.0,
+   "acc": "0001649471-26-000006",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
    "insider": "Venrock Healthcare Capital Partners III, L.P.",
@@ -4953,7 +4953,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017346",
   "0001999371-26-017397",
   "0001999371-26-017400",
   "0001999371-26-017402",
@@ -5619,6 +5618,7 @@
   "0001999371-26-023681",
   "0001999371-26-023692",
   "0001999371-26-023706",
+  "0001999371-26-023714",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
