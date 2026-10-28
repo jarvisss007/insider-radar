@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-28 18:13 UTC",
+ "updated_utc": "2026-10-28 18:45 UTC",
  "purchases": [
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 1662.0,
-   "price": 10.25,
-   "value": 17035.5,
-   "acc": "0001510281-26-000350",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "BZUN",
    "company": "Baozun Inc.",
@@ -4589,6 +4577,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "XBIT",
+   "company": "XBiotech Inc.",
+   "insider": "SIMARD JOHN",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 368524.0,
+   "price": 1.93,
+   "value": 711251.32,
+   "acc": "0001193125-26-435894",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "NPB",
    "company": "NORTHPOINTE BANCSHARES INC",
    "insider": "Williams Charles Alan",
@@ -4953,7 +4953,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017397",
   "0001999371-26-017400",
   "0001999371-26-017402",
   "0001999371-26-017417",
@@ -5619,6 +5618,7 @@
   "0001999371-26-023692",
   "0001999371-26-023706",
   "0001999371-26-023714",
+  "0001999371-26-023723",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
