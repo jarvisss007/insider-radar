@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-10-28 21:39 UTC",
+ "updated_utc": "2026-10-28 21:55 UTC",
  "purchases": [
-  {
-   "ticker": "INBX",
-   "company": "Inhibrx Biosciences, Inc.",
-   "insider": "Lappe Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 2451.0,
-   "price": 84.9992,
-   "value": 208333.04,
-   "acc": "0001366074-26-000006",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "INBX",
-   "company": "Inhibrx Biosciences, Inc.",
-   "insider": "Lappe Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 2470.0,
-   "price": 84.9992,
-   "value": 209948.02,
-   "acc": "0001366074-26-000006",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Mulacek Phil E",
-   "role": "Director",
-   "date": "2026-10-14",
-   "shares": 69427.0,
-   "price": 3.2,
-   "value": 222166.4,
-   "acc": "0001072613-26-000827",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 12791.0,
-   "price": 19.88,
-   "value": 254285.08,
-   "acc": "0001510281-26-000351",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 56083.0,
-   "price": 11.74,
-   "value": 658414.42,
-   "acc": "0001510281-26-000349",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "SAH",
-   "company": "SONIC AUTOMOTIVE INC",
-   "insider": "Rusnak Paul P.",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 12555.0,
-   "price": 59.9,
-   "value": 752044.5,
-   "acc": "0001460471-26-000009",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "GOLD",
    "company": "Gold.com, Inc.",
@@ -4553,6 +4481,30 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 32675.0,
+   "price": 38.9609,
+   "value": 1273047.41,
+   "acc": "0001104659-26-119719",
+   "filed": "2026-10-28"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 109019.0,
+   "price": 12.4769,
+   "value": 1360219.16,
+   "acc": "0001398344-26-019008",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
    "insider": "Conifer Management, L.L.C.",
@@ -4733,6 +4685,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 13695.0,
+   "price": 5.63,
+   "value": 77102.85,
+   "acc": "0001510281-26-000388",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "NYSE:FLG",
    "company": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
    "insider": "Frank Alan L",
@@ -4767,6 +4731,30 @@
    "value": 833838.28,
    "acc": "0001231919-26-001503",
    "filed": "2026-10-27"
+  },
+  {
+   "ticker": "BPRE",
+   "company": "Bluerock Private Real Estate Fund",
+   "insider": "KAMFAR RAMIN",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 69658.0,
+   "price": 12.4825,
+   "value": 869505.98,
+   "acc": "0001398344-26-019008",
+   "filed": "2026-10-28"
+  },
+  {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 39692.0,
+   "price": 39.4445,
+   "value": 1565631.09,
+   "acc": "0001104659-26-119719",
+   "filed": "2026-10-28"
   },
   {
    "ticker": "CBKM",
@@ -4804,6 +4792,18 @@
    "acc": "0001493152-26-048958",
    "filed": "2026-10-28",
    "placement": true
+  },
+  {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-10-28",
+   "shares": 27633.0,
+   "price": 39.3942,
+   "value": 1088579.93,
+   "acc": "0001104659-26-119719",
+   "filed": "2026-10-28"
   }
  ],
  "clusters": [
@@ -4815,7 +4815,7 @@
   {
    "ticker": "BPRE",
    "insiders": 2,
-   "total_value": 9910182.3
+   "total_value": 12139907.44
   },
   {
    "ticker": "BORR",
@@ -4865,7 +4865,7 @@
   {
    "ticker": "DSM",
    "insiders": 2,
-   "total_value": 1467985.82
+   "total_value": 1545088.67
   },
   {
    "ticker": "THRM",
