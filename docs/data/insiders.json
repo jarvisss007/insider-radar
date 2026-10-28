@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-28 20:52 UTC",
+ "updated_utc": "2026-10-28 21:07 UTC",
  "purchases": [
-  {
-   "ticker": "DGXX",
-   "company": "Digi Power X Inc.",
-   "insider": "Amar Michel",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 20000.0,
-   "price": 2.7628,
-   "value": 55256.0,
-   "acc": "0001213900-26-109819",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
@@ -4781,6 +4769,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "CBKM",
+   "company": "CONSUMERS BANCORP INC /OH/",
+   "insider": "WILLIAMS DEREK G",
+   "role": "SVP, Retail Operations & Sales",
+   "date": "2026-10-28",
+   "shares": 100.0,
+   "price": 31.71,
+   "value": 3171.0,
+   "acc": "0001437749-26-033807",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "HYMC",
    "company": "HYCROFT MINING HOLDING CORP",
    "insider": "Rhodes Blake",
@@ -4928,6 +4928,11 @@
    "total_value": 27000.0
   },
   {
+   "ticker": "CBKM",
+   "insiders": 2,
+   "total_value": 19156.0
+  },
+  {
    "ticker": "GABC",
    "insiders": 3,
    "total_value": 17300.0
@@ -4954,7 +4959,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017657",
   "0001999371-26-017660",
   "0001999371-26-017684",
   "0001999371-26-017719",
@@ -5614,6 +5618,7 @@
   "0001999371-26-023749",
   "0001999371-26-023755",
   "0001999371-26-023768",
+  "0001999371-26-023773",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
