@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-28 18:45 UTC",
+ "updated_utc": "2026-10-28 20:04 UTC",
  "purchases": [
-  {
-   "ticker": "BZUN",
-   "company": "Baozun Inc.",
-   "insider": "Qiu Wenbin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 5800.0,
-   "price": 3.44,
-   "value": 19952.0,
-   "acc": "0001104659-26-116383",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 11233.0,
-   "price": 1.9349,
-   "value": 21734.73,
-   "acc": "0001493152-26-047473",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "IMSR",
-   "company": "Terrestrial Energy Inc. /DE/",
-   "insider": "Pardee Charles G",
-   "role": "Director",
-   "date": "2026-10-14",
-   "shares": 7500.0,
-   "price": 2.95,
-   "value": 22125.0,
-   "acc": "0001193125-26-423068",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "NAD",
-   "company": "Nuveen Quality Municipal Income Fund",
-   "insider": "TOTH TERENCE J",
-   "role": "",
-   "date": "2026-10-14",
-   "shares": 2500.0,
-   "price": 10.12,
-   "value": 25300.0,
-   "acc": "0001225208-26-008437",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "API",
    "company": "Agora, Inc.",
@@ -4385,6 +4337,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "HBAN",
+   "company": "HUNTINGTON BANCSHARES INC /MD/",
+   "insider": "ROLLINS JAMES D III",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 4000.0,
+   "price": 14.855,
+   "value": 59420.0,
+   "acc": "0001225208-26-008542",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
    "insider": "Saba Capital Management, L.P.",
@@ -4443,6 +4407,18 @@
    "value": 133350.0,
    "acc": "0001628280-26-067616",
    "filed": "2026-10-27"
+  },
+  {
+   "ticker": "HBAN",
+   "company": "HUNTINGTON BANCSHARES INC /MD/",
+   "insider": "ROLLINS JAMES D III",
+   "role": "Director",
+   "date": "2026-10-26",
+   "shares": 10000.0,
+   "price": 19.43,
+   "value": 194300.0,
+   "acc": "0001225208-26-008542",
+   "filed": "2026-10-28"
   },
   {
    "ticker": "ACN",
@@ -4803,6 +4779,31 @@
    "value": 833838.28,
    "acc": "0001231919-26-001503",
    "filed": "2026-10-27"
+  },
+  {
+   "ticker": "HYMC",
+   "company": "HYCROFT MINING HOLDING CORP",
+   "insider": "Rhodes Blake",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 3000.0,
+   "price": 16.6917,
+   "value": 50075.1,
+   "acc": "0001493152-26-048971",
+   "filed": "2026-10-28"
+  },
+  {
+   "ticker": "RCT",
+   "company": "RedCloud Holdings plc",
+   "insider": "Senn Nikolaus Beat",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 1700000.0,
+   "price": 0.25,
+   "value": 425000.0,
+   "acc": "0001493152-26-048958",
+   "filed": "2026-10-28",
+   "placement": true
   }
  ],
  "clusters": [
@@ -4953,11 +4954,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017400",
-  "0001999371-26-017402",
-  "0001999371-26-017417",
-  "0001999371-26-017456",
-  "0001999371-26-017463",
   "0001999371-26-017490",
   "0001999371-26-017494",
   "0001999371-26-017498",
@@ -5619,6 +5615,11 @@
   "0001999371-26-023706",
   "0001999371-26-023714",
   "0001999371-26-023723",
+  "0001999371-26-023727",
+  "0001999371-26-023735",
+  "0001999371-26-023738",
+  "0001999371-26-023743",
+  "0001999371-26-023746",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
