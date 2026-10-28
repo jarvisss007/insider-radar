@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-28 21:07 UTC",
+ "updated_utc": "2026-10-28 21:23 UTC",
  "purchases": [
-  {
-   "ticker": "PRTA",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "insider": "SCULLY WILLIAM P",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 10000.0,
-   "price": 8.4569,
-   "value": 84569.0,
-   "acc": "0001045463-26-000021",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "ZONE",
-   "company": "Zone Frontier Inc.",
-   "insider": "Hassen Tyler Lewis",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-14",
-   "shares": 750000.0,
-   "price": 0.1136,
-   "value": 85200.0,
-   "acc": "0001213900-26-109523",
-   "filed": "2026-10-14"
-  },
   {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
@@ -4649,6 +4625,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 182826.0,
+   "price": 34.9529,
+   "value": 6390298.9,
+   "acc": "0001193125-26-436365",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "LRN",
    "company": "Stride, Inc.",
    "insider": "Haggart Dylan G.",
@@ -4731,6 +4719,18 @@
    "value": 18103.6,
    "acc": "0001940272-26-000029",
    "filed": "2026-10-27"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 3648.0,
+   "price": 10.22,
+   "value": 37282.56,
+   "acc": "0001510281-26-000385",
+   "filed": "2026-10-28"
   },
   {
    "ticker": "NYSE:FLG",
@@ -4959,10 +4959,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017660",
-  "0001999371-26-017684",
-  "0001999371-26-017719",
-  "0001999371-26-017721",
   "0001999371-26-017737",
   "0001999371-26-017742",
   "0001999371-26-017746",
@@ -5619,6 +5615,10 @@
   "0001999371-26-023755",
   "0001999371-26-023768",
   "0001999371-26-023773",
+  "0001999371-26-023781",
+  "0001999371-26-023783",
+  "0001999371-26-023784",
+  "0001999371-26-023786",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
