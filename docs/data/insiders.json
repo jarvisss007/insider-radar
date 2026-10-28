@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-28 10:54 UTC",
+ "updated_utc": "2026-10-28 12:12 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-14",
-   "shares": 973.0,
-   "price": 2.905,
-   "value": 2826.56,
-   "acc": "0001536588-26-000041",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "PETV",
    "company": "PetVivo Holdings, Inc.",
@@ -4769,6 +4757,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-27",
+   "shares": 5800.0,
+   "price": 0.9044,
+   "value": 5245.52,
+   "acc": "0001493152-26-048824",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "NXTC",
    "company": "NextCure, Inc.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -4943,8 +4943,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017183",
-  "0001999371-26-017186",
   "0001999371-26-017189",
   "0001999371-26-017198",
   "0001999371-26-017262",
@@ -5630,6 +5628,8 @@
   "0001999371-26-023621",
   "0001999371-26-023623",
   "0001999371-26-023644",
+  "0001999371-26-023666",
+  "0001999371-26-023667",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
