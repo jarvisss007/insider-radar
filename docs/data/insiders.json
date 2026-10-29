@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-29 13:19 UTC",
+ "updated_utc": "2026-10-29 13:50 UTC",
  "purchases": [
-  {
-   "ticker": "PRIM",
-   "company": "Primoris Services Corp",
-   "insider": "MCCALLISTER TERRY D",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 21.505,
-   "price": 79.98,
-   "value": 1719.97,
-   "acc": "0001216725-26-000014",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "MDBH",
-   "company": "MDB Capital Holdings, LLC",
-   "insider": "MARLETT CHRISTOPHER A",
-   "role": "Co-Founder",
-   "date": "2026-10-15",
-   "shares": 917.0,
-   "price": 1.93,
-   "value": 1769.81,
-   "acc": "0001493152-26-047389",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "GRX",
    "company": "Gabelli Healthcare & WellnessRx Trust",
@@ -4721,6 +4697,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "ACTU",
+   "company": "ACTUATE THERAPEUTICS, INC.",
+   "insider": "SCHMITT DANIEL M",
+   "role": "President, CEO and Director",
+   "date": "2026-10-28",
+   "shares": 140844.0,
+   "price": 0.355,
+   "value": 49999.62,
+   "acc": "0001683168-26-008147",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "HYMC",
    "company": "HYCROFT MINING HOLDING CORP",
    "insider": "Rhodes Blake",
@@ -4804,6 +4792,18 @@
    "value": 1088579.93,
    "acc": "0001104659-26-119719",
    "filed": "2026-10-28"
+  },
+  {
+   "ticker": "TFC",
+   "company": "TRUIST FINANCIAL CORP",
+   "insider": "Lyons Michael P.",
+   "role": "President & CEO",
+   "date": "2026-10-28",
+   "shares": 25000.0,
+   "price": 48.362,
+   "value": 1209050.0,
+   "acc": "0001534574-26-000018",
+   "filed": "2026-10-29"
   }
  ],
  "clusters": [
