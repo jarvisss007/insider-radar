@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-29 21:32 UTC",
+ "updated_utc": "2026-10-29 21:48 UTC",
  "purchases": [
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 23485.0,
-   "price": 1.9453,
-   "value": 45685.37,
-   "acc": "0001493152-26-047473",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
-   "company": "BIP Ventures Evergreen BDC",
-   "insider": "Buffington Mark",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-15",
-   "shares": 1437.0,
-   "price": 34.79,
-   "value": 49993.23,
-   "acc": "0001193125-26-424035",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "FIS",
    "company": "Fidelity National Information Services, Inc.",
@@ -4554,6 +4530,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-28",
+   "shares": 1992.0,
+   "price": 5.43,
+   "value": 10816.56,
+   "acc": "0001510281-26-000392",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "ECF",
    "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
    "insider": "Saba Capital Management, L.P.",
@@ -4671,6 +4659,18 @@
    "price": 30.21,
    "value": 96672.0,
    "acc": "0001628280-26-068056",
+   "filed": "2026-10-29"
+  },
+  {
+   "ticker": "JOF",
+   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-28",
+   "shares": 15967.0,
+   "price": 11.38,
+   "value": 181704.46,
+   "acc": "0001510281-26-000391",
    "filed": "2026-10-29"
   },
   {
@@ -4862,7 +4862,7 @@
   {
    "ticker": "DSM",
    "insiders": 2,
-   "total_value": 1545088.67
+   "total_value": 1555905.23
   },
   {
    "ticker": "TTMI",
@@ -4946,8 +4946,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-018712",
-  "0001999371-26-018740",
   "0001999371-26-018746",
   "0001999371-26-018754",
   "0001999371-26-018756",
@@ -7700,6 +7698,7 @@
   "0002135290-26-000005",
   "0002135296-26-000009",
   "0002135314-26-000012",
+  "0002135314-26-000014",
   "0002135367-26-000002",
   "0002135506-26-000005",
   "0002135516-26-000004",
@@ -7836,6 +7835,7 @@
   "0002148161-26-000008",
   "0002148161-26-000009",
   "0002148161-26-000010",
+  "0002148161-26-000012",
   "0002148287-26-000002",
   "0002148361-26-000003",
   "0002148361-26-000004",
