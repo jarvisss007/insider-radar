@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-29 20:44 UTC",
+ "updated_utc": "2026-10-29 21:00 UTC",
  "purchases": [
-  {
-   "ticker": "EDRY",
-   "company": "EuroDry Ltd.",
-   "insider": "Pittas Aristeidis P",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 300.0,
-   "price": 48.1682,
-   "value": 14450.46,
-   "acc": "0002127484-26-000021",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Bawel Zachary W",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 344.3173,
-   "price": 49.6635,
-   "value": 17100.0,
-   "acc": "0001746448-26-000010",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "STERLING REAL ESTATE TRUST (CIK 1412502)",
-   "company": "Sterling Real Estate Trust",
-   "insider": "Wieland James",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 980.3921,
-   "price": 25.5,
-   "value": 25000.0,
-   "acc": "0001519822-26-000011",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
@@ -4325,6 +4289,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "VRXA",
+   "company": "Veraxa Biotech AG - Post de-SPAC",
+   "insider": "Gruninger Marc",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 867.0,
+   "price": 0.98,
+   "value": 849.66,
+   "acc": "0001829126-26-011778",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "BHRB",
    "company": "Burke & Herbert Financial Services Corp.",
    "insider": "WILSON DAVID",
@@ -4565,6 +4541,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 178129.0,
+   "price": 35.1385,
+   "value": 6259185.87,
+   "acc": "0001193125-26-437931",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "CBKM",
    "company": "CONSUMERS BANCORP INC /OH/",
    "insider": "WILLIAMS DEREK G",
@@ -4598,6 +4586,18 @@
    "price": 34.37,
    "value": 4296.25,
    "acc": "0001437749-26-033873",
+   "filed": "2026-10-29"
+  },
+  {
+   "ticker": "VRXA",
+   "company": "Veraxa Biotech AG - Post de-SPAC",
+   "insider": "Gruninger Marc",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 9133.0,
+   "price": 1.0,
+   "value": 9133.0,
+   "acc": "0001829126-26-011778",
    "filed": "2026-10-29"
   },
   {
@@ -4916,6 +4916,11 @@
    "ticker": "ANIX",
    "insiders": 2,
    "total_value": 45600.0
+  },
+  {
+   "ticker": "VRXA",
+   "insiders": 2,
+   "total_value": 42682.66
   },
   {
    "ticker": "YORW",
