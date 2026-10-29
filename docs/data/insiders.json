@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-29 13:50 UTC",
+ "updated_utc": "2026-10-29 14:06 UTC",
  "purchases": [
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 200.0,
-   "price": 9.88,
-   "value": 1976.0,
-   "acc": "0001510281-26-000356",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "STERLING REAL ESTATE TRUST (CIK 1412502)",
    "company": "Sterling Real Estate Trust",
@@ -4721,6 +4709,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "BFC",
+   "company": "Bank First Corp",
+   "insider": "Sprang Todd A.",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 400.0,
+   "price": 148.37,
+   "value": 59348.0,
+   "acc": "0001104659-26-120006",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "BBT",
    "company": "Beacon Financial Corp",
    "insider": "Callahan Mary Anne",
@@ -4949,7 +4949,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017936",
   "0001999371-26-017946",
   "0001999371-26-017959",
   "0001999371-26-017966",
@@ -5602,6 +5601,7 @@
   "0001999371-26-023822",
   "0001999371-26-023826",
   "0001999371-26-023828",
+  "0001999371-26-023837",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
