@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-29 00:15 UTC",
+ "updated_utc": "2026-10-29 00:47 UTC",
  "purchases": [
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Snowling Harvey Edward",
-   "role": "Chief Operating Officer",
-   "date": "2026-10-14",
-   "shares": 300000.0,
-   "price": 4.91,
-   "value": 1473000.0,
-   "acc": "0001628280-26-066061",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -4589,6 +4577,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "LONA",
+   "company": "LeonaBio, Inc.",
+   "insider": "Portman David J.",
+   "role": "10% owner",
+   "date": "2026-10-26",
+   "shares": 3149470.0,
+   "price": 3149.47,
+   "value": 9919161280.9,
+   "acc": "0002126186-26-000002",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "BHRB",
    "company": "Burke & Herbert Financial Services Corp.",
    "insider": "WILSON DAVID",
@@ -4818,11 +4818,6 @@
    "total_value": 12139907.44
   },
   {
-   "ticker": "BORR",
-   "insiders": 2,
-   "total_value": 7314700.0
-  },
-  {
    "ticker": "APLD",
    "insiders": 2,
    "total_value": 6664686.12
@@ -4959,7 +4954,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017779",
   "0001999371-26-017822",
   "0001999371-26-017869",
   "0001999371-26-017877",
@@ -7627,6 +7621,7 @@
   "0002125773-26-000005",
   "0002125773-26-000010",
   "0002125773-26-000013",
+  "0002126186-26-000002",
   "0002126294-26-000010",
   "0002126576-26-000006",
   "0002126577-26-000003",
