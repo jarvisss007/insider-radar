@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-29 22:35 UTC",
+ "updated_utc": "2026-10-29 23:06 UTC",
  "purchases": [
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 13762.0,
-   "price": 5.24,
-   "value": 72112.88,
-   "acc": "0001510281-26-000359",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "CRESY",
    "company": "CRESUD INC",
@@ -4602,6 +4590,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "ARCC",
+   "company": "ARES CAPITAL CORP",
+   "insider": "HENSON MARY BETH",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 2500.0,
+   "price": 18.46,
+   "value": 46150.0,
+   "acc": "0001628280-26-068348",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "NPB",
    "company": "NORTHPOINTE BANCSHARES INC",
    "insider": "Chaudhary Rajeev Kumar",
@@ -4862,7 +4862,7 @@
   {
    "ticker": "DSM",
    "insiders": 2,
-   "total_value": 1555905.23
+   "total_value": 1483792.35
   },
   {
    "ticker": "TTMI",
