@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-29 21:00 UTC",
+ "updated_utc": "2026-10-29 21:16 UTC",
  "purchases": [
-  {
-   "ticker": "NBIS",
-   "company": "Nebius Group N.V.",
-   "insider": "Grimme Arne",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 148.0,
-   "price": 169.99,
-   "value": 25158.52,
-   "acc": "0001513845-26-000130",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "WS",
-   "company": "Worthington Steel, Inc.",
-   "insider": "Ganem George John III",
-   "role": "CEO Americas Kloeckner Metals",
-   "date": "2026-10-15",
-   "shares": 800.0,
-   "price": 39.365,
-   "value": 31492.0,
-   "acc": "0001193125-26-436256",
-   "filed": "2026-10-28"
-  },
   {
    "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
    "company": "BIP Ventures Evergreen BDC",
@@ -4601,6 +4577,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-28",
+   "shares": 1050.0,
+   "price": 11.75,
+   "value": 12337.5,
+   "acc": "0001510281-26-000389",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "ELVR",
    "company": "Elevra Lithium Ltd",
    "insider": "Cortes Vargas Christian Mauricio",
@@ -4780,6 +4768,19 @@
    "value": 1209050.0,
    "acc": "0001534574-26-000018",
    "filed": "2026-10-29"
+  },
+  {
+   "ticker": "SCQCU",
+   "company": "SPACCircle Acquisition Corp.",
+   "insider": "Das Soumen",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 266590.0,
+   "price": 10.0,
+   "value": 2665900.0,
+   "acc": "0001185185-26-005072",
+   "filed": "2026-10-29",
+   "placement": true
   },
   {
    "ticker": "SAMG",
