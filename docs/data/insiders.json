@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-29 08:05 UTC",
+ "updated_utc": "2026-10-29 12:16 UTC",
  "purchases": [
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Seger Andrew M",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 2.0136,
-   "price": 49.6635,
-   "value": 100.0,
-   "acc": "0002081604-26-000013",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4733,6 +4721,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-28",
+   "shares": 3500.0,
+   "price": 0.9714,
+   "value": 3399.9,
+   "acc": "0001493152-26-049183",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "HYMC",
    "company": "HYCROFT MINING HOLDING CORP",
    "insider": "Rhodes Blake",
@@ -4933,11 +4933,6 @@
    "total_value": 19156.0
   },
   {
-   "ticker": "GABC",
-   "insiders": 2,
-   "total_value": 17200.0
-  },
-  {
    "ticker": "KWY",
    "insiders": 2,
    "total_value": 5035.58
@@ -4959,8 +4954,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017886",
-  "0001999371-26-017913",
   "0001999371-26-017915",
   "0001999371-26-017921",
   "0001999371-26-017934",
@@ -5613,6 +5606,8 @@
   "0001999371-26-023784",
   "0001999371-26-023786",
   "0001999371-26-023788",
+  "0001999371-26-023803",
+  "0001999371-26-023822",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
