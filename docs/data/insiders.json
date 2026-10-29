@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-10-29 20:28 UTC",
+ "updated_utc": "2026-10-29 20:44 UTC",
  "purchases": [
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Mulacek Phil E",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 2603.0,
-   "price": 3.2,
-   "value": 8329.6,
-   "acc": "0001072613-26-000827",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "HQY",
-   "company": "HEALTHEQUITY, INC.",
-   "insider": "Rajasekar Sunil",
-   "role": "EVP Chief Prod & Strat Officer",
-   "date": "2026-10-15",
-   "shares": 108.0,
-   "price": 90.33,
-   "value": 9755.64,
-   "acc": "0001934884-26-000007",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "QTEX",
-   "company": "QTREX Quantum Ltd.",
-   "insider": "Parnes Tal",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 6666.0,
-   "price": 1.5,
-   "value": 9999.0,
-   "acc": "0001185185-26-004770",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "LXU",
-   "company": "LSB INDUSTRIES, INC.",
-   "insider": "Ackerman Jonathan Z.",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 1000.0,
-   "price": 10.17,
-   "value": 10170.0,
-   "acc": "0001193125-26-431955",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "EDRY",
    "company": "EuroDry Ltd.",
@@ -4445,6 +4397,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "SAMG",
+   "company": "Silvercrest Asset Management Group Inc.",
+   "insider": "Equinox Partners Investment Management LLC",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 899.0,
+   "price": 10.1,
+   "value": 9079.9,
+   "acc": "0001013594-26-001116",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "BBT",
    "company": "Beacon Financial Corp",
    "insider": "Fitzgerald Margaret Boles",
@@ -4539,6 +4503,18 @@
    "value": 101400.0,
    "acc": "0001649471-26-000006",
    "filed": "2026-10-28"
+  },
+  {
+   "ticker": "HBAN",
+   "company": "HUNTINGTON BANCSHARES INC /MD/",
+   "insider": "TORGOW GARY",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 12700.0,
+   "price": 15.735,
+   "value": 199834.5,
+   "acc": "0001225208-26-008552",
+   "filed": "2026-10-29"
   },
   {
    "ticker": "LYCA",
@@ -4770,6 +4746,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "PNFP",
+   "company": "Pinnacle Financial Partners, Inc.",
+   "insider": "INGRAM DAVID B",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 10000.0,
+   "price": 99.16,
+   "value": 991600.0,
+   "acc": "0001219004-26-000004",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "GOLD",
    "company": "Gold.com, Inc.",
    "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
@@ -4791,6 +4779,18 @@
    "price": 48.362,
    "value": 1209050.0,
    "acc": "0001534574-26-000018",
+   "filed": "2026-10-29"
+  },
+  {
+   "ticker": "SAMG",
+   "company": "Silvercrest Asset Management Group Inc.",
+   "insider": "Equinox Partners Investment Management LLC",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 32499.0,
+   "price": 10.45,
+   "value": 339614.55,
+   "acc": "0001013594-26-001116",
    "filed": "2026-10-29"
   },
   {
@@ -4881,6 +4881,11 @@
    "ticker": "STC",
    "insiders": 5,
    "total_value": 460970.0
+  },
+  {
+   "ticker": "HBAN",
+   "insiders": 2,
+   "total_value": 453554.5
   },
   {
    "ticker": "DX",
