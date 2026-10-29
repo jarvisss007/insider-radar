@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-29 21:16 UTC",
+ "updated_utc": "2026-10-29 21:32 UTC",
  "purchases": [
-  {
-   "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
-   "company": "BIP Ventures Evergreen BDC",
-   "insider": "Flickinger Mark",
-   "role": "Chief Operating Officer",
-   "date": "2026-10-15",
-   "shares": 1064.0,
-   "price": 34.79,
-   "value": 37016.56,
-   "acc": "0001193125-26-424273",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-15",
-   "shares": 8545.0,
-   "price": 4.445,
-   "value": 37982.53,
-   "acc": "0001193125-26-424723",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
-   "company": "BIP Ventures Evergreen BDC",
-   "insider": "Flickinger Mark",
-   "role": "Chief Operating Officer",
-   "date": "2026-10-15",
-   "shares": 1207.0,
-   "price": 34.79,
-   "value": 41991.53,
-   "acc": "0001193125-26-424273",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
@@ -4397,6 +4361,19 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "HYFM",
+   "company": "HYDROFARM HOLDINGS GROUP, INC.",
+   "insider": "PARKER MARK S",
+   "role": "President",
+   "date": "2026-10-27",
+   "shares": 22099.0,
+   "price": 0.905,
+   "value": 19999.6,
+   "acc": "0001437749-26-034002",
+   "filed": "2026-10-29",
+   "placement": true
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4598,6 +4575,18 @@
    "price": 2.67,
    "value": 21360.0,
    "acc": "0001140361-26-041173",
+   "filed": "2026-10-29"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO EQUITY & INCOME FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-28",
+   "shares": 1121.0,
+   "price": 20.13,
+   "value": 22565.73,
+   "acc": "0001510281-26-000390",
    "filed": "2026-10-29"
   },
   {
@@ -4805,6 +4794,18 @@
    "value": 985600.0,
    "acc": "0001524472-26-000150",
    "filed": "2026-10-29"
+  },
+  {
+   "ticker": "DINO",
+   "company": "HF Sinclair Corp",
+   "insider": "MYERS FRANKLIN",
+   "role": "CEO",
+   "date": "2026-10-29",
+   "shares": 10000.0,
+   "price": 110.8,
+   "value": 1108000.0,
+   "acc": "0001193125-26-438100",
+   "filed": "2026-10-29"
   }
  ],
  "clusters": [
@@ -4904,11 +4905,6 @@
    "total_value": 242458.83
   },
   {
-   "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
-   "insiders": 2,
-   "total_value": 129001.32
-  },
-  {
    "ticker": "CHCO",
    "insiders": 4,
    "total_value": 68222.4
@@ -4950,9 +4946,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-018701",
-  "0001999371-26-018703",
-  "0001999371-26-018708",
   "0001999371-26-018712",
   "0001999371-26-018740",
   "0001999371-26-018746",
@@ -5542,6 +5535,8 @@
   "0001999371-26-023876",
   "0001999371-26-023878",
   "0001999371-26-023881",
+  "0001999371-26-023886",
+  "0001999371-26-023888",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6788,6 +6783,7 @@
   "0002071844-26-001616",
   "0002071844-26-001618",
   "0002071844-26-001620",
+  "0002071844-26-001630",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
