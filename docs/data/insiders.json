@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-29 00:47 UTC",
+ "updated_utc": "2026-10-29 01:02 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-14",
-   "shares": 157661.0,
-   "price": 12.6332,
-   "value": 1991762.95,
-   "acc": "0001398344-26-018199",
-   "filed": "2026-10-14"
-  },
-  {
-   "ticker": "BORR",
-   "company": "Borr Drilling Ltd",
-   "insider": "Troim Tor Olav",
-   "role": "Director",
-   "date": "2026-10-14",
-   "shares": 750000.0,
-   "price": 4.7234,
-   "value": 3542550.0,
-   "acc": "0001628280-26-065947",
-   "filed": "2026-10-15"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Ryan Christina M",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 2.0136,
-   "price": 49.6635,
-   "value": 100.0,
-   "acc": "0001791771-26-000007",
-   "filed": "2026-10-16"
-  },
   {
    "ticker": "GABC",
    "company": "GERMAN AMERICAN BANCORP, INC.",
@@ -4794,6 +4758,42 @@
    "placement": true
   },
   {
+   "ticker": "TTMI",
+   "company": "TTM TECHNOLOGIES INC",
+   "insider": "Roks Edwin",
+   "role": "President and CEO",
+   "date": "2026-10-28",
+   "shares": 5000.0,
+   "price": 88.07,
+   "value": 440350.0,
+   "acc": "0001193125-26-436562",
+   "filed": "2026-10-28"
+  },
+  {
+   "ticker": "TTMI",
+   "company": "TTM TECHNOLOGIES INC",
+   "insider": "Ali Wajid",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 5000.0,
+   "price": 89.8571,
+   "value": 449285.5,
+   "acc": "0001193125-26-436557",
+   "filed": "2026-10-28"
+  },
+  {
+   "ticker": "TTMI",
+   "company": "TTM TECHNOLOGIES INC",
+   "insider": "Ali Wajid",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 5000.0,
+   "price": 90.635,
+   "value": 453175.0,
+   "acc": "0001193125-26-436557",
+   "filed": "2026-10-28"
+  },
+  {
    "ticker": "GOLD",
    "company": "Gold.com, Inc.",
    "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
@@ -4815,7 +4815,7 @@
   {
    "ticker": "BPRE",
    "insiders": 2,
-   "total_value": 12139907.44
+   "total_value": 10148144.49
   },
   {
    "ticker": "APLD",
@@ -4861,6 +4861,11 @@
    "ticker": "DSM",
    "insiders": 2,
    "total_value": 1545088.67
+  },
+  {
+   "ticker": "TTMI",
+   "insiders": 2,
+   "total_value": 1342810.5
   },
   {
    "ticker": "THRM",
@@ -4929,8 +4934,8 @@
   },
   {
    "ticker": "GABC",
-   "insiders": 3,
-   "total_value": 17300.0
+   "insiders": 2,
+   "total_value": 17200.0
   },
   {
    "ticker": "KWY",
