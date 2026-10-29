@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-29 12:16 UTC",
+ "updated_utc": "2026-10-29 12:32 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-10-15",
-   "shares": 2000.0,
-   "price": 0.057,
-   "value": 114.0,
-   "acc": "0001035422-26-000017",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "BCDA",
-   "company": "BioCardia, Inc.",
-   "insider": "Altman Peter",
-   "role": "President and CEO",
-   "date": "2026-10-15",
-   "shares": 200.0,
-   "price": 0.95,
-   "value": 190.0,
-   "acc": "0001437749-26-033030",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
@@ -4613,6 +4589,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-27",
+   "shares": 3000.0,
+   "price": 4.4735,
+   "value": 13420.5,
+   "acc": "0001193125-26-437062",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "NXTC",
    "company": "NextCure, Inc.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -4730,6 +4718,18 @@
    "price": 0.9714,
    "value": 3399.9,
    "acc": "0001493152-26-049183",
+   "filed": "2026-10-29"
+  },
+  {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-28",
+   "shares": 9549.0,
+   "price": 4.4675,
+   "value": 42660.16,
+   "acc": "0001193125-26-437062",
    "filed": "2026-10-29"
   },
   {
@@ -4954,7 +4954,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017915",
   "0001999371-26-017921",
   "0001999371-26-017934",
   "0001999371-26-017936",
@@ -5608,6 +5607,7 @@
   "0001999371-26-023788",
   "0001999371-26-023803",
   "0001999371-26-023822",
+  "0001999371-26-023826",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
