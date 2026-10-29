@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-10-29 19:56 UTC",
+ "updated_utc": "2026-10-29 20:12 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-15",
-   "shares": 4100.0,
-   "price": 1.0421,
-   "value": 4272.61,
-   "acc": "0001493152-26-047334",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 10000.0,
-   "price": 0.74,
-   "value": 7400.0,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4661,6 +4637,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "ELVR",
+   "company": "Elevra Lithium Ltd",
+   "insider": "Cortes Vargas Christian Mauricio",
+   "role": "Chief Financial Officer",
+   "date": "2026-10-28",
+   "shares": 8000.0,
+   "price": 2.67,
+   "value": 21360.0,
+   "acc": "0001140361-26-041173",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "NBIS",
    "company": "Nebius Group N.V.",
    "insider": "Grimme Arne",
@@ -4682,6 +4670,18 @@
    "price": 4.4675,
    "value": 42660.16,
    "acc": "0001193125-26-437062",
+   "filed": "2026-10-29"
+  },
+  {
+   "ticker": "NPB",
+   "company": "NORTHPOINTE BANCSHARES INC",
+   "insider": "Chaudhary Rajeev Kumar",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 3000.0,
+   "price": 15.7992,
+   "value": 47397.6,
+   "acc": "0001336706-26-000086",
    "filed": "2026-10-29"
   },
   {
@@ -4844,8 +4844,8 @@
   },
   {
    "ticker": "NPB",
-   "insiders": 3,
-   "total_value": 1771951.37
+   "insiders": 4,
+   "total_value": 1819348.97
   },
   {
    "ticker": "WILLOW TREE CAPITAL CORP (CIK 1944831)",
@@ -4939,10 +4939,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-018605",
-  "0001999371-26-018607",
-  "0001999371-26-018617",
-  "0001999371-26-018627",
   "0001999371-26-018638",
   "0001999371-26-018701",
   "0001999371-26-018703",
@@ -5533,6 +5529,9 @@
   "0001999371-26-023837",
   "0001999371-26-023867",
   "0001999371-26-023869",
+  "0001999371-26-023876",
+  "0001999371-26-023878",
+  "0001999371-26-023881",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5636,6 +5635,7 @@
   "0002006956-26-000004",
   "0002007420-26-000002",
   "0002007443-26-000005",
+  "0002007678-26-000002",
   "0002007895-26-000016",
   "0002007897-26-000004",
   "0002007928-26-000003",
