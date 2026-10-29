@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-29 14:06 UTC",
+ "updated_utc": "2026-10-29 15:41 UTC",
  "purchases": [
-  {
-   "ticker": "STERLING REAL ESTATE TRUST (CIK 1412502)",
-   "company": "Sterling Real Estate Trust",
-   "insider": "Carlson Michael Paul",
-   "role": "GENERAL COUNSEL & SECRETARY",
-   "date": "2026-10-15",
-   "shares": 78.4313,
-   "price": 25.5,
-   "value": 2000.0,
-   "acc": "0001959506-26-000008",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "GRSD",
    "company": "GRANDSTAND Ltd",
@@ -4505,6 +4493,18 @@
    "filed": "2026-10-28"
   },
   {
+   "ticker": "SHBI",
+   "company": "SHORE BANCSHARES INC",
+   "insider": "LAMON JOHN",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 338.0,
+   "price": 22.94,
+   "value": 7753.72,
+   "acc": "0001463254-26-000008",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "BBT",
    "company": "Beacon Financial Corp",
    "insider": "Fitzgerald Margaret Boles",
@@ -4923,11 +4923,6 @@
    "total_value": 38218.26
   },
   {
-   "ticker": "STERLING REAL ESTATE TRUST (CIK 1412502)",
-   "insiders": 2,
-   "total_value": 27000.0
-  },
-  {
    "ticker": "CBKM",
    "insiders": 2,
    "total_value": 19156.0
@@ -4949,7 +4944,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-017946",
   "0001999371-26-017959",
   "0001999371-26-017966",
   "0001999371-26-017979",
@@ -7462,6 +7456,7 @@
   "0002116103-26-000002",
   "0002116103-26-000004",
   "0002116135-26-000002",
+  "0002116289-26-000011",
   "0002116307-26-000007",
   "0002116307-26-000008",
   "0002116333-26-000001",
