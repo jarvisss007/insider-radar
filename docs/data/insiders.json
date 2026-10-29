@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-29 22:04 UTC",
+ "updated_utc": "2026-10-29 22:35 UTC",
  "purchases": [
-  {
-   "ticker": "SAMG",
-   "company": "Silvercrest Asset Management Group Inc.",
-   "insider": "Equinox Partners Investment Management LLC",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 5692.0,
-   "price": 10.47,
-   "value": 59595.24,
-   "acc": "0001013594-26-001082",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
@@ -4336,6 +4324,18 @@
    "acc": "0001437749-26-034002",
    "filed": "2026-10-29",
    "placement": true
+  },
+  {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-10-27",
+   "shares": 10707.0,
+   "price": 2.4,
+   "value": 25696.8,
+   "acc": "0001178579-26-000022",
+   "filed": "2026-10-29"
   },
   {
    "ticker": "NBIS",
