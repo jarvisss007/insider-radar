@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-29 12:32 UTC",
+ "updated_utc": "2026-10-29 13:19 UTC",
  "purchases": [
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Mitchell William Edward",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 68.38,
-   "price": 14.625,
-   "value": 1000.06,
-   "acc": "0000752642-26-000132",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Miller Kevin S.",
-   "role": "EVP, CFO, Treasurer",
-   "date": "2026-10-15",
-   "shares": 68.38,
-   "price": 14.625,
-   "value": 1000.06,
-   "acc": "0000752642-26-000131",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 984.0,
-   "price": 1.3219,
-   "value": 1300.75,
-   "acc": "0001940272-26-000025",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "PRIM",
    "company": "Primoris Services Corp",
@@ -4613,6 +4577,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "NBIS",
+   "company": "Nebius Group N.V.",
+   "insider": "Grimme Arne",
+   "role": "Director",
+   "date": "2026-10-27",
+   "shares": 205.0,
+   "price": 159.04,
+   "value": 32603.2,
+   "acc": "0001513845-26-000143",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4721,6 +4697,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "NBIS",
+   "company": "Nebius Group N.V.",
+   "insider": "Grimme Arne",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 148.0,
+   "price": 169.84,
+   "value": 25136.32,
+   "acc": "0001513845-26-000143",
+   "filed": "2026-10-29"
+  },
+  {
    "ticker": "API",
    "company": "Agora, Inc.",
    "insider": "Zhao Bin",
@@ -4743,6 +4731,18 @@
    "value": 50075.1,
    "acc": "0001493152-26-048971",
    "filed": "2026-10-28"
+  },
+  {
+   "ticker": "BBT",
+   "company": "Beacon Financial Corp",
+   "insider": "Callahan Mary Anne",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 3200.0,
+   "price": 30.21,
+   "value": 96672.0,
+   "acc": "0001628280-26-068056",
+   "filed": "2026-10-29"
   },
   {
    "ticker": "RCT",
@@ -4894,8 +4894,8 @@
   },
   {
    "ticker": "BBT",
-   "insiders": 3,
-   "total_value": 145786.83
+   "insiders": 4,
+   "total_value": 242458.83
   },
   {
    "ticker": "BIP VENTURES EVERGREEN BDC (CIK 1950572)",
@@ -4943,19 +4943,12 @@
    "total_value": 5019.15
   },
   {
-   "ticker": "UMH",
-   "insiders": 2,
-   "total_value": 2000.12
-  },
-  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 3,
    "total_value": 1205.04
   }
  ],
  "seen": [
-  "0001999371-26-017921",
-  "0001999371-26-017934",
   "0001999371-26-017936",
   "0001999371-26-017946",
   "0001999371-26-017959",
@@ -5608,6 +5601,7 @@
   "0001999371-26-023803",
   "0001999371-26-023822",
   "0001999371-26-023826",
+  "0001999371-26-023828",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7782,6 +7776,7 @@
   "0002143947-26-000004",
   "0002144093-26-000007",
   "0002144116-26-000005",
+  "0002144230-26-000009",
   "0002144291-26-000003",
   "0002144320-26-000003",
   "0002144385-26-000005",
