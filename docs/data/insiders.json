@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-30 18:33 UTC",
+ "updated_utc": "2026-10-30 18:49 UTC",
  "purchases": [
-  {
-   "ticker": "LNBIX",
-   "company": "Lincoln Bain Capital Total Credit Fund",
-   "insider": "Lincoln Financial Investments Corp",
-   "role": "10% owner",
-   "date": "2026-10-15",
-   "shares": 2477700.69,
-   "price": 10.09,
-   "value": 24999999.96,
-   "acc": "0001193125-26-425009",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Marcos Marcelo",
-   "role": "Director",
-   "date": "2026-10-15",
-   "shares": 435000.0,
-   "price": 80.78,
-   "value": 35139300.0,
-   "acc": "0002022936-26-000017",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 1.0,
-   "price": 1.32,
-   "value": 1.32,
-   "acc": "0001940272-26-000026",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "BCDA",
    "company": "BioCardia, Inc.",
@@ -4506,6 +4470,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "BFH",
+   "company": "BREAD FINANCIAL HOLDINGS, INC.",
+   "insider": "Fawcett John J.",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 2000.0,
+   "price": 24.71,
+   "value": 49420.0,
+   "acc": "0001614143-26-000006",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "ACTU",
    "company": "ACTUATE THERAPEUTICS, INC.",
    "insider": "SCHMITT DANIEL M",
@@ -4551,6 +4527,18 @@
    "price": 12.2417,
    "value": 66092.94,
    "acc": "0001213900-26-114242",
+   "filed": "2026-10-30"
+  },
+  {
+   "ticker": "BFH",
+   "company": "BREAD FINANCIAL HOLDINGS, INC.",
+   "insider": "Fawcett John J.",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 3000.0,
+   "price": 24.69,
+   "value": 74070.0,
+   "acc": "0001614143-26-000006",
    "filed": "2026-10-30"
   },
   {
@@ -4806,6 +4794,18 @@
    "value": 20000.0,
    "acc": "0001437749-26-034087",
    "filed": "2026-10-30"
+  },
+  {
+   "ticker": "OCFC",
+   "company": "OCEANFIRST FINANCIAL CORP",
+   "insider": "Barrett Patrick Sean",
+   "role": "Senior EVP & CFO",
+   "date": "2026-10-30",
+   "shares": 5000.0,
+   "price": 17.9,
+   "value": 89500.0,
+   "acc": "0001591893-26-000006",
+   "filed": "2026-10-30"
   }
  ],
  "clusters": [
@@ -4956,11 +4956,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019025",
-  "0001999371-26-019029",
-  "0001999371-26-019034",
-  "0001999371-26-019036",
-  "0001999371-26-019038",
   "0001999371-26-019039",
   "0001999371-26-019040",
   "0001999371-26-019041",
@@ -6903,6 +6898,10 @@
   "0002077810-26-000310",
   "0002077810-26-000311",
   "0002077810-26-000313",
+  "0002077810-26-000318",
+  "0002077810-26-000319",
+  "0002077810-26-000320",
+  "0002077810-26-000321",
   "0002078265-26-000317",
   "0002078265-26-000318",
   "0002078265-26-000321",
@@ -7337,6 +7336,7 @@
   "0002105935-26-000007",
   "0002106395-26-000005",
   "0002106572-26-000003",
+  "0002106640-26-000014",
   "0002106809-26-000005",
   "0002106873-26-000012",
   "0002106873-26-000015",
