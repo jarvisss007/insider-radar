@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-30 18:02 UTC",
+ "updated_utc": "2026-10-30 18:17 UTC",
  "purchases": [
-  {
-   "ticker": "FLSC",
-   "company": "Frazier Life Sciences Acquisition Corp. II",
-   "insider": "Cha Albert",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-15",
-   "shares": 300000.0,
-   "price": 10.0,
-   "value": 3000000.0,
-   "acc": "0001193125-26-422957",
-   "filed": "2026-10-15"
-  },
   {
    "ticker": "CRBG",
    "company": "Corebridge Financial, Inc.",
@@ -4796,6 +4784,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "BBT",
+   "company": "Beacon Financial Corp",
+   "insider": "Charnley Nina A",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 350.0,
+   "price": 30.57,
+   "value": 10699.5,
+   "acc": "0001628280-26-068526",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "USCB",
    "company": "USCB FINANCIAL HOLDINGS, INC.",
    "insider": "Rodriguez Ramon M.",
@@ -4901,8 +4901,8 @@
   },
   {
    "ticker": "BBT",
-   "insiders": 4,
-   "total_value": 242458.83
+   "insiders": 5,
+   "total_value": 253158.33
   },
   {
    "ticker": "CHCO",
