@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-10-30 23:03 UTC",
+ "updated_utc": "2026-10-30 23:34 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-16",
-   "shares": 2548.0,
-   "price": 1.0266,
-   "value": 2615.78,
-   "acc": "0001493152-26-047506",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 6000.0,
-   "price": 0.7,
-   "value": 4200.0,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 6000.0,
-   "price": 0.7487,
-   "value": 4492.2,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 6969.0,
-   "price": 0.69,
-   "value": 4808.61,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 2136.0,
-   "price": 2.905,
-   "value": 6205.08,
-   "acc": "0001536588-26-000043",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "THFF",
-   "company": "FIRST FINANCIAL CORP /IN/",
-   "insider": "McDonald James O",
-   "role": "Director",
-   "date": "2026-10-16",
-   "shares": 86.61,
-   "price": 73.576,
-   "value": 6372.42,
-   "acc": "0001836969-26-000004",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "GRF",
-   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
-   "insider": "Sims David C",
-   "role": "CFO, CCO, Secretary, Treasurer",
-   "date": "2026-10-16",
-   "shares": 1396.0,
-   "price": 10.16,
-   "value": 14183.36,
-   "acc": "0001401612-26-000005",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "GRF",
-   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
-   "insider": "Sims David C",
-   "role": "CFO, CCO, Secretary, Treasurer",
-   "date": "2026-10-16",
-   "shares": 1981.0,
-   "price": 10.16,
-   "value": 20126.96,
-   "acc": "0001401612-26-000005",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "AYI",
-   "company": "ACUITY INC. (DE)",
-   "insider": "O'Shaughnessy Laura",
-   "role": "Director",
-   "date": "2026-10-16",
-   "shares": 73.0,
-   "price": 302.32,
-   "value": 22069.36,
-   "acc": "0001813477-26-000008",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "FUL",
    "company": "FULLER H B CO",
@@ -4494,6 +4386,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "HEALY JAMES",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 3772.0,
+   "price": 21.0,
+   "value": 79212.0,
+   "acc": "0001104659-26-120789",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "BBT",
    "company": "Beacon Financial Corp",
    "insider": "Callahan Mary Anne",
@@ -4506,6 +4410,42 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-28",
+   "shares": 4430.0,
+   "price": 25.97,
+   "value": 115047.1,
+   "acc": "0001231919-26-001519",
+   "filed": "2026-10-30"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "HEALY JAMES",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 6395.0,
+   "price": 21.0,
+   "value": 134295.0,
+   "acc": "0001104659-26-120789",
+   "filed": "2026-10-30"
+  },
+  {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "HEALY JAMES",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 6933.0,
+   "price": 21.0,
+   "value": 145593.0,
+   "acc": "0001104659-26-120789",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4516,6 +4456,18 @@
    "value": 181704.46,
    "acc": "0001510281-26-000391",
    "filed": "2026-10-29"
+  },
+  {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-28",
+   "shares": 10570.0,
+   "price": 25.23,
+   "value": 266681.1,
+   "acc": "0001231919-26-001519",
+   "filed": "2026-10-30"
   },
   {
    "ticker": "RCT",
@@ -4628,6 +4580,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "RAPP",
+   "company": "Rapport Therapeutics, Inc.",
+   "insider": "HEALY JAMES",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 952380.0,
+   "price": 21.0,
+   "value": 19999980.0,
+   "acc": "0001104659-26-120789",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "BMRC",
    "company": "Bank of Marin Bancorp",
    "insider": "Anderson Nicolas C",
@@ -4685,6 +4649,18 @@
    "price": 169.42,
    "value": 25074.16,
    "acc": "0001513845-26-000145",
+   "filed": "2026-10-30"
+  },
+  {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 1000.0,
+   "price": 26.33,
+   "value": 26330.0,
+   "acc": "0001231919-26-001519",
    "filed": "2026-10-30"
   },
   {
@@ -4772,6 +4748,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 200.0,
+   "price": 26.86,
+   "value": 5372.0,
+   "acc": "0001231919-26-001519",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "BBT",
    "company": "Beacon Financial Corp",
    "insider": "Charnley Nina A",
@@ -4806,6 +4794,18 @@
    "value": 89500.0,
    "acc": "0001591893-26-000006",
    "filed": "2026-10-30"
+  },
+  {
+   "ticker": "LYCA",
+   "company": "Lycia Therapeutics, Inc.",
+   "insider": "Venrock Healthcare Capital Partners III, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 8804.0,
+   "price": 26.27,
+   "value": 231281.08,
+   "acc": "0001231919-26-001519",
+   "filed": "2026-10-30"
   }
  ],
  "clusters": [
@@ -4813,6 +4813,11 @@
    "ticker": "MSM",
    "insiders": 2,
    "total_value": 29034298.9
+  },
+  {
+   "ticker": "RAPP",
+   "insiders": 7,
+   "total_value": 22023904.35
   },
   {
    "ticker": "BPRE",
@@ -4853,11 +4858,6 @@
    "ticker": "WILLOW TREE CAPITAL CORP (CIK 1944831)",
    "insiders": 2,
    "total_value": 1757189.94
-  },
-  {
-   "ticker": "RAPP",
-   "insiders": 6,
-   "total_value": 1664824.35
   },
   {
    "ticker": "DSM",
@@ -4956,7 +4956,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019126",
   "0001999371-26-019128",
   "0001999371-26-019130",
   "0001999371-26-019132",
@@ -5881,6 +5880,7 @@
   "0002024911-26-000004",
   "0002024911-26-000006",
   "0002025268-26-000006",
+  "0002025268-26-000008",
   "0002025272-26-000005",
   "0002025289-26-000005",
   "0002025289-26-000007",
