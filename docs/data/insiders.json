@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-30 21:44 UTC",
+ "updated_utc": "2026-10-30 22:00 UTC",
  "purchases": [
-  {
-   "ticker": "FNGR",
-   "company": "FingerMotion, Inc.",
-   "insider": "Polimeni Christopher Vincent",
-   "role": "CFO",
-   "date": "2026-10-16",
-   "shares": 13500.0,
-   "price": 0.1829,
-   "value": 2469.15,
-   "acc": "0001493152-26-047479",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "PETV",
    "company": "PetVivo Holdings, Inc.",
@@ -4724,6 +4712,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 5975.0,
+   "price": 11.87,
+   "value": 70923.25,
+   "acc": "0001510281-26-000396",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "FFIN",
    "company": "FIRST FINANCIAL BANKSHARES INC",
    "insider": "Denny Michael B.",
@@ -4950,18 +4950,12 @@
    "total_value": 19156.0
   },
   {
-   "ticker": "FNGR",
-   "insiders": 2,
-   "total_value": 5019.15
-  },
-  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 3,
    "total_value": 1205.04
   }
  ],
  "seen": [
-  "0001999371-26-019095",
   "0001999371-26-019096",
   "0001999371-26-019097",
   "0001999371-26-019098",
@@ -7939,6 +7933,7 @@
   "0002156592-26-000002",
   "0002156811-26-000002",
   "0002157254-26-000004",
+  "0002157254-26-000006",
   "0002157325-26-000004",
   "0002157445-26-000002",
   "0002157600-26-000005",
