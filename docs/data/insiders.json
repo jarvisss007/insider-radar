@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-10-30 21:28 UTC",
+ "updated_utc": "2026-10-30 21:44 UTC",
  "purchases": [
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 2000.0,
-   "price": 0.7,
-   "value": 1400.0,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Hansen Kent A",
-   "role": "CFO & EVP",
-   "date": "2026-10-16",
-   "shares": 160.0,
-   "price": 9.74,
-   "value": 1558.4,
-   "acc": "0001072627-26-000057",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "PETV",
-   "company": "PetVivo Holdings, Inc.",
-   "insider": "A.L. Sarroff Fund, LLC",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 3000.0,
-   "price": 0.7,
-   "value": 2100.0,
-   "acc": "0001099910-26-000286",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "FNGR",
    "company": "FingerMotion, Inc.",
@@ -1802,6 +1766,18 @@
    "filed": "2026-10-26"
   },
   {
+   "ticker": "VALE",
+   "company": "Vale S.A.",
+   "insider": "de Souza Funo Elaine Maria",
+   "role": "Accounting Officer",
+   "date": "2026-10-22",
+   "shares": 240.0,
+   "price": 12.55,
+   "value": 3012.0,
+   "acc": "0001292814-26-005078",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
    "insider": "RAN ASSAF",
@@ -3268,6 +3244,18 @@
    "filed": "2026-10-27"
   },
   {
+   "ticker": "VALE",
+   "company": "Vale S.A.",
+   "insider": "de Souza Funo Elaine Maria",
+   "role": "Accounting Officer",
+   "date": "2026-10-26",
+   "shares": 7.0,
+   "price": 11.74,
+   "value": 82.18,
+   "acc": "0001292814-26-005078",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4676,6 +4664,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 500.0,
+   "price": 10.09,
+   "value": 5045.0,
+   "acc": "0001510281-26-000395",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4961,7 +4961,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019094",
   "0001999371-26-019095",
   "0001999371-26-019096",
   "0001999371-26-019097",
@@ -5517,6 +5516,7 @@
   "0001999371-26-024022",
   "0001999371-26-024028",
   "0001999371-26-024032",
+  "0001999371-26-024033",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
