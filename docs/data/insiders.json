@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-10-30 19:05 UTC",
+ "updated_utc": "2026-10-30 19:36 UTC",
  "purchases": [
-  {
-   "ticker": "ISBA",
-   "company": "ISABELLA BANK CORP",
-   "insider": "Bourland Jill",
-   "role": "Director",
-   "date": "2026-10-16",
-   "shares": 8.1722,
-   "price": 36.71,
-   "value": 300.0,
-   "acc": "0000842517-26-000229",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "PETV",
    "company": "PetVivo Holdings, Inc.",
@@ -4386,6 +4374,18 @@
    "filed": "2026-10-29"
   },
   {
+   "ticker": "PEBK",
+   "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+   "insider": "HOWARD DOUGLAS S",
+   "role": "Director",
+   "date": "2026-10-28",
+   "shares": 500.0,
+   "price": 43.755,
+   "value": 21877.5,
+   "acc": "0001654954-26-009303",
+   "filed": "2026-10-30"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO EQUITY & INCOME FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4940,6 +4940,11 @@
    "total_value": 38218.26
   },
   {
+   "ticker": "PEBK",
+   "insiders": 2,
+   "total_value": 30334.5
+  },
+  {
    "ticker": "CBKM",
    "insiders": 2,
    "total_value": 19156.0
@@ -4956,8 +4961,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019039",
-  "0001999371-26-019040",
   "0001999371-26-019041",
   "0001999371-26-019042",
   "0001999371-26-019043",
@@ -5520,6 +5523,8 @@
   "0001999371-26-023986",
   "0001999371-26-023987",
   "0001999371-26-023989",
+  "0001999371-26-023996",
+  "0001999371-26-023999",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
