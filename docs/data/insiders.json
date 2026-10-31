@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-31 06:53 UTC",
+ "updated_utc": "2026-10-31 07:08 UTC",
  "purchases": [
   {
    "ticker": "API",
@@ -4822,12 +4822,7 @@
   {
    "ticker": "BPRE",
    "insiders": 2,
-   "total_value": 8986223.86
-  },
-  {
-   "ticker": "APLD",
-   "insiders": 2,
-   "total_value": 6664686.12
+   "total_value": 7725809.45
   },
   {
    "ticker": "RENT",
@@ -4845,11 +4840,6 @@
    "total_value": 3200889.0
   },
   {
-   "ticker": "LEO",
-   "insiders": 2,
-   "total_value": 2661148.28
-  },
-  {
    "ticker": "NPB",
    "insiders": 4,
    "total_value": 1819348.97
@@ -4860,14 +4850,19 @@
    "total_value": 1757189.94
   },
   {
-   "ticker": "DSM",
-   "insiders": 2,
-   "total_value": 1483792.35
-  },
-  {
    "ticker": "TTMI",
    "insiders": 2,
    "total_value": 1342810.5
+  },
+  {
+   "ticker": "LEO",
+   "insiders": 2,
+   "total_value": 835955.13
+  },
+  {
+   "ticker": "DSM",
+   "insiders": 2,
+   "total_value": 752725.29
   },
   {
    "ticker": "THRM",
