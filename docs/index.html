@@ -39,6 +39,9 @@
   .note{margin-top:20px;padding:12px 16px;border-radius:10px;background:rgba(240,185,11,.06);
     border:1px solid rgba(240,185,11,.25);color:var(--dim);font-size:12px;line-height:1.6}
   .note b{color:var(--accent)}
+  .standing{margin:0 0 16px;padding:12px 16px;border-radius:10px;background:rgba(246,70,93,.07);
+    border:1px solid rgba(246,70,93,.4);color:var(--txt);font-size:12.5px;line-height:1.6}
+  .standing b{color:var(--down)}
   input{background:var(--panel);border:1px solid var(--line);color:var(--txt);border-radius:8px;
     padding:7px 12px;font:inherit;width:220px}
   .bar{display:flex;gap:12px;align-items:center;margin:14px 0 6px;flex-wrap:wrap}
@@ -51,6 +54,13 @@
 </header>
 
 <div class="wrap">
+  <div class="standing">
+    <b>Standing verdict (this lab's own audit, as of 2026-10-31): no edge shown.</b><br>
+    669 events, +5d return vs SPY: median &minus;0.010%; mean +0.78%, 95% CI &minus;0.36% to +1.90% (includes zero).<br>
+    212 scored cluster calls: 36% hit rate, mean &minus;4.26% vs IWM &minus;4.0% over the same windows.<br>
+    Random-twin test (night of 2026-10-30): no difference between the desk's picks and random twins at the registered bar (retrospective reading).<br>
+    The published academic finding on insider cluster buys was not replicated here. Next scheduled look: INS-033, 2026-12-31. No claim of edge.
+  </div>
   <div class="stats" id="stats"></div>
 
   <h2>Buy Clusters — ≥2 insiders, same stock, last 14 days</h2>
@@ -90,7 +100,8 @@
     <b>open-market purchases</b> (transaction code P) — the rare, deliberate act of an insider
     spending their own cash — and ignores sales, which are usually diversification or
     compensation noise. Clusters (several insiders buying the same stock at once) are the
-    signal with the strongest academic support.
+    variant the academic literature reports works. That published finding was not replicated
+    here (see the verdict at the top).
     <br><br>
     <b>Honest limits:</b> the feed updates when the collector pushes (timestamp top-right),
     not tick-by-tick; filings themselves lag trades by up to 2 days; and insider buying is a

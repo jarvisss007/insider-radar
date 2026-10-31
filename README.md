@@ -1,8 +1,15 @@
 # Insider Radar
 
+> **Standing verdict (this lab's own audit, as of 2026-10-31): no edge shown.**
+> - 669 events, +5d return vs SPY: median −0.010%; mean +0.78%, 95% CI −0.36% to +1.90% (includes zero).
+> - 212 scored cluster calls: 36% hit rate, mean −4.26% vs IWM −4.0% over the same windows.
+> - Random-twin test (night of 2026-10-30): no difference between the desk's picks and random twins at the registered bar (retrospective reading).
+> - The published academic finding on insider cluster buys was not replicated here. Next scheduled look: INS-033, 2026-12-31. No claim of edge.
+
 Live feed of **US corporate insider open-market purchases** (SEC Form 4, transaction code P),
 with cluster detection — several insiders buying the same stock within 14 days, the variant of
-the signal with the strongest academic support.
+the signal that the academic literature reports works. That published finding was not
+replicated here (see the verdict above).
 
 **Live viewer:** https://jarvisss007.github.io/insider-radar/
 
