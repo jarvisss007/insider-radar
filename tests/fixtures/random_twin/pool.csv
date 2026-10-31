@@ -1,0 +1,22 @@
+symbol,name,description,exchange,type,typespecs,is_primary,close,market_cap_basic,float_shares_outstanding,total_shares_outstanding,beta_5_year,average_volume_10d_calc,sector,pulls
+NASDAQ:DESK,DESK,Desk Bank,NASDAQ,stock,common,True,10,150000000,1e7,1.2e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK01,BK01,Bank 01,NASDAQ,stock,common,True,10,100000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK02,BK02,Bank 02,NASDAQ,stock,common,True,10,110000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK03,BK03,Bank 03,NASDAQ,stock,common,True,10,120000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK04,BK04,Bank 04,NASDAQ,stock,common,True,10,130000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK05,BK05,Bank 05,NASDAQ,stock,common,True,10,140000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK06,BK06,Bank 06,NASDAQ,stock,common,True,10,160000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK07,BK07,Bank 07,NASDAQ,stock,common,True,10,170000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK08,BK08,Bank 08,NASDAQ,stock,common,True,10,180000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK09,BK09,Bank 09,NASDAQ,stock,common,True,10,190000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BK10,BK10,Bank 10,NASDAQ,stock,common,True,10,200000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:BUYR,BUYR,Bank with an insider buy,NASDAQ,stock,common,True,10,210000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NASDAQ:DEAD,DEAD,Bank that stopped trading,NASDAQ,stock,common,True,10,220000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NYSE:BIO1,BIO1,Biotech 1,NYSE,stock,common,True,10,250000000,1e7,1e7,1,1e5,Health Technology,new1_wide;
+NYSE:BIO2,BIO2,Biotech 2,NYSE,stock,common,True,10,260000000,1e7,1e7,1,1e5,Health Technology,new1_wide;
+NYSE:LONE,LONE,Lone small utility,NYSE,stock,common,True,10,900000000,1e7,1e7,1,1e5,Utilities,gg_wide;
+NYSE:SM01,SM01,Small 01,NYSE,stock,common,True,10,500000000,1e7,1e7,1,1e5,Finance,gg_wide;
+NYSE:SECD,SECD,Secondary listing,NYSE,stock,common,False,10,150000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NYSE:ADR1,ADR1,An ADR,NYSE,dr,,True,10,150000000,1e7,1e7,1,1e5,Finance,new1_wide;
+NYSE:NOCP,NOCP,No market cap,NYSE,stock,common,True,10,,1e7,1e7,1,1e5,Finance,new1_wide;
+NYSE:BRK.B,BRK.B,Class B,NYSE,stock,common,True,10,1e12,1e9,1e9,1,1e5,Finance,gg_wide;

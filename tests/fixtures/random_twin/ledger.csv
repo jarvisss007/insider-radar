@@ -1,0 +1,10 @@
+date,ticker,call,thesis,price_at_call,check_date,price_at_check,outcome,stale_quote,tags,void_reason
+2026-08-03,DESK,long,[insider] 2 insiders bought $0.50M within 14d,10.0,2026-09-02,11.0,right,no,fund,
+2026-08-04,QQQQ,long,"[insider] 2 insiders bought $0.50M within 14d [QUEUED at 2026-08-04T08:35 PT (INS-020/REG-PP-002): fills at the first official open after registration] [FILLED 2026-08-05 official open 5.00 (REG-PP-002 queued-fill, INS-020)]",5.0,2026-09-03,4.0,wrong,no,fund,
+2026-08-05,RRRR,long,"[insider] 3 insiders bought $1.2M within 14d [RESTATED 2026-09-27 (INS-020, option a): price_at_call 2.10 was not a settled call-day price - owe the 2026-08-06 official open 2.00. Original 2.10 kept here.]",2.0,2026-09-04,2.5,right,no,fund,
+2026-08-06,GONE,long,[insider] 2 insiders bought $0.30M within 14d,3.0,2026-09-08,,wrong,no,fund,
+2026-08-06,NOPX,long,[insider] 2 insiders bought $0.30M within 14d,,2026-09-08,,void,,fund,unpriceable
+2026-08-07,VOID,long,[insider] 2 insiders bought $0.30M within 14d,4.0,2026-09-08,4.4,void,no,fund,stale
+2026-08-07,OPEN,long,[insider] 2 insiders bought $0.30M within 14d,4.0,2026-09-08,,,no,fund,
+2026-10-30,LATE,long,[insider] 2 insiders bought $0.30M within 14d,4.0,2026-11-30,4.2,right,no,fund,
+2026-11-02,FWD1,long,[insider] 2 insiders bought $0.30M within 14d,4.0,2026-12-02,4.2,right,no,fund,
