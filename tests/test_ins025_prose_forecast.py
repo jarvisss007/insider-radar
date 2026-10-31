@@ -394,12 +394,18 @@ def test_10b_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
     prose = {(lab, i) for lab in ("insider-radar", "india-radar") for i, r in enumerate(live[lab])      # INS-025 (insider) and FCST-010 (india-radar), by ROW
              if rx["P"].search(r["question"]) and not any(rx[n].search(r["question"]) for n in "ACRW")}
     norm = lambda r: dict(r, notes=re.sub(r"RESOLVED \d{4}-\d{2}-\d{2}", "RESOLVED D", r["notes"]))
+    # IND-008 (2026-10-31): india-radar's A-form rows on NIFTY / BANKNIFTY / INDIAVIX now read the NSE close (^NSEI / ^NSEBANK / ^INDIAVIX, the NSE calendar):
+    # a different change, with its own suite (bin/tests/test_ind008_nse_index_a_form.py) - set aside ROW by row
+    a_idx = {i for i, r in enumerate(live["india-radar"]) for q_ in [r["question"].replace("radar.json ", "")] for m_ in [rx["A"].search(q_)]
+             if m_ and not rx["W"].search(q_) and (m_.group(1) or r["instrument"]).strip().upper() in ("NIFTY", "BANKNIFTY", "INDIAVIX")}
     differ, scored_old, scored_new, n_rows = set(), 0, 0, 0
     for lab in labs:
         ro = list(csv.DictReader(open(os.path.join(ho, lab, "agent", "forecasts.csv"))))
         rn = list(csv.DictReader(open(os.path.join(hn, lab, "agent", "forecasts.csv"))))
         assert len(ro) == len(rn)
         for i, (a, b) in enumerate(zip(ro, rn)):
+            if lab == "india-radar" and i in a_idx:
+                continue
             n_rows += 1
             scored_old += bool(a["outcome"])
             scored_new += bool(b["outcome"])
@@ -419,6 +425,11 @@ def test_10b_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
         nse_rx += [re.compile(rf"^  {re.escape(ins_)} p={re.escape(r_['p'])} → (?:YES|no) \(close [0-9.]+ vs "),
                    re.compile(rf"^  SKIP \(unparsed\): {re.escape(ins_)} — {re.escape(q_[:70])}"),
                    re.compile(rf"^  SKIP \(no close\): {re.escape(ins_)} — {re.escape(ins_)}\.NS (?:{ds_})(?:, [0-9]{{4}}-[0-9]{{2}}-[0-9]{{2}})*: ")]
+    for i in a_idx:                                                                                   # IND-008: the A rows' own lines, row by row
+        r_ = live["india-radar"][i]
+        ins_, d_ = r_["instrument"], rx["A"].search(r_["question"].replace("radar.json ", "")).group(4)
+        nse_rx += [re.compile(rf"^  {re.escape(ins_)} p={re.escape(r_['p'])} → (?:YES|no) \(close [0-9.]+\)$"),
+                   re.compile(rf"^  SKIP \(no close\): {re.escape(ins_)} — {re.escape(ins_)}\.NS {d_}: ")]
     own = lambda l: any(x.match(l) for x in nse_rx)
     body = lambda s: [l for l in re.sub(r"resolve_forecasts \d{4}-\d{2}-\d{2}:", "R:", s).splitlines()
                       if not l.startswith("R:") and "— Absolute" not in l and "|move|" not in l and not own(l)]

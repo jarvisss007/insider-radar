@@ -428,12 +428,18 @@ def test_08_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
     # FCST-010 (2026-10-02): india-radar's prose rows are handled by the NSE path in the new resolver and were "unparsed" in the old one.
     # They are a different change (its own suite: ~/india-radar/tests/test_fcst010_nse_prose_forecast.py); this test is about the carry-forward guard.
     nse_prose = {i for i, r in enumerate(live["india-radar"]) if rx["P"].search(r["question"]) and not any(rx[n].search(r["question"]) for n in "ACRW")}
+    # IND-008 (2026-10-31): india-radar's A-form rows on NIFTY / BANKNIFTY / INDIAVIX now read the NSE close (^NSEI / ^NSEBANK / ^INDIAVIX, the NSE calendar):
+    # a different change again, with its own suite (bin/tests/test_ind008_nse_index_a_form.py) - set aside ROW by row, like the prose rows
+    a_idx = {i for i, r in enumerate(live["india-radar"]) for q_ in [r["question"].replace("radar.json ", "")] for m_ in [rx["A"].search(q_)]
+             if m_ and not rx["W"].search(q_) and (m_.group(1) or r["instrument"]).strip().upper() in ("NIFTY", "BANKNIFTY", "INDIAVIX")}
     differ, n_rows, scored_old, scored_new, newly = [], 0, 0, 0, 0
     for lab in labs:
         ro = list(csv.DictReader(open(os.path.join(ho, lab, "agent", "forecasts.csv"))))
         rn = list(csv.DictReader(open(os.path.join(hn, lab, "agent", "forecasts.csv"))))
         assert len(ro) == len(rn) == len(live[lab])
         for i, (a, b, orig) in enumerate(zip(ro, rn, live[lab])):
+            if lab == "india-radar" and i in a_idx:
+                continue
             n_rows += 1
             scored_old += bool(a["outcome"])
             scored_new += bool(b["outcome"])
@@ -460,6 +466,11 @@ def test_08_full_reopen_replay_of_the_real_forecast_ledgers(tmp_path):
         nse_rx += [re.compile(rf"^  {re.escape(ins_)} p={re.escape(r_['p'])} → (?:YES|no) \(close [0-9.]+ vs "),
                    re.compile(rf"^  SKIP \(unparsed\): {re.escape(ins_)} — {re.escape(q_[:70])}"),
                    re.compile(rf"^  SKIP \(no close\): {re.escape(ins_)} — {re.escape(ins_)}\.NS (?:{ds_})(?:, [0-9]{{4}}-[0-9]{{2}}-[0-9]{{2}})*: ")]
+    for i in a_idx:                                                                                   # IND-008: the A rows' own lines, row by row
+        r_ = live["india-radar"][i]
+        ins_, d_ = r_["instrument"], rx["A"].search(r_["question"].replace("radar.json ", "")).group(4)
+        nse_rx += [re.compile(rf"^  {re.escape(ins_)} p={re.escape(r_['p'])} → (?:YES|no) \(close [0-9.]+\)$"),
+                   re.compile(rf"^  SKIP \(no close\): {re.escape(ins_)} — {re.escape(ins_)}\.NS {d_}: ")]
     own = lambda l: any(x.match(l) for x in nse_rx)
     names = {ins for _l, ins, _a, _b, _o in differ}
     body = lambda s: [l for l in norm_out(s).splitlines() if not l.startswith("R:") and not any(re.search(rf"^  (SKIP \(no close\): )?{re.escape(n)}\b", l) for n in names)
