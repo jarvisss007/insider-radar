@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-02 23:26 UTC",
+ "updated_utc": "2026-11-02 23:42 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-19",
-   "shares": 64662.0,
-   "price": 12.2707,
-   "value": 793448.0,
-   "acc": "0001398344-26-018550",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "CTY",
    "company": "CITY THERAPEUTICS, INC.",
@@ -4784,6 +4772,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "RSI",
+   "company": "Rush Street Interactive, Inc.",
+   "insider": "Winter Thomas",
+   "role": "Director",
+   "date": "2026-11-02",
+   "shares": 10000.0,
+   "price": 11.831,
+   "value": 118310.0,
+   "acc": "0001836156-26-000008",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "FCPT",
    "company": "Four Corners Property Trust, Inc.",
    "insider": "Lenehan William H",
@@ -4827,7 +4827,7 @@
   {
    "ticker": "BPRE",
    "insiders": 2,
-   "total_value": 7725809.45
+   "total_value": 6932361.45
   },
   {
    "ticker": "RENT",
