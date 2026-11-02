@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-02 22:38 UTC",
+ "updated_utc": "2026-11-02 22:54 UTC",
  "purchases": [
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 15046.0,
-   "price": 10.34,
-   "value": 155575.64,
-   "acc": "0001510281-26-000361",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 17079.0,
-   "price": 11.47,
-   "value": 195896.13,
-   "acc": "0001510281-26-000360",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "GLENBROOK CAPITAL MANAGEMENT",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 376552.0,
-   "price": 0.7036,
-   "value": 264941.99,
-   "acc": "0000902664-26-004215",
-   "filed": "2026-10-19"
-  },
-  {
-   "ticker": "MSD INVESTMENT CORP. (CIK 1849894)",
-   "company": "MSD Investment Corp.",
-   "insider": "Williams Brian S",
-   "role": "See Remarks",
-   "date": "2026-10-19",
-   "shares": 13129.501,
-   "price": 23.68,
-   "value": 310906.58,
-   "acc": "0001193125-26-427983",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
@@ -4412,6 +4364,30 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "ROL",
+   "company": "ROLLINS INC",
+   "insider": "R. Randall Rollins Voting Trust U/A dated August 25, 1994",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 1444402.0,
+   "price": 34.5864,
+   "value": 49956665.33,
+   "acc": "0001104659-26-121503",
+   "filed": "2026-11-02"
+  },
+  {
+   "ticker": "ROL",
+   "company": "ROLLINS INC",
+   "insider": "LOR INC",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 1444402.0,
+   "price": 34.5864,
+   "value": 49956665.33,
+   "acc": "0001104659-26-121502",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "Bradley Melinda Hodges",
@@ -4664,6 +4640,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 11565.0,
+   "price": 11.77,
+   "value": 136120.05,
+   "acc": "0001510281-26-000401",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "OCFC",
    "company": "OCEANFIRST FINANCIAL CORP",
    "insider": "Katsoulis Nicos",
@@ -4748,6 +4736,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "NARA",
+   "company": "Narragansett Bancorp, Inc.",
+   "insider": "LeComte Brian",
+   "role": "Director",
+   "date": "2026-11-02",
+   "shares": 100.0,
+   "price": 10.66,
+   "value": 1066.0,
+   "acc": "0001437749-26-034481",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "Bradley Melinda Hodges",
@@ -4809,6 +4809,11 @@
   }
  ],
  "clusters": [
+  {
+   "ticker": "ROL",
+   "insiders": 2,
+   "total_value": 99913330.66
+  },
   {
    "ticker": "MSM",
    "insiders": 2,
@@ -4971,8 +4976,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019414",
-  "0001999371-26-019415",
   "0001999371-26-019418",
   "0001999371-26-019419",
   "0001999371-26-019420",
@@ -5775,6 +5778,7 @@
   "0002016900-26-000042",
   "0002017181-26-000005",
   "0002017190-26-000003",
+  "0002017287-26-000006",
   "0002017581-26-000003",
   "0002017618-26-000002",
   "0002017620-26-000002",
@@ -5943,6 +5947,7 @@
   "0002031182-26-000005",
   "0002031256-26-000002",
   "0002031256-26-000004",
+  "0002031312-26-000002",
   "0002031596-26-000004",
   "0002031596-26-000006",
   "0002031695-26-000011",
