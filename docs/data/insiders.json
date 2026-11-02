@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-02 22:54 UTC",
+ "updated_utc": "2026-11-02 23:10 UTC",
  "purchases": [
-  {
-   "ticker": "JOF",
-   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 30000.0,
-   "price": 11.94,
-   "value": 358200.0,
-   "acc": "0001510281-26-000363",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 69080.0,
-   "price": 5.29,
-   "value": 365433.2,
-   "acc": "0001510281-26-000362",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "TENX",
    "company": "TENAX THERAPEUTICS, INC.",
@@ -4256,6 +4232,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "JOF",
+   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 5083.0,
+   "price": 11.31,
+   "value": 57488.73,
+   "acc": "0001510281-26-000402",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "ECF",
    "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
    "insider": "Saba Capital Management, L.P.",
@@ -4700,6 +4688,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "JOF",
+   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 58686.0,
+   "price": 10.98,
+   "value": 644372.28,
+   "acc": "0001510281-26-000402",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "LSTR",
    "company": "LANDSTAR SYSTEM INC",
    "insider": "Lonegro Frank A",
@@ -4860,11 +4860,6 @@
    "total_value": 1342810.5
   },
   {
-   "ticker": "DSM",
-   "insiders": 2,
-   "total_value": 752725.29
-  },
-  {
    "ticker": "LEO",
    "insiders": 2,
    "total_value": 749510.31
@@ -4888,6 +4883,11 @@
    "ticker": "HBAN",
    "insiders": 2,
    "total_value": 453554.5
+  },
+  {
+   "ticker": "DSM",
+   "insiders": 2,
+   "total_value": 387292.09
   },
   {
    "ticker": "OCFC",
