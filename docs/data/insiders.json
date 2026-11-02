@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-02 11:31 UTC",
+ "updated_utc": "2026-11-02 11:47 UTC",
  "purchases": [
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 36347.0,
-   "price": 1.8917,
-   "value": 68757.62,
-   "acc": "0001493152-26-047473",
-   "filed": "2026-10-16"
-  },
-  {
-   "ticker": "GRF",
-   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
-   "insider": "Sims David C",
-   "role": "CFO, CCO, Secretary, Treasurer",
-   "date": "2026-10-16",
-   "shares": 7410.0,
-   "price": 10.03,
-   "value": 74322.3,
-   "acc": "0001401612-26-000005",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "SNES",
    "company": "SenesTech, Inc.",
@@ -4592,6 +4568,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "STKH",
+   "company": "Steakholder Foods Ltd.",
+   "insider": "Kaufman Arik",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-29",
+   "shares": 36826.0,
+   "price": 0.3847,
+   "value": 14166.96,
+   "acc": "0001213900-26-114637",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "OTLC",
    "company": "Oncotelic Therapeutics, Inc.",
    "insider": "Trieu Vuong",
@@ -4770,6 +4758,18 @@
    "value": 20000.0,
    "acc": "0001437749-26-034087",
    "filed": "2026-10-30"
+  },
+  {
+   "ticker": "STKH",
+   "company": "Steakholder Foods Ltd.",
+   "insider": "Kaufman Arik",
+   "role": "Chief Executive Officer",
+   "date": "2026-10-30",
+   "shares": 60000.0,
+   "price": 0.4,
+   "value": 24000.0,
+   "acc": "0001213900-26-114637",
+   "filed": "2026-11-02"
   },
   {
    "ticker": "API",
