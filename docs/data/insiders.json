@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-02 16:32 UTC",
+ "updated_utc": "2026-11-02 17:04 UTC",
  "purchases": [
-  {
-   "ticker": "APLD",
-   "company": "Applied Digital Corp.",
-   "insider": "Cummins Wes",
-   "role": "CEO; Chairman",
-   "date": "2026-10-16",
-   "shares": 55803.0,
-   "price": 18.04,
-   "value": 1006686.12,
-   "acc": "0001391935-26-000009",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -4784,6 +4772,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "OCFC",
+   "company": "OCEANFIRST FINANCIAL CORP",
+   "insider": "Katsoulis Nicos",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 10000.0,
+   "price": 17.8277,
+   "value": 178277.0,
+   "acc": "0001408329-26-000004",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
    "insider": "Venrock Healthcare Capital Partners III, L.P.",
@@ -4883,6 +4883,11 @@
    "ticker": "HBAN",
    "insiders": 2,
    "total_value": 453554.5
+  },
+  {
+   "ticker": "OCFC",
+   "insiders": 2,
+   "total_value": 267777.0
   },
   {
    "ticker": "DX",
