@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-02 14:55 UTC",
+ "updated_utc": "2026-11-02 15:27 UTC",
  "purchases": [
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-16",
-   "shares": 72771.0,
-   "price": 5.63,
-   "value": 409700.73,
-   "acc": "0001510281-26-000365",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
@@ -4782,6 +4770,18 @@
    "value": 89500.0,
    "acc": "0001591893-26-000006",
    "filed": "2026-10-30"
+  },
+  {
+   "ticker": "BLX",
+   "company": "BLADEX, INC.",
+   "insider": "Diaz Adriana Lizzeth",
+   "role": "Chief Audit Officer",
+   "date": "2026-10-30",
+   "shares": 1792.0,
+   "price": 52.39,
+   "value": 93882.88,
+   "acc": "0000890541-26-000014",
+   "filed": "2026-11-02"
   },
   {
    "ticker": "LYCA",
