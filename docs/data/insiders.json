@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-02 22:22 UTC",
+ "updated_utc": "2026-11-02 22:38 UTC",
  "purchases": [
-  {
-   "ticker": "NXG",
-   "company": "NXG NextGen Infrastructure Income Fund",
-   "insider": "Sunderland Todd",
-   "role": "",
-   "date": "2026-10-19",
-   "shares": 1000.0,
-   "price": 46.5,
-   "value": 46500.0,
-   "acc": "0001957908-26-000003",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-19",
-   "shares": 12192.0,
-   "price": 4.2681,
-   "value": 52036.68,
-   "acc": "0002109337-26-000012",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 15246.0,
-   "price": 5.67,
-   "value": 86444.82,
-   "acc": "0001510281-26-000365",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "XGN",
-   "company": "EXAGEN INC.",
-   "insider": "Chernett Jorey",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 14000.0,
-   "price": 7.46,
-   "value": 104440.0,
-   "acc": "0001193805-26-001382",
-   "filed": "2026-10-20"
-  },
   {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
@@ -4364,6 +4316,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO EQUITY & INCOME FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 4226.0,
+   "price": 20.13,
+   "value": 85069.38,
+   "acc": "0001510281-26-000400",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "FFIN",
    "company": "FIRST FINANCIAL BANKSHARES INC",
    "insider": "Denny Michael B.",
@@ -4376,6 +4340,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "JBLU",
+   "company": "JETBLUE AIRWAYS CORP",
+   "insider": "BONEPARTH PETER",
+   "role": "Director",
+   "date": "2026-10-29",
+   "shares": 100000.0,
+   "price": 3.0,
+   "value": 300000.0,
+   "acc": "0001078543-26-000003",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "SAMG",
    "company": "Silvercrest Asset Management Group Inc.",
    "insider": "Equinox Partners Investment Management LLC",
@@ -4386,6 +4362,18 @@
    "value": 339614.55,
    "acc": "0001013594-26-001116",
    "filed": "2026-10-29"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO EQUITY & INCOME FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 19675.0,
+   "price": 20.1,
+   "value": 395467.5,
+   "acc": "0001510281-26-000400",
+   "filed": "2026-11-02"
   },
   {
    "ticker": "XYL",
@@ -4700,6 +4688,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO EQUITY & INCOME FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 15143.0,
+   "price": 20.25,
+   "value": 306645.75,
+   "acc": "0001510281-26-000400",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "ATEC",
    "company": "Alphatec Holdings, Inc.",
    "insider": "Demski David M",
@@ -4855,14 +4855,14 @@
    "total_value": 1342810.5
   },
   {
-   "ticker": "LEO",
-   "insiders": 2,
-   "total_value": 835955.13
-  },
-  {
    "ticker": "DSM",
    "insiders": 2,
    "total_value": 752725.29
+  },
+  {
+   "ticker": "LEO",
+   "insiders": 2,
+   "total_value": 749510.31
   },
   {
    "ticker": "THRM",
@@ -4871,8 +4871,8 @@
   },
   {
    "ticker": "NXG",
-   "insiders": 3,
-   "total_value": 525575.0
+   "insiders": 2,
+   "total_value": 479075.0
   },
   {
    "ticker": "STC",
@@ -4971,7 +4971,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019413",
   "0001999371-26-019414",
   "0001999371-26-019415",
   "0001999371-26-019418",
@@ -5482,6 +5481,7 @@
   "0001999371-26-024102",
   "0001999371-26-024123",
   "0001999371-26-024125",
+  "0001999371-26-024169",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
