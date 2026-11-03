@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-03 13:52 UTC",
+ "updated_utc": "2026-11-03 14:08 UTC",
  "purchases": [
-  {
-   "ticker": "VKI",
-   "company": "Invesco Advantage Municipal Income Trust II",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 105.0,
-   "price": 8.03,
-   "value": 843.15,
-   "acc": "0000070858-26-000500",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 149.0,
-   "price": 5.6689,
-   "value": 844.67,
-   "acc": "0000070858-26-000496",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "NBH",
-   "company": "NEUBERGER MUNICIPAL FUND INC.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 92.0,
-   "price": 9.1899,
-   "value": 845.47,
-   "acc": "0000070858-26-000497",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 161.0,
-   "price": 5.2896,
-   "value": 851.63,
-   "acc": "0000070858-26-000495",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "YORW",
    "company": "YORK WATER CO",
@@ -4352,6 +4304,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "TRTX",
+   "company": "TPG RE Finance Trust, Inc.",
+   "insider": "Gillmore Michael",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 2000.0,
+   "price": 6.43,
+   "value": 12860.0,
+   "acc": "0001193125-26-444481",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "PUMP",
    "company": "ProPetro Holding Corp.",
    "insider": "Weatherl Caleb Lyle",
@@ -4398,6 +4362,18 @@
    "value": 24000.0,
    "acc": "0001213900-26-114637",
    "filed": "2026-11-02"
+  },
+  {
+   "ticker": "TRTX",
+   "company": "TPG RE Finance Trust, Inc.",
+   "insider": "Smith Michael Bradley",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 5000.0,
+   "price": 6.52,
+   "value": 32600.0,
+   "acc": "0001193125-26-444482",
+   "filed": "2026-11-03"
   },
   {
    "ticker": "SEVN",
@@ -4544,6 +4520,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "TRTX",
+   "company": "TPG RE Finance Trust, Inc.",
+   "insider": "SILVERSTEIN WENDY",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 38900.0,
+   "price": 6.51,
+   "value": 253239.0,
+   "acc": "0001193125-26-444483",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO EQUITY & INCOME FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4638,6 +4626,18 @@
    "value": 1066.0,
    "acc": "0001437749-26-034481",
    "filed": "2026-11-02"
+  },
+  {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-02",
+   "shares": 1300.0,
+   "price": 0.9307,
+   "value": 1209.91,
+   "acc": "0001493152-26-049721",
+   "filed": "2026-11-03"
   },
   {
    "ticker": "JCTC",
@@ -4860,11 +4860,6 @@
    "total_value": 1342810.5
   },
   {
-   "ticker": "LEO",
-   "insiders": 2,
-   "total_value": 749315.66
-  },
-  {
    "ticker": "THRM",
    "insiders": 2,
    "total_value": 662600.0
@@ -4885,9 +4880,9 @@
    "total_value": 453554.5
   },
   {
-   "ticker": "DSM",
-   "insiders": 2,
-   "total_value": 387084.8
+   "ticker": "TRTX",
+   "insiders": 3,
+   "total_value": 298699.0
   },
   {
    "ticker": "OCFC",
