@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-03 01:17 UTC",
+ "updated_utc": "2026-11-03 01:49 UTC",
  "purchases": [
-  {
-   "ticker": "CTY",
-   "company": "CITY THERAPEUTICS, INC.",
-   "insider": "NELSEN ROBERT",
-   "role": "Director",
-   "date": "2026-10-19",
-   "shares": 170000.0,
-   "price": 18.0,
-   "value": 3060000.0,
-   "acc": "0001104659-26-116965",
-   "filed": "2026-10-19"
-  },
   {
    "ticker": "CTY",
    "company": "CITY THERAPEUTICS, INC.",
@@ -4328,6 +4316,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "HAMILTON LANE VENTURE CAPITAL & GROWTH FUND (CIK 2047692)",
+   "company": "Hamilton Lane Venture Capital & Growth Fund",
+   "insider": "HAMILTON LANE ADVISORS LLC",
+   "role": "10% owner",
+   "date": "2026-10-29",
+   "shares": 1707325.402,
+   "price": 20.5,
+   "value": 35000170.74,
+   "acc": "0001213900-26-115107",
+   "filed": "2026-11-02"
+  },
+  {
    "ticker": "ROL",
    "company": "ROLLINS INC",
    "insider": "R. Randall Rollins Voting Trust U/A dated August 25, 1994",
@@ -4833,11 +4833,6 @@
    "ticker": "RENT",
    "insiders": 3,
    "total_value": 6120515.95
-  },
-  {
-   "ticker": "CTY",
-   "insiders": 2,
-   "total_value": 6120000.0
   },
   {
    "ticker": "ACN",
