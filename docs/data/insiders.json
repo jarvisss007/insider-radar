@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-03 23:10 UTC",
+ "updated_utc": "2026-11-03 23:26 UTC",
  "purchases": [
-  {
-   "ticker": "DAIO",
-   "company": "DATA I/O CORP",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 242934.0,
-   "price": 2.68,
-   "value": 651063.12,
-   "acc": "0001325533-26-000012",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "FBK",
-   "company": "FB Financial Corp",
-   "insider": "INGRAM ORRIN H II",
-   "role": "Director",
-   "date": "2026-10-20",
-   "shares": 13490.0,
-   "price": 53.11,
-   "value": 716453.9,
-   "acc": "0001191473-26-000008",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "FBK",
-   "company": "FB Financial Corp",
-   "insider": "INGRAM ORRIN H II",
-   "role": "Director",
-   "date": "2026-10-20",
-   "shares": 15591.0,
-   "price": 52.68,
-   "value": 821333.88,
-   "acc": "0001191473-26-000008",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 87623.0,
-   "price": 10.35,
-   "value": 906898.05,
-   "acc": "0001510281-26-000367",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-20",
-   "shares": 92029.0,
-   "price": 12.4304,
-   "value": 1143957.28,
-   "acc": "0001398344-26-018550",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "CRBG",
    "company": "Corebridge Financial, Inc.",
@@ -4388,6 +4328,30 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "BBTX",
+   "company": "Bambusa Therapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 189909.0,
+   "price": 14.23,
+   "value": 2702405.07,
+   "acc": "0001231919-26-001533",
+   "filed": "2026-11-03"
+  },
+  {
+   "ticker": "BBTX",
+   "company": "Bambusa Therapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 263911.0,
+   "price": 14.92,
+   "value": 3937552.12,
+   "acc": "0001231919-26-001533",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "PLBY",
    "company": "Playboy, Inc.",
    "insider": "Docler Holding S.a r.l.",
@@ -4553,6 +4517,18 @@
    "price": 22.84,
    "value": 10506.4,
    "acc": "0002140162-26-000008",
+   "filed": "2026-11-03"
+  },
+  {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 1201.0,
+   "price": 10.15,
+   "value": 12190.15,
+   "acc": "0001510281-26-000407",
    "filed": "2026-11-03"
   },
   {
@@ -4748,6 +4724,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "BBTX",
+   "company": "Bambusa Therapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-11-02",
+   "shares": 164891.0,
+   "price": 16.0,
+   "value": 2638256.0,
+   "acc": "0001231919-26-001533",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "ASPE",
    "company": "Aspen Neuroscience, Inc.",
    "insider": "ARCH Venture Fund X, L.P.",
@@ -4770,6 +4758,18 @@
    "value": 18000000.0,
    "acc": "0001193125-26-444141",
    "filed": "2026-11-02"
+  },
+  {
+   "ticker": "BBTX",
+   "company": "Bambusa Therapeutics, Inc.",
+   "insider": "RA CAPITAL MANAGEMENT, L.P.",
+   "role": "Director",
+   "date": "2026-11-02",
+   "shares": 2335109.0,
+   "price": 16.0,
+   "value": 37361744.0,
+   "acc": "0001231919-26-001533",
+   "filed": "2026-11-03"
   },
   {
    "ticker": "OCFC",
@@ -4835,14 +4835,14 @@
    "total_value": 22023904.35
   },
   {
-   "ticker": "BPRE",
-   "insiders": 2,
-   "total_value": 6932361.45
-  },
-  {
    "ticker": "RENT",
    "insiders": 3,
    "total_value": 6120515.95
+  },
+  {
+   "ticker": "BPRE",
+   "insiders": 2,
+   "total_value": 5788404.17
   },
   {
    "ticker": "ACN",
@@ -4976,9 +4976,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-020014",
-  "0001999371-26-020016",
-  "0001999371-26-020019",
   "0001999371-26-020028",
   "0001999371-26-020033",
   "0001999371-26-020068",
@@ -6124,6 +6121,7 @@
   "0002046824-26-000022",
   "0002046824-26-000024",
   "0002046824-26-000026",
+  "0002046824-26-000028",
   "0002047068-26-000002",
   "0002047068-26-000004",
   "0002047319-26-000002",
@@ -6998,6 +6996,7 @@
   "0002079520-26-000022",
   "0002079520-26-000024",
   "0002079520-26-000026",
+  "0002079520-26-000028",
   "0002079598-26-000004",
   "0002079859-26-000002",
   "0002079922-26-000006",
@@ -7192,6 +7191,7 @@
   "0002091730-26-000013",
   "0002091734-26-000006",
   "0002091792-26-000002",
+  "0002091792-26-000003",
   "0002091798-26-000008",
   "0002091798-26-000010",
   "0002092210-26-000015",
