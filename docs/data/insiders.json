@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-03 23:42 UTC",
+ "updated_utc": "2026-11-03 23:58 UTC",
  "purchases": [
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Monte Mark David",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 17.1725,
-   "price": 11.94,
-   "value": 205.04,
-   "acc": "0001435109-26-000158",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Booth Richard Whitaker",
-   "role": "",
-   "date": "2026-10-21",
-   "shares": 41.876,
-   "price": 11.94,
-   "value": 500.0,
-   "acc": "0001435109-26-000160",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Monte Mark David",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 78.6311,
-   "price": 10.11,
-   "value": 794.96,
-   "acc": "0001435109-26-000159",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "WBHC",
-   "company": "WILSON BANK HOLDING CO",
-   "insider": "MCDEARMAN JOHN",
-   "role": "PRESIDENT AND CEO",
-   "date": "2026-10-21",
-   "shares": 20.0,
-   "price": 85.0,
-   "value": 1700.0,
-   "acc": "0002071271-26-000018",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4280,6 +4232,30 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "SITE",
+   "company": "SiteOne Landscape Supply, Inc.",
+   "insider": "BLACK DOUG",
+   "role": "CEO",
+   "date": "2026-10-30",
+   "shares": 4550.0,
+   "price": 109.91,
+   "value": 500090.5,
+   "acc": "0001104659-26-122247",
+   "filed": "2026-11-03"
+  },
+  {
+   "ticker": "SITE",
+   "company": "SiteOne Landscape Supply, Inc.",
+   "insider": "BLACK DOUG",
+   "role": "CEO",
+   "date": "2026-10-30",
+   "shares": 4550.0,
+   "price": 110.68,
+   "value": 503594.0,
+   "acc": "0001104659-26-122247",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4400,6 +4376,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
+   "insider": "Sturm Tonya K.",
+   "role": "EVP & CFO",
+   "date": "2026-11-02",
+   "shares": 2.647,
+   "price": 46.308,
+   "value": 122.58,
+   "acc": "0001014100-26-000031",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "Bradley Melinda Hodges",
@@ -4470,6 +4458,18 @@
    "value": 2800.0,
    "acc": "0001536588-26-000044",
    "filed": "2026-11-02"
+  },
+  {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
+   "insider": "Rush Jason Barry",
+   "role": "Chairman, President & CEO",
+   "date": "2026-11-02",
+   "shares": 68.265,
+   "price": 46.308,
+   "value": 3161.22,
+   "acc": "0001014100-26-000032",
+   "filed": "2026-11-03"
   },
   {
    "ticker": "FUNC",
@@ -4970,9 +4970,9 @@
    "total_value": 19156.0
   },
   {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "ticker": "FUNC",
    "insiders": 3,
-   "total_value": 1205.04
+   "total_value": 6937.5
   }
  ],
  "seen": [
