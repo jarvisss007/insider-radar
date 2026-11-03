@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-03 16:47 UTC",
+ "updated_utc": "2026-11-03 17:19 UTC",
  "purchases": [
-  {
-   "ticker": "GROW",
-   "company": "U S GLOBAL INVESTORS INC",
-   "insider": "Pilecki Derek Steven",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 2886.0,
-   "price": 2.57,
-   "value": 7417.02,
-   "acc": "0001062993-26-005478",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "AMT",
-   "company": "AMERICAN TOWER CORP /MA/",
-   "insider": "Clarke Teresa Hillary",
-   "role": "Director",
-   "date": "2026-10-20",
-   "shares": 42.926,
-   "price": 183.2,
-   "value": 7864.04,
-   "acc": "0001053507-26-000151",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
@@ -4544,6 +4520,30 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "company": "John Hancock GA Senior Loan Trust",
+   "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 756628.6562,
+   "price": 16.124,
+   "value": 12199880.45,
+   "acc": "0001833683-26-000020",
+   "filed": "2026-11-03"
+  },
+  {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "company": "John Hancock GA Senior Loan Trust",
+   "insider": "Manufacturers Life Reinsurance Ltd",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 1922581.0117,
+   "price": 16.124,
+   "value": 30999696.23,
+   "acc": "0001765496-26-000020",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Yuan Lipen",
@@ -4815,6 +4815,11 @@
    "total_value": 99913330.66
   },
   {
+   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
+   "insiders": 2,
+   "total_value": 43199576.68
+  },
+  {
    "ticker": "ASPE",
    "insiders": 2,
    "total_value": 37999995.0
@@ -4945,11 +4950,6 @@
    "total_value": 42682.66
   },
   {
-   "ticker": "GROW",
-   "insiders": 2,
-   "total_value": 30801.24
-  },
-  {
    "ticker": "PEBK",
    "insiders": 2,
    "total_value": 30334.5
@@ -4958,6 +4958,11 @@
    "ticker": "JCTC",
    "insiders": 2,
    "total_value": 26050.17
+  },
+  {
+   "ticker": "GROW",
+   "insiders": 2,
+   "total_value": 23384.22
   },
   {
    "ticker": "CBKM",
@@ -4971,7 +4976,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019501",
   "0001999371-26-019502",
   "0001999371-26-019503",
   "0001999371-26-019504",
@@ -7302,6 +7306,7 @@
   "0002102323-26-000005",
   "0002102334-26-000004",
   "0002102407-26-000005",
+  "0002102493-26-000005",
   "0002102774-26-000012",
   "0002103469-26-000014",
   "0002103514-26-000010",
