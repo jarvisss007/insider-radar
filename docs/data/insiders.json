@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-03 09:09 UTC",
+ "updated_utc": "2026-11-03 13:20 UTC",
  "purchases": [
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 34.0,
-   "price": 5.725,
-   "value": 194.65,
-   "acc": "0000070858-26-000496",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
@@ -4640,6 +4628,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yuan Lipen",
+   "role": "VP",
+   "date": "2026-11-01",
+   "shares": 1000.0,
+   "price": 71.49,
+   "value": 71490.0,
+   "acc": "0001046179-26-000732",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "Bradley Melinda Hodges",
@@ -4862,7 +4862,7 @@
   {
    "ticker": "LEO",
    "insiders": 2,
-   "total_value": 749510.31
+   "total_value": 749315.66
   },
   {
    "ticker": "THRM",
@@ -4976,8 +4976,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019424",
-  "0001999371-26-019426",
   "0001999371-26-019429",
   "0001999371-26-019433",
   "0001999371-26-019448",
@@ -5481,6 +5479,7 @@
   "0001999371-26-024123",
   "0001999371-26-024125",
   "0001999371-26-024169",
+  "0001999371-26-024188",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5492,6 +5491,7 @@
   "0002000358-26-000016",
   "0002000358-26-000018",
   "0002000358-26-000020",
+  "0002000358-26-000027",
   "0002000379-26-000003",
   "0002000429-26-000003",
   "0002000487-26-000003",
