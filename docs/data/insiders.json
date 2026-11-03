@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-03 02:04 UTC",
+ "updated_utc": "2026-11-03 02:52 UTC",
  "purchases": [
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 162024.0,
-   "price": 34.5087,
-   "value": 5591237.61,
-   "acc": "0001193125-26-427950",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "GXVIX",
-   "company": "Global X Venture & Innovation Fund",
-   "insider": "GLOBAL X MANAGEMENT COMPANY, INC.",
-   "role": "10% owner",
-   "date": "2026-10-19",
-   "shares": 1945525.292,
-   "price": 12.85,
-   "value": 25000000.0,
-   "acc": "0001213900-26-111339",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "NMCO",
-   "company": "Nuveen Municipal Credit Opportunities Fund",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 15.0,
-   "price": 8.765,
-   "value": 131.48,
-   "acc": "0000070858-26-000498",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "NMS",
-   "company": "Nuveen Minnesota Quality Municipal Income Fund",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-10-20",
-   "shares": 18.0,
-   "price": 10.215,
-   "value": 183.87,
-   "acc": "0000070858-26-000499",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
@@ -4806,6 +4758,54 @@
    "value": 267514.0,
    "acc": "0001543777-26-000006",
    "filed": "2026-11-02"
+  },
+  {
+   "ticker": "ASPE",
+   "company": "Aspen Neuroscience, Inc.",
+   "insider": "ARCH Venture Fund X, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 66666.0,
+   "price": 15.0,
+   "value": 999990.0,
+   "acc": "0001193125-26-444147",
+   "filed": "2026-11-02"
+  },
+  {
+   "ticker": "ASPE",
+   "company": "Aspen Neuroscience, Inc.",
+   "insider": "ARCH Venture Fund X, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 66667.0,
+   "price": 15.0,
+   "value": 1000005.0,
+   "acc": "0001193125-26-444147",
+   "filed": "2026-11-02"
+  },
+  {
+   "ticker": "ASPE",
+   "company": "Aspen Neuroscience, Inc.",
+   "insider": "ARCH Venture Fund X, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 1200000.0,
+   "price": 15.0,
+   "value": 18000000.0,
+   "acc": "0001193125-26-444147",
+   "filed": "2026-11-02"
+  },
+  {
+   "ticker": "ASPE",
+   "company": "Aspen Neuroscience, Inc.",
+   "insider": "ARCH Venture Partners XIV, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 1200000.0,
+   "price": 15.0,
+   "value": 18000000.0,
+   "acc": "0001193125-26-444141",
+   "filed": "2026-11-02"
   }
  ],
  "clusters": [
@@ -4813,6 +4813,11 @@
    "ticker": "ROL",
    "insiders": 2,
    "total_value": 99913330.66
+  },
+  {
+   "ticker": "ASPE",
+   "insiders": 2,
+   "total_value": 37999995.0
   },
   {
    "ticker": "MSM",
@@ -4902,7 +4907,7 @@
   {
    "ticker": "NMCO",
    "insiders": 3,
-   "total_value": 253569.29
+   "total_value": 253437.81
   },
   {
    "ticker": "FFIN",
