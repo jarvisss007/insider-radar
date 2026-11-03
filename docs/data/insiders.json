@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-03 14:39 UTC",
+ "updated_utc": "2026-11-03 14:55 UTC",
  "purchases": [
-  {
-   "ticker": "AHNRF",
-   "company": "ATHENA GOLD CORP",
-   "insider": "POWER JOHN C /CA/",
-   "role": "Secretary",
-   "date": "2026-10-20",
-   "shares": 10000.0,
-   "price": 0.115,
-   "value": 1150.0,
-   "acc": "0001683168-26-007994",
-   "filed": "2026-10-20"
-  },
-  {
-   "ticker": "NMCO",
-   "company": "Nuveen Municipal Credit Opportunities Fund",
-   "insider": "Jones Nathaniel T.",
-   "role": "Vice President",
-   "date": "2026-10-20",
-   "shares": 450.0,
-   "price": 8.25,
-   "value": 3712.5,
-   "acc": "0001225208-26-008483",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4268,6 +4244,18 @@
    "filed": "2026-10-30"
   },
   {
+   "ticker": "FFIN",
+   "company": "FIRST FINANCIAL BANKSHARES INC",
+   "insider": "Edwards Murray Hamilton",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 300.0,
+   "price": 30.56,
+   "value": 9168.0,
+   "acc": "0001193125-26-444528",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "BBT",
    "company": "Beacon Financial Corp",
    "insider": "Charnley Nina A",
@@ -4301,6 +4289,18 @@
    "price": 6.43,
    "value": 12860.0,
    "acc": "0001193125-26-444481",
+   "filed": "2026-11-03"
+  },
+  {
+   "ticker": "FFIN",
+   "company": "FIRST FINANCIAL BANKSHARES INC",
+   "insider": "Edwards Murray Hamilton",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 500.0,
+   "price": 30.51,
+   "value": 15255.0,
+   "acc": "0001193125-26-444528",
    "filed": "2026-11-03"
   },
   {
@@ -4900,14 +4900,9 @@
    "total_value": 259304.33
   },
   {
-   "ticker": "NMCO",
-   "insiders": 2,
-   "total_value": 252595.03
-  },
-  {
    "ticker": "FFIN",
-   "insiders": 2,
-   "total_value": 124514.6
+   "insiders": 3,
+   "total_value": 148937.6
   },
   {
    "ticker": "STRZ",
@@ -4976,8 +4971,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-019453",
-  "0001999371-26-019457",
   "0001999371-26-019466",
   "0001999371-26-019470",
   "0001999371-26-019477",
@@ -6213,6 +6206,7 @@
   "0002050978-26-000008",
   "0002050987-26-000002",
   "0002050987-26-000004",
+  "0002050987-26-000006",
   "0002051008-26-000002",
   "0002051008-26-000003",
   "0002051008-26-000004",
@@ -7007,6 +7001,7 @@
   "0002078700-26-000002",
   "0002078707-26-000004",
   "0002078870-26-000008",
+  "0002079092-26-000008",
   "0002079093-26-000001",
   "0002079332-26-000004",
   "0002079445-26-000015",
