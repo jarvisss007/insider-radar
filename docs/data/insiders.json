@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-04 23:30 UTC",
+ "updated_utc": "2026-11-04 23:46 UTC",
  "purchases": [
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-22",
-   "shares": 8989.0,
-   "price": 4.3989,
-   "value": 39541.71,
-   "acc": "0001193125-26-429245",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO EQUITY & INCOME FUND INC",
@@ -4403,6 +4391,19 @@
   {
    "ticker": "ASPE",
    "company": "Aspen Neuroscience, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-11-02",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000980",
+   "filed": "2026-11-04",
+   "placement": true
+  },
+  {
+   "ticker": "ASPE",
+   "company": "Aspen Neuroscience, Inc.",
    "insider": "ARCH Venture Fund X, L.P.",
    "role": "10% owner",
    "date": "2026-11-02",
@@ -4822,8 +4823,9 @@
   },
   {
    "ticker": "ASPE",
-   "insiders": 2,
-   "total_value": 37999995.0
+   "insiders": 3,
+   "total_value": 37999995.0,
+   "other_value": 15000000.0
   },
   {
    "ticker": "LRN",
@@ -4992,7 +4994,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021205",
   "0001999371-26-021211",
   "0001999371-26-021215",
   "0001999371-26-021224",
@@ -5693,6 +5694,7 @@
   "0002019143-26-000019",
   "0002019143-26-000021",
   "0002019143-26-000023",
+  "0002019143-26-000025",
   "0002019295-26-000010",
   "0002019295-26-000012",
   "0002019369-26-000007",
