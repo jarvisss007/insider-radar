@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-04 17:25 UTC",
+ "updated_utc": "2026-11-04 17:41 UTC",
  "purchases": [
-  {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "company": "Blackstone Private Real Estate Credit & Income Fund",
-   "insider": "Blackstone Private Multi-Asset Credit & Income Fund",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 27718.571,
-   "price": 26.2,
-   "value": 726226.56,
-   "acc": "0001213900-26-112120",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "BPRE",
    "company": "Bluerock Private Real Estate Fund",
@@ -4676,6 +4664,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "ATLO",
+   "company": "AMES NATIONAL CORP",
+   "insider": "Snodgrass Adam",
+   "role": "",
+   "date": "2026-11-03",
+   "shares": 200.0,
+   "price": 34.13,
+   "value": 6826.0,
+   "acc": "0001805277-26-000002",
+   "filed": "2026-11-04"
+  },
+  {
    "ticker": "OCFC",
    "company": "OCEANFIRST FINANCIAL CORP",
    "insider": "Farris Jack M.",
@@ -4968,6 +4968,11 @@
    "ticker": "CBKM",
    "insiders": 2,
    "total_value": 19156.0
+  },
+  {
+   "ticker": "ATLO",
+   "insiders": 2,
+   "total_value": 8441.68
   },
   {
    "ticker": "FUNC",
