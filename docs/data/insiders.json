@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-04 16:54 UTC",
+ "updated_utc": "2026-11-04 17:25 UTC",
  "purchases": [
-  {
-   "ticker": "CRAFX",
-   "company": "Cascade Real Assets Fund",
-   "insider": "Worley Matthew Eugene",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 41909.531,
-   "price": 10.29,
-   "value": 431249.07,
-   "acc": "0001213900-26-111971",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "TENX",
-   "company": "TENAX THERAPEUTICS, INC.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 331979.0,
-   "price": 1.6588,
-   "value": 550686.77,
-   "acc": "0001940272-26-000027",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
    "company": "Blackstone Private Real Estate Credit & Income Fund",
@@ -4616,6 +4592,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "INTC",
+   "company": "INTEL CORP",
+   "insider": "TAN LIP BU",
+   "role": "CEO",
+   "date": "2026-11-02",
+   "shares": 150000.0,
+   "price": 64.7312,
+   "value": 9709680.0,
+   "acc": "0000050863-26-000195",
+   "filed": "2026-11-04"
+  },
+  {
    "ticker": "ASPE",
    "company": "Aspen Neuroscience, Inc.",
    "insider": "ARCH Venture Fund X, L.P.",
@@ -4782,6 +4770,18 @@
    "value": 3426850.08,
    "acc": "0001193125-26-445930",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Carus Jeffrey A",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 500.0,
+   "price": 15.22,
+   "value": 7610.0,
+   "acc": "0000752642-26-000134",
+   "filed": "2026-11-04"
   },
   {
    "ticker": "UMH",
@@ -4955,6 +4955,11 @@
    "total_value": 42773.67
   },
   {
+   "ticker": "UMH",
+   "insiders": 2,
+   "total_value": 27188.0
+  },
+  {
    "ticker": "GROW",
    "insiders": 2,
    "total_value": 23384.22
@@ -4971,11 +4976,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-020393",
-  "0001999371-26-020395",
-  "0001999371-26-020403",
-  "0001999371-26-020407",
-  "0001999371-26-020438",
   "0001999371-26-020439",
   "0001999371-26-020440",
   "0001999371-26-020450",
@@ -5421,6 +5421,11 @@
   "0001999371-26-024414",
   "0001999371-26-024421",
   "0001999371-26-024422",
+  "0001999371-26-024430",
+  "0001999371-26-024432",
+  "0001999371-26-024433",
+  "0001999371-26-024434",
+  "0001999371-26-024435",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
