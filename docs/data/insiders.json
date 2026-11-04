@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-04 22:27 UTC",
+ "updated_utc": "2026-11-04 22:42 UTC",
  "purchases": [
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "MARAGANORE JOHN",
-   "role": "Director",
-   "date": "2026-10-22",
-   "shares": 1172.0,
-   "price": 26.9173,
-   "value": 31547.08,
-   "acc": "0001193125-26-429071",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "SAMG",
-   "company": "Silvercrest Asset Management Group Inc.",
-   "insider": "Equinox Partners Investment Management LLC",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 3322.0,
-   "price": 10.42,
-   "value": 34615.24,
-   "acc": "0001013594-26-001082",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4412,6 +4388,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 190251.0,
+   "price": 35.2322,
+   "value": 6702961.28,
+   "acc": "0001193125-26-447693",
+   "filed": "2026-11-04"
+  },
+  {
    "ticker": "INTC",
    "company": "INTEL CORP",
    "insider": "TAN LIP BU",
@@ -4458,6 +4446,18 @@
    "value": 37361744.0,
    "acc": "0001231919-26-001533",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 100.0,
+   "price": 10.18,
+   "value": 1018.0,
+   "acc": "0001510281-26-000410",
+   "filed": "2026-11-04"
   },
   {
    "ticker": "GLQ",
@@ -4837,7 +4837,7 @@
   {
    "ticker": "RAPP",
    "insiders": 6,
-   "total_value": 21880354.35
+   "total_value": 21848807.27
   },
   {
    "ticker": "ACN",
@@ -4991,7 +4991,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021011",
   "0001999371-26-021032",
   "0001999371-26-021049",
   "0001999371-26-021056",
@@ -7517,6 +7516,7 @@
   "0002118012-26-000003",
   "0002118015-26-000004",
   "0002118015-26-000005",
+  "0002118015-26-000006",
   "0002118402-26-000013",
   "0002118769-26-000002",
   "0002119130-26-000007",
