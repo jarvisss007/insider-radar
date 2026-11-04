@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-04 02:19 UTC",
+ "updated_utc": "2026-11-04 02:50 UTC",
  "purchases": [
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-21",
-   "shares": 9513.0,
-   "price": 4.4551,
-   "value": 42381.37,
-   "acc": "0001193125-26-429245",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Epstein David R",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 5000.0,
-   "price": 8.86,
-   "value": 44300.0,
-   "acc": "0001445826-26-000015",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "GLENBROOK CAPITAL MANAGEMENT",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 60000.0,
-   "price": 0.7385,
-   "value": 44310.0,
-   "acc": "0000902664-26-004257",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
@@ -4268,6 +4232,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "SIRI",
+   "company": "SIRIUS XM HOLDINGS INC.",
+   "insider": "BERKSHIRE HATHAWAY INC",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 743965.0,
+   "price": 28.8913,
+   "value": 21494116.0,
+   "acc": "0001193125-26-445930",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "company": "John Hancock GA Senior Loan Trust",
    "insider": "Manufacturers Life Reinsurance Ltd",
@@ -4676,6 +4652,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "SIRI",
+   "company": "SIRIUS XM HOLDINGS INC.",
+   "insider": "BERKSHIRE HATHAWAY INC",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 66968.0,
+   "price": 29.466,
+   "value": 1973279.09,
+   "acc": "0001193125-26-445930",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "BBTX",
    "company": "Bambusa Therapeutics, Inc.",
    "insider": "RA CAPITAL MANAGEMENT, L.P.",
@@ -4805,6 +4793,18 @@
    "price": 75.04,
    "value": 2353029.28,
    "acc": "0001213900-26-115698",
+   "filed": "2026-11-03"
+  },
+  {
+   "ticker": "SIRI",
+   "company": "SIRIUS XM HOLDINGS INC.",
+   "insider": "BERKSHIRE HATHAWAY INC",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 113348.0,
+   "price": 30.233,
+   "value": 3426850.08,
+   "acc": "0001193125-26-445930",
    "filed": "2026-11-03"
   }
  ],
