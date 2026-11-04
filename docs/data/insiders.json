@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-04 19:15 UTC",
+ "updated_utc": "2026-11-04 19:47 UTC",
  "purchases": [
-  {
-   "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
-   "company": "Blackstone Private Real Estate Credit & Income Fund",
-   "insider": "Blackstone Private Multi-Asset Credit & Income Fund",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 76335.878,
-   "price": 26.2,
-   "value": 2000000.0,
-   "acc": "0001213900-26-112120",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "RENT",
-   "company": "Rent the Runway, Inc.",
-   "insider": "STORY3 Capital Partners, LLC",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 632922.0,
-   "price": 3.55,
-   "value": 2246873.1,
-   "acc": "0001012975-26-000982",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "RENT",
-   "company": "Rent the Runway, Inc.",
-   "insider": "Nexus Capital Management LP",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 632922.0,
-   "price": 3.55,
-   "value": 2246873.1,
-   "acc": "0001012975-26-000981",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "DOLE",
-   "company": "Dole plc",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 438900.0,
-   "price": 13.1166,
-   "value": 5756875.74,
-   "acc": "0000921895-26-002845",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 217182.0,
-   "price": 35.382,
-   "value": 7684333.52,
-   "acc": "0001193125-26-430508",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "WAST",
    "company": "WASTE ENERGY CORP.",
@@ -4112,6 +4052,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "PARTNERS GROUP GROWTH, LLC (CIK 1991706)",
+   "company": "Partners Group Growth, LLC",
+   "insider": "Partners Group Finance (USD) AG",
+   "role": "",
+   "date": "2026-11-01",
+   "shares": 9513390.097,
+   "price": 2.1,
+   "value": 19978119.2,
+   "acc": "0002089261-26-000008",
+   "filed": "2026-11-04"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "Bradley Melinda Hodges",
@@ -4362,6 +4314,18 @@
    "value": 29920.0,
    "acc": "0001510281-26-000405",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "MOALX",
+   "company": "Lord Abbett Municipal Opportunities Fund",
+   "insider": "English Christopher T.",
+   "role": "",
+   "date": "2026-11-02",
+   "shares": 3003.003,
+   "price": 9.99,
+   "value": 30000.0,
+   "acc": "0000930413-26-003208",
+   "filed": "2026-11-04"
   },
   {
    "ticker": "BSTT",
@@ -4806,6 +4770,42 @@
    "value": 23317.5,
    "acc": "0001628280-26-069865",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "LSCC",
+   "company": "LATTICE SEMICONDUCTOR CORP",
+   "insider": "Tamer Ford",
+   "role": "President & CEO",
+   "date": "2026-11-04",
+   "shares": 1200.0,
+   "price": 103.3988,
+   "value": 124078.56,
+   "acc": "0001437749-26-034881",
+   "filed": "2026-11-04"
+  },
+  {
+   "ticker": "LSCC",
+   "company": "LATTICE SEMICONDUCTOR CORP",
+   "insider": "Tamer Ford",
+   "role": "President & CEO",
+   "date": "2026-11-04",
+   "shares": 2894.0,
+   "price": 101.7849,
+   "value": 294565.5,
+   "acc": "0001437749-26-034881",
+   "filed": "2026-11-04"
+  },
+  {
+   "ticker": "LSCC",
+   "company": "LATTICE SEMICONDUCTOR CORP",
+   "insider": "Tamer Ford",
+   "role": "President & CEO",
+   "date": "2026-11-04",
+   "shares": 5696.0,
+   "price": 102.7116,
+   "value": 585045.27,
+   "acc": "0001437749-26-034881",
+   "filed": "2026-11-04"
   }
  ],
  "clusters": [
@@ -4833,11 +4833,6 @@
    "ticker": "RAPP",
    "insiders": 6,
    "total_value": 21880354.35
-  },
-  {
-   "ticker": "RENT",
-   "insiders": 2,
-   "total_value": 4493746.2
   },
   {
    "ticker": "ACN",
@@ -4986,8 +4981,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-020457",
-  "0001999371-26-020475",
   "0001999371-26-020481",
   "0001999371-26-020484",
   "0001999371-26-020507",
@@ -7155,6 +7148,7 @@
   "0002089238-26-000001",
   "0002089239-26-000001",
   "0002089244-26-000007",
+  "0002089261-26-000008",
   "0002089263-26-000012",
   "0002089263-26-000014",
   "0002089263-26-000016",
@@ -7511,6 +7505,7 @@
   "0002117905-26-000043",
   "0002117905-26-000044",
   "0002117905-26-000045",
+  "0002117905-26-000046",
   "0002117961-26-000002",
   "0002117999-26-000006",
   "0002118012-26-000003",
