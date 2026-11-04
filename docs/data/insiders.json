@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-04 09:36 UTC",
+ "updated_utc": "2026-11-04 12:44 UTC",
  "purchases": [
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Epstein David R",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 5000.0,
-   "price": 8.9,
-   "value": 44500.0,
-   "acc": "0001445826-26-000015",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "PNI",
    "company": "PIMCO NEW YORK MUNICIPAL INCOME FUND II",
@@ -4772,6 +4760,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "SPTX",
+   "company": "Seaport Therapeutics, Inc.",
+   "insider": "Torres Denice",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 5000.0,
+   "price": 19.865,
+   "value": 99325.0,
+   "acc": "0001193125-26-446216",
+   "filed": "2026-11-04"
+  },
+  {
    "ticker": "LRN",
    "company": "Stride, Inc.",
    "insider": "Haggart Dylan G.",
@@ -4971,7 +4971,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-020222",
   "0001999371-26-020233",
   "0001999371-26-020280",
   "0001999371-26-020286",
@@ -7970,7 +7969,8 @@
   "0002160813-26-000005",
   "0002161049-26-000001",
   "0002161365-26-000008",
-  "0002162908-26-000005"
+  "0002162908-26-000005",
+  "0002163153-26-000002"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
