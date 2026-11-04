@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-04 17:57 UTC",
+ "updated_utc": "2026-11-04 19:15 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 114864.0,
-   "price": 12.2545,
-   "value": 1407600.89,
-   "acc": "0001398344-26-018550",
-   "filed": "2026-10-21"
-  },
-  {
-   "ticker": "RENT",
-   "company": "Rent the Runway, Inc.",
-   "insider": "CHS US Investments LLC",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 458245.0,
-   "price": 3.55,
-   "value": 1626769.75,
-   "acc": "0001012975-26-000980",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "BLACKSTONE PRIVATE REAL ESTATE CREDIT & INCOME FUND (CIK 2049733)",
    "company": "Blackstone Private Real Estate Credit & Income Fund",
@@ -4148,6 +4124,18 @@
    "filed": "2026-11-02"
   },
   {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "Miles Christen Brooke",
+   "role": "VP, Human Resources",
+   "date": "2026-11-02",
+   "shares": 4.34,
+   "price": 23.04,
+   "value": 99.99,
+   "acc": "0001437749-26-034863",
+   "filed": "2026-11-04"
+  },
+  {
    "ticker": "FUNC",
    "company": "FIRST UNITED CORP/MD/",
    "insider": "Sturm Tonya K.",
@@ -4158,6 +4146,18 @@
    "value": 122.58,
    "acc": "0001014100-26-000031",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "RGCO",
+   "company": "RGC RESOURCES INC",
+   "insider": "Oliver Lawrence T.",
+   "role": "Senior VP and Secretary",
+   "date": "2026-11-02",
+   "shares": 8.681,
+   "price": 23.04,
+   "value": 200.01,
+   "acc": "0001437749-26-034861",
+   "filed": "2026-11-04"
   },
   {
    "ticker": "JCTC",
@@ -4836,8 +4836,8 @@
   },
   {
    "ticker": "RENT",
-   "insiders": 3,
-   "total_value": 6120515.95
+   "insiders": 2,
+   "total_value": 4493746.2
   },
   {
    "ticker": "ACN",
@@ -4978,11 +4978,14 @@
    "ticker": "FUNC",
    "insiders": 3,
    "total_value": 6937.5
+  },
+  {
+   "ticker": "RGCO",
+   "insiders": 2,
+   "total_value": 300.0
   }
  ],
  "seen": [
-  "0001999371-26-020440",
-  "0001999371-26-020450",
   "0001999371-26-020457",
   "0001999371-26-020475",
   "0001999371-26-020481",
@@ -6123,6 +6126,7 @@
   "0002047429-26-000012",
   "0002047518-26-000010",
   "0002047535-26-000003",
+  "0002047617-26-000008",
   "0002047652-26-000002",
   "0002047675-26-000004",
   "0002047749-26-000006",
@@ -7874,6 +7878,7 @@
   "0002148785-26-000009",
   "0002148900-26-000005",
   "0002149159-26-000004",
+  "0002149159-26-000006",
   "0002149324-26-000005",
   "0002149405-26-000004",
   "0002149579-26-000004",
