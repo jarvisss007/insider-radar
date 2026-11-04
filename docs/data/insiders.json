@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-04 16:38 UTC",
+ "updated_utc": "2026-11-04 16:54 UTC",
  "purchases": [
-  {
-   "ticker": "SAMG",
-   "company": "Silvercrest Asset Management Group Inc.",
-   "insider": "Equinox Partners Investment Management LLC",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 14744.0,
-   "price": 10.33,
-   "value": 152305.52,
-   "acc": "0001013594-26-001082",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 45831.0,
-   "price": 5.73,
-   "value": 262611.63,
-   "acc": "0001510281-26-000374",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 16035.0,
-   "price": 20.42,
-   "value": 327434.7,
-   "acc": "0001510281-26-000373",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "CRAFX",
    "company": "Cascade Real Assets Fund",
@@ -4686,6 +4650,42 @@
    "value": 37361744.0,
    "acc": "0001231919-26-001533",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "GLQ",
+   "company": "Clough Global Equity Fund",
+   "insider": "Kowaleski John E.",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 260.0,
+   "price": 7.56,
+   "value": 1965.6,
+   "acc": "0001276144-26-000008",
+   "filed": "2026-11-04"
+  },
+  {
+   "ticker": "GLO",
+   "company": "Clough Global Opportunities Fund",
+   "insider": "Kowaleski John E.",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 365.0,
+   "price": 5.47,
+   "value": 1996.55,
+   "acc": "0001276144-26-000007",
+   "filed": "2026-11-04"
+  },
+  {
+   "ticker": "GLV",
+   "company": "Clough Global Dividend & Income Fund",
+   "insider": "Kowaleski John E.",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 700.0,
+   "price": 5.785,
+   "value": 4049.5,
+   "acc": "0001276144-26-000009",
+   "filed": "2026-11-04"
   },
   {
    "ticker": "OCFC",
