@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-04 16:23 UTC",
+ "updated_utc": "2026-11-04 16:38 UTC",
  "purchases": [
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "Ignelzi Troy A.",
-   "role": "Chief Financial Officer",
-   "date": "2026-10-21",
-   "shares": 5500.0,
-   "price": 26.1,
-   "value": 143550.0,
-   "acc": "0001193125-26-428018",
-   "filed": "2026-10-21"
-  },
   {
    "ticker": "SAMG",
    "company": "Silvercrest Asset Management Group Inc.",
@@ -4796,6 +4784,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Mitchell William Edward",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 1300.0,
+   "price": 15.06,
+   "value": 19578.0,
+   "acc": "0000752642-26-000133",
+   "filed": "2026-11-04"
+  },
+  {
    "ticker": "RMBI",
    "company": "Richmond Mutual Bancorporation, Inc.",
    "insider": "Cook Christopher D",
@@ -4831,8 +4831,8 @@
   },
   {
    "ticker": "RAPP",
-   "insiders": 7,
-   "total_value": 22023904.35
+   "insiders": 6,
+   "total_value": 21880354.35
   },
   {
    "ticker": "RENT",
