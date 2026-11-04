@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-04 00:13 UTC",
+ "updated_utc": "2026-11-04 00:45 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-21",
-   "shares": 4002.0,
-   "price": 0.9384,
-   "value": 3755.48,
-   "acc": "0001493152-26-048021",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-10-21",
-   "shares": 1000.0,
-   "price": 4.1,
-   "value": 4100.0,
-   "acc": "0001062993-26-005533",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
@@ -4256,6 +4232,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "BA",
+   "company": "BOEING CO",
+   "insider": "MOLLENKOPF STEVEN M",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 2950.0,
+   "price": 173.026,
+   "value": 510426.7,
+   "acc": "0001225208-26-008641",
+   "filed": "2026-11-03"
+  },
+  {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4289,6 +4277,18 @@
    "price": 10.3,
    "value": 727810.0,
    "acc": "0002125773-26-000017",
+   "filed": "2026-11-03"
+  },
+  {
+   "ticker": "BA",
+   "company": "BOEING CO",
+   "insider": "Buckley Mortimer J",
+   "role": "Director",
+   "date": "2026-10-30",
+   "shares": 5820.0,
+   "price": 171.55,
+   "value": 998421.0,
+   "acc": "0001225208-26-008642",
    "filed": "2026-11-03"
   },
   {
@@ -4860,6 +4860,11 @@
    "total_value": 1757189.94
   },
   {
+   "ticker": "BA",
+   "insiders": 2,
+   "total_value": 1508847.7
+  },
+  {
    "ticker": "TTMI",
    "insiders": 2,
    "total_value": 1342810.5
@@ -4976,8 +4981,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-020116",
-  "0001999371-26-020129",
   "0001999371-26-020136",
   "0001999371-26-020168",
   "0001999371-26-020178",
@@ -5761,6 +5764,7 @@
   "0002019843-26-000004",
   "0002019976-26-000010",
   "0002019976-26-000011",
+  "0002019976-26-000013",
   "0002020161-26-000015",
   "0002020220-26-000022",
   "0002020286-26-000008",
@@ -6052,6 +6056,7 @@
   "0002041944-26-000005",
   "0002041944-26-000006",
   "0002042007-26-000002",
+  "0002042007-26-000004",
   "0002042056-26-000008",
   "0002042056-26-000010",
   "0002042266-26-000002",
