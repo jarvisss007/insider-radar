@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-04 14:48 UTC",
+ "updated_utc": "2026-11-04 15:51 UTC",
  "purchases": [
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-21",
-   "shares": 20575.0,
-   "price": 5.32,
-   "value": 109459.0,
-   "acc": "0001510281-26-000372",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
@@ -4806,6 +4794,18 @@
    "value": 3426850.08,
    "acc": "0001193125-26-445930",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "RMBI",
+   "company": "Richmond Mutual Bancorporation, Inc.",
+   "insider": "Cook Christopher D",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 1500.0,
+   "price": 15.545,
+   "value": 23317.5,
+   "acc": "0001628280-26-069865",
+   "filed": "2026-11-04"
   }
  ],
  "clusters": [
@@ -4971,8 +4971,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-020389",
-  "0001999371-26-020391",
   "0001999371-26-020393",
   "0001999371-26-020395",
   "0001999371-26-020403",
@@ -5421,6 +5419,8 @@
   "0001999371-26-024406",
   "0001999371-26-024410",
   "0001999371-26-024414",
+  "0001999371-26-024421",
+  "0001999371-26-024422",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
