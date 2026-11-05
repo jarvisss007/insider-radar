@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-05 16:35 UTC",
+ "updated_utc": "2026-11-05 17:22 UTC",
  "purchases": [
-  {
-   "ticker": "KRRO",
-   "company": "Korro Bio, Inc.",
-   "insider": "Lynx1 Capital Management LP",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 40000.0,
-   "price": 11.0366,
-   "value": 441464.0,
-   "acc": "0000902664-26-004286",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 1907.0,
-   "price": 237.4321,
-   "value": 452783.01,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "CITR",
    "company": "CitroTech Inc.",
@@ -3619,6 +3595,30 @@
    "value": 3302.18,
    "acc": "0001628280-26-070264",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "SCND",
+   "company": "SCIENTIFIC INDUSTRIES INC",
+   "insider": "MOORE JOHN A",
+   "role": "Chairman of the Board",
+   "date": "2026-10-31",
+   "shares": 7100.0,
+   "price": 0.6,
+   "value": 4260.0,
+   "acc": "0001182944-26-000008",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "SCND",
+   "company": "SCIENTIFIC INDUSTRIES INC",
+   "insider": "MOORE JOHN A",
+   "role": "Chairman of the Board",
+   "date": "2026-10-31",
+   "shares": 51200.0,
+   "price": 0.65,
+   "value": 33280.0,
+   "acc": "0001182944-26-000007",
+   "filed": "2026-11-05"
   },
   {
    "ticker": "TSM",
