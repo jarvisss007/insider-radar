@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-05 21:34 UTC",
+ "updated_utc": "2026-11-05 21:50 UTC",
  "purchases": [
-  {
-   "ticker": "CHCO",
-   "company": "CITY HOLDING CO",
-   "insider": "Hoyer James A",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 100.0,
-   "price": 142.13,
-   "value": 14213.0,
-   "acc": "0000726854-26-000186",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 6234.0,
-   "price": 2.38,
-   "value": 14836.92,
-   "acc": "0001178579-26-000020",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "XFLT",
-   "company": "XAI Floating Rate & Alternative Income Trust",
-   "insider": "Spence John Yogi",
-   "role": "Vice President",
-   "date": "2026-10-23",
-   "shares": 1000.0,
-   "price": 16.5,
-   "value": 16500.0,
-   "acc": "0001718133-26-000006",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "CHCO",
    "company": "CITY HOLDING CO",
@@ -4798,6 +4762,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "CARLYLE CREDIT SOLUTIONS (CIK 2144472)",
+   "company": "Carlyle Credit Solutions",
+   "insider": "Hennigan Thomas M",
+   "role": "CFO and President",
+   "date": "2026-11-05",
+   "shares": 21210.653,
+   "price": 17.96,
+   "value": 380943.33,
+   "acc": "0001734741-26-000009",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "TTMI",
    "company": "TTM TECHNOLOGIES INC",
    "insider": "Ali Wajid",
@@ -4807,6 +4783,30 @@
    "price": 63.1541,
    "value": 631541.0,
    "acc": "0001193125-26-449379",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "GLXY",
+   "company": "Galaxy Digital Inc.",
+   "insider": "Novogratz Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-05",
+   "shares": 231243.0,
+   "price": 13.632,
+   "value": 3152304.58,
+   "acc": "0001380615-26-000013",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "GLXY",
+   "company": "Galaxy Digital Inc.",
+   "insider": "Novogratz Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-05",
+   "shares": 528757.0,
+   "price": 12.694,
+   "value": 6712041.36,
+   "acc": "0001380615-26-000013",
    "filed": "2026-11-05"
   }
  ],
@@ -4953,11 +4953,6 @@
    "total_value": 61357.1
   },
   {
-   "ticker": "CHCO",
-   "insiders": 3,
-   "total_value": 54720.05
-  },
-  {
    "ticker": "PMN",
    "insiders": 2,
    "total_value": 43850.84
@@ -4966,6 +4961,11 @@
    "ticker": "BHRB",
    "insiders": 2,
    "total_value": 42773.67
+  },
+  {
+   "ticker": "CHCO",
+   "insiders": 2,
+   "total_value": 40507.05
   },
   {
    "ticker": "ANIX",
@@ -5009,11 +5009,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021424",
-  "0001999371-26-021427",
-  "0001999371-26-021438",
-  "0001999371-26-021453",
-  "0001999371-26-021457",
   "0001999371-26-021458",
   "0001999371-26-021479",
   "0001999371-26-021482",
@@ -5362,6 +5357,10 @@
   "0001999371-26-024613",
   "0001999371-26-024615",
   "0001999371-26-024642",
+  "0001999371-26-024644",
+  "0001999371-26-024649",
+  "0001999371-26-024652",
+  "0001999371-26-024654",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -8007,6 +8006,7 @@
   "0002161049-26-000001",
   "0002161365-26-000008",
   "0002161492-26-000005",
+  "0002162845-26-000005",
   "0002162908-26-000005",
   "0002163153-26-000002"
  ],
