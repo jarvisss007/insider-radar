@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-05 13:41 UTC",
+ "updated_utc": "2026-11-05 14:13 UTC",
  "purchases": [
-  {
-   "ticker": "KRRO",
-   "company": "Korro Bio, Inc.",
-   "insider": "Lynx1 Capital Management LP",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 12175.0,
-   "price": 9.6764,
-   "value": 117810.17,
-   "acc": "0000902664-26-004286",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 500.0,
-   "price": 238.2332,
-   "value": 119116.6,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4415,6 +4391,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-03",
+   "shares": 6100.0,
+   "price": 0.8943,
+   "value": 5455.23,
+   "acc": "0001493152-26-050081",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
    "insider": "Snodgrass Adam",
@@ -4652,6 +4640,18 @@
    "price": 107.8,
    "value": 1509.2,
    "acc": "0001770071-26-000012",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-04",
+   "shares": 5115.0,
+   "price": 0.9535,
+   "value": 4877.15,
+   "acc": "0001493152-26-050081",
    "filed": "2026-11-05"
   },
   {
@@ -4995,7 +4995,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021274",
   "0001999371-26-021276",
   "0001999371-26-021292",
   "0001999371-26-021296",
@@ -6267,6 +6266,7 @@
   "0002058897-26-000326",
   "0002058897-26-000328",
   "0002058897-26-000330",
+  "0002058897-26-000332",
   "0002058905-26-000008",
   "0002058966-26-000002",
   "0002059140-26-000010",
