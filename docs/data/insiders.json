@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-05 18:56 UTC",
+ "updated_utc": "2026-11-05 19:12 UTC",
  "purchases": [
-  {
-   "ticker": "PRTA",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "insider": "SCULLY WILLIAM P",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 100000.0,
-   "price": 8.1852,
-   "value": 818520.0,
-   "acc": "0001045463-26-000022",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
@@ -4808,6 +4796,18 @@
    "value": 1995978.07,
    "acc": "0001570585-26-000156",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "TTMI",
+   "company": "TTM TECHNOLOGIES INC",
+   "insider": "Ali Wajid",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 10000.0,
+   "price": 63.1541,
+   "value": 631541.0,
+   "acc": "0001193125-26-449379",
+   "filed": "2026-11-05"
   }
  ],
  "clusters": [
@@ -4858,6 +4858,11 @@
    "total_value": 2823418.82
   },
   {
+   "ticker": "TTMI",
+   "insiders": 2,
+   "total_value": 1974351.5
+  },
+  {
    "ticker": "NPB",
    "insiders": 4,
    "total_value": 1819348.97
@@ -4871,11 +4876,6 @@
    "ticker": "BA",
    "insiders": 2,
    "total_value": 1508847.7
-  },
-  {
-   "ticker": "TTMI",
-   "insiders": 2,
-   "total_value": 1342810.5
   },
   {
    "ticker": "THRM",
