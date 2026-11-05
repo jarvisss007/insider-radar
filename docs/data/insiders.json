@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-05 13:26 UTC",
+ "updated_utc": "2026-11-05 13:41 UTC",
  "purchases": [
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "Silva Paul M",
-   "role": "Director",
-   "date": "2026-10-22",
-   "shares": 3680.0,
-   "price": 27.075,
-   "value": 99636.0,
-   "acc": "0001193125-26-429075",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "CLF",
-   "company": "CLEVELAND-CLIFFS INC.",
-   "insider": "Camara Edilson",
-   "role": "Director",
-   "date": "2026-10-22",
-   "shares": 7400.0,
-   "price": 13.49,
-   "value": 99826.0,
-   "acc": "0000764065-26-000117",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "Young Wendy B.",
-   "role": "Director",
-   "date": "2026-10-22",
-   "shares": 3789.0,
-   "price": 26.39,
-   "value": 99991.71,
-   "acc": "0001193125-26-429074",
-   "filed": "2026-10-22"
-  },
   {
    "ticker": "KRRO",
    "company": "Korro Bio, Inc.",
@@ -4679,6 +4643,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "RRBI",
+   "company": "RED RIVER BANCSHARES INC",
+   "insider": "Price Teddy Ray",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 14.0,
+   "price": 107.8,
+   "value": 1509.2,
+   "acc": "0001770071-26-000012",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "JBSS",
    "company": "SANFILIPPO JOHN B & SON INC",
    "insider": "Finn Michael J",
@@ -4715,6 +4691,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "RRBI",
+   "company": "RED RIVER BANCSHARES INC",
+   "insider": "Price Teddy Ray",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 153.0,
+   "price": 107.56,
+   "value": 16456.68,
+   "acc": "0001770071-26-000012",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Mitchell William Edward",
@@ -4749,6 +4737,18 @@
    "value": 36126.0,
    "acc": "0000921895-26-002932",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "RRBI",
+   "company": "RED RIVER BANCSHARES INC",
+   "insider": "Price Teddy Ray",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 878.0,
+   "price": 107.79,
+   "value": 94639.62,
+   "acc": "0001770071-26-000012",
+   "filed": "2026-11-05"
   },
   {
    "ticker": "LSCC",
@@ -4840,8 +4840,8 @@
   },
   {
    "ticker": "RAPP",
-   "insiders": 6,
-   "total_value": 21848807.27
+   "insiders": 4,
+   "total_value": 21649179.56
   },
   {
    "ticker": "ACN",
@@ -4995,7 +4995,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021265",
   "0001999371-26-021274",
   "0001999371-26-021276",
   "0001999371-26-021292",
@@ -5364,6 +5363,7 @@
   "0001999371-26-024476",
   "0001999371-26-024483",
   "0001999371-26-024518",
+  "0001999371-26-024521",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
