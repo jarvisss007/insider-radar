@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-05 18:25 UTC",
+ "updated_utc": "2026-11-05 18:41 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-22",
-   "shares": 61028.0,
-   "price": 12.421,
-   "value": 758028.79,
-   "acc": "0001398344-26-018736",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
    "company": "Blackstone Multi-Strategy Hedge Fund L.P.",
@@ -3644,6 +3632,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "XIVYX",
+   "company": "Institutional Investment Strategy Fund",
+   "insider": "Ghodoosi Arash",
+   "role": "President, Principal Executive",
+   "date": "2026-11-02",
+   "shares": 7.692,
+   "price": 13.13,
+   "value": 101.0,
+   "acc": "0002004397-26-000009",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "FUNC",
    "company": "FIRST UNITED CORP/MD/",
    "insider": "Sturm Tonya K.",
@@ -5009,7 +5009,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021310",
   "0001999371-26-021314",
   "0001999371-26-021315",
   "0001999371-26-021318",
@@ -5448,6 +5447,7 @@
   "0002004328-26-000016",
   "0002004397-26-000005",
   "0002004397-26-000007",
+  "0002004397-26-000009",
   "0002004883-26-000006",
   "0002004903-26-000006",
   "0002005037-26-000012",
