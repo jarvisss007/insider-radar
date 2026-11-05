@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-05 12:38 UTC",
+ "updated_utc": "2026-11-05 13:26 UTC",
  "purchases": [
-  {
-   "ticker": "NBIS",
-   "company": "Nebius Group N.V.",
-   "insider": "Grimme Arne",
-   "role": "Director",
-   "date": "2026-10-22",
-   "shares": 357.0,
-   "price": 161.97,
-   "value": 57823.29,
-   "acc": "0001513845-26-000141",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 339.0,
-   "price": 239.9203,
-   "value": 81332.98,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
@@ -4583,6 +4559,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 7500.0,
+   "price": 18.6941,
+   "value": 140205.75,
+   "acc": "0000935596-26-000027",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "CRH",
    "company": "CRH PUBLIC LTD CO",
    "insider": "Talbot Siobhan",
@@ -4773,6 +4761,18 @@
    "value": 124078.56,
    "acc": "0001437749-26-034881",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 7500.0,
+   "price": 18.9344,
+   "value": 142008.0,
+   "acc": "0000935596-26-000027",
+   "filed": "2026-11-05"
   },
   {
    "ticker": "PAM",
@@ -4995,7 +4995,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021262",
   "0001999371-26-021265",
   "0001999371-26-021274",
   "0001999371-26-021276",
@@ -5364,6 +5363,7 @@
   "0001999371-26-024471",
   "0001999371-26-024476",
   "0001999371-26-024483",
+  "0001999371-26-024518",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
