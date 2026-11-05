@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-04 23:46 UTC",
+ "updated_utc": "2026-11-05 00:02 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 2000.0,
-   "price": 20.14,
-   "value": 40280.0,
-   "acc": "0001510281-26-000376",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
@@ -4404,6 +4392,19 @@
   {
    "ticker": "ASPE",
    "company": "Aspen Neuroscience, Inc.",
+   "insider": "Thompson Peter A.",
+   "role": "Director",
+   "date": "2026-11-02",
+   "shares": 1000000.0,
+   "price": 15.0,
+   "value": 15000000.0,
+   "acc": "0000947871-26-000981",
+   "filed": "2026-11-04",
+   "placement": true
+  },
+  {
+   "ticker": "ASPE",
+   "company": "Aspen Neuroscience, Inc.",
    "insider": "ARCH Venture Fund X, L.P.",
    "role": "10% owner",
    "date": "2026-11-02",
@@ -4823,9 +4824,9 @@
   },
   {
    "ticker": "ASPE",
-   "insiders": 3,
+   "insiders": 4,
    "total_value": 37999995.0,
-   "other_value": 15000000.0
+   "other_value": 30000000.0
   },
   {
    "ticker": "LRN",
