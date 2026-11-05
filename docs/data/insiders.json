@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-05 23:25 UTC",
+ "updated_utc": "2026-11-05 23:41 UTC",
  "purchases": [
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 65000.0,
-   "price": 5.68,
-   "value": 369200.0,
-   "acc": "0001510281-26-000377",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
@@ -4090,6 +4078,19 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "THIRD POINT PRIVATE CAPITAL INCOME FUND (CIK 2122354)",
+   "company": "Third Point Private Capital Income Fund",
+   "insider": "Loeb Daniel S",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 160000.0,
+   "price": 25.0,
+   "value": 4000000.0,
+   "acc": "0000899140-26-001214",
+   "filed": "2026-11-05",
+   "placement": true
+  },
+  {
    "ticker": "COUR",
    "company": "Coursera, Inc.",
    "insider": "Pale Fire Capital SE",
@@ -4997,7 +4998,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021692",
   "0001999371-26-021694",
   "0001999371-26-021697",
   "0001999371-26-021698",
@@ -5743,6 +5743,7 @@
   "0002026373-26-000008",
   "0002026373-26-000010",
   "0002026600-26-000002",
+  "0002026722-26-000008",
   "0002026961-26-000002",
   "0002026961-26-000009",
   "0002027006-26-000018",
