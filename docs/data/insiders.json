@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-05 21:02 UTC",
+ "updated_utc": "2026-11-05 21:18 UTC",
  "purchases": [
-  {
-   "ticker": "OPTU",
-   "company": "Optimum Communications, Inc.",
-   "insider": "SUBIN NEIL S",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 2164383.0,
-   "price": 0.5196,
-   "value": 1124613.41,
-   "acc": "0001213900-26-112593",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "DOLE",
-   "company": "Dole plc",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 163780.0,
-   "price": 13.3896,
-   "value": 2192948.69,
-   "acc": "0000921895-26-002845",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 9093.0,
-   "price": 241.4423,
-   "value": 2195434.83,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 9501.0,
-   "price": 236.0247,
-   "value": 2242470.67,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 18920.0,
-   "price": 242.7658,
-   "value": 4593128.94,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 246440.0,
-   "price": 35.1523,
-   "value": 8662932.81,
-   "acc": "0001193125-26-432280",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "INM",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 4.0,
-   "price": 1.32,
-   "value": 5.28,
-   "acc": "0001940272-26-000028",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "AIOK",
    "company": "AI OKTO Corp.",
@@ -4294,6 +4210,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "VNDA",
+   "company": "Vanda Pharmaceuticals Inc.",
+   "insider": "Duncan Charles Cliff",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 750.0,
+   "price": 3.7959,
+   "value": 2846.93,
+   "acc": "0001193125-26-449902",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "GLV",
    "company": "Clough Global Dividend & Income Fund",
    "insider": "Kowaleski John E.",
@@ -4498,6 +4426,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "SPXC",
+   "company": "SPX Technologies, Inc.",
+   "insider": "Deck Brian A",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 3000.0,
+   "price": 164.34,
+   "value": 493020.0,
+   "acc": "0001490816-26-000002",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
    "insider": "Mindlin Damian Miguel",
@@ -4630,6 +4570,30 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "VNDA",
+   "company": "Vanda Pharmaceuticals Inc.",
+   "insider": "Duncan Charles Cliff",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 3447.0,
+   "price": 3.821,
+   "value": 13170.99,
+   "acc": "0001193125-26-449902",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "PLSM",
+   "company": "Pulsenmore Ltd.",
+   "insider": "Sonnenschein Elazar",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-04",
+   "shares": 9259.0,
+   "price": 1.7,
+   "value": 15740.3,
+   "acc": "0001493152-26-050241",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "RRBI",
    "company": "RED RIVER BANCSHARES INC",
    "insider": "Price Teddy Ray",
@@ -4750,6 +4714,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "CLX",
+   "company": "CLOROX CO /DE/",
+   "insider": "Breber Pierre R",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 4000.0,
+   "price": 100.0627,
+   "value": 400250.8,
+   "acc": "0001225208-26-008735",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "LSCC",
    "company": "LATTICE SEMICONDUCTOR CORP",
    "insider": "Tamer Ford",
@@ -4795,6 +4771,30 @@
    "price": 9.4456,
    "value": 1995978.07,
    "acc": "0001570585-26-000156",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "JBSS",
+   "company": "SANFILIPPO JOHN B & SON INC",
+   "insider": "Finn Michael J",
+   "role": "Sr. VP, Corporate Controller",
+   "date": "2026-11-05",
+   "shares": 200.0,
+   "price": 56.08,
+   "value": 11216.0,
+   "acc": "0001193125-26-449849",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "VNDA",
+   "company": "Vanda Pharmaceuticals Inc.",
+   "insider": "Duncan Charles Cliff",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 5803.0,
+   "price": 3.8042,
+   "value": 22075.77,
+   "acc": "0001193125-26-449902",
    "filed": "2026-11-05"
   },
   {
@@ -5009,10 +5009,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021372",
-  "0001999371-26-021373",
-  "0001999371-26-021375",
-  "0001999371-26-021384",
   "0001999371-26-021386",
   "0001999371-26-021388",
   "0001999371-26-021390",
@@ -6762,6 +6758,7 @@
   "0002073587-26-000036",
   "0002073587-26-000038",
   "0002073587-26-000040",
+  "0002073587-26-000045",
   "0002073590-26-000026",
   "0002073590-26-000030",
   "0002073590-26-000034",
@@ -6776,6 +6773,7 @@
   "0002073801-26-000043",
   "0002073801-26-000045",
   "0002073801-26-000047",
+  "0002073801-26-000052",
   "0002073865-26-000005",
   "0002073970-26-000001",
   "0002073970-26-000002",
@@ -6995,6 +6993,7 @@
   "0002079093-26-000001",
   "0002079332-26-000004",
   "0002079445-26-000015",
+  "0002079445-26-000021",
   "0002079512-26-000002",
   "0002079520-26-000022",
   "0002079520-26-000024",
@@ -7226,6 +7225,7 @@
   "0002093300-26-000004",
   "0002093489-26-000006",
   "0002093849-26-000008",
+  "0002094262-26-000004",
   "0002094343-26-000008",
   "0002094616-26-000004",
   "0002094623-26-000002",
