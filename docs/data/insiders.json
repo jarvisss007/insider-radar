@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-05 15:31 UTC",
+ "updated_utc": "2026-11-05 15:47 UTC",
  "purchases": [
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "MARAGANORE JOHN",
-   "role": "Director",
-   "date": "2026-10-22",
-   "shares": 8239.0,
-   "price": 26.3799,
-   "value": 217344.0,
-   "acc": "0001193125-26-429071",
-   "filed": "2026-10-22"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 953.0,
-   "price": 243.9143,
-   "value": 232450.33,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "KRRO",
    "company": "Korro Bio, Inc.",
@@ -3717,6 +3693,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "BCBP",
+   "company": "BCB BANCORP INC",
+   "insider": "Gallotta Steven E.",
+   "role": "Director",
+   "date": "2026-11-02",
+   "shares": 55.0,
+   "price": 9.1299,
+   "value": 502.14,
+   "acc": "0001193125-26-448980",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "Bradley Melinda Hodges",
@@ -4319,6 +4307,18 @@
    "filed": "2026-11-03"
   },
   {
+   "ticker": "BCBP",
+   "company": "BCB BANCORP INC",
+   "insider": "Kim Denny",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 57.0,
+   "price": 8.785,
+   "value": 500.75,
+   "acc": "0001193125-26-448969",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "GRX",
    "company": "Gabelli Healthcare & WellnessRx Trust",
    "insider": "Saba Capital Management, L.P.",
@@ -4840,8 +4840,8 @@
   },
   {
    "ticker": "RAPP",
-   "insiders": 4,
-   "total_value": 21649179.56
+   "insiders": 3,
+   "total_value": 21431835.56
   },
   {
    "ticker": "ACN",
@@ -4992,6 +4992,11 @@
    "ticker": "FUNC",
    "insiders": 3,
    "total_value": 6937.5
+  },
+  {
+   "ticker": "BCBP",
+   "insiders": 2,
+   "total_value": 1002.89
   },
   {
    "ticker": "RGCO",
