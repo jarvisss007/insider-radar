@@ -1,114 +1,6 @@
 {
- "updated_utc": "2026-11-05 22:22 UTC",
+ "updated_utc": "2026-11-05 22:38 UTC",
  "purchases": [
-  {
-   "ticker": "CHCO",
-   "company": "CITY HOLDING CO",
-   "insider": "FISHER ROBERT D",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 165.0,
-   "price": 142.13,
-   "value": 23451.45,
-   "acc": "0000726854-26-000185",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "RVI",
-   "company": "Robinhood Ventures Fund I",
-   "insider": "Whitney Meredith",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 1000.0,
-   "price": 23.49,
-   "value": 23490.0,
-   "acc": "0000950103-26-016190",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "AIOK",
-   "company": "AI OKTO Corp.",
-   "insider": "Panagiotidis Petros Panagiotis",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-23",
-   "shares": 3545.0,
-   "price": 6.6738,
-   "value": 23658.62,
-   "acc": "0001140361-26-040923",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "ANIX",
-   "company": "Anixa Biosciences Inc",
-   "insider": "Titterton Lewis H jr",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 8000.0,
-   "price": 2.98,
-   "value": 23840.0,
-   "acc": "0001493152-26-048520",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "FFIN",
-   "company": "FIRST FINANCIAL BANKSHARES INC",
-   "insider": "Nickles Robert Clark Jr",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 820.0,
-   "price": 30.12,
-   "value": 24698.4,
-   "acc": "0001193125-26-433039",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "RVII",
-   "company": "Robinhood Ventures Fund II",
-   "insider": "Whitney Meredith",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 1500.0,
-   "price": 17.75,
-   "value": 26625.0,
-   "acc": "0000950103-26-016189",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "NXTC",
-   "company": "NextCure, Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 5626.0,
-   "price": 4.8294,
-   "value": 27170.2,
-   "acc": "0001940272-26-000029",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "KRRO",
-   "company": "Korro Bio, Inc.",
-   "insider": "Lynx1 Capital Management LP",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 2510.0,
-   "price": 12.1061,
-   "value": 30386.31,
-   "acc": "0000902664-26-004286",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "NBIS",
-   "company": "Nebius Group N.V.",
-   "insider": "Grimme Arne",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 205.0,
-   "price": 158.98,
-   "value": 32590.9,
-   "acc": "0001513845-26-000141",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "OPTU",
    "company": "Optimum Communications, Inc.",
@@ -4198,6 +4090,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "LBRT",
+   "company": "Liberty Energy Inc.",
+   "insider": "Gosney Ryan T",
+   "role": "Chief Accounting Officer",
+   "date": "2026-11-03",
+   "shares": 3000.0,
+   "price": 15.0,
+   "value": 45000.0,
+   "acc": "0001628280-26-071187",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "SPTX",
    "company": "Seaport Therapeutics, Inc.",
    "insider": "Torres Denice",
@@ -4306,6 +4210,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "LBRT",
+   "company": "Liberty Energy Inc.",
+   "insider": "Gusek Ron",
+   "role": "CEO and President",
+   "date": "2026-11-03",
+   "shares": 25000.0,
+   "price": 15.0934,
+   "value": 377335.0,
+   "acc": "0001628280-26-071186",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "LRN",
    "company": "Stride, Inc.",
    "insider": "Shepherd Brian A.",
@@ -4376,6 +4292,18 @@
    "value": 3426850.08,
    "acc": "0001193125-26-445930",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "COUR",
+   "company": "Coursera, Inc.",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 2526702.0,
+   "price": 3.7209,
+   "value": 9401605.47,
+   "acc": "0000921895-26-002941",
+   "filed": "2026-11-05"
   },
   {
    "ticker": "DOLE",
@@ -4654,6 +4582,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO EQUITY & INCOME FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 15011.0,
+   "price": 20.95,
+   "value": 314480.45,
+   "acc": "0001510281-26-000414",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "CLX",
    "company": "CLOROX CO /DE/",
    "insider": "Breber Pierre R",
@@ -4714,6 +4654,44 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "COUR",
+   "company": "Coursera, Inc.",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 2698400.0,
+   "price": 3.8537,
+   "value": 10398824.08,
+   "acc": "0000921895-26-002941",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "LYEL",
+   "company": "Lyell Immunopharma, Inc.",
+   "insider": "ARCH Venture Partners IX, LLC",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 2321262.0,
+   "price": 10.77,
+   "value": 24999991.74,
+   "acc": "0001012975-26-001014",
+   "filed": "2026-11-05",
+   "placement": true
+  },
+  {
+   "ticker": "LYEL",
+   "company": "Lyell Immunopharma, Inc.",
+   "insider": "ARCH Venture Fund XIII, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 2321262.0,
+   "price": 10.77,
+   "value": 24999991.74,
+   "acc": "0001012975-26-001013",
+   "filed": "2026-11-05",
+   "placement": true
+  },
+  {
    "ticker": "SHEN",
    "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
    "insider": "Lytle Glenn E Jr",
@@ -4762,6 +4740,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "LAB",
+   "company": "STANDARD BIOTOOLS INC.",
+   "insider": "Carey Thomas D.",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 75000.0,
+   "price": 0.6253,
+   "value": 46897.5,
+   "acc": "0001193125-26-450238",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "CARLYLE CREDIT SOLUTIONS (CIK 2144472)",
    "company": "Carlyle Credit Solutions",
    "insider": "Hennigan Thomas M",
@@ -4807,6 +4797,18 @@
    "price": 12.694,
    "value": 6712041.36,
    "acc": "0001380615-26-000013",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "COUR",
+   "company": "Coursera, Inc.",
+   "insider": "Pale Fire Capital SE",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 3130149.0,
+   "price": 3.722,
+   "value": 11650414.58,
+   "acc": "0000921895-26-002941",
    "filed": "2026-11-05"
   }
  ],
@@ -4908,6 +4910,11 @@
    "total_value": 453554.5
   },
   {
+   "ticker": "LBRT",
+   "insiders": 2,
+   "total_value": 422335.0
+  },
+  {
    "ticker": "TRTX",
    "insiders": 3,
    "total_value": 298699.0
@@ -4929,8 +4936,8 @@
   },
   {
    "ticker": "FFIN",
-   "insiders": 3,
-   "total_value": 148937.6
+   "insiders": 2,
+   "total_value": 124239.2
   },
   {
    "ticker": "STRZ",
@@ -4961,11 +4968,6 @@
    "ticker": "BHRB",
    "insiders": 2,
    "total_value": 42773.67
-  },
-  {
-   "ticker": "ANIX",
-   "insiders": 2,
-   "total_value": 39690.0
   },
   {
    "ticker": "UMH",
@@ -5001,10 +5003,15 @@
    "ticker": "RGCO",
    "insiders": 2,
    "total_value": 300.0
+  },
+  {
+   "ticker": "LYEL",
+   "insiders": 2,
+   "total_value": 0,
+   "other_value": 49999983.48
   }
  ],
  "seen": [
-  "0001999371-26-021671",
   "0001999371-26-021674",
   "0001999371-26-021678",
   "0001999371-26-021691",
@@ -5332,6 +5339,7 @@
   "0001999371-26-024652",
   "0001999371-26-024654",
   "0001999371-26-024665",
+  "0001999371-26-024667",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
