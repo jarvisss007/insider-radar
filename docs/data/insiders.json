@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-05 21:18 UTC",
+ "updated_utc": "2026-11-05 21:34 UTC",
  "purchases": [
-  {
-   "ticker": "AIOK",
-   "company": "AI OKTO Corp.",
-   "insider": "Panagiotidis Petros Panagiotis",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-23",
-   "shares": 325.0,
-   "price": 7.9831,
-   "value": 2594.51,
-   "acc": "0001140361-26-040923",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "LCU",
-   "company": "Lion Copper Corp.",
-   "insider": "Alford Tony L",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 1000.0,
-   "price": 4.2,
-   "value": 4200.0,
-   "acc": "0001062993-26-005533",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-10-23",
-   "shares": 31675.0,
-   "price": 0.16,
-   "value": 5068.0,
-   "acc": "0001493152-26-048460",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-23",
-   "shares": 6000.0,
-   "price": 0.8472,
-   "value": 5083.2,
-   "acc": "0001493152-26-048422",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "MSM",
-   "company": "MSC INDUSTRIAL DIRECT CO INC",
-   "insider": "Slone Reuben E",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 63.0,
-   "price": 116.5161,
-   "value": 7340.51,
-   "acc": "0001003078-26-000112",
-   "filed": "2026-10-23"
-  },
-  {
-   "ticker": "GROW",
-   "company": "U S GLOBAL INVESTORS INC",
-   "insider": "Pilecki Derek Steven",
-   "role": "",
-   "date": "2026-10-23",
-   "shares": 4532.0,
-   "price": 2.5799,
-   "value": 11692.11,
-   "acc": "0001062993-26-005547",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "GROW",
-   "company": "U S GLOBAL INVESTORS INC",
-   "insider": "Gator Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 4532.0,
-   "price": 2.5799,
-   "value": 11692.11,
-   "acc": "0001062993-26-005549",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "CHCO",
-   "company": "CITY HOLDING CO",
-   "insider": "Reyes Javier A",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 95.0,
-   "price": 142.13,
-   "value": 13502.35,
-   "acc": "0000726854-26-000187",
-   "filed": "2026-10-23"
-  },
   {
    "ticker": "CHCO",
    "company": "CITY HOLDING CO",
@@ -4318,6 +4222,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "BB",
+   "company": "BLACKBERRY Ltd",
+   "insider": "Chaikof David",
+   "role": "Director",
+   "date": "2026-11-03",
+   "shares": 5000.0,
+   "price": 8.18,
+   "value": 40900.0,
+   "acc": "0001070235-26-000145",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "API",
    "company": "Agora, Inc.",
    "insider": "Zhao Bin",
@@ -4340,6 +4256,18 @@
    "value": 99325.0,
    "acc": "0001193125-26-446216",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "UPBD",
+   "company": "UPBOUND GROUP, INC.",
+   "insider": "Karam Fahmi",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-03",
+   "shares": 4407.0,
+   "price": 22.71,
+   "value": 100082.97,
+   "acc": "0001193125-26-449973",
+   "filed": "2026-11-05"
   },
   {
    "ticker": "HGV",
@@ -4375,6 +4303,18 @@
    "price": 94.63,
    "value": 189260.0,
    "acc": "0000849395-26-000015",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 7901.0,
+   "price": 35.348,
+   "value": 279284.55,
+   "acc": "0001193125-26-449978",
    "filed": "2026-11-05"
   },
   {
@@ -4438,6 +4378,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "FBRT",
+   "company": "Franklin BSP Realty Trust, Inc.",
+   "insider": "Byrne Richard J",
+   "role": "Chairman and CEO",
+   "date": "2026-11-03",
+   "shares": 162600.0,
+   "price": 6.14,
+   "value": 998364.0,
+   "acc": "0001104659-26-123375",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
    "insider": "Mindlin Damian Miguel",
@@ -4484,6 +4436,18 @@
    "value": 9832263.96,
    "acc": "0000921895-26-002932",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "CRBG",
+   "company": "Corebridge Financial, Inc.",
+   "insider": "NIPPON LIFE INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 348195.0,
+   "price": 36.1471,
+   "value": 12586239.48,
+   "acc": "0001193125-26-449978",
+   "filed": "2026-11-05"
   },
   {
    "ticker": "KNOP",
@@ -4678,6 +4642,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "SYY",
+   "company": "SYSCO CORP",
+   "insider": "Ondrof Thomas Gerard",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 2500.0,
+   "price": 76.62,
+   "value": 191550.0,
+   "acc": "0001685591-26-000006",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
    "insider": "Zuberbuhler Adolfo Fernando",
@@ -4774,6 +4750,30 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "SHEN",
+   "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+   "insider": "Lytle Glenn E Jr",
+   "role": "SVP Commercial Sales",
+   "date": "2026-11-05",
+   "shares": 500.0,
+   "price": 10.1,
+   "value": 5050.0,
+   "acc": "0002030837-26-000003",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "SHEN",
+   "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+   "insider": "McKay Edward H",
+   "role": "President & CEO",
+   "date": "2026-11-05",
+   "shares": 1000.0,
+   "price": 9.8425,
+   "value": 9842.5,
+   "acc": "0001494886-26-000003",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "JBSS",
    "company": "SANFILIPPO JOHN B & SON INC",
    "insider": "Finn Michael J",
@@ -4835,7 +4835,7 @@
   {
    "ticker": "MSM",
    "insiders": 2,
-   "total_value": 29034298.9
+   "total_value": 29026958.39
   },
   {
    "ticker": "RAPP",
@@ -4948,14 +4948,14 @@
    "total_value": 98550.0
   },
   {
-   "ticker": "CHCO",
-   "insiders": 4,
-   "total_value": 68222.4
-  },
-  {
    "ticker": "STKH",
    "insiders": 2,
    "total_value": 61357.1
+  },
+  {
+   "ticker": "CHCO",
+   "insiders": 3,
+   "total_value": 54720.05
   },
   {
    "ticker": "PMN",
@@ -4978,14 +4978,14 @@
    "total_value": 27188.0
   },
   {
-   "ticker": "GROW",
-   "insiders": 2,
-   "total_value": 23384.22
-  },
-  {
    "ticker": "CBKM",
    "insiders": 2,
    "total_value": 19156.0
+  },
+  {
+   "ticker": "SHEN",
+   "insiders": 2,
+   "total_value": 14892.5
   },
   {
    "ticker": "ATLO",
@@ -5009,10 +5009,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021386",
-  "0001999371-26-021388",
-  "0001999371-26-021390",
-  "0001999371-26-021393",
   "0001999371-26-021424",
   "0001999371-26-021427",
   "0001999371-26-021438",
@@ -5365,6 +5361,7 @@
   "0001999371-26-024599",
   "0001999371-26-024613",
   "0001999371-26-024615",
+  "0001999371-26-024642",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5421,6 +5418,7 @@
   "0002002763-26-000014",
   "0002002965-26-000004",
   "0002003059-26-000008",
+  "0002003074-26-000018",
   "0002003131-26-000013",
   "0002003131-26-000014",
   "0002003376-26-000006",
@@ -5840,6 +5838,7 @@
   "0002030738-26-000004",
   "0002030833-26-000003",
   "0002030833-26-000004",
+  "0002030837-26-000003",
   "0002030841-26-000005",
   "0002030855-26-000008",
   "0002030941-26-000010",
@@ -6968,6 +6967,7 @@
   "0002078265-26-000477",
   "0002078265-26-000478",
   "0002078265-26-000479",
+  "0002078265-26-000480",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
