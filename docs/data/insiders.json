@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-05 14:13 UTC",
+ "updated_utc": "2026-11-05 14:29 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 563.0,
-   "price": 235.504,
-   "value": 132588.75,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "ACOG",
-   "company": "Alpha Cognition Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-10-22",
-   "shares": 17117.0,
-   "price": 8.3266,
-   "value": 142526.41,
-   "acc": "0001493152-26-048562",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "RAPP",
    "company": "Rapport Therapeutics, Inc.",
@@ -4809,6 +4785,30 @@
    "value": 585045.27,
    "acc": "0001437749-26-034881",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "LBTY",
+   "company": "Liberty Global Ltd.",
+   "insider": "FRIES MICHAEL T",
+   "role": "President & CEO",
+   "date": "2026-11-04",
+   "shares": 110000.0,
+   "price": 9.3652,
+   "value": 1030172.0,
+   "acc": "0001058725-26-000011",
+   "filed": "2026-11-05"
+  },
+  {
+   "ticker": "LBTY",
+   "company": "Liberty Global Ltd.",
+   "insider": "Rodriguez Enrique",
+   "role": "EVP, Chief Technology Officer",
+   "date": "2026-11-04",
+   "shares": 211313.0,
+   "price": 9.4456,
+   "value": 1995978.07,
+   "acc": "0001570585-26-000156",
+   "filed": "2026-11-05"
   }
  ],
  "clusters": [
@@ -4847,6 +4847,11 @@
    "ticker": "ACN",
    "insiders": 2,
    "total_value": 3200889.0
+  },
+  {
+   "ticker": "LBTY",
+   "insiders": 2,
+   "total_value": 3026150.07
   },
   {
    "ticker": "NPB",
@@ -4995,7 +5000,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021276",
   "0001999371-26-021292",
   "0001999371-26-021296",
   "0001999371-26-021300",
@@ -7206,6 +7210,7 @@
   "0002093121-26-000006",
   "0002093121-26-000007",
   "0002093121-26-000008",
+  "0002093121-26-000009",
   "0002093135-26-000004",
   "0002093167-26-000009",
   "0002093210-26-000004",
