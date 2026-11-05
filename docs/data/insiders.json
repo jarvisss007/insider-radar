@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-05 22:53 UTC",
+ "updated_utc": "2026-11-05 23:25 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 1223.0,
-   "price": 237.7321,
-   "value": 290746.36,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "NUV",
-   "company": "NUVEEN MUNICIPAL VALUE FUND INC",
-   "insider": "Robert Young L",
-   "role": "",
-   "date": "2026-10-23",
-   "shares": 36430.0,
-   "price": 8.2458,
-   "value": 300394.49,
-   "acc": "0001225208-26-008525",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "NXP",
-   "company": "NUVEEN SELECT TAX FREE INCOME PORTFOLIO",
-   "insider": "Robert Young L",
-   "role": "",
-   "date": "2026-10-23",
-   "shares": 22848.0,
-   "price": 13.1492,
-   "value": 300432.92,
-   "acc": "0001225208-26-008524",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
@@ -3694,6 +3658,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 2255.0,
+   "price": 2.4,
+   "value": 5412.0,
+   "acc": "0001178579-26-000023",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4160,6 +4136,18 @@
    "value": 43499993.04,
    "acc": "0001104659-26-122691",
    "filed": "2026-11-04"
+  },
+  {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 517.0,
+   "price": 2.4,
+   "value": 1240.8,
+   "acc": "0001178579-26-000023",
+   "filed": "2026-11-05"
   },
   {
    "ticker": "RRBI",
@@ -4680,6 +4668,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 8390.0,
+   "price": 2.4,
+   "value": 20136.0,
+   "acc": "0001178579-26-000023",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "VNDA",
    "company": "Vanda Pharmaceuticals Inc.",
    "insider": "Duncan Charles Cliff",
@@ -4997,9 +4997,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021674",
-  "0001999371-26-021678",
-  "0001999371-26-021691",
   "0001999371-26-021692",
   "0001999371-26-021694",
   "0001999371-26-021697",
@@ -5623,6 +5620,7 @@
   "0002016416-26-000022",
   "0002016460-26-000004",
   "0002016680-26-000008",
+  "0002016680-26-000012",
   "0002016813-26-000020",
   "0002016857-26-000010",
   "0002016857-26-000012",
@@ -5875,6 +5873,7 @@
   "0002034782-26-000012",
   "0002034782-26-000017",
   "0002034782-26-000020",
+  "0002034782-26-000024",
   "0002034826-26-000008",
   "0002034826-26-000009",
   "0002034826-26-000010",
@@ -7978,6 +7977,7 @@
   "0002158778-26-000004",
   "0002159565-26-000005",
   "0002159567-26-000005",
+  "0002159746-26-000007",
   "0002159752-26-000006",
   "0002159752-26-000007",
   "0002159752-26-000008",
