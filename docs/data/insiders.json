@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-05 18:41 UTC",
+ "updated_utc": "2026-11-05 18:56 UTC",
  "purchases": [
-  {
-   "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
-   "company": "Blackstone Multi-Strategy Hedge Fund L.P.",
-   "insider": "Abrahams Riad M",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-22",
-   "shares": 31213.19,
-   "price": 25.47,
-   "value": 794999.95,
-   "acc": "0001193125-26-432266",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
@@ -4630,6 +4618,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "CIVB",
+   "company": "CIVISTA BANCSHARES, INC.",
+   "insider": "Macioce Mark J.",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 209.0,
+   "price": 28.98,
+   "value": 6056.82,
+   "acc": "0001974623-26-000006",
+   "filed": "2026-11-05"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Carus Jeffrey A",
@@ -5009,7 +5009,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021314",
   "0001999371-26-021315",
   "0001999371-26-021318",
   "0001999371-26-021322",
@@ -6015,6 +6014,7 @@
   "0002042266-26-000002",
   "0002042647-26-000018",
   "0002042910-26-000003",
+  "0002042934-26-000010",
   "0002043233-26-000006",
   "0002043233-26-000010",
   "0002043317-26-000012",
