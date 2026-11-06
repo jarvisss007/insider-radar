@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-06 11:12 UTC",
+ "updated_utc": "2026-11-06 11:28 UTC",
  "purchases": [
-  {
-   "ticker": "NPB",
-   "company": "NORTHPOINTE BANCSHARES INC",
-   "insider": "Williams Charles Alan",
-   "role": "CHAIRMAN & CEO",
-   "date": "2026-10-23",
-   "shares": 50000.0,
-   "price": 15.4243,
-   "value": 771215.0,
-   "acc": "0001336706-26-000080",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 3405.0,
-   "price": 243.2807,
-   "value": 828370.78,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "ARES MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 50000.0,
-   "price": 23.5328,
-   "value": 1176640.0,
-   "acc": "0001104659-26-119180",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "ARES MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 50000.0,
-   "price": 23.5328,
-   "value": 1176640.0,
-   "acc": "0001104659-26-119177",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "PLUR",
    "company": "Pluri Inc.",
@@ -3598,6 +3550,30 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "SYNX",
+   "company": "Silynxcom Ltd.",
+   "insider": "Klein Gal Nir",
+   "role": "VP Marketing & Israel Sales",
+   "date": "2026-11-03",
+   "shares": 10000.0,
+   "price": 0.9807,
+   "value": 9807.0,
+   "acc": "0001213900-26-116554",
+   "filed": "2026-11-06"
+  },
+  {
+   "ticker": "SYNX",
+   "company": "Silynxcom Ltd.",
+   "insider": "Klein Nir",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-03",
+   "shares": 10000.0,
+   "price": 0.9807,
+   "value": 9807.0,
+   "acc": "0001213900-26-116552",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "OCFC",
    "company": "OCEANFIRST FINANCIAL CORP",
    "insider": "Farris Jack M.",
@@ -4161,6 +4137,30 @@
    "value": 9060.16,
    "acc": "0001493152-26-050313",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "SYNX",
+   "company": "Silynxcom Ltd.",
+   "insider": "Klein Gal Nir",
+   "role": "VP Marketing & Israel Sales",
+   "date": "2026-11-04",
+   "shares": 9940.0,
+   "price": 0.996,
+   "value": 9900.24,
+   "acc": "0001213900-26-116554",
+   "filed": "2026-11-06"
+  },
+  {
+   "ticker": "SYNX",
+   "company": "Silynxcom Ltd.",
+   "insider": "Klein Nir",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-04",
+   "shares": 9940.0,
+   "price": 0.996,
+   "value": 9900.24,
+   "acc": "0001213900-26-116552",
+   "filed": "2026-11-06"
   },
   {
    "ticker": "JBSS",
@@ -4866,11 +4866,6 @@
    "total_value": 1757189.94
   },
   {
-   "ticker": "NPB",
-   "insiders": 2,
-   "total_value": 1584787.6
-  },
-  {
    "ticker": "BA",
    "insiders": 2,
    "total_value": 1508847.7
@@ -4879,6 +4874,11 @@
    "ticker": "BXMT",
    "insiders": 2,
    "total_value": 1149642.0
+  },
+  {
+   "ticker": "NPB",
+   "insiders": 2,
+   "total_value": 813572.6
   },
   {
    "ticker": "HGV",
@@ -4921,6 +4921,11 @@
    "total_value": 259304.33
   },
   {
+   "ticker": "SYNX",
+   "insiders": 3,
+   "total_value": 157430.72
+  },
+  {
    "ticker": "MTDR",
    "insiders": 2,
    "total_value": 130900.0
@@ -4934,11 +4939,6 @@
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 121156.4
-  },
-  {
-   "ticker": "SYNX",
-   "insiders": 3,
-   "total_value": 118016.24
   },
   {
    "ticker": "SEVN",
