@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-06 11:59 UTC",
+ "updated_utc": "2026-11-06 12:15 UTC",
  "purchases": [
-  {
-   "ticker": "SRRK",
-   "company": "Scholar Rock Holding Corp",
-   "insider": "AKKARAJU SRINIVAS",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 47000.0,
-   "price": 41.31,
-   "value": 1941570.0,
-   "acc": "0001253170-26-000014",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4548,6 +4536,18 @@
    "placement": true
   },
   {
+   "ticker": "OWLS",
+   "company": "OBOOK HOLDINGS INC.",
+   "insider": "WANG CHUN KAI",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-05",
+   "shares": 400.0,
+   "price": 2.355,
+   "value": 942.0,
+   "acc": "0002109337-26-000014",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "SHEN",
    "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
    "insider": "Lytle Glenn E Jr",
@@ -5002,7 +5002,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021802",
   "0001999371-26-021804",
   "0001999371-26-021824",
   "0001999371-26-021848",
@@ -7352,6 +7351,7 @@
   "0002109337-26-000011",
   "0002109337-26-000012",
   "0002109337-26-000013",
+  "0002109337-26-000014",
   "0002109629-26-000011",
   "0002109682-26-000006",
   "0002109729-26-000010",
