@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-06 13:50 UTC",
+ "updated_utc": "2026-11-06 14:05 UTC",
  "purchases": [
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 59188.0,
-   "price": 79.84,
-   "value": 4725569.92,
-   "acc": "0001213900-26-113031",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "CRBG",
    "company": "Corebridge Financial, Inc.",
@@ -4548,6 +4536,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-05",
+   "shares": 8307.0,
+   "price": 0.8687,
+   "value": 7216.29,
+   "acc": "0001493152-26-050359",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "SHEN",
    "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
    "insider": "McKay Edward H",
@@ -4832,7 +4832,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 31483167.92
+   "total_value": 26757598.0
   },
   {
    "ticker": "ETRA",
