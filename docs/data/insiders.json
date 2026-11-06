@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-06 16:11 UTC",
+ "updated_utc": "2026-11-06 16:43 UTC",
  "purchases": [
-  {
-   "ticker": "MSM",
-   "company": "MSC INDUSTRIAL DIRECT CO INC",
-   "insider": "JACOBSON MITCHELL",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 60951.0,
-   "price": 115.1094,
-   "value": 7016033.04,
-   "acc": "0000950142-26-002870",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-23",
-   "shares": 411516.0,
-   "price": 33.7365,
-   "value": 13883109.53,
-   "acc": "0001193125-26-434287",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "MSM",
-   "company": "MSC INDUSTRIAL DIRECT CO INC",
-   "insider": "JACOBSON MITCHELL",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 134662.0,
-   "price": 115.995,
-   "value": 15620118.69,
-   "acc": "0000950142-26-002870",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "VALE",
    "company": "Vale S.A.",
@@ -3922,6 +3886,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-11-04",
+   "shares": 9000.0,
+   "price": 0.05,
+   "value": 450.0,
+   "acc": "0001035422-26-000019",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -4066,6 +4042,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "CLST",
+   "company": "Catalyst Bancorp, Inc.",
+   "insider": "Kleiser Kirk E.",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 714.0,
+   "price": 17.755,
+   "value": 12677.07,
+   "acc": "0001885818-26-000007",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "AWRE",
    "company": "AWARE INC /MA/",
    "insider": "Amlani Ajay K",
@@ -4112,6 +4100,18 @@
    "value": 16456.68,
    "acc": "0001770071-26-000012",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "CLST",
+   "company": "Catalyst Bancorp, Inc.",
+   "insider": "Kleiser Kirk E.",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 990.0,
+   "price": 17.755,
+   "value": 17577.45,
+   "acc": "0001885818-26-000007",
+   "filed": "2026-11-06"
   },
   {
    "ticker": "UMH",
@@ -5002,8 +5002,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021925",
-  "0001999371-26-021934",
   "0001999371-26-021936",
   "0001999371-26-021938",
   "0001999371-26-021987",
@@ -5318,6 +5316,8 @@
   "0001999371-26-024667",
   "0001999371-26-024673",
   "0001999371-26-024693",
+  "0001999371-26-024731",
+  "0001999371-26-024735",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
