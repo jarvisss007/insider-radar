@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-06 18:01 UTC",
+ "updated_utc": "2026-11-06 18:17 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-10-26",
-   "shares": 5880.0,
-   "price": 0.057,
-   "value": 335.16,
-   "acc": "0001035422-26-000018",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Staloch Alison",
-   "role": "Treasurer",
-   "date": "2026-10-26",
-   "shares": 41.876,
-   "price": 11.94,
-   "value": 500.0,
-   "acc": "0001435109-26-000161",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4668,6 +4644,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "KYN",
+   "company": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+   "insider": "Little Harrison James",
+   "role": "Executive Vice President",
+   "date": "2026-11-05",
+   "shares": 3900.0,
+   "price": 13.215,
+   "value": 51538.5,
+   "acc": "0002025837-26-000003",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
    "insider": "Calvert Christopher P",
@@ -4726,6 +4714,18 @@
    "value": 225813.21,
    "acc": "0000947871-26-000985",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "KYN",
+   "company": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+   "insider": "Baker James C",
+   "role": "President",
+   "date": "2026-11-05",
+   "shares": 25000.0,
+   "price": 13.2434,
+   "value": 331085.0,
+   "acc": "0001331674-26-000005",
+   "filed": "2026-11-06"
   },
   {
    "ticker": "CARLYLE CREDIT SOLUTIONS (CIK 2144472)",
@@ -4900,6 +4900,11 @@
    "total_value": 422335.0
   },
   {
+   "ticker": "KYN",
+   "insiders": 2,
+   "total_value": 382623.5
+  },
+  {
    "ticker": "TRTX",
    "insiders": 3,
    "total_value": 298699.0
@@ -5002,7 +5007,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-021936",
   "0001999371-26-021938",
   "0001999371-26-021987",
   "0001999371-26-021992",
@@ -5730,6 +5734,7 @@
   "0002025289-26-000005",
   "0002025289-26-000007",
   "0002025334-26-000010",
+  "0002025837-26-000003",
   "0002025901-26-000007",
   "0002025977-26-000006",
   "0002025977-26-000008",
