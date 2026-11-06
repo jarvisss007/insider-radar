@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-06 16:43 UTC",
+ "updated_utc": "2026-11-06 18:01 UTC",
  "purchases": [
-  {
-   "ticker": "VALE",
-   "company": "Vale S.A.",
-   "insider": "de Souza Funo Elaine Maria",
-   "role": "Accounting Officer",
-   "date": "2026-10-26",
-   "shares": 7.0,
-   "price": 11.74,
-   "value": 82.18,
-   "acc": "0001292814-26-005078",
-   "filed": "2026-10-30"
-  },
   {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4690,6 +4678,18 @@
    "value": 105140.0,
    "acc": "0002020286-26-000011",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "KMT",
+   "company": "KENNAMETAL INC",
+   "insider": "Chowbey Sanjay",
+   "role": "President and CEO",
+   "date": "2026-11-05",
+   "shares": 7000.0,
+   "price": 23.624,
+   "value": 165368.0,
+   "acc": "0001782435-26-000005",
+   "filed": "2026-11-06"
   },
   {
    "ticker": "MTUS",
