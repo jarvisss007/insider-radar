@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-06 13:02 UTC",
+ "updated_utc": "2026-11-06 13:18 UTC",
  "purchases": [
-  {
-   "ticker": "SRRK",
-   "company": "Scholar Rock Holding Corp",
-   "insider": "AKKARAJU SRINIVAS",
-   "role": "Director",
-   "date": "2026-10-23",
-   "shares": 94000.0,
-   "price": 41.31,
-   "value": 3883140.0,
-   "acc": "0001253170-26-000014",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "LRN",
    "company": "Stride, Inc.",
@@ -4234,6 +4222,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "PMN",
+   "company": "ProMIS Neurosciences Inc.",
+   "insider": "Williams Eugene",
+   "role": "Director",
+   "date": "2026-11-04",
+   "shares": 26500.0,
+   "price": 3.43,
+   "value": 90895.0,
+   "acc": "0001374339-26-000011",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "RRBI",
    "company": "RED RIVER BANCSHARES INC",
    "insider": "Price Teddy Ray",
@@ -4930,6 +4930,11 @@
    "total_value": 157430.72
   },
   {
+   "ticker": "PMN",
+   "insiders": 2,
+   "total_value": 134745.84
+  },
+  {
    "ticker": "FFIN",
    "insiders": 2,
    "total_value": 124239.2
@@ -4948,11 +4953,6 @@
    "ticker": "STKH",
    "insiders": 2,
    "total_value": 61357.1
-  },
-  {
-   "ticker": "PMN",
-   "insiders": 2,
-   "total_value": 43850.84
   },
   {
    "ticker": "BHRB",
