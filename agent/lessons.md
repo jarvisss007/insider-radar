@@ -1845,3 +1845,7 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - attribution.csv: "bought the run-up (>10%)" n=34 / 23 dates, hit 38%, avg -4.3%; 3+ insiders n=59 / 28 dates, hit 41%, avg -2.7%. Both n are under a verdict; recorded, not argued from.
 - Writer note (append_call): THRM/STC/ANIX check_date 11-26 is Thanksgiving, a HOLIDAY; the roll to 11-27 is correct but the stamp text says "was a weekend". Mislabel only, not patched (REG-PP-001) — a proposal for the writer's owner.
 - Sabha §9: this run wrote no outcome or entry number into this lab (three rows QUEUED blank; the 11 fills were prep's fill_queued from the settled 10-26 bar, proved closed by the 10-27 session having opened). Nothing to name.
+
+## 2026-11-06 [insider] — GARUDA (labs-morning-sweep)
+- Grader (INS-018) 11-05 graded GPUS (0.16 -> 0.15) and WVVI (1.83 -> 1.73), both wrong; reconciled this run — both rows carry their outcome. CBKM (due 10-19) still DUE BUT UNPRICEABLE. Scorecard 80/222 (36.0%): headline 41% (n=142, 44 entry days), sub-floor 28% (n=79). Both strata below the coin bar.
+- New defect class seen in the feed: LYEL's cluster total reads 0 while its two Form 4 lines (ARCH Venture entities) read 25.0M USD each. Logged with the size marked unknown, not sub-floor (strata.py's unknown bucket). The collector's cluster sum is the suspect — proposal, not an edit.
