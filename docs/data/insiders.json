@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-06 23:49 UTC",
+ "updated_utc": "2026-11-07 00:04 UTC",
  "purchases": [
-  {
-   "ticker": "ASIC",
-   "company": "Ategrity Specialty Insurance Co Holdings",
-   "insider": "Schenk Chris",
-   "role": "See Remarks",
-   "date": "2026-10-26",
-   "shares": 1000.0,
-   "price": 24.29,
-   "value": 24290.0,
-   "acc": "0002040491-26-000054",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "KIO",
-   "company": "KKR Income Opportunities Fund",
-   "insider": "Takao Justin",
-   "role": "Treasurer, CAO & CFO",
-   "date": "2026-10-26",
-   "shares": 2914.0,
-   "price": 9.73,
-   "value": 28353.22,
-   "acc": "0000945621-26-001304",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 2618.0,
-   "price": 11.43,
-   "value": 29923.74,
-   "acc": "0001510281-26-000379",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "BBT",
-   "company": "Beacon Financial Corp",
-   "insider": "Polito Karyn",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 1000.0,
-   "price": 30.68,
-   "value": 30680.0,
-   "acc": "0001628280-26-067923",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "NBIS",
-   "company": "Nebius Group N.V.",
-   "insider": "Grimme Arne",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 208.0,
-   "price": 153.96,
-   "value": 32023.68,
-   "acc": "0001513845-26-000141",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-26",
-   "shares": 7692.0,
-   "price": 4.4651,
-   "value": 34345.55,
-   "acc": "0001193125-26-432685",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "TCBX",
-   "company": "Third Coast Bancshares, Inc.",
-   "insider": "Bobbora William",
-   "role": "See Remarks",
-   "date": "2026-10-26",
-   "shares": 1000.0,
-   "price": 40.3398,
-   "value": 40339.8,
-   "acc": "0001193125-26-431998",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "BY",
    "company": "BYLINE BANCORP, INC.",
@@ -3681,6 +3597,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 70.0,
+   "price": 2.85,
+   "value": 199.5,
+   "acc": "0001536588-26-000046",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -3690,6 +3618,18 @@
    "price": 0.05,
    "value": 450.0,
    "acc": "0001035422-26-000019",
+   "filed": "2026-11-06"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 201.0,
+   "price": 2.85,
+   "value": 572.85,
+   "acc": "0001536588-26-000046",
    "filed": "2026-11-06"
   },
   {
@@ -3739,6 +3679,18 @@
    "value": 4877.15,
    "acc": "0001493152-26-050081",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 1930.0,
+   "price": 2.82,
+   "value": 5442.6,
+   "acc": "0001536588-26-000046",
+   "filed": "2026-11-06"
   },
   {
    "ticker": "JBSS",
@@ -4367,6 +4319,30 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 1000.0,
+   "price": 2.85,
+   "value": 2850.0,
+   "acc": "0001536588-26-000046",
+   "filed": "2026-11-06"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 1641.0,
+   "price": 2.85,
+   "value": 4676.85,
+   "acc": "0001536588-26-000046",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "SHEN",
    "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
    "insider": "Lytle Glenn E Jr",
@@ -4389,6 +4365,18 @@
    "value": 5478.19,
    "acc": "0001493152-26-050313",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 2000.0,
+   "price": 2.82,
+   "value": 5640.0,
+   "acc": "0001536588-26-000046",
+   "filed": "2026-11-06"
   },
   {
    "ticker": "UXIN",
@@ -4739,6 +4727,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-06",
+   "shares": 735.0,
+   "price": 2.85,
+   "value": 2094.75,
+   "acc": "0001536588-26-000046",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "AIM",
    "company": "AIM ImmunoTech Inc.",
    "insider": "Equels Thomas K",
@@ -4920,8 +4920,8 @@
   },
   {
    "ticker": "BBT",
-   "insiders": 6,
-   "total_value": 259304.33
+   "insiders": 5,
+   "total_value": 228624.33
   },
   {
    "ticker": "MTDR",
@@ -4967,6 +4967,11 @@
    "ticker": "BHRB",
    "insiders": 2,
    "total_value": 42773.67
+  },
+  {
+   "ticker": "JCTC",
+   "insiders": 2,
+   "total_value": 36066.5
   },
   {
    "ticker": "UMH",
