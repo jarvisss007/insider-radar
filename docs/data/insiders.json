@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-07 02:27 UTC",
+ "updated_utc": "2026-11-07 02:43 UTC",
  "purchases": [
-  {
-   "ticker": "BY",
-   "company": "BYLINE BANCORP, INC.",
-   "insider": "Stewart Pamela C",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 1160.0,
-   "price": 38.6078,
-   "value": 44785.05,
-   "acc": "0001978033-26-000002",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "HBAN",
    "company": "HUNTINGTON BANCSHARES INC /MD/",
@@ -4295,6 +4283,18 @@
    "placement": true
   },
   {
+   "ticker": "OWLS",
+   "company": "OBOOK HOLDINGS INC.",
+   "insider": "Lu Ying",
+   "role": "General Counsel",
+   "date": "2026-11-05",
+   "shares": 3.0,
+   "price": 2.3,
+   "value": 6.9,
+   "acc": "0002109341-26-000003",
+   "filed": "2026-11-06"
+  },
+  {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
    "insider": "Saba Capital Management, L.P.",
@@ -4999,6 +4999,11 @@
    "total_value": 2005.78
   },
   {
+   "ticker": "OWLS",
+   "insiders": 2,
+   "total_value": 948.9
+  },
+  {
    "ticker": "RGCO",
    "insiders": 2,
    "total_value": 300.0
@@ -5011,7 +5016,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022415",
   "0001999371-26-022434",
   "0001999371-26-022443",
   "0001999371-26-022446",
@@ -7355,6 +7359,7 @@
   "0002109337-26-000012",
   "0002109337-26-000013",
   "0002109337-26-000014",
+  "0002109341-26-000003",
   "0002109629-26-000011",
   "0002109682-26-000006",
   "0002109729-26-000010",
