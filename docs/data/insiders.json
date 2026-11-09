@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-09 21:14 UTC",
+ "updated_utc": "2026-11-09 21:30 UTC",
  "purchases": [
-  {
-   "ticker": "SRRK",
-   "company": "Scholar Rock Holding Corp",
-   "insider": "AKKARAJU SRINIVAS",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 48988.0,
-   "price": 41.59,
-   "value": 2037410.92,
-   "acc": "0001253170-26-000014",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "ACN",
-   "company": "Accenture plc",
-   "insider": "Sweet Julie Spellman",
-   "role": "Chair and CEO",
-   "date": "2026-10-26",
-   "shares": 10100.0,
-   "price": 246.1701,
-   "value": 2486318.01,
-   "acc": "0001487630-26-000022",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "SRRK",
-   "company": "Scholar Rock Holding Corp",
-   "insider": "AKKARAJU SRINIVAS",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 97982.0,
-   "price": 41.59,
-   "value": 4075071.38,
-   "acc": "0001253170-26-000014",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 182826.0,
-   "price": 34.9529,
-   "value": 6390298.9,
-   "acc": "0001193125-26-436365",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 90856.0,
-   "price": 78.44,
-   "value": 7126744.64,
-   "acc": "0001213900-26-113031",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
@@ -4043,6 +3983,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "NXTC",
+   "company": "NextCure, Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 1024.0,
+   "price": 5.1,
+   "value": 5222.4,
+   "acc": "0001940272-26-000030",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
    "insider": "Opaleye Management Inc.",
@@ -4619,6 +4571,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "NXTC",
+   "company": "NextCure, Inc.",
+   "insider": "ADAR1 Capital Management, LLC",
+   "role": "10% owner",
+   "date": "2026-11-06",
+   "shares": 3662.0,
+   "price": 5.1,
+   "value": 18676.2,
+   "acc": "0001940272-26-000030",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "PSEC",
    "company": "PROSPECT CAPITAL CORP",
    "insider": "Stark Eugene S",
@@ -4652,6 +4616,18 @@
    "price": 2.5032,
    "value": 82690.71,
    "acc": "0001062993-26-005821",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "LUMN",
+   "company": "Lumen Technologies, Inc.",
+   "insider": "GOLDBERG MICHELLE J",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 25000.0,
+   "price": 3.9086,
+   "value": 97715.0,
+   "acc": "0000018926-26-000074",
    "filed": "2026-11-09"
   },
   {
@@ -4727,6 +4703,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "LUMN",
+   "company": "Lumen Technologies, Inc.",
+   "insider": "Johnson Kathleen E",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-06",
+   "shares": 100000.0,
+   "price": 3.9689,
+   "value": 396890.0,
+   "acc": "0000018926-26-000076",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "MDGL",
    "company": "MADRIGAL PHARMACEUTICALS, INC.",
    "insider": "BAKER BROS. ADVISORS LP",
@@ -4799,6 +4787,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "AIG",
+   "company": "AMERICAN INTERNATIONAL GROUP, INC.",
+   "insider": "Inglis John C",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 127.5309,
+   "price": 78.4123,
+   "value": 9999.99,
+   "acc": "0001657175-26-000013",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "EAF",
    "company": "GRAFTECH INTERNATIONAL LTD",
    "insider": "Shivaram Sachin M",
@@ -4831,7 +4831,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 26431790.56
+   "total_value": 19305045.92
   },
   {
    "ticker": "ETRA",
@@ -4872,6 +4872,11 @@
    "ticker": "HGV",
    "insiders": 2,
    "total_value": 603099.0
+  },
+  {
+   "ticker": "LUMN",
+   "insiders": 2,
+   "total_value": 494605.0
   },
   {
    "ticker": "LBRT",
@@ -5011,11 +5016,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022560",
-  "0001999371-26-022562",
-  "0001999371-26-022577",
-  "0001999371-26-022586",
-  "0001999371-26-022588",
   "0001999371-26-022601",
   "0001999371-26-022604",
   "0001999371-26-022617",
@@ -5735,6 +5735,7 @@
   "0002028611-26-000014",
   "0002028611-26-000016",
   "0002028611-26-000017",
+  "0002028611-26-000018",
   "0002028781-26-000012",
   "0002028916-26-000012",
   "0002028916-26-000013",
@@ -5904,6 +5905,7 @@
   "0002037071-26-000002",
   "0002037071-26-000003",
   "0002037071-26-000004",
+  "0002037118-26-000006",
   "0002037144-26-000004",
   "0002037213-26-000007",
   "0002037266-26-000006",
@@ -6060,6 +6062,7 @@
   "0002048500-26-000013",
   "0002048500-26-000015",
   "0002048588-26-000013",
+  "0002048588-26-000015",
   "0002048593-26-000009",
   "0002048951-26-000032",
   "0002049001-26-000007",
@@ -7002,9 +7005,11 @@
   "0002080406-26-000017",
   "0002080406-26-000018",
   "0002080406-26-000019",
+  "0002080406-26-000020",
   "0002080407-26-000016",
   "0002080407-26-000017",
   "0002080407-26-000019",
+  "0002080407-26-000020",
   "0002080452-26-000011",
   "0002080452-26-000013",
   "0002080456-26-000007",
