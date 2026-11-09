@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-09 17:01 UTC",
+ "updated_utc": "2026-11-09 17:33 UTC",
  "purchases": [
-  {
-   "ticker": "BBT",
-   "company": "Beacon Financial Corp",
-   "insider": "Hollister Thomas J",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 3450.0,
-   "price": 30.43,
-   "value": 104983.5,
-   "acc": "0001628280-26-067255",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
@@ -4739,6 +4727,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "SHEN",
+   "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+   "insider": "QUAGLIO KENNETH L",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 520.0,
+   "price": 9.56,
+   "value": 4971.2,
+   "acc": "0001697225-26-000004",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "LKFN",
    "company": "LAKELAND FINANCIAL CORP",
    "insider": "BARTELS ROBERT E JR",
@@ -4919,11 +4919,6 @@
    "total_value": 277785.03
   },
   {
-   "ticker": "BBT",
-   "insiders": 5,
-   "total_value": 228624.33
-  },
-  {
    "ticker": "MTDR",
    "insiders": 4,
    "total_value": 223704.85
@@ -4942,6 +4937,11 @@
    "ticker": "FFIN",
    "insiders": 2,
    "total_value": 124239.2
+  },
+  {
+   "ticker": "BBT",
+   "insiders": 4,
+   "total_value": 123640.83
   },
   {
    "ticker": "STRZ",
@@ -4980,8 +4980,8 @@
   },
   {
    "ticker": "SHEN",
-   "insiders": 2,
-   "total_value": 14892.5
+   "insiders": 3,
+   "total_value": 19863.7
   },
   {
    "ticker": "ATLO",
