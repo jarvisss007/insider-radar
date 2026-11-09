@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-09 21:30 UTC",
+ "updated_utc": "2026-11-09 21:46 UTC",
  "purchases": [
-  {
-   "ticker": "LYCA",
-   "company": "Lycia Therapeutics, Inc.",
-   "insider": "Venrock Healthcare Capital Partners III, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 1944444.0,
-   "price": 18.0,
-   "value": 34999992.0,
-   "acc": "0001231919-26-001503",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "LONA",
-   "company": "LeonaBio, Inc.",
-   "insider": "Portman David J.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 3149470.0,
-   "price": 3149.47,
-   "value": 9919161280.9,
-   "acc": "0002126186-26-000002",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "VRXA",
-   "company": "Veraxa Biotech AG - Post de-SPAC",
-   "insider": "Gruninger Marc",
-   "role": "Director",
-   "date": "2026-10-27",
-   "shares": 867.0,
-   "price": 0.98,
-   "value": 849.66,
-   "acc": "0001829126-26-011778",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "BHRB",
-   "company": "Burke & Herbert Financial Services Corp.",
-   "insider": "WILSON DAVID",
-   "role": "Director",
-   "date": "2026-10-27",
-   "shares": 35.0,
-   "price": 70.115,
-   "value": 2454.02,
-   "acc": "0001208842-26-000014",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-27",
-   "shares": 300.0,
-   "price": 9.99,
-   "value": 2997.0,
-   "acc": "0001510281-26-000387",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-27",
-   "shares": 400.0,
-   "price": 11.63,
-   "value": 4652.0,
-   "acc": "0001510281-26-000386",
-   "filed": "2026-10-28"
-  },
   {
    "ticker": "BHRB",
    "company": "Burke & Herbert Financial Services Corp.",
@@ -4595,6 +4523,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "Bennett Christopher Lawrence",
+   "role": "Chief Legal Officer",
+   "date": "2026-11-06",
+   "shares": 5000.0,
+   "price": 9.32,
+   "value": 46600.0,
+   "acc": "0001999001-26-000109",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "KMT",
    "company": "KENNAMETAL INC",
    "insider": "Watson Patrick S",
@@ -4604,6 +4544,18 @@
    "price": 23.5,
    "value": 47000.0,
    "acc": "0001700266-26-000004",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "FGBI",
+   "company": "First Guaranty Bancshares, Inc.",
+   "insider": "Smith Edgar R. III",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 5000.0,
+   "price": 11.8,
+   "value": 59000.0,
+   "acc": "0001437749-26-035913",
    "filed": "2026-11-09"
   },
   {
@@ -4787,6 +4739,19 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "OBIO",
+   "company": "Orchestra BioMed Holdings, Inc.",
+   "insider": "Taylor Andrew Lawrence",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-09",
+   "shares": 1000.0,
+   "price": 5.0,
+   "value": 5000.0,
+   "acc": "0001104659-26-124530",
+   "filed": "2026-11-09",
+   "placement": true
+  },
+  {
    "ticker": "AIG",
    "company": "AMERICAN INTERNATIONAL GROUP, INC.",
    "insider": "Inglis John C",
@@ -4799,6 +4764,19 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "OBIO",
+   "company": "Orchestra BioMed Holdings, Inc.",
+   "insider": "Hochman David P",
+   "role": "See Remarks",
+   "date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 5.0,
+   "value": 25000.0,
+   "acc": "0001104659-26-124536",
+   "filed": "2026-11-09",
+   "placement": true
+  },
+  {
    "ticker": "EAF",
    "company": "GRAFTECH INTERNATIONAL LTD",
    "insider": "Shivaram Sachin M",
@@ -4809,6 +4787,32 @@
    "value": 50000.0,
    "acc": "0000931148-26-000092",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "OBIO",
+   "company": "Orchestra BioMed Holdings, Inc.",
+   "insider": "Fain Eric S",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 5.0,
+   "value": 100000.0,
+   "acc": "0001104659-26-124539",
+   "filed": "2026-11-09",
+   "placement": true
+  },
+  {
+   "ticker": "OBIO",
+   "company": "Orchestra BioMed Holdings, Inc.",
+   "insider": "Pacitti David",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 5.0,
+   "value": 100000.0,
+   "acc": "0001104659-26-124537",
+   "filed": "2026-11-09",
+   "placement": true
   }
  ],
  "clusters": [
@@ -4966,7 +4970,7 @@
   {
    "ticker": "BHRB",
    "insiders": 2,
-   "total_value": 42773.67
+   "total_value": 40319.65
   },
   {
    "ticker": "JCTC",
@@ -5013,11 +5017,15 @@
    "insiders": 2,
    "total_value": 0,
    "other_value": 49999983.48
+  },
+  {
+   "ticker": "OBIO",
+   "insiders": 4,
+   "total_value": 0,
+   "other_value": 230000.0
   }
  ],
  "seen": [
-  "0001999371-26-022601",
-  "0001999371-26-022604",
   "0001999371-26-022617",
   "0001999371-26-022635",
   "0001999371-26-022637",
@@ -5505,6 +5513,7 @@
   "0002013319-26-000008",
   "0002013346-26-000004",
   "0002013412-26-000003",
+  "0002013622-26-000003",
   "0002013812-26-000012",
   "0002013812-26-000019",
   "0002013812-26-000021",
@@ -5913,6 +5922,7 @@
   "0002037312-26-000003",
   "0002037321-26-000003",
   "0002037332-26-000009",
+  "0002037711-26-000008",
   "0002038003-26-000003",
   "0002038003-26-000006",
   "0002038097-26-000016",
