@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-09 19:39 UTC",
+ "updated_utc": "2026-11-09 19:55 UTC",
  "purchases": [
-  {
-   "ticker": "LYCA",
-   "company": "Lycia Therapeutics, Inc.",
-   "insider": "Venrock Healthcare Capital Partners III, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 8261.0,
-   "price": 26.97,
-   "value": 222799.17,
-   "acc": "0001231919-26-001503",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "HXL",
-   "company": "HEXCEL CORP /DE/",
-   "insider": "KEATING NEAL J.",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 3000.0,
-   "price": 80.67,
-   "value": 242010.0,
-   "acc": "0001193125-26-436418",
-   "filed": "2026-10-28"
-  },
   {
    "ticker": "KRRO",
    "company": "Korro Bio, Inc.",
@@ -4571,6 +4547,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "VDTA",
+   "company": "Vertical Data Inc.",
+   "insider": "Hamble International Inc.",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 166647.0,
+   "price": 3.0,
+   "value": 499941.0,
+   "acc": "0002145730-26-000006",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "TTMI",
    "company": "TTM TECHNOLOGIES INC",
    "insider": "Ali Wajid",
@@ -4712,6 +4700,18 @@
    "price": 2.5032,
    "value": 82690.71,
    "acc": "0001062993-26-005821",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "GOOD",
+   "company": "GLADSTONE COMMERCIAL CORP",
+   "insider": "Cooper Arthur S.",
+   "role": "CEO & President",
+   "date": "2026-11-06",
+   "shares": 9853.1931,
+   "price": 10.1489,
+   "value": 99999.07,
+   "acc": "0001873961-26-000002",
    "filed": "2026-11-09"
   },
   {
@@ -5011,8 +5011,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022477",
-  "0001999371-26-022482",
   "0001999371-26-022483",
   "0001999371-26-022531",
   "0001999371-26-022534",
@@ -6711,6 +6709,7 @@
   "0002071844-26-001805",
   "0002071844-26-001834",
   "0002071844-26-001835",
+  "0002071844-26-001842",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
@@ -7837,6 +7836,7 @@
   "0002145711-26-000002",
   "0002145730-26-000003",
   "0002145730-26-000004",
+  "0002145730-26-000006",
   "0002145764-26-000004",
   "0002146263-26-000003",
   "0002146263-26-000005",
