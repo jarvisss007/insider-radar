@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-09 23:20 UTC",
+ "updated_utc": "2026-11-09 23:51 UTC",
  "purchases": [
-  {
-   "ticker": "BFC",
-   "company": "Bank First Corp",
-   "insider": "Sprang Todd A.",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 400.0,
-   "price": 148.37,
-   "value": 59348.0,
-   "acc": "0001104659-26-120006",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 5399.0,
-   "price": 12.2417,
-   "value": 66092.94,
-   "acc": "0001213900-26-114242",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "BFH",
-   "company": "BREAD FINANCIAL HOLDINGS, INC.",
-   "insider": "Fawcett John J.",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 3000.0,
-   "price": 24.69,
-   "value": 74070.0,
-   "acc": "0001614143-26-000006",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "HEALY JAMES",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 3772.0,
-   "price": 21.0,
-   "value": 79212.0,
-   "acc": "0001104659-26-120789",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "BBT",
-   "company": "Beacon Financial Corp",
-   "insider": "Callahan Mary Anne",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 3200.0,
-   "price": 30.21,
-   "value": 96672.0,
-   "acc": "0001628280-26-068056",
-   "filed": "2026-10-29"
-  },
   {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
@@ -3790,6 +3730,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 48025.0,
+   "price": 2.0218,
+   "value": 97096.94,
+   "acc": "0001072613-26-000861",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "AN",
    "company": "AUTONATION, INC.",
    "insider": "TRAVISANO JACQUELINE A",
@@ -4378,6 +4330,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 7543.0,
+   "price": 3.86,
+   "value": 29115.98,
+   "acc": "0001628280-26-072428",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
    "insider": "Tannenbaum Robyn",
@@ -4459,6 +4423,18 @@
    "price": 2.5032,
    "value": 82690.71,
    "acc": "0001062993-26-005821",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-06",
+   "shares": 33771.0,
+   "price": 2.4546,
+   "value": 82894.3,
+   "acc": "0001072613-26-000861",
    "filed": "2026-11-09"
   },
   {
@@ -4715,6 +4691,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 9417.0,
+   "price": 2.5295,
+   "value": 23820.3,
+   "acc": "0001072613-26-000861",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
    "insider": "Hochman David P",
@@ -4726,6 +4714,18 @@
    "acc": "0001104659-26-124536",
    "filed": "2026-11-09",
    "placement": true
+  },
+  {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 7453.0,
+   "price": 3.74,
+   "value": 27874.22,
+   "acc": "0001628280-26-072428",
+   "filed": "2026-11-09"
   },
   {
    "ticker": "MTDR",
@@ -4957,11 +4957,6 @@
    "total_value": 121156.4
   },
   {
-   "ticker": "BBT",
-   "insiders": 3,
-   "total_value": 113517.5
-  },
-  {
    "ticker": "SEVN",
    "insiders": 2,
    "total_value": 98550.0
@@ -4995,6 +4990,11 @@
    "ticker": "SHEN",
    "insiders": 3,
    "total_value": 19863.7
+  },
+  {
+   "ticker": "BBT",
+   "insiders": 2,
+   "total_value": 16845.5
   },
   {
    "ticker": "ATLO",
