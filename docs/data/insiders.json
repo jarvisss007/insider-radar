@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-09 20:42 UTC",
+ "updated_utc": "2026-11-09 20:58 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 2030.0,
-   "price": 249.2967,
-   "value": 506072.3,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "ACN",
-   "company": "Accenture plc",
-   "insider": "Sweet Julie Spellman",
-   "role": "Chair and CEO",
-   "date": "2026-10-26",
-   "shares": 2100.0,
-   "price": 245.1063,
-   "value": 514723.23,
-   "acc": "0001487630-26-000022",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "WILLOW TREE CAPITAL CORP (CIK 1944831)",
-   "company": "Willow Tree Capital Corp",
-   "insider": "LIBERTY MUTUAL HOLDING Co INC.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 33187.0,
-   "price": 15.95,
-   "value": 529332.65,
-   "acc": "0001193125-26-435749",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 2498.0,
-   "price": 246.1157,
-   "value": 614797.02,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "XBIT",
-   "company": "XBiotech Inc.",
-   "insider": "SIMARD JOHN",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 368524.0,
-   "price": 1.93,
-   "value": 711251.32,
-   "acc": "0001193125-26-435894",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "NPB",
-   "company": "NORTHPOINTE BANCSHARES INC",
-   "insider": "Williams Charles Alan",
-   "role": "CHAIRMAN & CEO",
-   "date": "2026-10-26",
-   "shares": 50000.0,
-   "price": 15.3235,
-   "value": 766175.0,
-   "acc": "0001336706-26-000080",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4175,6 +4103,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "CMCO",
+   "company": "COLUMBUS MCKINNON CORP",
+   "insider": "Wilson David J.",
+   "role": "President & CEO",
+   "date": "2026-11-05",
+   "shares": 290.0,
+   "price": 17.52,
+   "value": 5080.8,
+   "acc": "0001628280-26-072106",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
    "insider": "Opaleye Management Inc.",
@@ -4355,6 +4295,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "CMCO",
+   "company": "COLUMBUS MCKINNON CORP",
+   "insider": "Wilson David J.",
+   "role": "President & CEO",
+   "date": "2026-11-05",
+   "shares": 4104.0,
+   "price": 16.65,
+   "value": 68331.6,
+   "acc": "0001628280-26-072106",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "ECF",
    "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
    "insider": "Saba Capital Management, L.P.",
@@ -4367,6 +4319,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "CMCO",
+   "company": "COLUMBUS MCKINNON CORP",
+   "insider": "Wilson David J.",
+   "role": "President & CEO",
+   "date": "2026-11-05",
+   "shares": 5417.0,
+   "price": 17.12,
+   "value": 92739.04,
+   "acc": "0001628280-26-072106",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "GFS",
    "company": "GLOBALFOUNDRIES Inc.",
    "insider": "MOORTHY GANESH",
@@ -4377,6 +4341,18 @@
    "value": 93687.5,
    "acc": "0001628280-26-071813",
    "filed": "2026-11-06"
+  },
+  {
+   "ticker": "CMCO",
+   "company": "COLUMBUS MCKINNON CORP",
+   "insider": "Wilson David J.",
+   "role": "President & CEO",
+   "date": "2026-11-05",
+   "shares": 6073.0,
+   "price": 17.1,
+   "value": 103848.3,
+   "acc": "0001628280-26-072106",
+   "filed": "2026-11-09"
   },
   {
    "ticker": "MTDR",
@@ -4449,6 +4425,18 @@
    "value": 225813.21,
    "acc": "0000947871-26-000985",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "CMCO",
+   "company": "COLUMBUS MCKINNON CORP",
+   "insider": "Wilson David J.",
+   "role": "President & CEO",
+   "date": "2026-11-05",
+   "shares": 16747.0,
+   "price": 16.8,
+   "value": 281349.6,
+   "acc": "0001628280-26-072106",
+   "filed": "2026-11-09"
   },
   {
    "ticker": "JOF",
@@ -4604,6 +4592,18 @@
    "price": 26.4,
    "value": 45199994.4,
    "acc": "0001687898-26-000010",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-06",
+   "shares": 12751.0,
+   "price": 0.158,
+   "value": 2014.66,
+   "acc": "0001493152-26-050703",
    "filed": "2026-11-09"
   },
   {
@@ -4854,11 +4854,6 @@
    "total_value": 2283951.5
   },
   {
-   "ticker": "WILLOW TREE CAPITAL CORP (CIK 1944831)",
-   "insiders": 2,
-   "total_value": 1757189.94
-  },
-  {
    "ticker": "BA",
    "insiders": 2,
    "total_value": 1508847.7
@@ -4867,11 +4862,6 @@
    "ticker": "BXMT",
    "insiders": 2,
    "total_value": 1149642.0
-  },
-  {
-   "ticker": "NPB",
-   "insiders": 2,
-   "total_value": 813572.6
   },
   {
    "ticker": "LKQ",
@@ -5011,8 +5001,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022534",
-  "0001999371-26-022547",
   "0001999371-26-022549",
   "0001999371-26-022551",
   "0001999371-26-022553",
@@ -6118,6 +6106,7 @@
   "0002051575-26-000004",
   "0002051619-26-000018",
   "0002051619-26-000020",
+  "0002051619-26-000022",
   "0002051813-26-000010",
   "0002051813-26-000011",
   "0002052022-26-000005",
@@ -6155,6 +6144,7 @@
   "0002053424-26-000018",
   "0002053424-26-000020",
   "0002053424-26-000022",
+  "0002053424-26-000024",
   "0002053652-26-000008",
   "0002053652-26-000009",
   "0002053652-26-000010",
