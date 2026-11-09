@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-09 20:26 UTC",
+ "updated_utc": "2026-11-09 20:42 UTC",
  "purchases": [
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "ARES MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 20834.0,
-   "price": 24.0696,
-   "value": 501466.05,
-   "acc": "0001104659-26-119180",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "ARES MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 20834.0,
-   "price": 24.0696,
-   "value": 501466.05,
-   "acc": "0001104659-26-119177",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "GPI",
    "company": "GROUP 1 AUTOMOTIVE INC",
@@ -4439,6 +4415,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "LCRDX",
+   "company": "Lord Abbett Credit Opportunities Fund",
+   "insider": "Rocco Steven F",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 26075.619,
+   "price": 7.67,
+   "value": 200000.0,
+   "acc": "0000930413-26-003265",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
    "insider": "GORDON CARL L",
@@ -4629,6 +4617,18 @@
    "value": 2094.75,
    "acc": "0001536588-26-000046",
    "filed": "2026-11-06"
+  },
+  {
+   "ticker": "ATLO",
+   "company": "AMES NATIONAL CORP",
+   "insider": "Bauer Scott T",
+   "role": "",
+   "date": "2026-11-06",
+   "shares": 88.0,
+   "price": 33.75,
+   "value": 2970.0,
+   "acc": "0001391715-26-000002",
+   "filed": "2026-11-09"
   },
   {
    "ticker": "AIM",
@@ -4980,8 +4980,8 @@
   },
   {
    "ticker": "ATLO",
-   "insiders": 2,
-   "total_value": 8441.68
+   "insiders": 3,
+   "total_value": 11411.68
   },
   {
    "ticker": "FUNC",
