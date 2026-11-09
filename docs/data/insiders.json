@@ -1,127 +1,6 @@
 {
- "updated_utc": "2026-11-09 22:02 UTC",
+ "updated_utc": "2026-11-09 22:17 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-27",
-   "shares": 5800.0,
-   "price": 0.9044,
-   "value": 5245.52,
-   "acc": "0001493152-26-048824",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "SHBI",
-   "company": "SHORE BANCSHARES INC",
-   "insider": "LAMON JOHN",
-   "role": "Director",
-   "date": "2026-10-27",
-   "shares": 338.0,
-   "price": 22.94,
-   "value": 7753.72,
-   "acc": "0001463254-26-000008",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "SAMG",
-   "company": "Silvercrest Asset Management Group Inc.",
-   "insider": "Equinox Partners Investment Management LLC",
-   "role": "10% owner",
-   "date": "2026-10-27",
-   "shares": 899.0,
-   "price": 10.1,
-   "value": 9079.9,
-   "acc": "0001013594-26-001116",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "BBT",
-   "company": "Beacon Financial Corp",
-   "insider": "Fitzgerald Margaret Boles",
-   "role": "Director",
-   "date": "2026-10-27",
-   "shares": 329.0,
-   "price": 30.77,
-   "value": 10123.33,
-   "acc": "0001628280-26-067740",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-27",
-   "shares": 3000.0,
-   "price": 4.4735,
-   "value": 13420.5,
-   "acc": "0001193125-26-437062",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "NXTC",
-   "company": "NextCure, Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-10-27",
-   "shares": 3553.0,
-   "price": 5.0953,
-   "value": 18103.6,
-   "acc": "0001940272-26-000029",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "HYFM",
-   "company": "HYDROFARM HOLDINGS GROUP, INC.",
-   "insider": "PARKER MARK S",
-   "role": "President",
-   "date": "2026-10-27",
-   "shares": 22099.0,
-   "price": 0.905,
-   "value": 19999.6,
-   "acc": "0001437749-26-034002",
-   "filed": "2026-10-29",
-   "placement": true
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-10-27",
-   "shares": 10707.0,
-   "price": 2.4,
-   "value": 25696.8,
-   "acc": "0001178579-26-000022",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "NBIS",
-   "company": "Nebius Group N.V.",
-   "insider": "Grimme Arne",
-   "role": "Director",
-   "date": "2026-10-27",
-   "shares": 205.0,
-   "price": 159.04,
-   "value": 32603.2,
-   "acc": "0001513845-26-000143",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-27",
-   "shares": 3648.0,
-   "price": 10.22,
-   "value": 37282.56,
-   "acc": "0001510281-26-000385",
-   "filed": "2026-10-28"
-  },
   {
    "ticker": "LRN",
    "company": "Stride, Inc.",
@@ -4211,6 +4090,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "ADM",
+   "company": "Archer-Daniels-Midland Co",
+   "insider": "McAtee David R II",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 2800.0,
+   "price": 70.27,
+   "value": 196756.0,
+   "acc": "0001225208-26-008783",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "LCRDX",
    "company": "Lord Abbett Credit Opportunities Fund",
    "insider": "Rocco Steven F",
@@ -4316,6 +4207,18 @@
    "price": 3.0,
    "value": 499941.0,
    "acc": "0002145730-26-000006",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "WCC",
+   "company": "WESCO INTERNATIONAL INC",
+   "insider": "Dev Indraneel",
+   "role": "EVP & CFO",
+   "date": "2026-11-05",
+   "shares": 1725.0,
+   "price": 291.9,
+   "value": 503527.5,
+   "acc": "0001193125-26-453812",
    "filed": "2026-11-09"
   },
   {
@@ -4463,6 +4366,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "Hetzel Brandon",
+   "role": "CFO and Treasurer",
+   "date": "2026-11-06",
+   "shares": 1500.0,
+   "price": 3.05,
+   "value": 4575.0,
+   "acc": "0001628280-26-072321",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "SHEN",
    "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
    "insider": "QUAGLIO KENNETH L",
@@ -4484,6 +4399,18 @@
    "price": 18.1,
    "value": 9050.0,
    "acc": "0001437749-26-035924",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Appel Shelley F",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 275.0,
+   "price": 50.25,
+   "value": 13818.75,
+   "acc": "0001981193-26-000006",
    "filed": "2026-11-09"
   },
   {
@@ -4523,6 +4450,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "Tannenbaum Robyn",
+   "role": "President and CIO",
+   "date": "2026-11-06",
+   "shares": 10000.0,
+   "price": 3.09,
+   "value": 30900.0,
+   "acc": "0001628280-26-072327",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
    "insider": "Bennett Christopher Lawrence",
@@ -4544,6 +4483,30 @@
    "price": 23.5,
    "value": 47000.0,
    "acc": "0001700266-26-000004",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Stetson Glenn W",
+   "role": "EVP and COO",
+   "date": "2026-11-06",
+   "shares": 1000.0,
+   "price": 50.8,
+   "value": 50800.0,
+   "acc": "0002020289-26-000008",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 18500.0,
+   "price": 3.08,
+   "value": 56980.0,
+   "acc": "0001628280-26-072331",
    "filed": "2026-11-09"
   },
   {
@@ -4592,6 +4555,18 @@
    "price": 184.56,
    "value": 99846.96,
    "acc": "0001293167-26-000008",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "WCC",
+   "company": "WESCO INTERNATIONAL INC",
+   "insider": "Marino Anthony S",
+   "role": "EVP & CHRO",
+   "date": "2026-11-06",
+   "shares": 341.0,
+   "price": 292.97,
+   "value": 99902.77,
+   "acc": "0001193125-26-453825",
    "filed": "2026-11-09"
   },
   {
@@ -4764,6 +4739,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Appel Shelley F",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 475.0,
+   "price": 49.9,
+   "value": 23702.5,
+   "acc": "0001981193-26-000006",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
    "insider": "Hochman David P",
@@ -4775,6 +4762,18 @@
    "acc": "0001104659-26-124536",
    "filed": "2026-11-09",
    "placement": true
+  },
+  {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Appel Shelley F",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 600.0,
+   "price": 50.0,
+   "value": 30000.0,
+   "acc": "0001981193-26-000006",
+   "filed": "2026-11-09"
   },
   {
    "ticker": "EAF",
@@ -4873,6 +4872,11 @@
    "total_value": 792615.47
   },
   {
+   "ticker": "WCC",
+   "insiders": 2,
+   "total_value": 603430.27
+  },
+  {
    "ticker": "HGV",
    "insiders": 2,
    "total_value": 603099.0
@@ -4891,6 +4895,11 @@
    "ticker": "KYN",
    "insiders": 2,
    "total_value": 382623.5
+  },
+  {
+   "ticker": "MTDR",
+   "insiders": 6,
+   "total_value": 342026.1
   },
   {
    "ticker": "TRTX",
@@ -4918,11 +4927,6 @@
    "total_value": 277785.03
   },
   {
-   "ticker": "MTDR",
-   "insiders": 4,
-   "total_value": 223704.85
-  },
-  {
    "ticker": "KMT",
    "insiders": 2,
    "total_value": 212368.0
@@ -4943,14 +4947,14 @@
    "total_value": 124239.2
   },
   {
-   "ticker": "BBT",
-   "insiders": 4,
-   "total_value": 123640.83
-  },
-  {
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 121156.4
+  },
+  {
+   "ticker": "BBT",
+   "insiders": 3,
+   "total_value": 113517.5
   },
   {
    "ticker": "SEVN",
@@ -4961,6 +4965,11 @@
    "ticker": "TBBK",
    "insiders": 2,
    "total_value": 93035.0
+  },
+  {
+   "ticker": "AFCG",
+   "insiders": 3,
+   "total_value": 92455.0
   },
   {
    "ticker": "STKH",
@@ -5021,10 +5030,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022651",
-  "0001999371-26-022675",
-  "0001999371-26-022678",
-  "0001999371-26-022714",
   "0001999371-26-022721",
   "0001999371-26-022738",
   "0001999371-26-022742",
@@ -5636,6 +5641,7 @@
   "0002020286-26-000011",
   "0002020287-26-000002",
   "0002020287-26-000003",
+  "0002020289-26-000008",
   "0002020561-26-000004",
   "0002020969-26-000006",
   "0002021233-26-000012",
@@ -6956,6 +6962,8 @@
   "0002078265-26-000481",
   "0002078265-26-000482",
   "0002078265-26-000483",
+  "0002078265-26-000484",
+  "0002078265-26-000485",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
@@ -7286,6 +7294,7 @@
   "0002100241-26-000005",
   "0002100449-26-000004",
   "0002100449-26-000006",
+  "0002100449-26-000008",
   "0002100573-26-000006",
   "0002100774-26-000004",
   "0002100792-26-000011",
