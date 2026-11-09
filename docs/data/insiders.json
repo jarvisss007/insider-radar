@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-09 18:20 UTC",
+ "updated_utc": "2026-11-09 18:36 UTC",
  "purchases": [
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 20616.0,
-   "price": 5.4,
-   "value": 111326.4,
-   "acc": "0001510281-26-000381",
-   "filed": "2026-10-27"
-  },
   {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
@@ -4739,6 +4727,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "KMT",
+   "company": "KENNAMETAL INC",
+   "insider": "Watson Patrick S",
+   "role": "Vice President and CFO",
+   "date": "2026-11-06",
+   "shares": 2000.0,
+   "price": 23.5,
+   "value": 47000.0,
+   "acc": "0001700266-26-000004",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "LKFN",
    "company": "LAKELAND FINANCIAL CORP",
    "insider": "BARTELS ROBERT E JR",
@@ -4922,6 +4922,11 @@
    "ticker": "MTDR",
    "insiders": 4,
    "total_value": 223704.85
+  },
+  {
+   "ticker": "KMT",
+   "insiders": 2,
+   "total_value": 212368.0
   },
   {
    "ticker": "SYNX",
