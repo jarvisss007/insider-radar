@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-09 20:58 UTC",
+ "updated_utc": "2026-11-09 21:14 UTC",
  "purchases": [
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 3720.0,
-   "price": 245.3284,
-   "value": 912621.65,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 4040.0,
-   "price": 248.3276,
-   "value": 1003243.5,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
-  {
-   "ticker": "WILLOW TREE CAPITAL CORP (CIK 1944831)",
-   "company": "Willow Tree Capital Corp",
-   "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 76981.648,
-   "price": 15.95,
-   "value": 1227857.29,
-   "acc": "0000950142-26-002868",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "GOLD",
-   "company": "Gold.com, Inc.",
-   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 32675.0,
-   "price": 38.9609,
-   "value": 1273047.41,
-   "acc": "0001104659-26-119719",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 109019.0,
-   "price": 12.4769,
-   "value": 1360219.16,
-   "acc": "0001398344-26-019008",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 6606.0,
-   "price": 244.0245,
-   "value": 1612025.85,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "SRRK",
    "company": "Scholar Rock Holding Corp",
@@ -4343,6 +4271,30 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "AN",
+   "company": "AUTONATION, INC.",
+   "insider": "TRAVISANO JACQUELINE A",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 530.0,
+   "price": 185.29,
+   "value": 98203.7,
+   "acc": "0001738096-26-000003",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "AN",
+   "company": "AUTONATION, INC.",
+   "insider": "Szlosek Thomas A",
+   "role": "EVP & CFO",
+   "date": "2026-11-05",
+   "shares": 540.0,
+   "price": 185.098,
+   "value": 99952.92,
+   "acc": "0001293167-26-000008",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "CMCO",
    "company": "COLUMBUS MCKINNON CORP",
    "insider": "Wilson David J.",
@@ -4667,6 +4619,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "PSEC",
+   "company": "PROSPECT CAPITAL CORP",
+   "insider": "Stark Eugene S",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 15000.0,
+   "price": 1.34,
+   "value": 20100.0,
+   "acc": "0001315319-26-000002",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "KMT",
    "company": "KENNAMETAL INC",
    "insider": "Watson Patrick S",
@@ -4688,6 +4652,18 @@
    "price": 2.5032,
    "value": 82690.71,
    "acc": "0001062993-26-005821",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "AN",
+   "company": "AUTONATION, INC.",
+   "insider": "Szlosek Thomas A",
+   "role": "EVP & CFO",
+   "date": "2026-11-06",
+   "shares": 541.0,
+   "price": 184.56,
+   "value": 99846.96,
+   "acc": "0001293167-26-000008",
    "filed": "2026-11-09"
   },
   {
@@ -4724,6 +4700,30 @@
    "price": 61.0931,
    "value": 117176.57,
    "acc": "0001210212-26-000004",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "SOPH",
+   "company": "SOPHiA GENETICS SA",
+   "insider": "Muken Ross",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-06",
+   "shares": 20000.0,
+   "price": 6.8594,
+   "value": 137188.0,
+   "acc": "0001840706-26-000351",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "SOPH",
+   "company": "SOPHiA GENETICS SA",
+   "insider": "CARDOZA GEORGE",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-06",
+   "shares": 20000.0,
+   "price": 7.06,
+   "value": 141200.0,
+   "acc": "0001840706-26-000352",
    "filed": "2026-11-09"
   },
   {
@@ -4894,6 +4894,16 @@
    "total_value": 298104.0
   },
   {
+   "ticker": "AN",
+   "insiders": 2,
+   "total_value": 298003.58
+  },
+  {
+   "ticker": "SOPH",
+   "insiders": 2,
+   "total_value": 278388.0
+  },
+  {
    "ticker": "OCFC",
    "insiders": 3,
    "total_value": 277785.03
@@ -5001,10 +5011,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022549",
-  "0001999371-26-022551",
-  "0001999371-26-022553",
-  "0001999371-26-022556",
   "0001999371-26-022560",
   "0001999371-26-022562",
   "0001999371-26-022577",
@@ -5623,6 +5629,7 @@
   "0002019976-26-000010",
   "0002019976-26-000011",
   "0002019976-26-000013",
+  "0002019976-26-000014",
   "0002020161-26-000015",
   "0002020220-26-000022",
   "0002020286-26-000008",
@@ -6150,6 +6157,7 @@
   "0002053652-26-000010",
   "0002053876-26-000006",
   "0002054266-26-000008",
+  "0002054266-26-000010",
   "0002054688-26-000008",
   "0002054905-26-000008",
   "0002055009-26-000006",
@@ -6384,6 +6392,7 @@
   "0002066491-26-000011",
   "0002066491-26-000013",
   "0002066642-26-000004",
+  "0002066642-26-000006",
   "0002066736-26-000004",
   "0002066736-26-000005",
   "0002066778-26-000006",
@@ -7775,6 +7784,7 @@
   "0002141655-26-000008",
   "0002141713-26-000004",
   "0002141713-26-000007",
+  "0002141713-26-000009",
   "0002141720-26-000002",
   "0002141866-26-000004",
   "0002141866-26-000006",
