@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-09 19:07 UTC",
+ "updated_utc": "2026-11-09 19:39 UTC",
  "purchases": [
-  {
-   "ticker": "STC",
-   "company": "STEWART INFORMATION SERVICES CORP",
-   "insider": "EPPINGER FREDERICK H",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-26",
-   "shares": 3000.0,
-   "price": 44.45,
-   "value": 133350.0,
-   "acc": "0001628280-26-067616",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "HBAN",
-   "company": "HUNTINGTON BANCSHARES INC /MD/",
-   "insider": "ROLLINS JAMES D III",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 10000.0,
-   "price": 19.43,
-   "value": 194300.0,
-   "acc": "0001225208-26-008542",
-   "filed": "2026-10-28"
-  },
-  {
-   "ticker": "ACN",
-   "company": "Accenture plc",
-   "insider": "Price Paula A",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 800.0,
-   "price": 249.8097,
-   "value": 199847.76,
-   "acc": "0001369240-26-000014",
-   "filed": "2026-10-28"
-  },
   {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
@@ -4739,6 +4703,30 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "GROW",
+   "company": "U S GLOBAL INVESTORS INC",
+   "insider": "Pilecki Derek Steven",
+   "role": "",
+   "date": "2026-11-06",
+   "shares": 33034.0,
+   "price": 2.5032,
+   "value": 82690.71,
+   "acc": "0001062993-26-005821",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "NSLR",
+   "company": "Neostellar Capital Corp.",
+   "insider": "Potter Leonard",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 20000.0,
+   "price": 5.76,
+   "value": 115200.0,
+   "acc": "0001493152-26-050692",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "LKFN",
    "company": "LAKELAND FINANCIAL CORP",
    "insider": "BARTELS ROBERT E JR",
@@ -4809,6 +4797,18 @@
    "value": 23134106.0,
    "acc": "0001193125-26-452132",
    "filed": "2026-11-06"
+  },
+  {
+   "ticker": "EAF",
+   "company": "GRAFTECH INTERNATIONAL LTD",
+   "insider": "Shivaram Sachin M",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 10.0,
+   "value": 50000.0,
+   "acc": "0000931148-26-000092",
+   "filed": "2026-11-09"
   }
  ],
  "clusters": [
@@ -4837,11 +4837,6 @@
    "ticker": "ETRA",
    "insiders": 2,
    "total_value": 7210232.78
-  },
-  {
-   "ticker": "ACN",
-   "insiders": 2,
-   "total_value": 3200889.0
   },
   {
    "ticker": "LBTY",
@@ -4892,11 +4887,6 @@
    "ticker": "LBRT",
    "insiders": 2,
    "total_value": 422335.0
-  },
-  {
-   "ticker": "HBAN",
-   "insiders": 2,
-   "total_value": 394134.5
   },
   {
    "ticker": "KYN",
