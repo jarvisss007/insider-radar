@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-09 19:55 UTC",
+ "updated_utc": "2026-11-09 20:10 UTC",
  "purchases": [
-  {
-   "ticker": "KRRO",
-   "company": "Korro Bio, Inc.",
-   "insider": "Lynx1 Capital Management LP",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 25124.0,
-   "price": 11.7454,
-   "value": 295091.43,
-   "acc": "0000902664-26-004286",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "LRN",
    "company": "Stride, Inc.",
@@ -4595,6 +4583,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Damian Miguel",
+   "role": "Vicepresident",
+   "date": "2026-11-05",
+   "shares": 20000.0,
+   "price": 64.37,
+   "value": 1287400.0,
+   "acc": "0002028916-26-000013",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "GLXY",
    "company": "Galaxy Digital Inc.",
    "insider": "Novogratz Michael",
@@ -4839,14 +4839,14 @@
    "total_value": 7210232.78
   },
   {
+   "ticker": "PAM",
+   "insiders": 2,
+   "total_value": 4110818.82
+  },
+  {
    "ticker": "LBTY",
    "insiders": 2,
    "total_value": 3026150.07
-  },
-  {
-   "ticker": "PAM",
-   "insiders": 2,
-   "total_value": 2823418.82
   },
   {
    "ticker": "TTMI",
@@ -5011,7 +5011,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022483",
   "0001999371-26-022531",
   "0001999371-26-022534",
   "0001999371-26-022547",
@@ -5743,6 +5742,7 @@
   "0002028611-26-000017",
   "0002028781-26-000012",
   "0002028916-26-000012",
+  "0002028916-26-000013",
   "0002028917-26-000003",
   "0002028977-26-000015",
   "0002028977-26-000017",
