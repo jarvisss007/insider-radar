@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-09 23:04 UTC",
+ "updated_utc": "2026-11-09 23:20 UTC",
  "purchases": [
-  {
-   "ticker": "HYMC",
-   "company": "HYCROFT MINING HOLDING CORP",
-   "insider": "Rhodes Blake",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 3000.0,
-   "price": 16.6917,
-   "value": 50075.1,
-   "acc": "0001493152-26-048971",
-   "filed": "2026-10-28"
-  },
   {
    "ticker": "BFC",
    "company": "Bank First Corp",
@@ -3742,6 +3730,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "ECHO",
+   "company": "EchoStar CORP",
+   "insider": "Wall William P",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 1000.0,
+   "price": 90.41,
+   "value": 90410.0,
+   "acc": "0001393025-26-000007",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
    "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
@@ -5035,7 +5035,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022830",
   "0001999371-26-022849",
   "0001999371-26-022851",
   "0001999371-26-022853",
@@ -7494,6 +7493,7 @@
   "0002116936-26-000003",
   "0002116974-26-000005",
   "0002116974-26-000006",
+  "0002116974-26-000007",
   "0002116980-26-000006",
   "0002117086-26-000002",
   "0002117102-26-000004",
