@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-09 22:33 UTC",
+ "updated_utc": "2026-11-09 22:49 UTC",
  "purchases": [
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "GLENBROOK CAPITAL MANAGEMENT",
-   "role": "10% owner",
-   "date": "2026-10-28",
-   "shares": 28000.0,
-   "price": 0.9651,
-   "value": 27022.8,
-   "acc": "0001731122-26-001386",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "PEO",
-   "company": "ADAMS NATURAL RESOURCES FUND, INC.",
-   "insider": "Nelson Jane Musser",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 1010.0,
-   "price": 29.93,
-   "value": 30229.3,
-   "acc": "0001771309-26-000005",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-28",
-   "shares": 9549.0,
-   "price": 4.4675,
-   "value": 42660.16,
-   "acc": "0001193125-26-437062",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "ARCC",
-   "company": "ARES CAPITAL CORP",
-   "insider": "HENSON MARY BETH",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 2500.0,
-   "price": 18.46,
-   "value": 46150.0,
-   "acc": "0001628280-26-068348",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "NPB",
-   "company": "NORTHPOINTE BANCSHARES INC",
-   "insider": "Chaudhary Rajeev Kumar",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 3000.0,
-   "price": 15.7992,
-   "value": 47397.6,
-   "acc": "0001336706-26-000086",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "BFH",
-   "company": "BREAD FINANCIAL HOLDINGS, INC.",
-   "insider": "Fawcett John J.",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 2000.0,
-   "price": 24.71,
-   "value": 49420.0,
-   "acc": "0001614143-26-000006",
-   "filed": "2026-10-30"
-  },
   {
    "ticker": "ACTU",
    "company": "ACTUATE THERAPEUTICS, INC.",
@@ -4018,6 +3946,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "LRN",
+   "company": "Stride, Inc.",
+   "insider": "Haggart Dylan G.",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 2880.0,
+   "price": 74.52,
+   "value": 214617.6,
+   "acc": "0001213900-26-117633",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
    "insider": "GORDON CARL L",
@@ -4135,6 +4075,18 @@
    "price": 9.93,
    "value": 397200.0,
    "acc": "0001166152-26-000014",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "LRN",
+   "company": "Stride, Inc.",
+   "insider": "Haggart Dylan G.",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 5393.0,
+   "price": 74.07,
+   "value": 399459.51,
+   "acc": "0001213900-26-117633",
    "filed": "2026-11-09"
   },
   {
@@ -4256,6 +4208,18 @@
    "value": 6712041.36,
    "acc": "0001380615-26-000013",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "LRN",
+   "company": "Stride, Inc.",
+   "insider": "Haggart Dylan G.",
+   "role": "Director",
+   "date": "2026-11-05",
+   "shares": 100000.0,
+   "price": 74.88,
+   "value": 7488000.0,
+   "acc": "0001213900-26-117633",
+   "filed": "2026-11-09"
   },
   {
    "ticker": "COUR",
@@ -4812,6 +4776,42 @@
    "acc": "0001104659-26-124537",
    "filed": "2026-11-09",
    "placement": true
+  },
+  {
+   "ticker": "ROK",
+   "company": "ROCKWELL AUTOMATION, INC",
+   "insider": "Moret Blake D.",
+   "role": "President and CEO",
+   "date": "2026-11-09",
+   "shares": 550.0,
+   "price": 387.4354,
+   "value": 213089.47,
+   "acc": "0001515154-26-000003",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "ROK",
+   "company": "ROCKWELL AUTOMATION, INC",
+   "insider": "Moret Blake D.",
+   "role": "President and CEO",
+   "date": "2026-11-09",
+   "shares": 1039.0,
+   "price": 385.5906,
+   "value": 400628.63,
+   "acc": "0001515154-26-000003",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "ROK",
+   "company": "ROCKWELL AUTOMATION, INC",
+   "insider": "Moret Blake D.",
+   "role": "President and CEO",
+   "date": "2026-11-09",
+   "shares": 2411.0,
+   "price": 386.4502,
+   "value": 931731.43,
+   "acc": "0001515154-26-000003",
+   "filed": "2026-11-09"
   }
  ],
  "clusters": [
@@ -4834,7 +4834,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 19242858.08
+   "total_value": 27344935.19
   },
   {
    "ticker": "ETRA",
@@ -5035,8 +5035,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022742",
-  "0001999371-26-022749",
   "0001999371-26-022751",
   "0001999371-26-022757",
   "0001999371-26-022779",
@@ -5949,6 +5947,7 @@
   "0002039852-26-000132",
   "0002039852-26-000134",
   "0002039852-26-000136",
+  "0002039852-26-000138",
   "0002039891-26-000008",
   "0002040101-26-000002",
   "0002040255-26-000006",
@@ -7548,6 +7547,7 @@
   "0002118015-26-000006",
   "0002118015-26-000007",
   "0002118015-26-000008",
+  "0002118028-26-000006",
   "0002118402-26-000013",
   "0002118769-26-000002",
   "0002119130-26-000007",
