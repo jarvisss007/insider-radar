@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-09 20:10 UTC",
+ "updated_utc": "2026-11-09 20:26 UTC",
  "purchases": [
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-10-26",
-   "shares": 4152.0,
-   "price": 78.47,
-   "value": 325807.44,
-   "acc": "0001213900-26-113031",
-   "filed": "2026-10-27"
-  },
-  {
-   "ticker": "GPI",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "insider": "Conifer Management, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-10-26",
-   "shares": 1577.0,
-   "price": 247.2353,
-   "value": 389890.07,
-   "acc": "0000905148-26-004561",
-   "filed": "2026-10-26"
-  },
   {
    "ticker": "CTEV",
    "company": "Claritev Corp",
@@ -4631,6 +4607,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "NFRX",
+   "company": "2023 ETF Series Trust",
+   "insider": "Harrison Street Real Assets Fund LLC",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 1712121.0,
+   "price": 26.4,
+   "value": 45199994.4,
+   "acc": "0001687898-26-000010",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4799,6 +4787,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "DLPN",
+   "company": "Dolphin Entertainment, Inc.",
+   "insider": "O'Dowd William IV",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-09",
+   "shares": 5200.0,
+   "price": 0.95,
+   "value": 4940.0,
+   "acc": "0001079973-26-001439",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "EAF",
    "company": "GRAFTECH INTERNATIONAL LTD",
    "insider": "Shivaram Sachin M",
@@ -4831,7 +4831,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 26757598.0
+   "total_value": 26431790.56
   },
   {
    "ticker": "ETRA",
@@ -5011,7 +5011,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022531",
   "0001999371-26-022534",
   "0001999371-26-022547",
   "0001999371-26-022549",
@@ -5290,6 +5289,7 @@
   "0001999371-26-024844",
   "0001999371-26-024848",
   "0001999371-26-024907",
+  "0001999371-26-024935",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
