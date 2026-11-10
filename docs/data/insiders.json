@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-10 21:29 UTC",
+ "updated_utc": "2026-11-10 21:46 UTC",
  "purchases": [
-  {
-   "ticker": "OCFC",
-   "company": "OCEANFIRST FINANCIAL CORP",
-   "insider": "Katsoulis Nicos",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 10000.0,
-   "price": 17.8277,
-   "value": 178277.0,
-   "acc": "0001408329-26-000004",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "LYCA",
-   "company": "Lycia Therapeutics, Inc.",
-   "insider": "Venrock Healthcare Capital Partners III, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 8804.0,
-   "price": 26.27,
-   "value": 231281.08,
-   "acc": "0001231919-26-001519",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "TRTX",
-   "company": "TPG RE Finance Trust, Inc.",
-   "insider": "SILVERSTEIN WENDY",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 38900.0,
-   "price": 6.51,
-   "value": 253239.0,
-   "acc": "0001193125-26-444483",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 15143.0,
-   "price": 20.25,
-   "value": 306645.75,
-   "acc": "0001510281-26-000400",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 15143.0,
-   "price": 20.25,
-   "value": 306645.75,
-   "acc": "0001510281-26-000425",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 4200.0,
-   "price": 78.51,
-   "value": 329742.0,
-   "acc": "0001213900-26-115698",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "LKQ",
-   "company": "LKQ CORP",
-   "insider": "CLARKE ANDREW C",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 21800.0,
-   "price": 18.35,
-   "value": 400030.0,
-   "acc": "0001214659-26-013690",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "ATEC",
-   "company": "Alphatec Holdings, Inc.",
-   "insider": "Demski David M",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 60000.0,
-   "price": 6.81,
-   "value": 408600.0,
-   "acc": "0001555392-26-000004",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "SITE",
    "company": "SiteOne Landscape Supply, Inc.",
@@ -3835,6 +3739,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "SLQT",
+   "company": "SelectQuote, Inc.",
+   "insider": "Hawks Donald L III",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 26598.0,
+   "price": 0.439,
+   "value": 11676.52,
+   "acc": "0001794783-26-000092",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
    "insider": "Appel Shelley F",
@@ -3919,6 +3835,30 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "SLQT",
+   "company": "SelectQuote, Inc.",
+   "insider": "Grant William Thomas III",
+   "role": "CHIEF OPERATING OFFICER",
+   "date": "2026-11-06",
+   "shares": 79600.0,
+   "price": 0.505,
+   "value": 40198.0,
+   "acc": "0001794783-26-000093",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "SLQT",
+   "company": "SelectQuote, Inc.",
+   "insider": "Grant Robert Clay",
+   "role": "PRESIDENT",
+   "date": "2026-11-06",
+   "shares": 79801.0,
+   "price": 0.505,
+   "value": 40299.5,
+   "acc": "0001794783-26-000090",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
    "insider": "LEE CHAE",
@@ -3976,6 +3916,30 @@
    "price": 51.42,
    "value": 48849.0,
    "acc": "0001945821-26-000004",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "SMCI",
+   "company": "Super Micro Computer, Inc.",
+   "insider": "Angel Scott",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 1715.0,
+   "price": 29.1199,
+   "value": 49940.63,
+   "acc": "0002063388-26-000006",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "SLQT",
+   "company": "SelectQuote, Inc.",
+   "insider": "Danker Timothy Robert",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-11-06",
+   "shares": 100668.0,
+   "price": 0.504,
+   "value": 50736.67,
+   "acc": "0001794783-26-000091",
    "filed": "2026-11-10"
   },
   {
@@ -4085,6 +4049,18 @@
    "value": 82894.3,
    "acc": "0001072613-26-000861",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "HADDRILL RICHARD M",
+   "role": "Executive Chair",
+   "date": "2026-11-06",
+   "shares": 9000.0,
+   "price": 10.08,
+   "value": 90720.0,
+   "acc": "0001999001-26-000111",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "LUMN",
@@ -4205,6 +4181,18 @@
    "value": 141200.0,
    "acc": "0001840706-26-000352",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "SLQT",
+   "company": "SelectQuote, Inc.",
+   "insider": "Weldon Raymond F",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 409836.0,
+   "price": 0.49,
+   "value": 200819.64,
+   "acc": "0001794783-26-000094",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "UFCS",
@@ -4679,6 +4667,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "SLQT",
+   "company": "SelectQuote, Inc.",
+   "insider": "Hawks Donald L III",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 223402.0,
+   "price": 0.459,
+   "value": 102541.52,
+   "acc": "0001794783-26-000092",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "CNXN",
    "company": "PC CONNECTION INC",
    "insider": "Zafirovski Matthew David",
@@ -4826,7 +4826,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 27344935.19
+   "total_value": 27015193.19
   },
   {
    "ticker": "ETRA",
@@ -4857,11 +4857,6 @@
    "ticker": "TTMI",
    "insiders": 2,
    "total_value": 941141.0
-  },
-  {
-   "ticker": "LKQ",
-   "insiders": 3,
-   "total_value": 792615.47
   },
   {
    "ticker": "CRH",
@@ -4899,9 +4894,19 @@
    "total_value": 473687.5
   },
   {
+   "ticker": "SLQT",
+   "insiders": 5,
+   "total_value": 446271.85
+  },
+  {
    "ticker": "LBRT",
    "insiders": 2,
    "total_value": 422335.0
+  },
+  {
+   "ticker": "LKQ",
+   "insiders": 2,
+   "total_value": 392585.47
   },
   {
    "ticker": "KYN",
@@ -4939,11 +4944,6 @@
    "total_value": 212368.0
   },
   {
-   "ticker": "OCFC",
-   "insiders": 2,
-   "total_value": 188285.03
-  },
-  {
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 188167.5
@@ -4957,6 +4957,11 @@
    "ticker": "STRA",
    "insiders": 2,
    "total_value": 163118.2
+  },
+  {
+   "ticker": "FUN",
+   "insiders": 2,
+   "total_value": 137320.0
   },
   {
    "ticker": "PMN",
@@ -5047,8 +5052,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023233",
-  "0001999371-26-023234",
   "0001999371-26-023258",
   "0001999371-26-023262",
   "0001999371-26-023270",
@@ -6336,6 +6339,7 @@
   "0002063236-26-000012",
   "0002063236-26-000014",
   "0002063236-26-000015",
+  "0002063388-26-000006",
   "0002063597-26-000004",
   "0002063597-26-000006",
   "0002063597-26-000008",
@@ -8028,6 +8032,7 @@
   "0002159752-26-000007",
   "0002159752-26-000008",
   "0002160029-26-000004",
+  "0002160181-26-000006",
   "0002160291-26-000009",
   "0002160363-26-000003",
   "0002160363-26-000004",
