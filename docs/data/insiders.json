@@ -1,234 +1,6 @@
 {
- "updated_utc": "2026-11-10 11:33 UTC",
+ "updated_utc": "2026-11-10 11:48 UTC",
  "purchases": [
-  {
-   "ticker": "LYCA",
-   "company": "Lycia Therapeutics, Inc.",
-   "insider": "Venrock Healthcare Capital Partners III, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 1000.0,
-   "price": 26.33,
-   "value": 26330.0,
-   "acc": "0001231919-26-001519",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "BHRB",
-   "company": "Burke & Herbert Financial Services Corp.",
-   "insider": "McLaughlin Shawn Patrick",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 500.0,
-   "price": 71.0,
-   "value": 35500.0,
-   "acc": "0001964493-26-000010",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "CLH",
-   "company": "CLEAN HARBORS INC",
-   "insider": "Polito Karyn",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 125.0,
-   "price": 314.83,
-   "value": 39353.75,
-   "acc": "0001965457-26-000007",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-29",
-   "shares": 9429.0,
-   "price": 4.4471,
-   "value": 41931.71,
-   "acc": "0001193125-26-442557",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "PKBK",
-   "company": "PARKE BANCORP, INC.",
-   "insider": "PANTILIONE VITO S",
-   "role": "President & CEO",
-   "date": "2026-10-29",
-   "shares": 1300.0,
-   "price": 32.86,
-   "value": 42718.0,
-   "acc": "0001437749-26-034164",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "JOF",
-   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 5083.0,
-   "price": 11.31,
-   "value": 57488.73,
-   "acc": "0001510281-26-000402",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 5975.0,
-   "price": 11.87,
-   "value": 70923.25,
-   "acc": "0001510281-26-000396",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 4226.0,
-   "price": 20.13,
-   "value": 85069.38,
-   "acc": "0001510281-26-000400",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "FFIN",
-   "company": "FIRST FINANCIAL BANKSHARES INC",
-   "insider": "Denny Michael B.",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 3245.0,
-   "price": 30.76,
-   "value": 99816.2,
-   "acc": "0001193125-26-441381",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "JBLU",
-   "company": "JETBLUE AIRWAYS CORP",
-   "insider": "BONEPARTH PETER",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 100000.0,
-   "price": 3.0,
-   "value": 300000.0,
-   "acc": "0001078543-26-000003",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "SAMG",
-   "company": "Silvercrest Asset Management Group Inc.",
-   "insider": "Equinox Partners Investment Management LLC",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 32499.0,
-   "price": 10.45,
-   "value": 339614.55,
-   "acc": "0001013594-26-001116",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 19675.0,
-   "price": 20.1,
-   "value": 395467.5,
-   "acc": "0001510281-26-000400",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "XYL",
-   "company": "Xylem Inc.",
-   "insider": "KOCH D CHRISTIAN",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 11000.0,
-   "price": 89.6,
-   "value": 985600.0,
-   "acc": "0001524472-26-000150",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "DINO",
-   "company": "HF Sinclair Corp",
-   "insider": "MYERS FRANKLIN",
-   "role": "CEO",
-   "date": "2026-10-29",
-   "shares": 10000.0,
-   "price": 110.8,
-   "value": 1108000.0,
-   "acc": "0001193125-26-438100",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 246521.0,
-   "price": 35.4978,
-   "value": 8750953.15,
-   "acc": "0001193125-26-443677",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "HAMILTON LANE VENTURE CAPITAL & GROWTH FUND (CIK 2047692)",
-   "company": "Hamilton Lane Venture Capital & Growth Fund",
-   "insider": "HAMILTON LANE ADVISORS LLC",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 1707325.402,
-   "price": 20.5,
-   "value": 35000170.74,
-   "acc": "0001213900-26-115107",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "ROL",
-   "company": "ROLLINS INC",
-   "insider": "R. Randall Rollins Voting Trust U/A dated August 25, 1994",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 1444402.0,
-   "price": 34.5864,
-   "value": 49956665.33,
-   "acc": "0001104659-26-121503",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "ROL",
-   "company": "ROLLINS INC",
-   "insider": "LOR INC",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 1444402.0,
-   "price": 34.5864,
-   "value": 49956665.33,
-   "acc": "0001104659-26-121502",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "Bradley Melinda Hodges",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 2.0,
-   "price": 2.82,
-   "value": 5.64,
-   "acc": "0001536588-26-000044",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
@@ -3895,6 +3667,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 6.0,
+   "price": 70.5,
+   "value": 423.0,
+   "acc": "0001046179-26-000782",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "AIM",
    "company": "AIM ImmunoTech Inc.",
    "insider": "Equels Thomas K",
@@ -3943,6 +3727,42 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lu Chin-Sheng",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 40.0,
+   "price": 70.5,
+   "value": 2820.0,
+   "acc": "0001046179-26-000776",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wu Yi-Huang",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 41.0,
+   "price": 70.5,
+   "value": 2890.5,
+   "acc": "0001046179-26-000790",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Hwang Yuan-Ko",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 41.0,
+   "price": 70.5,
+   "value": 2890.5,
+   "acc": "0001046179-26-000780",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
    "insider": "Bauer Scott T",
@@ -3953,6 +3773,30 @@
    "value": 2970.0,
    "acc": "0001391715-26-000002",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yuan Lipen",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 43.0,
+   "price": 70.5,
+   "value": 3031.5,
+   "acc": "0001046179-26-000789",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Tien Bor-Zen",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 43.0,
+   "price": 70.5,
+   "value": 3031.5,
+   "acc": "0001046179-26-000782",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "AIM",
@@ -3976,6 +3820,18 @@
    "price": 70.5,
    "value": 3313.5,
    "acc": "0001046179-26-000753",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Shyue-Shyh",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 47.0,
+   "price": 70.5,
+   "value": 3313.5,
+   "acc": "0001046179-26-000774",
    "filed": "2026-11-10"
   },
   {
@@ -4005,6 +3861,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Ku Yao-Ching",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 48.0,
+   "price": 70.5,
+   "value": 3384.0,
+   "acc": "0001046179-26-000777",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Chuang Juiping",
    "role": "VP",
    "date": "2026-11-06",
@@ -4012,6 +3880,66 @@
    "price": 70.5,
    "value": 3525.0,
    "acc": "0001046179-26-000746",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lin Chris Horng-Dar",
+   "role": "VP and CIO",
+   "date": "2026-11-06",
+   "shares": 50.0,
+   "price": 70.5,
+   "value": 3525.0,
+   "acc": "0001046179-26-000781",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Jang Syun-Ming",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 51.0,
+   "price": 70.5,
+   "value": 3595.5,
+   "acc": "0001046179-26-000778",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lu Lee-Chung",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 53.0,
+   "price": 70.5,
+   "value": 3736.5,
+   "acc": "0001046179-26-000773",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yoo Chue-San",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 54.0,
+   "price": 70.5,
+   "value": 3807.0,
+   "acc": "0001046179-26-000793",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lee Chun-Hsien",
+   "role": "SVP",
+   "date": "2026-11-06",
+   "shares": 54.0,
+   "price": 70.5,
+   "value": 3807.0,
+   "acc": "0001046179-26-000772",
    "filed": "2026-11-10"
   },
   {
@@ -4041,6 +3969,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wang Ying-Lang",
+   "role": "SVP",
+   "date": "2026-11-06",
+   "shares": 56.0,
+   "price": 70.5,
+   "value": 3948.0,
+   "acc": "0001046179-26-000775",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Cao Min",
    "role": "VP",
    "date": "2026-11-06",
@@ -4053,6 +3993,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Yeap Choh Fei",
+   "role": "SVP",
+   "date": "2026-11-06",
+   "shares": 57.0,
+   "price": 70.5,
+   "value": 4018.5,
+   "acc": "0001046179-26-000792",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Fang Shu-Hua",
    "role": "SVP and GC",
    "date": "2026-11-06",
@@ -4060,6 +4012,18 @@
    "price": 70.5,
    "value": 4089.0,
    "acc": "0001046179-26-000755",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wu Shien-Yang",
+   "role": "SVP",
+   "date": "2026-11-06",
+   "shares": 59.0,
+   "price": 70.5,
+   "value": 4159.5,
+   "acc": "0001046179-26-000794",
    "filed": "2026-11-10"
   },
   {
@@ -4087,6 +4051,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Zhang Kevin Xiaoqiang",
+   "role": "SVP and Deputy Co-COO",
+   "date": "2026-11-06",
+   "shares": 65.0,
+   "price": 70.5,
+   "value": 4582.5,
+   "acc": "0001046179-26-000791",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "SHEN",
    "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
    "insider": "QUAGLIO KENNETH L",
@@ -4108,6 +4084,18 @@
    "price": 70.5,
    "value": 5146.5,
    "acc": "0001046179-26-000742",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Mii Yuh-Jier",
+   "role": "EVP and Co-COO",
+   "date": "2026-11-06",
+   "shares": 73.0,
+   "price": 70.5,
+   "value": 5146.5,
+   "acc": "0001046179-26-000771",
    "filed": "2026-11-10"
   },
   {
@@ -4133,6 +4121,18 @@
    "value": 9050.0,
    "acc": "0001437749-26-035924",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Wei Che-Chia",
+   "role": "Chairman and CEO",
+   "date": "2026-11-06",
+   "shares": 155.0,
+   "price": 70.5,
+   "value": 10927.5,
+   "acc": "0001046179-26-000779",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "MTDR",
@@ -4813,11 +4813,6 @@
  ],
  "clusters": [
   {
-   "ticker": "ROL",
-   "insiders": 2,
-   "total_value": 99913330.66
-  },
-  {
    "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
    "insiders": 2,
    "total_value": 43199576.68
@@ -4944,14 +4939,14 @@
    "total_value": 212368.0
   },
   {
+   "ticker": "TSM",
+   "insiders": 30,
+   "total_value": 188167.5
+  },
+  {
    "ticker": "PMN",
    "insiders": 2,
    "total_value": 134745.84
-  },
-  {
-   "ticker": "FFIN",
-   "insiders": 2,
-   "total_value": 124239.2
   },
   {
    "ticker": "SYNX",
@@ -4962,11 +4957,6 @@
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 121156.4
-  },
-  {
-   "ticker": "TSM",
-   "insiders": 13,
-   "total_value": 115129.5
   },
   {
    "ticker": "SEVN",
@@ -4991,7 +4981,7 @@
   {
    "ticker": "JCTC",
    "insiders": 2,
-   "total_value": 33356.1
+   "total_value": 33350.46
   },
   {
    "ticker": "UMH",
@@ -5042,7 +5032,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022910",
   "0001999371-26-022913",
   "0001999371-26-022918",
   "0001999371-26-022921",
@@ -7611,6 +7600,7 @@
   "0002122401-26-000002",
   "0002122411-26-000001",
   "0002122411-26-000002",
+  "0002122411-26-000003",
   "0002122712-26-000004",
   "0002122855-26-000006",
   "0002123147-26-000003",
