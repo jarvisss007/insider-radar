@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-10 22:33 UTC",
+ "updated_utc": "2026-11-10 22:49 UTC",
  "purchases": [
-  {
-   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
-   "company": "John Hancock GA Senior Loan Trust",
-   "insider": "Manufacturers Life Insurance Co (Bermuda Branch)",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 756628.6562,
-   "price": 16.124,
-   "value": 12199880.45,
-   "acc": "0001833683-26-000020",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "SIRI",
-   "company": "SIRIUS XM HOLDINGS INC.",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 743965.0,
-   "price": 28.8913,
-   "value": 21494116.0,
-   "acc": "0001193125-26-445930",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
-   "company": "John Hancock GA Senior Loan Trust",
-   "insider": "Manufacturers Life Reinsurance Ltd",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 1922581.0117,
-   "price": 16.124,
-   "value": 30999696.23,
-   "acc": "0001765496-26-000020",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "DAKT",
    "company": "DAKTRONICS INC /SD/",
@@ -4207,6 +4171,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "JAFFER REHAN",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 700000.0,
+   "price": 10.0,
+   "value": 7000000.0,
+   "acc": "0001999001-26-000113",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "KEENOVA THERAPEUTICS PLC (CIK 1567892)",
    "company": "Keenova Therapeutics plc",
    "insider": "GOLDENTREE ASSET MANAGEMENT LP",
@@ -4715,6 +4691,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "JAFFER REHAN",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 350000.0,
+   "price": 10.86,
+   "value": 3801000.0,
+   "acc": "0001999001-26-000113",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -4809,14 +4797,21 @@
    "value": 1170504.82,
    "acc": "0001182684-26-000022",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "JAFFER REHAN",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 400000.0,
+   "price": 10.32,
+   "value": 4128000.0,
+   "acc": "0001999001-26-000113",
+   "filed": "2026-11-10"
   }
  ],
  "clusters": [
-  {
-   "ticker": "JOHN HANCOCK GA SENIOR LOAN TRUST (CIK 1742951)",
-   "insiders": 2,
-   "total_value": 43199576.68
-  },
   {
    "ticker": "ASPE",
    "insiders": 4,
@@ -4827,6 +4822,11 @@
    "ticker": "LRN",
    "insiders": 2,
    "total_value": 23098693.19
+  },
+  {
+   "ticker": "FUN",
+   "insiders": 3,
+   "total_value": 15066320.0
   },
   {
    "ticker": "ETRA",
@@ -4959,11 +4959,6 @@
    "total_value": 163118.2
   },
   {
-   "ticker": "FUN",
-   "insiders": 2,
-   "total_value": 137320.0
-  },
-  {
    "ticker": "PMN",
    "insiders": 2,
    "total_value": 129495.0
@@ -5052,8 +5047,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023336",
-  "0001999371-26-023345",
   "0001999371-26-023378",
   "0001999371-26-023381",
   "0001999371-26-023384",
@@ -6282,6 +6275,7 @@
   "0002060834-26-000001",
   "0002061058-26-000005",
   "0002061058-26-000006",
+  "0002061169-26-000009",
   "0002061219-26-000011",
   "0002061219-26-000013",
   "0002061219-26-000015",
@@ -8051,7 +8045,8 @@
   "0002162845-26-000005",
   "0002162908-26-000005",
   "0002163040-26-000004",
-  "0002163153-26-000002"
+  "0002163153-26-000002",
+  "0002163322-26-000004"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
