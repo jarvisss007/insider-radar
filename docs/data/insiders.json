@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 14:06 UTC",
+ "updated_utc": "2026-11-10 14:37 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "Bradley Melinda Hodges",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 1000.0,
-   "price": 2.715,
-   "value": 2715.0,
-   "acc": "0001536588-26-000044",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -3439,6 +3427,18 @@
    "filed": "2026-11-05"
   },
   {
+   "ticker": "FLOC",
+   "company": "Flowco Holdings Inc.",
+   "insider": "EDWARDS JOSEPH R",
+   "role": "President and CEO",
+   "date": "2026-11-05",
+   "shares": 20000.0,
+   "price": 19.4866,
+   "value": 389732.0,
+   "acc": "0001193125-26-454576",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
    "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
@@ -4869,6 +4869,11 @@
    "total_value": 758960.0
   },
   {
+   "ticker": "FLOC",
+   "insiders": 2,
+   "total_value": 682656.18
+  },
+  {
    "ticker": "ADTN",
    "insiders": 2,
    "total_value": 675088.22
@@ -4986,7 +4991,7 @@
   {
    "ticker": "JCTC",
    "insiders": 2,
-   "total_value": 33350.46
+   "total_value": 30635.46
   },
   {
    "ticker": "UMH",
@@ -5037,7 +5042,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022957",
   "0001999371-26-022960",
   "0001999371-26-022962",
   "0001999371-26-022980",
@@ -5272,6 +5276,7 @@
   "0001999371-26-024907",
   "0001999371-26-024935",
   "0001999371-26-024986",
+  "0001999371-26-024997",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
