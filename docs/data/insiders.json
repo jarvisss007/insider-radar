@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 11:48 UTC",
+ "updated_utc": "2026-11-10 12:34 UTC",
  "purchases": [
-  {
-   "ticker": "ATLO",
-   "company": "AMES NATIONAL CORP",
-   "insider": "Cassabaum Michelle R",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 48.0,
-   "price": 33.66,
-   "value": 1615.68,
-   "acc": "0001773399-26-000008",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "SNES",
    "company": "SenesTech, Inc.",
@@ -4737,6 +4725,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "TROX",
+   "company": "Tronox Holdings plc",
+   "insider": "Johnston Peter",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 2.63,
+   "value": 52600.0,
+   "acc": "0001140361-26-042891",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
    "insider": "Fain Eric S",
@@ -4995,8 +4995,8 @@
   },
   {
    "ticker": "ATLO",
-   "insiders": 3,
-   "total_value": 11411.68
+   "insiders": 2,
+   "total_value": 9796.0
   },
   {
    "ticker": "FUNC",
