@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-10 22:01 UTC",
+ "updated_utc": "2026-11-10 22:17 UTC",
  "purchases": [
-  {
-   "ticker": "JOF",
-   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 58686.0,
-   "price": 10.98,
-   "value": 644372.28,
-   "acc": "0001510281-26-000402",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "LSTR",
-   "company": "LANDSTAR SYSTEM INC",
-   "insider": "Lonegro Frank A",
-   "role": "President & CEO",
-   "date": "2026-10-30",
-   "shares": 5000.0,
-   "price": 142.9238,
-   "value": 714619.0,
-   "acc": "0000853816-26-000069",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "CALAMOS AKSIA HEDGED STRATEGIES FUND (CIK 2063706)",
-   "company": "Calamos Aksia Hedged Strategies Fund",
-   "insider": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 70661.165,
-   "price": 10.3,
-   "value": 727810.0,
-   "acc": "0002125773-26-000017",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "BA",
-   "company": "BOEING CO",
-   "insider": "Buckley Mortimer J",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 5820.0,
-   "price": 171.55,
-   "value": 998421.0,
-   "acc": "0001225208-26-008642",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "BBTX",
-   "company": "Bambusa Therapeutics, Inc.",
-   "insider": "RA CAPITAL MANAGEMENT, L.P.",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 189909.0,
-   "price": 14.23,
-   "value": 2702405.07,
-   "acc": "0001231919-26-001533",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 50000.0,
-   "price": 78.33,
-   "value": 3916500.0,
-   "acc": "0001213900-26-115698",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "BBTX",
-   "company": "Bambusa Therapeutics, Inc.",
-   "insider": "RA CAPITAL MANAGEMENT, L.P.",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 263911.0,
-   "price": 14.92,
-   "value": 3937552.12,
-   "acc": "0001231919-26-001533",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "PLBY",
    "company": "Playboy, Inc.",
@@ -3571,6 +3487,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-06",
+   "shares": 1700.0,
+   "price": 2.4,
+   "value": 4080.0,
+   "acc": "0001178579-26-000024",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Fang Shu-Hua",
@@ -4472,6 +4400,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "DTI",
+   "company": "Drilling Tools International Corp",
+   "insider": "Green Ira Harris Jr",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 12000.0,
+   "price": 1.64,
+   "value": 19680.0,
+   "acc": "0001193125-26-455731",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
    "insider": "Bitterman Robert J",
@@ -4481,6 +4421,18 @@
    "price": 0.82,
    "value": 20500.0,
    "acc": "0001683168-26-008469",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "DTI",
+   "company": "Drilling Tools International Corp",
+   "insider": "Green Ira Harris Jr",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 13000.0,
+   "price": 1.612,
+   "value": 20956.0,
+   "acc": "0001193125-26-455731",
    "filed": "2026-11-10"
   },
   {
@@ -4655,6 +4607,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "DTI",
+   "company": "Drilling Tools International Corp",
+   "insider": "Prejean Robert Wayne",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-09",
+   "shares": 100000.0,
+   "price": 1.643,
+   "value": 164300.0,
+   "acc": "0001193125-26-455713",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "CNXN",
    "company": "PC CONNECTION INC",
    "insider": "Zafirovski Matthew David",
@@ -4751,6 +4715,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 249.0,
+   "price": 2.4,
+   "value": 597.6,
+   "acc": "0001178579-26-000024",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "FMBM",
    "company": "F&M BANK CORP",
    "insider": "Truban Erica N.",
@@ -4775,6 +4751,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "FIP",
+   "company": "FTAI Infrastructure Inc.",
+   "insider": "Fletcher Carl Russell IV",
+   "role": "CFO  and CAO",
+   "date": "2026-11-10",
+   "shares": 5000.0,
+   "price": 3.79,
+   "value": 18950.0,
+   "acc": "0001628280-26-072835",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "CTM",
    "company": "Castellum, Inc.",
    "insider": "Merriman Andrew",
@@ -4796,6 +4784,18 @@
    "price": 52.68,
    "value": 49519.2,
    "acc": "0001945821-26-000004",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "EGBN",
+   "company": "EAGLE BANCORP INC",
+   "insider": "Newell Eric R",
+   "role": "Senior EVP, CFO",
+   "date": "2026-11-10",
+   "shares": 1470.0,
+   "price": 33.91,
+   "value": 49847.7,
+   "acc": "0001523145-26-000009",
    "filed": "2026-11-10"
   },
   {
@@ -4826,7 +4826,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 27015193.19
+   "total_value": 23098693.19
   },
   {
    "ticker": "ETRA",
@@ -4939,6 +4939,11 @@
    "total_value": 212368.0
   },
   {
+   "ticker": "DTI",
+   "insiders": 2,
+   "total_value": 204936.0
+  },
+  {
    "ticker": "TSM",
    "insiders": 30,
    "total_value": 188167.5
@@ -5047,7 +5052,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023310",
   "0001999371-26-023330",
   "0001999371-26-023334",
   "0001999371-26-023336",
@@ -5262,6 +5266,7 @@
   "0001999371-26-025098",
   "0001999371-26-025100",
   "0001999371-26-025101",
+  "0001999371-26-025107",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
