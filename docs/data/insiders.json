@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 16:59 UTC",
+ "updated_utc": "2026-11-10 17:14 UTC",
  "purchases": [
-  {
-   "ticker": "FFIN",
-   "company": "FIRST FINANCIAL BANKSHARES INC",
-   "insider": "Edwards Murray Hamilton",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 500.0,
-   "price": 30.51,
-   "value": 15255.0,
-   "acc": "0001193125-26-444528",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "PUMP",
    "company": "ProPetro Holding Corp.",
@@ -4749,6 +4737,18 @@
    "acc": "0001104659-26-124537",
    "filed": "2026-11-09",
    "placement": true
+  },
+  {
+   "ticker": "ARLO",
+   "company": "Arlo Technologies, Inc.",
+   "insider": "Faison Ralph E",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 8250.0,
+   "price": 12.1699,
+   "value": 100401.68,
+   "acc": "0001189819-26-000002",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "ROK",
