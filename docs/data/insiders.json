@@ -1,140 +1,6 @@
 {
- "updated_utc": "2026-11-10 11:01 UTC",
+ "updated_utc": "2026-11-10 11:17 UTC",
  "purchases": [
-  {
-   "ticker": "TFC",
-   "company": "TRUIST FINANCIAL CORP",
-   "insider": "Lyons Michael P.",
-   "role": "President & CEO",
-   "date": "2026-10-28",
-   "shares": 25000.0,
-   "price": 48.362,
-   "value": 1209050.0,
-   "acc": "0001534574-26-000018",
-   "filed": "2026-10-29"
-  },
-  {
-   "ticker": "SCQCU",
-   "company": "SPACCircle Acquisition Corp.",
-   "insider": "Das Soumen",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 266590.0,
-   "price": 10.0,
-   "value": 2665900.0,
-   "acc": "0001185185-26-005072",
-   "filed": "2026-10-29",
-   "placement": true
-  },
-  {
-   "ticker": "SCQCU",
-   "company": "SPACCircle Acquisition Corp.",
-   "insider": "Das Soumen",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 266590.0,
-   "price": 10.0,
-   "value": 2665900.0,
-   "acc": "0001185185-26-005179",
-   "filed": "2026-11-04",
-   "placement": true
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-10-28",
-   "shares": 245898.0,
-   "price": 35.2646,
-   "value": 8671494.61,
-   "acc": "0001193125-26-441956",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "HEALY JAMES",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 952380.0,
-   "price": 21.0,
-   "value": 19999980.0,
-   "acc": "0001104659-26-120789",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "BMRC",
-   "company": "Bank of Marin Bancorp",
-   "insider": "Anderson Nicolas C",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 40.0,
-   "price": 28.44,
-   "value": 1137.6,
-   "acc": "0001736209-26-000011",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "Bradley Melinda Hodges",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 968.0,
-   "price": 2.8,
-   "value": 2710.4,
-   "acc": "0001536588-26-000044",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-29",
-   "shares": 500.0,
-   "price": 10.09,
-   "value": 5045.0,
-   "acc": "0001510281-26-000395",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "BBT",
-   "company": "Beacon Financial Corp",
-   "insider": "Hughes William H III",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 200.0,
-   "price": 30.73,
-   "value": 6146.0,
-   "acc": "0001628280-26-068788",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-29",
-   "shares": 7732.0,
-   "price": 0.9696,
-   "value": 7496.95,
-   "acc": "0001493152-26-049356",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Nir",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-29",
-   "shares": 11075.0,
-   "price": 0.7863,
-   "value": 8708.27,
-   "acc": "0001213900-26-115572",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "SYNX",
    "company": "Silynxcom Ltd.",
@@ -4125,6 +3991,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chen Chih-Ho",
+   "role": "Controller",
+   "date": "2026-11-06",
+   "shares": 33.0,
+   "price": 70.5,
+   "value": 2326.5,
+   "acc": "0001046179-26-000744",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
    "insider": "Bauer Scott T",
@@ -4149,6 +4027,54 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chen Pei-Hung",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 48.0,
+   "price": 70.5,
+   "value": 3384.0,
+   "acc": "0001046179-26-000745",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chuang Juiping",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 50.0,
+   "price": 70.5,
+   "value": 3525.0,
+   "acc": "0001046179-26-000746",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chang Tzonz-Sheng",
+   "role": "SVP",
+   "date": "2026-11-06",
+   "shares": 55.0,
+   "price": 70.5,
+   "value": 3877.5,
+   "acc": "0001046179-26-000743",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Cao Min",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 57.0,
+   "price": 70.5,
+   "value": 4018.5,
+   "acc": "0001046179-26-000741",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
    "insider": "Hetzel Brandon",
@@ -4171,6 +4097,18 @@
    "value": 4971.2,
    "acc": "0001697225-26-000004",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chin Yung-Pei",
+   "role": "EVP and Co-COO",
+   "date": "2026-11-06",
+   "shares": 73.0,
+   "price": 70.5,
+   "value": 5146.5,
+   "acc": "0001046179-26-000742",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "NXRT",
@@ -4281,6 +4219,30 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "MX",
+   "company": "MAGNACHIP SEMICONDUCTOR Corp",
+   "insider": "LEE CHAE",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-06",
+   "shares": 20000.0,
+   "price": 2.15,
+   "value": 43000.0,
+   "acc": "0001193125-26-454344",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "MX",
+   "company": "MAGNACHIP SEMICONDUCTOR Corp",
+   "insider": "LEE CHAE",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-06",
+   "shares": 20000.0,
+   "price": 2.27,
+   "value": 45400.0,
+   "acc": "0001193125-26-454344",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
    "insider": "Bennett Christopher Lawrence",
@@ -4339,6 +4301,18 @@
    "value": 59000.0,
    "acc": "0001437749-26-035913",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "MX",
+   "company": "MAGNACHIP SEMICONDUCTOR Corp",
+   "insider": "LEE CHAE",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-06",
+   "shares": 30000.0,
+   "price": 2.232,
+   "value": 66960.0,
+   "acc": "0001193125-26-454344",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "ADTN",
@@ -4519,6 +4493,18 @@
    "value": 396890.0,
    "acc": "0000018926-26-000076",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "LBTY",
+   "company": "Liberty Global Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-11-06",
+   "shares": 51296.0,
+   "price": 9.6836,
+   "value": 496729.95,
+   "acc": "0000937797-26-000037",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "ADTN",
@@ -4811,6 +4797,18 @@
    "value": 931731.43,
    "acc": "0001515154-26-000003",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "LBTY",
+   "company": "Liberty Global Ltd.",
+   "insider": "MALONE JOHN C",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 98704.0,
+   "price": 9.7607,
+   "value": 963420.13,
+   "acc": "0000937797-26-000037",
+   "filed": "2026-11-10"
   }
  ],
  "clusters": [
@@ -4841,14 +4839,14 @@
    "total_value": 7210232.78
   },
   {
+   "ticker": "LBTY",
+   "insiders": 3,
+   "total_value": 4486300.15
+  },
+  {
    "ticker": "PAM",
    "insiders": 2,
    "total_value": 4110818.82
-  },
-  {
-   "ticker": "LBTY",
-   "insiders": 2,
-   "total_value": 3026150.07
   },
   {
    "ticker": "BA",
@@ -4948,7 +4946,7 @@
   {
    "ticker": "SYNX",
    "insiders": 3,
-   "total_value": 157430.72
+   "total_value": 148722.45
   },
   {
    "ticker": "PMN",
@@ -4971,6 +4969,11 @@
    "total_value": 98550.0
   },
   {
+   "ticker": "TSM",
+   "insiders": 7,
+   "total_value": 93768.0
+  },
+  {
    "ticker": "TBBK",
    "insiders": 2,
    "total_value": 93035.0
@@ -4988,7 +4991,7 @@
   {
    "ticker": "JCTC",
    "insiders": 2,
-   "total_value": 36066.5
+   "total_value": 33356.1
   },
   {
    "ticker": "UMH",
@@ -4999,11 +5002,6 @@
    "ticker": "SHEN",
    "insiders": 3,
    "total_value": 19863.7
-  },
-  {
-   "ticker": "BBT",
-   "insiders": 2,
-   "total_value": 16845.5
   },
   {
    "ticker": "ATLO",
