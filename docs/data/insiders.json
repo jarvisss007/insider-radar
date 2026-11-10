@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 12:34 UTC",
+ "updated_utc": "2026-11-10 12:49 UTC",
  "purchases": [
-  {
-   "ticker": "SNES",
-   "company": "SenesTech, Inc.",
-   "insider": "GLENBROOK CAPITAL MANAGEMENT",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 2000.0,
-   "price": 1.0167,
-   "value": 2033.4,
-   "acc": "0001731122-26-001386",
-   "filed": "2026-10-30"
-  },
   {
    "ticker": "KWY",
    "company": "KINGSWAY Corp",
@@ -4495,6 +4483,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "CRH",
+   "company": "CRH PUBLIC LTD CO",
+   "insider": "FEARON RICHARD H",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 6000.0,
+   "price": 94.95,
+   "value": 569700.0,
+   "acc": "0000849395-26-000017",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "ADTN",
    "company": "ADTRAN Holdings, Inc.",
    "insider": "STANTON THOMAS R",
@@ -4862,6 +4862,11 @@
    "ticker": "LKQ",
    "insiders": 3,
    "total_value": 792615.47
+  },
+  {
+   "ticker": "CRH",
+   "insiders": 2,
+   "total_value": 758960.0
   },
   {
    "ticker": "ADTN",
