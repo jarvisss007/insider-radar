@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 20:09 UTC",
+ "updated_utc": "2026-11-10 20:25 UTC",
  "purchases": [
-  {
-   "ticker": "SEVN",
-   "company": "Seven Hills Realty Trust",
-   "insider": "Jordan Matthew P.",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 10000.0,
-   "price": 6.56,
-   "value": 65600.0,
-   "acc": "0001104659-26-121333",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "OCFC",
    "company": "OCEANFIRST FINANCIAL CORP",
@@ -2683,6 +2671,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "CALAMOS AKSIA ALTERNATIVE CREDIT & INCOME FUND (CIK 1937073)",
+   "company": "Calamos Aksia Alternative Credit & Income Fund",
+   "insider": "Nest William",
+   "role": "Vice President",
+   "date": "2026-11-05",
+   "shares": 1886.792,
+   "price": 10.6,
+   "value": 20000.0,
+   "acc": "0001964052-26-000002",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -5047,7 +5047,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023041",
   "0001999371-26-023045",
   "0001999371-26-023049",
   "0001999371-26-023054",
@@ -5278,6 +5277,7 @@
   "0001999371-26-025017",
   "0001999371-26-025020",
   "0001999371-26-025026",
+  "0001999371-26-025063",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
