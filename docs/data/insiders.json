@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 15:24 UTC",
+ "updated_utc": "2026-11-10 15:55 UTC",
  "purchases": [
-  {
-   "ticker": "PMN",
-   "company": "ProMIS Neurosciences Inc.",
-   "insider": "Williams Eugene",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 1316.0,
-   "price": 3.99,
-   "value": 5250.84,
-   "acc": "0001374339-26-000010",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
@@ -4592,6 +4580,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "ASRV",
+   "company": "AMERISERV FINANCIAL INC /PA/",
+   "insider": "STOPKO JEFFREY A",
+   "role": "President & CEO ASRV & Bank",
+   "date": "2026-11-09",
+   "shares": 1600.0,
+   "price": 4.44,
+   "value": 7104.0,
+   "acc": "0000707605-26-000095",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "AIG",
    "company": "AMERICAN INTERNATIONAL GROUP, INC.",
    "insider": "Inglis John C",
@@ -4961,7 +4961,7 @@
   {
    "ticker": "PMN",
    "insiders": 2,
-   "total_value": 134745.84
+   "total_value": 129495.0
   },
   {
    "ticker": "SYNX",
@@ -5047,7 +5047,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022960",
   "0001999371-26-022962",
   "0001999371-26-022980",
   "0001999371-26-022986",
@@ -5282,6 +5281,7 @@
   "0001999371-26-024935",
   "0001999371-26-024986",
   "0001999371-26-024997",
+  "0001999371-26-025014",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
