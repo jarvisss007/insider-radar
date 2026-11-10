@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 18:18 UTC",
+ "updated_utc": "2026-11-10 18:50 UTC",
  "purchases": [
-  {
-   "ticker": "SEVN",
-   "company": "Seven Hills Realty Trust",
-   "insider": "Lorenzini Thomas J.",
-   "role": "President and CIO",
-   "date": "2026-10-30",
-   "shares": 5000.0,
-   "price": 6.59,
-   "value": 32950.0,
-   "acc": "0001104659-26-121335",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "API",
    "company": "Agora, Inc.",
@@ -4435,6 +4423,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "NFRX",
+   "company": "2023 ETF Series Trust",
+   "insider": "Harrison Street Real Assets Fund LLC",
+   "role": "10% owner",
+   "date": "2026-11-06",
+   "shares": 932977.0,
+   "price": 26.2199,
+   "value": 24462563.64,
+   "acc": "0001687898-26-000011",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "OSBC",
    "company": "OLD SECOND BANCORP INC",
    "insider": "Lyons Billy J Jr.",
@@ -4967,11 +4967,6 @@
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 121156.4
-  },
-  {
-   "ticker": "SEVN",
-   "insiders": 2,
-   "total_value": 98550.0
   },
   {
    "ticker": "TBBK",
