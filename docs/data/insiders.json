@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-10 11:17 UTC",
+ "updated_utc": "2026-11-10 11:33 UTC",
  "purchases": [
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Gal Nir",
-   "role": "VP Marketing & Israel Sales",
-   "date": "2026-10-29",
-   "shares": 11075.0,
-   "price": 0.7863,
-   "value": 8708.27,
-   "acc": "0001213900-26-115571",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "STKH",
-   "company": "Steakholder Foods Ltd.",
-   "insider": "Kaiser Yaron",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 30291.0,
-   "price": 0.4064,
-   "value": 12310.26,
-   "acc": "0001213900-26-114660",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "STKH",
-   "company": "Steakholder Foods Ltd.",
-   "insider": "Kaufman Arik",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-29",
-   "shares": 36826.0,
-   "price": 0.3847,
-   "value": 14166.96,
-   "acc": "0001213900-26-114637",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "OTLC",
-   "company": "Oncotelic Therapeutics, Inc.",
-   "insider": "Trieu Vuong",
-   "role": "CHAIRMAN AND CEO",
-   "date": "2026-10-29",
-   "shares": 1044990.0,
-   "price": 0.017,
-   "value": 17764.83,
-   "acc": "0001493152-26-049370",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Ron",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 22353.0,
-   "price": 0.8167,
-   "value": 18255.7,
-   "acc": "0001213900-26-115570",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "NBIS",
-   "company": "Nebius Group N.V.",
-   "insider": "Grimme Arne",
-   "role": "Director",
-   "date": "2026-10-29",
-   "shares": 148.0,
-   "price": 169.42,
-   "value": 25074.16,
-   "acc": "0001513845-26-000145",
-   "filed": "2026-10-30"
-  },
   {
    "ticker": "LYCA",
    "company": "Lycia Therapeutics, Inc.",
@@ -3993,6 +3921,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Huang Jen-Chau",
+   "role": "SVP and CFO",
+   "date": "2026-11-06",
+   "shares": 30.0,
+   "price": 70.5,
+   "value": 2115.0,
+   "acc": "0001046179-26-000758",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Chen Chih-Ho",
    "role": "Controller",
    "date": "2026-11-06",
@@ -4029,6 +3969,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "He Jun",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 47.0,
+   "price": 70.5,
+   "value": 3313.5,
+   "acc": "0001046179-26-000753",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Chen Pei-Hung",
    "role": "VP",
    "date": "2026-11-06",
@@ -4036,6 +3988,18 @@
    "price": 70.5,
    "value": 3384.0,
    "acc": "0001046179-26-000745",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Chuang Tzu-Sou",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 48.0,
+   "price": 70.5,
+   "value": 3384.0,
+   "acc": "0001046179-26-000757",
    "filed": "2026-11-10"
   },
   {
@@ -4065,6 +4029,18 @@
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Hsu Kuo-Chin",
+   "role": "VP",
+   "date": "2026-11-06",
+   "shares": 56.0,
+   "price": 70.5,
+   "value": 3948.0,
+   "acc": "0001046179-26-000756",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Cao Min",
    "role": "VP",
    "date": "2026-11-06",
@@ -4072,6 +4048,30 @@
    "price": 70.5,
    "value": 4018.5,
    "acc": "0001046179-26-000741",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Fang Shu-Hua",
+   "role": "SVP and GC",
+   "date": "2026-11-06",
+   "shares": 58.0,
+   "price": 70.5,
+   "value": 4089.0,
+   "acc": "0001046179-26-000755",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Hou Yung-Chin",
+   "role": "SVP and Deputy Co-COO",
+   "date": "2026-11-06",
+   "shares": 64.0,
+   "price": 70.5,
+   "value": 4512.0,
+   "acc": "0001046179-26-000754",
    "filed": "2026-11-10"
   },
   {
@@ -4944,11 +4944,6 @@
    "total_value": 212368.0
   },
   {
-   "ticker": "SYNX",
-   "insiders": 3,
-   "total_value": 148722.45
-  },
-  {
    "ticker": "PMN",
    "insiders": 2,
    "total_value": 134745.84
@@ -4959,19 +4954,24 @@
    "total_value": 124239.2
   },
   {
+   "ticker": "SYNX",
+   "insiders": 3,
+   "total_value": 121758.48
+  },
+  {
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 121156.4
   },
   {
+   "ticker": "TSM",
+   "insiders": 13,
+   "total_value": 115129.5
+  },
+  {
    "ticker": "SEVN",
    "insiders": 2,
    "total_value": 98550.0
-  },
-  {
-   "ticker": "TSM",
-   "insiders": 7,
-   "total_value": 93768.0
   },
   {
    "ticker": "TBBK",
@@ -4986,7 +4986,7 @@
   {
    "ticker": "STKH",
    "insiders": 2,
-   "total_value": 61357.1
+   "total_value": 34879.88
   },
   {
    "ticker": "JCTC",
