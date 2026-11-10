@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 15:08 UTC",
+ "updated_utc": "2026-11-10 15:24 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-30",
-   "shares": 4800.0,
-   "price": 0.9131,
-   "value": 4382.88,
-   "acc": "0001493152-26-049576",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "PMN",
    "company": "ProMIS Neurosciences Inc.",
@@ -4578,6 +4566,18 @@
    "acc": "0001104659-26-124530",
    "filed": "2026-11-09",
    "placement": true
+  },
+  {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-09",
+   "shares": 31298.0,
+   "price": 0.162,
+   "value": 5070.28,
+   "acc": "0001493152-26-050892",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "KRT",
