@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-10 16:27 UTC",
+ "updated_utc": "2026-11-10 16:59 UTC",
  "purchases": [
-  {
-   "ticker": "FFIN",
-   "company": "FIRST FINANCIAL BANKSHARES INC",
-   "insider": "Edwards Murray Hamilton",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 300.0,
-   "price": 30.56,
-   "value": 9168.0,
-   "acc": "0001193125-26-444528",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Ron",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 11000.0,
-   "price": 0.8808,
-   "value": 9688.8,
-   "acc": "0001213900-26-115570",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "BBT",
-   "company": "Beacon Financial Corp",
-   "insider": "Charnley Nina A",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 350.0,
-   "price": 30.57,
-   "value": 10699.5,
-   "acc": "0001628280-26-068526",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "STKH",
-   "company": "Steakholder Foods Ltd.",
-   "insider": "Kaiser Yaron",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 26141.0,
-   "price": 0.4162,
-   "value": 10879.88,
-   "acc": "0001213900-26-114660",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Nir",
-   "role": "Chief Executive Officer",
-   "date": "2026-10-30",
-   "shares": 13286.0,
-   "price": 0.8356,
-   "value": 11101.78,
-   "acc": "0001213900-26-115572",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Gal Nir",
-   "role": "VP Marketing & Israel Sales",
-   "date": "2026-10-30",
-   "shares": 13286.0,
-   "price": 0.8356,
-   "value": 11101.78,
-   "acc": "0001213900-26-115571",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "TRTX",
-   "company": "TPG RE Finance Trust, Inc.",
-   "insider": "Gillmore Michael",
-   "role": "Director",
-   "date": "2026-10-30",
-   "shares": 2000.0,
-   "price": 6.43,
-   "value": 12860.0,
-   "acc": "0001193125-26-444481",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "FFIN",
    "company": "FIRST FINANCIAL BANKSHARES INC",
@@ -324,6 +240,18 @@
    "value": 306645.75,
    "acc": "0001510281-26-000400",
    "filed": "2026-11-02"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-10-30",
+   "shares": 15143.0,
+   "price": 20.25,
+   "value": 306645.75,
+   "acc": "0001510281-26-000425",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "LRN",
@@ -780,6 +708,18 @@
    "value": 4102.0,
    "acc": "0001510281-26-000406",
    "filed": "2026-11-03"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-02",
+   "shares": 200.0,
+   "price": 20.51,
+   "value": 4102.0,
+   "acc": "0001510281-26-000425",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "DLPN",
@@ -1672,6 +1612,18 @@
    "filed": "2026-11-04"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-03",
+   "shares": 13804.0,
+   "price": 20.54,
+   "value": 283534.16,
+   "acc": "0001510281-26-000425",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "LRN",
    "company": "Stride, Inc.",
    "insider": "Haggart Dylan G.",
@@ -2451,6 +2403,18 @@
    "value": 314480.45,
    "acc": "0001510281-26-000414",
    "filed": "2026-11-05"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-04",
+   "shares": 15011.0,
+   "price": 20.95,
+   "value": 314480.45,
+   "acc": "0001510281-26-000425",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "CLX",
@@ -3401,6 +3365,18 @@
    "value": 399459.51,
    "acc": "0001213900-26-117633",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-05",
+   "shares": 24115.0,
+   "price": 20.72,
+   "value": 499662.8,
+   "acc": "0001510281-26-000425",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "VDTA",
@@ -4507,6 +4483,18 @@
    "filed": "2026-11-06"
   },
   {
+   "ticker": "BOTJ",
+   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
+   "insider": "ADDISON LEWIS C",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 78.0,
+   "price": 24.92,
+   "value": 1943.76,
+   "acc": "0001437749-26-036049",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4809,6 +4797,18 @@
    "value": 963420.13,
    "acc": "0000937797-26-000037",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "FMBM",
+   "company": "F&M BANK CORP",
+   "insider": "Truban Erica N.",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 160.0,
+   "price": 45.5,
+   "value": 7280.0,
+   "acc": "0002150557-26-000003",
+   "filed": "2026-11-10"
   }
  ],
  "clusters": [
@@ -4919,11 +4919,6 @@
    "total_value": 302318.76
   },
   {
-   "ticker": "TRTX",
-   "insiders": 3,
-   "total_value": 298699.0
-  },
-  {
    "ticker": "ENPH",
    "insiders": 2,
    "total_value": 298104.0
@@ -4932,6 +4927,11 @@
    "ticker": "AN",
    "insiders": 2,
    "total_value": 298003.58
+  },
+  {
+   "ticker": "TRTX",
+   "insiders": 2,
+   "total_value": 285839.0
   },
   {
    "ticker": "SOPH",
@@ -4964,11 +4964,6 @@
    "total_value": 129495.0
   },
   {
-   "ticker": "SYNX",
-   "insiders": 3,
-   "total_value": 121758.48
-  },
-  {
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 121156.4
@@ -4989,14 +4984,14 @@
    "total_value": 92455.0
   },
   {
+   "ticker": "SYNX",
+   "insiders": 2,
+   "total_value": 89866.12
+  },
+  {
    "ticker": "PHIO",
    "insiders": 2,
    "total_value": 35689.0
-  },
-  {
-   "ticker": "STKH",
-   "insiders": 2,
-   "total_value": 34879.88
   },
   {
    "ticker": "JCTC",
@@ -5012,6 +5007,11 @@
    "ticker": "SHEN",
    "insiders": 3,
    "total_value": 19863.7
+  },
+  {
+   "ticker": "BOTJ",
+   "insiders": 2,
+   "total_value": 18911.76
   },
   {
    "ticker": "ATLO",
@@ -5052,10 +5052,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023011",
-  "0001999371-26-023016",
-  "0001999371-26-023023",
-  "0001999371-26-023025",
   "0001999371-26-023041",
   "0001999371-26-023045",
   "0001999371-26-023049",
@@ -5285,6 +5281,8 @@
   "0001999371-26-024997",
   "0001999371-26-025014",
   "0001999371-26-025017",
+  "0001999371-26-025020",
+  "0001999371-26-025026",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -6317,6 +6315,7 @@
   "0002061670-26-000085",
   "0002061670-26-000090",
   "0002061670-26-000096",
+  "0002061670-26-000104",
   "0002061801-26-000011",
   "0002061801-26-000013",
   "0002061801-26-000015",
@@ -7955,6 +7954,7 @@
   "0002150553-26-000007",
   "0002150553-26-000009",
   "0002150557-26-000002",
+  "0002150557-26-000003",
   "0002150921-26-000004",
   "0002151121-26-000004",
   "0002151232-26-000002",
