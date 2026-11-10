@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 14:37 UTC",
+ "updated_utc": "2026-11-10 14:52 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "Bradley Melinda Hodges",
-   "role": "10% owner",
-   "date": "2026-10-30",
-   "shares": 998.0,
-   "price": 2.85,
-   "value": 2844.3,
-   "acc": "0001536588-26-000044",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -4737,6 +4725,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "GOOD",
+   "company": "GLADSTONE COMMERCIAL CORP",
+   "insider": "Gerson Gary",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-09",
+   "shares": 8550.0,
+   "price": 10.0894,
+   "value": 86264.37,
+   "acc": "0001359579-26-000006",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
    "insider": "Fain Eric S",
@@ -4954,6 +4954,11 @@
    "total_value": 188167.5
   },
   {
+   "ticker": "GOOD",
+   "insiders": 2,
+   "total_value": 186263.44
+  },
+  {
    "ticker": "PMN",
    "insiders": 2,
    "total_value": 134745.84
@@ -4991,7 +4996,7 @@
   {
    "ticker": "JCTC",
    "insiders": 2,
-   "total_value": 30635.46
+   "total_value": 27791.16
   },
   {
    "ticker": "UMH",
