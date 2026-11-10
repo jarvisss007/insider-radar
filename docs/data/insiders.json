@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-10 23:04 UTC",
+ "updated_utc": "2026-11-10 23:20 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yuan Lipen",
-   "role": "VP",
-   "date": "2026-11-01",
-   "shares": 1000.0,
-   "price": 71.49,
-   "value": 71490.0,
-   "acc": "0001046179-26-000732",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "PARTNERS GROUP GROWTH, LLC (CIK 1991706)",
-   "company": "Partners Group Growth, LLC",
-   "insider": "Partners Group Finance (USD) AG",
-   "role": "",
-   "date": "2026-11-01",
-   "shares": 9513390.097,
-   "price": 2.1,
-   "value": 19978119.2,
-   "acc": "0002089261-26-000008",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4039,6 +4015,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-06",
+   "shares": 18250.0,
+   "price": 20.75,
+   "value": 378687.5,
+   "acc": "0001510281-26-000427",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "GFS",
    "company": "GLOBALFOUNDRIES Inc.",
    "insider": "LAZAR JACK R",
@@ -4509,6 +4497,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 4365.0,
+   "price": 21.06,
+   "value": 91926.9,
+   "acc": "0001510281-26-000427",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
    "insider": "Fain Eric S",
@@ -4949,11 +4949,6 @@
    "total_value": 192750.0
   },
   {
-   "ticker": "TSM",
-   "insiders": 30,
-   "total_value": 188167.5
-  },
-  {
    "ticker": "GOOD",
    "insiders": 2,
    "total_value": 186263.44
@@ -4972,6 +4967,11 @@
    "ticker": "STRZ",
    "insiders": 2,
    "total_value": 121156.4
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 30,
+   "total_value": 116677.5
   },
   {
    "ticker": "TBBK",
