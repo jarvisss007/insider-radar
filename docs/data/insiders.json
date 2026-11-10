@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-09 23:51 UTC",
+ "updated_utc": "2026-11-10 00:08 UTC",
  "purchases": [
-  {
-   "ticker": "LYCA",
-   "company": "Lycia Therapeutics, Inc.",
-   "insider": "Venrock Healthcare Capital Partners III, L.P.",
-   "role": "10% owner",
-   "date": "2026-10-28",
-   "shares": 4430.0,
-   "price": 25.97,
-   "value": 115047.1,
-   "acc": "0001231919-26-001519",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "HEALY JAMES",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 6395.0,
-   "price": 21.0,
-   "value": 134295.0,
-   "acc": "0001104659-26-120789",
-   "filed": "2026-10-30"
-  },
-  {
-   "ticker": "RAPP",
-   "company": "Rapport Therapeutics, Inc.",
-   "insider": "HEALY JAMES",
-   "role": "Director",
-   "date": "2026-10-28",
-   "shares": 6933.0,
-   "price": 21.0,
-   "value": 145593.0,
-   "acc": "0001104659-26-120789",
-   "filed": "2026-10-30"
-  },
   {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
@@ -4414,6 +4378,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "ADTN",
+   "company": "ADTRAN Holdings, Inc.",
+   "insider": "Santo Timothy P",
+   "role": "SVP of Finance; CFO",
+   "date": "2026-11-06",
+   "shares": 17820.0,
+   "price": 4.1632,
+   "value": 74188.22,
+   "acc": "0001193125-26-454020",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "GROW",
    "company": "U S GLOBAL INVESTORS INC",
    "insider": "Pilecki Derek Steven",
@@ -4567,6 +4543,18 @@
    "price": 3.9689,
    "value": 396890.0,
    "acc": "0000018926-26-000076",
+   "filed": "2026-11-09"
+  },
+  {
+   "ticker": "ADTN",
+   "company": "ADTRAN Holdings, Inc.",
+   "insider": "STANTON THOMAS R",
+   "role": "Chairman & CEO",
+   "date": "2026-11-06",
+   "shares": 150000.0,
+   "price": 4.006,
+   "value": 600900.0,
+   "acc": "0001193125-26-454019",
    "filed": "2026-11-09"
   },
   {
@@ -4740,6 +4728,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "Heshmatpour Amir F",
+   "role": "CEO, President",
+   "date": "2026-11-09",
+   "shares": 10000.0,
+   "price": 3.86,
+   "value": 38600.0,
+   "acc": "0001213900-26-117660",
+   "filed": "2026-11-09"
+  },
+  {
    "ticker": "EAF",
    "company": "GRAFTECH INTERNATIONAL LTD",
    "insider": "Shivaram Sachin M",
@@ -4870,6 +4870,11 @@
    "ticker": "LKQ",
    "insiders": 3,
    "total_value": 792615.47
+  },
+  {
+   "ticker": "ADTN",
+   "insiders": 2,
+   "total_value": 675088.22
   },
   {
    "ticker": "WCC",
@@ -5035,8 +5040,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-022849",
-  "0001999371-26-022851",
   "0001999371-26-022853",
   "0001999371-26-022860",
   "0001999371-26-022862",
@@ -6811,6 +6814,7 @@
   "0002075704-26-000039",
   "0002075704-26-000040",
   "0002075704-26-000041",
+  "0002075704-26-000043",
   "0002076000-26-000012",
   "0002076243-26-000002",
   "0002076243-26-000003",
@@ -8026,6 +8030,7 @@
   "0002160533-26-000008",
   "0002160550-26-000005",
   "0002160576-26-000004",
+  "0002160576-26-000006",
   "0002160652-26-000004",
   "0002160813-26-000005",
   "0002161049-26-000001",
