@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-10 12:49 UTC",
+ "updated_utc": "2026-11-10 13:05 UTC",
  "purchases": [
-  {
-   "ticker": "KWY",
-   "company": "KINGSWAY Corp",
-   "insider": "Fitzgerald John Taylor Maloney",
-   "role": "President and CEO",
-   "date": "2026-10-30",
-   "shares": 260.0,
-   "price": 9.61,
-   "value": 2498.6,
-   "acc": "0001072627-26-000059",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4630,6 +4618,18 @@
   {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
+   "insider": "Ehrman Monika U",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 339.0,
+   "price": 50.1,
+   "value": 16983.9,
+   "acc": "0001786877-26-000007",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
    "insider": "Appel Shelley F",
    "role": "Director",
    "date": "2026-11-09",
@@ -4905,8 +4905,8 @@
   },
   {
    "ticker": "MTDR",
-   "insiders": 6,
-   "total_value": 342026.1
+   "insiders": 7,
+   "total_value": 359010.0
   },
   {
    "ticker": "NXRT",
