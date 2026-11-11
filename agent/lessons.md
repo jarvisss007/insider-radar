@@ -1849,3 +1849,10 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 ## 2026-11-06 [insider] — GARUDA (labs-morning-sweep)
 - Grader (INS-018) 11-05 graded GPUS (0.16 -> 0.15) and WVVI (1.83 -> 1.73), both wrong; reconciled this run — both rows carry their outcome. CBKM (due 10-19) still DUE BUT UNPRICEABLE. Scorecard 80/222 (36.0%): headline 41% (n=142, 44 entry days), sub-floor 28% (n=79). Both strata below the coin bar.
 - New defect class seen in the feed: LYEL's cluster total reads 0 while its two Form 4 lines (ARCH Venture entities) read 25.0M USD each. Logged with the size marked unknown, not sub-floor (strata.py's unknown bucket). The collector's cluster sum is the suspect — proposal, not an edit.
+
+## 2026-11-11 [insider] — GARUDA (labs-morning-sweep)
+- **11-10 is unfiled**: no call, forecast or brief — the sweep died at 08:29 PT on the 5-hour usage limit (SCHED-033). Not back-filed. Clusters first seen 11-10 are logged today with today's date.
+- Nothing scored by hand (INS-018). Since the last brief the grader marked AGMB, INLX, NRXS, ACCV (check 11-09) all wrong: scorecard 80/226 (35.4%). strata.py: HEADLINE 41% (n=143, 45 entry days); sub-floor 27% (n=82, 37 days); unknown n=1. Four wrongs on one check day is ONE cohort, not four observations — and both strata were already under the coin bar.
+- 21 new clusters logged in one run (Form 4s filed 11-05..11-10; the post-earnings window reopening): one entry day, however many rows. All QUEUED, all ACCOUNT-WITHHELD (PORT-006 budget key). OBIO is `unknown` ($0 open-market, $0.23M other_value — the QNRX precedent), not sub-floor.
+- Forecast resolver (prep): ROL scored 1 at p 0.24 on 11-10; nothing new today (BA 11-04 row is due on today's close). Base now 14/55 = 0.2545.
+- Lessons file read: tail only this run — disclosed.
