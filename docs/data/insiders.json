@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-11 01:11 UTC",
+ "updated_utc": "2026-11-11 01:27 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "Bradley Melinda Hodges",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 1000.0,
-   "price": 2.8,
-   "value": 2800.0,
-   "acc": "0001536588-26-000044",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "FUNC",
-   "company": "FIRST UNITED CORP/MD/",
-   "insider": "Rush Jason Barry",
-   "role": "Chairman, President & CEO",
-   "date": "2026-11-02",
-   "shares": 68.265,
-   "price": 46.308,
-   "value": 3161.22,
-   "acc": "0001014100-26-000032",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "FUNC",
-   "company": "FIRST UNITED CORP/MD/",
-   "insider": "Boal Brian R.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 78.9,
-   "price": 46.308,
-   "value": 3653.7,
-   "acc": "0001014100-26-000029",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 200.0,
-   "price": 20.51,
-   "value": 4102.0,
-   "acc": "0001510281-26-000406",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 200.0,
-   "price": 20.51,
-   "value": 4102.0,
-   "acc": "0001510281-26-000425",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-02",
-   "shares": 5000.0,
-   "price": 0.993,
-   "value": 4965.0,
-   "acc": "0001079973-26-001421",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "STRZ",
    "company": "STARZ ENTERTAINMENT CORP /CN/",
@@ -3715,6 +3643,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 9816.0,
+   "price": 7.85,
+   "value": 77055.6,
+   "acc": "0000947871-26-001011",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "GROW",
    "company": "U S GLOBAL INVESTORS INC",
    "insider": "Pilecki Derek Steven",
@@ -3904,6 +3844,18 @@
    "price": 7.85,
    "value": 310860.0,
    "acc": "0000947871-26-001010",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 39600.0,
+   "price": 7.85,
+   "value": 310860.0,
+   "acc": "0000947871-26-001011",
    "filed": "2026-11-10"
   },
   {
@@ -4353,6 +4305,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 4000.0,
+   "price": 8.24,
+   "value": 32960.0,
+   "acc": "0000947871-26-001011",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "NTHI",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
    "insider": "Heshmatpour Amir F",
@@ -4496,6 +4460,18 @@
    "price": 8.24,
    "value": 131840.0,
    "acc": "0000947871-26-001010",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 16000.0,
+   "price": 8.24,
+   "value": 131840.0,
+   "acc": "0000947871-26-001011",
    "filed": "2026-11-10"
   },
   {
@@ -4679,6 +4655,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 2000.0,
+   "price": 8.45,
+   "value": 16900.0,
+   "acc": "0000947871-26-001011",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "FIP",
    "company": "FTAI Infrastructure Inc.",
    "insider": "Fletcher Carl Russell IV",
@@ -4775,6 +4763,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "GORDON CARL L",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 20700.0,
+   "price": 8.45,
+   "value": 174915.0,
+   "acc": "0000947871-26-001011",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "ATEC",
    "company": "Alphatec Holdings, Inc.",
    "insider": "Valentine Keith",
@@ -4831,7 +4831,7 @@
   {
    "ticker": "ETRA",
    "insiders": 2,
-   "total_value": 7954763.38
+   "total_value": 8699293.98
   },
   {
    "ticker": "LBTY",
@@ -4999,11 +4999,6 @@
    "total_value": 27188.0
   },
   {
-   "ticker": "JCTC",
-   "insiders": 2,
-   "total_value": 24276.55
-  },
-  {
    "ticker": "SHEN",
    "insiders": 3,
    "total_value": 19863.7
@@ -5017,11 +5012,6 @@
    "ticker": "ATLO",
    "insiders": 2,
    "total_value": 9796.0
-  },
-  {
-   "ticker": "FUNC",
-   "insiders": 2,
-   "total_value": 6814.92
   },
   {
    "ticker": "OWLS",
