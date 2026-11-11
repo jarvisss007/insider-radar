@@ -1,138 +1,6 @@
 {
- "updated_utc": "2026-11-11 00:08 UTC",
+ "updated_utc": "2026-11-11 01:11 UTC",
  "purchases": [
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "Miles Christen Brooke",
-   "role": "VP, Human Resources",
-   "date": "2026-11-02",
-   "shares": 4.34,
-   "price": 23.04,
-   "value": 99.99,
-   "acc": "0001437749-26-034863",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "XIVYX",
-   "company": "Institutional Investment Strategy Fund",
-   "insider": "Ghodoosi Arash",
-   "role": "President, Principal Executive",
-   "date": "2026-11-02",
-   "shares": 7.692,
-   "price": 13.13,
-   "value": 101.0,
-   "acc": "0002004397-26-000009",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "FUNC",
-   "company": "FIRST UNITED CORP/MD/",
-   "insider": "Sturm Tonya K.",
-   "role": "EVP & CFO",
-   "date": "2026-11-02",
-   "shares": 2.647,
-   "price": 46.308,
-   "value": 122.58,
-   "acc": "0001014100-26-000031",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "RGCO",
-   "company": "RGC RESOURCES INC",
-   "insider": "Oliver Lawrence T.",
-   "role": "Senior VP and Secretary",
-   "date": "2026-11-02",
-   "shares": 8.681,
-   "price": 23.04,
-   "value": 200.01,
-   "acc": "0001437749-26-034861",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "BCBP",
-   "company": "BCB BANCORP INC",
-   "insider": "Gallotta Steven E.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 55.0,
-   "price": 9.1299,
-   "value": 502.14,
-   "acc": "0001193125-26-448980",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "BCBP",
-   "company": "BCB BANCORP INC",
-   "insider": "Gallotta Steven E.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 55.0,
-   "price": 9.1299,
-   "value": 502.14,
-   "acc": "0001193125-26-450499",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "Bradley Melinda Hodges",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 257.0,
-   "price": 2.8,
-   "value": 719.6,
-   "acc": "0001536588-26-000044",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "NARA",
-   "company": "Narragansett Bancorp, Inc.",
-   "insider": "LeComte Brian",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 100.0,
-   "price": 10.66,
-   "value": 1066.0,
-   "acc": "0001437749-26-034481",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-02",
-   "shares": 1300.0,
-   "price": 0.9307,
-   "value": 1209.91,
-   "acc": "0001493152-26-049721",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "IBKR",
-   "company": "Interactive Brokers Group, Inc.",
-   "insider": "Conkling Lori A",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 25.0,
-   "price": 78.44,
-   "value": 1961.0,
-   "acc": "0001381197-26-000158",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "Bradley Melinda Hodges",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 997.0,
-   "price": 2.795,
-   "value": 2786.61,
-   "acc": "0001536588-26-000044",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -3607,6 +3475,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Wienbar Sharon L",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 907.0,
+   "price": 27.55,
+   "value": 24987.85,
+   "acc": "0001193125-26-455945",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "LUCK",
    "company": "Lucky Strike Entertainment Corp",
    "insider": "Young John Alan",
@@ -3823,6 +3703,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 9816.0,
+   "price": 7.85,
+   "value": 77055.6,
+   "acc": "0000947871-26-001010",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "GROW",
    "company": "U S GLOBAL INVESTORS INC",
    "insider": "Pilecki Derek Steven",
@@ -4001,6 +3893,18 @@
    "value": 237050.0,
    "acc": "0001023710-26-000004",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-11-06",
+   "shares": 39600.0,
+   "price": 7.85,
+   "value": 310860.0,
+   "acc": "0000947871-26-001010",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "MXF",
@@ -4388,6 +4292,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Wienbar Sharon L",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 924.0,
+   "price": 26.98,
+   "value": 24929.52,
+   "acc": "0001193125-26-455945",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
    "insider": "Hochman David P",
@@ -4423,6 +4339,18 @@
    "value": 30000.0,
    "acc": "0001981193-26-000006",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 4000.0,
+   "price": 8.24,
+   "value": 32960.0,
+   "acc": "0000947871-26-001010",
+   "filed": "2026-11-10"
   },
   {
    "ticker": "NTHI",
@@ -4470,6 +4398,18 @@
    "price": 2.63,
    "value": 52600.0,
    "acc": "0001140361-26-042891",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "XGN",
+   "company": "EXAGEN INC.",
+   "insider": "Chernett Jorey",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 8500.0,
+   "price": 6.35,
+   "value": 53975.0,
+   "acc": "0000921895-26-003021",
    "filed": "2026-11-10"
   },
   {
@@ -4544,6 +4484,18 @@
    "price": 0.459,
    "value": 102541.52,
    "acc": "0001794783-26-000092",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 16000.0,
+   "price": 8.24,
+   "value": 131840.0,
+   "acc": "0000947871-26-001010",
    "filed": "2026-11-10"
   },
   {
@@ -4715,6 +4667,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 2000.0,
+   "price": 8.45,
+   "value": 16900.0,
+   "acc": "0000947871-26-001010",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "FIP",
    "company": "FTAI Infrastructure Inc.",
    "insider": "Fletcher Carl Russell IV",
@@ -4736,6 +4700,18 @@
    "price": 0.4371,
    "value": 21855.0,
    "acc": "0001877939-26-000102",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "XGN",
+   "company": "EXAGEN INC.",
+   "insider": "Chernett Jorey",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 7085.0,
+   "price": 5.26,
+   "value": 37267.1,
+   "acc": "0000921895-26-003021",
    "filed": "2026-11-10"
   },
   {
@@ -4787,6 +4763,30 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ETRA",
+   "company": "Electra Therapeutics, Inc.",
+   "insider": "ORBIMED ADVISORS LLC",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 20700.0,
+   "price": 8.45,
+   "value": 174915.0,
+   "acc": "0000947871-26-001010",
+   "filed": "2026-11-10"
+  },
+  {
+   "ticker": "ATEC",
+   "company": "Alphatec Holdings, Inc.",
+   "insider": "Valentine Keith",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 35000.0,
+   "price": 6.93,
+   "value": 242550.0,
+   "acc": "0001289408-26-000006",
+   "filed": "2026-11-10"
+  },
+  {
    "ticker": "TXO",
    "company": "TXO Partners, L.P.",
    "insider": "SIMPSON BOB R",
@@ -4831,7 +4831,7 @@
   {
    "ticker": "ETRA",
    "insiders": 2,
-   "total_value": 7210232.78
+   "total_value": 7954763.38
   },
   {
    "ticker": "LBTY",
@@ -4994,14 +4994,14 @@
    "total_value": 35689.0
   },
   {
-   "ticker": "JCTC",
-   "insiders": 2,
-   "total_value": 27782.76
-  },
-  {
    "ticker": "UMH",
    "insiders": 2,
    "total_value": 27188.0
+  },
+  {
+   "ticker": "JCTC",
+   "insiders": 2,
+   "total_value": 24276.55
   },
   {
    "ticker": "SHEN",
@@ -5020,23 +5020,13 @@
   },
   {
    "ticker": "FUNC",
-   "insiders": 3,
-   "total_value": 6937.5
-  },
-  {
-   "ticker": "BCBP",
    "insiders": 2,
-   "total_value": 2005.78
+   "total_value": 6814.92
   },
   {
    "ticker": "OWLS",
    "insiders": 2,
    "total_value": 948.9
-  },
-  {
-   "ticker": "RGCO",
-   "insiders": 2,
-   "total_value": 300.0
   },
   {
    "ticker": "LYEL",
@@ -5052,8 +5042,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023414",
-  "0001999371-26-023416",
   "0001999371-26-023418",
   "0001999371-26-023420",
   "0001999371-26-023423",
@@ -5933,6 +5921,7 @@
   "0002040491-26-000054",
   "0002040500-26-000006",
   "0002040500-26-000008",
+  "0002040500-26-000010",
   "0002040519-26-000073",
   "0002040519-26-000075",
   "0002040519-26-000077",
@@ -7417,6 +7406,7 @@
   "0002111902-26-000007",
   "0002111904-26-000003",
   "0002111929-26-000016",
+  "0002111929-26-000018",
   "0002111933-26-000005",
   "0002112008-26-000011",
   "0002112139-26-000008",
