@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-12 16:52 UTC",
+ "updated_utc": "2026-11-12 17:08 UTC",
  "purchases": [
-  {
-   "ticker": "UPBD",
-   "company": "UPBOUND GROUP, INC.",
-   "insider": "Karam Fahmi",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-03",
-   "shares": 4407.0,
-   "price": 22.71,
-   "value": 100082.97,
-   "acc": "0001193125-26-449973",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "HGV",
-   "company": "Hilton Grand Vacations Inc.",
-   "insider": "Potter Leonard",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 2500.0,
-   "price": 41.55,
-   "value": 103875.0,
-   "acc": "0001674168-26-000112",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
@@ -4065,6 +4041,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "AQST",
+   "company": "Aquestive Therapeutics, Inc.",
+   "insider": "Daly Richard J",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 1200.0,
+   "price": 3.53,
+   "value": 4236.0,
+   "acc": "0001214659-26-014004",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "OWLS",
    "company": "OBOOK HOLDINGS INC.",
    "insider": "WANG CHUN KAI",
@@ -4291,6 +4279,18 @@
    "value": 55125.0,
    "acc": "0001193125-26-455831",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "AQST",
+   "company": "Aquestive Therapeutics, Inc.",
+   "insider": "Daly Richard J",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 26825.0,
+   "price": 3.545,
+   "value": 95094.62,
+   "acc": "0001214659-26-014004",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "MP",
@@ -5024,8 +5024,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023614",
-  "0001999371-26-023621",
   "0001999371-26-023623",
   "0001999371-26-023644",
   "0001999371-26-023666",
@@ -5212,6 +5210,7 @@
   "0001999371-26-025153",
   "0001999371-26-025161",
   "0001999371-26-025174",
+  "0001999371-26-025185",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -7890,6 +7889,7 @@
   "0002148287-26-000002",
   "0002148361-26-000003",
   "0002148361-26-000004",
+  "0002148419-26-000005",
   "0002148570-26-000003",
   "0002148570-26-000004",
   "0002148580-26-000003",
