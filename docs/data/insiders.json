@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-12 11:38 UTC",
+ "updated_utc": "2026-11-12 11:54 UTC",
  "purchases": [
-  {
-   "ticker": "RSI",
-   "company": "Rush Street Interactive, Inc.",
-   "insider": "Winter Thomas",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 10000.0,
-   "price": 11.831,
-   "value": 118310.0,
-   "acc": "0001836156-26-000008",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "NPKI",
-   "company": "NPK International Inc.",
-   "insider": "MINGE JOHN C",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 15000.0,
-   "price": 9.24,
-   "value": 138600.0,
-   "acc": "0001724571-26-000004",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "LKQ",
-   "company": "LKQ CORP",
-   "insider": "Powell Michael Scott",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 10000.0,
-   "price": 19.15,
-   "value": 191500.0,
-   "acc": "0001214659-26-013691",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "LYCA",
-   "company": "Lycia Therapeutics, Inc.",
-   "insider": "Venrock Healthcare Capital Partners III, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 8305.0,
-   "price": 26.95,
-   "value": 223819.75,
-   "acc": "0001231919-26-001536",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "FCPT",
-   "company": "Four Corners Property Trust, Inc.",
-   "insider": "Lenehan William H",
-   "role": "President and CEO",
-   "date": "2026-11-02",
-   "shares": 10000.0,
-   "price": 22.6072,
-   "value": 226072.0,
-   "acc": "0001193125-26-443902",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "insider": "Kothandaraman Badrinarayanan",
-   "role": "President & CEO",
-   "date": "2026-11-02",
-   "shares": 10000.0,
-   "price": 26.7514,
-   "value": 267514.0,
-   "acc": "0001543777-26-000006",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Shepherd Brian A.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 4880.0,
-   "price": 76.9,
-   "value": 375272.0,
-   "acc": "0001567675-26-000007",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "HGV",
-   "company": "Hilton Grand Vacations Inc.",
-   "insider": "Wang Mark D",
-   "role": "See Remarks",
-   "date": "2026-11-02",
-   "shares": 12200.0,
-   "price": 40.92,
-   "value": 499224.0,
-   "acc": "0001674168-26-000111",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "LRN",
    "company": "Stride, Inc.",
@@ -4209,6 +4113,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-09",
+   "shares": 9464.0,
+   "price": 4.2855,
+   "value": 40557.97,
+   "acc": "0001193125-26-456831",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "NXRT",
    "company": "NexPoint Residential Trust, Inc.",
    "insider": "Richards Paul",
@@ -4643,6 +4559,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-10",
+   "shares": 9260.0,
+   "price": 4.2994,
+   "value": 39812.44,
+   "acc": "0001193125-26-456831",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "STRA",
    "company": "Strategic Education, Inc.",
    "insider": "Thawley Michael",
@@ -4763,6 +4691,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "MP",
+   "company": "MP Materials Corp. / DE",
+   "insider": "Rosenthal Michael Stuart",
+   "role": "Chief Operating Officer",
+   "date": "2026-11-10",
+   "shares": 10000.0,
+   "price": 37.2,
+   "value": 372000.0,
+   "acc": "0001832050-26-000010",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "MNR",
    "company": "MACH NATURAL RESOURCES LP",
    "insider": "WARD TOM L.",
@@ -4772,6 +4712,18 @@
    "price": 9.13,
    "value": 502150.0,
    "acc": "0001213900-26-118288",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "MP",
+   "company": "MP Materials Corp. / DE",
+   "insider": "Rosenthal Michael Stuart",
+   "role": "Chief Operating Officer",
+   "date": "2026-11-10",
+   "shares": 17000.0,
+   "price": 36.27,
+   "value": 616590.0,
+   "acc": "0001832050-26-000010",
    "filed": "2026-11-12"
   },
   {
@@ -4787,6 +4739,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "MP",
+   "company": "MP Materials Corp. / DE",
+   "insider": "WEISENBURGER RANDALL J",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 55000.0,
+   "price": 36.0,
+   "value": 1980000.0,
+   "acc": "0001031609-26-000009",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
    "insider": "JAFFER REHAN",
@@ -4799,6 +4763,30 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-11",
+   "shares": 8420.0,
+   "price": 4.3303,
+   "value": 36461.13,
+   "acc": "0001193125-26-456831",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "MP",
+   "company": "MP Materials Corp. / DE",
+   "insider": "Rosenthal Michael Stuart",
+   "role": "Chief Operating Officer",
+   "date": "2026-11-11",
+   "shares": 5000.0,
+   "price": 37.3,
+   "value": 186500.0,
+   "acc": "0001832050-26-000010",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "CSQR",
    "company": "Csquare, Inc.",
    "insider": "MULLEE SPENCER EDWARD",
@@ -4808,6 +4796,18 @@
    "price": 18.2,
    "value": 247028.6,
    "acc": "0000950142-26-002995",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "TH",
+   "company": "Target Hospitality Corp.",
+   "insider": "Archer James Bradley",
+   "role": "Director and CEO and President",
+   "date": "2026-11-11",
+   "shares": 27500.0,
+   "price": 11.37,
+   "value": 312675.0,
+   "acc": "0001712189-26-000063",
    "filed": "2026-11-12"
   }
  ],
@@ -4821,7 +4821,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 23098693.19
+   "total_value": 22723421.19
   },
   {
    "ticker": "FUN",
@@ -4842,6 +4842,11 @@
    "ticker": "PAM",
    "insiders": 2,
    "total_value": 4110818.82
+  },
+  {
+   "ticker": "MP",
+   "insiders": 3,
+   "total_value": 3353605.68
   },
   {
    "ticker": "MX",
@@ -4884,11 +4889,6 @@
    "total_value": 603430.27
   },
   {
-   "ticker": "HGV",
-   "insiders": 2,
-   "total_value": 603099.0
-  },
-  {
    "ticker": "LUMN",
    "insiders": 2,
    "total_value": 494605.0
@@ -4909,11 +4909,6 @@
    "total_value": 422335.0
   },
   {
-   "ticker": "LKQ",
-   "insiders": 2,
-   "total_value": 392585.47
-  },
-  {
    "ticker": "KYN",
    "insiders": 2,
    "total_value": 382623.5
@@ -4927,11 +4922,6 @@
    "ticker": "NXRT",
    "insiders": 2,
    "total_value": 302318.76
-  },
-  {
-   "ticker": "ENPH",
-   "insiders": 2,
-   "total_value": 298104.0
   },
   {
    "ticker": "AN",
