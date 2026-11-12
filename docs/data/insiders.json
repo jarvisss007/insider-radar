@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-12 13:59 UTC",
+ "updated_utc": "2026-11-12 14:15 UTC",
  "purchases": [
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 100.0,
-   "price": 10.18,
-   "value": 1018.0,
-   "acc": "0001510281-26-000410",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "GLQ",
    "company": "Clough Global Equity Fund",
@@ -3605,6 +3593,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "GOOD",
+   "company": "GLADSTONE COMMERCIAL CORP",
+   "insider": "Beckhorn Jay",
+   "role": "Treasurer",
+   "date": "2026-11-09",
+   "shares": 250.0,
+   "price": 10.295,
+   "value": 2573.75,
+   "acc": "0001636435-26-000004",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "DLPN",
    "company": "Dolphin Entertainment, Inc.",
    "insider": "O'Dowd William IV",
@@ -4947,8 +4947,8 @@
   },
   {
    "ticker": "GOOD",
-   "insiders": 2,
-   "total_value": 186263.44
+   "insiders": 3,
+   "total_value": 188837.19
   },
   {
    "ticker": "STRA",
