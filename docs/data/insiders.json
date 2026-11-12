@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-12 14:47 UTC",
+ "updated_utc": "2026-11-12 15:02 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-03",
-   "shares": 6100.0,
-   "price": 0.8943,
-   "value": 5455.23,
-   "acc": "0001493152-26-050081",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ATLO",
-   "company": "AMES NATIONAL CORP",
-   "insider": "Snodgrass Adam",
-   "role": "",
-   "date": "2026-11-03",
-   "shares": 200.0,
-   "price": 34.13,
-   "value": 6826.0,
-   "acc": "0001805277-26-000002",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "SYNX",
    "company": "Silynxcom Ltd.",
@@ -4221,6 +4197,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "PHIO",
+   "company": "Phio Pharmaceuticals Corp.",
+   "insider": "Deming David H",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 6800.0,
+   "price": 0.8395,
+   "value": 5708.6,
+   "acc": "0001683168-26-008544",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "FMBM",
    "company": "F&M BANK CORP",
    "insider": "Truban Erica N.",
@@ -4591,6 +4579,18 @@
    "value": 4128000.0,
    "acc": "0001999001-26-000113",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "PHIO",
+   "company": "Phio Pharmaceuticals Corp.",
+   "insider": "Deming David H",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 5200.0,
+   "price": 0.838,
+   "value": 4357.6,
+   "acc": "0001683168-26-008544",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "OESX",
@@ -4981,14 +4981,14 @@
    "total_value": 58600.76
   },
   {
+   "ticker": "PHIO",
+   "insiders": 3,
+   "total_value": 45755.2
+  },
+  {
    "ticker": "SYNX",
    "insiders": 2,
    "total_value": 39414.48
-  },
-  {
-   "ticker": "PHIO",
-   "insiders": 2,
-   "total_value": 35689.0
   },
   {
    "ticker": "UMH",
@@ -5004,11 +5004,6 @@
    "ticker": "BOTJ",
    "insiders": 2,
    "total_value": 18911.76
-  },
-  {
-   "ticker": "ATLO",
-   "insiders": 2,
-   "total_value": 9796.0
   },
   {
    "ticker": "OWLS",
