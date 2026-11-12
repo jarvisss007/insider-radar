@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-12 21:05 UTC",
+ "updated_utc": "2026-11-12 21:21 UTC",
  "purchases": [
-  {
-   "ticker": "LBRT",
-   "company": "Liberty Energy Inc.",
-   "insider": "Gusek Ron",
-   "role": "CEO and President",
-   "date": "2026-11-03",
-   "shares": 25000.0,
-   "price": 15.0934,
-   "value": 377335.0,
-   "acc": "0001628280-26-071186",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Shepherd Brian A.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 5000.0,
-   "price": 75.5,
-   "value": 377500.0,
-   "acc": "0001567675-26-000007",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "SPXC",
-   "company": "SPX Technologies, Inc.",
-   "insider": "Deck Brian A",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 3000.0,
-   "price": 164.34,
-   "value": 493020.0,
-   "acc": "0001490816-26-000002",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
@@ -3969,6 +3933,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 1100.0,
+   "price": 3.42,
+   "value": 3762.0,
+   "acc": "0001628280-26-073406",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "DOX",
    "company": "AMDOCS LTD",
    "insider": "MacDonald John Anthony",
@@ -4581,6 +4557,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 8049.0,
+   "price": 3.39,
+   "value": 27286.11,
+   "acc": "0001628280-26-073406",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "RM",
    "company": "Regional Management Corp.",
    "insider": "BASSWOOD CAPITAL MANAGEMENT, L.L.C.",
@@ -4797,6 +4785,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "LUCK",
+   "company": "Lucky Strike Entertainment Corp",
+   "insider": "Young John Alan",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 2600.0,
+   "price": 3.06,
+   "value": 7956.0,
+   "acc": "0001628280-26-073406",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Thermopylae Holdings Ltd.",
@@ -4814,11 +4814,6 @@
    "ticker": "FUN",
    "insiders": 3,
    "total_value": 15066320.0
-  },
-  {
-   "ticker": "LRN",
-   "insiders": 2,
-   "total_value": 10832606.39
   },
   {
    "ticker": "ETRA",
@@ -5024,7 +5019,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023727",
   "0001999371-26-023735",
   "0001999371-26-023738",
   "0001999371-26-023743",
@@ -5383,6 +5377,7 @@
   "0002011100-26-000006",
   "0002011118-26-000008",
   "0002011128-26-000007",
+  "0002011128-26-000008",
   "0002011525-26-000002",
   "0002011929-26-000010",
   "0002012024-26-000008",
