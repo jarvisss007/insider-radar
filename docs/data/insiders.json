@@ -1,79 +1,6 @@
 {
- "updated_utc": "2026-11-12 21:53 UTC",
+ "updated_utc": "2026-11-12 22:09 UTC",
  "purchases": [
-  {
-   "ticker": "THIRD POINT PRIVATE CAPITAL INCOME FUND (CIK 2122354)",
-   "company": "Third Point Private Capital Income Fund",
-   "insider": "Loeb Daniel S",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 160000.0,
-   "price": 25.0,
-   "value": 4000000.0,
-   "acc": "0000899140-26-001214",
-   "filed": "2026-11-05",
-   "placement": true
-  },
-  {
-   "ticker": "COUR",
-   "company": "Coursera, Inc.",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 2526702.0,
-   "price": 3.7209,
-   "value": 9401605.47,
-   "acc": "0000921895-26-002941",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "DOLE",
-   "company": "Dole plc",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 753563.0,
-   "price": 13.0477,
-   "value": 9832263.96,
-   "acc": "0000921895-26-002932",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 348195.0,
-   "price": 36.1471,
-   "value": 12586239.48,
-   "acc": "0001193125-26-449978",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "KNOP",
-   "company": "KNOT Offshore Partners LP",
-   "insider": "Seglem Trygve",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 2083333.0,
-   "price": 20.88,
-   "value": 43499993.04,
-   "acc": "0001104659-26-122691",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 70.0,
-   "price": 2.85,
-   "value": 199.5,
-   "acc": "0001536588-26-000046",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -3198,6 +3125,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "BX",
+   "company": "Blackstone Inc.",
+   "insider": "Porat Ruth",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 84.338,
+   "price": 119.9245,
+   "value": 10114.19,
+   "acc": "0001193125-26-458686",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "KLNG",
    "company": "Koil Energy Solutions, Inc.",
    "insider": "Intelligent Fanatics Capital Management LLC",
@@ -3220,6 +3159,18 @@
    "value": 12750.0,
    "acc": "0001859730-26-000004",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "BX",
+   "company": "Blackstone Inc.",
+   "insider": "Porat Ruth",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 126.507,
+   "price": 119.9245,
+   "value": 15171.29,
+   "acc": "0001193125-26-458686",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "PHIO",
@@ -3341,6 +3292,18 @@
    "value": 27874.22,
    "acc": "0001628280-26-072428",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "BX",
+   "company": "Blackstone Inc.",
+   "insider": "Porat Ruth",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 242.5149,
+   "price": 121.3769,
+   "value": 29435.71,
+   "acc": "0001193125-26-458686",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "MTDR",
@@ -3969,6 +3932,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "FMC",
+   "company": "FMC CORP",
+   "insider": "Tack Luc Jules R",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 2514.0,
+   "price": 5.6,
+   "value": 14078.4,
+   "acc": "0001140361-26-043461",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
    "insider": "ORBIMED ADVISORS LLC",
@@ -4305,6 +4280,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "NYSE:FLG",
+   "company": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
+   "insider": "Otting Joseph M",
+   "role": "Exec Chairman and CEO",
+   "date": "2026-11-10",
+   "shares": 47324.0,
+   "price": 10.49,
+   "value": 496428.76,
+   "acc": "0001323101-26-000007",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "MNR",
    "company": "MACH NATURAL RESOURCES LP",
    "insider": "WARD TOM L.",
@@ -4506,6 +4493,18 @@
    "price": 1.651,
    "value": 23842.09,
    "acc": "0001193125-26-458256",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "AIRS",
+   "company": "Airsculpt Technologies, Inc.",
+   "insider": "Jashnani Yogesh",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-11",
+   "shares": 31000.0,
+   "price": 0.7757,
+   "value": 24046.7,
+   "acc": "0001870940-26-000060",
    "filed": "2026-11-12"
   },
   {
@@ -5019,9 +5018,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023781",
-  "0001999371-26-023783",
-  "0001999371-26-023784",
   "0001999371-26-023786",
   "0001999371-26-023788",
   "0001999371-26-023803",
@@ -5188,6 +5184,7 @@
   "0001999371-26-025185",
   "0001999371-26-025189",
   "0001999371-26-025214",
+  "0001999371-26-025219",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5416,6 +5413,7 @@
   "0002013319-26-000008",
   "0002013346-26-000004",
   "0002013412-26-000003",
+  "0002013420-26-000010",
   "0002013622-26-000003",
   "0002013812-26-000012",
   "0002013812-26-000019",
@@ -7893,6 +7891,7 @@
   "0002149159-26-000006",
   "0002149324-26-000005",
   "0002149405-26-000004",
+  "0002149496-26-000002",
   "0002149579-26-000004",
   "0002149579-26-000006",
   "0002149618-26-000006",
