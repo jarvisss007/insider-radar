@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-12 22:25 UTC",
+ "updated_utc": "2026-11-12 22:41 UTC",
  "purchases": [
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Gal Nir",
-   "role": "VP Marketing & Israel Sales",
-   "date": "2026-11-04",
-   "shares": 9940.0,
-   "price": 0.996,
-   "value": 9900.24,
-   "acc": "0001213900-26-116554",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Nir",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-04",
-   "shares": 9940.0,
-   "price": 0.996,
-   "value": 9900.24,
-   "acc": "0001213900-26-116552",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "JBSS",
-   "company": "SANFILIPPO JOHN B & SON INC",
-   "insider": "Finn Michael J",
-   "role": "Sr. VP, Corporate Controller",
-   "date": "2026-11-04",
-   "shares": 200.0,
-   "price": 54.57,
-   "value": 10914.0,
-   "acc": "0001193125-26-447640",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "CLST",
-   "company": "Catalyst Bancorp, Inc.",
-   "insider": "Kleiser Kirk E.",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 714.0,
-   "price": 17.755,
-   "value": 12677.07,
-   "acc": "0001885818-26-000007",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "AWRE",
    "company": "AWARE INC /MA/",
@@ -3644,6 +3596,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "OFIX",
+   "company": "Orthofix Medical Inc.",
+   "insider": "Juniper Investment Company, LLC",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 675000.0,
+   "price": 7.4111,
+   "value": 5002492.5,
+   "acc": "0001794034-26-000008",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -3869,6 +3833,18 @@
    "price": 62.229,
    "value": 24953.83,
    "acc": "0002028916-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 9674.0,
+   "price": 2.5905,
+   "value": 25060.5,
+   "acc": "0001072613-26-000862",
    "filed": "2026-11-12"
   },
   {
@@ -4424,6 +4400,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 9480.0,
+   "price": 2.548,
+   "value": 24155.04,
+   "acc": "0001072613-26-000862",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "LUCK",
    "company": "Lucky Strike Entertainment Corp",
    "insider": "Young John Alan",
@@ -4529,6 +4517,18 @@
    "price": 19.76,
    "value": 98800.0,
    "acc": "0002088880-26-000008",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "OFIX",
+   "company": "Orthofix Medical Inc.",
+   "insider": "Juniper Investment Company, LLC",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 14803.0,
+   "price": 7.0402,
+   "value": 104216.08,
+   "acc": "0001794034-26-000008",
    "filed": "2026-11-12"
   },
   {
@@ -4995,11 +4995,6 @@
    "total_value": 19863.7
   },
   {
-   "ticker": "SYNX",
-   "insiders": 2,
-   "total_value": 19800.48
-  },
-  {
    "ticker": "BOTJ",
    "insiders": 2,
    "total_value": 18911.76
@@ -5023,9 +5018,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023822",
-  "0001999371-26-023826",
-  "0001999371-26-023828",
   "0001999371-26-023837",
   "0001999371-26-023867",
   "0001999371-26-023869",
@@ -5187,6 +5179,7 @@
   "0001999371-26-025189",
   "0001999371-26-025214",
   "0001999371-26-025219",
+  "0001999371-26-025224",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5919,6 +5912,7 @@
   "0002043411-26-000020",
   "0002043506-26-000005",
   "0002043520-26-000007",
+  "0002043751-26-000008",
   "0002043764-26-000006",
   "0002043764-26-000008",
   "0002043837-26-000008",
@@ -7283,6 +7277,7 @@
   "0002104631-26-000013",
   "0002104631-26-000016",
   "0002104631-26-000018",
+  "0002104631-26-000020",
   "0002104636-26-000005",
   "0002104848-26-000012",
   "0002104954-26-000001",
