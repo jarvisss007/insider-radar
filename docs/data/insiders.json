@@ -1,162 +1,6 @@
 {
- "updated_utc": "2026-11-12 22:09 UTC",
+ "updated_utc": "2026-11-12 22:25 UTC",
  "purchases": [
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-11-04",
-   "shares": 9000.0,
-   "price": 0.05,
-   "value": 450.0,
-   "acc": "0001035422-26-000019",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 201.0,
-   "price": 2.85,
-   "value": 572.85,
-   "acc": "0001536588-26-000046",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 517.0,
-   "price": 2.4,
-   "value": 1240.8,
-   "acc": "0001178579-26-000023",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "RRBI",
-   "company": "RED RIVER BANCSHARES INC",
-   "insider": "Price Teddy Ray",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 14.0,
-   "price": 107.8,
-   "value": 1509.2,
-   "acc": "0001770071-26-000012",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "APOG",
-   "company": "APOGEE ENTERPRISES, INC.",
-   "insider": "Alvord Christina M",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 52.0,
-   "price": 46.47,
-   "value": 2416.44,
-   "acc": "0001692983-26-000012",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-04",
-   "shares": 5115.0,
-   "price": 0.9535,
-   "value": 4877.15,
-   "acc": "0001493152-26-050081",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 1930.0,
-   "price": 2.82,
-   "value": 5442.6,
-   "acc": "0001536588-26-000046",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "JBSS",
-   "company": "SANFILIPPO JOHN B & SON INC",
-   "insider": "Finn Michael J",
-   "role": "Sr. VP, Corporate Controller",
-   "date": "2026-11-04",
-   "shares": 100.0,
-   "price": 54.56,
-   "value": 5456.0,
-   "acc": "0001193125-26-447640",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "CIVB",
-   "company": "CIVISTA BANCSHARES, INC.",
-   "insider": "Macioce Mark J.",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 209.0,
-   "price": 28.98,
-   "value": 6056.82,
-   "acc": "0001974623-26-000006",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "GRX",
-   "company": "Gabelli Healthcare & WellnessRx Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 700.0,
-   "price": 10.43,
-   "value": 7301.0,
-   "acc": "0001510281-26-000415",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Carus Jeffrey A",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 500.0,
-   "price": 15.22,
-   "value": 7610.0,
-   "acc": "0000752642-26-000134",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 661.0,
-   "price": 13.0255,
-   "value": 8609.86,
-   "acc": "0001213900-26-116801",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 5027.0,
-   "price": 1.8023,
-   "value": 9060.16,
-   "acc": "0001493152-26-050313",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "SYNX",
    "company": "Silynxcom Ltd.",
@@ -4028,6 +3872,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "DAR",
+   "company": "DARLING INGREDIENTS INC.",
+   "insider": "Adair Charles L",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 500.0,
+   "price": 51.19,
+   "value": 25595.0,
+   "acc": "0001193125-26-458707",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "CMRE",
    "company": "Costamare Inc.",
    "insider": "Zacharatos Konstantinos",
@@ -4122,6 +3978,18 @@
    "value": 55125.0,
    "acc": "0001193125-26-455831",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 11757.0,
+   "price": 5.6,
+   "value": 65839.2,
+   "acc": "0001510281-26-000431",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "AQST",
@@ -4400,6 +4268,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "NFRX",
+   "company": "2023 ETF Series Trust",
+   "insider": "Harrison Street Real Assets Fund LLC",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 1670420.0,
+   "price": 26.64,
+   "value": 44499988.8,
+   "acc": "0001687898-26-000012",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "RM",
    "company": "Regional Management Corp.",
    "insider": "BASSWOOD CAPITAL MANAGEMENT, L.L.C.",
@@ -4424,6 +4304,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BW",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "insider": "Howe Alan B",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 1000.0,
+   "price": 5.14,
+   "value": 5140.0,
+   "acc": "0001630805-26-000085",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "OESX",
    "company": "ORION ENERGY SYSTEMS, INC.",
    "insider": "Washlow Sally A.",
@@ -4433,6 +4325,18 @@
    "price": 12.2,
    "value": 9906.4,
    "acc": "0000897069-26-001917",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 2182.0,
+   "price": 5.59,
+   "value": 12197.38,
+   "acc": "0001510281-26-000431",
    "filed": "2026-11-12"
   },
   {
@@ -4469,6 +4373,18 @@
    "price": 8.6673,
    "value": 17334.6,
    "acc": "0001976408-26-000938",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "URG",
+   "company": "UR-ENERGY INC",
+   "insider": "SMITH ROGER L.",
+   "role": "CHIEF FINANCIAL OFFICER",
+   "date": "2026-11-11",
+   "shares": 30000.0,
+   "price": 0.651,
+   "value": 19530.0,
+   "acc": "0001654954-26-009738",
    "filed": "2026-11-12"
   },
   {
@@ -4580,6 +4496,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "HXL",
+   "company": "HEXCEL CORP /DE/",
+   "insider": "KEATING NEAL J.",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 1000.0,
+   "price": 80.83,
+   "value": 80830.0,
+   "acc": "0001193125-26-458723",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "RM",
    "company": "Regional Management Corp.",
    "insider": "BASSWOOD CAPITAL MANAGEMENT, L.L.C.",
@@ -4601,6 +4529,30 @@
    "price": 19.76,
    "value": 98800.0,
    "acc": "0002088880-26-000008",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-11",
+   "shares": 714.0,
+   "price": 152.992,
+   "value": 109236.29,
+   "acc": "0001666120-26-000033",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "URG",
+   "company": "UR-ENERGY INC",
+   "insider": "Walle Jade",
+   "role": "VICE PRESIDENT FINANCE",
+   "date": "2026-11-11",
+   "shares": 164178.0,
+   "price": 0.67,
+   "value": 109999.26,
+   "acc": "0001654954-26-009739",
    "filed": "2026-11-12"
   },
   {
@@ -4661,6 +4613,30 @@
    "price": 37.3,
    "value": 186500.0,
    "acc": "0001832050-26-000010",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-11",
+   "shares": 1300.0,
+   "price": 151.2631,
+   "value": 196642.03,
+   "acc": "0001666120-26-000033",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-11",
+   "shares": 1386.0,
+   "price": 152.1644,
+   "value": 210899.86,
+   "acc": "0001666120-26-000033",
    "filed": "2026-11-12"
   },
   {
@@ -4745,6 +4721,30 @@
    "price": 5.477,
    "value": 500028.04,
    "acc": "0001284591-26-000002",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "HILL W BRYAN",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 40000.0,
+   "price": 13.8529,
+   "value": 554116.0,
+   "acc": "0001628280-26-073491",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-11",
+   "shares": 10000.0,
+   "price": 149.7212,
+   "value": 1497212.0,
+   "acc": "0001666120-26-000033",
    "filed": "2026-11-12"
   },
   {
@@ -4870,6 +4870,11 @@
    "total_value": 682656.18
   },
   {
+   "ticker": "BW",
+   "insiders": 2,
+   "total_value": 652732.5
+  },
+  {
    "ticker": "WCC",
    "insiders": 2,
    "total_value": 603430.27
@@ -4955,6 +4960,11 @@
    "total_value": 145700.0
   },
   {
+   "ticker": "URG",
+   "insiders": 2,
+   "total_value": 129529.26
+  },
+  {
    "ticker": "GSM",
    "insiders": 2,
    "total_value": 125600.47
@@ -4978,11 +4988,6 @@
    "ticker": "PHIO",
    "insiders": 3,
    "total_value": 45755.2
-  },
-  {
-   "ticker": "UMH",
-   "insiders": 2,
-   "total_value": 27188.0
   },
   {
    "ticker": "SHEN",
@@ -5018,9 +5023,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023786",
-  "0001999371-26-023788",
-  "0001999371-26-023803",
   "0001999371-26-023822",
   "0001999371-26-023826",
   "0001999371-26-023828",
@@ -5396,6 +5398,7 @@
   "0002012383-26-003310",
   "0002012383-26-003341",
   "0002012383-26-003952",
+  "0002012383-26-003982",
   "0002012406-26-000002",
   "0002012406-26-000004",
   "0002012427-26-000004",
@@ -6201,6 +6204,7 @@
   "0002060030-26-000012",
   "0002060166-26-000015",
   "0002060166-26-000017",
+  "0002060188-26-000009",
   "0002060195-26-000002",
   "0002060369-26-000004",
   "0002060469-26-000004",
@@ -7150,6 +7154,7 @@
   "0002091734-26-000006",
   "0002091792-26-000002",
   "0002091792-26-000003",
+  "0002091792-26-000005",
   "0002091798-26-000008",
   "0002091798-26-000010",
   "0002091921-26-000004",
