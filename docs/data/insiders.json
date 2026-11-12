@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-12 18:59 UTC",
+ "updated_utc": "2026-11-12 19:46 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO EQUITY & INCOME FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 13804.0,
-   "price": 20.54,
-   "value": 283534.16,
-   "acc": "0001510281-26-000409",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -4341,6 +4329,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "EGBN",
+   "company": "EAGLE BANCORP INC",
+   "insider": "Curley Stephen Russell",
+   "role": "President/CEO",
+   "date": "2026-11-10",
+   "shares": 4393.0,
+   "price": 34.05,
+   "value": 149581.65,
+   "acc": "0001441890-26-000007",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
    "insider": "ORBIMED ADVISORS LLC",
@@ -4936,6 +4936,11 @@
    "total_value": 204936.0
   },
   {
+   "ticker": "EGBN",
+   "insiders": 2,
+   "total_value": 199429.35
+  },
+  {
    "ticker": "WW",
    "insiders": 2,
    "total_value": 192750.0
@@ -5019,7 +5024,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023667",
   "0001999371-26-023671",
   "0001999371-26-023673",
   "0001999371-26-023681",
@@ -5368,6 +5372,7 @@
   "0002010135-26-000020",
   "0002010135-26-000025",
   "0002010135-26-000028",
+  "0002010288-26-000007",
   "0002010300-26-000023",
   "0002010300-26-000025",
   "0002010300-26-000027",
