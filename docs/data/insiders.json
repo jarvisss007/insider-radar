@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-12 17:55 UTC",
+ "updated_utc": "2026-11-12 18:27 UTC",
  "purchases": [
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 7500.0,
-   "price": 18.6941,
-   "value": 140205.75,
-   "acc": "0000935596-26-000027",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "CRH",
    "company": "CRH PUBLIC LTD CO",
@@ -4806,6 +4794,18 @@
    "price": 5.477,
    "value": 500028.04,
    "acc": "0001284591-26-000002",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "ABCL",
+   "company": "AbCellera Biologics Inc.",
+   "insider": "Thermopylae Holdings Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 60565.0,
+   "price": 11.54,
+   "value": 698920.1,
+   "acc": "0001834449-26-000009",
    "filed": "2026-11-12"
   }
  ],
