@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-12 22:57 UTC",
+ "updated_utc": "2026-11-12 23:13 UTC",
  "purchases": [
-  {
-   "ticker": "CLST",
-   "company": "Catalyst Bancorp, Inc.",
-   "insider": "Kleiser Kirk E.",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 990.0,
-   "price": 17.755,
-   "value": 17577.45,
-   "acc": "0001885818-26-000007",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Mitchell William Edward",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 1300.0,
-   "price": 15.06,
-   "value": 19578.0,
-   "acc": "0000752642-26-000133",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "RMBI",
-   "company": "Richmond Mutual Bancorporation, Inc.",
-   "insider": "Cook Christopher D",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 1500.0,
-   "price": 15.545,
-   "value": 23317.5,
-   "acc": "0001628280-26-069865",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 5000.0,
-   "price": 7.07,
-   "value": 35350.0,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 5000.0,
-   "price": 7.07,
-   "value": 35350.0,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "DOLE",
-   "company": "Dole plc",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 2700.0,
-   "price": 13.38,
-   "value": 36126.0,
-   "acc": "0000921895-26-002932",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "TBBK",
-   "company": "Bancorp, Inc.",
-   "insider": "Mudick Stephanie B",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 1000.0,
-   "price": 47.495,
-   "value": 47495.0,
-   "acc": "0002039852-26-000136",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 9267.0,
-   "price": 7.78,
-   "value": 72097.26,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
@@ -3536,6 +3440,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "JYNT",
+   "company": "JOINT Corp",
+   "insider": "JOBSON CHARLES E",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 236116.0,
+   "price": 6.65,
+   "value": 1570171.4,
+   "acc": "0001214659-26-014038",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
    "insider": "JAFFER REHAN",
@@ -3992,6 +3908,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "MTDR",
+   "company": "Matador Resources Co",
+   "insider": "Foran Joseph Wm",
+   "role": "Chairman and CEO",
+   "date": "2026-11-10",
+   "shares": 2500.0,
+   "price": 49.29,
+   "value": 123225.0,
+   "acc": "0001540655-26-000029",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "WW",
    "company": "WW INTERNATIONAL, INC.",
    "insider": "BYE STEPHEN J",
@@ -4256,6 +4184,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "LRMR",
+   "company": "Larimar Therapeutics, Inc.",
+   "insider": "Truitt Joseph",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 3500.0,
+   "price": 2.7976,
+   "value": 9791.6,
+   "acc": "0001193125-26-458847",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "OESX",
    "company": "ORION ENERGY SYSTEMS, INC.",
    "insider": "Washlow Sally A.",
@@ -4304,6 +4244,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "JOF",
+   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 1300.0,
+   "price": 10.8,
+   "value": 14040.0,
+   "acc": "0001510281-26-000433",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "CLIK",
    "company": "Click Holdings Ltd.",
    "insider": "Chan Chun Sing",
@@ -4349,6 +4301,18 @@
    "price": 4.055,
    "value": 20275.0,
    "acc": "0001493152-26-051200",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "LRMR",
+   "company": "Larimar Therapeutics, Inc.",
+   "insider": "THOMAS FRANK E",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 8000.0,
+   "price": 2.725,
+   "value": 21800.0,
+   "acc": "0001193125-26-458848",
    "filed": "2026-11-12"
   },
   {
@@ -4457,6 +4421,42 @@
    "price": 44.26,
    "value": 44260.0,
    "acc": "0001193125-26-458807",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "LRMR",
+   "company": "Larimar Therapeutics, Inc.",
+   "insider": "Harlow John B. Jr.",
+   "role": "President and COO",
+   "date": "2026-11-11",
+   "shares": 17800.0,
+   "price": 2.8044,
+   "value": 49918.32,
+   "acc": "0001193125-26-458845",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "LRMR",
+   "company": "Larimar Therapeutics, Inc.",
+   "insider": "BEN-MAIMON CAROLE",
+   "role": "President and CEO",
+   "date": "2026-11-11",
+   "shares": 18050.0,
+   "price": 2.7675,
+   "value": 49953.38,
+   "acc": "0001193125-26-458853",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "LRMR",
+   "company": "Larimar Therapeutics, Inc.",
+   "insider": "Celano Michael",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-11",
+   "shares": 18460.0,
+   "price": 2.7081,
+   "value": 49991.53,
+   "acc": "0001193125-26-458834",
    "filed": "2026-11-12"
   },
   {
@@ -4817,7 +4817,7 @@
   {
    "ticker": "ETRA",
    "insiders": 2,
-   "total_value": 4846082.14
+   "total_value": 4703284.88
   },
   {
    "ticker": "LBTY",
@@ -4885,6 +4885,11 @@
    "total_value": 494605.0
   },
   {
+   "ticker": "MTDR",
+   "insiders": 8,
+   "total_value": 482235.0
+  },
+  {
    "ticker": "GFS",
    "insiders": 2,
    "total_value": 473687.5
@@ -4898,11 +4903,6 @@
    "ticker": "KYN",
    "insiders": 2,
    "total_value": 382623.5
-  },
-  {
-   "ticker": "MTDR",
-   "insiders": 7,
-   "total_value": 359010.0
   },
   {
    "ticker": "DOX",
@@ -4938,6 +4938,11 @@
    "ticker": "EGBN",
    "insiders": 2,
    "total_value": 199429.35
+  },
+  {
+   "ticker": "LRMR",
+   "insiders": 6,
+   "total_value": 195003.83
   },
   {
    "ticker": "WW",
@@ -5018,13 +5023,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023837",
-  "0001999371-26-023867",
-  "0001999371-26-023869",
-  "0001999371-26-023876",
-  "0001999371-26-023878",
-  "0001999371-26-023881",
-  "0001999371-26-023886",
   "0001999371-26-023888",
   "0001999371-26-023904",
   "0001999371-26-023907",
@@ -5292,6 +5290,7 @@
   "0002006943-26-000012",
   "0002006945-26-000007",
   "0002006956-26-000004",
+  "0002007137-26-000007",
   "0002007420-26-000002",
   "0002007443-26-000005",
   "0002007678-26-000002",
@@ -5425,6 +5424,7 @@
   "0002014275-26-000012",
   "0002014275-26-000014",
   "0002014275-26-000016",
+  "0002014275-26-000018",
   "0002014293-26-000012",
   "0002014293-26-000014",
   "0002014328-26-000010",
@@ -5905,6 +5905,7 @@
   "0002043334-26-000008",
   "0002043379-26-000010",
   "0002043379-26-000012",
+  "0002043379-26-000014",
   "0002043395-26-000012",
   "0002043397-26-000008",
   "0002043411-26-000014",
@@ -6092,6 +6093,7 @@
   "0002054266-26-000010",
   "0002054688-26-000008",
   "0002054905-26-000008",
+  "0002054905-26-000010",
   "0002055009-26-000006",
   "0002055010-26-000005",
   "0002055010-26-000007",
@@ -7008,6 +7010,7 @@
   "0002082930-26-000018",
   "0002082930-26-000020",
   "0002082975-26-000008",
+  "0002082975-26-000010",
   "0002083068-26-000004",
   "0002083093-26-000004",
   "0002083093-26-000008",
@@ -7193,6 +7196,7 @@
   "0002095703-26-000008",
   "0002095744-26-000010",
   "0002095744-26-000012",
+  "0002095744-26-000014",
   "0002095785-26-000002",
   "0002095816-26-000020",
   "0002096038-26-000002",
@@ -7208,6 +7212,7 @@
   "0002097042-26-000005",
   "0002097107-26-000004",
   "0002097107-26-000005",
+  "0002097133-26-000009",
   "0002097248-26-000002",
   "0002097259-26-000002",
   "0002097259-26-000003",
