@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-12 15:49 UTC",
+ "updated_utc": "2026-11-12 16:05 UTC",
  "purchases": [
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Gal Nir",
-   "role": "VP Marketing & Israel Sales",
-   "date": "2026-11-03",
-   "shares": 10000.0,
-   "price": 0.9807,
-   "value": 9807.0,
-   "acc": "0001213900-26-116554",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "SYNX",
-   "company": "Silynxcom Ltd.",
-   "insider": "Klein Nir",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-03",
-   "shares": 10000.0,
-   "price": 0.9807,
-   "value": 9807.0,
-   "acc": "0001213900-26-116552",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "OCFC",
-   "company": "OCEANFIRST FINANCIAL CORP",
-   "insider": "Farris Jack M.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 542.0,
-   "price": 18.465,
-   "value": 10008.03,
-   "acc": "0001636468-26-000004",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "TBBK",
-   "company": "Bancorp, Inc.",
-   "insider": "Cohn Matthew",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 250.0,
-   "price": 45.51,
-   "value": 11377.5,
-   "acc": "0002039852-26-000132",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 10328.0,
-   "price": 1.7894,
-   "value": 18480.92,
-   "acc": "0001493152-26-050313",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "AWRE",
    "company": "AWARE INC /MA/",
@@ -3799,6 +3739,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "DOX",
+   "company": "AMDOCS LTD",
+   "insider": "Davis Sarah R.",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 822.0,
+   "price": 42.7341,
+   "value": 35127.43,
+   "acc": "0001193125-26-457443",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "NTHI",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
    "insider": "Heshmatpour Amir F",
@@ -3993,6 +3945,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "DOX",
+   "company": "AMDOCS LTD",
+   "insider": "Genish Amos",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 3565.0,
+   "price": 42.0,
+   "value": 149730.0,
+   "acc": "0001193125-26-457453",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "DTI",
    "company": "Drilling Tools International Corp",
    "insider": "Prejean Robert Wayne",
@@ -4173,6 +4137,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "DOX",
+   "company": "AMDOCS LTD",
+   "insider": "MacDonald John Anthony",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 100.0,
+   "price": 41.625,
+   "value": 4162.5,
+   "acc": "0001193125-26-457435",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "OWLS",
    "company": "OBOOK HOLDINGS INC.",
    "insider": "WANG CHUN KAI",
@@ -4194,6 +4170,18 @@
    "price": 0.138,
    "value": 5382.0,
    "acc": "0001493152-26-051199",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "DOX",
+   "company": "AMDOCS LTD",
+   "insider": "MORALI VERONIQUE",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 134.0,
+   "price": 41.31,
+   "value": 5535.54,
+   "acc": "0001193125-26-457426",
    "filed": "2026-11-12"
   },
   {
@@ -4315,6 +4303,18 @@
    "value": 37267.1,
    "acc": "0000921895-26-003021",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "DOX",
+   "company": "AMDOCS LTD",
+   "insider": "MacDonald John Anthony",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 900.0,
+   "price": 41.63,
+   "value": 37467.0,
+   "acc": "0001193125-26-457435",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "API",
@@ -4931,6 +4931,11 @@
    "total_value": 278388.0
   },
   {
+   "ticker": "DOX",
+   "insiders": 4,
+   "total_value": 232022.47
+  },
+  {
    "ticker": "KMT",
    "insiders": 2,
    "total_value": 212368.0
@@ -4966,14 +4971,14 @@
    "total_value": 116677.5
   },
   {
-   "ticker": "TBBK",
-   "insiders": 2,
-   "total_value": 93035.0
-  },
-  {
    "ticker": "AFCG",
    "insiders": 3,
    "total_value": 92455.0
+  },
+  {
+   "ticker": "TBBK",
+   "insiders": 2,
+   "total_value": 81657.5
   },
   {
    "ticker": "NTHI",
@@ -4986,11 +4991,6 @@
    "total_value": 45755.2
   },
   {
-   "ticker": "SYNX",
-   "insiders": 2,
-   "total_value": 39414.48
-  },
-  {
    "ticker": "UMH",
    "insiders": 2,
    "total_value": 27188.0
@@ -4999,6 +4999,11 @@
    "ticker": "SHEN",
    "insiders": 3,
    "total_value": 19863.7
+  },
+  {
+   "ticker": "SYNX",
+   "insiders": 2,
+   "total_value": 19800.48
   },
   {
    "ticker": "BOTJ",
@@ -5024,7 +5029,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023540",
   "0001999371-26-023544",
   "0001999371-26-023599",
   "0001999371-26-023611",
@@ -7508,6 +7512,7 @@
   "0002117905-26-000045",
   "0002117905-26-000046",
   "0002117905-26-000047",
+  "0002117905-26-000048",
   "0002117961-26-000002",
   "0002117999-26-000006",
   "0002118012-26-000003",
