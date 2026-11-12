@@ -1,56 +1,6 @@
 {
- "updated_utc": "2026-11-12 13:28 UTC",
+ "updated_utc": "2026-11-12 13:44 UTC",
  "purchases": [
-  {
-   "ticker": "ASPE",
-   "company": "Aspen Neuroscience, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 1000000.0,
-   "price": 15.0,
-   "value": 15000000.0,
-   "acc": "0000947871-26-000980",
-   "filed": "2026-11-04",
-   "placement": true
-  },
-  {
-   "ticker": "ASPE",
-   "company": "Aspen Neuroscience, Inc.",
-   "insider": "Thompson Peter A.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 1000000.0,
-   "price": 15.0,
-   "value": 15000000.0,
-   "acc": "0000947871-26-000981",
-   "filed": "2026-11-04",
-   "placement": true
-  },
-  {
-   "ticker": "ASPE",
-   "company": "Aspen Neuroscience, Inc.",
-   "insider": "ARCH Venture Fund X, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 1200000.0,
-   "price": 15.0,
-   "value": 18000000.0,
-   "acc": "0001193125-26-444147",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "ASPE",
-   "company": "Aspen Neuroscience, Inc.",
-   "insider": "ARCH Venture Partners XIV, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 1200000.0,
-   "price": 15.0,
-   "value": 18000000.0,
-   "acc": "0001193125-26-444141",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "BBTX",
    "company": "Bambusa Therapeutics, Inc.",
@@ -4127,6 +4077,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 7500.0,
+   "price": 18.8094,
+   "value": 141070.5,
+   "acc": "0000935596-26-000029",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "DTI",
    "company": "Drilling Tools International Corp",
    "insider": "Prejean Robert Wayne",
@@ -4523,6 +4485,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 7500.0,
+   "price": 18.9061,
+   "value": 141795.75,
+   "acc": "0000935596-26-000029",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
    "insider": "ORBIMED ADVISORS LLC",
@@ -4715,6 +4689,30 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Spoor Johan M.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-11",
+   "shares": 47000.0,
+   "price": 0.8073,
+   "value": 37943.1,
+   "acc": "0001193125-26-457093",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 7500.0,
+   "price": 18.8841,
+   "value": 141630.75,
+   "acc": "0000935596-26-000029",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "BRC Group Holdings, Inc.",
@@ -4812,12 +4810,6 @@
   }
  ],
  "clusters": [
-  {
-   "ticker": "ASPE",
-   "insiders": 4,
-   "total_value": 36000000.0,
-   "other_value": 30000000.0
-  },
   {
    "ticker": "FUN",
    "insiders": 3,
