@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-12 21:21 UTC",
+ "updated_utc": "2026-11-12 21:37 UTC",
  "purchases": [
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 97800.0,
-   "price": 7.84,
-   "value": 766752.0,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 97800.0,
-   "price": 7.84,
-   "value": 766752.0,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 98600.0,
-   "price": 7.88,
-   "value": 776968.0,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 98600.0,
-   "price": 7.88,
-   "value": 776968.0,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "FBRT",
-   "company": "Franklin BSP Realty Trust, Inc.",
-   "insider": "Byrne Richard J",
-   "role": "Chairman and CEO",
-   "date": "2026-11-03",
-   "shares": 162600.0,
-   "price": 6.14,
-   "value": 998364.0,
-   "acc": "0001104659-26-123375",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -3909,6 +3849,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 50000.0,
+   "price": 24.4221,
+   "value": 1221105.0,
+   "acc": "0001104659-26-126283",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
    "insider": "JAFFER REHAN",
@@ -4087,6 +4039,18 @@
    "value": 18950.0,
    "acc": "0001628280-26-072835",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "FRPH",
+   "company": "FRP HOLDINGS, INC.",
+   "insider": "Baker John D. III",
+   "role": "CEO",
+   "date": "2026-11-10",
+   "shares": 1091.0,
+   "price": 18.98,
+   "value": 20707.18,
+   "acc": "0000897069-26-001921",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "CTM",
@@ -4437,6 +4401,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 65579.0,
+   "price": 26.1444,
+   "value": 1714523.61,
+   "acc": "0001104659-26-126283",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
    "insider": "WEISENBURGER RANDALL J",
@@ -4614,6 +4590,18 @@
    "price": 0.8073,
    "value": 37943.1,
    "acc": "0001193125-26-457093",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "FRPH",
+   "company": "FRP HOLDINGS, INC.",
+   "insider": "Baker John D. III",
+   "role": "CEO",
+   "date": "2026-11-11",
+   "shares": 4172.0,
+   "price": 18.8,
+   "value": 78433.6,
+   "acc": "0000897069-26-001921",
    "filed": "2026-11-12"
   },
   {
@@ -4797,6 +4785,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "GAM",
+   "company": "GENERAL AMERICAN INVESTORS CO INC",
+   "insider": "Stark Eugene S",
+   "role": "VP Administration",
+   "date": "2026-11-12",
+   "shares": 1000.0,
+   "price": 21.95,
+   "value": 21950.0,
+   "acc": "0000040417-26-000055",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Thermopylae Holdings Ltd.",
@@ -4816,14 +4816,14 @@
    "total_value": 15066320.0
   },
   {
-   "ticker": "ETRA",
-   "insiders": 2,
-   "total_value": 7933522.14
-  },
-  {
    "ticker": "PAM",
    "insiders": 2,
    "total_value": 5410831.07
+  },
+  {
+   "ticker": "ETRA",
+   "insiders": 2,
+   "total_value": 4846082.14
   },
   {
    "ticker": "LBTY",
@@ -5019,9 +5019,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023735",
-  "0001999371-26-023738",
-  "0001999371-26-023743",
   "0001999371-26-023746",
   "0001999371-26-023749",
   "0001999371-26-023755",
@@ -6112,6 +6109,7 @@
   "0002055138-26-000008",
   "0002055138-26-000011",
   "0002055138-26-000013",
+  "0002055182-26-000006",
   "0002055311-26-000002",
   "0002055606-26-000004",
   "0002055817-26-000004",
@@ -7180,6 +7178,7 @@
   "0002093300-26-000004",
   "0002093489-26-000006",
   "0002093849-26-000008",
+  "0002094217-26-000006",
   "0002094262-26-000004",
   "0002094343-26-000008",
   "0002094616-26-000004",
@@ -7972,6 +7971,7 @@
   "0002156048-26-000004",
   "0002156092-26-000005",
   "0002156224-26-000005",
+  "0002156224-26-000007",
   "0002156232-26-000003",
   "0002156293-26-000005",
   "0002156505-26-000004",
