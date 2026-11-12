@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-12 18:27 UTC",
+ "updated_utc": "2026-11-12 18:59 UTC",
  "purchases": [
-  {
-   "ticker": "CRH",
-   "company": "CRH PUBLIC LTD CO",
-   "insider": "Talbot Siobhan",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 2000.0,
-   "price": 94.63,
-   "value": 189260.0,
-   "acc": "0000849395-26-000015",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 24313.0,
-   "price": 7.84,
-   "value": 190613.92,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 24313.0,
-   "price": 7.84,
-   "value": 190613.92,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 24400.0,
-   "price": 7.88,
-   "value": 192272.0,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 24400.0,
-   "price": 7.88,
-   "value": 192272.0,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 7901.0,
-   "price": 35.348,
-   "value": 279284.55,
-   "acc": "0001193125-26-449978",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO EQUITY & INCOME FUND INC",
@@ -3281,6 +3209,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 6.0,
+   "price": 2.85,
+   "value": 17.1,
+   "acc": "0001536588-26-000047",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "OSBC",
    "company": "OLD SECOND BANCORP INC",
    "insider": "Lyons Billy J Jr.",
@@ -3364,6 +3304,30 @@
    "value": 5070.28,
    "acc": "0001493152-26-050892",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 1800.0,
+   "price": 2.85,
+   "value": 5130.0,
+   "acc": "0001536588-26-000047",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 2000.0,
+   "price": 2.85,
+   "value": 5700.0,
+   "acc": "0001536588-26-000047",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "KRT",
@@ -3933,6 +3897,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Damian Miguel",
+   "role": "Vicepresident",
+   "date": "2026-11-09",
+   "shares": 12175.0,
+   "price": 64.601,
+   "value": 786517.18,
+   "acc": "0002028916-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ROK",
    "company": "ROCKWELL AUTOMATION, INC",
    "insider": "Moret Blake D.",
@@ -4171,6 +4147,18 @@
    "value": 21855.0,
    "acc": "0001877939-26-000102",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Damian Miguel",
+   "role": "Vicepresident",
+   "date": "2026-11-10",
+   "shares": 401.0,
+   "price": 62.229,
+   "value": 24953.83,
+   "acc": "0002028916-26-000014",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "CMRE",
@@ -4785,6 +4773,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Damian Miguel",
+   "role": "Vicepresident",
+   "date": "2026-11-11",
+   "shares": 7667.0,
+   "price": 63.72,
+   "value": 488541.24,
+   "acc": "0002028916-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "HOS",
    "company": "HORNBECK OFFSHORE SERVICES, INC.",
    "insider": "HORNBECK TODD M",
@@ -4823,17 +4823,17 @@
   {
    "ticker": "ETRA",
    "insiders": 2,
-   "total_value": 8699293.98
+   "total_value": 7933522.14
+  },
+  {
+   "ticker": "PAM",
+   "insiders": 2,
+   "total_value": 5410831.07
   },
   {
    "ticker": "LBTY",
    "insiders": 3,
    "total_value": 4486300.15
-  },
-  {
-   "ticker": "PAM",
-   "insiders": 2,
-   "total_value": 4110818.82
   },
   {
    "ticker": "MP",
@@ -4864,11 +4864,6 @@
    "ticker": "TTMI",
    "insiders": 2,
    "total_value": 941141.0
-  },
-  {
-   "ticker": "CRH",
-   "insiders": 2,
-   "total_value": 758960.0
   },
   {
    "ticker": "FLOC",
@@ -5024,7 +5019,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023666",
   "0001999371-26-023667",
   "0001999371-26-023671",
   "0001999371-26-023673",
@@ -5675,6 +5669,7 @@
   "0002028781-26-000012",
   "0002028916-26-000012",
   "0002028916-26-000013",
+  "0002028916-26-000014",
   "0002028917-26-000003",
   "0002028977-26-000015",
   "0002028977-26-000017",
