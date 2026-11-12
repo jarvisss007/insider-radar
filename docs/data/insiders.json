@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-12 12:56 UTC",
+ "updated_utc": "2026-11-12 13:12 UTC",
  "purchases": [
-  {
-   "ticker": "DOLE",
-   "company": "Dole plc",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 230294.0,
-   "price": 13.2572,
-   "value": 3053053.62,
-   "acc": "0000921895-26-002932",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 50000.0,
-   "price": 77.23,
-   "value": 3861500.0,
-   "acc": "0001213900-26-115698",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 75000.0,
-   "price": 77.01,
-   "value": 5775750.0,
-   "acc": "0001213900-26-115698",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "CRBG",
-   "company": "Corebridge Financial, Inc.",
-   "insider": "NIPPON LIFE INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 190251.0,
-   "price": 35.2322,
-   "value": 6702961.28,
-   "acc": "0001193125-26-447693",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "INTC",
    "company": "INTEL CORP",
@@ -4367,6 +4319,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-10",
+   "shares": 39000.0,
+   "price": 0.138,
+   "value": 5382.0,
+   "acc": "0001493152-26-051199",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "FMBM",
    "company": "F&M BANK CORP",
    "insider": "Truban Erica N.",
@@ -4655,6 +4619,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "HOS",
+   "company": "HORNBECK OFFSHORE SERVICES, INC.",
+   "insider": "HORNBECK TODD M",
+   "role": "PRESIDENT & CEO",
+   "date": "2026-11-10",
+   "shares": 189569.877,
+   "price": 5.275,
+   "value": 999981.1,
+   "acc": "0001284591-26-000002",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "TXO",
    "company": "TXO Partners, L.P.",
    "insider": "SIMPSON BOB R",
@@ -4724,6 +4700,18 @@
    "price": 8.6673,
    "value": 17334.6,
    "acc": "0001976408-26-000938",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "TNXP",
+   "company": "Tonix Pharmaceuticals Holding Corp.",
+   "insider": "LEDERMAN SETH",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-11",
+   "shares": 5000.0,
+   "price": 4.055,
+   "value": 20275.0,
+   "acc": "0001493152-26-051200",
    "filed": "2026-11-12"
   },
   {
@@ -4809,6 +4797,18 @@
    "value": 312675.0,
    "acc": "0001712189-26-000063",
    "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HOS",
+   "company": "HORNBECK OFFSHORE SERVICES, INC.",
+   "insider": "HORNBECK TODD M",
+   "role": "PRESIDENT & CEO",
+   "date": "2026-11-11",
+   "shares": 91295.972,
+   "price": 5.477,
+   "value": 500028.04,
+   "acc": "0001284591-26-000002",
+   "filed": "2026-11-12"
   }
  ],
  "clusters": [
@@ -4819,14 +4819,14 @@
    "other_value": 30000000.0
   },
   {
-   "ticker": "LRN",
-   "insiders": 2,
-   "total_value": 21212206.39
-  },
-  {
    "ticker": "FUN",
    "insiders": 3,
    "total_value": 15066320.0
+  },
+  {
+   "ticker": "LRN",
+   "insiders": 2,
+   "total_value": 11574956.39
   },
   {
    "ticker": "ETRA",
