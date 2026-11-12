@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-12 14:15 UTC",
+ "updated_utc": "2026-11-12 14:31 UTC",
  "purchases": [
-  {
-   "ticker": "GLQ",
-   "company": "Clough Global Equity Fund",
-   "insider": "Kowaleski John E.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 260.0,
-   "price": 7.56,
-   "value": 1965.6,
-   "acc": "0001276144-26-000008",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "GLO",
-   "company": "Clough Global Opportunities Fund",
-   "insider": "Kowaleski John E.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 365.0,
-   "price": 5.47,
-   "value": 1996.55,
-   "acc": "0001276144-26-000007",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "VNDA",
-   "company": "Vanda Pharmaceuticals Inc.",
-   "insider": "Duncan Charles Cliff",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 750.0,
-   "price": 3.7959,
-   "value": 2846.93,
-   "acc": "0001193125-26-449902",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "GLV",
-   "company": "Clough Global Dividend & Income Fund",
-   "insider": "Kowaleski John E.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 700.0,
-   "price": 5.785,
-   "value": 4049.5,
-   "acc": "0001276144-26-000009",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 2255.0,
-   "price": 2.4,
-   "value": 5412.0,
-   "acc": "0001178579-26-000023",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -3847,6 +3787,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "KLXE",
+   "company": "KLX Energy Services Holdings, Inc.",
+   "insider": "Bouthillette Max",
+   "role": "See Remarks",
+   "date": "2026-11-09",
+   "shares": 30000.0,
+   "price": 1.02,
+   "value": 30600.0,
+   "acc": "0001712741-26-000011",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
    "insider": "ORBIMED ADVISORS LLC",
@@ -4581,6 +4533,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BDSX",
+   "company": "BIODESIX INC",
+   "insider": "SCHULER JACK W",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 100000.0,
+   "price": 10.0199,
+   "value": 1001990.0,
+   "acc": "0000905148-26-004745",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "TXO",
    "company": "TXO Partners, L.P.",
    "insider": "SIMPSON BOB R",
@@ -4641,6 +4605,30 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "CLIK",
+   "company": "Click Holdings Ltd.",
+   "insider": "Chan Chun Sing",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-11",
+   "shares": 20000.0,
+   "price": 0.699,
+   "value": 13980.0,
+   "acc": "0001493152-26-051250",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "CLIK",
+   "company": "Click Holdings Ltd.",
+   "insider": "Chan Chun Sing",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-11",
+   "shares": 20000.0,
+   "price": 0.7294,
+   "value": 14588.0,
+   "acc": "0001493152-26-051250",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "AUDC",
    "company": "AUDIOCODES LTD",
    "insider": "ADLERSBERG SHABTAI",
@@ -4698,6 +4686,18 @@
    "price": 19.76,
    "value": 98800.0,
    "acc": "0002088880-26-000008",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "ITIC",
+   "company": "INVESTORS TITLE CO",
+   "insider": "Parker, Jr. Elton C.",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 500.0,
+   "price": 266.0,
+   "value": 133000.0,
+   "acc": "0001804353-26-000010",
    "filed": "2026-11-12"
   },
   {
