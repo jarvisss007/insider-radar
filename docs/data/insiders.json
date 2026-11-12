@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-12 11:54 UTC",
+ "updated_utc": "2026-11-12 12:10 UTC",
  "purchases": [
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Shepherd Brian A.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 7120.0,
-   "price": 76.54,
-   "value": 544964.8,
-   "acc": "0001567675-26-000007",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "CAT",
-   "company": "CATERPILLAR INC",
-   "insider": "Fish James C Jr",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 1000.0,
-   "price": 620.39,
-   "value": 620390.0,
-   "acc": "0001104659-26-121809",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 12500.0,
-   "price": 77.3,
-   "value": 966250.0,
-   "acc": "0001213900-26-115698",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "ASPE",
-   "company": "Aspen Neuroscience, Inc.",
-   "insider": "ARCH Venture Fund X, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-02",
-   "shares": 66666.0,
-   "price": 15.0,
-   "value": 999990.0,
-   "acc": "0001193125-26-444147",
-   "filed": "2026-11-02"
-  },
   {
    "ticker": "ASPE",
    "company": "Aspen Neuroscience, Inc.",
@@ -4739,6 +4691,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "FIP",
+   "company": "FTAI Infrastructure Inc.",
+   "insider": "Nicholson Kenneth J.",
+   "role": "CEO and President",
+   "date": "2026-11-10",
+   "shares": 400000.0,
+   "price": 3.825,
+   "value": 1530000.0,
+   "acc": "0001899883-26-000044",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
    "insider": "WEISENBURGER RANDALL J",
@@ -4775,6 +4739,30 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BW",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "insider": "BRC Group Holdings, Inc.",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 35000.0,
+   "price": 4.9815,
+   "value": 174352.5,
+   "acc": "0001213900-26-118354",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "BW",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "insider": "BRC Group Holdings, Inc.",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 35000.0,
+   "price": 4.9816,
+   "value": 174356.0,
+   "acc": "0001213900-26-118354",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
    "insider": "Rosenthal Michael Stuart",
@@ -4799,6 +4787,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BW",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "insider": "BRC Group Holdings, Inc.",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 60000.0,
+   "price": 4.9814,
+   "value": 298884.0,
+   "acc": "0001213900-26-118354",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "TH",
    "company": "Target Hospitality Corp.",
    "insider": "Archer James Bradley",
@@ -4815,13 +4815,13 @@
   {
    "ticker": "ASPE",
    "insiders": 4,
-   "total_value": 37999995.0,
+   "total_value": 37000005.0,
    "other_value": 30000000.0
   },
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 22723421.19
+   "total_value": 21212206.39
   },
   {
    "ticker": "FUN",
@@ -4847,6 +4847,11 @@
    "ticker": "MP",
    "insiders": 3,
    "total_value": 3353605.68
+  },
+  {
+   "ticker": "FIP",
+   "insiders": 2,
+   "total_value": 1548950.0
   },
   {
    "ticker": "MX",
@@ -5032,8 +5037,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023423",
-  "0001999371-26-023426",
   "0001999371-26-023454",
   "0001999371-26-023458",
   "0001999371-26-023460",
@@ -5448,6 +5451,7 @@
   "0002012791-26-000017",
   "0002012793-26-000004",
   "0002012862-26-000013",
+  "0002012862-26-000016",
   "0002012952-26-000016",
   "0002013319-26-000007",
   "0002013319-26-000008",
@@ -7403,6 +7407,7 @@
   "0002112397-26-000012",
   "0002112414-26-000007",
   "0002112883-26-000013",
+  "0002112900-26-000005",
   "0002113424-26-000015",
   "0002113424-26-000017",
   "0002113424-26-000019",
