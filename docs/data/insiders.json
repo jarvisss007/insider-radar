@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-12 11:07 UTC",
+ "updated_utc": "2026-11-12 11:23 UTC",
  "purchases": [
-  {
-   "ticker": "MOALX",
-   "company": "Lord Abbett Municipal Opportunities Fund",
-   "insider": "English Christopher T.",
-   "role": "",
-   "date": "2026-11-02",
-   "shares": 3003.003,
-   "price": 9.99,
-   "value": 30000.0,
-   "acc": "0000930413-26-003208",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "BSTT",
-   "company": "Blackstone Real Estate Income Trust, Inc.",
-   "insider": "Kolodziej Paul",
-   "role": "CFO and Treasurer",
-   "date": "2026-11-02",
-   "shares": 2389.274,
-   "price": 14.6488,
-   "value": 35000.0,
-   "acc": "0001770754-26-000004",
-   "filed": "2026-11-02"
-  },
-  {
-   "ticker": "PMN",
-   "company": "ProMIS Neurosciences Inc.",
-   "insider": "Cashman Neil",
-   "role": "Chief Scientific Officer",
-   "date": "2026-11-02",
-   "shares": 10000.0,
-   "price": 3.86,
-   "value": 38600.0,
-   "acc": "0001374339-26-000009",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "UMBF",
-   "company": "UMB FINANCIAL CORP",
-   "insider": "GRAVES GREG M",
-   "role": "Director",
-   "date": "2026-11-02",
-   "shares": 291.9282,
-   "price": 137.02,
-   "value": 40000.0,
-   "acc": "0000101382-26-000191",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-02",
-   "shares": 9478.0,
-   "price": 4.3705,
-   "value": 41423.6,
-   "acc": "0001193125-26-446310",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "CSTM",
    "company": "CONSTELLIUM SE",
@@ -4076,6 +4016,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "CHEN THOMAS C",
+   "role": "CMO",
+   "date": "2026-11-09",
+   "shares": 2732.0,
+   "price": 3.66,
+   "value": 9999.12,
+   "acc": "0001213900-26-118289",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "AIG",
    "company": "AMERICAN INTERNATIONAL GROUP, INC.",
    "insider": "Inglis John C",
@@ -4499,6 +4451,18 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "MNR",
+   "company": "MACH NATURAL RESOURCES LP",
+   "insider": "WARD TOM L.",
+   "role": "See Remarks",
+   "date": "2026-11-09",
+   "shares": 55000.0,
+   "price": 9.21,
+   "value": 506550.0,
+   "acc": "0001213900-26-118288",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
    "insider": "Amoruso Cristiano",
@@ -4607,6 +4571,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "NTHI",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "insider": "CHEN THOMAS C",
+   "role": "CMO",
+   "date": "2026-11-10",
+   "shares": 2284.0,
+   "price": 4.379,
+   "value": 10001.64,
+   "acc": "0001213900-26-118289",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "KLNG",
    "company": "Koil Energy Solutions, Inc.",
    "insider": "Intelligent Fanatics Capital Management LLC",
@@ -4665,6 +4641,18 @@
    "value": 21855.0,
    "acc": "0001877939-26-000102",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "CMRE",
+   "company": "Costamare Inc.",
+   "insider": "Zacharatos Konstantinos",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 1218.0,
+   "price": 25.5,
+   "value": 31059.0,
+   "acc": "0001503584-26-000018",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "XGN",
@@ -4773,6 +4761,18 @@
    "value": 242550.0,
    "acc": "0001289408-26-000006",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "MNR",
+   "company": "MACH NATURAL RESOURCES LP",
+   "insider": "WARD TOM L.",
+   "role": "See Remarks",
+   "date": "2026-11-10",
+   "shares": 55000.0,
+   "price": 9.13,
+   "value": 502150.0,
+   "acc": "0001213900-26-118288",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "TXO",
@@ -4969,11 +4969,6 @@
    "total_value": 163118.2
   },
   {
-   "ticker": "PMN",
-   "insiders": 2,
-   "total_value": 129495.0
-  },
-  {
    "ticker": "GSM",
    "insiders": 2,
    "total_value": 125600.47
@@ -4992,6 +4987,11 @@
    "ticker": "AFCG",
    "insiders": 3,
    "total_value": 92455.0
+  },
+  {
+   "ticker": "NTHI",
+   "insiders": 2,
+   "total_value": 58600.76
   },
   {
    "ticker": "SYNX",
