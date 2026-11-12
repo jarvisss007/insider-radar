@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-12 20:49 UTC",
+ "updated_utc": "2026-11-12 21:05 UTC",
  "purchases": [
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 13804.0,
-   "price": 20.54,
-   "value": 283534.16,
-   "acc": "0001510281-26-000425",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 5000.0,
-   "price": 74.07,
-   "value": 370350.0,
-   "acc": "0001213900-26-115698",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Shepherd Brian A.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 5000.0,
-   "price": 74.4,
-   "value": 372000.0,
-   "acc": "0001567675-26-000007",
-   "filed": "2026-11-04"
-  },
   {
    "ticker": "LBRT",
    "company": "Liberty Energy Inc.",
@@ -3801,6 +3765,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ADTN",
+   "company": "ADTRAN Holdings, Inc.",
+   "insider": "STANTON THOMAS R",
+   "role": "Chairman & CEO",
+   "date": "2026-11-09",
+   "shares": 40000.0,
+   "price": 4.298,
+   "value": 171920.0,
+   "acc": "0001193125-26-458287",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "STLN",
    "company": "Starling Oncology, Inc.",
    "insider": "Chernett Jorey",
@@ -3835,6 +3811,18 @@
    "value": 213089.47,
    "acc": "0001515154-26-000003",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "ALNY",
+   "company": "ALNYLAM PHARMACEUTICALS, INC.",
+   "insider": "SCHULMAN AMY W",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 1910.0,
+   "price": 156.82,
+   "value": 299526.2,
+   "acc": "0001178670-26-000085",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "BOLT",
@@ -4581,6 +4569,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "DTI",
+   "company": "Drilling Tools International Corp",
+   "insider": "FURST JACK D",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 14441.0,
+   "price": 1.651,
+   "value": 23842.09,
+   "acc": "0001193125-26-458256",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "RM",
    "company": "Regional Management Corp.",
    "insider": "BASSWOOD CAPITAL MANAGEMENT, L.L.C.",
@@ -4818,7 +4818,7 @@
   {
    "ticker": "LRN",
    "insiders": 2,
-   "total_value": 11574956.39
+   "total_value": 10832606.39
   },
   {
    "ticker": "ETRA",
@@ -4866,14 +4866,14 @@
    "total_value": 941141.0
   },
   {
+   "ticker": "ADTN",
+   "insiders": 2,
+   "total_value": 847008.22
+  },
+  {
    "ticker": "FLOC",
    "insiders": 2,
    "total_value": 682656.18
-  },
-  {
-   "ticker": "ADTN",
-   "insiders": 2,
-   "total_value": 675088.22
   },
   {
    "ticker": "WCC",
@@ -4926,14 +4926,14 @@
    "total_value": 278388.0
   },
   {
+   "ticker": "DTI",
+   "insiders": 3,
+   "total_value": 228778.09
+  },
+  {
    "ticker": "KMT",
    "insiders": 2,
    "total_value": 212368.0
-  },
-  {
-   "ticker": "DTI",
-   "insiders": 2,
-   "total_value": 204936.0
   },
   {
    "ticker": "EGBN",
@@ -5024,9 +5024,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023706",
-  "0001999371-26-023714",
-  "0001999371-26-023723",
   "0001999371-26-023727",
   "0001999371-26-023735",
   "0001999371-26-023738",
@@ -5510,6 +5507,7 @@
   "0002016350-26-000005",
   "0002016416-26-000020",
   "0002016416-26-000022",
+  "0002016432-26-000011",
   "0002016460-26-000004",
   "0002016680-26-000008",
   "0002016680-26-000012",
@@ -5561,6 +5559,7 @@
   "0002019976-26-000013",
   "0002019976-26-000014",
   "0002020161-26-000015",
+  "0002020205-26-000008",
   "0002020220-26-000022",
   "0002020286-26-000008",
   "0002020286-26-000011",
@@ -7163,6 +7162,7 @@
   "0002091792-26-000003",
   "0002091798-26-000008",
   "0002091798-26-000010",
+  "0002091921-26-000004",
   "0002092210-26-000015",
   "0002092575-26-000010",
   "0002092596-26-000002",
