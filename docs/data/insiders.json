@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-12 16:05 UTC",
+ "updated_utc": "2026-11-12 16:21 UTC",
  "purchases": [
-  {
-   "ticker": "AWRE",
-   "company": "AWARE INC /MA/",
-   "insider": "Amlani Ajay K",
-   "role": "President & CEO",
-   "date": "2026-11-03",
-   "shares": 21000.0,
-   "price": 0.92,
-   "value": 19320.0,
-   "acc": "0001193125-26-450060",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "CMTV",
    "company": "COMMUNITY BANCORP /VT",
@@ -3897,6 +3885,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "DOX",
+   "company": "AMDOCS LTD",
+   "insider": "Kanouff Yvette",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 2400.0,
+   "price": 42.0,
+   "value": 100800.0,
+   "acc": "0001193125-26-457482",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "SLQT",
    "company": "SelectQuote, Inc.",
    "insider": "Hawks Donald L III",
@@ -4916,6 +4916,11 @@
    "total_value": 359010.0
   },
   {
+   "ticker": "DOX",
+   "insiders": 5,
+   "total_value": 332822.47
+  },
+  {
    "ticker": "NXRT",
    "insiders": 2,
    "total_value": 302318.76
@@ -4929,11 +4934,6 @@
    "ticker": "SOPH",
    "insiders": 2,
    "total_value": 278388.0
-  },
-  {
-   "ticker": "DOX",
-   "insiders": 4,
-   "total_value": 232022.47
   },
   {
    "ticker": "KMT",

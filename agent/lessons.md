@@ -1856,3 +1856,12 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - 21 new clusters logged in one run (Form 4s filed 11-05..11-10; the post-earnings window reopening): one entry day, however many rows. All QUEUED, all ACCOUNT-WITHHELD (PORT-006 budget key). OBIO is `unknown` ($0 open-market, $0.23M other_value — the QNRX precedent), not sub-floor.
 - Forecast resolver (prep): ROL scored 1 at p 0.24 on 11-10; nothing new today (BA 11-04 row is due on today's close). Base now 14/55 = 0.2545.
 - Lessons file read: tail only this run — disclosed.
+
+## 2026-11-12 [insider] — GARUDA (labs-morning-sweep)
+- Nothing scored by hand (INS-018). Grader 11-11 (13:40 PT): AHRT 6.14 -> 6.37 right, TSM 439.52 -> 413.35 wrong, RGCO 22.66 -> 22.70 right; CBKM (due 10-19) still DUE BUT UNPRICEABLE (INS-015). Scorecard 82/229 (35.8%). strata.py: HEADLINE 40% (n=144, 46 entry days); sub-floor 29% (n=84, 38 days); unknown n=1. Both strata under the coin bar; a hit rate, not an edge.
+- attribution.csv (rebuilt): directors-only n=129 / 44 dates hit 42% avg -1.4%; 3+ insiders n=73 / 35 dates hit 37% avg -3.7%; bought-the-run-up n=40 / 27 dates hit 32% avg -5.8%. No feature above the coin; "more insiders = better" is still not supported here.
+- 7 new clusters logged (Form 4s filed 11-12): MP, FIP, COHR, DOX, GSM, TSM (headline), NTHI (sub-floor). One entry day. All QUEUED, all ACCOUNT-WITHHELD. TSM is a re-log the day after its prior row scored wrong: 30 insiders, $0.12M total — an employee-plan pattern, logged without discretion as the rule says. NTHI is its third row (two prior wrongs).
+- Brain §47 (directive): a withheld row is the SAME row, not a twin with its own anchor — fill_queued and grade_all_due.py do not read the ACCOUNT-WITHHELD marker, so it fills at the same first official open after registration and is graded on the same date+30 check date as it would have on the account. Only portfolio_data.read_labs skips it.
+- Sabha §30: the ledger has no cap (every cluster is logged), but the forecast is ONE slot against N new clusters. The order used is largest total_value among the day's newly logged rows; it is now written in the forecast row's notes (MP today, FUN yesterday).
+- The 21 rows of 11-11 are still QUEUED: their fill session is 11-12, which settles after this run (INS-026). Expected, not overdue.
+- Lessons file read: tail only this run — disclosed.
