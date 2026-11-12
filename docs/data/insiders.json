@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-12 21:37 UTC",
+ "updated_utc": "2026-11-12 21:53 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Damian Miguel",
-   "role": "Vicepresident",
-   "date": "2026-11-03",
-   "shares": 19413.0,
-   "price": 68.43,
-   "value": 1328431.59,
-   "acc": "0002028916-26-000012",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-11-03",
-   "shares": 31357.0,
-   "price": 75.04,
-   "value": 2353029.28,
-   "acc": "0001213900-26-115698",
-   "filed": "2026-11-03"
-  },
-  {
-   "ticker": "SIRI",
-   "company": "SIRIUS XM HOLDINGS INC.",
-   "insider": "BERKSHIRE HATHAWAY INC",
-   "role": "10% owner",
-   "date": "2026-11-03",
-   "shares": 113348.0,
-   "price": 30.233,
-   "value": 3426850.08,
-   "acc": "0001193125-26-445930",
-   "filed": "2026-11-03"
-  },
   {
    "ticker": "THIRD POINT PRIVATE CAPITAL INCOME FUND (CIK 2122354)",
    "company": "Third Point Private Capital Income Fund",
@@ -4065,6 +4029,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "HLLY",
+   "company": "Holley Inc.",
+   "insider": "WEAVER JESSE",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-10",
+   "shares": 9000.0,
+   "price": 2.53,
+   "value": 22770.0,
+   "acc": "0001822928-26-000091",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
    "insider": "Mindlin Damian Miguel",
@@ -4797,6 +4773,30 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "ECL",
+   "company": "ECOLAB INC.",
+   "insider": "MacLennan David",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 600.0,
+   "price": 308.125,
+   "value": 184875.0,
+   "acc": "0001628280-26-073457",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "BOOT",
+   "company": "Boot Barn Holdings, Inc.",
+   "insider": "Watkins James M",
+   "role": "CFO & SECRETARY",
+   "date": "2026-11-12",
+   "shares": 2000.0,
+   "price": 135.37,
+   "value": 270740.0,
+   "acc": "0001562356-26-000004",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Thermopylae Holdings Ltd.",
@@ -4816,11 +4816,6 @@
    "total_value": 15066320.0
   },
   {
-   "ticker": "PAM",
-   "insiders": 2,
-   "total_value": 5410831.07
-  },
-  {
    "ticker": "ETRA",
    "insiders": 2,
    "total_value": 4846082.14
@@ -4829,6 +4824,11 @@
    "ticker": "LBTY",
    "insiders": 3,
    "total_value": 4486300.15
+  },
+  {
+   "ticker": "PAM",
+   "insiders": 2,
+   "total_value": 4082399.48
   },
   {
    "ticker": "MP",
@@ -5019,11 +5019,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023746",
-  "0001999371-26-023749",
-  "0001999371-26-023755",
-  "0001999371-26-023768",
-  "0001999371-26-023773",
   "0001999371-26-023781",
   "0001999371-26-023783",
   "0001999371-26-023784",
@@ -5375,6 +5370,8 @@
   "0002011118-26-000008",
   "0002011128-26-000007",
   "0002011128-26-000008",
+  "0002011407-26-000010",
+  "0002011407-26-000011",
   "0002011525-26-000002",
   "0002011929-26-000010",
   "0002012024-26-000008",
@@ -5998,6 +5995,7 @@
   "0002048500-26-000015",
   "0002048588-26-000013",
   "0002048588-26-000015",
+  "0002048588-26-000018",
   "0002048593-26-000009",
   "0002048951-26-000032",
   "0002049001-26-000007",
@@ -6115,6 +6113,7 @@
   "0002055817-26-000004",
   "0002055888-26-000002",
   "0002056024-26-000007",
+  "0002056024-26-000008",
   "0002056381-26-000004",
   "0002056453-26-000005",
   "0002056657-26-000002",
@@ -7991,6 +7990,7 @@
   "0002158778-26-000004",
   "0002159565-26-000005",
   "0002159567-26-000005",
+  "0002159638-26-000004",
   "0002159746-26-000007",
   "0002159752-26-000006",
   "0002159752-26-000007",
