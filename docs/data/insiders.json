@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-13 01:50 UTC",
+ "updated_utc": "2026-11-13 02:37 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 1641.0,
-   "price": 2.85,
-   "value": 4676.85,
-   "acc": "0001536588-26-000046",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "SHEN",
-   "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
-   "insider": "Lytle Glenn E Jr",
-   "role": "SVP Commercial Sales",
-   "date": "2026-11-05",
-   "shares": 500.0,
-   "price": 10.1,
-   "value": 5050.0,
-   "acc": "0002030837-26-000003",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "CMCO",
-   "company": "COLUMBUS MCKINNON CORP",
-   "insider": "Wilson David J.",
-   "role": "President & CEO",
-   "date": "2026-11-05",
-   "shares": 290.0,
-   "price": 17.52,
-   "value": 5080.8,
-   "acc": "0001628280-26-072106",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "NXTC",
    "company": "NextCure, Inc.",
@@ -2439,6 +2403,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "ASR",
+   "company": "SOUTHEAST AIRPORT GROUP",
+   "insider": "Perez Anton Jose Antonio",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 75.0,
+   "price": 266.69,
+   "value": 20001.75,
+   "acc": "0001104659-26-126429",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
    "insider": "Bitterman Robert J",
@@ -2992,6 +2968,18 @@
    "value": 400628.63,
    "acc": "0001515154-26-000003",
    "filed": "2026-11-09"
+  },
+  {
+   "ticker": "ASR",
+   "company": "SOUTHEAST AIRPORT GROUP",
+   "insider": "Perez Anton Jose Antonio",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 1800.0,
+   "price": 265.36,
+   "value": 477648.0,
+   "acc": "0001104659-26-126429",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "MNR",
@@ -4782,6 +4770,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "LRMR",
+   "company": "Larimar Therapeutics, Inc.",
+   "insider": "Hamilton Thomas Edward",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 70000.0,
+   "price": 2.6726,
+   "value": 187082.0,
+   "acc": "0001193125-26-459008",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "BOOT",
    "company": "Boot Barn Holdings, Inc.",
    "insider": "Watkins James M",
@@ -4893,6 +4893,11 @@
    "total_value": 382623.5
   },
   {
+   "ticker": "LRMR",
+   "insiders": 7,
+   "total_value": 382085.83
+  },
+  {
    "ticker": "DOX",
    "insiders": 5,
    "total_value": 332822.47
@@ -4926,11 +4931,6 @@
    "ticker": "EGBN",
    "insiders": 2,
    "total_value": 199429.35
-  },
-  {
-   "ticker": "LRMR",
-   "insiders": 6,
-   "total_value": 195003.83
   },
   {
    "ticker": "WW",
@@ -4988,14 +4988,14 @@
    "total_value": 45755.2
   },
   {
-   "ticker": "SHEN",
-   "insiders": 3,
-   "total_value": 19863.7
-  },
-  {
    "ticker": "BOTJ",
    "insiders": 2,
    "total_value": 18911.76
+  },
+  {
+   "ticker": "SHEN",
+   "insiders": 2,
+   "total_value": 14813.7
   },
   {
    "ticker": "OBIO",
