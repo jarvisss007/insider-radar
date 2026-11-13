@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-13 15:55 UTC",
+ "updated_utc": "2026-11-13 16:11 UTC",
  "purchases": [
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Colodney Benjamin T",
-   "role": "SVP & Chief Accounting Officer",
-   "date": "2026-11-05",
-   "shares": 500.0,
-   "price": 51.52,
-   "value": 25760.0,
-   "acc": "0002074755-26-000008",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
@@ -4686,6 +4674,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CCNE",
+   "company": "CNB FINANCIAL CORP/PA",
+   "insider": "POWELL JEFFREY S",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 560.0,
+   "price": 35.66,
+   "value": 19969.6,
+   "acc": "0001195252-26-000006",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "GAM",
    "company": "GENERAL AMERICAN INVESTORS CO INC",
    "insider": "Stark Eugene S",
@@ -4878,14 +4878,14 @@
    "total_value": 494605.0
   },
   {
-   "ticker": "MTDR",
-   "insiders": 8,
-   "total_value": 482235.0
-  },
-  {
    "ticker": "GFS",
    "insiders": 2,
    "total_value": 473687.5
+  },
+  {
+   "ticker": "MTDR",
+   "insiders": 7,
+   "total_value": 456475.0
   },
   {
    "ticker": "SLQT",
@@ -5015,8 +5015,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024003",
-  "0001999371-26-024004",
   "0001999371-26-024006",
   "0001999371-26-024007",
   "0001999371-26-024008",
@@ -5545,6 +5543,7 @@
   "0002022050-26-000011",
   "0002022060-26-000005",
   "0002022145-26-000006",
+  "0002022145-26-000008",
   "0002022345-26-000002",
   "0002022345-26-000004",
   "0002022654-26-000004",
@@ -7692,6 +7691,7 @@
   "0002131390-26-000004",
   "0002131391-26-000004",
   "0002131529-26-000004",
+  "0002131696-26-000001",
   "0002131769-26-000004",
   "0002131770-26-000007",
   "0002131773-26-000007",
