@@ -1,212 +1,6 @@
 {
- "updated_utc": "2026-11-13 01:18 UTC",
+ "updated_utc": "2026-11-13 01:50 UTC",
  "purchases": [
-  {
-   "ticker": "LBTY",
-   "company": "Liberty Global Ltd.",
-   "insider": "FRIES MICHAEL T",
-   "role": "President & CEO",
-   "date": "2026-11-04",
-   "shares": 110000.0,
-   "price": 9.3652,
-   "value": 1030172.0,
-   "acc": "0001058725-26-000011",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "BXMT",
-   "company": "BLACKSTONE MORTGAGE TRUST, INC.",
-   "insider": "Johnson Timothy Steven",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-04",
-   "shares": 90000.0,
-   "price": 11.5039,
-   "value": 1035351.0,
-   "acc": "0001061630-26-000102",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Damian Miguel",
-   "role": "Vicepresident",
-   "date": "2026-11-04",
-   "shares": 19239.0,
-   "price": 66.93,
-   "value": 1287666.27,
-   "acc": "0002028916-26-000012",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "LBTY",
-   "company": "Liberty Global Ltd.",
-   "insider": "Rodriguez Enrique",
-   "role": "EVP, Chief Technology Officer",
-   "date": "2026-11-04",
-   "shares": 211313.0,
-   "price": 9.4456,
-   "value": 1995978.07,
-   "acc": "0001570585-26-000156",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "MDGL",
-   "company": "MADRIGAL PHARMACEUTICALS, INC.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 5586.0,
-   "price": 366.9922,
-   "value": 2050018.43,
-   "acc": "0001193125-26-452132",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "MDGL",
-   "company": "MADRIGAL PHARMACEUTICALS, INC.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 10080.0,
-   "price": 368.1134,
-   "value": 3710583.07,
-   "acc": "0001193125-26-452132",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "COUR",
-   "company": "Coursera, Inc.",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 2698400.0,
-   "price": 3.8537,
-   "value": 10398824.08,
-   "acc": "0000921895-26-002941",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "LYEL",
-   "company": "Lyell Immunopharma, Inc.",
-   "insider": "ARCH Venture Partners IX, LLC",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 2321262.0,
-   "price": 10.77,
-   "value": 24999991.74,
-   "acc": "0001012975-26-001014",
-   "filed": "2026-11-05",
-   "placement": true
-  },
-  {
-   "ticker": "LYEL",
-   "company": "Lyell Immunopharma, Inc.",
-   "insider": "ARCH Venture Fund XIII, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 2321262.0,
-   "price": 10.77,
-   "value": 24999991.74,
-   "acc": "0001012975-26-001013",
-   "filed": "2026-11-05",
-   "placement": true
-  },
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "Lu Ying",
-   "role": "General Counsel",
-   "date": "2026-11-05",
-   "shares": 3.0,
-   "price": 2.3,
-   "value": 6.9,
-   "acc": "0002109341-26-000003",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 6.0,
-   "price": 9.66,
-   "value": 57.96,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 30.0,
-   "price": 9.71,
-   "value": 291.3,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 100.0,
-   "price": 5.55,
-   "value": 555.0,
-   "acc": "0001510281-26-000421",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-05",
-   "shares": 400.0,
-   "price": 2.355,
-   "value": 942.0,
-   "acc": "0002109337-26-000014",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 128.0,
-   "price": 9.52,
-   "value": 1218.56,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 1000.0,
-   "price": 2.85,
-   "value": 2850.0,
-   "acc": "0001536588-26-000046",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 400.0,
-   "price": 9.75,
-   "value": 3900.0,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -2850,6 +2644,66 @@
    "filed": "2026-11-09"
   },
   {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 8.95,
+   "value": 44750.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 9.2,
+   "value": 46000.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 9.25,
+   "value": 46250.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 9.3,
+   "value": 46500.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 9.5,
+   "value": 47500.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "EAF",
    "company": "GRAFTECH INTERNATIONAL LTD",
    "insider": "Shivaram Sachin M",
@@ -3404,6 +3258,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 900.0,
+   "price": 8.92,
+   "value": 8028.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "NTHI",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
    "insider": "CHEN THOMAS C",
@@ -3462,6 +3328,18 @@
    "value": 16900.0,
    "acc": "0000947871-26-001011",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 1910.0,
+   "price": 8.85,
+   "value": 16903.5,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "FIP",
@@ -3584,6 +3462,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 3090.0,
+   "price": 8.92,
+   "value": 27562.8,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "CMRE",
    "company": "Costamare Inc.",
    "insider": "Zacharatos Konstantinos",
@@ -3605,6 +3495,18 @@
    "price": 3.25,
    "value": 32308.25,
    "acc": "0000912282-26-001461",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 4100.0,
+   "price": 8.98,
+   "value": 36818.0,
+   "acc": "0001229310-26-000014",
    "filed": "2026-11-12"
   },
   {
@@ -3668,6 +3570,54 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 5000.0,
+   "price": 9.05,
+   "value": 45250.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 5000.0,
+   "price": 9.1,
+   "value": 45500.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 5000.0,
+   "price": 9.15,
+   "value": 45750.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 5000.0,
+   "price": 9.2,
+   "value": 46000.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "STRA",
    "company": "Strategic Education, Inc.",
    "insider": "Thawley Michael",
@@ -3725,6 +3675,18 @@
    "price": 21.05,
    "value": 79190.1,
    "acc": "0001510281-26-000432",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 10000.0,
+   "price": 8.95,
+   "value": 89500.0,
+   "acc": "0001229310-26-000014",
    "filed": "2026-11-12"
   },
   {
@@ -3870,6 +3832,18 @@
    "value": 174915.0,
    "acc": "0000947871-26-001011",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "COLEMAN VICTOR J",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-10",
+   "shares": 20000.0,
+   "price": 9.1,
+   "value": 182000.0,
+   "acc": "0001191420-26-000014",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "COHR",
@@ -4364,6 +4338,30 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 5000.0,
+   "price": 8.76,
+   "value": 43800.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "HPP",
+   "company": "Hudson Pacific Properties, Inc.",
+   "insider": "BORTZ JON E",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 5000.0,
+   "price": 8.8,
+   "value": 44000.0,
+   "acc": "0001229310-26-000014",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "KGS",
    "company": "Kodiak Gas Services, Inc.",
    "insider": "Montana Margaret C",
@@ -4815,11 +4813,6 @@
    "total_value": 15066320.0
   },
   {
-   "ticker": "LBTY",
-   "insiders": 3,
-   "total_value": 4486300.15
-  },
-  {
    "ticker": "ETRA",
    "insiders": 2,
    "total_value": 3771111.62
@@ -4848,6 +4841,11 @@
    "ticker": "TTMI",
    "insiders": 2,
    "total_value": 941141.0
+  },
+  {
+   "ticker": "HPP",
+   "insiders": 2,
+   "total_value": 862112.3
   },
   {
    "ticker": "ADTN",
@@ -5000,17 +4998,6 @@
    "total_value": 18911.76
   },
   {
-   "ticker": "OWLS",
-   "insiders": 2,
-   "total_value": 6643.51
-  },
-  {
-   "ticker": "LYEL",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 49999983.48
-  },
-  {
    "ticker": "OBIO",
    "insiders": 4,
    "total_value": 0,
@@ -5018,10 +5005,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023956",
-  "0001999371-26-023962",
-  "0001999371-26-023972",
-  "0001999371-26-023976",
   "0001999371-26-023983",
   "0001999371-26-023986",
   "0001999371-26-023987",
@@ -5581,6 +5564,7 @@
   "0002023849-26-000014",
   "0002024096-26-000013",
   "0002024096-26-000015",
+  "0002024138-26-000005",
   "0002024169-26-000014",
   "0002024169-26-000018",
   "0002024169-26-000020",
@@ -5594,6 +5578,7 @@
   "0002024630-26-000024",
   "0002024911-26-000004",
   "0002024911-26-000006",
+  "0002025039-26-000004",
   "0002025268-26-000006",
   "0002025268-26-000008",
   "0002025272-26-000005",
@@ -7667,6 +7652,7 @@
   "0002128786-26-000006",
   "0002128786-26-000007",
   "0002129223-26-000002",
+  "0002129223-26-000006",
   "0002129321-26-000013",
   "0002129321-26-000015",
   "0002129321-26-000017",
@@ -7778,6 +7764,7 @@
   "0002141901-26-000005",
   "0002141901-26-000007",
   "0002141966-26-000002",
+  "0002141966-26-000004",
   "0002142092-26-000004",
   "0002142208-26-000015",
   "0002142262-26-000006",
