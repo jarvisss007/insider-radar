@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-13 17:46 UTC",
+ "updated_utc": "2026-11-13 18:02 UTC",
  "purchases": [
-  {
-   "ticker": "MTRI",
-   "company": "InMed Pharmaceuticals Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 2640.0,
-   "price": 13.0953,
-   "value": 34571.59,
-   "acc": "0001940272-26-000031",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
@@ -4638,6 +4626,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Starr Gayle P",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 36.0119,
+   "price": 10.12,
+   "value": 364.44,
+   "acc": "0001435109-26-000166",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "LUCK",
    "company": "Lucky Strike Entertainment Corp",
    "insider": "Young John Alan",
@@ -5020,7 +5020,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024008",
   "0001999371-26-024009",
   "0001999371-26-024015",
   "0001999371-26-024019",
@@ -7354,6 +7353,7 @@
   "0002111492-26-000006",
   "0002111492-26-000008",
   "0002111538-26-000003",
+  "0002111538-26-000005",
   "0002111580-26-000010",
   "0002111580-26-000012",
   "0002111813-26-000013",
