@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-13 14:04 UTC",
+ "updated_utc": "2026-11-13 14:20 UTC",
  "purchases": [
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 1422.0,
-   "price": 9.82,
-   "value": 13964.04,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 1429.0,
-   "price": 9.87,
-   "value": 14104.23,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "CALAMOS AKSIA ALTERNATIVE CREDIT & INCOME FUND (CIK 1937073)",
-   "company": "Calamos Aksia Alternative Credit & Income Fund",
-   "insider": "Nest William",
-   "role": "Vice President",
-   "date": "2026-11-05",
-   "shares": 1886.792,
-   "price": 10.6,
-   "value": 20000.0,
-   "acc": "0001964052-26-000002",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 8390.0,
-   "price": 2.4,
-   "value": 20136.0,
-   "acc": "0001178579-26-000023",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "VNDA",
    "company": "Vanda Pharmaceuticals Inc.",
@@ -4698,6 +4650,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BH",
+   "company": "Biglari Holdings Inc.",
+   "insider": "BIGLARI, SARDAR",
+   "role": "Chairman and CEO",
+   "date": "2026-11-11",
+   "shares": 1017.0,
+   "price": 1727.65,
+   "value": 1757020.05,
+   "acc": "0000921895-26-003050",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "LUCK",
    "company": "Lucky Strike Entertainment Corp",
    "insider": "Young John Alan",
@@ -4746,6 +4710,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "EOSE",
+   "company": "Eos Energy Enterprises, Inc.",
+   "insider": "DIMITRIEF ALEXANDER",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 25000.0,
+   "price": 1.86,
+   "value": 46500.0,
+   "acc": "0001628280-26-073597",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "VISN",
    "company": "Vistance Networks, Inc.",
    "insider": "Watts Claudius E. IV",
@@ -4782,6 +4758,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BH",
+   "company": "Biglari Holdings Inc.",
+   "insider": "BIGLARI, SARDAR",
+   "role": "Chairman and CEO",
+   "date": "2026-11-12",
+   "shares": 628.0,
+   "price": 354.95,
+   "value": 222908.6,
+   "acc": "0000921895-26-003050",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "BOOT",
    "company": "Boot Barn Holdings, Inc.",
    "insider": "Watkins James M",
@@ -4804,6 +4792,18 @@
    "value": 698920.1,
    "acc": "0001834449-26-000009",
    "filed": "2026-11-12"
+  },
+  {
+   "ticker": "BH",
+   "company": "Biglari Holdings Inc.",
+   "insider": "BIGLARI, SARDAR",
+   "role": "Chairman and CEO",
+   "date": "2026-11-12",
+   "shares": 2012.0,
+   "price": 1767.99,
+   "value": 3557195.88,
+   "acc": "0000921895-26-003050",
+   "filed": "2026-11-13"
   }
  ],
  "clusters": [
