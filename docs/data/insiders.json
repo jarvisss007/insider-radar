@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-13 20:25 UTC",
+ "updated_utc": "2026-11-13 20:41 UTC",
  "purchases": [
-  {
-   "ticker": "CMCO",
-   "company": "COLUMBUS MCKINNON CORP",
-   "insider": "Wilson David J.",
-   "role": "President & CEO",
-   "date": "2026-11-05",
-   "shares": 5417.0,
-   "price": 17.12,
-   "value": 92739.04,
-   "acc": "0001628280-26-072106",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "GFS",
    "company": "GLOBALFOUNDRIES Inc.",
@@ -4374,6 +4362,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "WY",
+   "company": "WEYERHAEUSER CO",
+   "insider": "BECKWITT RICHARD",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 15000.0,
+   "price": 20.44,
+   "value": 306600.0,
+   "acc": "0001197193-26-000008",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "TH",
    "company": "Target Hospitality Corp.",
    "insider": "Archer James Bradley",
@@ -5030,7 +5030,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024075",
   "0001999371-26-024093",
   "0001999371-26-024096",
   "0001999371-26-024099",
@@ -5480,6 +5479,7 @@
   "0002016900-26-000030",
   "0002016900-26-000039",
   "0002016900-26-000042",
+  "0002016958-26-000004",
   "0002017181-26-000005",
   "0002017190-26-000003",
   "0002017287-26-000006",
