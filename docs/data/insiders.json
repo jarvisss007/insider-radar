@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-13 22:48 UTC",
+ "updated_utc": "2026-11-13 23:04 UTC",
  "purchases": [
-  {
-   "ticker": "TTMI",
-   "company": "TTM TECHNOLOGIES INC",
-   "insider": "Ali Wajid",
-   "role": "Director",
-   "date": "2026-11-05",
-   "shares": 10000.0,
-   "price": 63.1541,
-   "value": 631541.0,
-   "acc": "0001193125-26-449379",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-05",
-   "shares": 125200.0,
-   "price": 7.31,
-   "value": 915212.0,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-05",
-   "shares": 125200.0,
-   "price": 7.31,
-   "value": 915212.0,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Damian Miguel",
-   "role": "Vicepresident",
-   "date": "2026-11-05",
-   "shares": 20000.0,
-   "price": 64.37,
-   "value": 1287400.0,
-   "acc": "0002028916-26-000013",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "GLXY",
-   "company": "Galaxy Digital Inc.",
-   "insider": "Novogratz Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-05",
-   "shares": 231243.0,
-   "price": 13.632,
-   "value": 3152304.58,
-   "acc": "0001380615-26-000013",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "GLXY",
-   "company": "Galaxy Digital Inc.",
-   "insider": "Novogratz Michael",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-05",
-   "shares": 528757.0,
-   "price": 12.694,
-   "value": 6712041.36,
-   "acc": "0001380615-26-000013",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "LRN",
-   "company": "Stride, Inc.",
-   "insider": "Haggart Dylan G.",
-   "role": "Director",
-   "date": "2026-11-05",
-   "shares": 100000.0,
-   "price": 74.88,
-   "value": 7488000.0,
-   "acc": "0001213900-26-117633",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "COUR",
    "company": "Coursera, Inc.",
@@ -2598,6 +2514,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "JYNT",
+   "company": "JOINT Corp",
+   "insider": "JOBSON CHARLES E",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 2825.0,
+   "price": 6.65,
+   "value": 18786.25,
+   "acc": "0001214659-26-014168",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "FIP",
    "company": "FTAI Infrastructure Inc.",
    "insider": "Fletcher Carl Russell IV",
@@ -2752,6 +2680,18 @@
    "value": 32308.25,
    "acc": "0000912282-26-001461",
    "filed": "2026-11-12"
+  },
+  {
+   "ticker": "ZLAB",
+   "company": "Zai Lab Ltd",
+   "insider": "GAYNOR RICHARD",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 1228.0,
+   "price": 27.19,
+   "value": 33389.32,
+   "acc": "0000905148-26-004801",
+   "filed": "2026-11-13"
   },
   {
    "ticker": "HPP",
@@ -3546,6 +3486,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "FISN",
+   "company": "DEEP FISSION, INC.",
+   "insider": "Muller Elizabeth",
+   "role": "CEO, President",
+   "date": "2026-11-11",
+   "shares": 10000.0,
+   "price": 2.1612,
+   "value": 21612.0,
+   "acc": "0001104659-26-127276",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "LRMR",
    "company": "Larimar Therapeutics, Inc.",
    "insider": "THOMAS FRANK E",
@@ -3675,6 +3627,18 @@
    "price": 6.47,
    "value": 32350.0,
    "acc": "0001193125-26-460639",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "CRVS",
+   "company": "Corvus Pharmaceuticals, Inc.",
+   "insider": "Arcara Jeffrey",
+   "role": "Chief Business Officer",
+   "date": "2026-11-11",
+   "shares": 3000.0,
+   "price": 11.4602,
+   "value": 34380.6,
+   "acc": "0001610717-26-000454",
    "filed": "2026-11-13"
   },
   {
@@ -4242,6 +4206,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CRVS",
+   "company": "Corvus Pharmaceuticals, Inc.",
+   "insider": "Arcara Jeffrey",
+   "role": "Chief Business Officer",
+   "date": "2026-11-12",
+   "shares": 497.0,
+   "price": 11.115,
+   "value": 5524.15,
+   "acc": "0001610717-26-000454",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "LUCK",
    "company": "Lucky Strike Entertainment Corp",
    "insider": "Young John Alan",
@@ -4674,6 +4650,30 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CRVS",
+   "company": "Corvus Pharmaceuticals, Inc.",
+   "insider": "Arcara Jeffrey",
+   "role": "Chief Business Officer",
+   "date": "2026-11-13",
+   "shares": 503.0,
+   "price": 10.37,
+   "value": 5216.11,
+   "acc": "0001610717-26-000454",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "CRVS",
+   "company": "Corvus Pharmaceuticals, Inc.",
+   "insider": "Arcara Jeffrey",
+   "role": "Chief Business Officer",
+   "date": "2026-11-13",
+   "shares": 500.0,
+   "price": 10.7087,
+   "value": 5354.35,
+   "acc": "0001610717-26-000454",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "CCNE",
    "company": "CNB FINANCIAL CORP/PA",
    "insider": "Peduzzi Michael D",
@@ -4823,11 +4823,6 @@
    "total_value": 3353605.68
   },
   {
-   "ticker": "ETRA",
-   "insiders": 2,
-   "total_value": 3319485.2
-  },
-  {
    "ticker": "CTEV",
    "insiders": 2,
    "total_value": 3085556.01
@@ -4841,6 +4836,11 @@
    "ticker": "MX",
    "insiders": 2,
    "total_value": 1526506.03
+  },
+  {
+   "ticker": "ETRA",
+   "insiders": 2,
+   "total_value": 1489061.2
   },
   {
    "ticker": "COHR",
