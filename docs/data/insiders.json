@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-13 00:31 UTC",
+ "updated_utc": "2026-11-13 01:02 UTC",
  "purchases": [
-  {
-   "ticker": "OACOX",
-   "company": "OneAscent Capital Opportunities Fund",
-   "insider": "Siverling John",
-   "role": "",
-   "date": "2026-11-04",
-   "shares": 25000.0,
-   "price": 11.53,
-   "value": 288250.0,
-   "acc": "0001580642-26-007549",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 37100.0,
-   "price": 7.78,
-   "value": 288638.0,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 37100.0,
-   "price": 7.78,
-   "value": 288638.0,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "FLOC",
-   "company": "Flowco Holdings Inc.",
-   "insider": "Fairbanks Jonathan B.",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 15140.0,
-   "price": 19.3477,
-   "value": 292924.18,
-   "acc": "0001193125-26-450429",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "LSCC",
    "company": "LATTICE SEMICONDUCTOR CORP",
@@ -3584,6 +3536,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Wienbar Sharon L",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 874.0,
+   "price": 28.43,
+   "value": 24847.82,
+   "acc": "0001193125-26-458961",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
    "insider": "Mindlin Damian Miguel",
@@ -3605,6 +3569,18 @@
    "price": 2.5905,
    "value": 25060.5,
    "acc": "0001072613-26-000862",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Lalor Angela S",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 887.0,
+   "price": 28.28,
+   "value": 25084.36,
+   "acc": "0001193125-26-458960",
    "filed": "2026-11-12"
   },
   {
@@ -4316,6 +4292,30 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Wienbar Sharon L",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 900.0,
+   "price": 27.76,
+   "value": 24984.0,
+   "acc": "0001193125-26-458961",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Lalor Angela S",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 870.0,
+   "price": 28.86,
+   "value": 25108.2,
+   "acc": "0001193125-26-458960",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "LUCK",
    "company": "Lucky Strike Entertainment Corp",
    "insider": "Young John Alan",
@@ -4822,7 +4822,7 @@
   {
    "ticker": "ETRA",
    "insiders": 2,
-   "total_value": 4348387.62
+   "total_value": 3771111.62
   },
   {
    "ticker": "MP",
@@ -4858,11 +4858,6 @@
    "ticker": "EQPT",
    "insiders": 2,
    "total_value": 804105.04
-  },
-  {
-   "ticker": "FLOC",
-   "insiders": 2,
-   "total_value": 682656.18
   },
   {
    "ticker": "BW",
@@ -4955,6 +4950,11 @@
    "total_value": 163118.2
   },
   {
+   "ticker": "ENOV",
+   "insiders": 2,
+   "total_value": 149941.75
+  },
+  {
    "ticker": "NSLR",
    "insiders": 2,
    "total_value": 145700.0
@@ -5018,7 +5018,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023939",
   "0001999371-26-023956",
   "0001999371-26-023962",
   "0001999371-26-023972",
@@ -5454,6 +5453,7 @@
   "0002015287-26-000017",
   "0002015287-26-000020",
   "0002015287-26-000022",
+  "0002015287-26-000024",
   "0002015378-26-000010",
   "0002015472-26-000004",
   "0002015584-26-000008",
