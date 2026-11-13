@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-13 11:59 UTC",
+ "updated_utc": "2026-11-13 12:15 UTC",
  "purchases": [
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 3087.0,
-   "price": 1.7746,
-   "value": 5478.19,
-   "acc": "0001493152-26-050313",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -4734,6 +4722,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "OWLS",
+   "company": "OBOOK HOLDINGS INC.",
+   "insider": "WANG CHUN KAI",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-12",
+   "shares": 6171.0,
+   "price": 2.172,
+   "value": 13403.41,
+   "acc": "0002109337-26-000016",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "GAM",
    "company": "GENERAL AMERICAN INVESTORS CO INC",
    "insider": "Stark Eugene S",
@@ -5005,7 +5005,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023983",
   "0001999371-26-023986",
   "0001999371-26-023987",
   "0001999371-26-023989",
@@ -7302,6 +7301,7 @@
   "0002109337-26-000013",
   "0002109337-26-000014",
   "0002109337-26-000015",
+  "0002109337-26-000016",
   "0002109341-26-000003",
   "0002109629-26-000011",
   "0002109682-26-000006",
