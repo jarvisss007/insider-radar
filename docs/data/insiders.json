@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-13 20:09 UTC",
+ "updated_utc": "2026-11-13 20:25 UTC",
  "purchases": [
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 7980.0,
-   "price": 9.63,
-   "value": 76847.4,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 7747.0,
-   "price": 11.34,
-   "value": 87850.98,
-   "acc": "0001510281-26-000418",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "ECHO",
-   "company": "EchoStar CORP",
-   "insider": "Wall William P",
-   "role": "Director",
-   "date": "2026-11-05",
-   "shares": 1000.0,
-   "price": 90.41,
-   "value": 90410.0,
-   "acc": "0001393025-26-000007",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 9485.0,
-   "price": 9.61,
-   "value": 91150.85,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "CMCO",
    "company": "COLUMBUS MCKINNON CORP",
@@ -4626,6 +4578,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "LPCN",
+   "company": "Lipocine Inc.",
+   "insider": "Patel Mahesh V.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-12",
+   "shares": 25000.0,
+   "price": 1.5796,
+   "value": 39490.0,
+   "acc": "0001493152-26-051673",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "EOSE",
    "company": "Eos Energy Enterprises, Inc.",
    "insider": "DIMITRIEF ALEXANDER",
@@ -4746,6 +4710,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "NGS",
+   "company": "NATURAL GAS SERVICES GROUP INC",
+   "insider": "JACKSON JOHN EARL",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 100.0,
+   "price": 28.8,
+   "value": 2880.0,
+   "acc": "0001236849-26-000015",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "OVBC",
    "company": "OHIO VALLEY BANC CORP",
    "insider": "Michael Seth Isaac",
@@ -4782,6 +4758,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "LPCN",
+   "company": "Lipocine Inc.",
+   "insider": "Patel Mahesh V.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 25000.0,
+   "price": 1.5999,
+   "value": 39997.5,
+   "acc": "0001493152-26-051673",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "Young Kenneth M",
@@ -4791,6 +4779,18 @@
    "price": 4.35,
    "value": 43500.0,
    "acc": "0001630805-26-000087",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "NGS",
+   "company": "NATURAL GAS SERVICES GROUP INC",
+   "insider": "JACKSON JOHN EARL",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 1900.0,
+   "price": 28.9,
+   "value": 54910.0,
+   "acc": "0001236849-26-000015",
    "filed": "2026-11-13"
   },
   {
@@ -5030,8 +5030,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024067",
-  "0001999371-26-024069",
   "0001999371-26-024075",
   "0001999371-26-024093",
   "0001999371-26-024096",
@@ -6901,6 +6899,8 @@
   "0002078265-26-000488",
   "0002078265-26-000489",
   "0002078265-26-000490",
+  "0002078265-26-000491",
+  "0002078265-26-000492",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
