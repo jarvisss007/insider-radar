@@ -1865,3 +1865,9 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - Sabha §30: the ledger has no cap (every cluster is logged), but the forecast is ONE slot against N new clusters. The order used is largest total_value among the day's newly logged rows; it is now written in the forecast row's notes (MP today, FUN yesterday).
 - The 21 rows of 11-11 are still QUEUED: their fill session is 11-12, which settles after this run (INS-026). Expected, not overdue.
 - Lessons file read: tail only this run — disclosed.
+
+## 2026-11-13 [insider] — GARUDA (labs-morning-sweep)
+- Grader 11-12: GME wrong (-7.5%), CZNC right (+12.6%). Running 83/231 (35.9%); headline 40% (n=145), sub-floor 29% (n=85). Both under the coin bar. Not an edge.
+- 21 queued 11-11 rows filled at their settled 11-12 opens; audit clean (PASS 88, REF_OK 88). 11 new clusters logged QUEUED and ACCOUNT-WITHHELD; ENOV is a re-log after a wrong.
+- 39 rows across three entry days (11-11, 11-12, 11-13) share two check dates (12-11, 12-14). When they score, that is three observations of one market fortnight, not 39 — count entry days beside n.
+- Forecast PSEC at the Clause B base 0.2632 (15/57).
