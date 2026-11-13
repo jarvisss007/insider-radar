@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-13 18:50 UTC",
+ "updated_utc": "2026-11-13 19:21 UTC",
  "purchases": [
-  {
-   "ticker": "LAB",
-   "company": "STANDARD BIOTOOLS INC.",
-   "insider": "Carey Thomas D.",
-   "role": "Director",
-   "date": "2026-11-05",
-   "shares": 75000.0,
-   "price": 0.6253,
-   "value": 46897.5,
-   "acc": "0001193125-26-450238",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "NXRT",
-   "company": "NexPoint Residential Trust, Inc.",
-   "insider": "Richards Paul",
-   "role": "See Remarks",
-   "date": "2026-11-05",
-   "shares": 3000.0,
-   "price": 16.78,
-   "value": 50340.0,
-   "acc": "0001437749-26-035984",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "KYN",
-   "company": "Kayne Anderson Energy Infrastructure Fund, Inc.",
-   "insider": "Little Harrison James",
-   "role": "Executive Vice President",
-   "date": "2026-11-05",
-   "shares": 3900.0,
-   "price": 13.215,
-   "value": 51538.5,
-   "acc": "0002025837-26-000003",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "CMCO",
    "company": "COLUMBUS MCKINNON CORP",
@@ -4794,6 +4758,42 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CCNE",
+   "company": "CNB FINANCIAL CORP/PA",
+   "insider": "Peduzzi Michael D",
+   "role": "President & CEO",
+   "date": "2026-11-13",
+   "shares": 100.0,
+   "price": 35.65,
+   "value": 3565.0,
+   "acc": "0001409722-26-000015",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "CCNE",
+   "company": "CNB FINANCIAL CORP/PA",
+   "insider": "Peduzzi Michael D",
+   "role": "President & CEO",
+   "date": "2026-11-13",
+   "shares": 400.0,
+   "price": 35.63,
+   "value": 14252.0,
+   "acc": "0001409722-26-000015",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "BW",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "insider": "Young Kenneth M",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 10000.0,
+   "price": 4.35,
+   "value": 43500.0,
+   "acc": "0001630805-26-000087",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Booth Andrew",
@@ -4869,8 +4869,8 @@
   },
   {
    "ticker": "BW",
-   "insiders": 2,
-   "total_value": 652732.5
+   "insiders": 3,
+   "total_value": 696232.5
   },
   {
    "ticker": "WCC",
@@ -4893,11 +4893,6 @@
    "total_value": 446271.85
   },
   {
-   "ticker": "KYN",
-   "insiders": 2,
-   "total_value": 382623.5
-  },
-  {
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
@@ -4913,11 +4908,6 @@
    "total_value": 332822.47
   },
   {
-   "ticker": "NXRT",
-   "insiders": 2,
-   "total_value": 302318.76
-  },
-  {
    "ticker": "AN",
    "insiders": 2,
    "total_value": 298003.58
@@ -4931,6 +4921,11 @@
    "ticker": "SOPH",
    "insiders": 2,
    "total_value": 278388.0
+  },
+  {
+   "ticker": "NXRT",
+   "insiders": 2,
+   "total_value": 251978.76
   },
   {
    "ticker": "DTI",
@@ -5006,6 +5001,11 @@
    "ticker": "PHIO",
    "insiders": 3,
    "total_value": 45755.2
+  },
+  {
+   "ticker": "CCNE",
+   "insiders": 2,
+   "total_value": 37786.6
   },
   {
    "ticker": "BOTJ",
