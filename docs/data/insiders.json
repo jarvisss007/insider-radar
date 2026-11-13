@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-13 18:34 UTC",
+ "updated_utc": "2026-11-13 18:50 UTC",
  "purchases": [
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Elsener William Thomas",
-   "role": "EVP, Reservoir Engineering",
-   "date": "2026-11-05",
-   "shares": 900.0,
-   "price": 51.48,
-   "value": 46332.0,
-   "acc": "0001934692-26-000008",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Erman Bryan A",
-   "role": "President",
-   "date": "2026-11-05",
-   "shares": 915.0,
-   "price": 50.79,
-   "value": 46472.85,
-   "acc": "0002015754-26-000003",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "LAB",
    "company": "STANDARD BIOTOOLS INC.",
@@ -4698,6 +4674,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CRESY",
+   "company": "CRESUD INC",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 100000.0,
+   "price": 0.89,
+   "value": 89000.0,
+   "acc": "0002119764-26-000036",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "VISN",
    "company": "Vistance Networks, Inc.",
    "insider": "Watts Claudius E. IV",
@@ -4791,6 +4779,18 @@
    "price": 49.4625,
    "value": 1500.0,
    "acc": "0000894671-26-000067",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "OVBC",
+   "company": "OHIO VALLEY BANC CORP",
+   "insider": "Michael Seth Isaac",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 60.652,
+   "price": 49.4625,
+   "value": 3000.0,
+   "acc": "0000894671-26-000069",
    "filed": "2026-11-13"
   },
   {
@@ -4888,11 +4888,6 @@
    "total_value": 473687.5
   },
   {
-   "ticker": "MTDR",
-   "insiders": 7,
-   "total_value": 456475.0
-  },
-  {
    "ticker": "SLQT",
    "insiders": 5,
    "total_value": 446271.85
@@ -4906,6 +4901,11 @@
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
+  },
+  {
+   "ticker": "MTDR",
+   "insiders": 5,
+   "total_value": 363670.15
   },
   {
    "ticker": "DOX",
@@ -5013,6 +5013,11 @@
    "total_value": 18911.76
   },
   {
+   "ticker": "OVBC",
+   "insiders": 2,
+   "total_value": 4500.0
+  },
+  {
    "ticker": "OBIO",
    "insiders": 4,
    "total_value": 0,
@@ -5020,9 +5025,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024019",
-  "0001999371-26-024020",
-  "0001999371-26-024021",
   "0001999371-26-024022",
   "0001999371-26-024028",
   "0001999371-26-024032",
@@ -5223,6 +5225,7 @@
   "0002004328-26-000013",
   "0002004328-26-000014",
   "0002004328-26-000016",
+  "0002004328-26-000017",
   "0002004397-26-000005",
   "0002004397-26-000007",
   "0002004397-26-000009",
@@ -7525,6 +7528,8 @@
   "0002119764-26-000028",
   "0002119764-26-000030",
   "0002119764-26-000032",
+  "0002119764-26-000034",
+  "0002119764-26-000036",
   "0002119900-26-000008",
   "0002119908-26-000011",
   "0002119908-26-000013",
