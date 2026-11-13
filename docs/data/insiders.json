@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-13 13:02 UTC",
+ "updated_utc": "2026-11-13 13:33 UTC",
  "purchases": [
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 781.0,
-   "price": 9.5,
-   "value": 7419.5,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "NATR",
-   "company": "NATURES SUNSHINE PRODUCTS INC",
-   "insider": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 774.0,
-   "price": 9.77,
-   "value": 7561.98,
-   "acc": "0001166152-26-000014",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "SHEN",
-   "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
-   "insider": "McKay Edward H",
-   "role": "President & CEO",
-   "date": "2026-11-05",
-   "shares": 1000.0,
-   "price": 9.8425,
-   "value": 9842.5,
-   "acc": "0001494886-26-000003",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "JBSS",
-   "company": "SANFILIPPO JOHN B & SON INC",
-   "insider": "Finn Michael J",
-   "role": "Sr. VP, Corporate Controller",
-   "date": "2026-11-05",
-   "shares": 200.0,
-   "price": 56.08,
-   "value": 11216.0,
-   "acc": "0001193125-26-449849",
-   "filed": "2026-11-05"
-  },
   {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
@@ -3078,6 +3030,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "PSEC",
+   "company": "PROSPECT CAPITAL CORP",
+   "insider": "Barry John F",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-11-09",
+   "shares": 2604262.0,
+   "price": 1.5082,
+   "value": 3927747.95,
+   "acc": "0001294357-26-000020",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "OFIX",
    "company": "Orthofix Medical Inc.",
    "insider": "Juniper Investment Company, LLC",
@@ -3954,6 +3918,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "PSEC",
+   "company": "PROSPECT CAPITAL CORP",
+   "insider": "Barry John F",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-11-10",
+   "shares": 1410633.0,
+   "price": 1.5077,
+   "value": 2126811.37,
+   "acc": "0001294357-26-000020",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
    "insider": "JAFFER REHAN",
@@ -4012,6 +3988,18 @@
    "value": 4357.6,
    "acc": "0001683168-26-008544",
    "filed": "2026-11-12"
+  },
+  {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Puhlmann Markus",
+   "role": "Chief Medical Officer",
+   "date": "2026-11-11",
+   "shares": 6000.0,
+   "price": 0.83,
+   "value": 4980.0,
+   "acc": "0001193125-26-459395",
+   "filed": "2026-11-13"
   },
   {
    "ticker": "BW",
@@ -4746,6 +4734,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Puhlmann Markus",
+   "role": "Chief Medical Officer",
+   "date": "2026-11-12",
+   "shares": 35000.0,
+   "price": 0.8447,
+   "value": 29564.5,
+   "acc": "0001193125-26-459395",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "VISN",
    "company": "Vistance Networks, Inc.",
    "insider": "Watts Claudius E. IV",
@@ -4811,6 +4811,11 @@
    "ticker": "FUN",
    "insiders": 3,
    "total_value": 15066320.0
+  },
+  {
+   "ticker": "PSEC",
+   "insiders": 2,
+   "total_value": 6074659.32
   },
   {
    "ticker": "ETRA",
@@ -4983,6 +4988,11 @@
    "total_value": 92455.0
   },
   {
+   "ticker": "CATX",
+   "insiders": 2,
+   "total_value": 72487.6
+  },
+  {
    "ticker": "NTHI",
    "insiders": 2,
    "total_value": 58600.76
@@ -4998,11 +5008,6 @@
    "total_value": 18911.76
   },
   {
-   "ticker": "SHEN",
-   "insiders": 2,
-   "total_value": 14813.7
-  },
-  {
    "ticker": "OBIO",
    "insiders": 4,
    "total_value": 0,
@@ -5010,7 +5015,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023986",
   "0001999371-26-023987",
   "0001999371-26-023989",
   "0001999371-26-023996",
@@ -6068,6 +6072,7 @@
   "0002053876-26-000006",
   "0002054266-26-000008",
   "0002054266-26-000010",
+  "0002054266-26-000012",
   "0002054688-26-000008",
   "0002054905-26-000008",
   "0002054905-26-000010",
