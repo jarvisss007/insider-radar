@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-13 23:04 UTC",
+ "updated_utc": "2026-11-13 23:36 UTC",
  "purchases": [
-  {
-   "ticker": "COUR",
-   "company": "Coursera, Inc.",
-   "insider": "Pale Fire Capital SE",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 3130149.0,
-   "price": 3.722,
-   "value": 11650414.58,
-   "acc": "0000921895-26-002941",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "KEENOVA THERAPEUTICS PLC (CIK 1567892)",
-   "company": "Keenova Therapeutics plc",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 145716.0,
-   "price": 89.25,
-   "value": 13005153.0,
-   "acc": "0001493152-26-050818",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "NFRX",
    "company": "2023 ETF Series Trust",
@@ -4062,6 +4038,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "AUDAX PRIVATE CREDIT FUND, LLC (CIK 2033362)",
+   "company": "Audax Private Credit Fund, LLC",
+   "insider": "Audax Private Credit Business, LP",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 16971.79,
+   "price": 24.86,
+   "value": 421918.7,
+   "acc": "0001193125-26-461179",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "KGS",
    "company": "Kodiak Gas Services, Inc.",
    "insider": "Darden Alexander Newsom",
@@ -4179,6 +4167,18 @@
    "price": 1727.65,
    "value": 1757020.05,
    "acc": "0000921895-26-003050",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "AUDAX PRIVATE CREDIT FUND, LLC (CIK 2033362)",
+   "company": "Audax Private Credit Fund, LLC",
+   "insider": "Audax Private Credit Business, LP",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 568041.571,
+   "price": 24.86,
+   "value": 14121513.46,
+   "acc": "0001193125-26-461179",
    "filed": "2026-11-13"
   },
   {
@@ -5025,7 +5025,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024373",
   "0001999371-26-024375",
   "0001999371-26-024377",
   "0001999371-26-024379",
@@ -5958,6 +5957,7 @@
   "0002049001-26-000007",
   "0002049487-26-000004",
   "0002049633-26-000014",
+  "0002049674-26-000007",
   "0002049705-26-000012",
   "0002049705-26-000014",
   "0002049705-26-000016",
