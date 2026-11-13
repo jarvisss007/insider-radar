@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-13 21:28 UTC",
+ "updated_utc": "2026-11-13 21:44 UTC",
  "purchases": [
-  {
-   "ticker": "TTMI",
-   "company": "TTM TECHNOLOGIES INC",
-   "insider": "FRANKLIN PHILIP G",
-   "role": "Director",
-   "date": "2026-11-05",
-   "shares": 5000.0,
-   "price": 61.92,
-   "value": 309600.0,
-   "acc": "0001193125-26-452897",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "KYN",
-   "company": "Kayne Anderson Energy Infrastructure Fund, Inc.",
-   "insider": "Baker James C",
-   "role": "President",
-   "date": "2026-11-05",
-   "shares": 25000.0,
-   "price": 13.2434,
-   "value": 331085.0,
-   "acc": "0001331674-26-000005",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "CARLYLE CREDIT SOLUTIONS (CIK 2144472)",
-   "company": "Carlyle Credit Solutions",
-   "insider": "Hennigan Thomas M",
-   "role": "CFO and President",
-   "date": "2026-11-05",
-   "shares": 21210.653,
-   "price": 17.96,
-   "value": 380943.33,
-   "acc": "0001734741-26-000009",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "FLOC",
-   "company": "Flowco Holdings Inc.",
-   "insider": "EDWARDS JOSEPH R",
-   "role": "President and CEO",
-   "date": "2026-11-05",
-   "shares": 20000.0,
-   "price": 19.4866,
-   "value": 389732.0,
-   "acc": "0001193125-26-454576",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
@@ -3138,6 +3090,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "NXRT",
+   "company": "NexPoint Residential Trust, Inc.",
+   "insider": "McGraner Matt",
+   "role": "See Remarks",
+   "date": "2026-11-10",
+   "shares": 6365.0,
+   "price": 15.7,
+   "value": 99930.5,
+   "acc": "0001437749-26-036918",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "CTRI",
    "company": "Centuri Holdings, Inc.",
    "insider": "MARIUCCI ANNE L",
@@ -4266,6 +4230,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "SJT",
+   "company": "SAN JUAN BASIN ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 251227.0,
+   "price": 4.43,
+   "value": 1112935.61,
+   "acc": "0001104659-26-127135",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4371,6 +4347,18 @@
    "price": 3.2466,
    "value": 8116.5,
    "acc": "0001493152-26-051716",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "AEBI",
+   "company": "Aebi Schmidt Holding AG",
+   "insider": "Schroeder Henning",
+   "role": "CEO Europe and ROW",
+   "date": "2026-11-12",
+   "shares": 1156.0,
+   "price": 10.5,
+   "value": 12138.0,
+   "acc": "0001437749-26-036915",
    "filed": "2026-11-13"
   },
   {
@@ -4650,6 +4638,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "SJT",
+   "company": "SAN JUAN BASIN ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 203962.0,
+   "price": 4.41,
+   "value": 899472.42,
+   "acc": "0001104659-26-127135",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "BH",
    "company": "Biglari Holdings Inc.",
    "insider": "BIGLARI, SARDAR",
@@ -4843,11 +4843,6 @@
    "total_value": 1220285.0
   },
   {
-   "ticker": "TTMI",
-   "insiders": 2,
-   "total_value": 941141.0
-  },
-  {
    "ticker": "HPP",
    "insiders": 3,
    "total_value": 905762.3
@@ -4918,6 +4913,11 @@
    "total_value": 258530.15
   },
   {
+   "ticker": "NXRT",
+   "insiders": 2,
+   "total_value": 252266.66
+  },
+  {
    "ticker": "DTI",
    "insiders": 3,
    "total_value": 228778.09
@@ -4946,11 +4946,6 @@
    "ticker": "STRA",
    "insiders": 2,
    "total_value": 163118.2
-  },
-  {
-   "ticker": "NXRT",
-   "insiders": 2,
-   "total_value": 152336.16
   },
   {
    "ticker": "ENOV",
@@ -5030,12 +5025,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024209",
-  "0001999371-26-024212",
-  "0001999371-26-024239",
-  "0001999371-26-024241",
-  "0001999371-26-024244",
-  "0001999371-26-024246",
   "0001999371-26-024259",
   "0001999371-26-024264",
   "0001999371-26-024316",
@@ -5141,10 +5130,14 @@
   "0001999371-26-025236",
   "0001999371-26-025287",
   "0001999371-26-025289",
+  "0001999371-26-025320",
+  "0001999371-26-025322",
+  "0001999371-26-025323",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
   "0001999598-26-000010",
+  "0001999598-26-000012",
   "0001999642-26-000016",
   "0001999846-26-000004",
   "0001999852-26-000003",
@@ -6012,6 +6005,7 @@
   "0002051034-26-000008",
   "0002051034-26-000009",
   "0002051034-26-000010",
+  "0002051034-26-000011",
   "0002051270-26-000012",
   "0002051327-26-000016",
   "0002051384-26-000009",
@@ -6896,6 +6890,7 @@
   "0002078265-26-000492",
   "0002078265-26-000493",
   "0002078265-26-000494",
+  "0002078265-26-000496",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
