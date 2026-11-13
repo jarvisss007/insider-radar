@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-12 23:44 UTC",
+ "updated_utc": "2026-11-13 00:00 UTC",
  "purchases": [
-  {
-   "ticker": "BXMT",
-   "company": "BLACKSTONE MORTGAGE TRUST, INC.",
-   "insider": "NASSAU HENRY N",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 10000.0,
-   "price": 11.4291,
-   "value": 114291.0,
-   "acc": "0001061630-26-000103",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "LSCC",
-   "company": "LATTICE SEMICONDUCTOR CORP",
-   "insider": "Tamer Ford",
-   "role": "President & CEO",
-   "date": "2026-11-04",
-   "shares": 1200.0,
-   "price": 103.3988,
-   "value": 124078.56,
-   "acc": "0001437749-26-034881",
-   "filed": "2026-11-04"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 20000.0,
-   "price": 7.07,
-   "value": 141400.0,
-   "acc": "0000947871-26-000986",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 20000.0,
-   "price": 7.07,
-   "value": 141400.0,
-   "acc": "0000947871-26-000985",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-11-04",
-   "shares": 7500.0,
-   "price": 18.9344,
-   "value": 142008.0,
-   "acc": "0000935596-26-000027",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "SYY",
-   "company": "SYSCO CORP",
-   "insider": "Ondrof Thomas Gerard",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 2500.0,
-   "price": 76.62,
-   "value": 191550.0,
-   "acc": "0001685591-26-000006",
-   "filed": "2026-11-05"
-  },
-  {
-   "ticker": "LKQ",
-   "company": "LKQ CORP",
-   "insider": "GOVE SUE",
-   "role": "Director",
-   "date": "2026-11-04",
-   "shares": 9795.0,
-   "price": 20.5294,
-   "value": 201085.47,
-   "acc": "0001214659-26-013801",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -2982,6 +2898,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 11376.0,
+   "price": 3.21,
+   "value": 36516.96,
+   "acc": "0000912282-26-001461",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "NTHI",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
    "insider": "Heshmatpour Amir F",
@@ -3282,6 +3210,18 @@
    "value": 319000.0,
    "acc": "0001104659-26-125077",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "EXFY",
+   "company": "Expensify, Inc.",
+   "insider": "McLaughlin Steven J.",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 181553.0,
+   "price": 1.853,
+   "value": 336417.71,
+   "acc": "0000929638-26-004269",
+   "filed": "2026-11-12"
   },
   {
    "ticker": "ROK",
@@ -3704,6 +3644,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 9941.0,
+   "price": 3.25,
+   "value": 32308.25,
+   "acc": "0000912282-26-001461",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "XGN",
    "company": "EXAGEN INC.",
    "insider": "Chernett Jorey",
@@ -3725,6 +3677,18 @@
    "price": 41.63,
    "value": 37467.0,
    "acc": "0001193125-26-457435",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "STKS",
+   "company": "ONE Group Hospitality, Inc.",
+   "insider": "Segal Jonathan",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 37000.0,
+   "price": 1.06,
+   "value": 39220.0,
+   "acc": "0001581001-26-000010",
    "filed": "2026-11-12"
   },
   {
@@ -3968,6 +3932,18 @@
    "filed": "2026-11-10"
   },
   {
+   "ticker": "EXFY",
+   "company": "Expensify, Inc.",
+   "insider": "McLaughlin Steven J.",
+   "role": "10% owner",
+   "date": "2026-11-10",
+   "shares": 196809.0,
+   "price": 1.693,
+   "value": 333197.64,
+   "acc": "0000929638-26-004269",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "BKD",
    "company": "Brookdale Senior Living Inc.",
    "insider": "WINKLE C CHRISTIAN",
@@ -4121,6 +4097,18 @@
    "price": 26.64,
    "value": 44499988.8,
    "acc": "0001687898-26-000012",
+   "filed": "2026-11-12"
+  },
+  {
+   "ticker": "STKS",
+   "company": "ONE Group Hospitality, Inc.",
+   "insider": "Segal Jonathan",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 1.0,
+   "price": 1.0,
+   "value": 1.0,
+   "acc": "0001581001-26-000010",
    "filed": "2026-11-12"
   },
   {
@@ -4664,6 +4652,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "EXFY",
+   "company": "Expensify, Inc.",
+   "insider": "McLaughlin Steven J.",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 179186.0,
+   "price": 1.781,
+   "value": 319130.27,
+   "acc": "0000929638-26-004269",
+   "filed": "2026-11-12"
+  },
+  {
    "ticker": "XGN",
    "company": "EXAGEN INC.",
    "insider": "Chernett Jorey",
@@ -4815,14 +4815,14 @@
    "total_value": 15066320.0
   },
   {
-   "ticker": "ETRA",
-   "insiders": 2,
-   "total_value": 4631187.62
-  },
-  {
    "ticker": "LBTY",
    "insiders": 3,
    "total_value": 4486300.15
+  },
+  {
+   "ticker": "ETRA",
+   "insiders": 2,
+   "total_value": 4348387.62
   },
   {
    "ticker": "PAM",
@@ -4848,11 +4848,6 @@
    "ticker": "COHR",
    "insiders": 2,
    "total_value": 1220285.0
-  },
-  {
-   "ticker": "BXMT",
-   "insiders": 2,
-   "total_value": 1149642.0
   },
   {
    "ticker": "TTMI",
@@ -5028,7 +5023,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-023930",
   "0001999371-26-023933",
   "0001999371-26-023936",
   "0001999371-26-023939",
@@ -7887,6 +7881,7 @@
   "0002148161-26-000009",
   "0002148161-26-000010",
   "0002148161-26-000012",
+  "0002148161-26-000014",
   "0002148287-26-000002",
   "0002148361-26-000003",
   "0002148361-26-000004",
