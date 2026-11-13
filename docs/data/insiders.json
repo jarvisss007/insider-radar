@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-13 12:15 UTC",
+ "updated_utc": "2026-11-13 13:02 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-05",
-   "shares": 2000.0,
-   "price": 2.82,
-   "value": 5640.0,
-   "acc": "0001536588-26-000046",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-05",
-   "shares": 8307.0,
-   "price": 0.8687,
-   "value": 7216.29,
-   "acc": "0001493152-26-050359",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "NATR",
    "company": "NATURES SUNSHINE PRODUCTS INC",
@@ -4050,6 +4026,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-11",
+   "shares": 35000.0,
+   "price": 0.149,
+   "value": 5215.0,
+   "acc": "0001493152-26-051542",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "LRMR",
    "company": "Larimar Therapeutics, Inc.",
    "insider": "Truitt Joseph",
@@ -4276,6 +4264,18 @@
    "value": 30500.0,
    "acc": "0001493152-26-051304",
    "filed": "2026-11-12"
+  },
+  {
+   "ticker": "CSQR",
+   "company": "Csquare, Inc.",
+   "insider": "Cook Steven R. E.",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-11",
+   "shares": 2027.8053,
+   "price": 17.26,
+   "value": 34999.92,
+   "acc": "0000950142-26-003016",
+   "filed": "2026-11-13"
   },
   {
    "ticker": "API",
@@ -4911,6 +4911,11 @@
    "ticker": "AN",
    "insiders": 2,
    "total_value": 298003.58
+  },
+  {
+   "ticker": "CSQR",
+   "insiders": 2,
+   "total_value": 282028.52
   },
   {
    "ticker": "SOPH",
