@@ -18,7 +18,8 @@ def test_the_firm_gate_is_isolated_for_every_test_here(tmp_path):
     for name in ("RISK_FILE", "ADMITS", "IPO_STRATEGY"):
         assert not os.path.abspath(getattr(fh, name)).startswith(live + os.sep), name
     before = os.path.exists(os.path.join(live, "agent", "budget_admits.csv")), os.path.getsize(os.path.join(live, "agent", "budget_admits.csv")) if os.path.exists(os.path.join(live, "agent", "budget_admits.csv")) else None
-    row = {"date": "2026-10-01", "ticker": "ZZZT", "call": "long", "thesis": "[insider] test row", "price_at_call": "10.00"}
+    row = {"date": "2026-10-01", "ticker": "ZZZT", "call": "long", "thesis": "[insider] test row", "price_at_call": "10.00",
+           "check_date": "2026-10-30", "stale_quote": "no", "tags": "fund", "void_reason": ""}
     sq.append_call(row, ledger=str(tmp_path / "ledger.csv"), check_issuer_type=False)             # no `halts=`: the case the fixture exists for
     after = os.path.exists(os.path.join(live, "agent", "budget_admits.csv")), os.path.getsize(os.path.join(live, "agent", "budget_admits.csv")) if os.path.exists(os.path.join(live, "agent", "budget_admits.csv")) else None
     assert before == after
