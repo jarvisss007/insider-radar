@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-14 00:08 UTC",
+ "updated_utc": "2026-11-14 00:23 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-06",
-   "shares": 735.0,
-   "price": 2.85,
-   "value": 2094.75,
-   "acc": "0001536588-26-000046",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -3930,6 +3918,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "CTRI",
+   "company": "Centuri Holdings, Inc.",
+   "insider": "Patton Charles R.",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 11000.0,
+   "price": 22.72,
+   "value": 249920.0,
+   "acc": "0001981599-26-000141",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "EQPT",
    "company": "EquipmentShare.com Inc",
    "insider": "Schlacks Jabbok",
@@ -4893,6 +4893,11 @@
    "total_value": 382085.83
   },
   {
+   "ticker": "CTRI",
+   "insiders": 2,
+   "total_value": 349910.0
+  },
+  {
    "ticker": "DOX",
    "insiders": 5,
    "total_value": 332822.47
@@ -5025,7 +5030,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024381",
   "0001999371-26-024383",
   "0001999371-26-024385",
   "0001999371-26-024387",
@@ -5304,6 +5308,7 @@
   "0002010445-26-000009",
   "0002010445-26-000011",
   "0002010494-26-000014",
+  "0002010502-26-000010",
   "0002010805-26-000007",
   "0002011077-26-000005",
   "0002011100-26-000006",
