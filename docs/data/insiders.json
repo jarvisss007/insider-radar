@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-14 02:30 UTC",
+ "updated_utc": "2026-11-14 02:46 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yuan Lipen",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 43.0,
-   "price": 70.5,
-   "value": 3031.5,
-   "acc": "0001046179-26-000789",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 43.0,
-   "price": 70.5,
-   "value": 3031.5,
-   "acc": "0001046179-26-000782",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-11-06",
-   "shares": 20299.0,
-   "price": 0.156,
-   "value": 3166.64,
-   "acc": "0001493152-26-050412",
-   "filed": "2026-11-06"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -1730,6 +1694,18 @@
    "value": 53975.0,
    "acc": "0000921895-26-003021",
    "filed": "2026-11-10"
+  },
+  {
+   "ticker": "STIM",
+   "company": "Neuronetics, Inc.",
+   "insider": "Chernett Jorey",
+   "role": "10% owner",
+   "date": "2026-11-09",
+   "shares": 40000.0,
+   "price": 1.99,
+   "value": 79600.0,
+   "acc": "0001193805-26-001472",
+   "filed": "2026-11-13"
   },
   {
    "ticker": "AUDC",
@@ -4170,6 +4146,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "VANI",
+   "company": "Vivani Medical, Inc.",
+   "insider": "Dwyer Donald",
+   "role": "Chief Business Officer",
+   "date": "2026-11-12",
+   "shares": 5000.0,
+   "price": 0.83,
+   "value": 4150.0,
+   "acc": "0001753926-26-002139",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "CRVS",
    "company": "Corvus Pharmaceuticals, Inc.",
    "insider": "Arcara Jeffrey",
@@ -4263,6 +4251,18 @@
    "price": 2.172,
    "value": 13403.41,
    "acc": "0002109337-26-000016",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "VANI",
+   "company": "Vivani Medical, Inc.",
+   "insider": "Dwyer Donald",
+   "role": "Chief Business Officer",
+   "date": "2026-11-12",
+   "shares": 15000.0,
+   "price": 1.033,
+   "value": 15495.0,
+   "acc": "0001753926-26-002139",
    "filed": "2026-11-13"
   },
   {
@@ -4984,8 +4984,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 25,
-   "total_value": 103212.0
+   "insiders": 23,
+   "total_value": 97149.0
   },
   {
    "ticker": "AFCG",
