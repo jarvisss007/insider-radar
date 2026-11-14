@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-13 23:52 UTC",
+ "updated_utc": "2026-11-14 00:08 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Tien Bor-Zen",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 6.0,
-   "price": 70.5,
-   "value": 423.0,
-   "acc": "0001046179-26-000782",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "JYNT",
-   "company": "JOINT Corp",
-   "insider": "JOBSON CHARLES E",
-   "role": "10% owner",
-   "date": "2026-11-06",
-   "shares": 179.0,
-   "price": 6.65,
-   "value": 1190.35,
-   "acc": "0001214659-26-013937",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-11-06",
-   "shares": 12751.0,
-   "price": 0.158,
-   "value": 2014.66,
-   "acc": "0001493152-26-050703",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -3270,6 +3234,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "TRS",
+   "company": "TRIMAS CORP",
+   "insider": "Tredwell Daniel P",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 66.975,
+   "price": 37.727,
+   "value": 2526.77,
+   "acc": "0001399401-26-000010",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "RM",
    "company": "Regional Management Corp.",
    "insider": "BASSWOOD CAPITAL MANAGEMENT, L.L.C.",
@@ -4110,6 +4086,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "IOND",
+   "company": "Ionic Digital Inc.",
+   "insider": "Abbate Michael",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 12493.0,
+   "price": 66.2,
+   "value": 827036.6,
+   "acc": "0001185185-26-005414",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "UPST",
    "company": "Upstart Holdings, Inc.",
    "insider": "Gu Paul",
@@ -4540,6 +4528,18 @@
    "value": 270740.0,
    "acc": "0001562356-26-000004",
    "filed": "2026-11-12"
+  },
+  {
+   "ticker": "IOND",
+   "company": "Ionic Digital Inc.",
+   "insider": "Abbate Michael",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 7149.0,
+   "price": 64.98,
+   "value": 464542.02,
+   "acc": "0001185185-26-005414",
+   "filed": "2026-11-13"
   },
   {
    "ticker": "ABCL",
@@ -4975,7 +4975,7 @@
   {
    "ticker": "TSM",
    "insiders": 30,
-   "total_value": 116677.5
+   "total_value": 116254.5
   },
   {
    "ticker": "AFCG",
@@ -5025,9 +5025,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024375",
-  "0001999371-26-024377",
-  "0001999371-26-024379",
   "0001999371-26-024381",
   "0001999371-26-024383",
   "0001999371-26-024385",
@@ -7157,6 +7154,7 @@
   "0002093300-26-000004",
   "0002093489-26-000006",
   "0002093849-26-000008",
+  "0002093849-26-000010",
   "0002094217-26-000006",
   "0002094262-26-000004",
   "0002094343-26-000008",
@@ -7166,6 +7164,7 @@
   "0002094629-26-000003",
   "0002094759-26-000002",
   "0002094766-26-000006",
+  "0002094778-26-000008",
   "0002094859-26-000002",
   "0002094859-26-000003",
   "0002095068-26-000002",
@@ -7713,6 +7712,7 @@
   "0002133187-26-000002",
   "0002133188-26-000002",
   "0002133255-26-000016",
+  "0002133255-26-000018",
   "0002133402-26-000004",
   "0002133572-26-000004",
   "0002133599-26-000005",
