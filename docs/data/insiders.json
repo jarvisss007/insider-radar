@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-14 02:46 UTC",
+ "updated_utc": "2026-11-14 03:01 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "He Jun",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 47.0,
-   "price": 70.5,
-   "value": 3313.5,
-   "acc": "0001046179-26-000753",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lin Shyue-Shyh",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 47.0,
-   "price": 70.5,
-   "value": 3313.5,
-   "acc": "0001046179-26-000774",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -2418,6 +2394,19 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "NXGL",
+   "company": "NEXGEL, INC.",
+   "insider": "glassman steven mark",
+   "role": "Director",
+   "date": "2026-11-10",
+   "shares": 4546.0,
+   "price": 5.5,
+   "value": 25003.0,
+   "acc": "0001493152-26-051917",
+   "filed": "2026-11-13",
+   "placement": true
+  },
+  {
    "ticker": "EP",
    "company": "EMPIRE PETROLEUM CORP",
    "insider": "Energy Evolution Master Fund, Ltd.",
@@ -3004,6 +2993,19 @@
    "value": 616590.0,
    "acc": "0001832050-26-000010",
    "filed": "2026-11-12"
+  },
+  {
+   "ticker": "NXGL",
+   "company": "NEXGEL, INC.",
+   "insider": "Kieser Brian Joseph",
+   "role": "Interim CEO",
+   "date": "2026-11-10",
+   "shares": 133216.0,
+   "price": 5.5,
+   "value": 732688.0,
+   "acc": "0001493152-26-051920",
+   "filed": "2026-11-13",
+   "placement": true
   },
   {
    "ticker": "HOS",
@@ -4983,14 +4985,14 @@
    "total_value": 125600.47
   },
   {
-   "ticker": "TSM",
-   "insiders": 23,
-   "total_value": 97149.0
-  },
-  {
    "ticker": "AFCG",
    "insiders": 3,
    "total_value": 92455.0
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 21,
+   "total_value": 90522.0
   },
   {
    "ticker": "TRTX",
@@ -5032,6 +5034,12 @@
    "insiders": 4,
    "total_value": 0,
    "other_value": 230000.0
+  },
+  {
+   "ticker": "NXGL",
+   "insiders": 2,
+   "total_value": 0,
+   "other_value": 757691.0
   }
  ],
  "seen": [
