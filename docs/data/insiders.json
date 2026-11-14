@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-14 01:27 UTC",
+ "updated_utc": "2026-11-14 01:43 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chen Chih-Ho",
-   "role": "Controller",
-   "date": "2026-11-06",
-   "shares": 33.0,
-   "price": 70.5,
-   "value": 2326.5,
-   "acc": "0001046179-26-000744",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4182,6 +4170,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "FRPH",
+   "company": "FRP HOLDINGS, INC.",
+   "insider": "Baker John D. III",
+   "role": "CEO",
+   "date": "2026-11-12",
+   "shares": 50.0,
+   "price": 18.61,
+   "value": 930.5,
+   "acc": "0000897069-26-001928",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "CRVS",
    "company": "Corvus Pharmaceuticals, Inc.",
    "insider": "Arcara Jeffrey",
@@ -4979,8 +4979,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 29,
-   "total_value": 114139.5
+   "insiders": 28,
+   "total_value": 111813.0
   },
   {
    "ticker": "AFCG",
