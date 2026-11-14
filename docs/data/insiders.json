@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-14 01:43 UTC",
+ "updated_utc": "2026-11-14 02:30 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lu Chin-Sheng",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 40.0,
-   "price": 70.5,
-   "value": 2820.0,
-   "acc": "0001046179-26-000776",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wu Yi-Huang",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 41.0,
-   "price": 70.5,
-   "value": 2890.5,
-   "acc": "0001046179-26-000790",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Hwang Yuan-Ko",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 41.0,
-   "price": 70.5,
-   "value": 2890.5,
-   "acc": "0001046179-26-000780",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ATLO",
-   "company": "AMES NATIONAL CORP",
-   "insider": "Bauer Scott T",
-   "role": "",
-   "date": "2026-11-06",
-   "shares": 88.0,
-   "price": 33.75,
-   "value": 2970.0,
-   "acc": "0001391715-26-000002",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4086,6 +4038,30 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "STWD",
+   "company": "STARWOOD PROPERTY TRUST, INC.",
+   "insider": "Pollack Jonathan Lee",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 85000.0,
+   "price": 11.8361,
+   "value": 1006068.5,
+   "acc": "0000905148-26-004807",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "STWD",
+   "company": "STARWOOD PROPERTY TRUST, INC.",
+   "insider": "Pollack Jonathan Lee",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 84800.0,
+   "price": 11.8795,
+   "value": 1007381.6,
+   "acc": "0000905148-26-004807",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "UPST",
    "company": "Upstart Holdings, Inc.",
    "insider": "Gu Paul",
@@ -4131,6 +4107,18 @@
    "price": 1727.65,
    "value": 1757020.05,
    "acc": "0000921895-26-003050",
+   "filed": "2026-11-13"
+  },
+  {
+   "ticker": "STWD",
+   "company": "STARWOOD PROPERTY TRUST, INC.",
+   "insider": "STERNLICHT BARRY S",
+   "role": "CEO, Chairman of the Board",
+   "date": "2026-11-11",
+   "shares": 830000.0,
+   "price": 11.9146,
+   "value": 9889118.0,
+   "acc": "0000905148-26-004805",
    "filed": "2026-11-13"
   },
   {
@@ -4602,6 +4590,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "STWD",
+   "company": "STARWOOD PROPERTY TRUST, INC.",
+   "insider": "STERNLICHT BARRY S",
+   "role": "CEO, Chairman of the Board",
+   "date": "2026-11-12",
+   "shares": 415000.0,
+   "price": 11.5869,
+   "value": 4808563.5,
+   "acc": "0000905148-26-004805",
+   "filed": "2026-11-13"
+  },
+  {
    "ticker": "OVBC",
    "company": "OHIO VALLEY BANC CORP",
    "insider": "BARNITZ ANNA P",
@@ -4808,6 +4808,11 @@
  ],
  "clusters": [
   {
+   "ticker": "STWD",
+   "insiders": 2,
+   "total_value": 16711131.6
+  },
+  {
    "ticker": "FUN",
    "insiders": 3,
    "total_value": 15066320.0
@@ -4979,8 +4984,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 28,
-   "total_value": 111813.0
+   "insiders": 25,
+   "total_value": 103212.0
   },
   {
    "ticker": "AFCG",
@@ -5030,8 +5035,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024389",
-  "0001999371-26-024391",
   "0001999371-26-024396",
   "0001999371-26-024398",
   "0001999371-26-024401",
@@ -6032,6 +6035,7 @@
   "0002052363-26-000059",
   "0002052363-26-000061",
   "0002052363-26-000063",
+  "0002052363-26-000066",
   "0002052444-26-000034",
   "0002052698-26-000002",
   "0002052698-26-000008",
@@ -7860,6 +7864,7 @@
   "0002147232-26-000006",
   "0002147236-26-000004",
   "0002147247-26-000004",
+  "0002147247-26-000006",
   "0002147248-26-000003",
   "0002147277-26-000003",
   "0002147313-26-000004",
