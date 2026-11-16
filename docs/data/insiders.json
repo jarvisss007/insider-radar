@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-16 13:25 UTC",
+ "updated_utc": "2026-11-16 13:56 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wei Che-Chia",
-   "role": "Chairman and CEO",
-   "date": "2026-11-06",
-   "shares": 155.0,
-   "price": 70.5,
-   "value": 10927.5,
-   "acc": "0001046179-26-000779",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "SLQT",
-   "company": "SelectQuote, Inc.",
-   "insider": "Hawks Donald L III",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 26598.0,
-   "price": 0.439,
-   "value": 11676.52,
-   "acc": "0001794783-26-000092",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Appel Shelley F",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 275.0,
-   "price": 50.25,
-   "value": 13818.75,
-   "acc": "0001981193-26-000006",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "BOTJ",
-   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
-   "insider": "BRYANT WILLIAM C III",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 707.0,
-   "price": 24.0,
-   "value": 16968.0,
-   "acc": "0001437749-26-035824",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "NXTC",
-   "company": "NextCure, Inc.",
-   "insider": "ADAR1 Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-11-06",
-   "shares": 3662.0,
-   "price": 5.1,
-   "value": 18676.2,
-   "acc": "0001940272-26-000030",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "PSEC",
-   "company": "PROSPECT CAPITAL CORP",
-   "insider": "Stark Eugene S",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 15000.0,
-   "price": 1.34,
-   "value": 20100.0,
-   "acc": "0001315319-26-000002",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "LAW",
-   "company": "CS Disco, Inc.",
-   "insider": "Friedrichsen Eric",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-06",
-   "shares": 4490.0,
-   "price": 5.45,
-   "value": 24470.5,
-   "acc": "0001625641-26-000195",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "ENOV",
    "company": "Enovis CORP",
@@ -3872,6 +3788,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Williamson Robert F III",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 6289.0,
+   "price": 0.8386,
+   "value": 5273.96,
+   "acc": "0001193125-26-462220",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "CRVS",
    "company": "Corvus Pharmaceuticals, Inc.",
    "insider": "Arcara Jeffrey",
@@ -3968,6 +3896,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Morich Frank",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 15000.0,
+   "price": 0.9971,
+   "value": 14956.5,
+   "acc": "0001193125-26-462221",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "VANI",
    "company": "Vivani Medical, Inc.",
    "insider": "Dwyer Donald",
@@ -3978,6 +3918,18 @@
    "value": 15495.0,
    "acc": "0001753926-26-002139",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Williamson Robert F III",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 18609.0,
+   "price": 0.84,
+   "value": 15631.56,
+   "acc": "0001193125-26-462220",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "TRTX",
@@ -4026,6 +3978,18 @@
    "value": 19969.6,
    "acc": "0001195252-26-000006",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Woods Lori A",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 23750.0,
+   "price": 0.8438,
+   "value": 20040.25,
+   "acc": "0001193125-26-462219",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "GAM",
@@ -4218,6 +4182,18 @@
    "value": 136371.13,
    "acc": "0001666120-26-000034",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 7500.0,
+   "price": 18.9436,
+   "value": 142077.0,
+   "acc": "0000935596-26-000030",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "ECX",
@@ -4712,6 +4688,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "PCT",
+   "company": "PureCycle Technologies, Inc.",
+   "insider": "Musa Fernando",
+   "role": "Executive Chairman",
+   "date": "2026-11-13",
+   "shares": 57600.0,
+   "price": 1.71,
+   "value": 98496.0,
+   "acc": "0001847066-26-000009",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "GLP",
    "company": "GLOBAL PARTNERS LP",
    "insider": "Global GP LLC",
@@ -4722,6 +4710,18 @@
    "value": 110200.0,
    "acc": "0001339396-26-000088",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-13",
+   "shares": 7500.0,
+   "price": 19.0069,
+   "value": 142551.75,
+   "acc": "0000935596-26-000030",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "TH",
@@ -4820,11 +4820,6 @@
    "total_value": 15066320.0
   },
   {
-   "ticker": "PSEC",
-   "insiders": 2,
-   "total_value": 6074659.32
-  },
-  {
    "ticker": "MP",
    "insiders": 3,
    "total_value": 3353605.68
@@ -4907,7 +4902,7 @@
   {
    "ticker": "SLQT",
    "insiders": 5,
-   "total_value": 446271.85
+   "total_value": 434595.33
   },
   {
    "ticker": "LRMR",
@@ -4927,7 +4922,7 @@
   {
    "ticker": "MTDR",
    "insiders": 4,
-   "total_value": 258530.15
+   "total_value": 244711.4
   },
   {
    "ticker": "NXRT",
@@ -4985,6 +4980,11 @@
    "total_value": 129529.26
   },
   {
+   "ticker": "CATX",
+   "insiders": 5,
+   "total_value": 128389.87
+  },
+  {
    "ticker": "GSM",
    "insiders": 2,
    "total_value": 125600.47
@@ -5003,11 +5003,6 @@
    "ticker": "DX",
    "insiders": 2,
    "total_value": 75737.55
-  },
-  {
-   "ticker": "CATX",
-   "insiders": 2,
-   "total_value": 72487.6
   },
   {
    "ticker": "VANI",
@@ -5030,11 +5025,6 @@
    "total_value": 37786.6
   },
   {
-   "ticker": "BOTJ",
-   "insiders": 2,
-   "total_value": 18911.76
-  },
-  {
    "ticker": "OVBC",
    "insiders": 2,
    "total_value": 4500.0
@@ -5053,7 +5043,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024398",
   "0001999371-26-024401",
   "0001999371-26-024404",
   "0001999371-26-024406",
@@ -5143,6 +5132,7 @@
   "0001999371-26-025328",
   "0001999371-26-025337",
   "0001999371-26-025343",
+  "0001999371-26-025398",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
