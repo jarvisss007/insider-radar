@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-16 12:07 UTC",
+ "updated_utc": "2026-11-16 12:22 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Fang Shu-Hua",
-   "role": "SVP and GC",
-   "date": "2026-11-06",
-   "shares": 58.0,
-   "price": 70.5,
-   "value": 4089.0,
-   "acc": "0001046179-26-000755",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4292,6 +4280,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "DOX",
+   "company": "AMDOCS LTD",
+   "insider": "DE LA VEGA RAFAEL",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 2297.0,
+   "price": 44.505,
+   "value": 102227.99,
+   "acc": "0001193125-26-462052",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4885,6 +4885,11 @@
    "total_value": 562680.56
   },
   {
+   "ticker": "DOX",
+   "insiders": 7,
+   "total_value": 539350.96
+  },
+  {
    "ticker": "LUMN",
    "insiders": 2,
    "total_value": 494605.0
@@ -4898,11 +4903,6 @@
    "ticker": "SLQT",
    "insiders": 5,
    "total_value": 446271.85
-  },
-  {
-   "ticker": "DOX",
-   "insiders": 6,
-   "total_value": 437122.97
   },
   {
    "ticker": "LRMR",
@@ -5015,14 +5015,14 @@
    "total_value": 45755.2
   },
   {
-   "ticker": "TSM",
-   "insiders": 7,
-   "total_value": 38563.5
-  },
-  {
    "ticker": "CCNE",
    "insiders": 2,
    "total_value": 37786.6
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 6,
+   "total_value": 34474.5
   },
   {
    "ticker": "BOTJ",
