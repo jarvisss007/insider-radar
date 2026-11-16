@@ -1,150 +1,6 @@
 {
- "updated_utc": "2026-11-16 21:36 UTC",
+ "updated_utc": "2026-11-16 23:41 UTC",
  "purchases": [
-  {
-   "ticker": "GSM",
-   "company": "Ferroglobe PLC",
-   "insider": "Lopez Madrid Javier",
-   "role": "EXECUTIVE CHAIRMAN",
-   "date": "2026-11-06",
-   "shares": 28671.0,
-   "price": 2.6159,
-   "value": 75000.47,
-   "acc": "0001104659-26-125551",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 9816.0,
-   "price": 7.85,
-   "value": 77055.6,
-   "acc": "0000947871-26-001010",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 9816.0,
-   "price": 7.85,
-   "value": 77055.6,
-   "acc": "0000947871-26-001011",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "GROW",
-   "company": "U S GLOBAL INVESTORS INC",
-   "insider": "Pilecki Derek Steven",
-   "role": "",
-   "date": "2026-11-06",
-   "shares": 33034.0,
-   "price": 2.5032,
-   "value": 82690.71,
-   "acc": "0001062993-26-005821",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "GROW",
-   "company": "U S GLOBAL INVESTORS INC",
-   "insider": "Gator Capital Management, LLC",
-   "role": "10% owner",
-   "date": "2026-11-06",
-   "shares": 33034.0,
-   "price": 2.5032,
-   "value": 82690.71,
-   "acc": "0001062993-26-006003",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Energy Evolution Master Fund, Ltd.",
-   "role": "10% owner",
-   "date": "2026-11-06",
-   "shares": 33771.0,
-   "price": 2.4546,
-   "value": 82894.3,
-   "acc": "0001072613-26-000861",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "FUN",
-   "company": "Six Flags Entertainment Corporation/NEW",
-   "insider": "HADDRILL RICHARD M",
-   "role": "Executive Chair",
-   "date": "2026-11-06",
-   "shares": 9000.0,
-   "price": 10.08,
-   "value": 90720.0,
-   "acc": "0001999001-26-000111",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "LUMN",
-   "company": "Lumen Technologies, Inc.",
-   "insider": "GOLDBERG MICHELLE J",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 25000.0,
-   "price": 3.9086,
-   "value": 97715.0,
-   "acc": "0000018926-26-000074",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "NXRT",
-   "company": "NexPoint Residential Trust, Inc.",
-   "insider": "McGraner Matt",
-   "role": "See Remarks",
-   "date": "2026-11-06",
-   "shares": 6082.0,
-   "price": 16.38,
-   "value": 99623.16,
-   "acc": "0001437749-26-035985",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "AN",
-   "company": "AUTONATION, INC.",
-   "insider": "Szlosek Thomas A",
-   "role": "EVP & CFO",
-   "date": "2026-11-06",
-   "shares": 541.0,
-   "price": 184.56,
-   "value": 99846.96,
-   "acc": "0001293167-26-000008",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "WCC",
-   "company": "WESCO INTERNATIONAL INC",
-   "insider": "Marino Anthony S",
-   "role": "EVP & CHRO",
-   "date": "2026-11-06",
-   "shares": 341.0,
-   "price": 292.97,
-   "value": 99902.77,
-   "acc": "0001193125-26-453825",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "GOOD",
-   "company": "GLADSTONE COMMERCIAL CORP",
-   "insider": "Cooper Arthur S.",
-   "role": "CEO & President",
-   "date": "2026-11-06",
-   "shares": 9853.1931,
-   "price": 10.1489,
-   "value": 99999.07,
-   "acc": "0001873961-26-000002",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "OBK",
    "company": "Origin Bancorp, Inc.",
@@ -3728,6 +3584,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 5682.0,
+   "price": 2.4382,
+   "value": 13853.85,
+   "acc": "0001072613-26-000907",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "CATX",
    "company": "Perspective Therapeutics, Inc.",
    "insider": "Morich Frank",
@@ -3882,6 +3750,18 @@
    "value": 30726.0,
    "acc": "0001666120-26-000034",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "BRK.B",
+   "company": "BERKSHIRE HATHAWAY INC",
+   "insider": "O'Sullivan Michael J.",
+   "role": "See Remarks",
+   "date": "2026-11-12",
+   "shares": 54.0,
+   "price": 593.75,
+   "value": 32062.5,
+   "acc": "0001193125-26-463989",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "TRTX",
@@ -4086,6 +3966,18 @@
    "value": 208635.0,
    "acc": "0001104659-26-127088",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "BRK.B",
+   "company": "BERKSHIRE HATHAWAY INC",
+   "insider": "O'Sullivan Michael J.",
+   "role": "See Remarks",
+   "date": "2026-11-12",
+   "shares": 367.0,
+   "price": 594.4,
+   "value": 218144.8,
+   "acc": "0001193125-26-463989",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "GLP",
@@ -4376,6 +4268,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-13",
+   "shares": 5464.0,
+   "price": 2.4266,
+   "value": 13258.94,
+   "acc": "0001072613-26-000907",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "CCNE",
    "company": "CNB FINANCIAL CORP/PA",
    "insider": "Peduzzi Michael D",
@@ -4421,6 +4325,18 @@
    "price": 3.327,
    "value": 19625.97,
    "acc": "0002120865-26-000009",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "ADIG",
+   "company": "ADI GLOBAL DISTRIBUTION INC.",
+   "insider": "Cardazzi Marco",
+   "role": "Executive VP and CMO",
+   "date": "2026-11-13",
+   "shares": 2508.0,
+   "price": 10.0,
+   "value": 25080.0,
+   "acc": "0002144017-26-000003",
    "filed": "2026-11-16"
   },
   {
@@ -4580,6 +4496,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "ADIG",
+   "company": "ADI GLOBAL DISTRIBUTION INC.",
+   "insider": "Copeland Alicia Crispin",
+   "role": "Executive VP and COO",
+   "date": "2026-11-13",
+   "shares": 5000.0,
+   "price": 10.11,
+   "value": 50550.0,
+   "acc": "0002144083-26-000003",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "GERN",
    "company": "GERON CORP",
    "insider": "Semerjian Harout",
@@ -4628,6 +4556,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "ADIG",
+   "company": "ADI GLOBAL DISTRIBUTION INC.",
+   "insider": "Carlet Michael",
+   "role": "Executive VP, CFO",
+   "date": "2026-11-13",
+   "shares": 10288.0,
+   "price": 9.71,
+   "value": 99896.48,
+   "acc": "0001873242-26-000009",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "GOOD",
    "company": "GLADSTONE COMMERCIAL CORP",
    "insider": "Cooper Arthur S.",
@@ -4637,6 +4577,18 @@
    "price": 9.93,
    "value": 100000.0,
    "acc": "0001873961-26-000004",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "ADIG",
+   "company": "ADI GLOBAL DISTRIBUTION INC.",
+   "insider": "Aarnes Robert B",
+   "role": "President and CEO",
+   "date": "2026-11-13",
+   "shares": 10073.0,
+   "price": 9.93,
+   "value": 100024.89,
+   "acc": "0001754267-26-000006",
    "filed": "2026-11-16"
   },
   {
@@ -4806,6 +4758,54 @@
    "value": 42100.0,
    "acc": "0001630805-26-000093",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "ADIG",
+   "company": "ADI GLOBAL DISTRIBUTION INC.",
+   "insider": "Lane Jeannine J",
+   "role": "Exec. VP, GC, Corp. Sec. & CCO",
+   "date": "2026-11-16",
+   "shares": 5241.0,
+   "price": 9.55,
+   "value": 50051.55,
+   "acc": "0001753285-26-000006",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "PED",
+   "company": "PEDEVCO CORP",
+   "insider": "Howie John K",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 5000.0,
+   "price": 10.6,
+   "value": 53000.0,
+   "acc": "0001654954-26-009873",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "HL",
+   "company": "HECLA MINING CO/DE/",
+   "insider": "Andres Dale",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 10000.0,
+   "price": 12.5,
+   "value": 125000.0,
+   "acc": "0001866675-26-000007",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "FPS",
+   "company": "Forgent Power Solutions, Inc.",
+   "insider": "Hottinger Tyson",
+   "role": "Chief Legal Officer",
+   "date": "2026-11-16",
+   "shares": 11800.0,
+   "price": 20.759,
+   "value": 244956.2,
+   "acc": "0000950142-26-003077",
+   "filed": "2026-11-16"
   }
  ],
  "clusters": [
@@ -4813,11 +4813,6 @@
    "ticker": "STWD",
    "insiders": 2,
    "total_value": 16711131.6
-  },
-  {
-   "ticker": "FUN",
-   "insiders": 2,
-   "total_value": 15019720.0
   },
   {
    "ticker": "MP",
@@ -4837,7 +4832,7 @@
   {
    "ticker": "ETRA",
    "insiders": 2,
-   "total_value": 1489061.2
+   "total_value": 1334950.0
   },
   {
    "ticker": "COHR",
@@ -4875,11 +4870,6 @@
    "total_value": 539350.96
   },
   {
-   "ticker": "LUMN",
-   "insiders": 2,
-   "total_value": 494605.0
-  },
-  {
    "ticker": "KGS",
    "insiders": 2,
    "total_value": 494160.0
@@ -4900,24 +4890,19 @@
    "total_value": 349910.0
   },
   {
+   "ticker": "ADIG",
+   "insiders": 5,
+   "total_value": 325602.92
+  },
+  {
    "ticker": "SLQT",
    "insiders": 2,
    "total_value": 303361.16
   },
   {
-   "ticker": "GOOD",
-   "insiders": 3,
-   "total_value": 288837.19
-  },
-  {
    "ticker": "SOPH",
    "insiders": 2,
    "total_value": 278388.0
-  },
-  {
-   "ticker": "NXRT",
-   "insiders": 2,
-   "total_value": 244101.66
   },
   {
    "ticker": "DTI",
@@ -4945,14 +4930,19 @@
    "total_value": 192750.0
   },
   {
-   "ticker": "GROW",
-   "insiders": 2,
-   "total_value": 165381.42
+   "ticker": "GOOD",
+   "insiders": 3,
+   "total_value": 188838.12
   },
   {
    "ticker": "NSLR",
    "insiders": 2,
    "total_value": 145700.0
+  },
+  {
+   "ticker": "NXRT",
+   "insiders": 2,
+   "total_value": 144478.5
   },
   {
    "ticker": "URG",
@@ -5028,12 +5018,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024518",
-  "0001999371-26-024521",
-  "0001999371-26-024533",
-  "0001999371-26-024535",
-  "0001999371-26-024556",
-  "0001999371-26-024561",
   "0001999371-26-024599",
   "0001999371-26-024613",
   "0001999371-26-024615",
@@ -5308,6 +5292,7 @@
   "0002011407-26-000010",
   "0002011407-26-000011",
   "0002011525-26-000002",
+  "0002011643-26-000010",
   "0002011929-26-000010",
   "0002012024-26-000008",
   "0002012024-26-000009",
@@ -7319,6 +7304,7 @@
   "0002110304-26-000021",
   "0002110304-26-000023",
   "0002110304-26-000025",
+  "0002110450-26-000010",
   "0002110603-26-000013",
   "0002110603-26-000015",
   "0002110638-26-000019",
@@ -7527,6 +7513,7 @@
   "0002119908-26-000011",
   "0002119908-26-000013",
   "0002120008-26-000006",
+  "0002120008-26-000008",
   "0002120169-26-000001",
   "0002120298-26-000002",
   "0002120458-26-000002",
@@ -7608,6 +7595,7 @@
   "0002125050-26-000006",
   "0002125295-26-000014",
   "0002125295-26-000017",
+  "0002125336-26-000006",
   "0002125533-26-000013",
   "0002125533-26-000015",
   "0002125533-26-000017",
@@ -7805,6 +7793,8 @@
   "0002143887-26-000005",
   "0002143905-26-000003",
   "0002143947-26-000004",
+  "0002144017-26-000003",
+  "0002144083-26-000003",
   "0002144093-26-000007",
   "0002144116-26-000005",
   "0002144166-26-000005",
