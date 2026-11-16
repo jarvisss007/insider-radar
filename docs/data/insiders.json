@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-16 12:53 UTC",
+ "updated_utc": "2026-11-16 13:09 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Hou Yung-Chin",
-   "role": "SVP and Deputy Co-COO",
-   "date": "2026-11-06",
-   "shares": 64.0,
-   "price": 70.5,
-   "value": 4512.0,
-   "acc": "0001046179-26-000754",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "Hetzel Brandon",
-   "role": "CFO and Treasurer",
-   "date": "2026-11-06",
-   "shares": 1500.0,
-   "price": 3.05,
-   "value": 4575.0,
-   "acc": "0001628280-26-072321",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Zhang Kevin Xiaoqiang",
-   "role": "SVP and Deputy Co-COO",
-   "date": "2026-11-06",
-   "shares": 65.0,
-   "price": 70.5,
-   "value": 4582.5,
-   "acc": "0001046179-26-000791",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "SHEN",
-   "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
-   "insider": "QUAGLIO KENNETH L",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 520.0,
-   "price": 9.56,
-   "value": 4971.2,
-   "acc": "0001697225-26-000004",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Chin Yung-Pei",
-   "role": "EVP and Co-COO",
-   "date": "2026-11-06",
-   "shares": 73.0,
-   "price": 70.5,
-   "value": 5146.5,
-   "acc": "0001046179-26-000742",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -3524,6 +3464,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CSQR",
+   "company": "Csquare, Inc.",
+   "insider": "Kelley Philip M",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 10000.0,
+   "price": 17.24,
+   "value": 172400.0,
+   "acc": "0000950142-26-003050",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "BRC Group Holdings, Inc.",
@@ -4652,6 +4604,30 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "CSQR",
+   "company": "Csquare, Inc.",
+   "insider": "PIZZUTO TERRI",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 2000.0,
+   "price": 16.96,
+   "value": 33920.0,
+   "acc": "0000950142-26-003051",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "ABEO",
+   "company": "ABEONA THERAPEUTICS INC.",
+   "insider": "Charles Faith L.",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 15000.0,
+   "price": 2.2899,
+   "value": 34348.5,
+   "acc": "0001493152-26-052027",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "API",
    "company": "Agora, Inc.",
    "insider": "Zhao Bin",
@@ -4686,6 +4662,18 @@
    "value": 43500.0,
    "acc": "0001630805-26-000087",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "VANI",
+   "company": "Vivani Medical, Inc.",
+   "insider": "Williams Gregg",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 48100.0,
+   "price": 0.993,
+   "value": 47763.3,
+   "acc": "0001753926-26-002141",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "ALT",
@@ -4806,6 +4794,18 @@
    "value": 2552400.0,
    "acc": "0001106232-26-000012",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "HUBS",
+   "company": "HUBSPOT INC",
+   "insider": "Halligan Brian",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 22985.0,
+   "price": 217.44,
+   "value": 4997858.4,
+   "acc": "0001193125-26-462154",
+   "filed": "2026-11-16"
   }
  ],
  "clusters": [
@@ -4900,6 +4900,11 @@
    "total_value": 494160.0
   },
   {
+   "ticker": "CSQR",
+   "insiders": 4,
+   "total_value": 488348.52
+  },
+  {
    "ticker": "SLQT",
    "insiders": 5,
    "total_value": 446271.85
@@ -4913,11 +4918,6 @@
    "ticker": "CTRI",
    "insiders": 2,
    "total_value": 349910.0
-  },
-  {
-   "ticker": "CSQR",
-   "insiders": 2,
-   "total_value": 282028.52
   },
   {
    "ticker": "SOPH",
@@ -4991,8 +4991,8 @@
   },
   {
    "ticker": "AFCG",
-   "insiders": 3,
-   "total_value": 92455.0
+   "insiders": 2,
+   "total_value": 87880.0
   },
   {
    "ticker": "TRTX",
@@ -5003,6 +5003,11 @@
    "ticker": "CATX",
    "insiders": 2,
    "total_value": 72487.6
+  },
+  {
+   "ticker": "VANI",
+   "insiders": 2,
+   "total_value": 67408.3
   },
   {
    "ticker": "ALT",
@@ -5020,14 +5025,14 @@
    "total_value": 37786.6
   },
   {
-   "ticker": "TSM",
-   "insiders": 5,
-   "total_value": 30315.0
-  },
-  {
    "ticker": "BOTJ",
    "insiders": 2,
    "total_value": 18911.76
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 2,
+   "total_value": 16074.0
   },
   {
    "ticker": "OVBC",
