@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-16 14:59 UTC",
+ "updated_utc": "2026-11-16 15:15 UTC",
  "purchases": [
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "LEE CHAE",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-06",
-   "shares": 20000.0,
-   "price": 2.15,
-   "value": 43000.0,
-   "acc": "0001193125-26-454344",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
@@ -3968,6 +3956,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "AGRO",
+   "company": "Adecoagro S.A.",
+   "insider": "Deprati Christian Ferdinando Emilio",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 3000.0,
+   "price": 7.9543,
+   "value": 23862.9,
+   "acc": "0001499505-26-000092",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "KEEL",
    "company": "Keel Infrastructure Corp.",
    "insider": "Freedman Amy",
@@ -4835,14 +4835,14 @@
    "total_value": 1548950.0
   },
   {
-   "ticker": "MX",
-   "insiders": 2,
-   "total_value": 1526506.03
-  },
-  {
    "ticker": "ETRA",
    "insiders": 2,
    "total_value": 1489061.2
+  },
+  {
+   "ticker": "MX",
+   "insiders": 2,
+   "total_value": 1483506.03
   },
   {
    "ticker": "COHR",
@@ -5038,8 +5038,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024410",
-  "0001999371-26-024414",
   "0001999371-26-024421",
   "0001999371-26-024422",
   "0001999371-26-024430",
@@ -5127,6 +5125,8 @@
   "0001999371-26-025398",
   "0001999371-26-025413",
   "0001999371-26-025414",
+  "0001999371-26-025421",
+  "0001999371-26-025424",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
