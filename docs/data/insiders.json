@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-16 13:56 UTC",
+ "updated_utc": "2026-11-16 14:12 UTC",
  "purchases": [
-  {
-   "ticker": "ENOV",
-   "company": "Enovis CORP",
-   "insider": "Wienbar Sharon L",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 907.0,
-   "price": 27.55,
-   "value": 24987.85,
-   "acc": "0001193125-26-455945",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "LUCK",
-   "company": "Lucky Strike Entertainment Corp",
-   "insider": "Young John Alan",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 7543.0,
-   "price": 3.86,
-   "value": 29115.98,
-   "acc": "0001628280-26-072428",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "Tannenbaum Robyn",
-   "role": "President and CIO",
-   "date": "2026-11-06",
-   "shares": 10000.0,
-   "price": 3.09,
-   "value": 30900.0,
-   "acc": "0001628280-26-072327",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "SLQT",
-   "company": "SelectQuote, Inc.",
-   "insider": "Grant William Thomas III",
-   "role": "CHIEF OPERATING OFFICER",
-   "date": "2026-11-06",
-   "shares": 79600.0,
-   "price": 0.505,
-   "value": 40198.0,
-   "acc": "0001794783-26-000093",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "SLQT",
    "company": "SelectQuote, Inc.",
@@ -3812,6 +3764,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "NLCP",
+   "company": "NewLake Capital Partners, Inc.",
+   "insider": "Coniglio Anthony",
+   "role": "President and CEO",
+   "date": "2026-11-12",
+   "shares": 400.0,
+   "price": 13.9,
+   "value": 5560.0,
+   "acc": "0001543841-26-000015",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "LUCK",
    "company": "Lucky Strike Entertainment Corp",
    "insider": "Young John Alan",
@@ -4352,6 +4316,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "SONO",
+   "company": "Sonos Inc",
+   "insider": "Kennedy Joseph Jude",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 89810.0,
+   "price": 18.77,
+   "value": 1685733.7,
+   "acc": "0001314727-26-000106",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "BH",
    "company": "Biglari Holdings Inc.",
    "insider": "BIGLARI, SARDAR",
@@ -4422,6 +4398,18 @@
    "value": 2880.0,
    "acc": "0001236849-26-000015",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 3606.0,
+   "price": 0.8001,
+   "value": 2885.16,
+   "acc": "0001493152-26-052068",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "OVBC",
@@ -4748,6 +4736,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "SONO",
+   "company": "Sonos Inc",
+   "insider": "Kennedy Joseph Jude",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 10190.0,
+   "price": 18.23,
+   "value": 185763.7,
+   "acc": "0001314727-26-000106",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "YUMC",
    "company": "Yum China Holdings, Inc.",
    "insider": "DIMITRIEF ALEXANDER",
@@ -4901,8 +4901,8 @@
   },
   {
    "ticker": "SLQT",
-   "insiders": 5,
-   "total_value": 434595.33
+   "insiders": 4,
+   "total_value": 394397.33
   },
   {
    "ticker": "LRMR",
@@ -4965,11 +4965,6 @@
    "total_value": 163118.2
   },
   {
-   "ticker": "ENOV",
-   "insiders": 2,
-   "total_value": 149941.75
-  },
-  {
    "ticker": "NSLR",
    "insiders": 2,
    "total_value": 145700.0
@@ -4990,9 +4985,9 @@
    "total_value": 125600.47
   },
   {
-   "ticker": "AFCG",
+   "ticker": "ENOV",
    "insiders": 2,
-   "total_value": 87880.0
+   "total_value": 124953.9
   },
   {
    "ticker": "TRTX",
