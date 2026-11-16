@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-16 17:55 UTC",
+ "updated_utc": "2026-11-16 18:58 UTC",
  "purchases": [
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Stetson Glenn W",
-   "role": "EVP and COO",
-   "date": "2026-11-06",
-   "shares": 1000.0,
-   "price": 50.8,
-   "value": 50800.0,
-   "acc": "0002020289-26-000008",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "STRA",
-   "company": "Strategic Education, Inc.",
-   "insider": "Slocum William J",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 1000.0,
-   "price": 52.0,
-   "value": 52000.0,
-   "acc": "0001859730-26-000004",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "FIS",
    "company": "Fidelity National Information Services, Inc.",
@@ -4340,6 +4316,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "SPCB",
+   "company": "SuperCom Ltd",
+   "insider": "Trabelsi Arie",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 200.0,
+   "price": 7.11,
+   "value": 1422.0,
+   "acc": "0001178913-26-005240",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "OVBC",
    "company": "OHIO VALLEY BANC CORP",
    "insider": "BARNITZ ANNA P",
@@ -4700,6 +4688,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "SPCB",
+   "company": "SuperCom Ltd",
+   "insider": "Trabelsi Arie",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 19400.0,
+   "price": 6.47,
+   "value": 125518.0,
+   "acc": "0001178913-26-005240",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -4925,11 +4925,6 @@
    "total_value": 278388.0
   },
   {
-   "ticker": "MTDR",
-   "insiders": 4,
-   "total_value": 244711.4
-  },
-  {
    "ticker": "NXRT",
    "insiders": 2,
    "total_value": 244101.66
@@ -4948,6 +4943,11 @@
    "ticker": "EGBN",
    "insiders": 2,
    "total_value": 199429.35
+  },
+  {
+   "ticker": "MTDR",
+   "insiders": 3,
+   "total_value": 193911.4
   },
   {
    "ticker": "WW",
@@ -4980,11 +4980,6 @@
    "total_value": 124953.9
   },
   {
-   "ticker": "STRA",
-   "insiders": 2,
-   "total_value": 114269.2
-  },
-  {
    "ticker": "TRTX",
    "insiders": 2,
    "total_value": 80850.0
@@ -5003,6 +4998,11 @@
    "ticker": "ALT",
    "insiders": 2,
    "total_value": 66044.09
+  },
+  {
+   "ticker": "STRA",
+   "insiders": 2,
+   "total_value": 62269.2
   },
   {
    "ticker": "PHIO",
@@ -5033,7 +5033,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024476",
   "0001999371-26-024483",
   "0001999371-26-024518",
   "0001999371-26-024521",
@@ -5120,6 +5119,7 @@
   "0001999371-26-025447",
   "0001999371-26-025452",
   "0001999371-26-025457",
+  "0001999371-26-025471",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
