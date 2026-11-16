@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-16 19:30 UTC",
+ "updated_utc": "2026-11-16 21:36 UTC",
  "purchases": [
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "LEE CHAE",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-06",
-   "shares": 30000.0,
-   "price": 2.232,
-   "value": 66960.0,
-   "acc": "0001193125-26-454344",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ADTN",
-   "company": "ADTRAN Holdings, Inc.",
-   "insider": "Santo Timothy P",
-   "role": "SVP of Finance; CFO",
-   "date": "2026-11-06",
-   "shares": 17820.0,
-   "price": 4.1632,
-   "value": 74188.22,
-   "acc": "0001193125-26-454020",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "GSM",
    "company": "Ferroglobe PLC",
@@ -4544,6 +4520,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "EVLV",
+   "company": "Evolv Technologies Holdings, Inc.",
+   "insider": "Charlton Kevin M.",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 10000.0,
+   "price": 4.0,
+   "value": 40000.0,
+   "acc": "0001558255-26-000007",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "Young Kenneth M",
@@ -4589,6 +4577,18 @@
    "price": 10.07,
    "value": 49997.55,
    "acc": "0000826675-26-000132",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "GERN",
+   "company": "GERON CORP",
+   "insider": "Semerjian Harout",
+   "role": "President & CEO",
+   "date": "2026-11-13",
+   "shares": 53500.0,
+   "price": 0.95,
+   "value": 50825.0,
+   "acc": "0001809747-26-000002",
    "filed": "2026-11-16"
   },
   {
@@ -4840,11 +4840,6 @@
    "total_value": 1489061.2
   },
   {
-   "ticker": "MX",
-   "insiders": 2,
-   "total_value": 1438106.03
-  },
-  {
    "ticker": "COHR",
    "insiders": 2,
    "total_value": 1220285.0
@@ -4853,11 +4848,6 @@
    "ticker": "HPP",
    "insiders": 3,
    "total_value": 905762.3
-  },
-  {
-   "ticker": "ADTN",
-   "insiders": 2,
-   "total_value": 847008.22
   },
   {
    "ticker": "EQPT",
