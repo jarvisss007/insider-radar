@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-16 14:28 UTC",
+ "updated_utc": "2026-11-16 14:59 UTC",
  "purchases": [
-  {
-   "ticker": "SLQT",
-   "company": "SelectQuote, Inc.",
-   "insider": "Grant Robert Clay",
-   "role": "PRESIDENT",
-   "date": "2026-11-06",
-   "shares": 79801.0,
-   "price": 0.505,
-   "value": 40299.5,
-   "acc": "0001794783-26-000090",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
@@ -3692,6 +3680,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-11-12",
+   "shares": 1500.0,
+   "price": 0.054,
+   "value": 81.0,
+   "acc": "0001035422-26-000020",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Starr Gayle P",
@@ -4900,14 +4900,14 @@
    "total_value": 488348.52
   },
   {
-   "ticker": "SLQT",
-   "insiders": 4,
-   "total_value": 394397.33
-  },
-  {
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
+  },
+  {
+   "ticker": "SLQT",
+   "insiders": 3,
+   "total_value": 354097.83
   },
   {
    "ticker": "CTRI",
@@ -5038,8 +5038,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024404",
-  "0001999371-26-024406",
   "0001999371-26-024410",
   "0001999371-26-024414",
   "0001999371-26-024421",
@@ -5127,6 +5125,8 @@
   "0001999371-26-025337",
   "0001999371-26-025343",
   "0001999371-26-025398",
+  "0001999371-26-025413",
+  "0001999371-26-025414",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
