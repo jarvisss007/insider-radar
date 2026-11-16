@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-16 13:09 UTC",
+ "updated_utc": "2026-11-16 13:25 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Mii Yuh-Jier",
-   "role": "EVP and Co-COO",
-   "date": "2026-11-06",
-   "shares": 73.0,
-   "price": 70.5,
-   "value": 5146.5,
-   "acc": "0001046179-26-000771",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "NXRT",
-   "company": "NexPoint Residential Trust, Inc.",
-   "insider": "Richards Paul",
-   "role": "See Remarks",
-   "date": "2026-11-06",
-   "shares": 500.0,
-   "price": 16.33,
-   "value": 8165.0,
-   "acc": "0001437749-26-035984",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "SBMW",
-   "company": "Security Midwest Bancorp, Inc.",
-   "insider": "Stone Erin M",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 500.0,
-   "price": 18.1,
-   "value": 9050.0,
-   "acc": "0001437749-26-035924",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4232,6 +4196,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "TLSI",
+   "company": "TriSalus Life Sciences, Inc.",
+   "insider": "Wahlstrom Mats",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 50000.0,
+   "price": 2.24,
+   "value": 112000.0,
+   "acc": "0001628280-26-074009",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4568,6 +4544,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "DX",
+   "company": "DYNEX CAPITAL INC",
+   "insider": "Popenoe Smriti Laxman",
+   "role": "Co-CEO and President",
+   "date": "2026-11-13",
+   "shares": 2600.0,
+   "price": 9.9,
+   "value": 25740.0,
+   "acc": "0000826675-26-000131",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
    "insider": "Epstein David R",
@@ -4686,6 +4674,18 @@
    "value": 49694.09,
    "acc": "0001698665-26-000011",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "DX",
+   "company": "DYNEX CAPITAL INC",
+   "insider": "BOSTON BYRON L",
+   "role": "Co-CEO & Chairman of the Board",
+   "date": "2026-11-13",
+   "shares": 4965.0,
+   "price": 10.07,
+   "value": 49997.55,
+   "acc": "0000826675-26-000132",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "NGS",
@@ -4932,7 +4932,7 @@
   {
    "ticker": "NXRT",
    "insiders": 2,
-   "total_value": 252266.66
+   "total_value": 244101.66
   },
   {
    "ticker": "DTI",
@@ -5000,6 +5000,11 @@
    "total_value": 80850.0
   },
   {
+   "ticker": "DX",
+   "insiders": 2,
+   "total_value": 75737.55
+  },
+  {
    "ticker": "CATX",
    "insiders": 2,
    "total_value": 72487.6
@@ -5028,11 +5033,6 @@
    "ticker": "BOTJ",
    "insiders": 2,
    "total_value": 18911.76
-  },
-  {
-   "ticker": "TSM",
-   "insiders": 2,
-   "total_value": 16074.0
   },
   {
    "ticker": "OVBC",
