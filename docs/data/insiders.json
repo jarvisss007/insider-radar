@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-16 17:09 UTC",
+ "updated_utc": "2026-11-16 17:55 UTC",
  "purchases": [
-  {
-   "ticker": "SLQT",
-   "company": "SelectQuote, Inc.",
-   "insider": "Danker Timothy Robert",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-11-06",
-   "shares": 100668.0,
-   "price": 0.504,
-   "value": 50736.67,
-   "acc": "0001794783-26-000091",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
@@ -4496,6 +4484,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CIA",
+   "company": "CITIZENS, INC.",
+   "insider": "Hoxworth Seth Alan",
+   "role": "Chief Actuary & Risk Officer",
+   "date": "2026-11-13",
+   "shares": 5899.0,
+   "price": 3.327,
+   "value": 19625.97,
+   "acc": "0002120865-26-000009",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "Popenoe Smriti Laxman",
@@ -4905,14 +4905,14 @@
    "total_value": 382085.83
   },
   {
-   "ticker": "SLQT",
-   "insiders": 3,
-   "total_value": 354097.83
-  },
-  {
    "ticker": "CTRI",
    "insiders": 2,
    "total_value": 349910.0
+  },
+  {
+   "ticker": "SLQT",
+   "insiders": 2,
+   "total_value": 303361.16
   },
   {
    "ticker": "GOOD",
@@ -5033,7 +5033,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024471",
   "0001999371-26-024476",
   "0001999371-26-024483",
   "0001999371-26-024518",
@@ -7544,6 +7543,7 @@
   "0002120696-26-000002",
   "0002120714-26-000004",
   "0002120865-26-000007",
+  "0002120865-26-000009",
   "0002120886-26-000001",
   "0002120899-26-000006",
   "0002121122-26-000001",
