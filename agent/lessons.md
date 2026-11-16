@@ -1871,3 +1871,12 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - 21 queued 11-11 rows filled at their settled 11-12 opens; audit clean (PASS 88, REF_OK 88). 11 new clusters logged QUEUED and ACCOUNT-WITHHELD; ENOV is a re-log after a wrong.
 - 39 rows across three entry days (11-11, 11-12, 11-13) share two check dates (12-11, 12-14). When they score, that is three observations of one market fortnight, not 39 — count entry days beside n.
 - Forecast PSEC at the Clause B base 0.2632 (15/57).
+
+## 2026-11-16 [insider] — GARUDA (labs-morning-sweep, 08:30 PT, prep DONE 14/14)
+- Nothing scored by hand (INS-018). Grader 11-13 (13:40 PT): HEI +13.1% right, RTSN +6.1% right, ONMD +15.3% right, FEAM -44.3% wrong, IMSR -8.7% wrong. Scorecard 86/236 (36.4%). strata.py: HEADLINE 41% (n=148, 48 entry days); sub-floor 30% (n=87, 40 days); unknown n=1. Both under the coin bar; a hit rate, not an edge.
+- attribution.csv (rebuilt): CEO buying n=122 / 47 dates hit 29% avg -7.4%; directors only n=131 / 45 dates hit 42% avg -1.3%; big cluster (>= $5M) n=26 / 20 dates hit 35% (n<30, proves nothing). No feature above the coin.
+- **The budget key is gone and the rows are still withheld (Brain §42 read at write time).** HALTS.json carries no `portfolio-budget:insider` today. The writer withheld all 11 new rows anyway under a different gate, PORT-010 `portfolio-headroom:insider`: $34,000 at the 11-13 settled reading + $2,000 for the entry = 8.39% of equity, over 8%. 0 entered THE ACCOUNT, 11 withheld. The marker on each row names PORT-010, not the old key. A brief that said "key cleared, so they enter" would have been wrong in the other direction.
+- 11 new clusters, one entry day: STWD, CTEV, ABCL, TH, KGS, CTRI (headline); VANI, ALT, CCNE, OVBC (sub-floor); NXGL ($0 open-market, other_value $0.76M). ABCL and TH are re-logs.
+- strata.py lists NXGL and OBIO under "below the floor" at $0, not under unknown: "$0 open-market" parses as a number. The 11-11 lesson called OBIO `unknown`; the tool does not. Both are pending, so no hit rate is touched yet. For Anupam, not edited.
+- Forecast STWD at the Clause B base 0.2759 (16/58).
+- Lessons file read: tail only this run — disclosed.
