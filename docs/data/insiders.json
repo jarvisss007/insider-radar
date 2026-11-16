@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-16 12:22 UTC",
+ "updated_utc": "2026-11-16 12:38 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Wu Shien-Yang",
-   "role": "SVP",
-   "date": "2026-11-06",
-   "shares": 59.0,
-   "price": 70.5,
-   "value": 4159.5,
-   "acc": "0001046179-26-000794",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4784,6 +4772,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "CRMD",
+   "company": "CorMedix Inc.",
+   "insider": "Todisco Joseph",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 80000.0,
+   "price": 4.89,
+   "value": 391200.0,
+   "acc": "0001213900-26-120120",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "HOS",
    "company": "HORNBECK OFFSHORE SERVICES, INC.",
    "insider": "HORNBECK TODD M",
@@ -5021,8 +5021,8 @@
   },
   {
    "ticker": "TSM",
-   "insiders": 6,
-   "total_value": 34474.5
+   "insiders": 5,
+   "total_value": 30315.0
   },
   {
    "ticker": "BOTJ",
