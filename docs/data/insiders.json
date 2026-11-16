@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-16 16:12 UTC",
+ "updated_utc": "2026-11-16 16:20 UTC",
  "purchases": [
-  {
-   "ticker": "KMT",
-   "company": "KENNAMETAL INC",
-   "insider": "Watson Patrick S",
-   "role": "Vice President and CFO",
-   "date": "2026-11-06",
-   "shares": 2000.0,
-   "price": 23.5,
-   "value": 47000.0,
-   "acc": "0001700266-26-000004",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "STRA",
    "company": "Strategic Education, Inc.",
@@ -4688,6 +4676,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "GOOD",
+   "company": "GLADSTONE COMMERCIAL CORP",
+   "insider": "Cooper Arthur S.",
+   "role": "CEO & President",
+   "date": "2026-11-13",
+   "shares": 10070.4934,
+   "price": 9.93,
+   "value": 100000.0,
+   "acc": "0001873961-26-000004",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "GLP",
    "company": "GLOBAL PARTNERS LP",
    "insider": "Global GP LLC",
@@ -4915,6 +4915,11 @@
    "total_value": 349910.0
   },
   {
+   "ticker": "GOOD",
+   "insiders": 3,
+   "total_value": 288837.19
+  },
+  {
    "ticker": "SOPH",
    "insiders": 2,
    "total_value": 278388.0
@@ -4948,11 +4953,6 @@
    "ticker": "WW",
    "insiders": 2,
    "total_value": 192750.0
-  },
-  {
-   "ticker": "GOOD",
-   "insiders": 3,
-   "total_value": 188837.19
   },
   {
    "ticker": "GROW",
@@ -5038,7 +5038,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024435",
   "0001999371-26-024444",
   "0001999371-26-024462",
   "0001999371-26-024469",
@@ -5127,6 +5126,7 @@
   "0001999371-26-025435",
   "0001999371-26-025440",
   "0001999371-26-025443",
+  "0001999371-26-025447",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
