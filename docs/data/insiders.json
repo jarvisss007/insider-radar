@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-16 11:20 UTC",
+ "updated_utc": "2026-11-16 11:36 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Lu Lee-Chung",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 53.0,
-   "price": 70.5,
-   "value": 3736.5,
-   "acc": "0001046179-26-000773",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "Yoo Chue-San",
-   "role": "VP",
-   "date": "2026-11-06",
-   "shares": 54.0,
-   "price": 70.5,
-   "value": 3807.0,
-   "acc": "0001046179-26-000793",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -4328,6 +4304,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-12",
+   "shares": 9955.0,
+   "price": 4.2108,
+   "value": 41918.51,
+   "acc": "0001193125-26-461908",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "HPP",
    "company": "Hudson Pacific Properties, Inc.",
    "insider": "LAMMAS MARK T",
@@ -4700,6 +4688,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "API",
+   "company": "Agora, Inc.",
+   "insider": "Zhao Bin",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 9224.0,
+   "price": 3.9434,
+   "value": 36373.92,
+   "acc": "0001193125-26-461908",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "LPCN",
    "company": "Lipocine Inc.",
    "insider": "Patel Mahesh V.",
@@ -5000,14 +5000,14 @@
    "total_value": 72487.6
   },
   {
-   "ticker": "TSM",
-   "insiders": 15,
-   "total_value": 69724.5
-  },
-  {
    "ticker": "ALT",
    "insiders": 2,
    "total_value": 66044.09
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 13,
+   "total_value": 62181.0
   },
   {
    "ticker": "PHIO",
