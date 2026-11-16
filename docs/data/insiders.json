@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-16 18:58 UTC",
+ "updated_utc": "2026-11-16 19:14 UTC",
  "purchases": [
-  {
-   "ticker": "FIS",
-   "company": "Fidelity National Information Services, Inc.",
-   "insider": "Gibson Kourtney",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 1800.0,
-   "price": 29.0,
-   "value": 52200.0,
-   "acc": "0001628280-26-072763",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 18500.0,
-   "price": 3.08,
-   "value": 56980.0,
-   "acc": "0001628280-26-072331",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "FGBI",
    "company": "First Guaranty Bancshares, Inc.",
@@ -4806,6 +4782,30 @@
    "value": 4997858.4,
    "acc": "0001193125-26-462154",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "NTWK",
+   "company": "NETSOL TECHNOLOGIES INC",
+   "insider": "GHAURI NAEEM",
+   "role": "President",
+   "date": "2026-11-16",
+   "shares": 4000.0,
+   "price": 4.28,
+   "value": 17120.0,
+   "acc": "0001493152-26-052243",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "NTWK",
+   "company": "NETSOL TECHNOLOGIES INC",
+   "insider": "GHAURI NAJEEB",
+   "role": "CEO",
+   "date": "2026-11-16",
+   "shares": 5000.0,
+   "price": 4.31,
+   "value": 21550.0,
+   "acc": "0001493152-26-052241",
+   "filed": "2026-11-16"
   }
  ],
  "clusters": [
@@ -5008,6 +5008,11 @@
    "ticker": "PHIO",
    "insiders": 3,
    "total_value": 55577.8
+  },
+  {
+   "ticker": "NTWK",
+   "insiders": 2,
+   "total_value": 38670.0
   },
   {
    "ticker": "CCNE",
