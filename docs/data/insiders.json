@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-16 23:41 UTC",
+ "updated_utc": "2026-11-16 23:56 UTC",
  "purchases": [
-  {
-   "ticker": "OBK",
-   "company": "Origin Bancorp, Inc.",
-   "insider": "Crotwell Jim",
-   "role": "Chief Risk Officer",
-   "date": "2026-11-06",
-   "shares": 2000.0,
-   "price": 53.58,
-   "value": 107160.0,
-   "acc": "0001839920-26-000008",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "NSLR",
-   "company": "Neostellar Capital Corp.",
-   "insider": "Potter Leonard",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 20000.0,
-   "price": 5.76,
-   "value": 115200.0,
-   "acc": "0001493152-26-050692",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "LKFN",
-   "company": "LAKELAND FINANCIAL CORP",
-   "insider": "BARTELS ROBERT E JR",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 1918.0,
-   "price": 61.0931,
-   "value": 117176.57,
-   "acc": "0001210212-26-000004",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "SOPH",
-   "company": "SOPHiA GENETICS SA",
-   "insider": "Muken Ross",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-06",
-   "shares": 20000.0,
-   "price": 6.8594,
-   "value": 137188.0,
-   "acc": "0001840706-26-000351",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "SOPH",
    "company": "SOPHiA GENETICS SA",
@@ -3668,6 +3620,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 7238.0,
+   "price": 2.487,
+   "value": 18000.91,
+   "acc": "0001325533-26-000013",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "CCNE",
    "company": "CNB FINANCIAL CORP/PA",
    "insider": "POWELL JEFFREY S",
@@ -3797,6 +3761,18 @@
    "price": 4.2108,
    "value": 41918.51,
    "acc": "0001193125-26-461908",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 17458.0,
+   "price": 2.487,
+   "value": 43418.05,
+   "acc": "0001325533-26-000013",
    "filed": "2026-11-16"
   },
   {
@@ -4724,6 +4700,30 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 530.0,
+   "price": 2.547,
+   "value": 1349.91,
+   "acc": "0001325533-26-000013",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 965.0,
+   "price": 2.547,
+   "value": 2457.86,
+   "acc": "0001325533-26-000013",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "NTWK",
    "company": "NETSOL TECHNOLOGIES INC",
    "insider": "GHAURI NAEEM",
@@ -4900,11 +4900,6 @@
    "total_value": 303361.16
   },
   {
-   "ticker": "SOPH",
-   "insiders": 2,
-   "total_value": 278388.0
-  },
-  {
    "ticker": "DTI",
    "insiders": 3,
    "total_value": 228778.09
@@ -4933,11 +4928,6 @@
    "ticker": "GOOD",
    "insiders": 3,
    "total_value": 188838.12
-  },
-  {
-   "ticker": "NSLR",
-   "insiders": 2,
-   "total_value": 145700.0
   },
   {
    "ticker": "NXRT",
