@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-16 16:36 UTC",
+ "updated_utc": "2026-11-16 16:52 UTC",
  "purchases": [
-  {
-   "ticker": "STRA",
-   "company": "Strategic Education, Inc.",
-   "insider": "Thawley Michael",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 950.0,
-   "price": 51.42,
-   "value": 48849.0,
-   "acc": "0001945821-26-000004",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "SMCI",
-   "company": "Super Micro Computer, Inc.",
-   "insider": "Angel Scott",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 1715.0,
-   "price": 29.1199,
-   "value": 49940.63,
-   "acc": "0002063388-26-000006",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "GSM",
-   "company": "Ferroglobe PLC",
-   "insider": "Levi Marco",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-11-06",
-   "shares": 20000.0,
-   "price": 2.53,
-   "value": 50600.0,
-   "acc": "0001104659-26-125536",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "SLQT",
    "company": "SelectQuote, Inc.",
@@ -3680,6 +3644,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "QNTO",
+   "company": "QUAINT OAK BANCORP, INC.",
+   "insider": "CLARKE JAMES J",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 100.0,
+   "price": 15.5,
+   "value": 1550.0,
+   "acc": "0001437749-26-037055",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "VANI",
    "company": "Vivani Medical, Inc.",
    "insider": "Dwyer Donald",
@@ -3690,6 +3666,30 @@
    "value": 4150.0,
    "acc": "0001753926-26-002139",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "QNTO",
+   "company": "QUAINT OAK BANCORP, INC.",
+   "insider": "CLARKE JAMES J",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 300.0,
+   "price": 15.3,
+   "value": 4590.0,
+   "acc": "0001437749-26-037055",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "QNTO",
+   "company": "QUAINT OAK BANCORP, INC.",
+   "insider": "CLARKE JAMES J",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 300.0,
+   "price": 15.45,
+   "value": 4635.0,
+   "acc": "0001437749-26-037055",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "CATX",
@@ -4960,11 +4960,6 @@
    "total_value": 165381.42
   },
   {
-   "ticker": "STRA",
-   "insiders": 2,
-   "total_value": 163118.2
-  },
-  {
    "ticker": "NSLR",
    "insiders": 2,
    "total_value": 145700.0
@@ -4980,14 +4975,14 @@
    "total_value": 128389.87
   },
   {
-   "ticker": "GSM",
-   "insiders": 2,
-   "total_value": 125600.47
-  },
-  {
    "ticker": "ENOV",
    "insiders": 2,
    "total_value": 124953.9
+  },
+  {
+   "ticker": "STRA",
+   "insiders": 2,
+   "total_value": 114269.2
   },
   {
    "ticker": "TRTX",
@@ -5038,8 +5033,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024444",
-  "0001999371-26-024462",
   "0001999371-26-024469",
   "0001999371-26-024471",
   "0001999371-26-024476",
@@ -5127,6 +5120,7 @@
   "0001999371-26-025440",
   "0001999371-26-025443",
   "0001999371-26-025447",
+  "0001999371-26-025452",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5248,6 +5242,7 @@
   "0002007420-26-000002",
   "0002007443-26-000005",
   "0002007678-26-000002",
+  "0002007691-26-000026",
   "0002007895-26-000016",
   "0002007897-26-000004",
   "0002007928-26-000003",
