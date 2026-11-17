@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-17 18:31 UTC",
+ "updated_utc": "2026-11-17 19:03 UTC",
  "purchases": [
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Appel Shelley F",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 600.0,
-   "price": 50.0,
-   "value": 30000.0,
-   "acc": "0001981193-26-000006",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "KLXE",
    "company": "KLX Energy Services Holdings, Inc.",
@@ -4386,6 +4374,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "HRNG",
+   "company": "HALLADOR ENERGY CO",
+   "insider": "Wesley Charles Ray IV",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 100000.0,
+   "price": 10.6971,
+   "value": 1069710.0,
+   "acc": "0001628280-26-074438",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "AKAM",
    "company": "AKAMAI TECHNOLOGIES INC",
    "insider": "LEIGHTON F THOMSON",
@@ -4936,11 +4936,6 @@
    "ticker": "GOOD",
    "insiders": 2,
    "total_value": 186264.37
-  },
-  {
-   "ticker": "MTDR",
-   "insiders": 2,
-   "total_value": 153225.0
   },
   {
    "ticker": "ENOV",
