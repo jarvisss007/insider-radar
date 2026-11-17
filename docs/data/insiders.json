@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-17 01:31 UTC",
+ "updated_utc": "2026-11-17 02:02 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-09",
-   "shares": 6.0,
-   "price": 2.85,
-   "value": 17.1,
-   "acc": "0001536588-26-000047",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "OSBC",
-   "company": "OLD SECOND BANCORP INC",
-   "insider": "Lyons Billy J Jr.",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 23.0,
-   "price": 24.88,
-   "value": 572.24,
-   "acc": "0001829064-26-000012",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-09",
-   "shares": 413.0,
-   "price": 2.2636,
-   "value": 934.87,
-   "acc": "0002109337-26-000015",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "FNRN",
-   "company": "FIRST NORTHERN COMMUNITY BANCORP",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 100.0,
-   "price": 16.93,
-   "value": 1693.0,
-   "acc": "0001437749-26-036642",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "BOTJ",
-   "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
-   "insider": "ADDISON LEWIS C",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 78.0,
-   "price": 24.92,
-   "value": 1943.76,
-   "acc": "0001437749-26-036049",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "GOOD",
    "company": "GLADSTONE COMMERCIAL CORP",
@@ -3296,6 +3236,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Lalor Angela S",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 374.0,
+   "price": 27.71,
+   "value": 10363.54,
+   "acc": "0001193125-26-464221",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "AEBI",
    "company": "Aebi Schmidt Holding AG",
    "insider": "Schroeder Henning",
@@ -3329,6 +3281,18 @@
    "price": 2.4382,
    "value": 13853.85,
    "acc": "0001072613-26-000907",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Lalor Angela S",
+   "role": "Director",
+   "date": "2026-11-12",
+   "shares": 500.0,
+   "price": 28.29,
+   "value": 14145.0,
+   "acc": "0001193125-26-464221",
    "filed": "2026-11-16"
   },
   {
@@ -3665,6 +3629,18 @@
    "price": 44.505,
    "value": 102227.99,
    "acc": "0001193125-26-462052",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 5261.0,
+   "price": 21.16,
+   "value": 111322.76,
+   "acc": "0001510281-26-000441",
    "filed": "2026-11-16"
   },
   {
@@ -4148,6 +4124,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "ENOV",
+   "company": "Enovis CORP",
+   "insider": "Lalor Angela S",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 880.0,
+   "price": 28.27,
+   "value": 24877.6,
+   "acc": "0001193125-26-464221",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "ADIG",
    "company": "ADI GLOBAL DISTRIBUTION INC.",
    "insider": "Cardazzi Marco",
@@ -4350,6 +4338,18 @@
    "value": 54910.0,
    "acc": "0001236849-26-000015",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-13",
+   "shares": 3412.0,
+   "price": 21.19,
+   "value": 72300.28,
+   "acc": "0001510281-26-000441",
+   "filed": "2026-11-16"
   },
   {
    "ticker": "ABCL",
@@ -4925,6 +4925,11 @@
    "total_value": 188838.12
   },
   {
+   "ticker": "ENOV",
+   "insiders": 2,
+   "total_value": 174340.04
+  },
+  {
    "ticker": "NXRT",
    "insiders": 2,
    "total_value": 144478.5
@@ -4938,11 +4943,6 @@
    "ticker": "CATX",
    "insiders": 5,
    "total_value": 128389.87
-  },
-  {
-   "ticker": "ENOV",
-   "insiders": 2,
-   "total_value": 124953.9
   },
   {
    "ticker": "TRTX",
@@ -5008,7 +5008,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024654",
   "0001999371-26-024665",
   "0001999371-26-024667",
   "0001999371-26-024673",
@@ -5749,6 +5748,7 @@
   "0002037144-26-000004",
   "0002037213-26-000007",
   "0002037266-26-000006",
+  "0002037266-26-000007",
   "0002037278-26-000008",
   "0002037312-26-000003",
   "0002037321-26-000003",
