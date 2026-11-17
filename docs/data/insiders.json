@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-17 14:46 UTC",
+ "updated_utc": "2026-11-17 15:02 UTC",
  "purchases": [
-  {
-   "ticker": "DTI",
-   "company": "Drilling Tools International Corp",
-   "insider": "Green Ira Harris Jr",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 12000.0,
-   "price": 1.64,
-   "value": 19680.0,
-   "acc": "0001193125-26-455731",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ASR",
-   "company": "SOUTHEAST AIRPORT GROUP",
-   "insider": "Perez Anton Jose Antonio",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 75.0,
-   "price": 266.69,
-   "value": 20001.75,
-   "acc": "0001104659-26-126429",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "PHIO",
    "company": "Phio Pharmaceuticals Corp.",
@@ -3187,6 +3163,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "VISN",
+   "company": "Vistance Networks, Inc.",
+   "insider": "Gilstrap Charles A",
+   "role": "SVP, Treasury, Tax & CAO",
+   "date": "2026-11-12",
+   "shares": 5000.0,
+   "price": 3.97,
+   "value": 19850.0,
+   "acc": "0001193125-26-464908",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "CCNE",
    "company": "CNB FINANCIAL CORP/PA",
    "insider": "POWELL JEFFREY S",
@@ -4519,6 +4507,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-16",
+   "shares": 38000.0,
+   "price": 0.135,
+   "value": 5130.0,
+   "acc": "0001493152-26-052742",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4834,6 +4834,11 @@
    "total_value": 1220285.0
   },
   {
+   "ticker": "VISN",
+   "insiders": 2,
+   "total_value": 1049105.0
+  },
+  {
    "ticker": "MX",
    "insiders": 2,
    "total_value": 957503.0
@@ -4906,7 +4911,7 @@
   {
    "ticker": "DTI",
    "insiders": 3,
-   "total_value": 228778.09
+   "total_value": 209098.09
   },
   {
    "ticker": "EGBN",
