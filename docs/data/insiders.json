@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-16 23:56 UTC",
+ "updated_utc": "2026-11-17 00:12 UTC",
  "purchases": [
-  {
-   "ticker": "SOPH",
-   "company": "SOPHiA GENETICS SA",
-   "insider": "CARDOZA GEORGE",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-06",
-   "shares": 20000.0,
-   "price": 7.06,
-   "value": 141200.0,
-   "acc": "0001840706-26-000352",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "SLQT",
-   "company": "SelectQuote, Inc.",
-   "insider": "Weldon Raymond F",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 409836.0,
-   "price": 0.49,
-   "value": 200819.64,
-   "acc": "0001794783-26-000094",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "UFCS",
    "company": "UNITED FIRE GROUP INC",
@@ -4724,6 +4700,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "HAWK",
+   "company": "HawkEye 360, Inc.",
+   "insider": "Searle Craig Chih-Meng",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-16",
+   "shares": 548.0,
+   "price": 18.25,
+   "value": 10001.0,
+   "acc": "0002127284-26-000008",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "NTWK",
    "company": "NETSOL TECHNOLOGIES INC",
    "insider": "GHAURI NAEEM",
@@ -4745,6 +4733,18 @@
    "price": 4.31,
    "value": 21550.0,
    "acc": "0001493152-26-052241",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "HAWK",
+   "company": "HawkEye 360, Inc.",
+   "insider": "Serafini John Sheldon",
+   "role": "President and CEO",
+   "date": "2026-11-16",
+   "shares": 1383.0,
+   "price": 17.8017,
+   "value": 24619.75,
+   "acc": "0002127288-26-000010",
    "filed": "2026-11-16"
   },
   {
@@ -4895,11 +4895,6 @@
    "total_value": 325602.92
   },
   {
-   "ticker": "SLQT",
-   "insiders": 2,
-   "total_value": 303361.16
-  },
-  {
    "ticker": "DTI",
    "insiders": 3,
    "total_value": 228778.09
@@ -4990,6 +4985,11 @@
    "total_value": 37786.6
   },
   {
+   "ticker": "HAWK",
+   "insiders": 2,
+   "total_value": 34620.75
+  },
+  {
    "ticker": "OVBC",
    "insiders": 2,
    "total_value": 4500.0
@@ -5008,9 +5008,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024599",
-  "0001999371-26-024613",
-  "0001999371-26-024615",
   "0001999371-26-024642",
   "0001999371-26-024644",
   "0001999371-26-024649",
@@ -6868,6 +6865,7 @@
   "0002078454-26-000014",
   "0002078454-26-000018",
   "0002078454-26-000020",
+  "0002078454-26-000023",
   "0002078488-26-000005",
   "0002078512-26-000004",
   "0002078559-26-000008",
@@ -7607,6 +7605,8 @@
   "0002127025-26-000007",
   "0002127119-26-000006",
   "0002127242-26-000008",
+  "0002127284-26-000008",
+  "0002127288-26-000010",
   "0002127293-26-000006",
   "0002127293-26-000010",
   "0002127293-26-000012",
