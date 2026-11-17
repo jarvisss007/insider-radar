@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-17 02:02 UTC",
+ "updated_utc": "2026-11-17 02:17 UTC",
  "purchases": [
-  {
-   "ticker": "GOOD",
-   "company": "GLADSTONE COMMERCIAL CORP",
-   "insider": "Beckhorn Jay",
-   "role": "Treasurer",
-   "date": "2026-11-09",
-   "shares": 250.0,
-   "price": 10.295,
-   "value": 2573.75,
-   "acc": "0001636435-26-000004",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "FNRN",
-   "company": "FIRST NORTHERN COMMUNITY BANCORP",
-   "insider": "Servat Jean-Luc",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 200.0,
-   "price": 16.78,
-   "value": 3356.0,
-   "acc": "0001437749-26-036642",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "DLPN",
-   "company": "Dolphin Entertainment, Inc.",
-   "insider": "O'Dowd William IV",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-09",
-   "shares": 5200.0,
-   "price": 0.95,
-   "value": 4940.0,
-   "acc": "0001079973-26-001439",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "OBIO",
    "company": "Orchestra BioMed Holdings, Inc.",
@@ -2876,6 +2840,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "SKYD",
+   "company": "Skydance Corp",
+   "insider": "Cardinale Gerald J.",
+   "role": "Director",
+   "date": "2026-11-11",
+   "shares": 63250.0,
+   "price": 7.9061,
+   "value": 500060.83,
+   "acc": "0000895345-26-000491",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "BLMN",
    "company": "Bloomin' Brands, Inc.",
    "insider": "Spanos Mike",
@@ -3569,6 +3545,18 @@
    "price": 5.44,
    "value": 54400.0,
    "acc": "0001493152-26-051932",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks Jabbok",
+   "role": "Founder & CEO",
+   "date": "2026-11-12",
+   "shares": 4068.0,
+   "price": 15.38,
+   "value": 62565.84,
+   "acc": "0000950103-26-017583",
    "filed": "2026-11-16"
   },
   {
@@ -4568,6 +4556,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "SKYD",
+   "company": "Skydance Corp",
+   "insider": "Cardinale Gerald J.",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 66400.0,
+   "price": 7.5388,
+   "value": 500576.32,
+   "acc": "0000895345-26-000491",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
    "insider": "Saba Capital Management, L.P.",
@@ -4842,7 +4842,7 @@
   {
    "ticker": "EQPT",
    "insiders": 2,
-   "total_value": 804105.04
+   "total_value": 866670.88
   },
   {
    "ticker": "ABCL",
@@ -4921,8 +4921,8 @@
   },
   {
    "ticker": "GOOD",
-   "insiders": 3,
-   "total_value": 188838.12
+   "insiders": 2,
+   "total_value": 186264.37
   },
   {
    "ticker": "ENOV",
