@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-17 23:19 UTC",
+ "updated_utc": "2026-11-17 23:34 UTC",
  "purchases": [
-  {
-   "ticker": "AQST",
-   "company": "Aquestive Therapeutics, Inc.",
-   "insider": "Daly Richard J",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 1200.0,
-   "price": 3.53,
-   "value": 4236.0,
-   "acc": "0001214659-26-014004",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-10",
-   "shares": 2058.0,
-   "price": 2.3128,
-   "value": 4759.74,
-   "acc": "0002109337-26-000015",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-11-10",
-   "shares": 39000.0,
-   "price": 0.138,
-   "value": 5382.0,
-   "acc": "0001493152-26-051199",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "DOX",
-   "company": "AMDOCS LTD",
-   "insider": "MORALI VERONIQUE",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 134.0,
-   "price": 41.31,
-   "value": 5535.54,
-   "acc": "0001193125-26-457426",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "PHIO",
-   "company": "Phio Pharmaceuticals Corp.",
-   "insider": "Deming David H",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 6800.0,
-   "price": 0.8395,
-   "value": 5708.6,
-   "acc": "0001683168-26-008544",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "FMBM",
    "company": "F&M BANK CORP",
@@ -3124,6 +3064,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "FISN",
+   "company": "DEEP FISSION, INC.",
+   "insider": "Peres Mark Wayne",
+   "role": "Chief Nuclear Officer",
+   "date": "2026-11-13",
+   "shares": 2525.252,
+   "price": 1.98,
+   "value": 5000.0,
+   "acc": "0001104659-26-129201",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "CRVS",
    "company": "Corvus Pharmaceuticals, Inc.",
    "insider": "Arcara Jeffrey",
@@ -3374,6 +3326,18 @@
    "price": 3.63,
    "value": 31022.31,
    "acc": "0001161697-26-000258",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "FISN",
+   "company": "DEEP FISSION, INC.",
+   "insider": "Muller Richard",
+   "role": "Chief Technology Officer",
+   "date": "2026-11-13",
+   "shares": 15000.0,
+   "price": 2.1131,
+   "value": 31696.5,
+   "acc": "0001104659-26-129199",
    "filed": "2026-11-17"
   },
   {
@@ -4017,6 +3981,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "STUB",
+   "company": "StubHub Holdings, Inc.",
+   "insider": "Raab Andrew John",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 200000.0,
+   "price": 5.2811,
+   "value": 1056220.0,
+   "acc": "0001628280-26-074600",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "HRNG",
    "company": "HALLADOR ENERGY CO",
    "insider": "Wesley Charles Ray IV",
@@ -4243,6 +4219,18 @@
    "value": 10001.0,
    "acc": "0002127284-26-000008",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "FISN",
+   "company": "DEEP FISSION, INC.",
+   "insider": "JANOVER BLAKE",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 5000.0,
+   "price": 2.2158,
+   "value": 11079.0,
+   "acc": "0001104659-26-129202",
+   "filed": "2026-11-17"
   },
   {
    "ticker": "WVVI",
@@ -4665,6 +4653,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "STUB",
+   "company": "StubHub Holdings, Inc.",
+   "insider": "Raab Andrew John",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 200000.0,
+   "price": 4.9619,
+   "value": 992380.0,
+   "acc": "0001628280-26-074600",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "ANGX",
    "company": "Angel Studios, Inc.",
    "insider": "Sarowitz Steven I",
@@ -4961,14 +4961,14 @@
    "total_value": 149410.52
   },
   {
-   "ticker": "DOX",
-   "insiders": 3,
-   "total_value": 145230.53
-  },
-  {
    "ticker": "CATX",
    "insiders": 5,
    "total_value": 142435.87
+  },
+  {
+   "ticker": "DOX",
+   "insiders": 2,
+   "total_value": 139694.99
   },
   {
    "ticker": "URG",
@@ -4989,6 +4989,11 @@
    "ticker": "DX",
    "insiders": 2,
    "total_value": 75737.55
+  },
+  {
+   "ticker": "FISN",
+   "insiders": 4,
+   "total_value": 69387.5
   },
   {
    "ticker": "VANI",
@@ -5059,9 +5064,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-025471",
-  "0001999371-26-025483",
-  "0001999371-26-025593",
   "0001999371-26-025596",
   "0001999371-26-025603",
   "0001999371-26-025610",
@@ -5568,6 +5570,7 @@
   "0002028611-26-000018",
   "0002028611-26-000019",
   "0002028781-26-000012",
+  "0002028781-26-000014",
   "0002028916-26-000012",
   "0002028916-26-000013",
   "0002028916-26-000014",
@@ -5672,6 +5675,7 @@
   "0002033015-26-000004",
   "0002033015-26-000006",
   "0002033056-26-000016",
+  "0002033056-26-000017",
   "0002033348-26-000008",
   "0002033348-26-000012",
   "0002033348-26-000014",
@@ -5768,6 +5772,7 @@
   "0002038210-26-000002",
   "0002038311-26-000003",
   "0002038468-26-000012",
+  "0002038468-26-000014",
   "0002038687-26-000007",
   "0002038740-26-000010",
   "0002038740-26-000011",
