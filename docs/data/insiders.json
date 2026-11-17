@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-17 11:39 UTC",
+ "updated_utc": "2026-11-17 13:12 UTC",
  "purchases": [
-  {
-   "ticker": "BX",
-   "company": "Blackstone Inc.",
-   "insider": "Porat Ruth",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 84.338,
-   "price": 119.9245,
-   "value": 10114.19,
-   "acc": "0001193125-26-458686",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "KLNG",
    "company": "Koil Energy Solutions, Inc.",
@@ -4783,6 +4771,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "PCT",
+   "company": "PureCycle Technologies, Inc.",
+   "insider": "Olson Dustin",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-16",
+   "shares": 220000.0,
+   "price": 1.69,
+   "value": 371800.0,
+   "acc": "0001847079-26-000013",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "BRSP",
    "company": "BrightSpire Capital, Inc.",
    "insider": "Mazzei Michael",
@@ -4882,6 +4882,11 @@
    "ticker": "CSQR",
    "insiders": 4,
    "total_value": 488348.52
+  },
+  {
+   "ticker": "PCT",
+   "insiders": 2,
+   "total_value": 470296.0
   },
   {
    "ticker": "LRMR",
