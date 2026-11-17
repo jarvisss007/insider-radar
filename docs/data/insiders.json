@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-17 00:44 UTC",
+ "updated_utc": "2026-11-17 00:59 UTC",
  "purchases": [
-  {
-   "ticker": "GFS",
-   "company": "GLOBALFOUNDRIES Inc.",
-   "insider": "LAZAR JACK R",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 10000.0,
-   "price": 38.0,
-   "value": 380000.0,
-   "acc": "0001709048-26-000266",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "LUMN",
-   "company": "Lumen Technologies, Inc.",
-   "insider": "Johnson Kathleen E",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-06",
-   "shares": 100000.0,
-   "price": 3.9689,
-   "value": 396890.0,
-   "acc": "0000018926-26-000076",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "LBTY",
-   "company": "Liberty Global Ltd.",
-   "insider": "MALONE JOHN C",
-   "role": "10% owner",
-   "date": "2026-11-06",
-   "shares": 51296.0,
-   "price": 9.6836,
-   "value": 496729.95,
-   "acc": "0000937797-26-000037",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "CRH",
-   "company": "CRH PUBLIC LTD CO",
-   "insider": "FEARON RICHARD H",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 6000.0,
-   "price": 94.95,
-   "value": 569700.0,
-   "acc": "0000849395-26-000017",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "ADTN",
    "company": "ADTRAN Holdings, Inc.",
@@ -3632,6 +3584,18 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 2203.0,
+   "price": 10.3,
+   "value": 22690.9,
+   "acc": "0001510281-26-000436",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "AGRO",
    "company": "Adecoagro S.A.",
    "insider": "Deprati Christian Ferdinando Emilio",
@@ -4160,6 +4124,18 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-13",
+   "shares": 300.0,
+   "price": 10.21,
+   "value": 3063.0,
+   "acc": "0001510281-26-000436",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "CCNE",
    "company": "CNB FINANCIAL CORP/PA",
    "insider": "Peduzzi Michael D",
@@ -4652,6 +4628,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "KURA",
+   "company": "Kura Oncology, Inc.",
+   "insider": "WILSON TROY EDWARD",
+   "role": "President and CEO",
+   "date": "2026-11-13",
+   "shares": 98881.0,
+   "price": 7.63,
+   "value": 754462.03,
+   "acc": "0001193125-26-464166",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "AKAM",
    "company": "AKAMAI TECHNOLOGIES INC",
    "insider": "LEIGHTON F THOMSON",
@@ -4805,6 +4793,18 @@
    "price": 20.759,
    "value": 244956.2,
    "acc": "0000950142-26-003077",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "KURA",
+   "company": "Kura Oncology, Inc.",
+   "insider": "WILSON TROY EDWARD",
+   "role": "President and CEO",
+   "date": "2026-11-16",
+   "shares": 101119.0,
+   "price": 7.42,
+   "value": 750302.98,
+   "acc": "0001193125-26-464166",
    "filed": "2026-11-16"
   }
  ],
