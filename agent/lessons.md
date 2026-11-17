@@ -1880,3 +1880,8 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - strata.py lists NXGL and OBIO under "below the floor" at $0, not under unknown: "$0 open-market" parses as a number. The 11-11 lesson called OBIO `unknown`; the tool does not. Both are pending, so no hit rate is touched yet. For Anupam, not edited.
 - Forecast STWD at the Clause B base 0.2759 (16/58).
 - Lessons file read: tail only this run — disclosed.
+
+## 2026-11-17 [insider] — GARUDA (labs-morning-sweep, prep DONE 14/14)
+- 0 scored by hand (INS-018). Grader 11-16: QTEX, TRXB wrong. Scorecard 86/238; headline 40% (n=149), sub-floor 30% (n=88). n too small for any new lesson; nothing new to cite from attribution.csv.
+- 6 clusters logged QUEUED (VISN, PCT, ADIG, NGS, HAWK, NTWK). THE ACCOUNT: VISN entered, the next five withheld under PORT-010 headroom (8.05% > 8%). Write order decides which row gets the last headroom — the writer took them largest-first, so the account's insider sleeve is selected by cluster size, a rule nobody chose (Brain §30 shape). Noted, not changed.
+- Writer gap: passing `stale_quote=''` explicitly is stored as blank instead of being computed. Fixed on today's six from --check within the minute. A proposal for Anupam: append_call should treat an empty string like a missing key.
