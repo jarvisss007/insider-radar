@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-17 23:03 UTC",
+ "updated_utc": "2026-11-17 23:19 UTC",
  "purchases": [
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-10",
-   "shares": 249.0,
-   "price": 2.4,
-   "value": 597.6,
-   "acc": "0001178579-26-000024",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "LUCK",
-   "company": "Lucky Strike Entertainment Corp",
-   "insider": "Young John Alan",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 1100.0,
-   "price": 3.42,
-   "value": 3762.0,
-   "acc": "0001628280-26-073406",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "DOX",
-   "company": "AMDOCS LTD",
-   "insider": "MacDonald John Anthony",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 100.0,
-   "price": 41.625,
-   "value": 4162.5,
-   "acc": "0001193125-26-457435",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "AQST",
    "company": "Aquestive Therapeutics, Inc.",
@@ -4173,6 +4137,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "ICU",
+   "company": "SeaStar Medical Holding Corp",
+   "insider": "Messinger Michael",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-16",
+   "shares": 2500.0,
+   "price": 0.8498,
+   "value": 2124.5,
+   "acc": "0001437749-26-037445",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "DAIO",
    "company": "DATA I/O CORP",
    "insider": "Red Oak Partners, LLC",
@@ -4206,6 +4182,18 @@
    "price": 0.135,
    "value": 5130.0,
    "acc": "0001493152-26-052742",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "ICU",
+   "company": "SeaStar Medical Holding Corp",
+   "insider": "Chung Kevin",
+   "role": "Chief Medical Officer",
+   "date": "2026-11-16",
+   "shares": 7800.0,
+   "price": 0.8448,
+   "value": 6589.44,
+   "acc": "0001437749-26-037444",
    "filed": "2026-11-17"
   },
   {
@@ -4326,6 +4314,18 @@
    "price": 1.0,
    "value": 18782.0,
    "acc": "0001878313-26-000106",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "LCTX",
+   "company": "Lineage Cell Therapeutics, Inc.",
+   "insider": "ANDREWS DEBORAH J",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 25000.0,
+   "price": 0.8,
+   "value": 20000.0,
+   "acc": "0001193125-26-465809",
    "filed": "2026-11-17"
   },
   {
@@ -4963,7 +4963,7 @@
   {
    "ticker": "DOX",
    "insiders": 3,
-   "total_value": 149393.03
+   "total_value": 145230.53
   },
   {
    "ticker": "CATX",
@@ -5006,6 +5006,11 @@
    "total_value": 59525.1
   },
   {
+   "ticker": "LCTX",
+   "insiders": 2,
+   "total_value": 57098.0
+  },
+  {
    "ticker": "NTWK",
    "insiders": 2,
    "total_value": 38670.0
@@ -5019,6 +5024,11 @@
    "ticker": "DAVI",
    "insiders": 2,
    "total_value": 27470.0
+  },
+  {
+   "ticker": "ICU",
+   "insiders": 2,
+   "total_value": 8713.94
   },
   {
    "ticker": "TRST",
@@ -5049,9 +5059,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-025447",
-  "0001999371-26-025452",
-  "0001999371-26-025457",
   "0001999371-26-025471",
   "0001999371-26-025483",
   "0001999371-26-025593",
@@ -7295,6 +7302,7 @@
   "0002109272-26-000008",
   "0002109272-26-000010",
   "0002109272-26-000012",
+  "0002109272-26-000014",
   "0002109299-26-000009",
   "0002109337-26-000010",
   "0002109337-26-000011",
@@ -7689,6 +7697,7 @@
   "0002130035-26-000006",
   "0002130035-26-000007",
   "0002130035-26-000008",
+  "0002130035-26-000009",
   "0002130205-26-000002",
   "0002130209-26-000006",
   "0002130246-26-000003",
@@ -7845,6 +7854,7 @@
   "0002145730-26-000004",
   "0002145730-26-000006",
   "0002145764-26-000004",
+  "0002145960-26-000004",
   "0002146263-26-000003",
   "0002146263-26-000005",
   "0002146309-26-000004",
