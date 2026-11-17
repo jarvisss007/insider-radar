@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-17 15:50 UTC",
+ "updated_utc": "2026-11-17 16:06 UTC",
  "purchases": [
-  {
-   "ticker": "DTI",
-   "company": "Drilling Tools International Corp",
-   "insider": "Green Ira Harris Jr",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 13000.0,
-   "price": 1.612,
-   "value": 20956.0,
-   "acc": "0001193125-26-455731",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
@@ -4723,6 +4711,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "NGS",
+   "company": "NATURAL GAS SERVICES GROUP INC",
+   "insider": "Jacobs Justin",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-16",
+   "shares": 3000.0,
+   "price": 28.602,
+   "value": 85806.0,
+   "acc": "0001464667-26-000005",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "HL",
    "company": "HECLA MINING CO/DE/",
    "insider": "Andres Dale",
@@ -4909,11 +4909,6 @@
    "total_value": 325602.92
   },
   {
-   "ticker": "DTI",
-   "insiders": 3,
-   "total_value": 209098.09
-  },
-  {
    "ticker": "EGBN",
    "insiders": 2,
    "total_value": 199429.35
@@ -4924,9 +4919,19 @@
    "total_value": 199102.64
   },
   {
+   "ticker": "NGS",
+   "insiders": 3,
+   "total_value": 192961.79
+  },
+  {
    "ticker": "WW",
    "insiders": 2,
    "total_value": 192750.0
+  },
+  {
+   "ticker": "DTI",
+   "insiders": 2,
+   "total_value": 188142.09
   },
   {
    "ticker": "GOOD",
@@ -4957,11 +4962,6 @@
    "ticker": "URG",
    "insiders": 2,
    "total_value": 129529.26
-  },
-  {
-   "ticker": "NGS",
-   "insiders": 2,
-   "total_value": 107155.79
   },
   {
    "ticker": "TRTX",
@@ -5017,7 +5017,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024833",
   "0001999371-26-024834",
   "0001999371-26-024835",
   "0001999371-26-024836",
@@ -5079,6 +5078,7 @@
   "0001999371-26-025483",
   "0001999371-26-025593",
   "0001999371-26-025596",
+  "0001999371-26-025603",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
