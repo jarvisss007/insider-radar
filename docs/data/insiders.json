@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-17 15:02 UTC",
+ "updated_utc": "2026-11-17 15:34 UTC",
  "purchases": [
-  {
-   "ticker": "PHIO",
-   "company": "Phio Pharmaceuticals Corp.",
-   "insider": "Bitterman Robert J",
-   "role": "Chairman, Pres. & CEO",
-   "date": "2026-11-09",
-   "shares": 25000.0,
-   "price": 0.82,
-   "value": 20500.0,
-   "acc": "0001683168-26-008469",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "DTI",
    "company": "Drilling Tools International Corp",
@@ -4111,6 +4099,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "NGS",
+   "company": "NATURAL GAS SERVICES GROUP INC",
+   "insider": "TRINGALI DONALD J",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 1700.0,
+   "price": 29.0387,
+   "value": 49365.79,
+   "acc": "0001199696-26-000008",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "ALT",
    "company": "Altimmune, Inc.",
    "insider": "Durso Jerome Benedict",
@@ -4959,6 +4959,11 @@
    "total_value": 129529.26
   },
   {
+   "ticker": "NGS",
+   "insiders": 2,
+   "total_value": 107155.79
+  },
+  {
    "ticker": "TRTX",
    "insiders": 2,
    "total_value": 80850.0
@@ -4982,11 +4987,6 @@
    "ticker": "HAWK",
    "insiders": 4,
    "total_value": 59525.1
-  },
-  {
-   "ticker": "PHIO",
-   "insiders": 2,
-   "total_value": 40388.8
   },
   {
    "ticker": "NTWK",
