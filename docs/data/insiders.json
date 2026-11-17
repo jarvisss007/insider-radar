@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-17 00:59 UTC",
+ "updated_utc": "2026-11-17 01:15 UTC",
  "purchases": [
-  {
-   "ticker": "ADTN",
-   "company": "ADTRAN Holdings, Inc.",
-   "insider": "STANTON THOMAS R",
-   "role": "Chairman & CEO",
-   "date": "2026-11-06",
-   "shares": 150000.0,
-   "price": 4.006,
-   "value": 600900.0,
-   "acc": "0001193125-26-454019",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "Amoruso Cristiano",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 268009.0,
-   "price": 2.3586,
-   "value": 632126.03,
-   "acc": "0001193125-26-455960",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "MDGL",
-   "company": "MADRIGAL PHARMACEUTICALS, INC.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 2000.0,
-   "price": 396.61,
-   "value": 793220.0,
-   "acc": "0001193125-26-452132",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "TXO",
-   "company": "TXO Partners, L.P.",
-   "insider": "SIMPSON BOB R",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 67111.0,
-   "price": 12.9733,
-   "value": 870651.14,
-   "acc": "0001182684-26-000022",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "CVS",
-   "company": "CVS HEALTH Corp",
-   "insider": "Shah Prem S",
-   "role": "EVP and Group President",
-   "date": "2026-11-06",
-   "shares": 23855.0,
-   "price": 83.895,
-   "value": 2001315.22,
-   "acc": "0000064803-26-000112",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "MDGL",
-   "company": "MADRIGAL PHARMACEUTICALS, INC.",
-   "insider": "BAKER BROS. ADVISORS LP",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 13740.0,
-   "price": 388.29,
-   "value": 5335104.6,
-   "acc": "0001193125-26-452132",
-   "filed": "2026-11-06"
-  },
-  {
-   "ticker": "FUN",
-   "company": "Six Flags Entertainment Corporation/NEW",
-   "insider": "JAFFER REHAN",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 700000.0,
-   "price": 10.0,
-   "value": 7000000.0,
-   "acc": "0001999001-26-000113",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "KEENOVA THERAPEUTICS PLC (CIK 1567892)",
    "company": "Keenova Therapeutics plc",
@@ -3836,6 +3752,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-12",
+   "shares": 32317.0,
+   "price": 5.54,
+   "value": 179036.18,
+   "acc": "0001510281-26-000437",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "ECL",
    "company": "ECOLAB INC.",
    "insider": "MacLennan David",
@@ -4532,6 +4460,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-13",
+   "shares": 25900.0,
+   "price": 5.49,
+   "value": 142191.0,
+   "acc": "0001510281-26-000437",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -4601,6 +4541,18 @@
    "price": 49.5,
    "value": 247500.0,
    "acc": "0001673358-26-000169",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "BRSP",
+   "company": "BrightSpire Capital, Inc.",
+   "insider": "Mazzei Michael",
+   "role": "CEO",
+   "date": "2026-11-13",
+   "shares": 80650.0,
+   "price": 3.11,
+   "value": 250821.5,
+   "acc": "0001598424-26-000011",
    "filed": "2026-11-16"
   },
   {
@@ -4690,6 +4642,18 @@
   {
    "ticker": "HAWK",
    "company": "HawkEye 360, Inc.",
+   "insider": "Fox Alex J",
+   "role": "Pres, HawkEye 360 Int'l",
+   "date": "2026-11-16",
+   "shares": 540.0,
+   "price": 18.41,
+   "value": 9941.4,
+   "acc": "0001322083-26-000009",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "HAWK",
+   "company": "HawkEye 360, Inc.",
    "insider": "Searle Craig Chih-Meng",
    "role": "Chief Financial Officer",
    "date": "2026-11-16",
@@ -4697,6 +4661,18 @@
    "price": 18.25,
    "value": 10001.0,
    "acc": "0002127284-26-000008",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "HAWK",
+   "company": "HawkEye 360, Inc.",
+   "insider": "Probert Todd",
+   "role": "Chief Operating Officer",
+   "date": "2026-11-16",
+   "shares": 811.0,
+   "price": 18.45,
+   "value": 14962.95,
+   "acc": "0001832883-26-000008",
    "filed": "2026-11-16"
   },
   {
@@ -4784,6 +4760,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "MP",
+   "company": "MP Materials Corp. / DE",
+   "insider": "Corbett Ryan",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-16",
+   "shares": 3500.0,
+   "price": 36.75,
+   "value": 128625.0,
+   "acc": "0001831686-26-000012",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "FPS",
    "company": "Forgent Power Solutions, Inc.",
    "insider": "Hottinger Tyson",
@@ -4793,6 +4781,18 @@
    "price": 20.759,
    "value": 244956.2,
    "acc": "0000950142-26-003077",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "BRSP",
+   "company": "BrightSpire Capital, Inc.",
+   "insider": "Mazzei Michael",
+   "role": "CEO",
+   "date": "2026-11-16",
+   "shares": 228463.0,
+   "price": 3.28,
+   "value": 749358.64,
+   "acc": "0001598424-26-000011",
    "filed": "2026-11-16"
   },
   {
@@ -4822,7 +4822,7 @@
   {
    "ticker": "MP",
    "insiders": 3,
-   "total_value": 3353605.68
+   "total_value": 3482230.68
   },
   {
    "ticker": "FIP",
@@ -4970,6 +4970,11 @@
    "total_value": 62269.2
   },
   {
+   "ticker": "HAWK",
+   "insiders": 4,
+   "total_value": 59525.1
+  },
+  {
    "ticker": "PHIO",
    "insiders": 3,
    "total_value": 55577.8
@@ -4983,11 +4988,6 @@
    "ticker": "CCNE",
    "insiders": 2,
    "total_value": 37786.6
-  },
-  {
-   "ticker": "HAWK",
-   "insiders": 2,
-   "total_value": 34620.75
   },
   {
    "ticker": "OVBC",
