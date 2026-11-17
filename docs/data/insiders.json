@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-17 19:35 UTC",
+ "updated_utc": "2026-11-17 20:07 UTC",
  "purchases": [
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 4000.0,
-   "price": 8.24,
-   "value": 32960.0,
-   "acc": "0000947871-26-001011",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "DOX",
-   "company": "AMDOCS LTD",
-   "insider": "Davis Sarah R.",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 822.0,
-   "price": 42.7341,
-   "value": 35127.43,
-   "acc": "0001193125-26-457443",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-11-09",
-   "shares": 11376.0,
-   "price": 3.21,
-   "value": 36516.96,
-   "acc": "0000912282-26-001461",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "Heshmatpour Amir F",
-   "role": "CEO, President",
-   "date": "2026-11-09",
-   "shares": 10000.0,
-   "price": 3.86,
-   "value": 38600.0,
-   "acc": "0001213900-26-117660",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-09",
-   "shares": 9464.0,
-   "price": 4.2855,
-   "value": 40557.97,
-   "acc": "0001193125-26-456831",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "NXRT",
    "company": "NexPoint Residential Trust, Inc.",
@@ -4086,6 +4026,30 @@
    "filed": "2026-11-13"
   },
   {
+   "ticker": "CWGL",
+   "company": "Crimson Wine Group, Ltd",
+   "insider": "Cumming John D.",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 18212.0,
+   "price": 3.85,
+   "value": 70116.2,
+   "acc": "0001628280-26-074448",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "CWGL",
+   "company": "Crimson Wine Group, Ltd",
+   "insider": "STEINBERG JOSEPH S",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 18213.0,
+   "price": 3.85,
+   "value": 70120.05,
+   "acc": "0001628280-26-074450",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4420,6 +4384,18 @@
    "value": 1349.91,
    "acc": "0001325533-26-000013",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "TRST",
+   "company": "TRUSTCO BANK CORP N Y",
+   "insider": "Silverman Frank B",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 30.0,
+   "price": 57.68,
+   "value": 1730.4,
+   "acc": "0000357301-26-000014",
+   "filed": "2026-11-17"
   },
   {
    "ticker": "DAIO",
@@ -4794,6 +4770,30 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "CWGL",
+   "company": "Crimson Wine Group, Ltd",
+   "insider": "STEINBERG JOSEPH S",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 8000.0,
+   "price": 3.82,
+   "value": 30560.0,
+   "acc": "0001628280-26-074450",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "CWGL",
+   "company": "Crimson Wine Group, Ltd",
+   "insider": "Cumming John D.",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 8000.0,
+   "price": 3.82,
+   "value": 30560.0,
+   "acc": "0001628280-26-074448",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "DAIO",
    "company": "DATA I/O CORP",
    "insider": "Wentworth William O.",
@@ -4865,7 +4865,7 @@
   {
    "ticker": "ETRA",
    "insiders": 2,
-   "total_value": 680270.0
+   "total_value": 647310.0
   },
   {
    "ticker": "TH",
@@ -4874,8 +4874,8 @@
   },
   {
    "ticker": "DOX",
-   "insiders": 7,
-   "total_value": 539350.96
+   "insiders": 6,
+   "total_value": 504223.53
   },
   {
    "ticker": "KGS",
@@ -4908,14 +4908,14 @@
    "total_value": 325602.92
   },
   {
+   "ticker": "CWGL",
+   "insiders": 2,
+   "total_value": 201356.25
+  },
+  {
    "ticker": "EGBN",
    "insiders": 2,
    "total_value": 199429.35
-  },
-  {
-   "ticker": "NTHI",
-   "insiders": 2,
-   "total_value": 199102.64
   },
   {
    "ticker": "NGS",
@@ -4936,6 +4936,11 @@
    "ticker": "GOOD",
    "insiders": 2,
    "total_value": 186264.37
+  },
+  {
+   "ticker": "NTHI",
+   "insiders": 2,
+   "total_value": 160502.64
   },
   {
    "ticker": "ENOV",
@@ -5003,6 +5008,11 @@
    "total_value": 27470.0
   },
   {
+   "ticker": "TRST",
+   "insiders": 2,
+   "total_value": 6659.06
+  },
+  {
    "ticker": "OVBC",
    "insiders": 2,
    "total_value": 4500.0
@@ -5026,8 +5036,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024838",
-  "0001999371-26-024840",
   "0001999371-26-024842",
   "0001999371-26-024843",
   "0001999371-26-024844",
@@ -5795,6 +5803,7 @@
   "0002040101-26-000002",
   "0002040255-26-000006",
   "0002040268-26-000006",
+  "0002040268-26-000008",
   "0002040321-26-000005",
   "0002040340-26-000002",
   "0002040340-26-000006",
@@ -6331,6 +6340,7 @@
   "0002070347-26-000011",
   "0002070347-26-000013",
   "0002070403-26-000013",
+  "0002070403-26-000018",
   "0002070664-26-000006",
   "0002070664-26-000007",
   "0002070839-26-000007",
