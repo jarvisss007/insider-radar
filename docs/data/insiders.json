@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-17 21:59 UTC",
+ "updated_utc": "2026-11-17 22:15 UTC",
  "purchases": [
-  {
-   "ticker": "DTI",
-   "company": "Drilling Tools International Corp",
-   "insider": "Prejean Robert Wayne",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-09",
-   "shares": 100000.0,
-   "price": 1.643,
-   "value": 164300.0,
-   "acc": "0001193125-26-455713",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ADTN",
-   "company": "ADTRAN Holdings, Inc.",
-   "insider": "STANTON THOMAS R",
-   "role": "Chairman & CEO",
-   "date": "2026-11-09",
-   "shares": 40000.0,
-   "price": 4.298,
-   "value": 171920.0,
-   "acc": "0001193125-26-458287",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "STLN",
-   "company": "Starling Oncology, Inc.",
-   "insider": "Chernett Jorey",
-   "role": "10% owner",
-   "date": "2026-11-09",
-   "shares": 48294.0,
-   "price": 3.65,
-   "value": 176273.1,
-   "acc": "0000921895-26-003018",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "CNXN",
-   "company": "PC CONNECTION INC",
-   "insider": "Zafirovski Matthew David",
-   "role": "President & COO",
-   "date": "2026-11-09",
-   "shares": 2490.0,
-   "price": 80.2,
-   "value": 199698.0,
-   "acc": "0002160413-26-000005",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ROK",
-   "company": "ROCKWELL AUTOMATION, INC",
-   "insider": "Moret Blake D.",
-   "role": "President and CEO",
-   "date": "2026-11-09",
-   "shares": 550.0,
-   "price": 387.4354,
-   "value": 213089.47,
-   "acc": "0001515154-26-000003",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "ALNY",
-   "company": "ALNYLAM PHARMACEUTICALS, INC.",
-   "insider": "SCHULMAN AMY W",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 1910.0,
-   "price": 156.82,
-   "value": 299526.2,
-   "acc": "0001178670-26-000085",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "BOLT",
-   "company": "Bolt Biotherapeutics, Inc.",
-   "insider": "Coastlands Capital LP",
-   "role": "10% owner",
-   "date": "2026-11-09",
-   "shares": 50000.0,
-   "price": 6.38,
-   "value": 319000.0,
-   "acc": "0001104659-26-125077",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "EXFY",
-   "company": "Expensify, Inc.",
-   "insider": "McLaughlin Steven J.",
-   "role": "10% owner",
-   "date": "2026-11-09",
-   "shares": 181553.0,
-   "price": 1.853,
-   "value": 336417.71,
-   "acc": "0000929638-26-004269",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "ROK",
    "company": "ROCKWELL AUTOMATION, INC",
@@ -3388,6 +3292,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "IPM",
+   "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
+   "insider": "Katz Jason",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 2000.0,
+   "price": 1.73,
+   "value": 3460.0,
+   "acc": "0001213900-26-121462",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "CCNE",
    "company": "CNB FINANCIAL CORP/PA",
    "insider": "Peduzzi Michael D",
@@ -3398,6 +3314,18 @@
    "value": 3565.0,
    "acc": "0001409722-26-000015",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "CVV",
+   "company": "CVD EQUIPMENT CORP",
+   "insider": "Cheesman Warren David",
+   "role": "Acting Chief Executive Officer",
+   "date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 4.1,
+   "value": 4100.0,
+   "acc": "0000766792-26-000014",
+   "filed": "2026-11-17"
   },
   {
    "ticker": "CRVS",
@@ -4137,6 +4065,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "CVV",
+   "company": "CVD EQUIPMENT CORP",
+   "insider": "AFRICK ANDREW",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 70793.0,
+   "price": 4.25,
+   "value": 300870.25,
+   "acc": "0000766792-26-000013",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "CRMD",
    "company": "CorMedix Inc.",
    "insider": "Todisco Joseph",
@@ -4278,6 +4218,18 @@
    "price": 5.0,
    "value": 43125000.0,
    "acc": "0001231919-26-001588",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "IPM",
+   "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
+   "insider": "Katz Jason",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-16",
+   "shares": 143.0,
+   "price": 1.7,
+   "value": 243.1,
+   "acc": "0001213900-26-121462",
    "filed": "2026-11-17"
   },
   {
@@ -4653,6 +4605,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "CVV",
+   "company": "CVD EQUIPMENT CORP",
+   "insider": "AFRICK ANDREW",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 37780.0,
+   "price": 4.49,
+   "value": 169632.2,
+   "acc": "0000766792-26-000013",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "BRC Group Holdings, Inc.",
@@ -4749,6 +4713,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "IPM",
+   "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
+   "insider": "Katz Jason",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-17",
+   "shares": 7857.0,
+   "price": 1.75,
+   "value": 13749.75,
+   "acc": "0001213900-26-121462",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "LSAK",
    "company": "LESAKA TECHNOLOGIES INC",
    "insider": "Smith Daniel Luke",
@@ -4794,6 +4770,30 @@
    "price": 2.5399,
    "value": 50798.0,
    "acc": "0000351998-26-000020",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "NPCE",
+   "company": "NeuroPace Inc",
+   "insider": "Williams Patrick F.",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-17",
+   "shares": 11891.0,
+   "price": 8.3381,
+   "value": 99148.35,
+   "acc": "0001562229-26-000007",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "NPCE",
+   "company": "NeuroPace Inc",
+   "insider": "Becker Joel",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-11-17",
+   "shares": 11891.0,
+   "price": 8.3503,
+   "value": 99293.42,
+   "acc": "0001533175-26-000018",
    "filed": "2026-11-17"
   },
   {
@@ -4891,6 +4891,11 @@
    "total_value": 488348.52
   },
   {
+   "ticker": "CVV",
+   "insiders": 2,
+   "total_value": 474602.45
+  },
+  {
    "ticker": "PCT",
    "insiders": 2,
    "total_value": 470296.0
@@ -4936,6 +4941,11 @@
    "total_value": 199429.35
   },
   {
+   "ticker": "NPCE",
+   "insiders": 2,
+   "total_value": 198441.77
+  },
+  {
    "ticker": "NGS",
    "insiders": 3,
    "total_value": 192961.79
@@ -4944,11 +4954,6 @@
    "ticker": "WW",
    "insiders": 2,
    "total_value": 192750.0
-  },
-  {
-   "ticker": "DTI",
-   "insiders": 2,
-   "total_value": 188142.09
   },
   {
    "ticker": "NTHI",
@@ -5049,8 +5054,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-025343",
-  "0001999371-26-025398",
   "0001999371-26-025413",
   "0001999371-26-025414",
   "0001999371-26-025421",
@@ -6324,6 +6327,7 @@
   "0002069480-26-000006",
   "0002069605-26-000010",
   "0002069605-26-000012",
+  "0002069613-26-000007",
   "0002069798-26-000002",
   "0002069860-26-000010",
   "0002069860-26-000012",
@@ -8048,7 +8052,8 @@
   "0002163153-26-000002",
   "0002163322-26-000004",
   "0002163354-26-000004",
-  "0002163393-26-000004"
+  "0002163393-26-000004",
+  "0002164267-26-000010"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
