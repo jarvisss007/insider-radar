@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-17 19:03 UTC",
+ "updated_utc": "2026-11-17 19:19 UTC",
  "purchases": [
-  {
-   "ticker": "KLXE",
-   "company": "KLX Energy Services Holdings, Inc.",
-   "insider": "Bouthillette Max",
-   "role": "See Remarks",
-   "date": "2026-11-09",
-   "shares": 30000.0,
-   "price": 1.02,
-   "value": 30600.0,
-   "acc": "0001712741-26-000011",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
@@ -4804,6 +4792,18 @@
    "value": 6470.0,
    "acc": "0001566732-26-000002",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Wentworth William O.",
+   "role": "President",
+   "date": "2026-11-17",
+   "shares": 20000.0,
+   "price": 2.5399,
+   "value": 50798.0,
+   "acc": "0000351998-26-000020",
+   "filed": "2026-11-17"
   }
  ],
  "clusters": [
@@ -4956,6 +4956,11 @@
    "ticker": "URG",
    "insiders": 2,
    "total_value": 129529.26
+  },
+  {
+   "ticker": "DAIO",
+   "insiders": 2,
+   "total_value": 116024.73
   },
   {
    "ticker": "TRTX",
