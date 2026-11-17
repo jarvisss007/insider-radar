@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-17 22:47 UTC",
+ "updated_utc": "2026-11-17 23:03 UTC",
  "purchases": [
-  {
-   "ticker": "JYNT",
-   "company": "JOINT Corp",
-   "insider": "JOBSON CHARLES E",
-   "role": "10% owner",
-   "date": "2026-11-09",
-   "shares": 236116.0,
-   "price": 6.65,
-   "value": 1570171.4,
-   "acc": "0001214659-26-014038",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "FUN",
-   "company": "Six Flags Entertainment Corporation/NEW",
-   "insider": "JAFFER REHAN",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 350000.0,
-   "price": 10.86,
-   "value": 3801000.0,
-   "acc": "0001999001-26-000113",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "PSEC",
-   "company": "PROSPECT CAPITAL CORP",
-   "insider": "Barry John F",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-11-09",
-   "shares": 2604262.0,
-   "price": 1.5082,
-   "value": 3927747.95,
-   "acc": "0001294357-26-000020",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "OFIX",
-   "company": "Orthofix Medical Inc.",
-   "insider": "Juniper Investment Company, LLC",
-   "role": "10% owner",
-   "date": "2026-11-09",
-   "shares": 675000.0,
-   "price": 7.4111,
-   "value": 5002492.5,
-   "acc": "0001794034-26-000008",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
@@ -3256,6 +3208,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "AWRE",
+   "company": "AWARE INC /MA/",
+   "insider": "Amlani Ajay K",
+   "role": "President & CEO",
+   "date": "2026-11-13",
+   "shares": 11000.0,
+   "price": 0.96,
+   "value": 10560.0,
+   "acc": "0001193125-26-465790",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "MSC",
    "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
    "insider": "HO LAWRENCE YAU LUNG",
@@ -3386,6 +3350,18 @@
    "value": 28750.0,
    "acc": "0001445826-26-000019",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "AOMR",
+   "company": "Angel Oak Mortgage REIT, Inc.",
+   "insider": "JONES CRAIG B",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 5000.0,
+   "price": 5.9411,
+   "value": 29705.5,
+   "acc": "0001766478-26-000078",
+   "filed": "2026-11-17"
   },
   {
    "ticker": "AGMB",
@@ -3810,6 +3786,18 @@
    "value": 110200.0,
    "acc": "0001339396-26-000088",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "OPEN",
+   "company": "Opendoor Technologies Inc.",
+   "insider": "HAMILTON DANA",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 100000.0,
+   "price": 1.25,
+   "value": 125000.0,
+   "acc": "0001195975-26-000007",
+   "filed": "2026-11-17"
   },
   {
    "ticker": "SPCB",
@@ -4545,6 +4533,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "OPEN",
+   "company": "Opendoor Technologies Inc.",
+   "insider": "HAMILTON DANA",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 100000.0,
+   "price": 1.1699,
+   "value": 116990.0,
+   "acc": "0001195975-26-000007",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "HL",
    "company": "HECLA MINING CO/DE/",
    "insider": "Andres Dale",
@@ -5049,7 +5049,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-025443",
   "0001999371-26-025447",
   "0001999371-26-025452",
   "0001999371-26-025457",
@@ -5249,6 +5248,7 @@
   "0002010494-26-000014",
   "0002010502-26-000010",
   "0002010805-26-000007",
+  "0002010953-26-000002",
   "0002011077-26-000005",
   "0002011100-26-000006",
   "0002011118-26-000008",
