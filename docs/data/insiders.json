@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-17 10:05 UTC",
+ "updated_utc": "2026-11-17 11:39 UTC",
  "purchases": [
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "CHEN THOMAS C",
-   "role": "CMO",
-   "date": "2026-11-09",
-   "shares": 2732.0,
-   "price": 3.66,
-   "value": 9999.12,
-   "acc": "0001213900-26-118289",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "AIG",
-   "company": "AMERICAN INTERNATIONAL GROUP, INC.",
-   "insider": "Inglis John C",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 127.5309,
-   "price": 78.4123,
-   "value": 9999.99,
-   "acc": "0001657175-26-000013",
-   "filed": "2026-11-09"
-  },
   {
    "ticker": "BX",
    "company": "Blackstone Inc.",
@@ -4711,6 +4687,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "RNXT",
+   "company": "RenovoRx, Inc.",
+   "insider": "Agah Ramtin",
+   "role": "Executive Chairman and CMO",
+   "date": "2026-11-16",
+   "shares": 50000.0,
+   "price": 0.9297,
+   "value": 46485.0,
+   "acc": "0001493152-26-052696",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
    "insider": "LEE CHAE",
@@ -4769,6 +4757,18 @@
    "value": 128625.0,
    "acc": "0001831686-26-000012",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "BW",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "insider": "BRC Group Holdings, Inc.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 50000.0,
+   "price": 4.24,
+   "value": 212000.0,
+   "acc": "0001213900-26-121073",
+   "filed": "2026-11-17"
   },
   {
    "ticker": "FPS",
@@ -4839,6 +4839,11 @@
    "total_value": 957503.0
   },
   {
+   "ticker": "BW",
+   "insiders": 4,
+   "total_value": 950332.5
+  },
+  {
    "ticker": "HPP",
    "insiders": 3,
    "total_value": 905762.3
@@ -4852,11 +4857,6 @@
    "ticker": "ABCL",
    "insiders": 2,
    "total_value": 796358.1
-  },
-  {
-   "ticker": "BW",
-   "insiders": 4,
-   "total_value": 738332.5
   },
   {
    "ticker": "ETRA",
@@ -4904,14 +4904,14 @@
    "total_value": 228778.09
   },
   {
-   "ticker": "NTHI",
-   "insiders": 2,
-   "total_value": 209101.76
-  },
-  {
    "ticker": "EGBN",
    "insiders": 2,
    "total_value": 199429.35
+  },
+  {
+   "ticker": "NTHI",
+   "insiders": 2,
+   "total_value": 199102.64
   },
   {
    "ticker": "MTDR",
