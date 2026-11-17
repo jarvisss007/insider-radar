@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-17 14:15 UTC",
+ "updated_utc": "2026-11-17 14:31 UTC",
  "purchases": [
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Ehrman Monika U",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 339.0,
-   "price": 50.1,
-   "value": 16983.9,
-   "acc": "0001786877-26-000007",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "DTI",
    "company": "Drilling Tools International Corp",
@@ -3751,6 +3739,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "GAIA",
+   "company": "GAIA, INC",
+   "insider": "Sutherland Paul Howard",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 1.27,
+   "value": 1270.0,
+   "acc": "0001193125-26-464870",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "OWLS",
    "company": "OBOOK HOLDINGS INC.",
    "insider": "WANG CHUN KAI",
@@ -4919,11 +4919,6 @@
    "total_value": 199102.64
   },
   {
-   "ticker": "MTDR",
-   "insiders": 3,
-   "total_value": 193911.4
-  },
-  {
    "ticker": "WW",
    "insiders": 2,
    "total_value": 192750.0
@@ -4932,6 +4927,11 @@
    "ticker": "GOOD",
    "insiders": 2,
    "total_value": 186264.37
+  },
+  {
+   "ticker": "MTDR",
+   "insiders": 2,
+   "total_value": 176927.5
   },
   {
    "ticker": "ENOV",
@@ -5012,7 +5012,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024832",
   "0001999371-26-024833",
   "0001999371-26-024834",
   "0001999371-26-024835",
@@ -7514,6 +7513,7 @@
   "0002120516-26-000015",
   "0002120516-26-000016",
   "0002120516-26-000018",
+  "0002120516-26-000019",
   "0002120696-26-000002",
   "0002120714-26-000004",
   "0002120865-26-000007",
