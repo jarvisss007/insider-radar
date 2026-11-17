@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-17 13:59 UTC",
+ "updated_utc": "2026-11-17 14:15 UTC",
  "purchases": [
-  {
-   "ticker": "PHIO",
-   "company": "Phio Pharmaceuticals Corp.",
-   "insider": "Plott Ronald Todd",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 18300.0,
-   "price": 0.83,
-   "value": 15189.0,
-   "acc": "0001683168-26-008471",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
@@ -4531,6 +4519,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-16",
+   "shares": 8370.0,
+   "price": 0.8081,
+   "value": 6763.8,
+   "acc": "0001493152-26-052719",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "HAWK",
    "company": "HawkEye 360, Inc.",
    "insider": "Fox Alex J",
@@ -4980,8 +4980,8 @@
   },
   {
    "ticker": "PHIO",
-   "insiders": 3,
-   "total_value": 55577.8
+   "insiders": 2,
+   "total_value": 40388.8
   },
   {
    "ticker": "NTWK",
@@ -5012,7 +5012,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-024831",
   "0001999371-26-024832",
   "0001999371-26-024833",
   "0001999371-26-024834",
@@ -5075,6 +5074,7 @@
   "0001999371-26-025471",
   "0001999371-26-025483",
   "0001999371-26-025593",
+  "0001999371-26-025596",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
