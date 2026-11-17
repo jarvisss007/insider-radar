@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-17 21:11 UTC",
+ "updated_utc": "2026-11-17 21:27 UTC",
  "purchases": [
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 16000.0,
-   "price": 8.24,
-   "value": 131840.0,
-   "acc": "0000947871-26-001010",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-09",
-   "shares": 16000.0,
-   "price": 8.24,
-   "value": 131840.0,
-   "acc": "0000947871-26-001011",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
@@ -3846,6 +3822,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "FRPH",
+   "company": "FRP HOLDINGS, INC.",
+   "insider": "BAKER JOHN D II",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 2781.0,
+   "price": 18.45,
+   "value": 51309.45,
+   "acc": "0000897069-26-001942",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "NGS",
    "company": "NATURAL GAS SERVICES GROUP INC",
    "insider": "JACKSON JOHN EARL",
@@ -4605,6 +4593,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "FRPH",
+   "company": "FRP HOLDINGS, INC.",
+   "insider": "BAKER JOHN D II",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 2825.0,
+   "price": 18.45,
+   "value": 52121.25,
+   "acc": "0000897069-26-001942",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "PED",
    "company": "PEDEVCO CORP",
    "insider": "Howie John K",
@@ -4871,11 +4871,6 @@
    "total_value": 674762.3
   },
   {
-   "ticker": "ETRA",
-   "insiders": 2,
-   "total_value": 647310.0
-  },
-  {
    "ticker": "TH",
    "insiders": 2,
    "total_value": 562680.56
@@ -4896,6 +4891,11 @@
    "total_value": 470296.0
   },
   {
+   "ticker": "ETRA",
+   "insiders": 2,
+   "total_value": 383630.0
+  },
+  {
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
@@ -4914,6 +4914,11 @@
    "ticker": "DOX",
    "insiders": 4,
    "total_value": 299123.03
+  },
+  {
+   "ticker": "FRPH",
+   "insiders": 2,
+   "total_value": 203501.98
   },
   {
    "ticker": "CWGL",
@@ -5039,9 +5044,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-025161",
-  "0001999371-26-025174",
-  "0001999371-26-025185",
   "0001999371-26-025189",
   "0001999371-26-025214",
   "0001999371-26-025219",
@@ -6605,6 +6607,9 @@
   "0002071844-26-001835",
   "0002071844-26-001842",
   "0002071844-26-001880",
+  "0002071844-26-001904",
+  "0002071844-26-001905",
+  "0002071844-26-001906",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
