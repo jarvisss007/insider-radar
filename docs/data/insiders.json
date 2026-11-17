@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-17 00:12 UTC",
+ "updated_utc": "2026-11-17 00:28 UTC",
  "purchases": [
-  {
-   "ticker": "UFCS",
-   "company": "UNITED FIRE GROUP INC",
-   "insider": "MILLIGAN GEORGE D",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 5000.0,
-   "price": 47.41,
-   "value": 237050.0,
-   "acc": "0001023710-26-000004",
-   "filed": "2026-11-09"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-06",
-   "shares": 39600.0,
-   "price": 7.85,
-   "value": 310860.0,
-   "acc": "0000947871-26-001010",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
@@ -3092,6 +3068,30 @@
    "filed": "2026-11-12"
   },
   {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 13587.0,
+   "price": 28.7336,
+   "value": 390403.42,
+   "acc": "0001104659-26-128662",
+   "filed": "2026-11-16"
+  },
+  {
+   "ticker": "CTEV",
+   "company": "Claritev Corp",
+   "insider": "ARES MANAGEMENT LLC",
+   "role": "10% owner",
+   "date": "2026-11-11",
+   "shares": 13587.0,
+   "price": 28.7336,
+   "value": 390403.42,
+   "acc": "0001104659-26-128661",
+   "filed": "2026-11-16"
+  },
+  {
    "ticker": "AUDAX PRIVATE CREDIT FUND, LLC (CIK 2033362)",
    "company": "Audax Private Credit Fund, LLC",
    "insider": "Audax Private Credit Business, LP",
@@ -4815,14 +4815,14 @@
    "total_value": 16711131.6
   },
   {
+   "ticker": "CTEV",
+   "insiders": 2,
+   "total_value": 3866362.85
+  },
+  {
    "ticker": "MP",
    "insiders": 3,
    "total_value": 3353605.68
-  },
-  {
-   "ticker": "CTEV",
-   "insiders": 2,
-   "total_value": 3085556.01
   },
   {
    "ticker": "FIP",
@@ -4830,14 +4830,14 @@
    "total_value": 1548950.0
   },
   {
-   "ticker": "ETRA",
-   "insiders": 2,
-   "total_value": 1334950.0
-  },
-  {
    "ticker": "COHR",
    "insiders": 2,
    "total_value": 1220285.0
+  },
+  {
+   "ticker": "ETRA",
+   "insiders": 2,
+   "total_value": 1024090.0
   },
   {
    "ticker": "HPP",
