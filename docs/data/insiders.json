@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-18 19:08 UTC",
+ "updated_utc": "2026-11-18 19:40 UTC",
  "purchases": [
-  {
-   "ticker": "MP",
-   "company": "MP Materials Corp. / DE",
-   "insider": "WEISENBURGER RANDALL J",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 55000.0,
-   "price": 36.0,
-   "value": 1980000.0,
-   "acc": "0001031609-26-000009",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "PSEC",
-   "company": "PROSPECT CAPITAL CORP",
-   "insider": "Barry John F",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-11-10",
-   "shares": 1410633.0,
-   "price": 1.5077,
-   "value": 2126811.37,
-   "acc": "0001294357-26-000020",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
@@ -4208,6 +4184,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 30557.0,
+   "price": 63.92,
+   "value": 1953203.44,
+   "acc": "0002022936-26-000019",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
    "company": "HPS Net Lease Income REIT",
    "insider": "Lehman David Andrew",
@@ -4724,6 +4712,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 32991.0,
+   "price": 62.41,
+   "value": 2058968.31,
+   "acc": "0002022936-26-000019",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "EAD",
    "company": "ALLSPRING INCOME OPPORTUNITIES FUND",
    "insider": "Miller Cindy J",
@@ -4820,6 +4820,11 @@
    "total_value": 16711131.6
   },
   {
+   "ticker": "PAM",
+   "insiders": 3,
+   "total_value": 5211048.0
+  },
+  {
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
    "insiders": 3,
    "total_value": 4100000.0
@@ -4828,16 +4833,6 @@
    "ticker": "STUB",
    "insiders": 2,
    "total_value": 3547771.0
-  },
-  {
-   "ticker": "MP",
-   "insiders": 3,
-   "total_value": 2386702.22
-  },
-  {
-   "ticker": "PAM",
-   "insiders": 3,
-   "total_value": 1198876.25
   },
   {
    "ticker": "BW",
@@ -4888,6 +4883,11 @@
    "ticker": "PCT",
    "insiders": 2,
    "total_value": 470296.0
+  },
+  {
+   "ticker": "MP",
+   "insiders": 2,
+   "total_value": 406702.22
   },
   {
    "ticker": "LRMR",
@@ -5052,7 +5052,6 @@
   }
  ],
  "seen": [
-  "0002000932-26-000015",
   "0002001011-26-000114",
   "0002001011-26-000115",
   "0002001011-26-000116",
@@ -5463,6 +5462,7 @@
   "0002022936-26-000016",
   "0002022936-26-000017",
   "0002022936-26-000018",
+  "0002022936-26-000019",
   "0002023036-26-000010",
   "0002023157-26-000005",
   "0002023175-26-000007",
