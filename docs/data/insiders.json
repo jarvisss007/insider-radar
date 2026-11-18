@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 20:43 UTC",
+ "updated_utc": "2026-11-18 20:59 UTC",
  "purchases": [
-  {
-   "ticker": "CLIK",
-   "company": "Click Holdings Ltd.",
-   "insider": "Chan Chun Sing",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-11",
-   "shares": 20000.0,
-   "price": 0.699,
-   "value": 13980.0,
-   "acc": "0001493152-26-051250",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
@@ -4352,6 +4340,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "BGH",
+   "company": "BARINGS GLOBAL SHORT DURATION HIGH YIELD FUND",
+   "insider": "Feeley Sean",
+   "role": "President",
+   "date": "2026-11-17",
+   "shares": 1000.0,
+   "price": 12.37,
+   "value": 12370.0,
+   "acc": "0001225208-26-009048",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "IPM",
    "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
    "insider": "Katz Jason",
@@ -5052,7 +5052,6 @@
   }
  ],
  "seen": [
-  "0002001011-26-000127",
   "0002001011-26-000128",
   "0002001011-26-000129",
   "0002001011-26-000132",
@@ -6593,6 +6592,7 @@
   "0002071844-26-001905",
   "0002071844-26-001906",
   "0002071844-26-001911",
+  "0002071844-26-001917",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
