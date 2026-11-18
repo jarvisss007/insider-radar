@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-18 22:34 UTC",
+ "updated_utc": "2026-11-18 22:50 UTC",
  "purchases": [
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks Jabbok",
-   "role": "Founder & CEO",
-   "date": "2026-11-11",
-   "shares": 16212.0,
-   "price": 15.42,
-   "value": 249989.04,
-   "acc": "0000950103-26-017397",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "BW",
-   "company": "Babcock & Wilcox Enterprises, Inc.",
-   "insider": "BRC Group Holdings, Inc.",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 60000.0,
-   "price": 4.9814,
-   "value": 298884.0,
-   "acc": "0001213900-26-118354",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "INDI",
-   "company": "indie Semiconductor, Inc.",
-   "insider": "ALDRICH DAVID J",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 130000.0,
-   "price": 2.3,
-   "value": 299000.0,
-   "acc": "0001025092-26-000012",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "WY",
-   "company": "WEYERHAEUSER CO",
-   "insider": "BECKWITT RICHARD",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 15000.0,
-   "price": 20.44,
-   "value": 306600.0,
-   "acc": "0001197193-26-000008",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "TH",
-   "company": "Target Hospitality Corp.",
-   "insider": "Archer James Bradley",
-   "role": "Director and CEO and President",
-   "date": "2026-11-11",
-   "shares": 27500.0,
-   "price": 11.37,
-   "value": 312675.0,
-   "acc": "0001712189-26-000063",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "EXFY",
    "company": "Expensify, Inc.",
@@ -3308,6 +3248,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "GLP",
+   "company": "GLOBAL PARTNERS LP",
+   "insider": "Global GP LLC",
+   "role": "",
+   "date": "2026-11-16",
+   "shares": 2227.0,
+   "price": 43.81,
+   "value": 97564.87,
+   "acc": "0001339396-26-000090",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "PLBY",
    "company": "Playboy, Inc.",
    "insider": "Docler Holding S.a r.l.",
@@ -4390,6 +4342,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "GLP",
+   "company": "GLOBAL PARTNERS LP",
+   "insider": "Global GP LLC",
+   "role": "",
+   "date": "2026-11-17",
+   "shares": 2417.0,
+   "price": 44.15,
+   "value": 106710.55,
+   "acc": "0001339396-26-000090",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "BOLT",
    "company": "Bolt Biotherapeutics, Inc.",
    "insider": "Coastlands Capital LP",
@@ -4462,6 +4426,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 26220.0,
+   "price": 5.43,
+   "value": 142374.6,
+   "acc": "0001510281-26-000450",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "UTG",
    "company": "REAVES UTILITY INCOME FUND",
    "insider": "GRIMES THOMAS MICHAEL",
@@ -4531,6 +4507,18 @@
    "price": 363.665,
    "value": 500039.38,
    "acc": "0001046179-26-000803",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "BA",
+   "company": "BOEING CO",
+   "insider": "JOHRI AKHIL",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 3000.0,
+   "price": 166.689,
+   "value": 500067.0,
+   "acc": "0001225208-26-009059",
    "filed": "2026-11-18"
   },
   {
@@ -4774,6 +4762,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "GLP",
+   "company": "GLOBAL PARTNERS LP",
+   "insider": "Global GP LLC",
+   "role": "",
+   "date": "2026-11-18",
+   "shares": 2458.0,
+   "price": 43.74,
+   "value": 107512.92,
+   "acc": "0001339396-26-000090",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -4842,29 +4842,19 @@
    "total_value": 943861.8
   },
   {
-   "ticker": "EQPT",
-   "insiders": 2,
-   "total_value": 866670.88
-  },
-  {
    "ticker": "ABCL",
    "insiders": 2,
    "total_value": 796358.1
   },
   {
+   "ticker": "EQPT",
+   "insiders": 2,
+   "total_value": 616681.84
+  },
+  {
    "ticker": "ITG",
    "insiders": 2,
    "total_value": 606850.0
-  },
-  {
-   "ticker": "BW",
-   "insiders": 3,
-   "total_value": 596484.0
-  },
-  {
-   "ticker": "TH",
-   "insiders": 2,
-   "total_value": 562680.56
   },
   {
    "ticker": "CRMD",
@@ -4900,6 +4890,11 @@
    "ticker": "NPCE",
    "insiders": 3,
    "total_value": 302103.02
+  },
+  {
+   "ticker": "BW",
+   "insiders": 3,
+   "total_value": 297600.0
   },
   {
    "ticker": "TRTX",
