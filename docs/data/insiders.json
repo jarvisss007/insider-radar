@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 16:47 UTC",
+ "updated_utc": "2026-11-18 17:03 UTC",
  "purchases": [
-  {
-   "ticker": "COHR",
-   "company": "COHERENT CORP.",
-   "insider": "Digirolomo Enrico",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 1000.0,
-   "price": 222.885,
-   "value": 222885.0,
-   "acc": "0000899140-26-001275",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "ATEC",
    "company": "Alphatec Holdings, Inc.",
@@ -4797,6 +4785,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Carus Jeffrey A",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 1000.0,
+   "price": 13.94,
+   "value": 13940.0,
+   "acc": "0000752642-26-000139",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -5016,6 +5016,11 @@
    "total_value": 37270.0
   },
   {
+   "ticker": "UMH",
+   "insiders": 3,
+   "total_value": 15939.94
+  },
+  {
    "ticker": "ICU",
    "insiders": 2,
    "total_value": 8713.94
@@ -5029,11 +5034,6 @@
    "ticker": "OVBC",
    "insiders": 2,
    "total_value": 4500.0
-  },
-  {
-   "ticker": "UMH",
-   "insiders": 2,
-   "total_value": 1999.94
   },
   {
    "ticker": "NSPR",
