@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-18 16:16 UTC",
+ "updated_utc": "2026-11-18 16:31 UTC",
  "purchases": [
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 20700.0,
-   "price": 8.45,
-   "value": 174915.0,
-   "acc": "0000947871-26-001010",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 20700.0,
-   "price": 8.45,
-   "value": 174915.0,
-   "acc": "0000947871-26-001011",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "HPP",
    "company": "Hudson Pacific Properties, Inc.",
@@ -4389,6 +4365,30 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "company": "John Hancock GA Mortgage Trust",
+   "insider": "Manufacturers Life Reinsurance Ltd",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 503732.9973,
+   "price": 17.866,
+   "value": 8999693.73,
+   "acc": "0001765496-26-000021",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "company": "John Hancock GA Mortgage Trust",
+   "insider": "Manulife (International) Ltd",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 1175376.9938,
+   "price": 17.866,
+   "value": 20999285.37,
+   "acc": "0001765518-26-000007",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "DAVI",
    "company": "DAVION HEALTHCARE PLC",
    "insider": "King Susan M",
@@ -4811,14 +4811,14 @@
  ],
  "clusters": [
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "insiders": 4,
+   "total_value": 39998638.8
+  },
+  {
    "ticker": "STWD",
    "insiders": 2,
    "total_value": 16711131.6
-  },
-  {
-   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "insiders": 2,
-   "total_value": 9999659.7
   },
   {
    "ticker": "STUB",
@@ -4889,11 +4889,6 @@
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
-  },
-  {
-   "ticker": "ETRA",
-   "insiders": 2,
-   "total_value": 349830.0
   },
   {
    "ticker": "ATEC",
@@ -5048,7 +5043,6 @@
   }
  ],
  "seen": [
-  "0002000487-26-000003",
   "0002000660-26-000004",
   "0002000932-26-000010",
   "0002000932-26-000015",
@@ -7483,6 +7477,7 @@
   "0002117905-26-000047",
   "0002117905-26-000048",
   "0002117905-26-000049",
+  "0002117905-26-000050",
   "0002117961-26-000002",
   "0002117999-26-000006",
   "0002118012-26-000003",
