@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-18 23:22 UTC",
+ "updated_utc": "2026-11-18 23:38 UTC",
  "purchases": [
-  {
-   "ticker": "HOS",
-   "company": "HORNBECK OFFSHORE SERVICES, INC.",
-   "insider": "HORNBECK TODD M",
-   "role": "PRESIDENT & CEO",
-   "date": "2026-11-11",
-   "shares": 91295.972,
-   "price": 5.477,
-   "value": 500028.04,
-   "acc": "0001284591-26-000002",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "SKYD",
-   "company": "Skydance Corp",
-   "insider": "Cardinale Gerald J.",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 63250.0,
-   "price": 7.9061,
-   "value": 500060.83,
-   "acc": "0000895345-26-000491",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "BLMN",
    "company": "Bloomin' Brands, Inc.",
@@ -4126,6 +4102,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "HAWK",
+   "company": "HawkEye 360, Inc.",
+   "insider": "Finelli Francis Alphonse",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 2700.0,
+   "price": 18.22,
+   "value": 49194.0,
+   "acc": "0002127442-26-000011",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "FFIN",
    "company": "FIRST FINANCIAL BANKSHARES INC",
    "insider": "Davis Sally Pope",
@@ -4423,6 +4411,18 @@
    "price": 32.09,
    "value": 160450.0,
    "acc": "0001976129-26-000001",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 35380.0,
+   "price": 5.77,
+   "value": 204142.6,
+   "acc": "0001510281-26-000453",
    "filed": "2026-11-18"
   },
   {
@@ -4952,6 +4952,11 @@
    "total_value": 116024.73
   },
   {
+   "ticker": "HAWK",
+   "insiders": 5,
+   "total_value": 108719.1
+  },
+  {
    "ticker": "TISI",
    "insiders": 2,
    "total_value": 107791.0
@@ -4970,11 +4975,6 @@
    "ticker": "VANI",
    "insiders": 2,
    "total_value": 67408.3
-  },
-  {
-   "ticker": "HAWK",
-   "insiders": 4,
-   "total_value": 59525.1
   },
   {
    "ticker": "LCTX",
@@ -5050,8 +5050,6 @@
   }
  ],
  "seen": [
-  "0002002763-26-000012",
-  "0002002763-26-000014",
   "0002002944-26-000004",
   "0002002965-26-000004",
   "0002003059-26-000008",
@@ -7633,6 +7631,7 @@
   "0002127293-26-000012",
   "0002127293-26-000013",
   "0002127311-26-000006",
+  "0002127442-26-000011",
   "0002127484-26-000012",
   "0002127484-26-000014",
   "0002127484-26-000015",
@@ -8049,7 +8048,8 @@
   "0002163354-26-000004",
   "0002163393-26-000004",
   "0002164267-26-000010",
-  "0002164576-26-000005"
+  "0002164576-26-000005",
+  "0002165834-26-000004"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
