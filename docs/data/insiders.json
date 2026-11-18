@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-18 20:59 UTC",
+ "updated_utc": "2026-11-18 21:15 UTC",
  "purchases": [
-  {
-   "ticker": "JOF",
-   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 1300.0,
-   "price": 10.8,
-   "value": 14040.0,
-   "acc": "0001510281-26-000433",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "CLIK",
-   "company": "Click Holdings Ltd.",
-   "insider": "Chan Chun Sing",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-11",
-   "shares": 20000.0,
-   "price": 0.7294,
-   "value": 14588.0,
-   "acc": "0001493152-26-051250",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "AUDC",
-   "company": "AUDIOCODES LTD",
-   "insider": "ADLERSBERG SHABTAI",
-   "role": "President and CEO",
-   "date": "2026-11-11",
-   "shares": 2000.0,
-   "price": 8.6673,
-   "value": 17334.6,
-   "acc": "0001976408-26-000938",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "URG",
-   "company": "UR-ENERGY INC",
-   "insider": "SMITH ROGER L.",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-11-11",
-   "shares": 30000.0,
-   "price": 0.651,
-   "value": 19530.0,
-   "acc": "0001654954-26-009738",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "TNXP",
-   "company": "Tonix Pharmaceuticals Holding Corp.",
-   "insider": "LEDERMAN SETH",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-11",
-   "shares": 5000.0,
-   "price": 4.055,
-   "value": 20275.0,
-   "acc": "0001493152-26-051200",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "FISN",
-   "company": "DEEP FISSION, INC.",
-   "insider": "Muller Elizabeth",
-   "role": "CEO, President",
-   "date": "2026-11-11",
-   "shares": 10000.0,
-   "price": 2.1612,
-   "value": 21612.0,
-   "acc": "0001104659-26-127276",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "LRMR",
    "company": "Larimar Therapeutics, Inc.",
@@ -3284,6 +3212,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "RWAY",
+   "company": "Runway Growth Finance Corp.",
+   "insider": "Thomson Carmela",
+   "role": "CFO, Treasurer and Secretary",
+   "date": "2026-11-16",
+   "shares": 1000.0,
+   "price": 6.67,
+   "value": 6670.0,
+   "acc": "0001104659-26-129699",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -3306,6 +3246,18 @@
    "value": 8390.0,
    "acc": "0001841761-26-000117",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "FLNA",
+   "company": "FILANA THERAPEUTICS, INC.",
+   "insider": "Schoen Eric",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-16",
+   "shares": 20000.0,
+   "price": 0.42,
+   "value": 8400.0,
+   "acc": "0001437749-26-037548",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "GF",
@@ -3896,6 +3848,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "FLNA",
+   "company": "FILANA THERAPEUTICS, INC.",
+   "insider": "Barry Richard",
+   "role": "President & CEO",
+   "date": "2026-11-16",
+   "shares": 440206.0,
+   "price": 0.47,
+   "value": 206896.82,
+   "acc": "0001437749-26-037553",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "BRC Group Holdings, Inc.",
@@ -4112,6 +4076,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "STWD",
+   "company": "STARWOOD PROPERTY TRUST, INC.",
+   "insider": "ZELNICK STRAUSS",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 172711.0,
+   "price": 11.7138,
+   "value": 2023102.11,
+   "acc": "0000905148-26-005029",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
    "company": "HPS Net Lease Income REIT",
    "insider": "Lehman David Andrew",
@@ -4265,6 +4241,18 @@
    "price": 0.7932,
    "value": 4277.73,
    "acc": "0001493152-26-053008",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "insider": "BURKE RUSSELL E III",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 1000.0,
+   "price": 4.815,
+   "value": 4815.0,
+   "acc": "0001628873-26-000114",
    "filed": "2026-11-18"
   },
   {
@@ -4784,6 +4772,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "ALT",
+   "company": "Altimmune, Inc.",
+   "insider": "MENZIUSO RICHARD THOMAS",
+   "role": "Principal Accounting Officer",
+   "date": "2026-11-18",
+   "shares": 10000.0,
+   "price": 1.4187,
+   "value": 14187.0,
+   "acc": "0002156820-26-000008",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -4816,8 +4816,8 @@
   },
   {
    "ticker": "STWD",
-   "insiders": 2,
-   "total_value": 16711131.6
+   "insiders": 3,
+   "total_value": 18734233.71
   },
   {
    "ticker": "PAM",
@@ -4915,6 +4915,11 @@
    "total_value": 238994.95
   },
   {
+   "ticker": "FLNA",
+   "insiders": 2,
+   "total_value": 215296.82
+  },
+  {
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 201356.25
@@ -4950,11 +4955,6 @@
    "total_value": 131450.0
   },
   {
-   "ticker": "URG",
-   "insiders": 2,
-   "total_value": 129529.26
-  },
-  {
    "ticker": "VISN",
    "insiders": 2,
    "total_value": 119820.0
@@ -4975,24 +4975,19 @@
    "total_value": 99478.34
   },
   {
+   "ticker": "ALT",
+   "insiders": 3,
+   "total_value": 80231.09
+  },
+  {
    "ticker": "DX",
    "insiders": 2,
    "total_value": 75737.55
   },
   {
-   "ticker": "FISN",
-   "insiders": 4,
-   "total_value": 69387.5
-  },
-  {
    "ticker": "VANI",
    "insiders": 2,
    "total_value": 67408.3
-  },
-  {
-   "ticker": "ALT",
-   "insiders": 2,
-   "total_value": 66044.09
   },
   {
    "ticker": "HAWK",
@@ -5003,6 +4998,11 @@
    "ticker": "LCTX",
    "insiders": 2,
    "total_value": 57098.0
+  },
+  {
+   "ticker": "FISN",
+   "insiders": 3,
+   "total_value": 47775.5
   },
   {
    "ticker": "NTWK",
@@ -5052,9 +5052,6 @@
   }
  ],
  "seen": [
-  "0002001011-26-000128",
-  "0002001011-26-000129",
-  "0002001011-26-000132",
   "0002001011-26-000133",
   "0002001011-26-000135",
   "0002001011-26-000137",
@@ -5343,6 +5340,7 @@
   "0002015793-26-000012",
   "0002015793-26-000014",
   "0002015841-26-000008",
+  "0002015929-26-000009",
   "0002015936-26-000025",
   "0002015950-26-000005",
   "0002015968-26-000006",
@@ -7203,6 +7201,7 @@
   "0002099112-26-000006",
   "0002099253-26-000006",
   "0002099292-26-000002",
+  "0002099318-26-000005",
   "0002099428-26-000005",
   "0002099510-26-000012",
   "0002099647-26-000002",
@@ -8006,6 +8005,7 @@
   "0002156505-26-000006",
   "0002156592-26-000002",
   "0002156811-26-000002",
+  "0002156820-26-000008",
   "0002157254-26-000004",
   "0002157254-26-000006",
   "0002157325-26-000004",
