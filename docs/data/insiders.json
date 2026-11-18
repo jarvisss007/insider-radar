@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-18 18:22 UTC",
+ "updated_utc": "2026-11-18 18:37 UTC",
  "purchases": [
-  {
-   "ticker": "HOS",
-   "company": "HORNBECK OFFSHORE SERVICES, INC.",
-   "insider": "HORNBECK TODD M",
-   "role": "PRESIDENT & CEO",
-   "date": "2026-11-10",
-   "shares": 189569.877,
-   "price": 5.275,
-   "value": 999981.1,
-   "acc": "0001284591-26-000002",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "BDSX",
-   "company": "BIODESIX INC",
-   "insider": "SCHULER JACK W",
-   "role": "10% owner",
-   "date": "2026-11-10",
-   "shares": 100000.0,
-   "price": 10.0199,
-   "value": 1001990.0,
-   "acc": "0000905148-26-004745",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "TXO",
-   "company": "TXO Partners, L.P.",
-   "insider": "SIMPSON BOB R",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 86796.0,
-   "price": 13.4857,
-   "value": 1170504.82,
-   "acc": "0001182684-26-000022",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "FIP",
-   "company": "FTAI Infrastructure Inc.",
-   "insider": "Nicholson Kenneth J.",
-   "role": "CEO and President",
-   "date": "2026-11-10",
-   "shares": 400000.0,
-   "price": 3.825,
-   "value": 1530000.0,
-   "acc": "0001899883-26-000044",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "CTEV",
    "company": "Claritev Corp",
@@ -3992,6 +3944,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
+   "company": "HPS Net Lease Income REIT",
+   "insider": "Leavitt David",
+   "role": "President",
+   "date": "2026-11-16",
+   "shares": 4000.0,
+   "price": 25.0,
+   "value": 100000.0,
+   "acc": "0001193125-26-466839",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "OPEN",
    "company": "Opendoor Technologies Inc.",
    "insider": "HAMILTON DANA",
@@ -4241,6 +4205,30 @@
    "price": 17.866,
    "value": 999965.97,
    "acc": "0001833683-26-000021",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
+   "company": "HPS Net Lease Income REIT",
+   "insider": "Koman James G.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-16",
+   "shares": 60000.0,
+   "price": 25.0,
+   "value": 1500000.0,
+   "acc": "0001193125-26-466820",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
+   "company": "HPS Net Lease Income REIT",
+   "insider": "Lehman David Andrew",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 100000.0,
+   "price": 25.0,
+   "value": 2500000.0,
+   "acc": "0001193125-26-466834",
    "filed": "2026-11-18"
   },
   {
@@ -4784,6 +4772,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "LAND",
+   "company": "GLADSTONE LAND Corp",
+   "insider": "Reiman William L",
+   "role": "Executive Vice President",
+   "date": "2026-11-18",
+   "shares": 500.0,
+   "price": 6.369,
+   "value": 3184.5,
+   "acc": "0002127991-26-000004",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Carus Jeffrey A",
@@ -4818,6 +4818,11 @@
    "ticker": "STWD",
    "insiders": 2,
    "total_value": 16711131.6
+  },
+  {
+   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
+   "insiders": 3,
+   "total_value": 4100000.0
   },
   {
    "ticker": "STUB",
@@ -5020,6 +5025,11 @@
    "total_value": 15939.94
   },
   {
+   "ticker": "LAND",
+   "insiders": 2,
+   "total_value": 9654.5
+  },
+  {
    "ticker": "ICU",
    "insiders": 2,
    "total_value": 8713.94
@@ -5042,8 +5052,6 @@
   }
  ],
  "seen": [
-  "0002000660-26-000004",
-  "0002000932-26-000010",
   "0002000932-26-000015",
   "0002001011-26-000114",
   "0002001011-26-000115",
@@ -6586,6 +6594,7 @@
   "0002071844-26-001904",
   "0002071844-26-001905",
   "0002071844-26-001906",
+  "0002071844-26-001911",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
@@ -7651,6 +7660,7 @@
   "0002127888-26-000004",
   "0002127908-26-000004",
   "0002127924-26-000015",
+  "0002127991-26-000004",
   "0002128025-26-000013",
   "0002128025-26-000015",
   "0002128038-26-000006",
