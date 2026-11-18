@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 16:00 UTC",
+ "updated_utc": "2026-11-18 16:16 UTC",
  "purchases": [
-  {
-   "ticker": "EGBN",
-   "company": "EAGLE BANCORP INC",
-   "insider": "Curley Stephen Russell",
-   "role": "President/CEO",
-   "date": "2026-11-10",
-   "shares": 4393.0,
-   "price": 34.05,
-   "value": 149581.65,
-   "acc": "0001441890-26-000007",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "ETRA",
    "company": "Electra Therapeutics, Inc.",
@@ -4389,6 +4377,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "company": "John Hancock GA Mortgage Trust",
+   "insider": "Manulife (Singapore) Pte. Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 503732.9973,
+   "price": 17.866,
+   "value": 8999693.73,
+   "acc": "0001837478-26-000019",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "DAVI",
    "company": "DAVION HEALTHCARE PLC",
    "insider": "King Susan M",
@@ -4814,6 +4814,11 @@
    "ticker": "STWD",
    "insiders": 2,
    "total_value": 16711131.6
+  },
+  {
+   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
+   "insiders": 2,
+   "total_value": 9999659.7
   },
   {
    "ticker": "STUB",
