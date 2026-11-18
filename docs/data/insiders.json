@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-18 21:31 UTC",
+ "updated_utc": "2026-11-18 21:47 UTC",
  "purchases": [
-  {
-   "ticker": "ENOV",
-   "company": "Enovis CORP",
-   "insider": "Wienbar Sharon L",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 900.0,
-   "price": 27.76,
-   "value": 24984.0,
-   "acc": "0001193125-26-458961",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "ENOV",
-   "company": "Enovis CORP",
-   "insider": "Lalor Angela S",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 870.0,
-   "price": 28.86,
-   "value": 25108.2,
-   "acc": "0001193125-26-458960",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "LUCK",
-   "company": "Lucky Strike Entertainment Corp",
-   "insider": "Young John Alan",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 8049.0,
-   "price": 3.39,
-   "value": 27286.11,
-   "acc": "0001628280-26-073406",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "RM",
    "company": "Regional Management Corp.",
@@ -3932,6 +3896,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "GPRK",
+   "company": "GeoPark Ltd",
+   "insider": "Gilinski Gabriel",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 43000.0,
+   "price": 9.1,
+   "value": 391300.0,
+   "acc": "0000950103-26-017792",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "DDD",
    "company": "3D SYSTEMS CORP",
    "insider": "KEVER JIM D",
@@ -4520,6 +4496,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "AROW",
+   "company": "ARROW FINANCIAL CORP",
+   "insider": "White Daniel James",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 2644.0,
+   "price": 37.76,
+   "value": 99837.44,
+   "acc": "0002045771-26-000010",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "OFRM",
    "company": "Once Upon a Farm, PBC",
    "insider": "Morris Scott James",
@@ -4577,6 +4565,18 @@
    "price": 19.0647,
    "value": 119364.09,
    "acc": "0000935596-26-000031",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "MXCT",
+   "company": "MAXCYTE, INC.",
+   "insider": "Masoud Maher",
+   "role": "President and CEO",
+   "date": "2026-11-17",
+   "shares": 100000.0,
+   "price": 1.2078,
+   "value": 120780.0,
+   "acc": "0000905148-26-005032",
    "filed": "2026-11-18"
   },
   {
@@ -4975,11 +4975,6 @@
    "total_value": 107791.0
   },
   {
-   "ticker": "ENOV",
-   "insiders": 2,
-   "total_value": 99478.34
-  },
-  {
    "ticker": "ALT",
    "insiders": 3,
    "total_value": 80231.09
@@ -5057,9 +5052,6 @@
   }
  ],
  "seen": [
-  "0002001171-26-000006",
-  "0002001557-26-000156",
-  "0002001557-26-000163",
   "0002001557-26-000165",
   "0002001557-26-000167",
   "0002001557-26-000169",
@@ -5846,6 +5838,7 @@
   "0002045482-26-000008",
   "0002045482-26-000010",
   "0002045771-26-000008",
+  "0002045771-26-000010",
   "0002045818-26-000005",
   "0002045846-26-000007",
   "0002045848-26-000007",
@@ -6864,6 +6857,7 @@
   "0002078265-26-000500",
   "0002078265-26-000501",
   "0002078265-26-000502",
+  "0002078265-26-000503",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078339-26-000012",
@@ -7305,6 +7299,7 @@
   "0002109682-26-000006",
   "0002109729-26-000010",
   "0002109817-26-000012",
+  "0002109839-26-000016",
   "0002109966-26-000006",
   "0002109966-26-000008",
   "0002110097-26-000002",
