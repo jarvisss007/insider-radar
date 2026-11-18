@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-18 19:56 UTC",
+ "updated_utc": "2026-11-18 20:12 UTC",
  "purchases": [
-  {
-   "ticker": "BW",
-   "company": "Babcock & Wilcox Enterprises, Inc.",
-   "insider": "Howe Alan B",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 1000.0,
-   "price": 5.14,
-   "value": 5140.0,
-   "acc": "0001630805-26-000085",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-11-11",
-   "shares": 35000.0,
-   "price": 0.149,
-   "value": 5215.0,
-   "acc": "0001493152-26-051542",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "LRMR",
-   "company": "Larimar Therapeutics, Inc.",
-   "insider": "Truitt Joseph",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 3500.0,
-   "price": 2.7976,
-   "value": 9791.6,
-   "acc": "0001193125-26-458847",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "OESX",
    "company": "ORION ENERGY SYSTEMS, INC.",
@@ -3692,6 +3656,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "RAIL",
+   "company": "FreightCar America, Inc.",
+   "insider": "Gil Benavides Jesus Salvador",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 9000.0,
+   "price": 4.71,
+   "value": 42390.0,
+   "acc": "0001193125-26-466935",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "RNXT",
    "company": "RenovoRx, Inc.",
    "insider": "Agah Ramtin",
@@ -3786,6 +3762,30 @@
    "value": 88491.0,
    "acc": "0001666120-26-000036",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "RAIL",
+   "company": "FreightCar America, Inc.",
+   "insider": "Gil Benavides Jesus Salvador",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 20000.0,
+   "price": 4.62,
+   "value": 92400.0,
+   "acc": "0001193125-26-466935",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "RAIL",
+   "company": "FreightCar America, Inc.",
+   "insider": "Gil Benavides Jesus Salvador",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 20000.0,
+   "price": 4.65,
+   "value": 93000.0,
+   "acc": "0001193125-26-466935",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "TISI",
@@ -4836,8 +4836,8 @@
   },
   {
    "ticker": "BW",
-   "insiders": 4,
-   "total_value": 950332.5
+   "insiders": 3,
+   "total_value": 945192.5
   },
   {
    "ticker": "CTEV",
@@ -4891,8 +4891,8 @@
   },
   {
    "ticker": "LRMR",
-   "insiders": 7,
-   "total_value": 382085.83
+   "insiders": 6,
+   "total_value": 372294.23
   },
   {
    "ticker": "ADIG",
