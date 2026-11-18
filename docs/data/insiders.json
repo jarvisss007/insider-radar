@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 20:12 UTC",
+ "updated_utc": "2026-11-18 20:27 UTC",
  "purchases": [
-  {
-   "ticker": "OESX",
-   "company": "ORION ENERGY SYSTEMS, INC.",
-   "insider": "Washlow Sally A.",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-11",
-   "shares": 812.0,
-   "price": 12.2,
-   "value": 9906.4,
-   "acc": "0000897069-26-001917",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "DSM",
    "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
@@ -4806,6 +4794,18 @@
    "value": 164850.0,
    "acc": "0001653242-26-000144",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "OBK",
+   "company": "Origin Bancorp, Inc.",
+   "insider": "Jones Cecil W.",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 3800.0,
+   "price": 52.55,
+   "value": 199690.0,
+   "acc": "0002040255-26-000008",
+   "filed": "2026-11-18"
   }
  ],
  "clusters": [
@@ -5052,7 +5052,6 @@
   }
  ],
  "seen": [
-  "0002001011-26-000126",
   "0002001011-26-000127",
   "0002001011-26-000128",
   "0002001011-26-000129",
@@ -5767,6 +5766,7 @@
   "0002039891-26-000008",
   "0002040101-26-000002",
   "0002040255-26-000006",
+  "0002040255-26-000008",
   "0002040268-26-000006",
   "0002040268-26-000008",
   "0002040321-26-000005",
