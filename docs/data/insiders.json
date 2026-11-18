@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-18 02:12 UTC",
+ "updated_utc": "2026-11-18 02:28 UTC",
  "purchases": [
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "BORTZ JON E",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 4100.0,
-   "price": 8.98,
-   "value": 36818.0,
-   "acc": "0001229310-26-000014",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "XGN",
-   "company": "EXAGEN INC.",
-   "insider": "Chernett Jorey",
-   "role": "10% owner",
-   "date": "2026-11-10",
-   "shares": 7085.0,
-   "price": 5.26,
-   "value": 37267.1,
-   "acc": "0000921895-26-003021",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "DOX",
    "company": "AMDOCS LTD",
@@ -4016,6 +3992,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 840.0,
+   "price": 10.13,
+   "value": 8509.2,
+   "acc": "0001510281-26-000445",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "Karp Jason H.",
@@ -4508,6 +4496,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 28235.0,
+   "price": 11.3,
+   "value": 319055.5,
+   "acc": "0001510281-26-000444",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "PCT",
    "company": "PureCycle Technologies, Inc.",
    "insider": "Olson Dustin",
@@ -4850,14 +4850,14 @@
    "total_value": 796358.1
   },
   {
-   "ticker": "HPP",
-   "insiders": 3,
-   "total_value": 622268.0
-  },
-  {
    "ticker": "ITG",
    "insiders": 2,
    "total_value": 606850.0
+  },
+  {
+   "ticker": "HPP",
+   "insiders": 3,
+   "total_value": 585450.0
   },
   {
    "ticker": "TH",
@@ -5057,8 +5057,6 @@
   }
  ],
  "seen": [
-  "0002000358-26-000018",
-  "0002000358-26-000020",
   "0002000358-26-000027",
   "0002000379-26-000003",
   "0002000429-26-000003",
@@ -5243,6 +5241,7 @@
   "0002011128-26-000008",
   "0002011407-26-000010",
   "0002011407-26-000011",
+  "0002011457-26-000007",
   "0002011525-26-000002",
   "0002011643-26-000010",
   "0002011929-26-000010",
@@ -7668,6 +7667,7 @@
   "0002127908-26-000004",
   "0002127924-26-000015",
   "0002128025-26-000013",
+  "0002128025-26-000015",
   "0002128038-26-000006",
   "0002128469-26-000007",
   "0002128469-26-000008",
