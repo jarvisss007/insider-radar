@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-18 01:25 UTC",
+ "updated_utc": "2026-11-18 01:57 UTC",
  "purchases": [
-  {
-   "ticker": "ENOV",
-   "company": "Enovis CORP",
-   "insider": "Lalor Angela S",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 887.0,
-   "price": 28.28,
-   "value": 25084.36,
-   "acc": "0001193125-26-458960",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "DAR",
-   "company": "DARLING INGREDIENTS INC.",
-   "insider": "Adair Charles L",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 500.0,
-   "price": 51.19,
-   "value": 25595.0,
-   "acc": "0001193125-26-458707",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "IOSP",
-   "company": "INNOSPEC INC.",
-   "insider": "PARRETTE LESLIE J",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 345.0,
-   "price": 79.69,
-   "value": 27493.05,
-   "acc": "0001193125-26-458918",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "BORTZ JON E",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 3090.0,
-   "price": 8.92,
-   "value": 27562.8,
-   "acc": "0001229310-26-000014",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "CMRE",
-   "company": "Costamare Inc.",
-   "insider": "Zacharatos Konstantinos",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 1218.0,
-   "price": 25.5,
-   "value": 31059.0,
-   "acc": "0001503584-26-000018",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-11-10",
-   "shares": 9941.0,
-   "price": 3.25,
-   "value": 32308.25,
-   "acc": "0000912282-26-001461",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "ZLAB",
    "company": "Zai Lab Ltd",
@@ -3535,6 +3463,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "KTTA",
+   "company": "Pasithea Therapeutics Corp.",
+   "insider": "Coastlands Capital LP",
+   "role": "10% owner",
+   "date": "2026-11-13",
+   "shares": 209431.0,
+   "price": 0.4956,
+   "value": 103794.0,
+   "acc": "0001104659-26-129251",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "GLP",
    "company": "GLOBAL PARTNERS LP",
    "insider": "Global GP LLC",
@@ -4508,6 +4448,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "BOLT",
+   "company": "Bolt Biotherapeutics, Inc.",
+   "insider": "Coastlands Capital LP",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 33094.0,
+   "price": 5.89,
+   "value": 194923.66,
+   "acc": "0001104659-26-129252",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "BW",
    "company": "Babcock & Wilcox Enterprises, Inc.",
    "insider": "BRC Group Holdings, Inc.",
@@ -4530,6 +4482,30 @@
    "value": 244956.2,
    "acc": "0000950142-26-003077",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 47015.0,
+   "price": 5.79,
+   "value": 272216.85,
+   "acc": "0001510281-26-000442",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "KTTA",
+   "company": "Pasithea Therapeutics Corp.",
+   "insider": "Coastlands Capital LP",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 583083.0,
+   "price": 0.4989,
+   "value": 290900.11,
+   "acc": "0001104659-26-129251",
+   "filed": "2026-11-17"
   },
   {
    "ticker": "PCT",
@@ -4772,6 +4748,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "BOLT",
+   "company": "Bolt Biotherapeutics, Inc.",
+   "insider": "Coastlands Capital LP",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 20000.0,
+   "price": 5.7499,
+   "value": 114998.0,
+   "acc": "0001104659-26-129252",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "BLX",
    "company": "BLADEX, INC.",
    "insider": "Real Jorge Luis",
@@ -4805,6 +4793,18 @@
    "price": 5.95,
    "value": 238000.0,
    "acc": "0001193125-26-465843",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "KTTA",
+   "company": "Pasithea Therapeutics Corp.",
+   "insider": "Coastlands Capital LP",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 875000.0,
+   "price": 0.47,
+   "value": 411250.0,
+   "acc": "0001104659-26-129251",
    "filed": "2026-11-17"
   }
  ],
@@ -4852,7 +4852,7 @@
   {
    "ticker": "HPP",
    "insiders": 3,
-   "total_value": 649830.8
+   "total_value": 622268.0
   },
   {
    "ticker": "ITG",
@@ -4970,14 +4970,14 @@
    "total_value": 129529.26
   },
   {
-   "ticker": "ENOV",
-   "insiders": 2,
-   "total_value": 124562.7
-  },
-  {
    "ticker": "DAIO",
    "insiders": 2,
    "total_value": 116024.73
+  },
+  {
+   "ticker": "ENOV",
+   "insiders": 2,
+   "total_value": 99478.34
   },
   {
    "ticker": "TRTX",
@@ -5057,10 +5057,6 @@
   }
  ],
  "seen": [
-  "0001999846-26-000004",
-  "0001999852-26-000003",
-  "0002000276-26-000006",
-  "0002000358-26-000016",
   "0002000358-26-000018",
   "0002000358-26-000020",
   "0002000358-26-000027",
@@ -5292,6 +5288,7 @@
   "0002012952-26-000016",
   "0002013319-26-000007",
   "0002013319-26-000008",
+  "0002013319-26-000009",
   "0002013346-26-000004",
   "0002013412-26-000003",
   "0002013420-26-000010",
@@ -5348,6 +5345,7 @@
   "0002014633-26-000020",
   "0002014633-26-000022",
   "0002014694-26-000006",
+  "0002014694-26-000007",
   "0002014966-26-000011",
   "0002014966-26-000013",
   "0002015224-26-000007",
@@ -6166,6 +6164,7 @@
   "0002060834-26-000001",
   "0002061058-26-000005",
   "0002061058-26-000006",
+  "0002061058-26-000007",
   "0002061169-26-000009",
   "0002061219-26-000011",
   "0002061219-26-000013",
@@ -7778,6 +7777,7 @@
   "0002140162-26-000006",
   "0002140162-26-000008",
   "0002140365-26-000005",
+  "0002140365-26-000006",
   "0002140626-26-000006",
   "0002140629-26-000006",
   "0002140847-26-000004",
