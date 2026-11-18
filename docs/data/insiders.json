@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-17 23:50 UTC",
+ "updated_utc": "2026-11-18 00:06 UTC",
  "purchases": [
-  {
-   "ticker": "FMC",
-   "company": "FMC CORP",
-   "insider": "Tack Luc Jules R",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 2514.0,
-   "price": 5.6,
-   "value": 14078.4,
-   "acc": "0001140361-26-043461",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 2000.0,
-   "price": 8.45,
-   "value": 16900.0,
-   "acc": "0000947871-26-001010",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "ETRA",
-   "company": "Electra Therapeutics, Inc.",
-   "insider": "GORDON CARL L",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 2000.0,
-   "price": 8.45,
-   "value": 16900.0,
-   "acc": "0000947871-26-001011",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "BORTZ JON E",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 1910.0,
-   "price": 8.85,
-   "value": 16903.5,
-   "acc": "0001229310-26-000014",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "JYNT",
    "company": "JOINT Corp",
@@ -3571,6 +3523,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "PLBY",
+   "company": "Playboy, Inc.",
+   "insider": "Docler Holding S.a r.l.",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 79461.0,
+   "price": 1.2224,
+   "value": 97133.13,
+   "acc": "0001012975-26-001082",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "ABCL",
    "company": "AbCellera Biologics Inc.",
    "insider": "Booth Andrew",
@@ -4353,6 +4317,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "PLBY",
+   "company": "Playboy, Inc.",
+   "insider": "Docler Holding S.a r.l.",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 25000.0,
+   "price": 1.25,
+   "value": 31250.0,
+   "acc": "0001012975-26-001082",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "LCTX",
    "company": "Lineage Cell Therapeutics, Inc.",
    "insider": "Culley Brian M",
@@ -4470,6 +4446,18 @@
    "price": 147.485,
    "value": 88491.0,
    "acc": "0001666120-26-000036",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "PLBY",
+   "company": "Playboy, Inc.",
+   "insider": "Docler Holding S.a r.l.",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 73886.0,
+   "price": 1.3338,
+   "value": 98549.15,
+   "acc": "0001012975-26-001082",
    "filed": "2026-11-17"
   },
   {
@@ -4797,6 +4785,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "PLBY",
+   "company": "Playboy, Inc.",
+   "insider": "Docler Holding S.a r.l.",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 114000.0,
+   "price": 1.2415,
+   "value": 141531.0,
+   "acc": "0001012975-26-001082",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "RMIX",
    "company": "Suncrete, Inc.",
    "insider": "Fleming Ned N III",
@@ -4858,7 +4858,7 @@
   {
    "ticker": "HPP",
    "insiders": 3,
-   "total_value": 666734.3
+   "total_value": 649830.8
   },
   {
    "ticker": "ITG",
@@ -4891,11 +4891,6 @@
    "total_value": 470296.0
   },
   {
-   "ticker": "ETRA",
-   "insiders": 2,
-   "total_value": 383630.0
-  },
-  {
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
@@ -4904,6 +4899,11 @@
    "ticker": "CTRI",
    "insiders": 2,
    "total_value": 349910.0
+  },
+  {
+   "ticker": "ETRA",
+   "insiders": 2,
+   "total_value": 349830.0
   },
   {
    "ticker": "ATEC",
@@ -5069,8 +5069,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-025610",
-  "0001999371-26-025632",
   "0001999371-26-025657",
   "0001999488-26-000011",
   "0001999488-26-000013",
@@ -7258,6 +7256,7 @@
   "0002102493-26-000005",
   "0002102774-26-000012",
   "0002103469-26-000014",
+  "0002103469-26-000016",
   "0002103514-26-000010",
   "0002103719-26-000008",
   "0002103972-26-000007",
@@ -7378,6 +7377,7 @@
   "0002111904-26-000003",
   "0002111929-26-000016",
   "0002111929-26-000018",
+  "0002111929-26-000020",
   "0002111933-26-000005",
   "0002112008-26-000011",
   "0002112139-26-000008",
