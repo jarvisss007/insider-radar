@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 02:28 UTC",
+ "updated_utc": "2026-11-18 02:44 UTC",
  "purchases": [
-  {
-   "ticker": "DOX",
-   "company": "AMDOCS LTD",
-   "insider": "MacDonald John Anthony",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 900.0,
-   "price": 41.63,
-   "value": 37467.0,
-   "acc": "0001193125-26-457435",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "STKS",
    "company": "ONE Group Hospitality, Inc.",
@@ -4508,6 +4496,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 17555.0,
+   "price": 21.04,
+   "value": 369357.2,
+   "acc": "0001510281-26-000446",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "PCT",
    "company": "PureCycle Technologies, Inc.",
    "insider": "Olson Dustin",
@@ -4958,11 +4958,6 @@
    "ticker": "CATX",
    "insiders": 5,
    "total_value": 142435.87
-  },
-  {
-   "ticker": "DOX",
-   "insiders": 2,
-   "total_value": 139694.99
   },
   {
    "ticker": "URG",
