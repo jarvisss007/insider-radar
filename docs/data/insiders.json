@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 13:54 UTC",
+ "updated_utc": "2026-11-18 14:09 UTC",
  "purchases": [
-  {
-   "ticker": "MP",
-   "company": "MP Materials Corp. / DE",
-   "insider": "Corbett Ryan",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-10",
-   "shares": 2776.0,
-   "price": 35.68,
-   "value": 99047.68,
-   "acc": "0001831686-26-000010",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
@@ -4521,6 +4509,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-17",
+   "shares": 5393.0,
+   "price": 0.7932,
+   "value": 4277.73,
+   "acc": "0001493152-26-053008",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -4816,14 +4816,14 @@
    "total_value": 16711131.6
   },
   {
-   "ticker": "MP",
-   "insiders": 3,
-   "total_value": 3573807.9
-  },
-  {
    "ticker": "STUB",
    "insiders": 2,
    "total_value": 3547771.0
+  },
+  {
+   "ticker": "MP",
+   "insiders": 3,
+   "total_value": 3474760.22
   },
   {
    "ticker": "CTEV",
