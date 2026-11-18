@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 17:50 UTC",
+ "updated_utc": "2026-11-18 18:06 UTC",
  "purchases": [
-  {
-   "ticker": "MP",
-   "company": "MP Materials Corp. / DE",
-   "insider": "Rosenthal Michael Stuart",
-   "role": "Chief Operating Officer",
-   "date": "2026-11-10",
-   "shares": 10000.0,
-   "price": 37.2,
-   "value": 372000.0,
-   "acc": "0001832050-26-000010",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "NYSE:FLG",
    "company": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
@@ -4773,6 +4761,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "EAD",
+   "company": "ALLSPRING INCOME OPPORTUNITIES FUND",
+   "insider": "Miller Cindy J",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 175.0,
+   "price": 5.93,
+   "value": 1037.75,
+   "acc": "0001081400-26-000591",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "EOD",
    "company": "ALLSPRING GLOBAL DIVIDEND OPPORTUNITY FUND",
    "insider": "Miller Cindy J",
@@ -4828,7 +4828,7 @@
   {
    "ticker": "MP",
    "insiders": 3,
-   "total_value": 3375292.22
+   "total_value": 3003292.22
   },
   {
    "ticker": "CTEV",
