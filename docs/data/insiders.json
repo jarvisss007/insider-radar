@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-18 23:06 UTC",
+ "updated_utc": "2026-11-18 23:22 UTC",
  "purchases": [
-  {
-   "ticker": "KGS",
-   "company": "Kodiak Gas Services, Inc.",
-   "insider": "Darden Alexander Newsom",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 10000.0,
-   "price": 44.99,
-   "value": 449900.0,
-   "acc": "0001193125-26-460648",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Damian Miguel",
-   "role": "Vicepresident",
-   "date": "2026-11-11",
-   "shares": 7667.0,
-   "price": 63.72,
-   "value": 488541.24,
-   "acc": "0002028916-26-000014",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "HOS",
    "company": "HORNBECK OFFSHORE SERVICES, INC.",
@@ -3862,6 +3838,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "van den Bosch Flip",
+   "role": "Principal Financial Officer",
+   "date": "2026-11-17",
+   "shares": 5500.0,
+   "price": 0.8491,
+   "value": 4670.05,
+   "acc": "0001841761-26-000125",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "SELF",
    "company": "Global Self Storage, Inc.",
    "insider": "BURKE RUSSELL E III",
@@ -4327,6 +4315,18 @@
    "price": 44.15,
    "value": 106710.55,
    "acc": "0001339396-26-000090",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 5446.0,
+   "price": 21.09,
+   "value": 114856.14,
+   "acc": "0001510281-26-000452",
    "filed": "2026-11-18"
   },
   {
@@ -4824,7 +4824,7 @@
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 8115476.45
+   "total_value": 7626935.21
   },
   {
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
@@ -4835,11 +4835,6 @@
    "ticker": "STUB",
    "insiders": 2,
    "total_value": 3547771.0
-  },
-  {
-   "ticker": "KGS",
-   "insiders": 2,
-   "total_value": 943861.8
   },
   {
    "ticker": "ABCL",
@@ -4992,6 +4987,11 @@
    "total_value": 47775.5
   },
   {
+   "ticker": "GROV",
+   "insiders": 2,
+   "total_value": 43052.02
+  },
+  {
    "ticker": "NTWK",
    "insiders": 2,
    "total_value": 38670.0
@@ -5050,9 +5050,6 @@
   }
  ],
  "seen": [
-  "0002002426-26-000001",
-  "0002002763-26-000006",
-  "0002002763-26-000010",
   "0002002763-26-000012",
   "0002002763-26-000014",
   "0002002944-26-000004",
@@ -5600,8 +5597,11 @@
   "0002032190-26-000003",
   "0002032267-26-000002",
   "0002032277-26-000011",
+  "0002032277-26-000012",
   "0002032280-26-000009",
+  "0002032280-26-000010",
   "0002032281-26-000011",
+  "0002032281-26-000012",
   "0002032322-26-000006",
   "0002032340-26-000006",
   "0002032340-26-000007",
