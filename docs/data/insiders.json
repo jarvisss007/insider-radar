@@ -1,19 +1,6 @@
 {
- "updated_utc": "2026-11-18 00:22 UTC",
+ "updated_utc": "2026-11-18 00:38 UTC",
  "purchases": [
-  {
-   "ticker": "NXGL",
-   "company": "NEXGEL, INC.",
-   "insider": "glassman steven mark",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 4546.0,
-   "price": 5.5,
-   "value": 25003.0,
-   "acc": "0001493152-26-051917",
-   "filed": "2026-11-13",
-   "placement": true
-  },
   {
    "ticker": "EP",
    "company": "EMPIRE PETROLEUM CORP",
@@ -4473,6 +4460,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "STEW",
+   "company": "SRH Total Return Fund, Inc.",
+   "insider": "Quinlan Shane Kevin",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 5300.0,
+   "price": 18.8278,
+   "value": 99787.34,
+   "acc": "0002033528-26-000001",
+   "filed": "2026-11-17"
+  },
+  {
    "ticker": "OPEN",
    "company": "Opendoor Technologies Inc.",
    "insider": "HAMILTON DANA",
@@ -5051,12 +5050,6 @@
    "total_value": 1999.94
   },
   {
-   "ticker": "NXGL",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 757691.0
-  },
-  {
    "ticker": "NSPR",
    "insiders": 5,
    "total_value": 0,
@@ -5064,7 +5057,6 @@
   }
  ],
  "seen": [
-  "0001999371-26-025657",
   "0001999488-26-000011",
   "0001999488-26-000013",
   "0001999525-26-000002",
@@ -5675,6 +5667,7 @@
   "0002033348-26-000008",
   "0002033348-26-000012",
   "0002033348-26-000014",
+  "0002033528-26-000001",
   "0002033633-26-000005",
   "0002033834-26-000019",
   "0002033834-26-000021",
