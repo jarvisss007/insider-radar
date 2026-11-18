@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 17:03 UTC",
+ "updated_utc": "2026-11-18 17:35 UTC",
  "purchases": [
-  {
-   "ticker": "ATEC",
-   "company": "Alphatec Holdings, Inc.",
-   "insider": "Valentine Keith",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 35000.0,
-   "price": 6.93,
-   "value": 242550.0,
-   "acc": "0001289408-26-000006",
-   "filed": "2026-11-10"
-  },
   {
    "ticker": "EXFY",
    "company": "Expensify, Inc.",
@@ -4029,6 +4017,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "TISI",
+   "company": "TEAM INC",
+   "insider": "Hill Gary L.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-16",
+   "shares": 4200.0,
+   "price": 22.88,
+   "value": 96096.0,
+   "acc": "0001782810-26-000011",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "PLBY",
    "company": "Playboy, Inc.",
    "insider": "Docler Holding S.a r.l.",
@@ -4889,11 +4889,6 @@
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
-  },
-  {
-   "ticker": "ATEC",
-   "insiders": 2,
-   "total_value": 341696.02
   },
   {
    "ticker": "ADIG",
