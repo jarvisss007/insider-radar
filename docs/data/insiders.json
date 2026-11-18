@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-18 13:38 UTC",
+ "updated_utc": "2026-11-18 13:54 UTC",
  "purchases": [
-  {
-   "ticker": "AQST",
-   "company": "Aquestive Therapeutics, Inc.",
-   "insider": "Daly Richard J",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 26825.0,
-   "price": 3.545,
-   "value": 95094.62,
-   "acc": "0001214659-26-014004",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "VISN",
-   "company": "Vistance Networks, Inc.",
-   "insider": "Watts Claudius E. IV",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 25000.0,
-   "price": 3.929,
-   "value": 98225.0,
-   "acc": "0001193125-26-458974",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
@@ -4293,6 +4269,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 7500.0,
+   "price": 19.1911,
+   "value": 143933.25,
+   "acc": "0000935596-26-000031",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "CVV",
    "company": "CVD EQUIPMENT CORP",
    "insider": "AFRICK ANDREW",
@@ -4749,6 +4737,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 6261.0,
+   "price": 19.0647,
+   "value": 119364.09,
+   "acc": "0000935596-26-000031",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "BLX",
    "company": "BLADEX, INC.",
    "insider": "Real Jorge Luis",
@@ -4926,11 +4926,6 @@
    "total_value": 238994.95
   },
   {
-   "ticker": "VISN",
-   "insiders": 2,
-   "total_value": 218045.0
-  },
-  {
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 201356.25
@@ -4964,6 +4959,11 @@
    "ticker": "URG",
    "insiders": 2,
    "total_value": 129529.26
+  },
+  {
+   "ticker": "VISN",
+   "insiders": 2,
+   "total_value": 119820.0
   },
   {
    "ticker": "DAIO",
