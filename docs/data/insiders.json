@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 15:12 UTC",
+ "updated_utc": "2026-11-18 15:44 UTC",
  "purchases": [
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Foran Joseph Wm",
-   "role": "Chairman and CEO",
-   "date": "2026-11-10",
-   "shares": 2500.0,
-   "price": 49.29,
-   "value": 123225.0,
-   "acc": "0001540655-26-000029",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "WW",
    "company": "WW INTERNATIONAL, INC.",
@@ -3909,6 +3897,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "EDRY",
+   "company": "EuroDry Ltd.",
+   "insider": "Pittas Aristeidis P",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 575.0,
+   "price": 37.4507,
+   "value": 21534.15,
+   "acc": "0002127484-26-000022",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NTWK",
    "company": "NETSOL TECHNOLOGIES INC",
    "insider": "GHAURI NAJEEB",
@@ -5043,7 +5043,6 @@
   }
  ],
  "seen": [
-  "0002000429-26-000003",
   "0002000487-26-000003",
   "0002000660-26-000004",
   "0002000932-26-000010",
@@ -7643,6 +7642,7 @@
   "0002127484-26-000019",
   "0002127484-26-000020",
   "0002127484-26-000021",
+  "0002127484-26-000022",
   "0002127558-26-000013",
   "0002127674-26-000002",
   "0002127814-26-000004",
