@@ -1,55 +1,6 @@
 {
- "updated_utc": "2026-11-18 18:06 UTC",
+ "updated_utc": "2026-11-18 18:22 UTC",
  "purchases": [
-  {
-   "ticker": "NYSE:FLG",
-   "company": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
-   "insider": "Otting Joseph M",
-   "role": "Exec Chairman and CEO",
-   "date": "2026-11-10",
-   "shares": 47324.0,
-   "price": 10.49,
-   "value": 496428.76,
-   "acc": "0001323101-26-000007",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "MNR",
-   "company": "MACH NATURAL RESOURCES LP",
-   "insider": "WARD TOM L.",
-   "role": "See Remarks",
-   "date": "2026-11-10",
-   "shares": 55000.0,
-   "price": 9.13,
-   "value": 502150.0,
-   "acc": "0001213900-26-118288",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "MP",
-   "company": "MP Materials Corp. / DE",
-   "insider": "Rosenthal Michael Stuart",
-   "role": "Chief Operating Officer",
-   "date": "2026-11-10",
-   "shares": 17000.0,
-   "price": 36.27,
-   "value": 616590.0,
-   "acc": "0001832050-26-000010",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "NXGL",
-   "company": "NEXGEL, INC.",
-   "insider": "Kieser Brian Joseph",
-   "role": "Interim CEO",
-   "date": "2026-11-10",
-   "shares": 133216.0,
-   "price": 5.5,
-   "value": 732688.0,
-   "acc": "0001493152-26-051920",
-   "filed": "2026-11-13",
-   "placement": true
-  },
   {
    "ticker": "HOS",
    "company": "HORNBECK OFFSHORE SERVICES, INC.",
@@ -4341,6 +4292,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "AP",
+   "company": "AMPCO PITTSBURGH CORP",
+   "insider": "GERMAN MICHAEL I",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 100.0,
+   "price": 5.99,
+   "value": 599.0,
+   "acc": "0001193125-26-466806",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "DAVI",
    "company": "DAVION HEALTHCARE PLC",
    "insider": "King Susan M",
@@ -4458,6 +4421,18 @@
    "price": 2.52,
    "value": 8568.0,
    "acc": "0001213900-26-121626",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "AP",
+   "company": "AMPCO PITTSBURGH CORP",
+   "insider": "GERMAN MICHAEL I",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 1524.0,
+   "price": 5.975,
+   "value": 9105.9,
+   "acc": "0001193125-26-466806",
    "filed": "2026-11-18"
   },
   {
@@ -4785,6 +4760,30 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "ERC",
+   "company": "ALLSPRING MULTI-SECTOR INCOME FUND",
+   "insider": "Miller Cindy J",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 125.0,
+   "price": 8.32,
+   "value": 1040.0,
+   "acc": "0001081400-26-000592",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "ERH",
+   "company": "ALLSPRING UTILITIES & HIGH INCOME FUND",
+   "insider": "Miller Cindy J",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 100.0,
+   "price": 10.55,
+   "value": 1055.0,
+   "acc": "0001081400-26-000593",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Carus Jeffrey A",
@@ -4826,14 +4825,14 @@
    "total_value": 3547771.0
   },
   {
-   "ticker": "MP",
-   "insiders": 3,
-   "total_value": 3003292.22
-  },
-  {
    "ticker": "CTEV",
    "insiders": 2,
    "total_value": 2645257.85
+  },
+  {
+   "ticker": "MP",
+   "insiders": 3,
+   "total_value": 2386702.22
   },
   {
    "ticker": "PAM",
