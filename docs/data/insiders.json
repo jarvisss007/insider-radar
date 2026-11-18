@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 14:25 UTC",
+ "updated_utc": "2026-11-18 14:41 UTC",
  "purchases": [
-  {
-   "ticker": "MP",
-   "company": "MP Materials Corp. / DE",
-   "insider": "Corbett Ryan",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-10",
-   "shares": 2700.0,
-   "price": 36.84,
-   "value": 99468.0,
-   "acc": "0001831686-26-000010",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "NXRT",
    "company": "NexPoint Residential Trust, Inc.",
@@ -4509,6 +4497,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "USA",
+   "company": "LIBERTY ALL STAR EQUITY FUND",
+   "insider": "Khwaja-Dixon Sareena",
+   "role": "",
+   "date": "2026-11-17",
+   "shares": 500.0,
+   "price": 5.67,
+   "value": 2835.0,
+   "acc": "0001682998-26-000001",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4823,7 +4823,7 @@
   {
    "ticker": "MP",
    "insiders": 3,
-   "total_value": 3474760.22
+   "total_value": 3375292.22
   },
   {
    "ticker": "CTEV",
