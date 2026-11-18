@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-18 22:50 UTC",
+ "updated_utc": "2026-11-18 23:06 UTC",
  "purchases": [
-  {
-   "ticker": "EXFY",
-   "company": "Expensify, Inc.",
-   "insider": "McLaughlin Steven J.",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 179186.0,
-   "price": 1.781,
-   "value": 319130.27,
-   "acc": "0000929638-26-004269",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "XGN",
-   "company": "EXAGEN INC.",
-   "insider": "Chernett Jorey",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 71315.0,
-   "price": 5.23,
-   "value": 372977.45,
-   "acc": "0001193805-26-001456",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "ARES MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 13587.0,
-   "price": 28.7336,
-   "value": 390403.42,
-   "acc": "0001104659-26-128662",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "ARES MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 13587.0,
-   "price": 28.7336,
-   "value": 390403.42,
-   "acc": "0001104659-26-128661",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "AUDAX PRIVATE CREDIT FUND, LLC (CIK 2033362)",
-   "company": "Audax Private Credit Fund, LLC",
-   "insider": "Audax Private Credit Business, LP",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 16971.79,
-   "price": 24.86,
-   "value": 421918.7,
-   "acc": "0001193125-26-461179",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "KGS",
    "company": "Kodiak Gas Services, Inc.",
@@ -2996,6 +2936,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 10018.0,
+   "price": 2.4107,
+   "value": 24150.39,
+   "acc": "0001072613-26-000912",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "HAWK",
    "company": "HawkEye 360, Inc.",
    "insider": "Serafini John Sheldon",
@@ -4066,6 +4018,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "BATL",
+   "company": "BATTALION OIL CORP",
+   "insider": "ROGERS WILLIAM D",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 30000.0,
+   "price": 0.6064,
+   "value": 18192.0,
+   "acc": "0001327420-26-000004",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "CATX",
    "company": "Perspective Therapeutics, Inc.",
    "insider": "Williamson Robert F III",
@@ -4196,6 +4160,18 @@
    "value": 50798.0,
    "acc": "0000351998-26-000020",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 23143.0,
+   "price": 2.6366,
+   "value": 61018.83,
+   "acc": "0001072613-26-000912",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "FPS",
@@ -4582,6 +4558,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "HFRO",
+   "company": "HIGHLAND OPPORTUNITIES & INCOME FUND",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 255199.0,
+   "price": 5.01,
+   "value": 1278546.99,
+   "acc": "0001510281-26-000451",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "SJT",
    "company": "SAN JUAN BASIN ROYALTY TRUST",
    "insider": "OLIVER ERIC L",
@@ -4774,6 +4762,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "ECC",
+   "company": "Eagle Point Credit Co",
+   "insider": "Majewski Thomas P.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 50000.0,
+   "price": 2.36,
+   "value": 118000.0,
+   "acc": "0001104659-26-129827",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -4912,6 +4912,11 @@
    "total_value": 238994.95
   },
   {
+   "ticker": "ECC",
+   "insiders": 2,
+   "total_value": 221950.0
+  },
+  {
    "ticker": "FLNA",
    "insiders": 2,
    "total_value": 215296.82
@@ -5045,7 +5050,6 @@
   }
  ],
  "seen": [
-  "0002002093-26-000012",
   "0002002426-26-000001",
   "0002002763-26-000006",
   "0002002763-26-000010",
@@ -8044,7 +8048,8 @@
   "0002163322-26-000004",
   "0002163354-26-000004",
   "0002163393-26-000004",
-  "0002164267-26-000010"
+  "0002164267-26-000010",
+  "0002164576-26-000005"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
