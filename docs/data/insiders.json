@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 11:33 UTC",
+ "updated_utc": "2026-11-18 13:07 UTC",
  "purchases": [
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "BORTZ JON E",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 5000.0,
-   "price": 9.2,
-   "value": 46000.0,
-   "acc": "0001229310-26-000014",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "KEEL",
    "company": "Keel Infrastructure Corp.",
@@ -4413,6 +4401,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "TRTX",
+   "company": "TPG RE Finance Trust, Inc.",
+   "insider": "Schuster Todd",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 34272.0,
+   "price": 6.56,
+   "value": 224824.32,
+   "acc": "0001193125-26-466221",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "FPS",
    "company": "Forgent Power Solutions, Inc.",
    "insider": "Hottinger Tyson",
@@ -4883,7 +4883,7 @@
   {
    "ticker": "HPP",
    "insiders": 3,
-   "total_value": 448950.0
+   "total_value": 402950.0
   },
   {
    "ticker": "LRMR",
@@ -4909,6 +4909,11 @@
    "ticker": "ADIG",
    "insiders": 5,
    "total_value": 325602.92
+  },
+  {
+   "ticker": "TRTX",
+   "insiders": 3,
+   "total_value": 305674.32
   },
   {
    "ticker": "RMIX",
@@ -4974,11 +4979,6 @@
    "ticker": "ENOV",
    "insiders": 2,
    "total_value": 99478.34
-  },
-  {
-   "ticker": "TRTX",
-   "insiders": 2,
-   "total_value": 80850.0
   },
   {
    "ticker": "DX",
@@ -5053,7 +5053,6 @@
   }
  ],
  "seen": [
-  "0002000379-26-000003",
   "0002000429-26-000003",
   "0002000487-26-000003",
   "0002000660-26-000004",
@@ -5581,6 +5580,7 @@
   "0002029760-26-000008",
   "0002029760-26-000009",
   "0002029760-26-000010",
+  "0002029760-26-000011",
   "0002029833-26-000001",
   "0002029835-26-000001",
   "0002029835-26-000002",
