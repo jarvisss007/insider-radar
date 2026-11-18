@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 16:31 UTC",
+ "updated_utc": "2026-11-18 16:47 UTC",
  "purchases": [
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "COLEMAN VICTOR J",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-10",
-   "shares": 20000.0,
-   "price": 9.1,
-   "value": 182000.0,
-   "acc": "0001191420-26-000014",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "COHR",
    "company": "COHERENT CORP.",
@@ -4807,6 +4795,18 @@
    "value": 553910.0,
    "acc": "0001493152-26-053023",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "NTB",
+   "company": "Bank of N.T. Butterfield & Son Ltd",
+   "insider": "Lynch Mark T",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 3000.0,
+   "price": 54.95,
+   "value": 164850.0,
+   "acc": "0001653242-26-000144",
+   "filed": "2026-11-18"
   }
  ],
  "clusters": [
@@ -4901,11 +4901,6 @@
    "total_value": 325602.92
   },
   {
-   "ticker": "HPP",
-   "insiders": 3,
-   "total_value": 313450.0
-  },
-  {
    "ticker": "TRTX",
    "insiders": 3,
    "total_value": 305674.32
@@ -4949,6 +4944,11 @@
    "ticker": "CATX",
    "insiders": 5,
    "total_value": 163385.87
+  },
+  {
+   "ticker": "HPP",
+   "insiders": 2,
+   "total_value": 131450.0
   },
   {
    "ticker": "URG",
