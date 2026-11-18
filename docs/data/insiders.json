@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-18 13:22 UTC",
+ "updated_utc": "2026-11-18 13:38 UTC",
  "purchases": [
-  {
-   "ticker": "WW",
-   "company": "WW INTERNATIONAL, INC.",
-   "insider": "Gavales Lisa A",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 5000.0,
-   "price": 11.025,
-   "value": 55125.0,
-   "acc": "0001193125-26-455831",
-   "filed": "2026-11-10"
-  },
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-10",
-   "shares": 11757.0,
-   "price": 5.6,
-   "value": 65839.2,
-   "acc": "0001510281-26-000431",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-10",
-   "shares": 3762.0,
-   "price": 21.05,
-   "value": 79190.1,
-   "acc": "0001510281-26-000432",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "BORTZ JON E",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 10000.0,
-   "price": 8.95,
-   "value": 89500.0,
-   "acc": "0001229310-26-000014",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "AQST",
    "company": "Aquestive Therapeutics, Inc.",
@@ -4233,6 +4185,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Gattoni James B",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 25000.0,
+   "price": 2.6,
+   "value": 65000.0,
+   "acc": "0001213900-26-121624",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NGS",
    "company": "NATURAL GAS SERVICES GROUP INC",
    "insider": "Jacobs Justin",
@@ -4339,6 +4303,18 @@
    "value": 169632.2,
    "acc": "0000766792-26-000013",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Lal Rohit",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 70000.0,
+   "price": 2.56,
+   "value": 179200.0,
+   "acc": "0001213900-26-121625",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "BOLT",
@@ -4569,6 +4545,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "CMPX",
+   "company": "Compass Therapeutics, Inc.",
+   "insider": "Lerner Neil",
+   "role": "Chief Accounting Officer",
+   "date": "2026-11-17",
+   "shares": 10000.0,
+   "price": 0.59,
+   "value": 5900.0,
+   "acc": "0001171843-26-007547",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "LAND",
    "company": "GLADSTONE LAND Corp",
    "insider": "Parrish Lewis",
@@ -4579,6 +4567,18 @@
    "value": 6470.0,
    "acc": "0001566732-26-000002",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Rice Amy F.",
+   "role": "President and COO",
+   "date": "2026-11-17",
+   "shares": 3400.0,
+   "price": 2.52,
+   "value": 8568.0,
+   "acc": "0001213900-26-121626",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "IPM",
@@ -4881,11 +4881,6 @@
    "total_value": 470296.0
   },
   {
-   "ticker": "HPP",
-   "insiders": 3,
-   "total_value": 402950.0
-  },
-  {
    "ticker": "LRMR",
    "insiders": 7,
    "total_value": 382085.83
@@ -4911,9 +4906,19 @@
    "total_value": 325602.92
   },
   {
+   "ticker": "HPP",
+   "insiders": 3,
+   "total_value": 313450.0
+  },
+  {
    "ticker": "TRTX",
    "insiders": 3,
    "total_value": 305674.32
+  },
+  {
+   "ticker": "PAL",
+   "insiders": 3,
+   "total_value": 252768.0
   },
   {
    "ticker": "RMIX",
@@ -4944,11 +4949,6 @@
    "ticker": "NGS",
    "insiders": 3,
    "total_value": 192961.79
-  },
-  {
-   "ticker": "WW",
-   "insiders": 2,
-   "total_value": 192750.0
   },
   {
    "ticker": "FRPH",
