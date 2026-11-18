@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-18 18:37 UTC",
+ "updated_utc": "2026-11-18 19:08 UTC",
  "purchases": [
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "ARES MANAGEMENT LLC",
-   "role": "10% owner",
-   "date": "2026-11-10",
-   "shares": 65579.0,
-   "price": 26.1444,
-   "value": 1714523.61,
-   "acc": "0001104659-26-126283",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
@@ -4544,6 +4532,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "FFIN",
+   "company": "FIRST FINANCIAL BANKSHARES INC",
+   "insider": "Davis Sally Pope",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 1700.0,
+   "price": 29.88,
+   "value": 50796.0,
+   "acc": "0001193125-26-466880",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "DAIO",
    "company": "DATA I/O CORP",
    "insider": "Wentworth William O.",
@@ -4830,11 +4830,6 @@
    "total_value": 3547771.0
   },
   {
-   "ticker": "CTEV",
-   "insiders": 2,
-   "total_value": 2645257.85
-  },
-  {
    "ticker": "MP",
    "insiders": 3,
    "total_value": 2386702.22
@@ -4848,6 +4843,11 @@
    "ticker": "BW",
    "insiders": 4,
    "total_value": 950332.5
+  },
+  {
+   "ticker": "CTEV",
+   "insiders": 2,
+   "total_value": 930734.24
   },
   {
    "ticker": "EQPT",
