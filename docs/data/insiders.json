@@ -1,138 +1,6 @@
 {
- "updated_utc": "2026-11-18 22:18 UTC",
+ "updated_utc": "2026-11-18 22:34 UTC",
  "purchases": [
-  {
-   "ticker": "CTEV",
-   "company": "Claritev Corp",
-   "insider": "Dalton Travis",
-   "role": "Pres., CEO & Executive Chair",
-   "date": "2026-11-11",
-   "shares": 5110.0,
-   "price": 29.34,
-   "value": 149927.4,
-   "acc": "0001628280-26-073944",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "CSQR",
-   "company": "Csquare, Inc.",
-   "insider": "Kelley Philip M",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 10000.0,
-   "price": 17.24,
-   "value": 172400.0,
-   "acc": "0000950142-26-003050",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "BW",
-   "company": "Babcock & Wilcox Enterprises, Inc.",
-   "insider": "BRC Group Holdings, Inc.",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 35000.0,
-   "price": 4.9815,
-   "value": 174352.5,
-   "acc": "0001213900-26-118354",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "BW",
-   "company": "Babcock & Wilcox Enterprises, Inc.",
-   "insider": "BRC Group Holdings, Inc.",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 35000.0,
-   "price": 4.9816,
-   "value": 174356.0,
-   "acc": "0001213900-26-118354",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "MP",
-   "company": "MP Materials Corp. / DE",
-   "insider": "Rosenthal Michael Stuart",
-   "role": "Chief Operating Officer",
-   "date": "2026-11-11",
-   "shares": 5000.0,
-   "price": 37.3,
-   "value": 186500.0,
-   "acc": "0001832050-26-000010",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-11",
-   "shares": 1300.0,
-   "price": 151.2631,
-   "value": 196642.03,
-   "acc": "0001666120-26-000033",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-11",
-   "shares": 1386.0,
-   "price": 152.1644,
-   "value": 210899.86,
-   "acc": "0001666120-26-000033",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "RM",
-   "company": "Regional Management Corp.",
-   "insider": "BASSWOOD CAPITAL MANAGEMENT, L.L.C.",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 6675.0,
-   "price": 34.46,
-   "value": 230020.5,
-   "acc": "0000899140-26-001281",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "ECX",
-   "company": "ECARX Holdings Inc.",
-   "insider": "Shen Ziyu",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-11",
-   "shares": 300000.0,
-   "price": 0.7789,
-   "value": 233670.0,
-   "acc": "0001104659-26-126498",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "CSQR",
-   "company": "Csquare, Inc.",
-   "insider": "MULLEE SPENCER EDWARD",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-11",
-   "shares": 13573.0,
-   "price": 18.2,
-   "value": 247028.6,
-   "acc": "0000950142-26-002995",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "CTRI",
-   "company": "Centuri Holdings, Inc.",
-   "insider": "Patton Charles R.",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 11000.0,
-   "price": 22.72,
-   "value": 249920.0,
-   "acc": "0001981599-26-000141",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "EQPT",
    "company": "EquipmentShare.com Inc",
@@ -3368,6 +3236,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "THM",
+   "company": "INTERNATIONAL TOWER HILL MINES LTD",
+   "insider": "Wiens David Victor",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-16",
+   "shares": 60000.0,
+   "price": 1.23,
+   "value": 73800.0,
+   "acc": "0001123292-26-001542",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NGS",
    "company": "NATURAL GAS SERVICES GROUP INC",
    "insider": "Jacobs Justin",
@@ -3498,6 +3378,18 @@
    "value": 116990.0,
    "acc": "0001195975-26-000007",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "CRMD",
+   "company": "CorMedix Inc.",
+   "insider": "Kaplan Myron",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 25000.0,
+   "price": 4.88,
+   "value": 122000.0,
+   "acc": "0001213900-26-121895",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "HL",
@@ -3872,6 +3764,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "JAFFER REHAN",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 225000.0,
+   "price": 11.73,
+   "value": 2639250.0,
+   "acc": "0001999001-26-000121",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "ANGX",
    "company": "Angel Studios, Inc.",
    "insider": "Sarowitz Steven I",
@@ -3967,6 +3871,18 @@
    "price": 5.99,
    "value": 599.0,
    "acc": "0001193125-26-466806",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "DBHL",
+   "company": "Deep Isolation Nuclear, Inc.",
+   "insider": "Whitten-Doolin Paula Beck",
+   "role": "GC and Corporate Secretary",
+   "date": "2026-11-17",
+   "shares": 400.0,
+   "price": 2.15,
+   "value": 860.0,
+   "acc": "0001213900-26-121900",
    "filed": "2026-11-18"
   },
   {
@@ -4162,6 +4078,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 1154.0,
+   "price": 11.16,
+   "value": 12878.64,
+   "acc": "0001510281-26-000449",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "IPM",
    "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
    "insider": "Katz Jason",
@@ -4316,6 +4244,18 @@
    "value": 50798.0,
    "acc": "0000351998-26-000020",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "FPS",
+   "company": "Forgent Power Solutions, Inc.",
+   "insider": "Lund Inez",
+   "role": "Chief Accounting Officer",
+   "date": "2026-11-17",
+   "shares": 3000.0,
+   "price": 21.66,
+   "value": 64980.0,
+   "acc": "0000950142-26-003126",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "UTG",
@@ -4570,6 +4510,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "KGS",
+   "company": "Kodiak Gas Services, Inc.",
+   "insider": "HOGAN RANDALL J",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 11500.0,
+   "price": 42.9532,
+   "value": 493961.8,
+   "acc": "0001193125-26-467294",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "BURNS URSULA M",
@@ -4666,6 +4618,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "JAFFER REHAN",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 200000.0,
+   "price": 11.13,
+   "value": 2226000.0,
+   "acc": "0001999001-26-000121",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "FRPH",
    "company": "FRP HOLDINGS, INC.",
    "insider": "BAKER JOHN D II",
@@ -4738,6 +4702,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "PEBK",
+   "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+   "insider": "PRICE BILLY L JR DR",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 200.0,
+   "price": 41.42,
+   "value": 8284.0,
+   "acc": "0001654954-26-009975",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Carus Jeffrey A",
@@ -4771,6 +4747,18 @@
    "price": 2.863,
    "value": 57260.0,
    "acc": "0001104659-26-129796",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "CRC",
+   "company": "California Resources Corp",
+   "insider": "Bremner Andrew B.",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 2200.0,
+   "price": 45.31,
+   "value": 99682.0,
+   "acc": "0001609253-26-000163",
    "filed": "2026-11-18"
   },
   {
@@ -4808,6 +4796,18 @@
    "value": 199690.0,
    "acc": "0002040255-26-000008",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "FUN",
+   "company": "Six Flags Entertainment Corporation/NEW",
+   "insider": "JAFFER REHAN",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 125000.0,
+   "price": 11.91,
+   "value": 1488750.0,
+   "acc": "0001999001-26-000121",
+   "filed": "2026-11-18"
   }
  ],
  "clusters": [
@@ -4837,14 +4837,9 @@
    "total_value": 3547771.0
   },
   {
-   "ticker": "BW",
-   "insiders": 3,
-   "total_value": 945192.5
-  },
-  {
-   "ticker": "CTEV",
+   "ticker": "KGS",
    "insiders": 2,
-   "total_value": 930734.24
+   "total_value": 943861.8
   },
   {
    "ticker": "EQPT",
@@ -4862,9 +4857,19 @@
    "total_value": 606850.0
   },
   {
+   "ticker": "BW",
+   "insiders": 3,
+   "total_value": 596484.0
+  },
+  {
    "ticker": "TH",
    "insiders": 2,
    "total_value": 562680.56
+  },
+  {
+   "ticker": "CRMD",
+   "insiders": 2,
+   "total_value": 513200.0
   },
   {
    "ticker": "OFRM",
@@ -4882,19 +4887,14 @@
    "total_value": 470296.0
   },
   {
-   "ticker": "CSQR",
-   "insiders": 3,
-   "total_value": 453348.6
-  },
-  {
-   "ticker": "MP",
-   "insiders": 2,
-   "total_value": 406702.22
-  },
-  {
    "ticker": "ADIG",
    "insiders": 5,
    "total_value": 325602.92
+  },
+  {
+   "ticker": "FPS",
+   "insiders": 2,
+   "total_value": 309936.2
   },
   {
    "ticker": "NPCE",
@@ -5050,8 +5050,6 @@
   }
  ],
  "seen": [
-  "0002001886-26-000004",
-  "0002002093-26-000010",
   "0002002093-26-000012",
   "0002002426-26-000001",
   "0002002763-26-000006",
@@ -5185,6 +5183,7 @@
   "0002010300-26-000033",
   "0002010300-26-000035",
   "0002010300-26-000037",
+  "0002010300-26-000039",
   "0002010445-26-000009",
   "0002010445-26-000011",
   "0002010494-26-000014",
@@ -5300,6 +5299,7 @@
   "0002014633-26-000018",
   "0002014633-26-000020",
   "0002014633-26-000022",
+  "0002014633-26-000024",
   "0002014694-26-000006",
   "0002014694-26-000007",
   "0002014966-26-000011",
