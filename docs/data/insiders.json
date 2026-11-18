@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-18 02:44 UTC",
+ "updated_utc": "2026-11-18 02:59 UTC",
  "purchases": [
-  {
-   "ticker": "STKS",
-   "company": "ONE Group Hospitality, Inc.",
-   "insider": "Segal Jonathan",
-   "role": "Director",
-   "date": "2026-11-10",
-   "shares": 37000.0,
-   "price": 1.06,
-   "value": 39220.0,
-   "acc": "0001581001-26-000010",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-10",
-   "shares": 9260.0,
-   "price": 4.2994,
-   "value": 39812.44,
-   "acc": "0001193125-26-456831",
-   "filed": "2026-11-12"
-  },
   {
    "ticker": "AUDC",
    "company": "AUDIOCODES LTD",
@@ -3704,6 +3680,19 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "CLRO",
+   "company": "CLEARONE INC",
+   "insider": "First Finance Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-13",
+   "shares": 188885.0,
+   "price": 4.0,
+   "value": 755540.0,
+   "acc": "0001493152-26-052957",
+   "filed": "2026-11-17",
+   "placement": true
+  },
+  {
    "ticker": "STUB",
    "company": "StubHub Holdings, Inc.",
    "insider": "Raab Andrew John",
@@ -4613,6 +4602,18 @@
    "price": 6.03,
    "value": 994.95,
    "acc": "0001193125-26-465839",
+   "filed": "2026-11-17"
+  },
+  {
+   "ticker": "JOF",
+   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 522.0,
+   "price": 10.68,
+   "value": 5574.96,
+   "acc": "0001510281-26-000447",
    "filed": "2026-11-17"
   },
   {
