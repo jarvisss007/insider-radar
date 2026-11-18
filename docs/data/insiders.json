@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-18 23:38 UTC",
+ "updated_utc": "2026-11-18 23:54 UTC",
  "purchases": [
-  {
-   "ticker": "BLMN",
-   "company": "Bloomin' Brands, Inc.",
-   "insider": "Spanos Mike",
-   "role": "CEO",
-   "date": "2026-11-11",
-   "shares": 50000.0,
-   "price": 10.04,
-   "value": 502000.0,
-   "acc": "0001719998-26-000016",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "HILL W BRYAN",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 40000.0,
-   "price": 13.8529,
-   "value": 554116.0,
-   "acc": "0001628280-26-073491",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 31698.0,
-   "price": 21.33,
-   "value": 676118.34,
-   "acc": "0001510281-26-000432",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "IOND",
-   "company": "Ionic Digital Inc.",
-   "insider": "Abbate Michael",
-   "role": "Director",
-   "date": "2026-11-11",
-   "shares": 12493.0,
-   "price": 66.2,
-   "value": 827036.6,
-   "acc": "0001185185-26-005414",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "STWD",
    "company": "STARWOOD PROPERTY TRUST, INC.",
@@ -3260,6 +3212,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "BH",
+   "company": "Biglari Holdings Inc.",
+   "insider": "BIGLARI, SARDAR",
+   "role": "Chairman and CEO",
+   "date": "2026-11-16",
+   "shares": 70.0,
+   "price": 1796.84,
+   "value": 125778.8,
+   "acc": "0000921895-26-003217",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
    "insider": "Corbett Ryan",
@@ -3581,6 +3545,18 @@
    "price": 25.0,
    "value": 1500000.0,
    "acc": "0001193125-26-466820",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "BH",
+   "company": "Biglari Holdings Inc.",
+   "insider": "BIGLARI, SARDAR",
+   "role": "Chairman and CEO",
+   "date": "2026-11-16",
+   "shares": 4823.0,
+   "price": 358.36,
+   "value": 1728370.28,
+   "acc": "0000921895-26-003217",
    "filed": "2026-11-18"
   },
   {
@@ -4366,6 +4342,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "BH",
+   "company": "Biglari Holdings Inc.",
+   "insider": "BIGLARI, SARDAR",
+   "role": "Chairman and CEO",
+   "date": "2026-11-17",
+   "shares": 70.0,
+   "price": 1799.84,
+   "value": 125988.8,
+   "acc": "0000921895-26-003217",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4411,6 +4399,18 @@
    "price": 32.09,
    "value": 160450.0,
    "acc": "0001976129-26-000001",
+   "filed": "2026-11-18"
+  },
+  {
+   "ticker": "BH",
+   "company": "Biglari Holdings Inc.",
+   "insider": "BIGLARI, SARDAR",
+   "role": "Chairman and CEO",
+   "date": "2026-11-17",
+   "shares": 480.0,
+   "price": 359.38,
+   "value": 172502.4,
+   "acc": "0000921895-26-003217",
    "filed": "2026-11-18"
   },
   {
@@ -4840,11 +4840,6 @@
    "ticker": "ABCL",
    "insiders": 2,
    "total_value": 796358.1
-  },
-  {
-   "ticker": "EQPT",
-   "insiders": 2,
-   "total_value": 616681.84
   },
   {
    "ticker": "ITG",
