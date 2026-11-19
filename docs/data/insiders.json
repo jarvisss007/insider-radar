@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-19 22:37 UTC",
+ "updated_utc": "2026-11-19 22:53 UTC",
  "purchases": [
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "LEE CHAE",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 10000.0,
-   "price": 2.4968,
-   "value": 24968.0,
-   "acc": "0001193125-26-464325",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ADIG",
-   "company": "ADI GLOBAL DISTRIBUTION INC.",
-   "insider": "Cardazzi Marco",
-   "role": "Executive VP and CMO",
-   "date": "2026-11-13",
-   "shares": 2508.0,
-   "price": 10.0,
-   "value": 25080.0,
-   "acc": "0002144017-26-000003",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "DX",
-   "company": "DYNEX CAPITAL INC",
-   "insider": "Popenoe Smriti Laxman",
-   "role": "Co-CEO and President",
-   "date": "2026-11-13",
-   "shares": 2600.0,
-   "price": 9.9,
-   "value": 25740.0,
-   "acc": "0000826675-26-000131",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Epstein David R",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 5000.0,
-   "price": 5.75,
-   "value": 28750.0,
-   "acc": "0001445826-26-000019",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "AOMR",
-   "company": "Angel Oak Mortgage REIT, Inc.",
-   "insider": "JONES CRAIG B",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 5000.0,
-   "price": 5.9411,
-   "value": 29705.5,
-   "acc": "0001766478-26-000078",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "AGMB",
    "company": "AgomAb Therapeutics NV",
@@ -2818,6 +2758,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "JYNT",
+   "company": "JOINT Corp",
+   "insider": "JOBSON CHARLES E",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 1614.0,
+   "price": 6.65,
+   "value": 10733.1,
+   "acc": "0001214659-26-014596",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4210,6 +4162,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 1056.0,
+   "price": 10.21,
+   "value": 10781.76,
+   "acc": "0001510281-26-000454",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "CATX",
    "company": "Perspective Therapeutics, Inc.",
    "insider": "Williamson Robert F III",
@@ -4352,6 +4316,18 @@
    "value": 57260.0,
    "acc": "0001104659-26-129796",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "JYNT",
+   "company": "JOINT Corp",
+   "insider": "JOBSON CHARLES E",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 10396.0,
+   "price": 6.65,
+   "value": 69133.4,
+   "acc": "0001214659-26-014596",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "NBP",
@@ -4798,6 +4774,30 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "JYNT",
+   "company": "JOINT Corp",
+   "insider": "JOBSON CHARLES E",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 44963.0,
+   "price": 6.65,
+   "value": 299003.95,
+   "acc": "0001214659-26-014596",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "CCB",
+   "company": "COASTAL FINANCIAL CORP",
+   "insider": "HOVDE STEVEN D",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 15000.0,
+   "price": 36.6667,
+   "value": 550000.5,
+   "acc": "0001019966-26-000008",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "IRTC",
    "company": "iRhythm Holdings, Inc.",
    "insider": "TALWALKAR ABHIJIT Y",
@@ -4877,11 +4877,6 @@
    "total_value": 395397.56
   },
   {
-   "ticker": "ADIG",
-   "insiders": 5,
-   "total_value": 325602.92
-  },
-  {
    "ticker": "FPS",
    "insiders": 2,
    "total_value": 309936.2
@@ -4890,6 +4885,11 @@
    "ticker": "NPCE",
    "insiders": 3,
    "total_value": 302103.02
+  },
+  {
+   "ticker": "ADIG",
+   "insiders": 4,
+   "total_value": 300522.92
   },
   {
    "ticker": "BW",
@@ -4935,11 +4935,6 @@
    "ticker": "STXS",
    "insiders": 3,
    "total_value": 135753.92
-  },
-  {
-   "ticker": "DX",
-   "insiders": 2,
-   "total_value": 125740.23
   },
   {
    "ticker": "HAWK",
