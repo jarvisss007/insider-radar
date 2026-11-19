@@ -1885,3 +1885,8 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - 0 scored by hand (INS-018). Grader 11-16: QTEX, TRXB wrong. Scorecard 86/238; headline 40% (n=149), sub-floor 30% (n=88). n too small for any new lesson; nothing new to cite from attribution.csv.
 - 6 clusters logged QUEUED (VISN, PCT, ADIG, NGS, HAWK, NTWK). THE ACCOUNT: VISN entered, the next five withheld under PORT-010 headroom (8.05% > 8%). Write order decides which row gets the last headroom — the writer took them largest-first, so the account's insider sleeve is selected by cluster size, a rule nobody chose (Brain §30 shape). Noted, not changed.
 - Writer gap: passing `stale_quote=''` explicitly is stored as blank instead of being computed. Fixed on today's six from --check within the minute. A proposal for Anupam: append_call should treat an empty string like a missing key.
+
+## 2026-11-19 [insider] — GARUDA sweep
+- Grader 11-18 scored 3, all wrong: APLD -22.3% (headline, $6.66M), FNGR -76.3% and GABC -2.6% (sub-floor). Strata now HEADLINE 40% (n=150, 50 days), sub-floor 29% (n=90, 42 days); desk 86/241 = 36%.
+- attribution.csv: "bought the run-up (>10%)" n=41 / 28 dates, hit 32%, avg -5.9%; "3+ insiders" n=74 / 36 dates, hit 36%, avg -3.7% — more insiders is not scoring better on our data. n is enough to say "no better", not enough to say "worse".
+- 12 clusters logged QUEUED; headroom admitted 4 before PORT-010 bit at 8.47%.
