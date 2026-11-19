@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-19 00:56 UTC",
+ "updated_utc": "2026-11-19 01:12 UTC",
  "purchases": [
-  {
-   "ticker": "VANI",
-   "company": "Vivani Medical, Inc.",
-   "insider": "Dwyer Donald",
-   "role": "Chief Business Officer",
-   "date": "2026-11-12",
-   "shares": 5000.0,
-   "price": 0.83,
-   "value": 4150.0,
-   "acc": "0001753926-26-002139",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "QNTO",
-   "company": "QUAINT OAK BANCORP, INC.",
-   "insider": "CLARKE JAMES J",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 300.0,
-   "price": 15.3,
-   "value": 4590.0,
-   "acc": "0001437749-26-037055",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "QNTO",
-   "company": "QUAINT OAK BANCORP, INC.",
-   "insider": "CLARKE JAMES J",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 300.0,
-   "price": 15.45,
-   "value": 4635.0,
-   "acc": "0001437749-26-037055",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "CATX",
    "company": "Perspective Therapeutics, Inc.",
@@ -3092,6 +3056,18 @@
    "filed": "2026-11-16"
   },
   {
+   "ticker": "OPTU",
+   "company": "Optimum Communications, Inc.",
+   "insider": "SUBIN NEIL S",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 267305.0,
+   "price": 0.5052,
+   "value": 135042.49,
+   "acc": "0001213900-26-121946",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -3186,6 +3162,18 @@
    "value": 244956.2,
    "acc": "0000950142-26-003077",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks Jabbok",
+   "role": "Founder & CEO /",
+   "date": "2026-11-16",
+   "shares": 16972.0,
+   "price": 14.73,
+   "value": 249997.56,
+   "acc": "0000950103-26-017803",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "LEO",
@@ -4318,6 +4306,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks William J.",
+   "role": "Founder & President",
+   "date": "2026-11-17",
+   "shares": 10000.0,
+   "price": 14.54,
+   "value": 145400.0,
+   "acc": "0000950103-26-017804",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "UTG",
    "company": "REAVES UTILITY INCOME FUND",
    "insider": "GRIMES THOMAS MICHAEL",
@@ -4867,6 +4867,11 @@
    "total_value": 470296.0
   },
   {
+   "ticker": "EQPT",
+   "insiders": 2,
+   "total_value": 457963.4
+  },
+  {
    "ticker": "RMIX",
    "insiders": 4,
    "total_value": 344158.95
@@ -4964,7 +4969,7 @@
   {
    "ticker": "VANI",
    "insiders": 2,
-   "total_value": 67408.3
+   "total_value": 63258.3
   },
   {
    "ticker": "LCTX",
