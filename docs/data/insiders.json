@@ -1,174 +1,6 @@
 {
- "updated_utc": "2026-11-19 20:46 UTC",
+ "updated_utc": "2026-11-19 21:02 UTC",
  "purchases": [
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-12",
-   "shares": 32317.0,
-   "price": 5.54,
-   "value": 179036.18,
-   "acc": "0001510281-26-000437",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ECL",
-   "company": "ECOLAB INC.",
-   "insider": "MacLennan David",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 600.0,
-   "price": 308.125,
-   "value": 184875.0,
-   "acc": "0001628280-26-073457",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "LRMR",
-   "company": "Larimar Therapeutics, Inc.",
-   "insider": "Hamilton Thomas Edward",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 70000.0,
-   "price": 2.6726,
-   "value": 187082.0,
-   "acc": "0001193125-26-459008",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "CAT",
-   "company": "CATERPILLAR INC",
-   "insider": "MacLennan David",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 350.0,
-   "price": 596.1,
-   "value": 208635.0,
-   "acc": "0001104659-26-127088",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "BRK.B",
-   "company": "BERKSHIRE HATHAWAY INC",
-   "insider": "O'Sullivan Michael J.",
-   "role": "See Remarks",
-   "date": "2026-11-12",
-   "shares": 367.0,
-   "price": 594.4,
-   "value": 218144.8,
-   "acc": "0001193125-26-463989",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "GLP",
-   "company": "GLOBAL PARTNERS LP",
-   "insider": "Global GP LLC",
-   "role": "",
-   "date": "2026-11-12",
-   "shares": 5000.0,
-   "price": 44.56,
-   "value": 222800.0,
-   "acc": "0001339396-26-000088",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "BH",
-   "company": "Biglari Holdings Inc.",
-   "insider": "BIGLARI, SARDAR",
-   "role": "Chairman and CEO",
-   "date": "2026-11-12",
-   "shares": 628.0,
-   "price": 354.95,
-   "value": 222908.6,
-   "acc": "0000921895-26-003050",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-12",
-   "shares": 1500.0,
-   "price": 152.8193,
-   "value": 229228.95,
-   "acc": "0001666120-26-000034",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-12",
-   "shares": 45924.0,
-   "price": 5.88,
-   "value": 270033.12,
-   "acc": "0001510281-26-000438",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "BOOT",
-   "company": "Boot Barn Holdings, Inc.",
-   "insider": "Watkins James M",
-   "role": "CFO & SECRETARY",
-   "date": "2026-11-12",
-   "shares": 2000.0,
-   "price": 135.37,
-   "value": 270740.0,
-   "acc": "0001562356-26-000004",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "IOND",
-   "company": "Ionic Digital Inc.",
-   "insider": "Abbate Michael",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 7149.0,
-   "price": 64.98,
-   "value": 464542.02,
-   "acc": "0001185185-26-005414",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Marcos Marcelo",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 8464.0,
-   "price": 63.92,
-   "value": 541018.88,
-   "acc": "0002022936-26-000018",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "ABCL",
-   "company": "AbCellera Biologics Inc.",
-   "insider": "Thermopylae Holdings Ltd.",
-   "role": "10% owner",
-   "date": "2026-11-12",
-   "shares": 60565.0,
-   "price": 11.54,
-   "value": 698920.1,
-   "acc": "0001834449-26-000009",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-12",
-   "shares": 5099.0,
-   "price": 149.46,
-   "value": 762096.54,
-   "acc": "0001666120-26-000034",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
@@ -3070,6 +2902,30 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 115.0,
+   "price": 2.527,
+   "value": 290.61,
+   "acc": "0001325533-26-000014",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "DAIO",
+   "company": "DATA I/O CORP",
+   "insider": "Red Oak Partners, LLC",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 209.0,
+   "price": 2.527,
+   "value": 528.14,
+   "acc": "0001325533-26-000014",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "AP",
    "company": "AMPCO PITTSBURGH CORP",
    "insider": "GERMAN MICHAEL I",
@@ -3118,6 +2974,30 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "DBHL",
+   "company": "Deep Isolation Nuclear, Inc.",
+   "insider": "Goldman Tepper Leslie",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 600.0,
+   "price": 1.9,
+   "value": 1140.0,
+   "acc": "0001213900-26-122226",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "SEID PAUL",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 498.0,
+   "price": 3.85,
+   "value": 1917.3,
+   "acc": "0001493152-26-053234",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "OWLS",
    "company": "OBOOK HOLDINGS INC.",
    "insider": "WANG CHUN KAI",
@@ -3140,6 +3020,18 @@
    "value": 2299.9,
    "acc": "0001682998-26-000002",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "DBHL",
+   "company": "Deep Isolation Nuclear, Inc.",
+   "insider": "Goldman Tepper Leslie",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 1200.0,
+   "price": 2.0,
+   "value": 2400.0,
+   "acc": "0001213900-26-122226",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "USA",
@@ -3310,6 +3202,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "SEID PAUL",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 2456.0,
+   "price": 3.7579,
+   "value": 9229.4,
+   "acc": "0001493152-26-053234",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "DAVI",
    "company": "DAVION HEALTHCARE PLC",
    "insider": "King Susan M",
@@ -3464,6 +3368,18 @@
    "value": 25228.8,
    "acc": "0001976408-26-000951",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "SEID PAUL",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 7046.0,
+   "price": 3.9626,
+   "value": 27920.48,
+   "acc": "0001493152-26-053234",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "TEAM",
@@ -4270,6 +4186,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "DBHL",
+   "company": "Deep Isolation Nuclear, Inc.",
+   "insider": "Goldman Tepper Leslie",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 99.0,
+   "price": 2.1951,
+   "value": 217.31,
+   "acc": "0001213900-26-122226",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "ASPS",
    "company": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
    "insider": "RITTS GREGORY J.",
@@ -4294,6 +4222,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "INLX",
+   "company": "INTELLINETICS, INC.",
+   "insider": "SEID PAUL",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 121.0,
+   "price": 3.73,
+   "value": 451.33,
+   "acc": "0001493152-26-053234",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
    "insider": "Deschenes Roger P.",
@@ -4303,6 +4243,18 @@
    "price": 1.79,
    "value": 537.0,
    "acc": "0001496259-26-000005",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "DBHL",
+   "company": "Deep Isolation Nuclear, Inc.",
+   "insider": "Goldman Tepper Leslie",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 401.0,
+   "price": 2.1648,
+   "value": 868.08,
+   "acc": "0001213900-26-122226",
    "filed": "2026-11-19"
   },
   {
@@ -4352,6 +4304,18 @@
    "value": 1055.0,
    "acc": "0001081400-26-000593",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "DBHL",
+   "company": "Deep Isolation Nuclear, Inc.",
+   "insider": "Goldman Tepper Leslie",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 1000.0,
+   "price": 2.0968,
+   "value": 2096.8,
+   "acc": "0001213900-26-122226",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "BIVI",
@@ -4474,6 +4438,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "DBHL",
+   "company": "Deep Isolation Nuclear, Inc.",
+   "insider": "Goldman Tepper Leslie",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 3500.0,
+   "price": 2.2,
+   "value": 7700.0,
+   "acc": "0001213900-26-122226",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "PEBK",
    "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
    "insider": "PRICE BILLY L JR DR",
@@ -4567,6 +4543,18 @@
    "price": 3.42,
    "value": 27360.0,
    "acc": "0001437749-26-037670",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "RIV",
+   "company": "RIVERNORTH OPPORTUNITIES FUND, INC.",
+   "insider": "O'Neill Stephen Andrew",
+   "role": "",
+   "date": "2026-11-18",
+   "shares": 5000.0,
+   "price": 9.5,
+   "value": 47500.0,
+   "acc": "0001398344-26-020323",
    "filed": "2026-11-19"
   },
   {
@@ -4798,6 +4786,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "RIV",
+   "company": "RIVERNORTH OPPORTUNITIES FUND, INC.",
+   "insider": "O'Neill Stephen Andrew",
+   "role": "",
+   "date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 9.5,
+   "value": 47500.0,
+   "acc": "0001398344-26-020323",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "AVK",
    "company": "ADVENT CONVERTIBLE & INCOME FUND",
    "insider": "MAITLAND TRACY V",
@@ -4819,7 +4819,7 @@
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 7626935.21
+   "total_value": 7085916.33
   },
   {
    "ticker": "STWD",
@@ -4850,11 +4850,6 @@
    "ticker": "RMIX",
    "insiders": 6,
    "total_value": 1087191.45
-  },
-  {
-   "ticker": "ABCL",
-   "insiders": 2,
-   "total_value": 796358.1
   },
   {
    "ticker": "ITG",
@@ -4979,7 +4974,7 @@
   {
    "ticker": "DAIO",
    "insiders": 2,
-   "total_value": 54605.77
+   "total_value": 55424.52
   },
   {
    "ticker": "FISN",
@@ -5015,6 +5010,11 @@
    "ticker": "UMH",
    "insiders": 3,
    "total_value": 15939.94
+  },
+  {
+   "ticker": "DBHL",
+   "insiders": 2,
+   "total_value": 15282.19
   },
   {
    "ticker": "LAND",
