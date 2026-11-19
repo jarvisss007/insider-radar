@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-19 23:40 UTC",
+ "updated_utc": "2026-11-19 23:56 UTC",
  "purchases": [
-  {
-   "ticker": "ADIG",
-   "company": "ADI GLOBAL DISTRIBUTION INC.",
-   "insider": "Copeland Alicia Crispin",
-   "role": "Executive VP and COO",
-   "date": "2026-11-13",
-   "shares": 5000.0,
-   "price": 10.11,
-   "value": 50550.0,
-   "acc": "0002144083-26-000003",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "GERN",
-   "company": "GERON CORP",
-   "insider": "Semerjian Harout",
-   "role": "President & CEO",
-   "date": "2026-11-13",
-   "shares": 53500.0,
-   "price": 0.95,
-   "value": 50825.0,
-   "acc": "0001809747-26-000002",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "FRPH",
    "company": "FRP HOLDINGS, INC.",
@@ -4508,6 +4484,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 75318.0,
+   "price": 5.72,
+   "value": 430818.96,
+   "acc": "0001510281-26-000459",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "ITT",
    "company": "ITT INC.",
    "insider": "Berryman Kevin C",
@@ -4697,6 +4685,18 @@
    "price": 13.4352,
    "value": 23740.0,
    "acc": "0001319960-26-000016",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "LIDR",
+   "company": "AEye, Inc.",
+   "insider": "Husby Jonathon B.",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 35860.0,
+   "price": 0.6988,
+   "value": 25058.97,
+   "acc": "0001437749-26-037775",
    "filed": "2026-11-19"
   },
   {
@@ -4900,14 +4900,14 @@
    "total_value": 302103.02
   },
   {
-   "ticker": "ADIG",
-   "insiders": 4,
-   "total_value": 300522.92
-  },
-  {
    "ticker": "BW",
    "insiders": 2,
    "total_value": 254100.0
+  },
+  {
+   "ticker": "ADIG",
+   "insiders": 3,
+   "total_value": 249972.92
   },
   {
    "ticker": "ECC",
