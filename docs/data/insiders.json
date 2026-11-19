@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-19 00:41 UTC",
+ "updated_utc": "2026-11-19 00:56 UTC",
  "purchases": [
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Starr Gayle P",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 11.3534,
-   "price": 11.94,
-   "value": 135.56,
-   "acc": "0001435109-26-000165",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
-   "company": "Fundrise Income Real Estate Fund, LLC",
-   "insider": "Starr Gayle P",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 36.0119,
-   "price": 10.12,
-   "value": 364.44,
-   "acc": "0001435109-26-000166",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "FRPH",
-   "company": "FRP HOLDINGS, INC.",
-   "insider": "Baker John D. III",
-   "role": "CEO",
-   "date": "2026-11-12",
-   "shares": 50.0,
-   "price": 18.61,
-   "value": 930.5,
-   "acc": "0000897069-26-001928",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "QNTO",
-   "company": "QUAINT OAK BANCORP, INC.",
-   "insider": "CLARKE JAMES J",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 100.0,
-   "price": 15.5,
-   "value": 1550.0,
-   "acc": "0001437749-26-037055",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "VANI",
    "company": "Vivani Medical, Inc.",
@@ -2312,6 +2264,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "OIG",
+   "company": "Orion180 Insurance Group Inc.",
+   "insider": "DEUTSCH ROBERT V",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 331.0,
+   "price": 10.25,
+   "value": 3392.75,
+   "acc": "0001493152-26-053114",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "Karp Jason H.",
@@ -3598,6 +3562,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "OIG",
+   "company": "Orion180 Insurance Group Inc.",
+   "insider": "DEUTSCH ROBERT V",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 1.0,
+   "price": 10.3,
+   "value": 10.3,
+   "acc": "0001493152-26-053114",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "STXS",
    "company": "Stereotaxis, Inc.",
    "insider": "Isaac Paul J",
@@ -4150,6 +4126,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "OIG",
+   "company": "Orion180 Insurance Group Inc.",
+   "insider": "DEUTSCH ROBERT V",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 9670.0,
+   "price": 10.268,
+   "value": 99291.56,
+   "acc": "0001493152-26-053114",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "NPCE",
    "company": "NeuroPace Inc",
    "insider": "Becker Joel",
@@ -4654,6 +4642,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "OIG",
+   "company": "Orion180 Insurance Group Inc.",
+   "insider": "DEUTSCH ROBERT V",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 321.0,
+   "price": 9.928,
+   "value": 3186.89,
+   "acc": "0001493152-26-053114",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "PEBK",
    "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
    "insider": "PRICE BILLY L JR DR",
@@ -4915,11 +4915,6 @@
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 201356.25
-  },
-  {
-   "ticker": "FRPH",
-   "insiders": 2,
-   "total_value": 200710.9
   },
   {
    "ticker": "MAIA",
