@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-19 22:21 UTC",
+ "updated_utc": "2026-11-19 22:37 UTC",
  "purchases": [
-  {
-   "ticker": "CCNE",
-   "company": "CNB FINANCIAL CORP/PA",
-   "insider": "Peduzzi Michael D",
-   "role": "President & CEO",
-   "date": "2026-11-13",
-   "shares": 400.0,
-   "price": 35.63,
-   "value": 14252.0,
-   "acc": "0001409722-26-000015",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "MRBK",
-   "company": "Meridian Corp",
-   "insider": "Warriner Kenneth Thomas",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 1000.0,
-   "price": 16.185,
-   "value": 16185.0,
-   "acc": "0002131880-26-000008",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "ALT",
-   "company": "Altimmune, Inc.",
-   "insider": "Pisano Wayne",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 10000.0,
-   "price": 1.635,
-   "value": 16350.0,
-   "acc": "0001743611-26-000008",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "CIA",
-   "company": "CITIZENS, INC.",
-   "insider": "Hoxworth Seth Alan",
-   "role": "Chief Actuary & Risk Officer",
-   "date": "2026-11-13",
-   "shares": 5899.0,
-   "price": 3.327,
-   "value": 19625.97,
-   "acc": "0002120865-26-000009",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ASR",
-   "company": "SOUTHEAST AIRPORT GROUP",
-   "insider": "Perez Alonso Aurelio",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 885.0,
-   "price": 27.35,
-   "value": 24204.75,
-   "acc": "0001104659-26-130042",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "ENOV",
-   "company": "Enovis CORP",
-   "insider": "Lalor Angela S",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 880.0,
-   "price": 28.27,
-   "value": 24877.6,
-   "acc": "0001193125-26-464221",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
@@ -2878,6 +2806,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "SUNS",
+   "company": "Sunrise Realty Trust, Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Executive Chairman",
+   "date": "2026-11-17",
+   "shares": 1601.0,
+   "price": 6.68,
+   "value": 10694.68,
+   "acc": "0001628280-26-075133",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -3584,6 +3524,18 @@
    "value": 160450.0,
    "acc": "0001976129-26-000001",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 48013.0,
+   "price": 3.49,
+   "value": 167565.37,
+   "acc": "0001628280-26-075135",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "BH",
@@ -4522,6 +4474,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "AFCG",
+   "company": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 37491.0,
+   "price": 3.49,
+   "value": 130843.59,
+   "acc": "0001628280-26-075135",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -4591,6 +4555,18 @@
    "price": 3.5959,
    "value": 249713.68,
    "acc": "0001601974-26-000016",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "BSM",
+   "company": "Black Stone Minerals, L.P.",
+   "insider": "Carter Thomas L Jr",
+   "role": "Executive Chairman",
+   "date": "2026-11-18",
+   "shares": 23233.0,
+   "price": 13.5087,
+   "value": 313847.63,
+   "acc": "0001319960-26-000016",
    "filed": "2026-11-19"
   },
   {
@@ -4762,6 +4738,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "BSM",
+   "company": "Black Stone Minerals, L.P.",
+   "insider": "Carter Thomas L Jr",
+   "role": "Executive Chairman",
+   "date": "2026-11-19",
+   "shares": 1767.0,
+   "price": 13.4352,
+   "value": 23740.0,
+   "acc": "0001319960-26-000016",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "TROX",
    "company": "Tronox Holdings plc",
    "insider": "Jones Stephen J",
@@ -4807,6 +4795,18 @@
    "price": 10.149,
    "value": 202980.0,
    "acc": "0001251345-26-000002",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "IRTC",
+   "company": "iRhythm Holdings, Inc.",
+   "insider": "TALWALKAR ABHIJIT Y",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 7900.0,
+   "price": 96.6717,
+   "value": 763706.43,
+   "acc": "0001316065-26-000016",
    "filed": "2026-11-19"
   }
  ],
@@ -4958,8 +4958,8 @@
   },
   {
    "ticker": "ALT",
-   "insiders": 3,
-   "total_value": 80231.09
+   "insiders": 2,
+   "total_value": 63881.09
   },
   {
    "ticker": "TGEN",
@@ -5045,7 +5045,6 @@
   }
  ],
  "seen": [
-  "0002006852-26-000005",
   "0002006935-26-000008",
   "0002006943-26-000012",
   "0002006945-26-000007",
@@ -7290,6 +7289,7 @@
   "0002110603-26-000013",
   "0002110603-26-000015",
   "0002110638-26-000019",
+  "0002110638-26-000021",
   "0002110643-26-000016",
   "0002110643-26-000018",
   "0002110643-26-000020",
