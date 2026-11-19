@@ -1,174 +1,6 @@
 {
- "updated_utc": "2026-11-19 21:34 UTC",
+ "updated_utc": "2026-11-19 21:50 UTC",
  "purchases": [
-  {
-   "ticker": "OVBC",
-   "company": "OHIO VALLEY BANC CORP",
-   "insider": "Michael Seth Isaac",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 60.652,
-   "price": 49.4625,
-   "value": 3000.0,
-   "acc": "0000894671-26-000069",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 300.0,
-   "price": 10.21,
-   "value": 3063.0,
-   "acc": "0001510281-26-000436",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 1395.0,
-   "price": 2.4,
-   "value": 3348.0,
-   "acc": "0001178579-26-000025",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "IPM",
-   "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
-   "insider": "Katz Jason",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 2000.0,
-   "price": 1.73,
-   "value": 3460.0,
-   "acc": "0001213900-26-121462",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CCNE",
-   "company": "CNB FINANCIAL CORP/PA",
-   "insider": "Peduzzi Michael D",
-   "role": "President & CEO",
-   "date": "2026-11-13",
-   "shares": 100.0,
-   "price": 35.65,
-   "value": 3565.0,
-   "acc": "0001409722-26-000015",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "CVV",
-   "company": "CVD EQUIPMENT CORP",
-   "insider": "Cheesman Warren David",
-   "role": "Acting Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 1000.0,
-   "price": 4.1,
-   "value": 4100.0,
-   "acc": "0000766792-26-000014",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CVV",
-   "company": "CVD EQUIPMENT CORP",
-   "insider": "Catalano Richard Andrew",
-   "role": "EVP & Chief Financial Officer",
-   "date": "2026-11-13",
-   "shares": 1000.0,
-   "price": 4.15,
-   "value": 4150.0,
-   "acc": "0000766792-26-000015",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "FISN",
-   "company": "DEEP FISSION, INC.",
-   "insider": "Peres Mark Wayne",
-   "role": "Chief Nuclear Officer",
-   "date": "2026-11-13",
-   "shares": 2525.252,
-   "price": 1.98,
-   "value": 5000.0,
-   "acc": "0001104659-26-129201",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CRVS",
-   "company": "Corvus Pharmaceuticals, Inc.",
-   "insider": "Arcara Jeffrey",
-   "role": "Chief Business Officer",
-   "date": "2026-11-13",
-   "shares": 503.0,
-   "price": 10.37,
-   "value": 5216.11,
-   "acc": "0001610717-26-000454",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "CRVS",
-   "company": "Corvus Pharmaceuticals, Inc.",
-   "insider": "Arcara Jeffrey",
-   "role": "Chief Business Officer",
-   "date": "2026-11-13",
-   "shares": 500.0,
-   "price": 10.7087,
-   "value": 5354.35,
-   "acc": "0001610717-26-000454",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "ELTK",
-   "company": "ELTEK LTD",
-   "insider": "Nissan Yitzhak",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 1000.0,
-   "price": 5.83,
-   "value": 5830.0,
-   "acc": "0001178913-26-005305",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "WVVI",
-   "company": "WILLAMETTE VALLEY VINEYARDS INC",
-   "insider": "Voorhies Gregory William",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 4753.0,
-   "price": 1.6438,
-   "value": 7812.98,
-   "acc": "0001199835-26-000411",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CVV",
-   "company": "CVD EQUIPMENT CORP",
-   "insider": "Catalano Richard Andrew",
-   "role": "EVP & Chief Financial Officer",
-   "date": "2026-11-13",
-   "shares": 2000.0,
-   "price": 4.04,
-   "value": 8080.0,
-   "acc": "0000766792-26-000015",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 9800.0,
-   "price": 1.0402,
-   "value": 10193.96,
-   "acc": "0001841761-26-000117",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "AWRE",
    "company": "AWARE INC /MA/",
@@ -2132,6 +1964,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "FUNC",
+   "company": "FIRST UNITED CORP/MD/",
+   "insider": "Bender Shawn Robert",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 2157.6974,
+   "price": 46.3457,
+   "value": 100000.0,
+   "acc": "0001014100-26-000033",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "OFRM",
    "company": "Once Upon a Farm, PBC",
    "insider": "Foraker John M.",
@@ -2938,6 +2782,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "LFT",
+   "company": "Lument Finance Trust, Inc.",
+   "insider": "Flynn James Peter",
+   "role": "CEO",
+   "date": "2026-11-17",
+   "shares": 1406.0,
+   "price": 3.46,
+   "value": 4864.76,
+   "acc": "0001727995-26-000008",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "JOF",
    "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
    "insider": "Saba Capital Management, L.P.",
@@ -3440,6 +3296,18 @@
    "value": 64980.0,
    "acc": "0000950142-26-003126",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "TLSI",
+   "company": "TriSalus Life Sciences, Inc.",
+   "insider": "Szela Mary T",
+   "role": "CEO and President",
+   "date": "2026-11-17",
+   "shares": 30864.0,
+   "price": 2.31,
+   "value": 71295.84,
+   "acc": "0001628280-26-075100",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "UTG",
@@ -4270,6 +4138,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "LFT",
+   "company": "Lument Finance Trust, Inc.",
+   "insider": "HOULIHAN WILLIAM A",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 1000.0,
+   "price": 3.74,
+   "value": 3740.0,
+   "acc": "0001185292-26-000015",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "CVSI",
    "company": "CV Sciences, Inc.",
    "insider": "CHEEVER CHARLIE E III",
@@ -4378,6 +4258,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "LFT",
+   "company": "Lument Finance Trust, Inc.",
+   "insider": "Flynn James Peter",
+   "role": "CEO",
+   "date": "2026-11-18",
+   "shares": 2813.0,
+   "price": 3.595,
+   "value": 10112.74,
+   "acc": "0001727995-26-000008",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "CATX",
    "company": "Perspective Therapeutics, Inc.",
    "insider": "Williamson Robert F III",
@@ -4447,6 +4339,18 @@
    "price": 3.42,
    "value": 27360.0,
    "acc": "0001437749-26-037670",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-18",
+   "shares": 200.0,
+   "price": 138.26,
+   "value": 27652.0,
+   "acc": "0001666120-26-000038",
    "filed": "2026-11-19"
   },
   {
@@ -4522,6 +4426,30 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-18",
+   "shares": 600.0,
+   "price": 134.8664,
+   "value": 80919.84,
+   "acc": "0001666120-26-000038",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-18",
+   "shares": 600.0,
+   "price": 137.41,
+   "value": 82446.0,
+   "acc": "0001666120-26-000038",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "HMH",
    "company": "HMH Holding Inc",
    "insider": "Bergsvik Eirik",
@@ -4531,6 +4459,18 @@
    "price": 11.01,
    "value": 88080.0,
    "acc": "0001628280-26-075039",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "TLSI",
+   "company": "TriSalus Life Sciences, Inc.",
+   "insider": "Szela Mary T",
+   "role": "CEO and President",
+   "date": "2026-11-18",
+   "shares": 34328.0,
+   "price": 2.59,
+   "value": 88909.52,
+   "acc": "0001628280-26-075100",
    "filed": "2026-11-19"
   },
   {
@@ -4630,6 +4570,30 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-18",
+   "shares": 1620.0,
+   "price": 142.8519,
+   "value": 231420.08,
+   "acc": "0001666120-26-000038",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-18",
+   "shares": 1800.0,
+   "price": 135.6994,
+   "value": 244258.92,
+   "acc": "0001666120-26-000038",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "BGS",
    "company": "B&G Foods, Inc.",
    "insider": "Mills Robert D",
@@ -4639,6 +4603,18 @@
    "price": 3.5959,
    "value": 249713.68,
    "acc": "0001601974-26-000016",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-18",
+   "shares": 3038.0,
+   "price": 140.9597,
+   "value": 428235.57,
+   "acc": "0001666120-26-000038",
    "filed": "2026-11-19"
   },
   {
@@ -4676,6 +4652,18 @@
    "value": 664120.0,
    "acc": "0001458423-26-000012",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-18",
+   "shares": 5542.0,
+   "price": 141.9984,
+   "value": 786955.13,
+   "acc": "0001666120-26-000038",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "EFC",
@@ -4747,6 +4735,18 @@
    "price": 2.775,
    "value": 1387.5,
    "acc": "0001536588-26-000049",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "LFT",
+   "company": "Lument Finance Trust, Inc.",
+   "insider": "Flynn James Peter",
+   "role": "CEO",
+   "date": "2026-11-19",
+   "shares": 1406.0,
+   "price": 3.52,
+   "value": 4949.12,
+   "acc": "0001727995-26-000008",
    "filed": "2026-11-19"
   },
   {
@@ -4863,8 +4863,8 @@
   },
   {
    "ticker": "CVV",
-   "insiders": 3,
-   "total_value": 496052.45
+   "insiders": 2,
+   "total_value": 479722.45
   },
   {
    "ticker": "PCT",
@@ -4972,19 +4972,14 @@
    "total_value": 55424.52
   },
   {
-   "ticker": "FISN",
-   "insiders": 3,
-   "total_value": 47775.5
-  },
-  {
    "ticker": "CATX",
    "insiders": 2,
    "total_value": 46996.0
   },
   {
-   "ticker": "GROV",
+   "ticker": "FISN",
    "insiders": 2,
-   "total_value": 40744.82
+   "total_value": 42775.5
   },
   {
    "ticker": "NTWK",
@@ -5000,6 +4995,16 @@
    "ticker": "MSGM",
    "insiders": 3,
    "total_value": 31412.33
+  },
+  {
+   "ticker": "GROV",
+   "insiders": 2,
+   "total_value": 30550.86
+  },
+  {
+   "ticker": "LFT",
+   "insiders": 2,
+   "total_value": 23666.62
   },
   {
    "ticker": "UMH",
@@ -5040,15 +5045,6 @@
   }
  ],
  "seen": [
-  "0002005790-26-000024",
-  "0002005790-26-000026",
-  "0002005790-26-000028",
-  "0002005790-26-000030",
-  "0002006087-26-000002",
-  "0002006278-26-000004",
-  "0002006416-26-000013",
-  "0002006416-26-000015",
-  "0002006416-26-000017",
   "0002006416-26-000019",
   "0002006416-26-000021",
   "0002006495-26-000012",
@@ -5583,6 +5579,7 @@
   "0002034303-26-000006",
   "0002034308-26-000002",
   "0002034388-26-000003",
+  "0002034388-26-000005",
   "0002034458-26-000006",
   "0002034458-26-000007",
   "0002034458-26-000010",
@@ -5766,6 +5763,7 @@
   "0002044425-26-000014",
   "0002044800-26-000006",
   "0002044800-26-000008",
+  "0002044904-26-000003",
   "0002044927-26-000009",
   "0002045034-26-000003",
   "0002045034-26-000005",
@@ -5868,6 +5866,7 @@
   "0002050857-26-000012",
   "0002050857-26-000016",
   "0002050857-26-000018",
+  "0002050857-26-000020",
   "0002050978-26-000006",
   "0002050978-26-000008",
   "0002050987-26-000002",
@@ -5974,6 +5973,7 @@
   "0002057116-26-000006",
   "0002057292-26-000006",
   "0002057385-26-000004",
+  "0002057553-26-000003",
   "0002057567-26-000006",
   "0002057569-26-000026",
   "0002057569-26-000030",
@@ -6071,6 +6071,7 @@
   "0002060697-26-000016",
   "0002060697-26-000018",
   "0002060697-26-000020",
+  "0002060697-26-000022",
   "0002060757-26-000051",
   "0002060757-26-000052",
   "0002060757-26-000053",
@@ -6829,6 +6830,7 @@
   "0002078265-26-000503",
   "0002078285-26-000005",
   "0002078285-26-000007",
+  "0002078285-26-000009",
   "0002078339-26-000012",
   "0002078339-26-000018",
   "0002078339-26-000020",
@@ -7220,6 +7222,7 @@
   "0002104631-26-000016",
   "0002104631-26-000018",
   "0002104631-26-000020",
+  "0002104631-26-000023",
   "0002104636-26-000005",
   "0002104848-26-000012",
   "0002104954-26-000001",
@@ -7426,6 +7429,7 @@
   "0002117480-26-000002",
   "0002117509-26-000006",
   "0002117587-26-000004",
+  "0002117592-26-000007",
   "0002117599-26-000006",
   "0002117599-26-000009",
   "0002117770-26-000005",
@@ -7882,6 +7886,7 @@
   "0002148161-26-000010",
   "0002148161-26-000012",
   "0002148161-26-000014",
+  "0002148161-26-000017",
   "0002148287-26-000002",
   "0002148361-26-000003",
   "0002148361-26-000004",
