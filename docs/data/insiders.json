@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-19 18:55 UTC",
+ "updated_utc": "2026-11-19 19:11 UTC",
  "purchases": [
-  {
-   "ticker": "CRESY",
-   "company": "CRESUD INC",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 100000.0,
-   "price": 0.89,
-   "value": 89000.0,
-   "acc": "0002119764-26-000036",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "VISN",
-   "company": "Vistance Networks, Inc.",
-   "insider": "Watts Claudius E. IV",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 25000.0,
-   "price": 3.9988,
-   "value": 99970.0,
-   "acc": "0001193125-26-458974",
-   "filed": "2026-11-12"
-  },
-  {
-   "ticker": "TH",
-   "company": "Target Hospitality Corp.",
-   "insider": "Schrenk Troy C.",
-   "role": "Chief Commercial Officer",
-   "date": "2026-11-12",
-   "shares": 8278.0,
-   "price": 12.08,
-   "value": 99998.24,
-   "acc": "0001712189-26-000065",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "DOX",
-   "company": "AMDOCS LTD",
-   "insider": "DE LA VEGA RAFAEL",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 2297.0,
-   "price": 44.505,
-   "value": 102227.99,
-   "acc": "0001193125-26-462052",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-12",
-   "shares": 5261.0,
-   "price": 21.16,
-   "value": 111322.76,
-   "acc": "0001510281-26-000441",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "TLSI",
-   "company": "TriSalus Life Sciences, Inc.",
-   "insider": "Wahlstrom Mats",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 50000.0,
-   "price": 2.24,
-   "value": 112000.0,
-   "acc": "0001628280-26-074009",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
@@ -708,6 +636,18 @@
    "value": 19625.97,
    "acc": "0002120865-26-000009",
    "filed": "2026-11-16"
+  },
+  {
+   "ticker": "ASR",
+   "company": "SOUTHEAST AIRPORT GROUP",
+   "insider": "Perez Alonso Aurelio",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 885.0,
+   "price": 27.35,
+   "value": 24204.75,
+   "acc": "0001104659-26-130042",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "ENOV",
@@ -3478,6 +3418,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "CVSI",
+   "company": "CV Sciences, Inc.",
+   "insider": "CHEEVER CHARLIE E III",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 1628093.0,
+   "price": 0.01,
+   "value": 16280.93,
+   "acc": "0001202557-26-000007",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4102,6 +4054,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "PRTA",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "insider": "SCULLY WILLIAM P",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 50000.0,
+   "price": 8.0936,
+   "value": 404680.0,
+   "acc": "0001045463-26-000027",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "KTTA",
    "company": "Pasithea Therapeutics Corp.",
    "insider": "Coastlands Capital LP",
@@ -4474,6 +4438,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "CVSI",
+   "company": "CV Sciences, Inc.",
+   "insider": "CHEEVER CHARLIE E III",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 402618.0,
+   "price": 0.01,
+   "value": 4026.18,
+   "acc": "0001202557-26-000007",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "ELTK",
    "company": "ELTEK LTD",
    "insider": "Nissan Yitzhak",
@@ -4483,6 +4459,18 @@
    "price": 5.5378,
    "value": 4430.24,
    "acc": "0001178913-26-005305",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "SRTS",
+   "company": "Sensus Healthcare, Inc.",
+   "insider": "Cornish Megan",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 2200.0,
+   "price": 2.28,
+   "value": 5016.0,
+   "acc": "0001832041-26-000002",
    "filed": "2026-11-19"
   },
   {
@@ -4640,6 +4628,18 @@
    "value": 57260.0,
    "acc": "0001104659-26-129796",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "HMH",
+   "company": "HMH Holding Inc",
+   "insider": "Bergsvik Eirik",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 8000.0,
+   "price": 11.01,
+   "value": 88080.0,
+   "acc": "0001628280-26-075039",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "CRC",
@@ -4842,6 +4842,11 @@
    "total_value": 2181884.0
   },
   {
+   "ticker": "HMH",
+   "insiders": 2,
+   "total_value": 1736052.0
+  },
+  {
    "ticker": "RMIX",
    "insiders": 6,
    "total_value": 1087191.45
@@ -4930,6 +4935,11 @@
    "ticker": "NGS",
    "insiders": 3,
    "total_value": 192961.79
+  },
+  {
+   "ticker": "SRTS",
+   "insiders": 2,
+   "total_value": 187988.72
   },
   {
    "ticker": "STXS",
