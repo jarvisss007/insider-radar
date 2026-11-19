@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-19 10:51 UTC",
+ "updated_utc": "2026-11-19 13:57 UTC",
  "purchases": [
-  {
-   "ticker": "ENOV",
-   "company": "Enovis CORP",
-   "insider": "Lalor Angela S",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 500.0,
-   "price": 28.29,
-   "value": 14145.0,
-   "acc": "0001193125-26-464221",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "CATX",
-   "company": "Perspective Therapeutics, Inc.",
-   "insider": "Morich Frank",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 15000.0,
-   "price": 0.9971,
-   "value": 14956.5,
-   "acc": "0001193125-26-462221",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "VANI",
-   "company": "Vivani Medical, Inc.",
-   "insider": "Dwyer Donald",
-   "role": "Chief Business Officer",
-   "date": "2026-11-12",
-   "shares": 15000.0,
-   "price": 1.033,
-   "value": 15495.0,
-   "acc": "0001753926-26-002139",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "CATX",
-   "company": "Perspective Therapeutics, Inc.",
-   "insider": "Williamson Robert F III",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 18609.0,
-   "price": 0.84,
-   "value": 15631.56,
-   "acc": "0001193125-26-462220",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "TRTX",
-   "company": "TPG RE Finance Trust, Inc.",
-   "insider": "Gillmore Michael",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 2500.0,
-   "price": 6.5,
-   "value": 16250.0,
-   "acc": "0001193125-26-460638",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "GLXZ",
    "company": "Galaxy Gaming, Inc.",
@@ -3502,6 +3442,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "BKYI",
+   "company": "BIO KEY INTERNATIONAL INC",
+   "insider": "DEPASQUALE MICHAEL W",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-17",
+   "shares": 1986.0,
+   "price": 1.91,
+   "value": 3793.26,
+   "acc": "0001437749-26-037627",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4064,6 +4016,18 @@
    "value": 100385.0,
    "acc": "0001623963-26-000003",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "CTGO",
+   "company": "Contango Silver & Gold Inc.",
+   "insider": "Van Nieuwenhuyse Rick",
+   "role": "CEO",
+   "date": "2026-11-17",
+   "shares": 9258.0,
+   "price": 10.92,
+   "value": 101097.36,
+   "acc": "0001193125-26-467841",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "ECC",
@@ -4630,6 +4594,30 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "OESX",
+   "company": "ORION ENERGY SYSTEMS, INC.",
+   "insider": "Washlow Sally A.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 855.0,
+   "price": 11.8,
+   "value": 10089.0,
+   "acc": "0000897069-26-001953",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "CATX",
+   "company": "Perspective Therapeutics, Inc.",
+   "insider": "Williamson Robert F III",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 15000.0,
+   "price": 0.8,
+   "value": 12000.0,
+   "acc": "0001193125-26-467852",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "UMH",
    "company": "UMH PROPERTIES, INC.",
    "insider": "Carus Jeffrey A",
@@ -4664,6 +4652,18 @@
    "value": 49171.97,
    "acc": "0001213900-26-121959",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "DX",
+   "company": "DYNEX CAPITAL INC",
+   "insider": "BOSTON BYRON L",
+   "role": "Co-CEO & Chairman of the Board",
+   "date": "2026-11-18",
+   "shares": 5187.0,
+   "price": 9.64,
+   "value": 50002.68,
+   "acc": "0001283563-26-000006",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "XBP",
@@ -4898,8 +4898,8 @@
   },
   {
    "ticker": "TRTX",
-   "insiders": 3,
-   "total_value": 273324.32
+   "insiders": 2,
+   "total_value": 257074.32
   },
   {
    "ticker": "PAL",
@@ -4937,6 +4937,11 @@
    "total_value": 135753.92
   },
   {
+   "ticker": "DX",
+   "insiders": 2,
+   "total_value": 125740.23
+  },
+  {
    "ticker": "VISN",
    "insiders": 2,
    "total_value": 119820.0
@@ -4945,11 +4950,6 @@
    "ticker": "DAIO",
    "insiders": 2,
    "total_value": 116024.73
-  },
-  {
-   "ticker": "CATX",
-   "insiders": 4,
-   "total_value": 115188.81
   },
   {
    "ticker": "HAWK",
@@ -4962,19 +4962,14 @@
    "total_value": 107791.0
   },
   {
+   "ticker": "CATX",
+   "insiders": 4,
+   "total_value": 96600.75
+  },
+  {
    "ticker": "ALT",
    "insiders": 3,
    "total_value": 80231.09
-  },
-  {
-   "ticker": "DX",
-   "insiders": 2,
-   "total_value": 75737.55
-  },
-  {
-   "ticker": "VANI",
-   "insiders": 2,
-   "total_value": 63258.3
   },
   {
    "ticker": "LCTX",
@@ -5050,27 +5045,6 @@
   }
  ],
  "seen": [
-  "0002004135-26-000013",
-  "0002004215-26-000006",
-  "0002004222-26-000006",
-  "0002004222-26-000007",
-  "0002004239-26-000011",
-  "0002004299-26-000008",
-  "0002004306-26-000004",
-  "0002004306-26-000006",
-  "0002004328-26-000013",
-  "0002004328-26-000014",
-  "0002004328-26-000016",
-  "0002004328-26-000017",
-  "0002004397-26-000005",
-  "0002004397-26-000007",
-  "0002004397-26-000009",
-  "0002004828-26-000001",
-  "0002004883-26-000006",
-  "0002004903-26-000006",
-  "0002005023-26-000001",
-  "0002005037-26-000012",
-  "0002005037-26-000013",
   "0002005037-26-000014",
   "0002005037-26-000015",
   "0002005037-26-000016",
@@ -6636,6 +6610,27 @@
   "0002074225-26-000039",
   "0002074225-26-000040",
   "0002074225-26-000041",
+  "0002074225-26-000063",
+  "0002074225-26-000064",
+  "0002074225-26-000065",
+  "0002074225-26-000066",
+  "0002074225-26-000067",
+  "0002074225-26-000068",
+  "0002074225-26-000069",
+  "0002074225-26-000070",
+  "0002074225-26-000071",
+  "0002074225-26-000072",
+  "0002074225-26-000073",
+  "0002074225-26-000074",
+  "0002074225-26-000075",
+  "0002074225-26-000076",
+  "0002074225-26-000077",
+  "0002074225-26-000078",
+  "0002074225-26-000079",
+  "0002074225-26-000080",
+  "0002074225-26-000081",
+  "0002074225-26-000082",
+  "0002074225-26-000083",
   "0002074298-26-000016",
   "0002074298-26-000017",
   "0002074298-26-000018",
