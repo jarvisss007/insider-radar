@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-19 01:28 UTC",
+ "updated_utc": "2026-11-19 01:44 UTC",
  "purchases": [
-  {
-   "ticker": "LOAN",
-   "company": "MANHATTAN BRIDGE CAPITAL, INC",
-   "insider": "RAN ASSAF",
-   "role": "President and CEO",
-   "date": "2026-11-12",
-   "shares": 2500.0,
-   "price": 3.23,
-   "value": 8075.0,
-   "acc": "0001493152-26-051716",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "LOAN",
-   "company": "MANHATTAN BRIDGE CAPITAL, INC",
-   "insider": "RAN ASSAF",
-   "role": "President and CEO",
-   "date": "2026-11-12",
-   "shares": 2500.0,
-   "price": 3.235,
-   "value": 8087.5,
-   "acc": "0001493152-26-051716",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "LOAN",
-   "company": "MANHATTAN BRIDGE CAPITAL, INC",
-   "insider": "RAN ASSAF",
-   "role": "President and CEO",
-   "date": "2026-11-12",
-   "shares": 2500.0,
-   "price": 3.245,
-   "value": 8112.5,
-   "acc": "0001493152-26-051716",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "LOAN",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
@@ -2624,6 +2588,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-11-16",
+   "shares": 15879.0,
+   "price": 1.7641,
+   "value": 28012.14,
+   "acc": "0001493152-26-053120",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -3922,6 +3898,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 29207.0,
+   "price": 1.7219,
+   "value": 50291.53,
+   "acc": "0001493152-26-053120",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "FFIN",
    "company": "FIRST FINANCIAL BANKSHARES INC",
    "insider": "Davis Sally Pope",
@@ -4630,6 +4618,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "GRCE",
+   "company": "Grace Therapeutics, Inc.",
+   "insider": "Opaleye Management Inc.",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 2974.0,
+   "price": 1.7254,
+   "value": 5131.34,
+   "acc": "0001493152-26-053120",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "PEBK",
    "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
    "insider": "PRICE BILLY L JR DR",
@@ -5045,8 +5045,6 @@
   }
  ],
  "seen": [
-  "0002004135-26-000008",
-  "0002004135-26-000010",
   "0002004135-26-000013",
   "0002004215-26-000006",
   "0002004222-26-000006",
@@ -5187,6 +5185,7 @@
   "0002012135-26-000021",
   "0002012135-26-000023",
   "0002012135-26-000025",
+  "0002012135-26-000027",
   "0002012179-26-000005",
   "0002012354-26-000002",
   "0002012354-26-000003",
@@ -5638,6 +5637,7 @@
   "0002034857-26-000012",
   "0002034857-26-000014",
   "0002034857-26-000016",
+  "0002034857-26-000018",
   "0002034870-26-000001",
   "0002034870-26-000002",
   "0002034870-26-000003",
