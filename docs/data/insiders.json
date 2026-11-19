@@ -1,31 +1,6 @@
 {
- "updated_utc": "2026-11-19 23:25 UTC",
+ "updated_utc": "2026-11-19 23:40 UTC",
  "purchases": [
-  {
-   "ticker": "NSPR",
-   "company": "InspireMD, Inc.",
-   "insider": "BERMAN MICHAEL",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 76923.0,
-   "price": 0.65,
-   "value": 49999.95,
-   "acc": "0001493152-26-052825",
-   "filed": "2026-11-17",
-   "placement": true
-  },
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "LEE CHAE",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 20000.0,
-   "price": 2.5071,
-   "value": 50142.0,
-   "acc": "0001193125-26-464325",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "ADIG",
    "company": "ADI GLOBAL DISTRIBUTION INC.",
@@ -4161,6 +4136,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 7790.0,
+   "price": 5.39,
+   "value": 41988.1,
+   "acc": "0001510281-26-000458",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "RIV",
    "company": "RIVERNORTH OPPORTUNITIES FUND, INC.",
    "insider": "O'Neill Stephen Andrew",
@@ -4494,6 +4481,18 @@
    "price": 13.5087,
    "value": 313847.63,
    "acc": "0001319960-26-000016",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 16628.0,
+   "price": 20.69,
+   "value": 344033.32,
+   "acc": "0001510281-26-000457",
    "filed": "2026-11-19"
   },
   {
@@ -5022,9 +5021,9 @@
   },
   {
    "ticker": "NSPR",
-   "insiders": 4,
+   "insiders": 3,
    "total_value": 0,
-   "other_value": 425000.55
+   "other_value": 375000.6
   },
   {
    "ticker": "WWB",
@@ -5034,9 +5033,6 @@
   }
  ],
  "seen": [
-  "0002006935-26-000008",
-  "0002006943-26-000012",
-  "0002006945-26-000007",
   "0002006956-26-000004",
   "0002007137-26-000007",
   "0002007420-26-000002",
@@ -5376,14 +5372,17 @@
   "0002024169-26-000014",
   "0002024169-26-000018",
   "0002024169-26-000020",
+  "0002024169-26-000025",
   "0002024218-26-000083",
   "0002024218-26-000091",
   "0002024250-26-000022",
   "0002024250-26-000024",
   "0002024250-26-000031",
   "0002024250-26-000037",
+  "0002024250-26-000044",
   "0002024630-26-000018",
   "0002024630-26-000024",
+  "0002024630-26-000029",
   "0002024911-26-000004",
   "0002024911-26-000006",
   "0002025039-26-000004",
