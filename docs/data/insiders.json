@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-19 21:50 UTC",
+ "updated_utc": "2026-11-19 22:05 UTC",
  "purchases": [
-  {
-   "ticker": "AWRE",
-   "company": "AWARE INC /MA/",
-   "insider": "Amlani Ajay K",
-   "role": "President & CEO",
-   "date": "2026-11-13",
-   "shares": 11000.0,
-   "price": 0.96,
-   "value": 10560.0,
-   "acc": "0001193125-26-465790",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "MSC",
-   "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
-   "insider": "HO LAWRENCE YAU LUNG",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 49336.0,
-   "price": 0.2631,
-   "value": 12980.3,
-   "acc": "0001193125-26-461836",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "EP",
    "company": "EMPIRE PETROLEUM CORP",
@@ -4198,6 +4174,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "NMAD",
+   "company": "NOMAD POWER SOLUTIONS, INC.",
+   "insider": "Travaglini John Francis",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 2000.0,
+   "price": 2.95,
+   "value": 5900.0,
+   "acc": "0001493152-26-053293",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "CLNN",
    "company": "Clene Inc.",
    "insider": "WILCOX REED N",
@@ -4232,6 +4220,18 @@
    "value": 8284.0,
    "acc": "0001654954-26-009975",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "NMAD",
+   "company": "NOMAD POWER SOLUTIONS, INC.",
+   "insider": "Travaglini John Francis",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 3000.0,
+   "price": 2.79,
+   "value": 8370.0,
+   "acc": "0001493152-26-053293",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "ORRF",
@@ -5045,8 +5045,6 @@
   }
  ],
  "seen": [
-  "0002006416-26-000019",
-  "0002006416-26-000021",
   "0002006495-26-000012",
   "0002006590-26-000005",
   "0002006641-26-000010",
@@ -8033,6 +8031,7 @@
   "0002161365-26-000011",
   "0002161492-26-000005",
   "0002161670-26-000004",
+  "0002161954-26-000005",
   "0002162268-26-000004",
   "0002162291-26-000003",
   "0002162845-26-000005",
@@ -8044,6 +8043,7 @@
   "0002163393-26-000004",
   "0002164267-26-000010",
   "0002164576-26-000005",
+  "0002165242-26-000003",
   "0002165834-26-000004"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
