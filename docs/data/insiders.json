@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-19 00:09 UTC",
+ "updated_utc": "2026-11-19 00:25 UTC",
  "purchases": [
-  {
-   "ticker": "AUDAX PRIVATE CREDIT FUND, LLC (CIK 2033362)",
-   "company": "Audax Private Credit Fund, LLC",
-   "insider": "Audax Private Credit Business, LP",
-   "role": "10% owner",
-   "date": "2026-11-11",
-   "shares": 568041.571,
-   "price": 24.86,
-   "value": 14121513.46,
-   "acc": "0001193125-26-461179",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "CTTH",
-   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-   "role": "CEO",
-   "date": "2026-11-12",
-   "shares": 1500.0,
-   "price": 0.054,
-   "value": 81.0,
-   "acc": "0001035422-26-000020",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
@@ -4030,6 +4006,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "RMIX",
+   "company": "Suncrete, Inc.",
+   "insider": "Jones Mark Alan",
+   "role": "Chief Operating Officer",
+   "date": "2026-11-17",
+   "shares": 8400.0,
+   "price": 5.96,
+   "value": 50064.0,
+   "acc": "0001193125-26-467421",
+   "filed": "2026-11-18"
+  },
+  {
    "ticker": "FFIN",
    "company": "FIRST FINANCIAL BANKSHARES INC",
    "insider": "Davis Sally Pope",
@@ -4052,6 +4040,18 @@
    "value": 50798.0,
    "acc": "0000351998-26-000020",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "RMIX",
+   "company": "Suncrete, Inc.",
+   "insider": "Matteson Mark R",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 10000.0,
+   "price": 5.51,
+   "value": 55100.0,
+   "acc": "0001193125-26-467423",
+   "filed": "2026-11-18"
   },
   {
    "ticker": "EP",
@@ -4867,6 +4867,11 @@
    "total_value": 470296.0
   },
   {
+   "ticker": "RMIX",
+   "insiders": 4,
+   "total_value": 344158.95
+  },
+  {
    "ticker": "ADIG",
    "insiders": 5,
    "total_value": 325602.92
@@ -4895,11 +4900,6 @@
    "ticker": "PAL",
    "insiders": 3,
    "total_value": 252768.0
-  },
-  {
-   "ticker": "RMIX",
-   "insiders": 2,
-   "total_value": 238994.95
   },
   {
    "ticker": "ECC",
@@ -5045,21 +5045,20 @@
   }
  ],
  "seen": [
-  "0002003074-26-000018",
-  "0002003131-26-000013",
-  "0002003131-26-000014",
   "0002003376-26-000006",
   "0002003768-26-000018",
   "0002003802-26-000005",
   "0002004135-26-000004",
   "0002004135-26-000008",
   "0002004135-26-000010",
+  "0002004135-26-000013",
   "0002004215-26-000006",
   "0002004222-26-000006",
   "0002004222-26-000007",
   "0002004239-26-000011",
   "0002004299-26-000008",
   "0002004306-26-000004",
+  "0002004306-26-000006",
   "0002004328-26-000013",
   "0002004328-26-000014",
   "0002004328-26-000016",
@@ -6949,6 +6948,7 @@
   "0002082975-26-000008",
   "0002082975-26-000010",
   "0002083068-26-000004",
+  "0002083068-26-000006",
   "0002083093-26-000004",
   "0002083093-26-000008",
   "0002083206-26-000007",
