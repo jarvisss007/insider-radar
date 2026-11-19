@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-19 21:18 UTC",
+ "updated_utc": "2026-11-19 21:34 UTC",
  "purchases": [
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 610.0,
-   "price": 2.2043,
-   "value": 1344.62,
-   "acc": "0002109337-26-000017",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "SPCB",
-   "company": "SuperCom Ltd",
-   "insider": "Trabelsi Arie",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 200.0,
-   "price": 7.11,
-   "value": 1422.0,
-   "acc": "0001178913-26-005240",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "OVBC",
-   "company": "OHIO VALLEY BANC CORP",
-   "insider": "BARNITZ ANNA P",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 30.326,
-   "price": 49.4625,
-   "value": 1500.0,
-   "acc": "0000894671-26-000067",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "LAC",
-   "company": "LITHIUM AMERICAS CORP.",
-   "insider": "BROWN MICHAEL JOHN",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 1000.0,
-   "price": 1.52,
-   "value": 1520.0,
-   "acc": "0000912282-26-001515",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 2240.0,
-   "price": 1.03,
-   "value": 2307.2,
-   "acc": "0001841761-26-000117",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "PHIO",
-   "company": "Phio Pharmaceuticals Corp.",
-   "insider": "Deming David H",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 3000.0,
-   "price": 0.8334,
-   "value": 2500.2,
-   "acc": "0001683168-26-008786",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "NGS",
-   "company": "NATURAL GAS SERVICES GROUP INC",
-   "insider": "JACKSON JOHN EARL",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 100.0,
-   "price": 28.8,
-   "value": 2880.0,
-   "acc": "0001236849-26-000015",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 3606.0,
-   "price": 0.8001,
-   "value": 2885.16,
-   "acc": "0001493152-26-052068",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "OVBC",
    "company": "OHIO VALLEY BANC CORP",
@@ -3154,6 +3058,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 4000.0,
+   "price": 2.8499,
+   "value": 11399.6,
+   "acc": "0001536588-26-000049",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "RMIX",
    "company": "Suncrete, Inc.",
    "insider": "Johnston Bretton A.",
@@ -3200,6 +3116,30 @@
    "value": 13749.75,
    "acc": "0001213900-26-121462",
    "filed": "2026-11-17"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 5000.0,
+   "price": 2.85,
+   "value": 14250.0,
+   "acc": "0001536588-26-000049",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "NBP",
+   "company": "NovaBridge Biosciences",
+   "insider": "Hagler Mark Arnold",
+   "role": "Chief Commercial Officer",
+   "date": "2026-11-17",
+   "shares": 46000.0,
+   "price": 0.343,
+   "value": 15778.0,
+   "acc": "0002126029-26-000006",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "CVSI",
@@ -4570,6 +4510,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "NBP",
+   "company": "NovaBridge Biosciences",
+   "insider": "Hagler Mark Arnold",
+   "role": "Chief Commercial Officer",
+   "date": "2026-11-18",
+   "shares": 184000.0,
+   "price": 0.381,
+   "value": 70104.0,
+   "acc": "0002126029-26-000006",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "HMH",
    "company": "HMH Holding Inc",
    "insider": "Bergsvik Eirik",
@@ -4678,6 +4630,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "BGS",
+   "company": "B&G Foods, Inc.",
+   "insider": "Mills Robert D",
+   "role": "President & CEO",
+   "date": "2026-11-18",
+   "shares": 69444.0,
+   "price": 3.5959,
+   "value": 249713.68,
+   "acc": "0001601974-26-000016",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "ITT",
    "company": "ITT INC.",
    "insider": "Berryman Kevin C",
@@ -4687,6 +4651,18 @@
    "price": 209.858,
    "value": 501560.62,
    "acc": "0001193125-26-468584",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "PLD",
+   "company": "Prologis, Inc.",
+   "insider": "KELLY ALFRED F JR",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 4700.0,
+   "price": 124.968,
+   "value": 587349.6,
+   "acc": "0001193125-26-468660",
    "filed": "2026-11-19"
   },
   {
@@ -4760,6 +4736,30 @@
    "value": 6427110.6,
    "acc": "0000935836-26-000631",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 500.0,
+   "price": 2.775,
+   "value": 1387.5,
+   "acc": "0001536588-26-000049",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 3000.0,
+   "price": 2.8331,
+   "value": 8499.3,
+   "acc": "0001536588-26-000049",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "TROX",
@@ -4924,7 +4924,7 @@
   {
    "ticker": "NGS",
    "insiders": 3,
-   "total_value": 192961.79
+   "total_value": 190081.79
   },
   {
    "ticker": "SRTS",
@@ -4984,7 +4984,7 @@
   {
    "ticker": "GROV",
    "insiders": 2,
-   "total_value": 43052.02
+   "total_value": 40744.82
   },
   {
    "ticker": "NTWK",
@@ -5027,11 +5027,6 @@
    "total_value": 6659.06
   },
   {
-   "ticker": "OVBC",
-   "insiders": 2,
-   "total_value": 4500.0
-  },
-  {
    "ticker": "NSPR",
    "insiders": 5,
    "total_value": 0,
@@ -5045,7 +5040,6 @@
   }
  ],
  "seen": [
-  "0002005471-26-000004",
   "0002005790-26-000024",
   "0002005790-26-000026",
   "0002005790-26-000028",
@@ -7607,6 +7601,7 @@
   "0002125773-26-000010",
   "0002125773-26-000013",
   "0002125773-26-000017",
+  "0002126029-26-000006",
   "0002126186-26-000002",
   "0002126294-26-000010",
   "0002126576-26-000006",
