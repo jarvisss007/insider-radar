@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-19 19:11 UTC",
+ "updated_utc": "2026-11-19 19:27 UTC",
  "purchases": [
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-12",
-   "shares": 901.0,
-   "price": 151.3553,
-   "value": 136371.13,
-   "acc": "0001666120-26-000034",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
@@ -4306,6 +4294,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "ASPS",
+   "company": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+   "insider": "RITTS GREGORY J.",
+   "role": "Chief Legal & Admin Officer",
+   "date": "2026-11-18",
+   "shares": 50.0,
+   "price": 5.85,
+   "value": 292.5,
+   "acc": "0001462418-26-000060",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "FRPH",
    "company": "FRP HOLDINGS, INC.",
    "insider": "BAKER JOHN D II",
@@ -5050,7 +5050,6 @@
   }
  ],
  "seen": [
-  "0002005261-26-000019",
   "0002005261-26-000021",
   "0002005261-26-000023",
   "0002005471-26-000002",
@@ -6121,6 +6120,7 @@
   "0002061670-26-000090",
   "0002061670-26-000096",
   "0002061670-26-000104",
+  "0002061670-26-000110",
   "0002061801-26-000011",
   "0002061801-26-000013",
   "0002061801-26-000015",
