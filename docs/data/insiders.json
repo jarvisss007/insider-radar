@@ -1,151 +1,6 @@
 {
- "updated_utc": "2026-11-19 22:53 UTC",
+ "updated_utc": "2026-11-19 23:09 UTC",
  "purchases": [
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Epstein David R",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 4960.0,
-   "price": 6.02,
-   "value": 29859.2,
-   "acc": "0001445826-26-000019",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "AGMB",
-   "company": "AgomAb Therapeutics NV",
-   "insider": "Epstein David R",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 5000.0,
-   "price": 5.99,
-   "value": 29950.0,
-   "acc": "0001445826-26-000019",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "NSPR",
-   "company": "InspireMD, Inc.",
-   "insider": "Slosman Marvin",
-   "role": "CEO and President",
-   "date": "2026-11-13",
-   "shares": 46154.0,
-   "price": 0.65,
-   "value": 30000.1,
-   "acc": "0001493152-26-052823",
-   "filed": "2026-11-17",
-   "placement": true
-  },
-  {
-   "ticker": "KRMD",
-   "company": "KORU Medical Systems, Inc.",
-   "insider": "Schiller Eric",
-   "role": "Chief Technology Officer",
-   "date": "2026-11-13",
-   "shares": 8546.09,
-   "price": 3.63,
-   "value": 31022.31,
-   "acc": "0001161697-26-000258",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "FISN",
-   "company": "DEEP FISSION, INC.",
-   "insider": "Muller Richard",
-   "role": "Chief Technology Officer",
-   "date": "2026-11-13",
-   "shares": 15000.0,
-   "price": 2.1131,
-   "value": 31696.5,
-   "acc": "0001104659-26-129199",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CSQR",
-   "company": "Csquare, Inc.",
-   "insider": "PIZZUTO TERRI",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 2000.0,
-   "price": 16.96,
-   "value": 33920.0,
-   "acc": "0000950142-26-003051",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ABEO",
-   "company": "ABEONA THERAPEUTICS INC.",
-   "insider": "Charles Faith L.",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 15000.0,
-   "price": 2.2899,
-   "value": 34348.5,
-   "acc": "0001493152-26-052027",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 9224.0,
-   "price": 3.9434,
-   "value": 36373.92,
-   "acc": "0001193125-26-461908",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "LPCN",
-   "company": "Lipocine Inc.",
-   "insider": "Patel Mahesh V.",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 25000.0,
-   "price": 1.5999,
-   "value": 39997.5,
-   "acc": "0001493152-26-051673",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "EVLV",
-   "company": "Evolv Technologies Holdings, Inc.",
-   "insider": "Charlton Kevin M.",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 10000.0,
-   "price": 4.0,
-   "value": 40000.0,
-   "acc": "0001558255-26-000007",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "BW",
-   "company": "Babcock & Wilcox Enterprises, Inc.",
-   "insider": "Young Kenneth M",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 10000.0,
-   "price": 4.35,
-   "value": 43500.0,
-   "acc": "0001630805-26-000087",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "VANI",
-   "company": "Vivani Medical, Inc.",
-   "insider": "Williams Gregg",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 48100.0,
-   "price": 0.993,
-   "value": 47763.3,
-   "acc": "0001753926-26-002141",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "NGS",
    "company": "NATURAL GAS SERVICES GROUP INC",
@@ -2938,6 +2793,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "FBIO",
+   "company": "Fortress Biotech, Inc.",
+   "insider": "Jin David",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-17",
+   "shares": 15000.0,
+   "price": 1.7197,
+   "value": 25795.5,
+   "acc": "0001930732-26-000009",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "LCTX",
    "company": "Lineage Cell Therapeutics, Inc.",
    "insider": "Mulroy Michael H.",
@@ -3370,6 +3237,18 @@
    "filed": "2026-11-17"
   },
   {
+   "ticker": "FBIO",
+   "company": "Fortress Biotech, Inc.",
+   "insider": "ROSENWALD LINDSAY A MD",
+   "role": "PRESIDENT, CEO & CHAIRMAN",
+   "date": "2026-11-17",
+   "shares": 64491.0,
+   "price": 1.7973,
+   "value": 115909.67,
+   "acc": "0000941841-26-000005",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -3682,6 +3561,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "LCTX",
+   "company": "Lineage Cell Therapeutics, Inc.",
+   "insider": "BROADWOOD PARTNERS, L.P.",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 1000000.0,
+   "price": 0.7707,
+   "value": 770700.0,
+   "acc": "0000919574-26-008200",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
    "insider": "Mariani Gustavo",
@@ -3800,6 +3691,18 @@
    "value": 2226000.0,
    "acc": "0001999001-26-000121",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "IMDX",
+   "company": "Insight Molecular Diagnostics Inc.",
+   "insider": "BROADWOOD PARTNERS, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-17",
+   "shares": 3428571.0,
+   "price": 1.75,
+   "value": 5999999.25,
+   "acc": "0000919574-26-008199",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "ANAB",
@@ -4282,6 +4185,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "FBIO",
+   "company": "Fortress Biotech, Inc.",
+   "insider": "Jin David",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-18",
+   "shares": 25000.0,
+   "price": 1.9119,
+   "value": 47797.5,
+   "acc": "0001930732-26-000009",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "XTIA",
    "company": "XTI Aerospace, Inc.",
    "insider": "Evans Allan Thomas",
@@ -4318,6 +4233,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "HFRO",
+   "company": "HIGHLAND OPPORTUNITIES & INCOME FUND",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 13234.0,
+   "price": 5.1,
+   "value": 67493.4,
+   "acc": "0001510281-26-000455",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "JYNT",
    "company": "JOINT Corp",
    "insider": "JOBSON CHARLES E",
@@ -4342,6 +4269,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "Schraudenbach John",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 28000.0,
+   "price": 2.79,
+   "value": 78120.0,
+   "acc": "0001213900-26-122314",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4363,6 +4302,18 @@
    "price": 137.41,
    "value": 82446.0,
    "acc": "0001666120-26-000038",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "PAL",
+   "company": "Proficient Auto Logistics, Inc",
+   "insider": "COL DOUGLAS L",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 30000.0,
+   "price": 2.81,
+   "value": 84300.0,
+   "acc": "0001213900-26-122313",
    "filed": "2026-11-19"
   },
   {
@@ -4412,6 +4363,18 @@
    "value": 103661.25,
    "acc": "0001628280-26-074869",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "FBIO",
+   "company": "Fortress Biotech, Inc.",
+   "insider": "ROSENWALD LINDSAY A MD",
+   "role": "PRESIDENT, CEO & CHAIRMAN",
+   "date": "2026-11-18",
+   "shares": 54776.0,
+   "price": 1.9029,
+   "value": 104233.25,
+   "acc": "0000941841-26-000005",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "GLP",
@@ -4714,6 +4677,30 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "FBIO",
+   "company": "Fortress Biotech, Inc.",
+   "insider": "Jin David",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-19",
+   "shares": 7605.0,
+   "price": 1.8699,
+   "value": 14220.59,
+   "acc": "0001930732-26-000009",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "RDZN",
+   "company": "Roadzen Inc.",
+   "insider": "Malhotra Rohan",
+   "role": "See Remarks",
+   "date": "2026-11-19",
+   "shares": 19835.0,
+   "price": 0.88,
+   "value": 17454.8,
+   "acc": "0001493152-26-053325",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "BSM",
    "company": "Black Stone Minerals, L.P.",
    "insider": "Carter Thomas L Jr",
@@ -4723,6 +4710,18 @@
    "price": 13.4352,
    "value": 23740.0,
    "acc": "0001319960-26-000016",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "FBIO",
+   "company": "Fortress Biotech, Inc.",
+   "insider": "ROSENWALD LINDSAY A MD",
+   "role": "PRESIDENT, CEO & CHAIRMAN",
+   "date": "2026-11-19",
+   "shares": 17456.0,
+   "price": 1.8584,
+   "value": 32440.23,
+   "acc": "0000941841-26-000005",
    "filed": "2026-11-19"
   },
   {
@@ -4847,6 +4846,11 @@
    "total_value": 1087191.45
   },
   {
+   "ticker": "LCTX",
+   "insiders": 4,
+   "total_value": 853898.0
+  },
+  {
    "ticker": "ITG",
    "insiders": 2,
    "total_value": 606850.0
@@ -4872,9 +4876,19 @@
    "total_value": 470296.0
   },
   {
+   "ticker": "PAL",
+   "insiders": 5,
+   "total_value": 415188.0
+  },
+  {
    "ticker": "EQPT",
    "insiders": 2,
    "total_value": 395397.56
+  },
+  {
+   "ticker": "FBIO",
+   "insiders": 2,
+   "total_value": 340396.74
   },
   {
    "ticker": "FPS",
@@ -4893,13 +4907,8 @@
   },
   {
    "ticker": "BW",
-   "insiders": 3,
-   "total_value": 297600.0
-  },
-  {
-   "ticker": "PAL",
-   "insiders": 3,
-   "total_value": 252768.0
+   "insiders": 2,
+   "total_value": 254100.0
   },
   {
    "ticker": "ECC",
@@ -4947,11 +4956,6 @@
    "total_value": 107791.0
   },
   {
-   "ticker": "LCTX",
-   "insiders": 3,
-   "total_value": 83198.0
-  },
-  {
    "ticker": "ALT",
    "insiders": 2,
    "total_value": 63881.09
@@ -4970,11 +4974,6 @@
    "ticker": "CATX",
    "insiders": 2,
    "total_value": 46996.0
-  },
-  {
-   "ticker": "FISN",
-   "insiders": 2,
-   "total_value": 42775.5
   },
   {
    "ticker": "NTWK",
@@ -5028,9 +5027,9 @@
   },
   {
    "ticker": "NSPR",
-   "insiders": 5,
+   "insiders": 4,
    "total_value": 0,
-   "other_value": 455000.65
+   "other_value": 425000.55
   },
   {
    "ticker": "WWB",
