@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-19 17:52 UTC",
+ "updated_utc": "2026-11-19 18:55 UTC",
  "purchases": [
-  {
-   "ticker": "API",
-   "company": "Agora, Inc.",
-   "insider": "Zhao Bin",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-12",
-   "shares": 9955.0,
-   "price": 4.2108,
-   "value": 41918.51,
-   "acc": "0001193125-26-461908",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "DAIO",
-   "company": "DATA I/O CORP",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-11-12",
-   "shares": 17458.0,
-   "price": 2.487,
-   "value": 43418.05,
-   "acc": "0001325533-26-000013",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "HPP",
-   "company": "Hudson Pacific Properties, Inc.",
-   "insider": "LAMMAS MARK T",
-   "role": "President",
-   "date": "2026-11-12",
-   "shares": 5000.0,
-   "price": 8.73,
-   "value": 43650.0,
-   "acc": "0001246348-26-000004",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "insider": "DIMITRIEF ALEXANDER",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 25000.0,
-   "price": 1.86,
-   "value": 46500.0,
-   "acc": "0001628280-26-073597",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "ECOR",
-   "company": "electroCore, Inc.",
-   "insider": "Errico Thomas J.",
-   "role": "Director",
-   "date": "2026-11-12",
-   "shares": 10000.0,
-   "price": 5.44,
-   "value": 54400.0,
-   "acc": "0001493152-26-051932",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks Jabbok",
-   "role": "Founder & CEO",
-   "date": "2026-11-12",
-   "shares": 4068.0,
-   "price": 15.38,
-   "value": 62565.84,
-   "acc": "0000950103-26-017583",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "JOF",
-   "company": "JAPAN SMALLER CAPITALIZATION FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-12",
-   "shares": 6800.0,
-   "price": 10.78,
-   "value": 73304.0,
-   "acc": "0001510281-26-000439",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "CRESY",
    "company": "CRESUD INC",
@@ -660,6 +576,18 @@
    "value": 5354.35,
    "acc": "0001610717-26-000454",
    "filed": "2026-11-13"
+  },
+  {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 5.83,
+   "value": 5830.0,
+   "acc": "0001178913-26-005305",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "WVVI",
@@ -1757,6 +1685,18 @@
    "price": 1.95,
    "value": 1365.0,
    "acc": "0001230427-26-000005",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-16",
+   "shares": 256.0,
+   "price": 5.8992,
+   "value": 1510.2,
+   "acc": "0001178913-26-005305",
    "filed": "2026-11-19"
   },
   {
@@ -3346,6 +3286,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 800.0,
+   "price": 5.7489,
+   "value": 4599.12,
+   "acc": "0001178913-26-005305",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "van den Bosch Flip",
@@ -4522,6 +4474,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 800.0,
+   "price": 5.5378,
+   "value": 4430.24,
+   "acc": "0001178913-26-005305",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "GRCE",
    "company": "Grace Therapeutics, Inc.",
    "insider": "Opaleye Management Inc.",
@@ -4532,6 +4496,18 @@
    "value": 5131.34,
    "acc": "0001493152-26-053120",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "CLNN",
+   "company": "Clene Inc.",
+   "insider": "WILCOX REED N",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 2000.0,
+   "price": 3.44,
+   "value": 6880.0,
+   "acc": "0001437749-26-037670",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "PEBK",
@@ -4603,6 +4579,30 @@
    "price": 1.8,
    "value": 17460.0,
    "acc": "0001496259-26-000005",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "FCCO",
+   "company": "FIRST COMMUNITY CORP /SC/",
+   "insider": "Ford Terrance Antwan",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 660.0,
+   "price": 31.71,
+   "value": 20928.6,
+   "acc": "0000932781-26-000056",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "CLNN",
+   "company": "Clene Inc.",
+   "insider": "WILCOX REED N",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 8000.0,
+   "price": 3.42,
+   "value": 27360.0,
+   "acc": "0001437749-26-037670",
    "filed": "2026-11-19"
   },
   {
@@ -4879,7 +4879,7 @@
   {
    "ticker": "EQPT",
    "insiders": 2,
-   "total_value": 457963.4
+   "total_value": 395397.56
   },
   {
    "ticker": "ADIG",
@@ -4952,11 +4952,6 @@
    "total_value": 107791.0
   },
   {
-   "ticker": "DAIO",
-   "insiders": 2,
-   "total_value": 98023.82
-  },
-  {
    "ticker": "ALT",
    "insiders": 3,
    "total_value": 80231.09
@@ -4970,6 +4965,11 @@
    "ticker": "LCTX",
    "insiders": 2,
    "total_value": 57098.0
+  },
+  {
+   "ticker": "DAIO",
+   "insiders": 2,
+   "total_value": 54605.77
   },
   {
    "ticker": "FISN",
@@ -5040,8 +5040,6 @@
   }
  ],
  "seen": [
-  "0002005212-26-000005",
-  "0002005212-26-000007",
   "0002005261-26-000019",
   "0002005261-26-000021",
   "0002005261-26-000023",
@@ -6838,6 +6836,7 @@
   "0002078339-26-000018",
   "0002078339-26-000020",
   "0002078374-26-000003",
+  "0002078374-26-000005",
   "0002078454-26-000012",
   "0002078454-26-000014",
   "0002078454-26-000018",
@@ -7907,6 +7906,7 @@
   "0002149810-26-000004",
   "0002149846-26-000004",
   "0002150055-26-000004",
+  "0002150055-26-000006",
   "0002150105-26-000006",
   "0002150165-26-000004",
   "0002150331-26-000002",
