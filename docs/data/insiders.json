@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-20 21:34 UTC",
+ "updated_utc": "2026-11-20 21:50 UTC",
  "purchases": [
-  {
-   "ticker": "OFRM",
-   "company": "Once Upon a Farm, PBC",
-   "insider": "Foraker John M.",
-   "role": "See Remarks",
-   "date": "2026-11-16",
-   "shares": 10000.0,
-   "price": 10.43,
-   "value": 104300.0,
-   "acc": "0001545600-26-000006",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "OPEN",
-   "company": "Opendoor Technologies Inc.",
-   "insider": "HAMILTON DANA",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 100000.0,
-   "price": 1.1699,
-   "value": 116990.0,
-   "acc": "0001195975-26-000007",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CRMD",
-   "company": "CorMedix Inc.",
-   "insider": "Kaplan Myron",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 25000.0,
-   "price": 4.88,
-   "value": 122000.0,
-   "acc": "0001213900-26-121895",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "HL",
    "company": "HECLA MINING CO/DE/",
@@ -4072,6 +4036,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "MRBK",
+   "company": "Meridian Corp",
+   "insider": "Annas Christopher J.",
+   "role": "Chairman & CEO",
+   "date": "2026-11-19",
+   "shares": 2000.0,
+   "price": 15.885,
+   "value": 31770.0,
+   "acc": "0001751789-26-000004",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "FBIO",
    "company": "Fortress Biotech, Inc.",
    "insider": "ROSENWALD LINDSAY A MD",
@@ -4384,6 +4360,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "EQPT",
+   "company": "EquipmentShare.com Inc",
+   "insider": "Schlacks Jabbok",
+   "role": "Founder & CEO",
+   "date": "2026-11-19",
+   "shares": 12195.0,
+   "price": 14.79,
+   "value": 180364.05,
+   "acc": "0001628280-26-075309",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "AVK",
    "company": "ADVENT CONVERTIBLE & INCOME FUND",
    "insider": "MAITLAND TRACY V",
@@ -4513,6 +4501,18 @@
    "price": 31.2779,
    "value": 999.99,
    "acc": "0000108985-26-000099",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "UAVS",
+   "company": "AgEagle Aerial Systems Inc.",
+   "insider": "Klavon Brent",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 10714.0,
+   "price": 0.28,
+   "value": 2999.92,
+   "acc": "0001437749-26-037914",
    "filed": "2026-11-20"
   },
   {
@@ -4861,19 +4861,19 @@
    "total_value": 671911.25
   },
   {
+   "ticker": "EQPT",
+   "insiders": 2,
+   "total_value": 575761.61
+  },
+  {
    "ticker": "PICS",
    "insiders": 3,
    "total_value": 556660.38
   },
   {
    "ticker": "OFRM",
-   "insiders": 3,
-   "total_value": 505786.6
-  },
-  {
-   "ticker": "EQPT",
    "insiders": 2,
-   "total_value": 395397.56
+   "total_value": 401486.6
   },
   {
    "ticker": "PAL",
@@ -4919,11 +4919,6 @@
    "ticker": "SRTS",
    "insiders": 2,
    "total_value": 187988.72
-  },
-  {
-   "ticker": "CRMD",
-   "insiders": 2,
-   "total_value": 174095.0
   },
   {
    "ticker": "STXS",
@@ -5023,7 +5018,6 @@
   }
  ],
  "seen": [
-  "0002009371-26-000008",
   "0002009633-26-000003",
   "0002009633-26-000005",
   "0002009679-26-000008",
@@ -7523,6 +7517,7 @@
   "0002123306-26-000006",
   "0002123334-26-000003",
   "0002123843-26-000008",
+  "0002123861-26-000009",
   "0002123863-26-000008",
   "0002123975-26-000011",
   "0002123975-26-000013",
