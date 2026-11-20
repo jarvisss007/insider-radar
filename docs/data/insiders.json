@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-20 21:18 UTC",
+ "updated_utc": "2026-11-20 21:34 UTC",
  "purchases": [
-  {
-   "ticker": "GLP",
-   "company": "GLOBAL PARTNERS LP",
-   "insider": "Global GP LLC",
-   "role": "",
-   "date": "2026-11-16",
-   "shares": 2227.0,
-   "price": 43.81,
-   "value": 97564.87,
-   "acc": "0001339396-26-000090",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "PLBY",
-   "company": "Playboy, Inc.",
-   "insider": "Docler Holding S.a r.l.",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 73886.0,
-   "price": 1.3338,
-   "value": 98549.15,
-   "acc": "0001012975-26-001082",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "ATEC",
-   "company": "Alphatec Holdings, Inc.",
-   "insider": "Koning John Todd",
-   "role": "CHIEF FINANCIAL OFFICER",
-   "date": "2026-11-16",
-   "shares": 14601.7699,
-   "price": 6.79,
-   "value": 99146.02,
-   "acc": "0001830843-26-000009",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "STEW",
-   "company": "SRH Total Return Fund, Inc.",
-   "insider": "Quinlan Shane Kevin",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 5300.0,
-   "price": 18.8278,
-   "value": 99787.34,
-   "acc": "0002033528-26-000001",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
-   "company": "HPS Net Lease Income REIT",
-   "insider": "Leavitt David",
-   "role": "President",
-   "date": "2026-11-16",
-   "shares": 4000.0,
-   "price": 25.0,
-   "value": 100000.0,
-   "acc": "0001193125-26-466839",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "FUNC",
-   "company": "FIRST UNITED CORP/MD/",
-   "insider": "Bender Shawn Robert",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 2157.6974,
-   "price": 46.3457,
-   "value": 100000.0,
-   "acc": "0001014100-26-000033",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "OFRM",
    "company": "Once Upon a Farm, PBC",
@@ -3220,6 +3148,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "DTI",
+   "company": "Drilling Tools International Corp",
+   "insider": "FURST JACK D",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 49243.0,
+   "price": 1.65,
+   "value": 81250.95,
+   "acc": "0001193125-26-470333",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -3448,6 +3388,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "DDD",
+   "company": "3D SYSTEMS CORP",
+   "insider": "ERICKSON THOMAS W",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 120000.0,
+   "price": 1.36,
+   "value": 163200.0,
+   "acc": "0001628280-26-075295",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -3566,6 +3518,18 @@
    "value": 344033.32,
    "acc": "0001510281-26-000457",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "UPBD",
+   "company": "UPBOUND GROUP, INC.",
+   "insider": "LEWIS HAROLD G",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 15300.0,
+   "price": 26.05,
+   "value": 398565.0,
+   "acc": "0001193125-26-470347",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "TEAM",
@@ -4300,6 +4264,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "DTI",
+   "company": "Drilling Tools International Corp",
+   "insider": "FURST JACK D",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 50757.0,
+   "price": 1.65,
+   "value": 83749.05,
+   "acc": "0001193125-26-470333",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4684,6 +4660,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "ARR",
+   "company": "Armour Residential REIT, Inc.",
+   "insider": "Harper Gordon",
+   "role": "CFO",
+   "date": "2026-11-20",
+   "shares": 2500.0,
+   "price": 10.8989,
+   "value": 27247.25,
+   "acc": "0001698344-26-000010",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "NXG",
    "company": "NXG NextGen Infrastructure Income Fund",
    "insider": "Sunderland Todd",
@@ -4768,6 +4756,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "TJX",
+   "company": "TJX COMPANIES INC /DE/",
+   "insider": "PINTOFF CRAIG ADAM",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1427.0,
+   "price": 140.03,
+   "value": 199822.81,
+   "acc": "0001664921-26-000002",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "SEI",
    "company": "Solaris Energy Infrastructure, Inc.",
    "insider": "Zartler William A",
@@ -4817,8 +4817,8 @@
   },
   {
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
-   "insiders": 3,
-   "total_value": 4100000.0
+   "insiders": 2,
+   "total_value": 4000000.0
   },
   {
    "ticker": "EFC",
@@ -4849,6 +4849,11 @@
    "ticker": "LCTX",
    "insiders": 2,
    "total_value": 796800.0
+  },
+  {
+   "ticker": "DDD",
+   "insiders": 2,
+   "total_value": 735200.0
   },
   {
    "ticker": "SEI",
@@ -4939,6 +4944,11 @@
    "ticker": "VTIX",
    "insiders": 2,
    "total_value": 80870.0
+  },
+  {
+   "ticker": "ARR",
+   "insiders": 2,
+   "total_value": 79495.75
   },
   {
    "ticker": "CWGL",
