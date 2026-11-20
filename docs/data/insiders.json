@@ -1,222 +1,6 @@
 {
- "updated_utc": "2026-11-20 21:02 UTC",
+ "updated_utc": "2026-11-20 21:18 UTC",
  "purchases": [
-  {
-   "ticker": "PLBY",
-   "company": "Playboy, Inc.",
-   "insider": "Docler Holding S.a r.l.",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 25000.0,
-   "price": 1.25,
-   "value": 31250.0,
-   "acc": "0001012975-26-001082",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "SGP",
-   "company": "SpyGlass Pharma, Inc.",
-   "insider": "RA CAPITAL MANAGEMENT, L.P.",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 1000.0,
-   "price": 32.43,
-   "value": 32430.0,
-   "acc": "0001231919-26-001605",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "LCTX",
-   "company": "Lineage Cell Therapeutics, Inc.",
-   "insider": "Culley Brian M",
-   "role": "President and CEO",
-   "date": "2026-11-16",
-   "shares": 40500.0,
-   "price": 0.916,
-   "value": 37098.0,
-   "acc": "0001193125-26-464849",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "MAIA",
-   "company": "MAIA Biotechnology, Inc.",
-   "insider": "Vitoc Vlad",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 39600.0,
-   "price": 1.0,
-   "value": 39600.0,
-   "acc": "0001878313-26-000104",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "BW",
-   "company": "Babcock & Wilcox Enterprises, Inc.",
-   "insider": "Frymyer Cameron M",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-16",
-   "shares": 10000.0,
-   "price": 4.21,
-   "value": 42100.0,
-   "acc": "0001630805-26-000093",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "RAIL",
-   "company": "FreightCar America, Inc.",
-   "insider": "Gil Benavides Jesus Salvador",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 9000.0,
-   "price": 4.71,
-   "value": 42390.0,
-   "acc": "0001193125-26-466935",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "RNXT",
-   "company": "RenovoRx, Inc.",
-   "insider": "Agah Ramtin",
-   "role": "Executive Chairman and CMO",
-   "date": "2026-11-16",
-   "shares": 50000.0,
-   "price": 0.9297,
-   "value": 46485.0,
-   "acc": "0001493152-26-052696",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "LEE CHAE",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 20000.0,
-   "price": 2.3368,
-   "value": 46736.0,
-   "acc": "0001193125-26-464325",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ADIG",
-   "company": "ADI GLOBAL DISTRIBUTION INC.",
-   "insider": "Lane Jeannine J",
-   "role": "Exec. VP, GC, Corp. Sec. & CCO",
-   "date": "2026-11-16",
-   "shares": 5241.0,
-   "price": 9.55,
-   "value": 50051.55,
-   "acc": "0001753285-26-000006",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "FRPH",
-   "company": "FRP HOLDINGS, INC.",
-   "insider": "BAKER JOHN D II",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 2825.0,
-   "price": 18.45,
-   "value": 52121.25,
-   "acc": "0000897069-26-001942",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "PED",
-   "company": "PEDEVCO CORP",
-   "insider": "Howie John K",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 5000.0,
-   "price": 10.6,
-   "value": 53000.0,
-   "acc": "0001654954-26-009873",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "PAL",
-   "company": "Proficient Auto Logistics, Inc",
-   "insider": "Gattoni James B",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 25000.0,
-   "price": 2.6,
-   "value": 65000.0,
-   "acc": "0001213900-26-121624",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "THM",
-   "company": "INTERNATIONAL TOWER HILL MINES LTD",
-   "insider": "Wiens David Victor",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 60000.0,
-   "price": 1.23,
-   "value": 73800.0,
-   "acc": "0001123292-26-001542",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "NGS",
-   "company": "NATURAL GAS SERVICES GROUP INC",
-   "insider": "Jacobs Justin",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 3000.0,
-   "price": 28.602,
-   "value": 85806.0,
-   "acc": "0001464667-26-000005",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-16",
-   "shares": 600.0,
-   "price": 147.485,
-   "value": 88491.0,
-   "acc": "0001666120-26-000036",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "RAIL",
-   "company": "FreightCar America, Inc.",
-   "insider": "Gil Benavides Jesus Salvador",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 20000.0,
-   "price": 4.62,
-   "value": 92400.0,
-   "acc": "0001193125-26-466935",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "RAIL",
-   "company": "FreightCar America, Inc.",
-   "insider": "Gil Benavides Jesus Salvador",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 20000.0,
-   "price": 4.65,
-   "value": 93000.0,
-   "acc": "0001193125-26-466935",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TISI",
-   "company": "TEAM INC",
-   "insider": "Hill Gary L.",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 4200.0,
-   "price": 22.88,
-   "value": 96096.0,
-   "acc": "0001782810-26-000011",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "GLP",
    "company": "GLOBAL PARTNERS LP",
@@ -2032,6 +1816,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "LEGN",
+   "company": "Legend Biotech Corp",
+   "insider": "Zhang Ingrid",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-17",
+   "shares": 20000.0,
+   "price": 8.16,
+   "value": 163200.0,
+   "acc": "0001964342-26-000006",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
    "insider": "TANNENBAUM LEONARD M",
@@ -3148,6 +2944,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "ALTO",
+   "company": "Alto Ingredients, Inc.",
+   "insider": "NATHAN GILBERT E",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 10000.0,
+   "price": 3.3587,
+   "value": 33587.0,
+   "acc": "0001213900-26-122704",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "VANI",
    "company": "Vivani Medical, Inc.",
    "insider": "Williams Gregg",
@@ -3254,6 +3062,18 @@
    "value": 49171.97,
    "acc": "0001213900-26-121959",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "CRESY",
+   "company": "CRESUD INC",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 5830.0,
+   "price": 8.56,
+   "value": 49904.8,
+   "acc": "0002119764-26-000037",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "LAC",
@@ -3470,6 +3290,18 @@
    "value": 99682.0,
    "acc": "0001609253-26-000163",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "AVEX",
+   "company": "AEVEX Corp.",
+   "insider": "Morrison Christine M.",
+   "role": "Chief Legal Officer",
+   "date": "2026-11-18",
+   "shares": 7737.0,
+   "price": 13.23,
+   "value": 102360.51,
+   "acc": "0001193125-26-470273",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "NPCE",
@@ -4192,6 +4024,42 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "BARTLEIN ROBERT",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 1000.0,
+   "price": 24.05,
+   "value": 24050.0,
+   "acc": "0001628280-26-075277",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "BARTLEIN ROBERT",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 1000.0,
+   "price": 24.172,
+   "value": 24172.0,
+   "acc": "0001628280-26-075277",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "BARTLEIN ROBERT",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 1000.0,
+   "price": 24.6,
+   "value": 24600.0,
+   "acc": "0001628280-26-075277",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "PICS",
    "company": "PicS N.V.",
    "insider": "Costa de Moura Mauricio",
@@ -4324,6 +4192,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "ALTO",
+   "company": "Alto Ingredients, Inc.",
+   "insider": "NATHAN GILBERT E",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 15000.0,
+   "price": 3.185,
+   "value": 47775.0,
+   "acc": "0001213900-26-122704",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "CION",
    "company": "CION Investment Corp",
    "insider": "BRESNER GREGG A.",
@@ -4384,6 +4264,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-19",
+   "shares": 470.0,
+   "price": 139.8738,
+   "value": 65740.69,
+   "acc": "0001666120-26-000039",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "RMIX",
    "company": "Suncrete, Inc.",
    "insider": "HEYER ANDREW R",
@@ -4408,6 +4300,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-19",
+   "shares": 700.0,
+   "price": 133.0114,
+   "value": 93107.98,
+   "acc": "0001666120-26-000039",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "VANI",
    "company": "Vivani Medical, Inc.",
    "insider": "Williams Gregg",
@@ -4417,6 +4321,18 @@
    "price": 1.095,
    "value": 93365.18,
    "acc": "0001753926-26-002210",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-19",
+   "shares": 781.0,
+   "price": 134.2957,
+   "value": 104884.94,
+   "acc": "0001666120-26-000039",
    "filed": "2026-11-20"
   },
   {
@@ -4444,6 +4360,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-19",
+   "shares": 945.0,
+   "price": 137.1344,
+   "value": 129592.01,
+   "acc": "0001666120-26-000039",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -4465,6 +4393,18 @@
    "price": 25.0,
    "value": 150000.0,
    "acc": "0001782810-26-000013",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-19",
+   "shares": 1329.0,
+   "price": 135.5448,
+   "value": 180139.04,
+   "acc": "0001666120-26-000039",
    "filed": "2026-11-20"
   },
   {
@@ -4504,6 +4444,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-19",
+   "shares": 2775.0,
+   "price": 137.9957,
+   "value": 382938.07,
+   "acc": "0001666120-26-000039",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "ELV",
    "company": "Elevance Health, Inc.",
    "insider": "PERU RAMIRO G",
@@ -4538,6 +4490,18 @@
    "value": 763706.43,
    "acc": "0001316065-26-000016",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-19",
+   "shares": 6400.0,
+   "price": 138.9491,
+   "value": 889274.24,
+   "acc": "0001666120-26-000039",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "MED",
@@ -4588,6 +4552,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "STOVESAND KIRK",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 180.0,
+   "price": 23.95,
+   "value": 4311.0,
+   "acc": "0001628280-26-075280",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "KLNG",
    "company": "Koil Energy Solutions, Inc.",
    "insider": "Intelligent Fanatics Capital Management LLC",
@@ -4597,6 +4573,18 @@
    "price": 2.3,
    "value": 4600.0,
    "acc": "0001798792-26-000008",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "CWBC",
+   "company": "Community West Bancshares",
+   "insider": "STOVESAND KIRK",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 200.0,
+   "price": 24.15,
+   "value": 4830.0,
+   "acc": "0001628280-26-075280",
    "filed": "2026-11-20"
   },
   {
@@ -4732,6 +4720,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "CRESY",
+   "company": "CRESUD INC",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 6220.0,
+   "price": 8.02,
+   "value": 49884.4,
+   "acc": "0002119764-26-000037",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lu Lee-Chung",
@@ -4841,14 +4841,14 @@
    "total_value": 911789.06
   },
   {
-   "ticker": "LCTX",
-   "insiders": 3,
-   "total_value": 833898.0
-  },
-  {
    "ticker": "TSM",
    "insiders": 2,
    "total_value": 802889.38
+  },
+  {
+   "ticker": "LCTX",
+   "insiders": 2,
+   "total_value": 796800.0
   },
   {
    "ticker": "SEI",
@@ -4866,14 +4866,14 @@
    "total_value": 505786.6
   },
   {
-   "ticker": "PAL",
-   "insiders": 5,
-   "total_value": 415188.0
-  },
-  {
    "ticker": "EQPT",
    "insiders": 2,
    "total_value": 395397.56
+  },
+  {
+   "ticker": "PAL",
+   "insiders": 4,
+   "total_value": 350188.0
   },
   {
    "ticker": "FBIO",
@@ -4894,11 +4894,6 @@
    "ticker": "CTGO",
    "insiders": 3,
    "total_value": 273888.51
-  },
-  {
-   "ticker": "BW",
-   "insiders": 2,
-   "total_value": 254100.0
   },
   {
    "ticker": "FLNA",
@@ -4934,6 +4929,11 @@
    "ticker": "NXG",
    "insiders": 2,
    "total_value": 92084.18
+  },
+  {
+   "ticker": "CWBC",
+   "insiders": 2,
+   "total_value": 81963.0
   },
   {
    "ticker": "VTIX",
@@ -5013,11 +5013,6 @@
   }
  ],
  "seen": [
-  "0002009110-26-000007",
-  "0002009110-26-000011",
-  "0002009130-26-000004",
-  "0002009130-26-000006",
-  "0002009371-26-000002",
   "0002009371-26-000008",
   "0002009633-26-000003",
   "0002009633-26-000005",
@@ -5832,6 +5827,7 @@
   "0002051813-26-000010",
   "0002051813-26-000011",
   "0002051813-26-000013",
+  "0002051813-26-000014",
   "0002052022-26-000005",
   "0002052022-26-000006",
   "0002052022-26-000011",
@@ -6605,6 +6601,7 @@
   "0002075704-26-000041",
   "0002075704-26-000043",
   "0002075704-26-000045",
+  "0002075704-26-000046",
   "0002076000-26-000012",
   "0002076003-26-000003",
   "0002076243-26-000002",
@@ -7042,6 +7039,7 @@
   "0002092917-26-000002",
   "0002092936-26-000004",
   "0002092936-26-000006",
+  "0002093095-26-000010",
   "0002093099-26-000003",
   "0002093121-26-000005",
   "0002093121-26-000006",
@@ -7456,6 +7454,7 @@
   "0002119764-26-000032",
   "0002119764-26-000034",
   "0002119764-26-000036",
+  "0002119764-26-000037",
   "0002119900-26-000008",
   "0002119908-26-000011",
   "0002119908-26-000013",
@@ -7508,6 +7507,7 @@
   "0002122712-26-000004",
   "0002122855-26-000006",
   "0002122855-26-000008",
+  "0002122855-26-000009",
   "0002123147-26-000003",
   "0002123155-26-000002",
   "0002123306-26-000006",
