@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-20 19:27 UTC",
+ "updated_utc": "2026-11-20 19:43 UTC",
  "purchases": [
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Hansen-Chambers Peter",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-16",
-   "shares": 2550.42,
-   "price": 3.84,
-   "value": 9793.61,
-   "acc": "0001493152-26-053099",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "JYNT",
-   "company": "JOINT Corp",
-   "insider": "JOBSON CHARLES E",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 1483.0,
-   "price": 6.65,
-   "value": 9861.95,
-   "acc": "0001214659-26-014561",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "HAWK",
-   "company": "HawkEye 360, Inc.",
-   "insider": "Fox Alex J",
-   "role": "Pres, HawkEye 360 Int'l",
-   "date": "2026-11-16",
-   "shares": 540.0,
-   "price": 18.41,
-   "value": 9941.4,
-   "acc": "0001322083-26-000009",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "HAWK",
    "company": "HawkEye 360, Inc.",
@@ -2776,6 +2740,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "NMCO",
+   "company": "Nuveen Municipal Credit Opportunities Fund",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 47.0,
+   "price": 8.52,
+   "value": 400.44,
+   "acc": "0000070858-26-000603",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "FRPH",
    "company": "FRP HOLDINGS, INC.",
    "insider": "BAKER JOHN D II",
@@ -2894,6 +2870,18 @@
    "value": 1055.0,
    "acc": "0001081400-26-000593",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "NMS",
+   "company": "Nuveen Minnesota Quality Municipal Income Fund",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 194.0,
+   "price": 10.07,
+   "value": 1953.58,
+   "acc": "0000070858-26-000604",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "EMYB",
@@ -4732,6 +4720,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "RDGL",
+   "company": "VIVOS INC",
+   "insider": "Korenko Michael K",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 200000.0,
+   "price": 0.0491,
+   "value": 9820.0,
+   "acc": "0001486806-26-000012",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "LODE",
    "company": "Comstock Inc.",
    "insider": "DEGASPERIS CORRADO",
@@ -4932,8 +4932,8 @@
   },
   {
    "ticker": "HAWK",
-   "insiders": 5,
-   "total_value": 108719.1
+   "insiders": 4,
+   "total_value": 98777.7
   },
   {
    "ticker": "VTIX",
@@ -4991,14 +4991,14 @@
    "total_value": 34912.5
   },
   {
-   "ticker": "MSGM",
-   "insiders": 3,
-   "total_value": 31412.33
-  },
-  {
    "ticker": "LFT",
    "insiders": 2,
    "total_value": 23666.62
+  },
+  {
+   "ticker": "MSGM",
+   "insiders": 2,
+   "total_value": 21618.72
   },
   {
    "ticker": "IMMX",
@@ -5028,9 +5028,6 @@
   }
  ],
  "seen": [
-  "0002008790-26-000006",
-  "0002008967-26-000013",
-  "0002008981-26-000011",
   "0002008981-26-000013",
   "0002008989-26-000008",
   "0002009110-26-000003",
@@ -7222,6 +7219,7 @@
   "0002107730-26-000012",
   "0002107955-26-000006",
   "0002108262-26-000006",
+  "0002108307-26-000008",
   "0002108589-26-000018",
   "0002108589-26-000022",
   "0002108589-26-000024",
@@ -7490,6 +7488,7 @@
   "0002120516-26-000018",
   "0002120516-26-000019",
   "0002120696-26-000002",
+  "0002120697-26-000006",
   "0002120714-26-000004",
   "0002120865-26-000007",
   "0002120865-26-000009",
@@ -7717,6 +7716,7 @@
   "0002137144-26-000006",
   "0002137444-26-000007",
   "0002137699-26-000004",
+  "0002137771-26-000012",
   "0002137798-26-000006",
   "0002137987-26-000003",
   "0002138148-26-000002",
