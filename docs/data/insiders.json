@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-20 20:30 UTC",
+ "updated_utc": "2026-11-20 20:46 UTC",
  "purchases": [
-  {
-   "ticker": "NTWK",
-   "company": "NETSOL TECHNOLOGIES INC",
-   "insider": "GHAURI NAJEEB",
-   "role": "CEO",
-   "date": "2026-11-16",
-   "shares": 5000.0,
-   "price": 4.31,
-   "value": 21550.0,
-   "acc": "0001493152-26-052241",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
@@ -4384,6 +4372,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "NXG",
+   "company": "NXG NextGen Infrastructure Income Fund",
+   "insider": "Bruce Brian R",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 1150.0,
+   "price": 43.7625,
+   "value": 50326.88,
+   "acc": "0001409147-26-000001",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "DRK",
    "company": "DarkHorse Technologies Inc.",
    "insider": "Block Joel M",
@@ -4931,6 +4931,11 @@
    "total_value": 125093.92
   },
   {
+   "ticker": "NXG",
+   "insiders": 2,
+   "total_value": 92084.18
+  },
+  {
    "ticker": "VTIX",
    "insiders": 2,
    "total_value": 80870.0
@@ -5013,7 +5018,6 @@
   }
  ],
  "seen": [
-  "0002009110-26-000003",
   "0002009110-26-000005",
   "0002009110-26-000007",
   "0002009110-26-000011",
@@ -7260,6 +7264,7 @@
   "0002111103-26-000041",
   "0002111103-26-000043",
   "0002111103-26-000045",
+  "0002111103-26-000047",
   "0002111248-26-000004",
   "0002111310-26-000005",
   "0002111348-26-000011",
