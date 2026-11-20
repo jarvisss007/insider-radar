@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-20 14:28 UTC",
+ "updated_utc": "2026-11-20 14:44 UTC",
  "purchases": [
-  {
-   "ticker": "NFRX",
-   "company": "2023 ETF Series Trust",
-   "insider": "Harrison Street Real Assets Fund LLC",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 403135.0,
-   "price": 26.79,
-   "value": 10799986.65,
-   "acc": "0001687898-26-000013",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "PEPG",
-   "company": "PepGen Inc.",
-   "insider": "RA CAPITAL MANAGEMENT, L.P.",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 8625000.0,
-   "price": 5.0,
-   "value": 43125000.0,
-   "acc": "0001231919-26-001588",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "GABC",
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "insider": "Seger Andrew M",
-   "role": "Director",
-   "date": "2026-11-15",
-   "shares": 23.9697,
-   "price": 50.0633,
-   "value": 1200.0,
-   "acc": "0002081604-26-000015",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 199.0,
-   "price": 0.85,
-   "value": 169.15,
-   "acc": "0001841761-26-000117",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "IPM",
-   "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
-   "insider": "Katz Jason",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 143.0,
-   "price": 1.7,
-   "value": 243.1,
-   "acc": "0001213900-26-121462",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Mitchell William Edward",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 72.07,
-   "price": 13.875,
-   "value": 999.97,
-   "acc": "0000752642-26-000137",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "UMH",
-   "company": "UMH PROPERTIES, INC.",
-   "insider": "Miller Kevin S.",
-   "role": "EVP, CFO, Treasurer",
-   "date": "2026-11-16",
-   "shares": 72.07,
-   "price": 13.875,
-   "value": 999.97,
-   "acc": "0000752642-26-000136",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "DAIO",
    "company": "DATA I/O CORP",
@@ -3292,6 +3208,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "OWLS",
+   "company": "OBOOK HOLDINGS INC.",
+   "insider": "WANG CHUN KAI",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 1120.0,
+   "price": 2.2344,
+   "value": 2502.53,
+   "acc": "0002109337-26-000019",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -3602,6 +3530,18 @@
    "value": 14187.0,
    "acc": "0002156820-26-000008",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "ESEA",
+   "company": "EUROSEAS LTD.",
+   "insider": "Pittas Aristeidis P",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 250.0,
+   "price": 61.6633,
+   "value": 15415.83,
+   "acc": "0002127484-26-000023",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "TGEN",
@@ -4168,6 +4108,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "PICS",
+   "company": "PicS N.V.",
+   "insider": "Pruett William Rodney",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 50000.0,
+   "price": 4.65,
+   "value": 232500.0,
+   "acc": "0001213900-26-122460",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4420,6 +4372,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-19",
+   "shares": 50000.0,
+   "price": 0.131,
+   "value": 6550.0,
+   "acc": "0001493152-26-053379",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "VNRX",
    "company": "VOLITIONRX LTD",
    "insider": "Reynolds Cameron John",
@@ -4456,6 +4420,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "OWLS",
+   "company": "OBOOK HOLDINGS INC.",
+   "insider": "WANG CHUN KAI",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 6492.0,
+   "price": 2.0938,
+   "value": 13592.95,
+   "acc": "0002109337-26-000019",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "FBIO",
    "company": "Fortress Biotech, Inc.",
    "insider": "Jin David",
@@ -4478,6 +4454,18 @@
    "value": 17454.8,
    "acc": "0001493152-26-053325",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "EDRY",
+   "company": "EuroDry Ltd.",
+   "insider": "Pittas Aristeidis P",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 500.0,
+   "price": 38.31,
+   "value": 19155.0,
+   "acc": "0002127484-26-000024",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "MODD",
@@ -4526,6 +4514,18 @@
    "value": 25058.97,
    "acc": "0001437749-26-037775",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "ESEA",
+   "company": "EUROSEAS LTD.",
+   "insider": "Pittas Aristeidis P",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 475.0,
+   "price": 62.08,
+   "value": 29488.0,
+   "acc": "0002127484-26-000025",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "FBIO",
@@ -4846,6 +4846,11 @@
    "total_value": 802889.38
   },
   {
+   "ticker": "PICS",
+   "insiders": 3,
+   "total_value": 556660.38
+  },
+  {
    "ticker": "OFRM",
    "insiders": 3,
    "total_value": 505786.6
@@ -4864,11 +4869,6 @@
    "ticker": "FBIO",
    "insiders": 2,
    "total_value": 340396.74
-  },
-  {
-   "ticker": "PICS",
-   "insiders": 2,
-   "total_value": 324160.38
   },
   {
    "ticker": "FPS",
@@ -4966,14 +4966,14 @@
    "total_value": 38670.0
   },
   {
-   "ticker": "GROV",
-   "insiders": 2,
-   "total_value": 37280.11
-  },
-  {
    "ticker": "DAVI",
    "insiders": 2,
    "total_value": 37270.0
+  },
+  {
+   "ticker": "GROV",
+   "insiders": 2,
+   "total_value": 37110.96
   },
   {
    "ticker": "MSGM",
@@ -4989,11 +4989,6 @@
    "ticker": "IMMX",
    "insiders": 2,
    "total_value": 20011.07
-  },
-  {
-   "ticker": "UMH",
-   "insiders": 3,
-   "total_value": 15939.94
   },
   {
    "ticker": "DBHL",
@@ -5023,10 +5018,6 @@
   }
  ],
  "seen": [
-  "0002007928-26-000003",
-  "0002008126-26-000003",
-  "0002008217-26-000003",
-  "0002008400-26-000003",
   "0002008415-26-000003",
   "0002008603-26-000003",
   "0002008790-26-000006",
@@ -7241,6 +7232,7 @@
   "0002109337-26-000016",
   "0002109337-26-000017",
   "0002109337-26-000018",
+  "0002109337-26-000019",
   "0002109341-26-000003",
   "0002109629-26-000011",
   "0002109682-26-000006",
@@ -7605,6 +7597,9 @@
   "0002127484-26-000020",
   "0002127484-26-000021",
   "0002127484-26-000022",
+  "0002127484-26-000023",
+  "0002127484-26-000024",
+  "0002127484-26-000025",
   "0002127558-26-000013",
   "0002127674-26-000002",
   "0002127814-26-000004",
