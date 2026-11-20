@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-20 13:11 UTC",
+ "updated_utc": "2026-11-20 13:27 UTC",
  "purchases": [
-  {
-   "ticker": "YUMC",
-   "company": "Yum China Holdings, Inc.",
-   "insider": "DIMITRIEF ALEXANDER",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 5000.0,
-   "price": 49.5,
-   "value": 247500.0,
-   "acc": "0001673358-26-000169",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "BRSP",
-   "company": "BrightSpire Capital, Inc.",
-   "insider": "Mazzei Michael",
-   "role": "CEO",
-   "date": "2026-11-13",
-   "shares": 80650.0,
-   "price": 3.11,
-   "value": 250821.5,
-   "acc": "0001598424-26-000011",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "PRAA",
-   "company": "PRA GROUP INC",
-   "insider": "FREDRICKSON STEVEN D",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 25000.0,
-   "price": 11.8,
-   "value": 295000.0,
-   "acc": "0001185352-26-000002",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "CVV",
    "company": "CVD EQUIPMENT CORP",
@@ -3797,6 +3761,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "FLNA",
+   "company": "FILANA THERAPEUTICS, INC.",
+   "insider": "Barry Richard",
+   "role": "President & CEO",
+   "date": "2026-11-18",
+   "shares": 44851.0,
+   "price": 0.52,
+   "value": 23322.52,
+   "acc": "0001437749-26-037805",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "UAMY",
    "company": "UNITED STATES ANTIMONY CORP",
    "insider": "Bardswich Lloyd",
@@ -4733,6 +4709,30 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "BFH",
+   "company": "BREAD FINANCIAL HOLDINGS, INC.",
+   "insider": "Beberman Perry S",
+   "role": "EVP, Chief Financial Officer",
+   "date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 21.85,
+   "value": 109250.0,
+   "acc": "0001869941-26-000008",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "BFH",
+   "company": "BREAD FINANCIAL HOLDINGS, INC.",
+   "insider": "Beberman Perry S",
+   "role": "EVP, Chief Financial Officer",
+   "date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 22.23,
+   "value": 111150.0,
+   "acc": "0001869941-26-000008",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "AVK",
    "company": "ADVENT CONVERTIBLE & INCOME FUND",
    "insider": "MAITLAND TRACY V",
@@ -4902,14 +4902,14 @@
    "total_value": 254100.0
   },
   {
+   "ticker": "FLNA",
+   "insiders": 2,
+   "total_value": 238619.34
+  },
+  {
    "ticker": "ECC",
    "insiders": 2,
    "total_value": 221950.0
-  },
-  {
-   "ticker": "FLNA",
-   "insiders": 2,
-   "total_value": 215296.82
   },
   {
    "ticker": "SRTS",
