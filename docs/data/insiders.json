@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-20 20:46 UTC",
+ "updated_utc": "2026-11-20 21:02 UTC",
  "purchases": [
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "LEE CHAE",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 10000.0,
-   "price": 2.3285,
-   "value": 23285.0,
-   "acc": "0001193125-26-464325",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "MX",
-   "company": "MAGNACHIP SEMICONDUCTOR Corp",
-   "insider": "LEE CHAE",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 10000.0,
-   "price": 2.3394,
-   "value": 23394.0,
-   "acc": "0001193125-26-464325",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Energy Evolution Master Fund, Ltd.",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 10018.0,
-   "price": 2.4107,
-   "value": 24150.39,
-   "acc": "0001072613-26-000912",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "HAWK",
-   "company": "HawkEye 360, Inc.",
-   "insider": "Serafini John Sheldon",
-   "role": "President and CEO",
-   "date": "2026-11-16",
-   "shares": 1383.0,
-   "price": 17.8017,
-   "value": 24619.75,
-   "acc": "0002127288-26-000010",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "DAVI",
-   "company": "DAVION HEALTHCARE PLC",
-   "insider": "Sluyters Julian",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 25000.0,
-   "price": 1.0596,
-   "value": 26490.0,
-   "acc": "0001683168-26-008890",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 15879.0,
-   "price": 1.7641,
-   "value": 28012.14,
-   "acc": "0001493152-26-053120",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-16",
-   "shares": 200.0,
-   "price": 150.4,
-   "value": 30080.0,
-   "acc": "0001666120-26-000036",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "PLBY",
    "company": "Playboy, Inc.",
@@ -3340,6 +3256,30 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "LAC",
+   "company": "LITHIUM AMERICAS CORP.",
+   "insider": "CROWLEY TIMOTHY AMBROSE",
+   "role": "SVP, Gov & External Affairs",
+   "date": "2026-11-18",
+   "shares": 34722.0,
+   "price": 1.44,
+   "value": 49999.68,
+   "acc": "0000912282-26-001535",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "LAC",
+   "company": "LITHIUM AMERICAS CORP.",
+   "insider": "CROWLEY TIMOTHY AMBROSE",
+   "role": "SVP, Gov & External Affairs",
+   "date": "2026-11-18",
+   "shares": 33334.0,
+   "price": 1.5,
+   "value": 50001.0,
+   "acc": "0000912282-26-001535",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "BOSTON BYRON L",
@@ -3422,6 +3362,18 @@
    "value": 70104.0,
    "acc": "0002126029-26-000006",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "LAC",
+   "company": "LITHIUM AMERICAS CORP.",
+   "insider": "CROWLEY TIMOTHY AMBROSE",
+   "role": "SVP, Gov & External Affairs",
+   "date": "2026-11-18",
+   "shares": 50441.0,
+   "price": 1.48,
+   "value": 74652.68,
+   "acc": "0000912282-26-001535",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "PAL",
@@ -4012,6 +3964,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "FMBM",
+   "company": "F&M BANK CORP",
+   "insider": "Willingham John A.",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 100.0,
+   "price": 45.67,
+   "value": 4567.0,
+   "acc": "0001375820-26-000004",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "NWPP",
    "company": "NEW PEOPLES BANKSHARES INC",
    "insider": "White Blaine Scott",
@@ -4141,6 +4105,18 @@
    "price": 0.55,
    "value": 11922.9,
    "acc": "0001213900-26-122490",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "KLNG",
+   "company": "Koil Energy Solutions, Inc.",
+   "insider": "Intelligent Fanatics Capital Management LLC",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 2.4,
+   "value": 12000.0,
+   "acc": "0001798792-26-000008",
    "filed": "2026-11-20"
   },
   {
@@ -4612,6 +4588,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "KLNG",
+   "company": "Koil Energy Solutions, Inc.",
+   "insider": "Intelligent Fanatics Capital Management LLC",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 2000.0,
+   "price": 2.3,
+   "value": 4600.0,
+   "acc": "0001798792-26-000008",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "RDGL",
    "company": "VIVOS INC",
    "insider": "Weeks Brad Allan",
@@ -4717,6 +4705,18 @@
    "price": 38.7,
    "value": 38700.0,
    "acc": "0001957908-26-000004",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "BCML",
+   "company": "BayCom Corp",
+   "insider": "Laverne Robert G.",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1300.0,
+   "price": 29.9,
+   "value": 38870.0,
+   "acc": "0001437749-26-037891",
    "filed": "2026-11-20"
   },
   {
@@ -4941,11 +4941,6 @@
    "total_value": 80870.0
   },
   {
-   "ticker": "HAWK",
-   "insiders": 2,
-   "total_value": 73813.75
-  },
-  {
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 61120.0
@@ -4969,11 +4964,6 @@
    "ticker": "TGEN",
    "insiders": 4,
    "total_value": 45557.0
-  },
-  {
-   "ticker": "DAVI",
-   "insiders": 2,
-   "total_value": 37270.0
   },
   {
    "ticker": "LODE",
@@ -5011,6 +5001,11 @@
    "total_value": 9654.5
   },
   {
+   "ticker": "FMBM",
+   "insiders": 2,
+   "total_value": 9107.0
+  },
+  {
    "ticker": "WWB",
    "insiders": 2,
    "total_value": 0,
@@ -5018,7 +5013,6 @@
   }
  ],
  "seen": [
-  "0002009110-26-000005",
   "0002009110-26-000007",
   "0002009110-26-000011",
   "0002009130-26-000004",
@@ -6888,6 +6882,7 @@
   "0002082930-26-000018",
   "0002082930-26-000020",
   "0002082930-26-000022",
+  "0002082930-26-000024",
   "0002082975-26-000008",
   "0002082975-26-000010",
   "0002083068-26-000004",
