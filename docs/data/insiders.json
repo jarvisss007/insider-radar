@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-20 23:10 UTC",
+ "updated_utc": "2026-11-20 23:26 UTC",
  "purchases": [
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-16",
-   "shares": 6309.0,
-   "price": 148.8005,
-   "value": 938782.35,
-   "acc": "0001666120-26-000036",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "STUB",
    "company": "StubHub Holdings, Inc.",
@@ -3556,6 +3544,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "NWPP",
+   "company": "NEW PEOPLES BANKSHARES INC",
+   "insider": "KEENE HAROLD L",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 1000.0,
+   "price": 5.1,
+   "value": 5100.0,
+   "acc": "0001903596-26-000443",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "CRT",
    "company": "CROSS TIMBERS ROYALTY TRUST",
    "insider": "OLIVER ERIC L",
@@ -4996,6 +4996,11 @@
    "total_value": 11399.3
   },
   {
+   "ticker": "NWPP",
+   "insiders": 2,
+   "total_value": 9832.8
+  },
+  {
    "ticker": "LAND",
    "insiders": 2,
    "total_value": 9654.5
@@ -5013,7 +5018,6 @@
   }
  ],
  "seen": [
-  "0002009786-26-000008",
   "0002009786-26-000010",
   "0002009817-26-000006",
   "0002009817-26-000008",
@@ -5046,6 +5050,7 @@
   "0002010300-26-000035",
   "0002010300-26-000037",
   "0002010300-26-000039",
+  "0002010300-26-000041",
   "0002010445-26-000009",
   "0002010445-26-000011",
   "0002010494-26-000014",
