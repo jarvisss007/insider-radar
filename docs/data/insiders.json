@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-20 14:13 UTC",
+ "updated_utc": "2026-11-20 14:28 UTC",
  "purchases": [
-  {
-   "ticker": "HUBS",
-   "company": "HUBSPOT INC",
-   "insider": "Halligan Brian",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 22985.0,
-   "price": 217.44,
-   "value": 4997858.4,
-   "acc": "0001193125-26-462154",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "NFRX",
    "company": "2023 ETF Series Trust",
@@ -4516,6 +4504,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "PICS",
+   "company": "PicS N.V.",
+   "insider": "Costa de Moura Mauricio",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 4962.0,
+   "price": 4.99,
+   "value": 24760.38,
+   "acc": "0001213900-26-122452",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "LIDR",
    "company": "AEye, Inc.",
    "insider": "Husby Jonathon B.",
@@ -4864,6 +4864,11 @@
    "ticker": "FBIO",
    "insiders": 2,
    "total_value": 340396.74
+  },
+  {
+   "ticker": "PICS",
+   "insiders": 2,
+   "total_value": 324160.38
   },
   {
    "ticker": "FPS",
