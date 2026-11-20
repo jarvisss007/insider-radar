@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-20 18:24 UTC",
+ "updated_utc": "2026-11-20 18:40 UTC",
  "purchases": [
-  {
-   "ticker": "RWAY",
-   "company": "Runway Growth Finance Corp.",
-   "insider": "Thomson Carmela",
-   "role": "CFO, Treasurer and Secretary",
-   "date": "2026-11-16",
-   "shares": 1000.0,
-   "price": 6.67,
-   "value": 6670.0,
-   "acc": "0001104659-26-129699",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -3628,6 +3616,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "CRMD",
+   "company": "CorMedix Inc.",
+   "insider": "Lefkowitz Steven W",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 11500.0,
+   "price": 4.53,
+   "value": 52095.0,
+   "acc": "0001213900-26-122587",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "XBP",
    "company": "XBP Global Holdings, Inc.",
    "insider": "Klein Randal T",
@@ -4914,6 +4914,11 @@
    "ticker": "CVV",
    "insiders": 2,
    "total_value": 178852.2
+  },
+  {
+   "ticker": "CRMD",
+   "insiders": 2,
+   "total_value": 174095.0
   },
   {
    "ticker": "STXS",
