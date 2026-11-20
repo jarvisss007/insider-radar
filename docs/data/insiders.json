@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-20 19:11 UTC",
+ "updated_utc": "2026-11-20 19:27 UTC",
  "purchases": [
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 840.0,
-   "price": 10.13,
-   "value": 8509.2,
-   "acc": "0001510281-26-000445",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 10000.0,
-   "price": 0.8798,
-   "value": 8798.0,
-   "acc": "0001841761-26-000117",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CVV",
-   "company": "CVD EQUIPMENT CORP",
-   "insider": "Catalano Richard Andrew",
-   "role": "EVP & Chief Financial Officer",
-   "date": "2026-11-16",
-   "shares": 2000.0,
-   "price": 4.61,
-   "value": 9220.0,
-   "acc": "0000766792-26-000015",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "MSGM",
    "company": "Motorsport Games Inc.",
@@ -2980,6 +2944,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "NBH",
+   "company": "NEUBERGER MUNICIPAL FUND INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 288.0,
+   "price": 9.135,
+   "value": 2630.88,
+   "acc": "0000070858-26-000602",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -3086,6 +3062,18 @@
    "value": 4430.24,
    "acc": "0001178913-26-005305",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "LEO",
+   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 797.0,
+   "price": 5.785,
+   "value": 4610.65,
+   "acc": "0000070858-26-000601",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "SRTS",
@@ -4768,6 +4756,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "NYSE:FLG",
+   "company": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
+   "insider": "Smith Lee Matthew",
+   "role": "SEVP, Co-Pres, Co-COO & CFO",
+   "date": "2026-11-20",
+   "shares": 5000.0,
+   "price": 9.93,
+   "value": 49650.0,
+   "acc": "0001582883-26-000006",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lu Lee-Chung",
@@ -4834,6 +4834,11 @@
    "ticker": "RMIX",
    "insiders": 7,
    "total_value": 1269991.45
+  },
+  {
+   "ticker": "LEO",
+   "insiders": 2,
+   "total_value": 911789.06
   },
   {
    "ticker": "LCTX",
@@ -4916,11 +4921,6 @@
    "total_value": 187988.72
   },
   {
-   "ticker": "CVV",
-   "insiders": 2,
-   "total_value": 178852.2
-  },
-  {
    "ticker": "CRMD",
    "insiders": 2,
    "total_value": 174095.0
@@ -5001,11 +5001,6 @@
    "total_value": 23666.62
   },
   {
-   "ticker": "GROV",
-   "insiders": 2,
-   "total_value": 20197.3
-  },
-  {
    "ticker": "IMMX",
    "insiders": 2,
    "total_value": 20011.07
@@ -5014,6 +5009,11 @@
    "ticker": "DBHL",
    "insiders": 2,
    "total_value": 15282.19
+  },
+  {
+   "ticker": "GROV",
+   "insiders": 2,
+   "total_value": 11399.3
   },
   {
    "ticker": "LAND",
