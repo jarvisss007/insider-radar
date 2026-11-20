@@ -1,55 +1,6 @@
 {
- "updated_utc": "2026-11-20 02:50 UTC",
+ "updated_utc": "2026-11-20 03:06 UTC",
  "purchases": [
-  {
-   "ticker": "ADIG",
-   "company": "ADI GLOBAL DISTRIBUTION INC.",
-   "insider": "Carlet Michael",
-   "role": "Executive VP, CFO",
-   "date": "2026-11-13",
-   "shares": 10288.0,
-   "price": 9.71,
-   "value": 99896.48,
-   "acc": "0001873242-26-000009",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "NSPR",
-   "company": "InspireMD, Inc.",
-   "insider": "ROUBIN GARY S",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 153846.0,
-   "price": 0.65,
-   "value": 99999.9,
-   "acc": "0001493152-26-052820",
-   "filed": "2026-11-17",
-   "placement": true
-  },
-  {
-   "ticker": "GOOD",
-   "company": "GLADSTONE COMMERCIAL CORP",
-   "insider": "Cooper Arthur S.",
-   "role": "CEO & President",
-   "date": "2026-11-13",
-   "shares": 10070.4934,
-   "price": 9.93,
-   "value": 100000.0,
-   "acc": "0001873961-26-000004",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ADIG",
-   "company": "ADI GLOBAL DISTRIBUTION INC.",
-   "insider": "Aarnes Robert B",
-   "role": "President and CEO",
-   "date": "2026-11-13",
-   "shares": 10073.0,
-   "price": 9.93,
-   "value": 100024.89,
-   "acc": "0001754267-26-000006",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "KTTA",
    "company": "Pasithea Therapeutics Corp.",
@@ -3547,6 +3498,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Karp Jason H.",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 301.0,
+   "price": 0.8862,
+   "value": 266.75,
+   "acc": "0001841761-26-000127",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "ASPS",
    "company": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
    "insider": "RITTS GREGORY J.",
@@ -3592,6 +3555,18 @@
    "price": 1.79,
    "value": 537.0,
    "acc": "0001496259-26-000005",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Karp Jason H.",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 700.0,
+   "price": 0.9,
+   "value": 630.0,
+   "acc": "0001841761-26-000127",
    "filed": "2026-11-19"
   },
   {
@@ -3725,6 +3700,18 @@
    "value": 3186.89,
    "acc": "0001493152-26-053114",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Karp Jason H.",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 3800.0,
+   "price": 0.88,
+   "value": 3344.0,
+   "acc": "0001841761-26-000127",
+   "filed": "2026-11-19"
   },
   {
    "ticker": "LFT",
@@ -4567,6 +4554,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "GROV",
+   "company": "Grove Collaborative Holdings, Inc.",
+   "insider": "Karp Jason H.",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 3150.0,
+   "price": 0.79,
+   "value": 2488.5,
+   "acc": "0001841761-26-000127",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "LFT",
    "company": "Lument Finance Trust, Inc.",
    "insider": "Flynn James Peter",
@@ -4894,11 +4893,6 @@
    "total_value": 254100.0
   },
   {
-   "ticker": "ADIG",
-   "insiders": 3,
-   "total_value": 249972.92
-  },
-  {
    "ticker": "ECC",
    "insiders": 2,
    "total_value": 221950.0
@@ -4964,6 +4958,11 @@
    "total_value": 38670.0
   },
   {
+   "ticker": "GROV",
+   "insiders": 2,
+   "total_value": 37280.11
+  },
+  {
    "ticker": "DAVI",
    "insiders": 2,
    "total_value": 37270.0
@@ -4972,11 +4971,6 @@
    "ticker": "MSGM",
    "insiders": 3,
    "total_value": 31412.33
-  },
-  {
-   "ticker": "GROV",
-   "insiders": 2,
-   "total_value": 30550.86
   },
   {
    "ticker": "LFT",
@@ -5007,12 +5001,6 @@
    "ticker": "TRST",
    "insiders": 2,
    "total_value": 6659.06
-  },
-  {
-   "ticker": "NSPR",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 300000.35
   },
   {
    "ticker": "WWB",
