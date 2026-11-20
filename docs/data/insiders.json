@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-20 02:19 UTC",
+ "updated_utc": "2026-11-20 02:50 UTC",
  "purchases": [
-  {
-   "ticker": "ABCL",
-   "company": "AbCellera Biologics Inc.",
-   "insider": "Booth Andrew",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-13",
-   "shares": 8600.0,
-   "price": 11.33,
-   "value": 97438.0,
-   "acc": "0001834411-26-000010",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "ITG",
-   "company": "ITG, Inc./DE/",
-   "insider": "Parrott Andrew",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 17500.0,
-   "price": 5.62,
-   "value": 98350.0,
-   "acc": "0001193125-26-465675",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "PCT",
-   "company": "PureCycle Technologies, Inc.",
-   "insider": "Musa Fernando",
-   "role": "Executive Chairman",
-   "date": "2026-11-13",
-   "shares": 57600.0,
-   "price": 1.71,
-   "value": 98496.0,
-   "acc": "0001847066-26-000009",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "ADIG",
    "company": "ADI GLOBAL DISTRIBUTION INC.",
@@ -4315,6 +4279,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "RMIX",
+   "company": "Suncrete, Inc.",
+   "insider": "HEYER ANDREW R",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 15000.0,
+   "price": 7.52,
+   "value": 112800.0,
+   "acc": "0001193125-26-469031",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "CRVO",
    "company": "CervoMed Inc.",
    "insider": "ALAM JOHN J",
@@ -4651,6 +4627,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "MODD",
+   "company": "Modular Medical, Inc.",
+   "insider": "MANCHESTER MANAGEMENT CO LLC",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 10000.0,
+   "price": 2.0256,
+   "value": 20256.0,
+   "acc": "0000919574-26-008202",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "BSM",
    "company": "Black Stone Minerals, L.P.",
    "insider": "Carter Thomas L Jr",
@@ -4759,6 +4747,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "RMIX",
+   "company": "Suncrete, Inc.",
+   "insider": "HEYER ANDREW R",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 10000.0,
+   "price": 7.0,
+   "value": 70000.0,
+   "acc": "0001193125-26-469031",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "AVK",
    "company": "ADVENT CONVERTIBLE & INCOME FUND",
    "insider": "MAITLAND TRACY V",
@@ -4840,18 +4840,13 @@
   },
   {
    "ticker": "RMIX",
-   "insiders": 6,
-   "total_value": 1087191.45
+   "insiders": 7,
+   "total_value": 1269991.45
   },
   {
    "ticker": "LCTX",
    "insiders": 4,
    "total_value": 853898.0
-  },
-  {
-   "ticker": "ITG",
-   "insiders": 2,
-   "total_value": 606850.0
   },
   {
    "ticker": "CRMD",
@@ -4867,11 +4862,6 @@
    "ticker": "CVV",
    "insiders": 2,
    "total_value": 479722.45
-  },
-  {
-   "ticker": "PCT",
-   "insiders": 2,
-   "total_value": 470296.0
   },
   {
    "ticker": "PAL",
@@ -5032,7 +5022,6 @@
   }
  ],
  "seen": [
-  "0002007895-26-000016",
   "0002007897-26-000004",
   "0002007928-26-000003",
   "0002008126-26-000003",
@@ -5868,6 +5857,7 @@
   "0002051813-26-000013",
   "0002052022-26-000005",
   "0002052022-26-000006",
+  "0002052022-26-000011",
   "0002052025-26-000005",
   "0002052025-26-000006",
   "0002052034-26-000004",
