@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-20 17:37 UTC",
+ "updated_utc": "2026-11-20 17:53 UTC",
  "purchases": [
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 2800.0,
-   "price": 2.1953,
-   "value": 6146.84,
-   "acc": "0002109337-26-000018",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "ICU",
    "company": "SeaStar Medical Holding Corp",
@@ -4756,6 +4744,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "FEAM",
+   "company": "5E Advanced Materials, Inc.",
+   "insider": "Weibel Paul Wesley III",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 514.0,
+   "price": 1.45,
+   "value": 745.3,
+   "acc": "0001911537-26-000011",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "LODE",
    "company": "Comstock Inc.",
    "insider": "DEGASPERIS CORRADO",
@@ -5018,7 +5018,6 @@
   }
  ],
  "seen": [
-  "0002008603-26-000003",
   "0002008790-26-000006",
   "0002008967-26-000013",
   "0002008981-26-000011",
@@ -6492,6 +6491,7 @@
   "0002071844-26-001906",
   "0002071844-26-001911",
   "0002071844-26-001917",
+  "0002071844-26-001923",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
