@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-20 01:00 UTC",
+ "updated_utc": "2026-11-20 01:16 UTC",
  "purchases": [
-  {
-   "ticker": "NGS",
-   "company": "NATURAL GAS SERVICES GROUP INC",
-   "insider": "JACKSON JOHN EARL",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 1900.0,
-   "price": 28.9,
-   "value": 54910.0,
-   "acc": "0001236849-26-000015",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "MAIA",
-   "company": "MAIA Biotechnology, Inc.",
-   "insider": "Vitoc Vlad",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 60400.0,
-   "price": 1.0,
-   "value": 60400.0,
-   "acc": "0001878313-26-000104",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CWGL",
-   "company": "Crimson Wine Group, Ltd",
-   "insider": "Cumming John D.",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 18212.0,
-   "price": 3.85,
-   "value": 70116.2,
-   "acc": "0001628280-26-074448",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CWGL",
-   "company": "Crimson Wine Group, Ltd",
-   "insider": "STEINBERG JOSEPH S",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 18213.0,
-   "price": 3.85,
-   "value": 70120.05,
-   "acc": "0001628280-26-074450",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 3412.0,
-   "price": 21.19,
-   "value": 72300.28,
-   "acc": "0001510281-26-000441",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "NSPR",
    "company": "InspireMD, Inc.",
@@ -2468,6 +2408,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "WATT",
+   "company": "Energous Corp",
+   "insider": "ROBERSON DAVID EARLE",
+   "role": "Director",
+   "date": "2026-11-17",
+   "shares": 1325.0,
+   "price": 7.2,
+   "value": 9540.0,
+   "acc": "0001225208-26-009078",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "DAVI",
    "company": "DAVION HEALTHCARE PLC",
    "insider": "King Susan M",
@@ -3305,6 +3257,18 @@
    "price": 2.243,
    "value": 182972.72,
    "acc": "0002097345-26-000018",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "SCM",
+   "company": "Stellus Capital Investment Corp",
+   "insider": "Ladd Robert T.",
+   "role": "President and CEO",
+   "date": "2026-11-17",
+   "shares": 30000.0,
+   "price": 6.57,
+   "value": 197100.0,
+   "acc": "0001104659-26-130305",
    "filed": "2026-11-19"
   },
   {
@@ -4172,6 +4136,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "AIRJ",
+   "company": "AirJoule Technologies Corp.",
+   "insider": "Murphy Thomas Edward",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 28400.0,
+   "price": 1.767,
+   "value": 50182.8,
+   "acc": "0001193125-26-468951",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "XBP",
    "company": "XBP Global Holdings, Inc.",
    "insider": "Klein Randal T",
@@ -4736,6 +4712,30 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "VTIX",
+   "company": "Virtuix Holdings Inc.",
+   "insider": "McGinnis Thomas Lynn",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-19",
+   "shares": 100000.0,
+   "price": 0.4042,
+   "value": 40420.0,
+   "acc": "0001213900-26-122344",
+   "filed": "2026-11-19"
+  },
+  {
+   "ticker": "VTIX",
+   "company": "Virtuix Holdings Inc.",
+   "insider": "Goetgeluk Jan Roger",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 100000.0,
+   "price": 0.4045,
+   "value": 40450.0,
+   "acc": "0001213900-26-122343",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "RIV",
    "company": "RIVERNORTH OPPORTUNITIES FUND, INC.",
    "insider": "O'Neill Stephen Andrew",
@@ -4920,24 +4920,14 @@
    "total_value": 215296.82
   },
   {
-   "ticker": "CWGL",
-   "insiders": 2,
-   "total_value": 201356.25
-  },
-  {
-   "ticker": "MAIA",
-   "insiders": 2,
-   "total_value": 200000.0
-  },
-  {
    "ticker": "SRTS",
    "insiders": 2,
    "total_value": 187988.72
   },
   {
-   "ticker": "NGS",
+   "ticker": "MAIA",
    "insiders": 2,
-   "total_value": 140716.0
+   "total_value": 139600.0
   },
   {
    "ticker": "STXS",
@@ -4953,6 +4943,16 @@
    "ticker": "TISI",
    "insiders": 2,
    "total_value": 107791.0
+  },
+  {
+   "ticker": "VTIX",
+   "insiders": 2,
+   "total_value": 80870.0
+  },
+  {
+   "ticker": "CWGL",
+   "insiders": 2,
+   "total_value": 61120.0
   },
   {
    "ticker": "TGEN",
