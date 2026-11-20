@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-20 14:44 UTC",
+ "updated_utc": "2026-11-20 15:15 UTC",
  "purchases": [
-  {
-   "ticker": "DAIO",
-   "company": "DATA I/O CORP",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 530.0,
-   "price": 2.547,
-   "value": 1349.91,
-   "acc": "0001325533-26-000013",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
@@ -4612,6 +4600,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "CION",
+   "company": "CION Investment Corp",
+   "insider": "BRESNER GREGG A.",
+   "role": "President & CIO",
+   "date": "2026-11-19",
+   "shares": 8500.0,
+   "price": 5.66,
+   "value": 48110.0,
+   "acc": "0001681896-26-000002",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "DRK",
    "company": "DarkHorse Technologies Inc.",
    "insider": "Block Joel M",
@@ -4953,7 +4953,7 @@
   {
    "ticker": "DAIO",
    "insiders": 2,
-   "total_value": 55424.52
+   "total_value": 54074.61
   },
   {
    "ticker": "CATX",
