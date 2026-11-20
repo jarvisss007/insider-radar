@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-20 22:23 UTC",
+ "updated_utc": "2026-11-20 22:38 UTC",
  "purchases": [
-  {
-   "ticker": "FPS",
-   "company": "Forgent Power Solutions, Inc.",
-   "insider": "Hottinger Tyson",
-   "role": "Chief Legal Officer",
-   "date": "2026-11-16",
-   "shares": 11800.0,
-   "price": 20.759,
-   "value": 244956.2,
-   "acc": "0000950142-26-003077",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks Jabbok",
-   "role": "Founder & CEO /",
-   "date": "2026-11-16",
-   "shares": 16972.0,
-   "price": 14.73,
-   "value": 249997.56,
-   "acc": "0000950103-26-017803",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 47015.0,
-   "price": 5.79,
-   "value": 272216.85,
-   "acc": "0001510281-26-000442",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "KTTA",
-   "company": "Pasithea Therapeutics Corp.",
-   "insider": "Coastlands Capital LP",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 583083.0,
-   "price": 0.4989,
-   "value": 290900.11,
-   "acc": "0001104659-26-129251",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "OFRM",
-   "company": "Once Upon a Farm, PBC",
-   "insider": "PEIROS LARRY",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 27624.0,
-   "price": 10.9,
-   "value": 301101.6,
-   "acc": "0001184042-26-000003",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "ECF",
-   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 28235.0,
-   "price": 11.3,
-   "value": 319055.5,
-   "acc": "0001510281-26-000444",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 17555.0,
-   "price": 21.04,
-   "value": 369357.2,
-   "acc": "0001510281-26-000446",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "PCT",
-   "company": "PureCycle Technologies, Inc.",
-   "insider": "Olson Dustin",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 220000.0,
-   "price": 1.69,
-   "value": 371800.0,
-   "acc": "0001847079-26-000013",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "GPRK",
    "company": "GeoPark Ltd",
@@ -2932,6 +2836,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "CRT",
+   "company": "CROSS TIMBERS ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 5108.0,
+   "price": 13.08,
+   "value": 66812.64,
+   "acc": "0001104659-26-130692",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "HFRO",
    "company": "HIGHLAND OPPORTUNITIES & INCOME FUND",
    "insider": "Saba Capital Management, L.P.",
@@ -3460,6 +3376,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "SJT",
+   "company": "SAN JUAN BASIN ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 179657.0,
+   "price": 4.94,
+   "value": 887505.58,
+   "acc": "0001104659-26-130695",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "EFC",
    "company": "Ellington Financial Inc.",
    "insider": "Vranos Michael W",
@@ -3674,6 +3602,18 @@
    "value": 4949.12,
    "acc": "0001727995-26-000008",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "CRT",
+   "company": "CROSS TIMBERS ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 413.0,
+   "price": 13.2,
+   "value": 5451.6,
+   "acc": "0001104659-26-130692",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "AIM",
@@ -4264,6 +4204,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "LPCN",
+   "company": "Lipocine Inc.",
+   "insider": "Higuchi John W.",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 75000.0,
+   "price": 1.5119,
+   "value": 113392.5,
+   "acc": "0001493152-26-053570",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4333,6 +4285,18 @@
    "price": 14.79,
    "value": 180364.05,
    "acc": "0001628280-26-075309",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 33840.0,
+   "price": 5.37,
+   "value": 181720.8,
+   "acc": "0001510281-26-000464",
    "filed": "2026-11-20"
   },
   {
@@ -4453,6 +4417,18 @@
    "price": 138.9491,
    "value": 889274.24,
    "acc": "0001666120-26-000039",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "SJT",
+   "company": "SAN JUAN BASIN ROYALTY TRUST",
+   "insider": "OLIVER ERIC L",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 188428.0,
+   "price": 4.98,
+   "value": 938371.44,
+   "acc": "0001104659-26-130695",
    "filed": "2026-11-20"
   },
   {
@@ -4720,6 +4696,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "LPCN",
+   "company": "Lipocine Inc.",
+   "insider": "Higuchi John W.",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 75000.0,
+   "price": 1.4911,
+   "value": 111832.5,
+   "acc": "0001493152-26-053570",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lu Lee-Chung",
@@ -4792,6 +4780,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "HBCP",
+   "company": "HOME BANCORP, INC.",
+   "insider": "Hill Darren M",
+   "role": "Chief Risk Officer",
+   "date": "2026-11-20",
+   "shares": 5165.0,
+   "price": 60.99,
+   "value": 315013.35,
+   "acc": "0001436425-26-000078",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -4836,11 +4836,6 @@
    "total_value": 1269991.45
   },
   {
-   "ticker": "LEO",
-   "insiders": 2,
-   "total_value": 911789.06
-  },
-  {
    "ticker": "TSM",
    "insiders": 2,
    "total_value": 802889.38
@@ -4861,9 +4856,9 @@
    "total_value": 671911.25
   },
   {
-   "ticker": "EQPT",
+   "ticker": "LEO",
    "insiders": 2,
-   "total_value": 575761.61
+   "total_value": 639572.21
   },
   {
    "ticker": "PICS",
@@ -4871,9 +4866,9 @@
    "total_value": 556660.38
   },
   {
-   "ticker": "OFRM",
+   "ticker": "DSM",
    "insiders": 2,
-   "total_value": 401486.6
+   "total_value": 369911.34
   },
   {
    "ticker": "FBIO",
@@ -4881,9 +4876,9 @@
    "total_value": 340396.74
   },
   {
-   "ticker": "FPS",
+   "ticker": "EQPT",
    "insiders": 2,
-   "total_value": 309936.2
+   "total_value": 325764.05
   },
   {
    "ticker": "NPCE",
@@ -4899,11 +4894,6 @@
    "ticker": "ECC",
    "insiders": 2,
    "total_value": 221950.0
-  },
-  {
-   "ticker": "DSM",
-   "insiders": 2,
-   "total_value": 188190.54
   },
   {
    "ticker": "SRTS",
@@ -5028,8 +5018,6 @@
   }
  ],
  "seen": [
-  "0002009681-26-000008",
-  "0002009762-26-000005",
   "0002009762-26-000006",
   "0002009786-26-000008",
   "0002009786-26-000010",
@@ -6137,6 +6125,7 @@
   "0002065340-26-000021",
   "0002065340-26-000023",
   "0002065340-26-000025",
+  "0002065340-26-000027",
   "0002065459-26-000006",
   "0002065542-26-000003",
   "0002065589-26-000012",
@@ -7698,6 +7687,7 @@
   "0002135367-26-000002",
   "0002135506-26-000005",
   "0002135516-26-000004",
+  "0002135516-26-000005",
   "0002135579-26-000005",
   "0002135722-26-000006",
   "0002135736-26-000004",
