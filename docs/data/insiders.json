@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-20 11:07 UTC",
+ "updated_utc": "2026-11-20 11:22 UTC",
  "purchases": [
-  {
-   "ticker": "OPEN",
-   "company": "Opendoor Technologies Inc.",
-   "insider": "HAMILTON DANA",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 100000.0,
-   "price": 1.25,
-   "value": 125000.0,
-   "acc": "0001195975-26-000007",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "SPCB",
-   "company": "SuperCom Ltd",
-   "insider": "Trabelsi Arie",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 19400.0,
-   "price": 6.47,
-   "value": 125518.0,
-   "acc": "0001178913-26-005240",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 25900.0,
-   "price": 5.49,
-   "value": 142191.0,
-   "acc": "0001510281-26-000437",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
@@ -4314,6 +4278,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "ECX",
+   "company": "ECARX Holdings Inc.",
+   "insider": "Shen Ziyu",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 216110.0,
+   "price": 0.7445,
+   "value": 160893.9,
+   "acc": "0001104659-26-130358",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "NTB",
    "company": "Bank of N.T. Butterfield & Son Ltd",
    "insider": "Lynch Mark T",
@@ -4804,6 +4780,30 @@
    "value": 763706.43,
    "acc": "0001316065-26-000016",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lu Lee-Chung",
+   "role": "VP",
+   "date": "2026-11-20",
+   "shares": 2000.0,
+   "price": 60.57,
+   "value": 121140.0,
+   "acc": "0002114032-26-000002",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "TSM",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "insider": "Lu Lee-Chung",
+   "role": "VP",
+   "date": "2026-11-20",
+   "shares": 3000.0,
+   "price": 60.57,
+   "value": 181710.0,
+   "acc": "0002114032-26-000002",
+   "filed": "2026-11-20"
   }
  ],
  "clusters": [
@@ -4846,6 +4846,11 @@
    "ticker": "LCTX",
    "insiders": 4,
    "total_value": 853898.0
+  },
+  {
+   "ticker": "TSM",
+   "insiders": 2,
+   "total_value": 802889.38
   },
   {
    "ticker": "CRMD",
@@ -5010,7 +5015,6 @@
   }
  ],
  "seen": [
-  "0002007897-26-000004",
   "0002007928-26-000003",
   "0002008126-26-000003",
   "0002008217-26-000003",
@@ -7317,6 +7321,7 @@
   "0002114019-26-000004",
   "0002114019-26-000006",
   "0002114019-26-000008",
+  "0002114032-26-000002",
   "0002114034-26-000003",
   "0002114034-26-000006",
   "0002114034-26-000009",
