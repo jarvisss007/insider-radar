@@ -1890,3 +1890,8 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - Grader 11-18 scored 3, all wrong: APLD -22.3% (headline, $6.66M), FNGR -76.3% and GABC -2.6% (sub-floor). Strata now HEADLINE 40% (n=150, 50 days), sub-floor 29% (n=90, 42 days); desk 86/241 = 36%.
 - attribution.csv: "bought the run-up (>10%)" n=41 / 28 dates, hit 32%, avg -5.9%; "3+ insiders" n=74 / 36 dates, hit 36%, avg -3.7% — more insiders is not scoring better on our data. n is enough to say "no better", not enough to say "worse".
 - 12 clusters logged QUEUED; headroom admitted 4 before PORT-010 bit at 8.47%.
+
+## 2026-11-20 [insider] — GARUDA sweep
+- 0 scored (grader 11-19 graded nothing). Strata unchanged: HEADLINE 40% (n=150, 50 days), sub-floor 29% (n=90, 42 days); desk 86/241 = 36%. No new lesson; n unchanged.
+- 12 clusters logged QUEUED; PORT-010 headroom withheld all 12 (8.31% > 8% before the first row), so the account's insider sleeve took nothing today. Two straight days of 12 rows now share one check date (12-21): 24 rows, two entry days.
+- Writer note: the ledger header carries `void_reason`; append_call refuses a row dict without that key. Pass `void_reason=''`.
