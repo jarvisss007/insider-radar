@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-20 15:47 UTC",
+ "updated_utc": "2026-11-20 16:03 UTC",
  "purchases": [
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Lewis Earl",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 1206.0,
-   "price": 1.93,
-   "value": 2327.58,
-   "acc": "0001230427-26-000005",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "GLXZ",
-   "company": "Galaxy Gaming, Inc.",
-   "insider": "BOUSHY JOHN M",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 1524.0,
-   "price": 1.58,
-   "value": 2407.92,
-   "acc": "0001193125-26-467244",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "DAIO",
-   "company": "DATA I/O CORP",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 965.0,
-   "price": 2.547,
-   "value": 2457.86,
-   "acc": "0001325533-26-000013",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "GLXZ",
-   "company": "Galaxy Gaming, Inc.",
-   "insider": "BOUSHY JOHN M",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 1830.0,
-   "price": 1.57,
-   "value": 2873.1,
-   "acc": "0001193125-26-467244",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "OIG",
-   "company": "Orion180 Insurance Group Inc.",
-   "insider": "DEUTSCH ROBERT V",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 331.0,
-   "price": 10.25,
-   "value": 3392.75,
-   "acc": "0001493152-26-053114",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
@@ -4276,6 +4216,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "TGEN",
+   "company": "TECOGEN INC.",
+   "insider": "Hatsopoulos John",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 1000.0,
+   "price": 1.685,
+   "value": 1685.0,
+   "acc": "0001274775-26-000005",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "Karp Jason H.",
@@ -4288,6 +4240,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "TGEN",
+   "company": "TECOGEN INC.",
+   "insider": "Rangesh Abinand",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 1500.0,
+   "price": 1.75,
+   "value": 2625.0,
+   "acc": "0001917503-26-000004",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4297,6 +4261,42 @@
    "price": 0.7962,
    "value": 3105.18,
    "acc": "0001493152-26-053373",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "TGEN",
+   "company": "TECOGEN INC.",
+   "insider": "Hatsopoulos John",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 2000.0,
+   "price": 1.705,
+   "value": 3410.0,
+   "acc": "0001274775-26-000005",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "TGEN",
+   "company": "TECOGEN INC.",
+   "insider": "Hatsopoulos John",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 2000.0,
+   "price": 1.72,
+   "value": 3440.0,
+   "acc": "0001274775-26-000005",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "NWPP",
+   "company": "NEW PEOPLES BANKSHARES INC",
+   "insider": "White Blaine Scott",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 928.0,
+   "price": 5.1,
+   "value": 4732.8,
+   "acc": "0001903596-26-000440",
    "filed": "2026-11-20"
   },
   {
@@ -4931,6 +4931,11 @@
    "total_value": 80870.0
   },
   {
+   "ticker": "TGEN",
+   "insiders": 5,
+   "total_value": 64621.24
+  },
+  {
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 61120.0
@@ -4946,14 +4951,9 @@
    "total_value": 56570.0
   },
   {
-   "ticker": "TGEN",
-   "insiders": 3,
-   "total_value": 55788.82
-  },
-  {
    "ticker": "DAIO",
    "insiders": 2,
-   "total_value": 54074.61
+   "total_value": 51616.75
   },
   {
    "ticker": "OXSQ",
