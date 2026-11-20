@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-20 13:27 UTC",
+ "updated_utc": "2026-11-20 13:42 UTC",
  "purchases": [
-  {
-   "ticker": "CVV",
-   "company": "CVD EQUIPMENT CORP",
-   "insider": "AFRICK ANDREW",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 70793.0,
-   "price": 4.25,
-   "value": 300870.25,
-   "acc": "0000766792-26-000013",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CRMD",
-   "company": "CorMedix Inc.",
-   "insider": "Todisco Joseph",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 80000.0,
-   "price": 4.89,
-   "value": 391200.0,
-   "acc": "0001213900-26-120120",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "HOS",
-   "company": "HORNBECK OFFSHORE SERVICES, INC.",
-   "insider": "HORNBECK TODD M",
-   "role": "PRESIDENT & CEO",
-   "date": "2026-11-13",
-   "shares": 85912.291,
-   "price": 5.8199,
-   "value": 500000.94,
-   "acc": "0001284591-26-000003",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "SKYD",
-   "company": "Skydance Corp",
-   "insider": "Cardinale Gerald J.",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 66400.0,
-   "price": 7.5388,
-   "value": 500576.32,
-   "acc": "0000895345-26-000491",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ITG",
-   "company": "ITG, Inc./DE/",
-   "insider": "Giacalone Peter",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 90000.0,
-   "price": 5.65,
-   "value": 508500.0,
-   "acc": "0001193125-26-465642",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 90318.0,
-   "price": 5.82,
-   "value": 525650.76,
-   "acc": "0001510281-26-000438",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Sarowitz Steven I",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 150108.0,
-   "price": 4.5401,
-   "value": 681505.33,
-   "acc": "0001865200-26-000102",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "KURA",
    "company": "Kura Oncology, Inc.",
@@ -3641,6 +3557,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "FLNA",
+   "company": "FILANA THERAPEUTICS, INC.",
+   "insider": "Anderson Robert Eugene Jr",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 19000.0,
+   "price": 0.52,
+   "value": 9880.0,
+   "acc": "0001437749-26-037807",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "ORRF",
    "company": "ORRSTOWN FINANCIAL SERVICES INC",
    "insider": "BROWN SARAH M",
@@ -3821,6 +3749,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "CLIK",
+   "company": "Click Holdings Ltd.",
+   "insider": "Chan Chun Sing",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 43020.0,
+   "price": 0.7131,
+   "value": 30677.56,
+   "acc": "0001493152-26-053366",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "MTEK",
    "company": "Maris Tech Ltd.",
    "insider": "Bar Israel",
@@ -3890,6 +3830,18 @@
    "price": 2.8167,
    "value": 42250.5,
    "acc": "0001368618-26-000016",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "NMAD",
+   "company": "NOMAD POWER SOLUTIONS, INC.",
+   "insider": "Holloway Michael Andrew",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 15000.0,
+   "price": 2.82,
+   "value": 42300.0,
+   "acc": "0001493152-26-053368",
    "filed": "2026-11-20"
   },
   {
@@ -4193,6 +4145,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 6552.0,
+   "price": 18.8942,
+   "value": 123794.8,
+   "acc": "0000935596-26-000032",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "AFCG",
    "company": "Advanced Flower Capital Inc.",
    "insider": "TANNENBAUM LEONARD M",
@@ -4493,6 +4457,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "VNRX",
+   "company": "VOLITIONRX LTD",
+   "insider": "Reynolds Cameron John",
+   "role": "President and CEO",
+   "date": "2026-11-19",
+   "shares": 40000.0,
+   "price": 0.1712,
+   "value": 6848.0,
+   "acc": "0001477932-26-007198",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4587,6 +4563,18 @@
    "value": 32440.23,
    "acc": "0000941841-26-000005",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "CLIK",
+   "company": "Click Holdings Ltd.",
+   "insider": "Chan Chun Sing",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 45000.0,
+   "price": 0.7373,
+   "value": 33178.5,
+   "acc": "0001493152-26-053366",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "TROX",
@@ -4733,6 +4721,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 7500.0,
+   "price": 18.9005,
+   "value": 141753.75,
+   "acc": "0000935596-26-000032",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "AVK",
    "company": "ADVENT CONVERTIBLE & INCOME FUND",
    "insider": "MAITLAND TRACY V",
@@ -4852,19 +4852,9 @@
    "total_value": 802889.38
   },
   {
-   "ticker": "CRMD",
-   "insiders": 2,
-   "total_value": 513200.0
-  },
-  {
    "ticker": "OFRM",
    "insiders": 3,
    "total_value": 505786.6
-  },
-  {
-   "ticker": "CVV",
-   "insiders": 2,
-   "total_value": 479722.45
   },
   {
    "ticker": "PAL",
@@ -4903,8 +4893,8 @@
   },
   {
    "ticker": "FLNA",
-   "insiders": 2,
-   "total_value": 238619.34
+   "insiders": 3,
+   "total_value": 248499.34
   },
   {
    "ticker": "ECC",
@@ -4915,6 +4905,11 @@
    "ticker": "SRTS",
    "insiders": 2,
    "total_value": 187988.72
+  },
+  {
+   "ticker": "CVV",
+   "insiders": 2,
+   "total_value": 178852.2
   },
   {
    "ticker": "STXS",
@@ -4950,6 +4945,11 @@
    "ticker": "TGEN",
    "insiders": 3,
    "total_value": 57153.82
+  },
+  {
+   "ticker": "NMAD",
+   "insiders": 2,
+   "total_value": 56570.0
   },
   {
    "ticker": "DAIO",
