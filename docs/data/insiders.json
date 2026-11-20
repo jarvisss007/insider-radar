@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-20 22:54 UTC",
+ "updated_utc": "2026-11-20 23:10 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Damian Miguel",
-   "role": "Vicepresident",
-   "date": "2026-11-16",
-   "shares": 10242.0,
-   "price": 63.917,
-   "value": 654637.91,
-   "acc": "0002028916-26-000016",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "BRSP",
-   "company": "BrightSpire Capital, Inc.",
-   "insider": "Mazzei Michael",
-   "role": "CEO",
-   "date": "2026-11-16",
-   "shares": 228463.0,
-   "price": 3.28,
-   "value": 749358.64,
-   "acc": "0001598424-26-000011",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "KURA",
-   "company": "Kura Oncology, Inc.",
-   "insider": "WILSON TROY EDWARD",
-   "role": "President and CEO",
-   "date": "2026-11-16",
-   "shares": 101119.0,
-   "price": 7.42,
-   "value": 750302.98,
-   "acc": "0001193125-26-464166",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-16",
-   "shares": 6191.0,
-   "price": 149.7203,
-   "value": 926918.38,
-   "acc": "0001666120-26-000036",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
@@ -2476,6 +2428,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 6352.0,
+   "price": 2.7508,
+   "value": 17473.08,
+   "acc": "0001072613-26-000923",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "FCCO",
    "company": "FIRST COMMUNITY CORP /SC/",
    "insider": "Ford Terrance Antwan",
@@ -2497,6 +2461,18 @@
    "price": 0.52,
    "value": 23322.52,
    "acc": "0001437749-26-037805",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "ZEO",
+   "company": "Zeo Energy Corp.",
+   "insider": "BRIDGEWATER TIMOTHY A",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 107955.0,
+   "price": 0.2301,
+   "value": 24840.45,
+   "acc": "0001213900-26-122811",
    "filed": "2026-11-20"
   },
   {
@@ -3652,6 +3628,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 4068.0,
+   "price": 2.6788,
+   "value": 10897.36,
+   "acc": "0001072613-26-000923",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "OXSQ",
    "company": "Oxford Square Capital Corp.",
    "insider": "ROSENTHAL SAUL B",
@@ -4564,6 +4552,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "EP",
+   "company": "EMPIRE PETROLEUM CORP",
+   "insider": "Energy Evolution Master Fund, Ltd.",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 4698.0,
+   "price": 2.6282,
+   "value": 12347.28,
+   "acc": "0001072613-26-000923",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "LODE",
    "company": "Comstock Inc.",
    "insider": "DEGASPERIS CORRADO",
@@ -4813,7 +4813,7 @@
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 6269248.82
+   "total_value": 5614610.91
   },
   {
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
@@ -5013,7 +5013,6 @@
   }
  ],
  "seen": [
-  "0002009762-26-000006",
   "0002009786-26-000008",
   "0002009786-26-000010",
   "0002009817-26-000006",
@@ -5493,6 +5492,7 @@
   "0002033015-26-000006",
   "0002033056-26-000016",
   "0002033056-26-000017",
+  "0002033056-26-000019",
   "0002033348-26-000008",
   "0002033348-26-000012",
   "0002033348-26-000014",
