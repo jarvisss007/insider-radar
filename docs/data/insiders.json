@@ -1,43 +1,6 @@
 {
- "updated_utc": "2026-11-20 13:42 UTC",
+ "updated_utc": "2026-11-20 13:58 UTC",
  "purchases": [
-  {
-   "ticker": "KURA",
-   "company": "Kura Oncology, Inc.",
-   "insider": "WILSON TROY EDWARD",
-   "role": "President and CEO",
-   "date": "2026-11-13",
-   "shares": 98881.0,
-   "price": 7.63,
-   "value": 754462.03,
-   "acc": "0001193125-26-464166",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "CLRO",
-   "company": "CLEARONE INC",
-   "insider": "First Finance Ltd.",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 188885.0,
-   "price": 4.0,
-   "value": 755540.0,
-   "acc": "0001493152-26-052957",
-   "filed": "2026-11-17",
-   "placement": true
-  },
-  {
-   "ticker": "STUB",
-   "company": "StubHub Holdings, Inc.",
-   "insider": "Raab Andrew John",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 200000.0,
-   "price": 5.2811,
-   "value": 1056220.0,
-   "acc": "0001628280-26-074600",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "HRNG",
    "company": "HALLADOR ENERGY CO",
@@ -3581,6 +3544,30 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "IMMX",
+   "company": "Immix Biopharma, Inc.",
+   "insider": "Rachman Ilya M",
+   "role": "CEO, Chairman",
+   "date": "2026-11-18",
+   "shares": 1408.45,
+   "price": 7.1,
+   "value": 9999.99,
+   "acc": "0001493152-26-053370",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "IMMX",
+   "company": "Immix Biopharma, Inc.",
+   "insider": "Morris Gabriel S",
+   "role": "CFO, President",
+   "date": "2026-11-18",
+   "shares": 1418.0,
+   "price": 7.06,
+   "value": 10011.08,
+   "acc": "0001493152-26-053369",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "OESX",
    "company": "ORION ENERGY SYSTEMS, INC.",
    "insider": "Washlow Sally A.",
@@ -4757,6 +4744,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "ELV",
+   "company": "Elevance Health, Inc.",
+   "insider": "PERU RAMIRO G",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 1000.0,
+   "price": 383.86,
+   "value": 383860.0,
+   "acc": "0001192045-26-000006",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "CCB",
    "company": "COASTAL FINANCIAL CORP",
    "insider": "HOVDE STEVEN D",
@@ -4824,7 +4823,7 @@
   {
    "ticker": "STUB",
    "insiders": 2,
-   "total_value": 3547771.0
+   "total_value": 2491551.0
   },
   {
    "ticker": "EFC",
@@ -4985,6 +4984,11 @@
    "ticker": "LFT",
    "insiders": 2,
    "total_value": 23666.62
+  },
+  {
+   "ticker": "IMMX",
+   "insiders": 2,
+   "total_value": 20011.07
   },
   {
    "ticker": "UMH",
