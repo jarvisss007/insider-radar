@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-20 13:58 UTC",
+ "updated_utc": "2026-11-20 14:13 UTC",
  "purchases": [
-  {
-   "ticker": "HRNG",
-   "company": "HALLADOR ENERGY CO",
-   "insider": "Wesley Charles Ray IV",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 100000.0,
-   "price": 10.6971,
-   "value": 1069710.0,
-   "acc": "0001628280-26-074438",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "STUB",
-   "company": "StubHub Holdings, Inc.",
-   "insider": "Bhargava Sameer",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 282500.0,
-   "price": 5.3068,
-   "value": 1499171.0,
-   "acc": "0001628280-26-074602",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "AKAM",
-   "company": "AKAMAI TECHNOLOGIES INC",
-   "insider": "LEIGHTON F THOMSON",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-13",
-   "shares": 30000.0,
-   "price": 85.08,
-   "value": 2552400.0,
-   "acc": "0001106232-26-000012",
-   "filed": "2026-11-13"
-  },
   {
    "ticker": "HUBS",
    "company": "HUBSPOT INC",
@@ -4240,6 +4204,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "PICS",
+   "company": "PicS N.V.",
+   "insider": "Teixeira Linares Marcio Antonio",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 60000.0,
+   "price": 4.99,
+   "value": 299400.0,
+   "acc": "0001213900-26-122444",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "BSM",
    "company": "Black Stone Minerals, L.P.",
    "insider": "Carter Thomas L Jr",
@@ -4418,6 +4394,18 @@
    "value": 2488.5,
    "acc": "0001841761-26-000127",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 3900.0,
+   "price": 0.7962,
+   "value": 3105.18,
+   "acc": "0001493152-26-053373",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "ACON",
@@ -4732,6 +4720,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "SAGT",
+   "company": "SAGTEC GLOBAL Ltd",
+   "insider": "Ng Chen Lok",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 260000.0,
+   "price": 1.03,
+   "value": 267800.0,
+   "acc": "0001213900-26-122442",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "JYNT",
    "company": "JOINT Corp",
    "insider": "JOBSON CHARLES E",
@@ -4819,11 +4819,6 @@
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
    "insiders": 3,
    "total_value": 4100000.0
-  },
-  {
-   "ticker": "STUB",
-   "insiders": 2,
-   "total_value": 2491551.0
   },
   {
    "ticker": "EFC",
