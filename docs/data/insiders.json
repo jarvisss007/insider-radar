@@ -1,79 +1,6 @@
 {
- "updated_utc": "2026-11-20 12:40 UTC",
+ "updated_utc": "2026-11-20 13:11 UTC",
  "purchases": [
-  {
-   "ticker": "NTHI",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "insider": "Heshmatpour Amir F",
-   "role": "CEO, President",
-   "date": "2026-11-13",
-   "shares": 30000.0,
-   "price": 5.0167,
-   "value": 150501.0,
-   "acc": "0001213900-26-119920",
-   "filed": "2026-11-13"
-  },
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mariani Gustavo",
-   "role": "Vicepresident",
-   "date": "2026-11-13",
-   "shares": 2649.0,
-   "price": 63.917,
-   "value": 169316.13,
-   "acc": "0002028917-26-000004",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "BGDE",
-   "company": "Big Digital Energy, Inc.",
-   "insider": "Endeavor Blockchain, LLC",
-   "role": "10% owner",
-   "date": "2026-11-13",
-   "shares": 60000.0,
-   "price": 2.93,
-   "value": 175800.0,
-   "acc": "0000912282-26-001509",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "SONO",
-   "company": "Sonos Inc",
-   "insider": "Kennedy Joseph Jude",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 10190.0,
-   "price": 18.23,
-   "value": 185763.7,
-   "acc": "0001314727-26-000106",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "NSPR",
-   "company": "InspireMD, Inc.",
-   "insider": "Stuka Paul",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 307693.0,
-   "price": 0.65,
-   "value": 200000.45,
-   "acc": "0001493152-26-052827",
-   "filed": "2026-11-17",
-   "placement": true
-  },
-  {
-   "ticker": "KTOS",
-   "company": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
-   "insider": "King David Arnold",
-   "role": "Director",
-   "date": "2026-11-13",
-   "shares": 6000.0,
-   "price": 33.5152,
-   "value": 201091.2,
-   "acc": "0001803860-26-000005",
-   "filed": "2026-11-16"
-  },
   {
    "ticker": "YUMC",
    "company": "Yum China Holdings, Inc.",
@@ -3798,6 +3725,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "DRK",
+   "company": "DarkHorse Technologies Inc.",
+   "insider": "Block Joel M",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-18",
+   "shares": 8761.0,
+   "price": 1.2857,
+   "value": 11264.02,
+   "acc": "0001213900-26-122416",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "CATX",
    "company": "Perspective Therapeutics, Inc.",
    "insider": "Williamson Robert F III",
@@ -3916,6 +3855,18 @@
    "value": 30800.0,
    "acc": "0001185185-26-005551",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "VANI",
+   "company": "Vivani Medical, Inc.",
+   "insider": "Williams Gregg",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 33169.0,
+   "price": 1.054,
+   "value": 34960.13,
+   "acc": "0001753926-26-002210",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "CRVO",
@@ -4144,6 +4095,18 @@
    "value": 88909.52,
    "acc": "0001628280-26-075100",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "CTGO",
+   "company": "Contango Silver & Gold Inc.",
+   "insider": "JUNEAU JOHN B",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 9705.0,
+   "price": 10.03,
+   "value": 97341.15,
+   "acc": "0001193125-26-469338",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "CRC",
@@ -4710,6 +4673,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "DRK",
+   "company": "DarkHorse Technologies Inc.",
+   "insider": "Block Joel M",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 37239.0,
+   "price": 1.3668,
+   "value": 50898.27,
+   "acc": "0001213900-26-122416",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "ARR",
    "company": "Armour Residential REIT, Inc.",
    "insider": "ULM SCOTT",
@@ -4732,6 +4707,30 @@
    "value": 70000.0,
    "acc": "0001193125-26-469031",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "CTGO",
+   "company": "Contango Silver & Gold Inc.",
+   "insider": "Nauman Clynton R.",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 7500.0,
+   "price": 10.06,
+   "value": 75450.0,
+   "acc": "0001193125-26-469337",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "VANI",
+   "company": "Vivani Medical, Inc.",
+   "insider": "Williams Gregg",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 85265.0,
+   "price": 1.095,
+   "value": 93365.18,
+   "acc": "0001753926-26-002210",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "AVK",
@@ -4815,7 +4814,7 @@
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 7085916.33
+   "total_value": 6916600.2
   },
   {
    "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
@@ -4891,6 +4890,11 @@
    "ticker": "NPCE",
    "insiders": 3,
    "total_value": 302103.02
+  },
+  {
+   "ticker": "CTGO",
+   "insiders": 3,
+   "total_value": 273888.51
   },
   {
    "ticker": "BW",
