@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-20 18:56 UTC",
+ "updated_utc": "2026-11-20 19:11 UTC",
  "purchases": [
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 10000.0,
-   "price": 0.839,
-   "value": 8390.0,
-   "acc": "0001841761-26-000117",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "FLNA",
-   "company": "FILANA THERAPEUTICS, INC.",
-   "insider": "Schoen Eric",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-16",
-   "shares": 20000.0,
-   "price": 0.42,
-   "value": 8400.0,
-   "acc": "0001437749-26-037548",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "GF",
    "company": "NEW GERMANY FUND INC",
@@ -3076,6 +3052,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "DSM",
+   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 703.0,
+   "price": 5.445,
+   "value": 3827.84,
+   "acc": "0000070858-26-000600",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "CVSI",
    "company": "CV Sciences, Inc.",
    "insider": "CHEEVER CHARLIE E III",
@@ -4802,6 +4790,18 @@
    "value": 181710.0,
    "acc": "0002114032-26-000002",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "NTB",
+   "company": "Bank of N.T. Butterfield & Son Ltd",
+   "insider": "Lynch Mark T",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 7000.0,
+   "price": 53.847,
+   "value": 376929.0,
+   "acc": "0001653242-26-000145",
+   "filed": "2026-11-20"
   }
  ],
  "clusters": [
@@ -4897,13 +4897,18 @@
   },
   {
    "ticker": "FLNA",
-   "insiders": 3,
-   "total_value": 248499.34
+   "insiders": 2,
+   "total_value": 240099.34
   },
   {
    "ticker": "ECC",
    "insiders": 2,
    "total_value": 221950.0
+  },
+  {
+   "ticker": "DSM",
+   "insiders": 2,
+   "total_value": 188190.54
   },
   {
    "ticker": "SRTS",
@@ -4991,14 +4996,14 @@
    "total_value": 31412.33
   },
   {
-   "ticker": "GROV",
-   "insiders": 2,
-   "total_value": 28587.3
-  },
-  {
    "ticker": "LFT",
    "insiders": 2,
    "total_value": 23666.62
+  },
+  {
+   "ticker": "GROV",
+   "insiders": 2,
+   "total_value": 20197.3
   },
   {
    "ticker": "IMMX",
