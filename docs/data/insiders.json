@@ -1,19 +1,6 @@
 {
- "updated_utc": "2026-11-20 01:31 UTC",
+ "updated_utc": "2026-11-20 01:47 UTC",
  "purchases": [
-  {
-   "ticker": "NSPR",
-   "company": "InspireMD, Inc.",
-   "insider": "Lawless Michael A",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-13",
-   "shares": 115385.0,
-   "price": 0.65,
-   "value": 75000.25,
-   "acc": "0001493152-26-052826",
-   "filed": "2026-11-17",
-   "placement": true
-  },
   {
    "ticker": "MAIA",
    "company": "MAIA Biotechnology, Inc.",
@@ -2540,6 +2527,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "NXRT",
+   "company": "NexPoint Residential Trust, Inc.",
+   "insider": "Richards Paul",
+   "role": "See Remarks",
+   "date": "2026-11-17",
+   "shares": 1000.0,
+   "price": 14.74,
+   "value": 14740.0,
+   "acc": "0001437749-26-037782",
+   "filed": "2026-11-19"
+  },
+  {
    "ticker": "NBP",
    "company": "NovaBridge Biosciences",
    "insider": "Hagler Mark Arnold",
@@ -5021,9 +5020,9 @@
   },
   {
    "ticker": "NSPR",
-   "insiders": 3,
+   "insiders": 2,
    "total_value": 0,
-   "other_value": 375000.6
+   "other_value": 300000.35
   },
   {
    "ticker": "WWB",
