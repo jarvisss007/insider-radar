@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-20 20:14 UTC",
+ "updated_utc": "2026-11-20 20:30 UTC",
  "purchases": [
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Lewis Earl",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 8094.0,
-   "price": 1.96,
-   "value": 15864.24,
-   "acc": "0001230427-26-000005",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "NTWK",
-   "company": "NETSOL TECHNOLOGIES INC",
-   "insider": "GHAURI NAEEM",
-   "role": "President",
-   "date": "2026-11-16",
-   "shares": 4000.0,
-   "price": 4.28,
-   "value": 17120.0,
-   "acc": "0001493152-26-052243",
-   "filed": "2026-11-16"
-  },
-  {
-   "ticker": "MAIA",
-   "company": "MAIA Biotechnology, Inc.",
-   "insider": "Smith Stan",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 18782.0,
-   "price": 1.0,
-   "value": 18782.0,
-   "acc": "0001878313-26-000106",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Whiting John Kimball IV",
-   "role": "General Counsel & Secretary",
-   "date": "2026-11-16",
-   "shares": 10000.0,
-   "price": 1.96,
-   "value": 19600.0,
-   "acc": "0001808199-26-000006",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "LCTX",
-   "company": "Lineage Cell Therapeutics, Inc.",
-   "insider": "ANDREWS DEBORAH J",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 25000.0,
-   "price": 0.8,
-   "value": 20000.0,
-   "acc": "0001193125-26-465809",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "EDRY",
-   "company": "EuroDry Ltd.",
-   "insider": "Pittas Aristeidis P",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 575.0,
-   "price": 37.4507,
-   "value": 21534.15,
-   "acc": "0002127484-26-000022",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "NTWK",
    "company": "NETSOL TECHNOLOGIES INC",
@@ -4084,6 +4012,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "FMBM",
+   "company": "F&M BANK CORP",
+   "insider": "McHaffa Evan S.",
+   "role": "EVP, Chief Credit Officer",
+   "date": "2026-11-19",
+   "shares": 100.0,
+   "price": 45.4,
+   "value": 4540.0,
+   "acc": "0002124863-26-000004",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "NWPP",
    "company": "NEW PEOPLES BANKSHARES INC",
    "insider": "White Blaine Scott",
@@ -4178,6 +4118,18 @@
    "value": 9920.95,
    "acc": "0001563284-26-000006",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "insider": "TEAGUE AJ",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 165.0,
+   "price": 61.9,
+   "value": 10213.5,
+   "acc": "0001628280-26-075235",
+   "filed": "2026-11-20"
   },
   {
    "ticker": "OXSQ",
@@ -4744,6 +4696,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "insider": "TEAGUE AJ",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 355.0,
+   "price": 58.05,
+   "value": 20607.75,
+   "acc": "0001628280-26-075235",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "NXG",
    "company": "NXG NextGen Infrastructure Income Fund",
    "insider": "Sunderland Todd",
@@ -4780,6 +4744,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "insider": "Ramachandran Kyle S.",
+   "role": "President",
+   "date": "2026-11-20",
+   "shares": 3000.0,
+   "price": 53.25,
+   "value": 159750.0,
+   "acc": "0001628280-26-075234",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TSM",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
    "insider": "Lu Lee-Chung",
@@ -4789,6 +4765,30 @@
    "price": 60.57,
    "value": 181710.0,
    "acc": "0002114032-26-000002",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "insider": "Zartler William A",
+   "role": "Chairman and Co-CEO",
+   "date": "2026-11-20",
+   "shares": 4000.0,
+   "price": 53.11,
+   "value": 212440.0,
+   "acc": "0001628280-26-075232",
+   "filed": "2026-11-20"
+  },
+  {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "insider": "Brock Amanda M",
+   "role": "Co-Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 5000.0,
+   "price": 53.78,
+   "value": 268900.0,
+   "acc": "0001628280-26-075233",
    "filed": "2026-11-20"
   },
   {
@@ -4842,13 +4842,18 @@
   },
   {
    "ticker": "LCTX",
-   "insiders": 4,
-   "total_value": 853898.0
+   "insiders": 3,
+   "total_value": 833898.0
   },
   {
    "ticker": "TSM",
    "insiders": 2,
    "total_value": 802889.38
+  },
+  {
+   "ticker": "SEI",
+   "insiders": 4,
+   "total_value": 671911.25
   },
   {
    "ticker": "PICS",
@@ -4926,11 +4931,6 @@
    "total_value": 125093.92
   },
   {
-   "ticker": "TGEN",
-   "insiders": 6,
-   "total_value": 81021.24
-  },
-  {
    "ticker": "VTIX",
    "insiders": 2,
    "total_value": 80870.0
@@ -4944,11 +4944,6 @@
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 61120.0
-  },
-  {
-   "ticker": "MAIA",
-   "insiders": 2,
-   "total_value": 58382.0
   },
   {
    "ticker": "NMAD",
@@ -4966,9 +4961,9 @@
    "total_value": 49195.89
   },
   {
-   "ticker": "NTWK",
-   "insiders": 2,
-   "total_value": 38670.0
+   "ticker": "TGEN",
+   "insiders": 4,
+   "total_value": 45557.0
   },
   {
    "ticker": "DAVI",
@@ -5018,7 +5013,6 @@
   }
  ],
  "seen": [
-  "0002008989-26-000008",
   "0002009110-26-000003",
   "0002009110-26-000005",
   "0002009110-26-000007",
@@ -7549,6 +7543,7 @@
   "0002124509-26-000012",
   "0002124755-26-000007",
   "0002124863-26-000003",
+  "0002124863-26-000004",
   "0002125027-26-000004",
   "0002125050-26-000005",
   "0002125050-26-000006",
