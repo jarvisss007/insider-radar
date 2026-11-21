@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-21 01:48 UTC",
+ "updated_utc": "2026-11-21 02:04 UTC",
  "purchases": [
-  {
-   "ticker": "SJT",
-   "company": "SAN JUAN BASIN ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 247292.0,
-   "price": 4.45,
-   "value": 1100449.4,
-   "acc": "0001104659-26-129810",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
-   "company": "HPS Net Lease Income REIT",
-   "insider": "Koman James G.",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-16",
-   "shares": 60000.0,
-   "price": 25.0,
-   "value": 1500000.0,
-   "acc": "0001193125-26-466820",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "BH",
-   "company": "Biglari Holdings Inc.",
-   "insider": "BIGLARI, SARDAR",
-   "role": "Chairman and CEO",
-   "date": "2026-11-16",
-   "shares": 4823.0,
-   "price": 358.36,
-   "value": 1728370.28,
-   "acc": "0000921895-26-003217",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -2716,6 +2680,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-18",
+   "shares": 22231.0,
+   "price": 2.4,
+   "value": 53354.4,
+   "acc": "0001178579-26-000026",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "XBP",
    "company": "XBP Global Holdings, Inc.",
    "insider": "Klein Randal T",
@@ -4108,6 +4084,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 41461.0,
+   "price": 2.37,
+   "value": 98262.57,
+   "acc": "0001178579-26-000026",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4672,6 +4660,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "BOLD",
+   "company": "Boundless Bio, Inc.",
+   "insider": "TANG KEVIN",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 39920.0,
+   "price": 2.32,
+   "value": 92614.4,
+   "acc": "0001178579-26-000026",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "LPCN",
    "company": "Lipocine Inc.",
    "insider": "Higuchi John W.",
@@ -4814,11 +4814,6 @@
    "ticker": "PAM",
    "insiders": 3,
    "total_value": 5614610.91
-  },
-  {
-   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
-   "insiders": 2,
-   "total_value": 4000000.0
   },
   {
    "ticker": "EFC",
