@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-21 01:33 UTC",
+ "updated_utc": "2026-11-21 01:48 UTC",
  "purchases": [
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 90000.0,
-   "price": 12.1967,
-   "value": 1097703.0,
-   "acc": "0001398344-26-020292",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "SJT",
    "company": "SAN JUAN BASIN ROYALTY TRUST",
@@ -4528,6 +4516,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "VTIX",
+   "company": "Virtuix Holdings Inc.",
+   "insider": "Goetgeluk Jan Roger",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 25000.0,
+   "price": 0.3896,
+   "value": 9740.0,
+   "acc": "0001213900-26-122838",
+   "filed": "2026-11-20"
+  },
+  {
    "ticker": "RDGL",
    "company": "VIVOS INC",
    "insider": "Korenko Michael K",
@@ -4916,14 +4916,14 @@
    "total_value": 92084.18
   },
   {
+   "ticker": "VTIX",
+   "insiders": 2,
+   "total_value": 90610.0
+  },
+  {
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 81963.0
-  },
-  {
-   "ticker": "VTIX",
-   "insiders": 2,
-   "total_value": 80870.0
   },
   {
    "ticker": "ARR",
