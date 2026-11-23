@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-23 17:11 UTC",
+ "updated_utc": "2026-11-23 17:42 UTC",
  "purchases": [
-  {
-   "ticker": "CWGL",
-   "company": "Crimson Wine Group, Ltd",
-   "insider": "Cumming John D.",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 8000.0,
-   "price": 3.82,
-   "value": 30560.0,
-   "acc": "0001628280-26-074448",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "RILY",
    "company": "BRC Group Holdings, Inc.",
@@ -3914,6 +3902,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
+   "company": "Fundrise Income Real Estate Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 75.8518,
+   "price": 10.12,
+   "value": 767.62,
+   "acc": "0001435109-26-000169",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "YORW",
    "company": "YORK WATER CO",
    "insider": "Brossman Douglas S",
@@ -5005,8 +5005,6 @@
   }
  ],
  "seen": [
-  "0002010135-26-000019",
-  "0002010135-26-000020",
   "0002010135-26-000025",
   "0002010135-26-000028",
   "0002010288-26-000007",
@@ -7094,7 +7092,9 @@
   "0002098678-26-000004",
   "0002098854-26-000002",
   "0002099104-26-000004",
+  "0002099104-26-000005",
   "0002099107-26-000004",
+  "0002099107-26-000005",
   "0002099111-26-000004",
   "0002099111-26-000005",
   "0002099112-26-000006",
