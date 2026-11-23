@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-23 18:46 UTC",
+ "updated_utc": "2026-11-23 19:02 UTC",
  "purchases": [
-  {
-   "ticker": "FPS",
-   "company": "Forgent Power Solutions, Inc.",
-   "insider": "Lund Inez",
-   "role": "Chief Accounting Officer",
-   "date": "2026-11-17",
-   "shares": 3000.0,
-   "price": 21.66,
-   "value": 64980.0,
-   "acc": "0000950142-26-003126",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TLSI",
-   "company": "TriSalus Life Sciences, Inc.",
-   "insider": "Szela Mary T",
-   "role": "CEO and President",
-   "date": "2026-11-17",
-   "shares": 30864.0,
-   "price": 2.31,
-   "value": 71295.84,
-   "acc": "0001628280-26-075100",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "UTG",
-   "company": "REAVES UTILITY INCOME FUND",
-   "insider": "GRIMES THOMAS MICHAEL",
-   "role": "",
-   "date": "2026-11-17",
-   "shares": 2500.0,
-   "price": 32.15,
-   "value": 80375.0,
-   "acc": "0001976129-26-000001",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-17",
-   "shares": 600.0,
-   "price": 142.9033,
-   "value": 85741.98,
-   "acc": "0001666120-26-000037",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "NHI",
-   "company": "NATIONAL HEALTH INVESTORS INC",
-   "insider": "Mendelsohn D. Eric",
-   "role": "CEO and President",
-   "date": "2026-11-17",
-   "shares": 1500.0,
-   "price": 60.53,
-   "value": 90795.0,
-   "acc": "0000877860-26-000233",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "MP",
    "company": "MP Materials Corp. / DE",
@@ -3890,6 +3830,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "MED",
+   "company": "MEDIFAST INC",
+   "insider": "Kiai Parsa",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 192.0,
+   "price": 11.6235,
+   "value": 2231.71,
+   "acc": "0001213900-26-123095",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4370,6 +4322,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "KYN",
+   "company": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+   "insider": "Parker Austin Colby",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-20",
+   "shares": 2500.0,
+   "price": 13.01,
+   "value": 32525.0,
+   "acc": "0001921778-26-000003",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "SEIDMAN LAWRENCE B",
@@ -4511,6 +4475,18 @@
    "price": 15.99,
    "value": 70531.89,
    "acc": "0001570382-26-000015",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "MED",
+   "company": "MEDIFAST INC",
+   "insider": "Kiai Parsa",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 6485.0,
+   "price": 11.6235,
+   "value": 75378.4,
+   "acc": "0001213900-26-123095",
    "filed": "2026-11-23"
   },
   {
@@ -4706,6 +4682,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "WMB",
+   "company": "WILLIAMS COMPANIES, INC.",
+   "insider": "Turner Robb E",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 64.65,
+   "value": 646500.0,
+   "acc": "0001405444-26-000008",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "UPST",
    "company": "Upstart Holdings, Inc.",
    "insider": "Girouard Dave",
@@ -4751,6 +4739,18 @@
    "price": 3.3835,
    "value": 30451500.0,
    "acc": "0001628280-26-075382",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "PCYO",
+   "company": "PURE CYCLE CORP",
+   "insider": "Spezialy Marc Stephen",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-23",
+   "shares": 500.0,
+   "price": 9.67,
+   "value": 4835.0,
+   "acc": "0001546628-26-000004",
    "filed": "2026-11-23"
   },
   {
@@ -4847,6 +4847,11 @@
    "ticker": "SEI",
    "insiders": 4,
    "total_value": 671911.25
+  },
+  {
+   "ticker": "WMB",
+   "insiders": 2,
+   "total_value": 651340.56
   },
   {
    "ticker": "LEO",
