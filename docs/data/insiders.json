@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-23 19:33 UTC",
+ "updated_utc": "2026-11-23 19:50 UTC",
  "purchases": [
-  {
-   "ticker": "OIG",
-   "company": "Orion180 Insurance Group Inc.",
-   "insider": "DEUTSCH ROBERT V",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 9670.0,
-   "price": 10.268,
-   "value": 99291.56,
-   "acc": "0001493152-26-053114",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "NPCE",
-   "company": "NeuroPace Inc",
-   "insider": "Becker Joel",
-   "role": "CHIEF EXECUTIVE OFFICER",
-   "date": "2026-11-17",
-   "shares": 11891.0,
-   "price": 8.3503,
-   "value": 99293.42,
-   "acc": "0001533175-26-000018",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "AROW",
    "company": "ARROW FINANCIAL CORP",
@@ -4562,6 +4538,30 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "CWGL",
+   "company": "Crimson Wine Group, Ltd",
+   "insider": "STEINBERG JOSEPH S",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 50000.0,
+   "price": 3.75,
+   "value": 187500.0,
+   "acc": "0001628280-26-075443",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "CWGL",
+   "company": "Crimson Wine Group, Ltd",
+   "insider": "Cumming John D.",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 50000.0,
+   "price": 3.75,
+   "value": 187500.0,
+   "acc": "0001628280-26-075441",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "TJX",
    "company": "TJX COMPANIES INC /DE/",
    "insider": "PINTOFF CRAIG ADAM",
@@ -4869,6 +4869,11 @@
    "total_value": 556660.38
   },
   {
+   "ticker": "CWGL",
+   "insiders": 2,
+   "total_value": 375000.0
+  },
+  {
    "ticker": "DSM",
    "insiders": 2,
    "total_value": 369911.34
@@ -4892,11 +4897,6 @@
    "ticker": "ECC",
    "insiders": 2,
    "total_value": 221950.0
-  },
-  {
-   "ticker": "NPCE",
-   "insiders": 2,
-   "total_value": 202954.67
   },
   {
    "ticker": "SRTS",
