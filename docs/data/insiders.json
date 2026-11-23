@@ -1,198 +1,6 @@
 {
- "updated_utc": "2026-11-23 16:55 UTC",
+ "updated_utc": "2026-11-23 17:11 UTC",
  "purchases": [
-  {
-   "ticker": "NXRT",
-   "company": "NexPoint Residential Trust, Inc.",
-   "insider": "Richards Paul",
-   "role": "See Remarks",
-   "date": "2026-11-17",
-   "shares": 1000.0,
-   "price": 14.74,
-   "value": 14740.0,
-   "acc": "0001437749-26-037782",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "NBP",
-   "company": "NovaBridge Biosciences",
-   "insider": "Hagler Mark Arnold",
-   "role": "Chief Commercial Officer",
-   "date": "2026-11-17",
-   "shares": 46000.0,
-   "price": 0.343,
-   "value": 15778.0,
-   "acc": "0002126029-26-000006",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CVSI",
-   "company": "CV Sciences, Inc.",
-   "insider": "CHEEVER CHARLIE E III",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 1628093.0,
-   "price": 0.01,
-   "value": 16280.93,
-   "acc": "0001202557-26-000007",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-17",
-   "shares": 120.0,
-   "price": 149.2051,
-   "value": 17904.61,
-   "acc": "0001666120-26-000037",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "BATL",
-   "company": "BATTALION OIL CORP",
-   "insider": "ROGERS WILLIAM D",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 30000.0,
-   "price": 0.6064,
-   "value": 18192.0,
-   "acc": "0001327420-26-000004",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "CATX",
-   "company": "Perspective Therapeutics, Inc.",
-   "insider": "Williamson Robert F III",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 25000.0,
-   "price": 0.838,
-   "value": 20950.0,
-   "acc": "0001193125-26-466236",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "LSAK",
-   "company": "LESAKA TECHNOLOGIES INC",
-   "insider": "Smith Daniel Luke",
-   "role": "Group CFO",
-   "date": "2026-11-17",
-   "shares": 7000.0,
-   "price": 3.48,
-   "value": 24360.0,
-   "acc": "0001062993-26-006150",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "STXS",
-   "company": "Stereotaxis, Inc.",
-   "insider": "Benfer David",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 30000.0,
-   "price": 0.829,
-   "value": 24870.0,
-   "acc": "0001493152-26-053131",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "USVC VENTURE CAPITAL ACCESS FUND (CIK 1858660)",
-   "company": "USVC Venture Capital Access Fund",
-   "insider": "Syvertsen Erik",
-   "role": "President and CEO",
-   "date": "2026-11-17",
-   "shares": 1063.83,
-   "price": 23.5,
-   "value": 25000.0,
-   "acc": "0000945621-26-001441",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "AUDC",
-   "company": "AUDIOCODES LTD",
-   "insider": "ADLERSBERG SHABTAI",
-   "role": "President and CEO",
-   "date": "2026-11-17",
-   "shares": 3000.0,
-   "price": 8.4096,
-   "value": 25228.8,
-   "acc": "0001976408-26-000951",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "FBIO",
-   "company": "Fortress Biotech, Inc.",
-   "insider": "Jin David",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-17",
-   "shares": 15000.0,
-   "price": 1.7197,
-   "value": 25795.5,
-   "acc": "0001930732-26-000009",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "LCTX",
-   "company": "Lineage Cell Therapeutics, Inc.",
-   "insider": "Mulroy Michael H.",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 30000.0,
-   "price": 0.87,
-   "value": 26100.0,
-   "acc": "0001193125-26-468609",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "SEID PAUL",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 7046.0,
-   "price": 3.9626,
-   "value": 27920.48,
-   "acc": "0001493152-26-053234",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-17",
-   "shares": 200.0,
-   "price": 144.4219,
-   "value": 28884.38,
-   "acc": "0001666120-26-000037",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 12417.0,
-   "price": 2.4,
-   "value": 29800.8,
-   "acc": "0001178579-26-000025",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "CWGL",
-   "company": "Crimson Wine Group, Ltd",
-   "insider": "STEINBERG JOSEPH S",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 8000.0,
-   "price": 3.82,
-   "value": 30560.0,
-   "acc": "0001628280-26-074450",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "CWGL",
    "company": "Crimson Wine Group, Ltd",
@@ -1082,6 +890,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 33.0,
+   "price": 1.63,
+   "value": 53.79,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "DBHL",
    "company": "Deep Isolation Nuclear, Inc.",
    "insider": "Goldman Tepper Leslie",
@@ -1116,6 +936,18 @@
    "value": 292.5,
    "acc": "0001462418-26-000060",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 222.0,
+   "price": 1.65,
+   "value": 366.3,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "NMCO",
@@ -1248,6 +1080,18 @@
    "value": 1055.0,
    "acc": "0001081400-26-000593",
    "filed": "2026-11-18"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 792.0,
+   "price": 1.63,
+   "value": 1290.96,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "NMS",
@@ -1442,6 +1286,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 2564.0,
+   "price": 1.61,
+   "value": 4128.04,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "ELTK",
    "company": "ELTEK LTD",
    "insider": "Nissan Yitzhak",
@@ -1550,6 +1406,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 5000.0,
+   "price": 1.69,
+   "value": 8450.0,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "FLNA",
    "company": "FILANA THERAPEUTICS, INC.",
    "insider": "Anderson Robert Eugene Jr",
@@ -1560,6 +1428,18 @@
    "value": 9880.0,
    "acc": "0001437749-26-037807",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 6000.0,
+   "price": 1.66,
+   "value": 9960.0,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "ORRF",
@@ -2726,6 +2606,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 66.0,
+   "price": 1.52,
+   "value": 100.32,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "AMRZ",
    "company": "Amrize Ltd",
    "insider": "Gibson Dwight Audley Konrad",
@@ -2735,6 +2627,30 @@
    "price": 40.036,
    "value": 244.58,
    "acc": "0002035989-26-000092",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 322.0,
+   "price": 1.48,
+   "value": 476.56,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 333.0,
+   "price": 1.53,
+   "value": 509.49,
+   "acc": "0001193125-26-471554",
    "filed": "2026-11-23"
   },
   {
@@ -2954,6 +2870,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 3970.0,
+   "price": 1.48,
+   "value": 5875.6,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "AIM",
    "company": "AIM ImmunoTech Inc.",
    "insider": "Equels Thomas K",
@@ -2978,6 +2906,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 1.48,
+   "value": 7400.0,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "MSC",
    "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
    "insider": "HO LAWRENCE YAU LUNG",
@@ -3000,6 +2940,18 @@
    "value": 8499.3,
    "acc": "0001536588-26-000049",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 5934.0,
+   "price": 1.52,
+   "value": 9019.68,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "CSWC",
@@ -3074,6 +3026,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 8000.0,
+   "price": 1.51,
+   "value": 12080.0,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "JUSH",
    "company": "Jushi Holdings Inc.",
    "insider": "Arsenault Denis J.",
@@ -3120,6 +3084,18 @@
    "value": 14220.59,
    "acc": "0001930732-26-000009",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 9667.0,
+   "price": 1.54,
+   "value": 14887.18,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "RDZN",
@@ -4118,6 +4094,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 4292.0,
+   "price": 1.48,
+   "value": 6352.16,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "ATLO",
    "company": "AMES NATIONAL CORP",
    "insider": "Rieck Amy F",
@@ -4224,6 +4212,18 @@
    "value": 9820.0,
    "acc": "0001486806-26-000012",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "SLSN",
+   "company": "SOLESENCE, INC.",
+   "insider": "WHITMORE R JANET",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 7000.0,
+   "price": 1.42,
+   "value": 9940.0,
+   "acc": "0001193125-26-471554",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "EP",
@@ -4839,11 +4839,6 @@
    "total_value": 802889.38
   },
   {
-   "ticker": "LCTX",
-   "insiders": 2,
-   "total_value": 796800.0
-  },
-  {
    "ticker": "TMS",
    "insiders": 2,
    "total_value": 762030.0
@@ -4874,14 +4869,14 @@
    "total_value": 369911.34
   },
   {
-   "ticker": "FBIO",
-   "insiders": 2,
-   "total_value": 340396.74
-  },
-  {
    "ticker": "EQPT",
    "insiders": 2,
    "total_value": 325764.05
+  },
+  {
+   "ticker": "FBIO",
+   "insiders": 2,
+   "total_value": 314601.24
   },
   {
    "ticker": "NPCE",
@@ -4907,11 +4902,6 @@
    "ticker": "PAL",
    "insiders": 2,
    "total_value": 162420.0
-  },
-  {
-   "ticker": "STXS",
-   "insiders": 2,
-   "total_value": 124853.92
   },
   {
    "ticker": "NXG",
@@ -4942,11 +4932,6 @@
    "ticker": "CRMD",
    "insiders": 2,
    "total_value": 74995.0
-  },
-  {
-   "ticker": "CWGL",
-   "insiders": 2,
-   "total_value": 61120.0
   },
   {
    "ticker": "AEON",
@@ -5020,7 +5005,6 @@
   }
  ],
  "seen": [
-  "0002010135-26-000016",
   "0002010135-26-000019",
   "0002010135-26-000020",
   "0002010135-26-000025",
@@ -7119,6 +7103,7 @@
   "0002099292-26-000002",
   "0002099318-26-000005",
   "0002099428-26-000005",
+  "0002099428-26-000006",
   "0002099510-26-000012",
   "0002099647-26-000002",
   "0002099655-26-000008",
