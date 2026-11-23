@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-23 13:15 UTC",
+ "updated_utc": "2026-11-23 13:31 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-17",
-   "shares": 5393.0,
-   "price": 0.7932,
-   "value": 4277.73,
-   "acc": "0001493152-26-053008",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "ELTK",
    "company": "ELTEK LTD",
@@ -4094,6 +4082,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "TMS",
+   "company": "Teamshares Inc",
+   "insider": "Brown Michael Ashby Sutherland",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-19",
+   "shares": 150000.0,
+   "price": 4.35,
+   "value": 652500.0,
+   "acc": "0001628280-26-075377",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "IRTC",
    "company": "iRhythm Holdings, Inc.",
    "insider": "TALWALKAR ABHIJIT Y",
@@ -4842,6 +4842,11 @@
    "ticker": "LCTX",
    "insiders": 2,
    "total_value": 796800.0
+  },
+  {
+   "ticker": "TMS",
+   "insiders": 2,
+   "total_value": 762030.0
   },
   {
    "ticker": "SEI",
