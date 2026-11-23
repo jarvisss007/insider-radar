@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-23 14:49 UTC",
+ "updated_utc": "2026-11-23 15:05 UTC",
  "purchases": [
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "SEID PAUL",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 2456.0,
-   "price": 3.7579,
-   "value": 9229.4,
-   "acc": "0001493152-26-053234",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "WATT",
    "company": "Energous Corp",
@@ -4214,6 +4202,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "TGEN",
+   "company": "TECOGEN INC.",
+   "insider": "Hatsopoulos John",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 5000.0,
+   "price": 1.5953,
+   "value": 7976.5,
+   "acc": "0001274775-26-000007",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "ACON",
    "company": "Aclarion, Inc.",
    "insider": "Gould Gregory A",
@@ -4959,14 +4959,14 @@
    "total_value": 56570.0
   },
   {
+   "ticker": "TGEN",
+   "insiders": 4,
+   "total_value": 53533.5
+  },
+  {
    "ticker": "OXSQ",
    "insiders": 2,
    "total_value": 49195.89
-  },
-  {
-   "ticker": "TGEN",
-   "insiders": 4,
-   "total_value": 45557.0
   },
   {
    "ticker": "LODE",
