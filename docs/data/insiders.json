@@ -1,116 +1,6 @@
 {
- "updated_utc": "2026-11-23 11:12 UTC",
+ "updated_utc": "2026-11-23 11:27 UTC",
  "purchases": [
-  {
-   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manufacturers Life Reinsurance Ltd",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 503732.9973,
-   "price": 17.866,
-   "value": 8999693.73,
-   "acc": "0001765496-26-000021",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "WWB",
-   "company": "WINDWARD BIO GROUP AG",
-   "insider": "Bonita David P",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 1176471.0,
-   "price": 17.0,
-   "value": 20000007.0,
-   "acc": "0000947871-26-001039",
-   "filed": "2026-11-18",
-   "placement": true
-  },
-  {
-   "ticker": "WWB",
-   "company": "WINDWARD BIO GROUP AG",
-   "insider": "ORBIMED ADVISORS LLC",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 1176471.0,
-   "price": 17.0,
-   "value": 20000007.0,
-   "acc": "0000947871-26-001038",
-   "filed": "2026-11-18",
-   "placement": true
-  },
-  {
-   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manulife (International) Ltd",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 1175376.9938,
-   "price": 17.866,
-   "value": 20999285.37,
-   "acc": "0001765518-26-000007",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "OIG",
-   "company": "Orion180 Insurance Group Inc.",
-   "insider": "DEUTSCH ROBERT V",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 1.0,
-   "price": 10.3,
-   "value": 10.3,
-   "acc": "0001493152-26-053114",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "STXS",
-   "company": "Stereotaxis, Inc.",
-   "insider": "Isaac Paul J",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 300.0,
-   "price": 0.8,
-   "value": 240.0,
-   "acc": "0001062993-26-006179",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "DAIO",
-   "company": "DATA I/O CORP",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 115.0,
-   "price": 2.527,
-   "value": 290.61,
-   "acc": "0001325533-26-000014",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "DAIO",
-   "company": "DATA I/O CORP",
-   "insider": "Red Oak Partners, LLC",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 209.0,
-   "price": 2.527,
-   "value": 528.14,
-   "acc": "0001325533-26-000014",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "AP",
-   "company": "AMPCO PITTSBURGH CORP",
-   "insider": "GERMAN MICHAEL I",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 100.0,
-   "price": 5.99,
-   "value": 599.0,
-   "acc": "0001193125-26-466806",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "DBHL",
    "company": "Deep Isolation Nuclear, Inc.",
@@ -1814,6 +1704,18 @@
    "value": 2096.8,
    "acc": "0001213900-26-122226",
    "filed": "2026-11-19"
+  },
+  {
+   "ticker": "FBYD",
+   "company": "Falcon's Beyond Global, Inc.",
+   "insider": "Kim Marie L.",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 500.0,
+   "price": 4.48,
+   "value": 2240.0,
+   "acc": "0001213900-26-122866",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "BIVI",
@@ -3904,6 +3806,30 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "GNL",
+   "company": "Global Net Lease, Inc.",
+   "insider": "Masterson Christopher J.",
+   "role": "CFO, Secretary and Treasurer",
+   "date": "2026-11-19",
+   "shares": 8136.0,
+   "price": 6.0284,
+   "value": 49047.06,
+   "acc": "0001104659-26-130786",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "GNL",
+   "company": "Global Net Lease, Inc.",
+   "insider": "Kravel Ori",
+   "role": "Chief Operating Officer",
+   "date": "2026-11-19",
+   "shares": 8328.0,
+   "price": 6.0058,
+   "value": 50016.3,
+   "acc": "0001104659-26-130797",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "BOTJ",
    "company": "BANK OF THE JAMES FINANCIAL GROUP INC",
    "insider": "FOSTER WATT R JR",
@@ -4034,6 +3960,18 @@
    "value": 93365.18,
    "acc": "0001753926-26-002210",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "GNL",
+   "company": "Global Net Lease, Inc.",
+   "insider": "Galloway Jesse Charles",
+   "role": "See Remarks",
+   "date": "2026-11-19",
+   "shares": 16000.0,
+   "price": 6.0099,
+   "value": 96158.4,
+   "acc": "0001104659-26-130790",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "BOLD",
@@ -4612,6 +4550,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "EDRY",
+   "company": "EuroDry Ltd.",
+   "insider": "Pittas Aristeidis P",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 900.0,
+   "price": 33.6221,
+   "value": 30259.89,
+   "acc": "0002127484-26-000026",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "NXG",
    "company": "NXG NextGen Infrastructure Income Fund",
    "insider": "Sunderland Todd",
@@ -4660,6 +4610,30 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "GNL",
+   "company": "Global Net Lease, Inc.",
+   "insider": "Kabnick Lisa",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 6.04,
+   "value": 60400.0,
+   "acc": "0001104659-26-130792",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "PCT",
+   "company": "PureCycle Technologies, Inc.",
+   "insider": "Coombs Daniel M",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 55000.0,
+   "price": 1.61,
+   "value": 88550.0,
+   "acc": "0001642974-26-000005",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
    "insider": "TANG KEVIN",
@@ -4696,6 +4670,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "GNL",
+   "company": "Global Net Lease, Inc.",
+   "insider": "Richardson Leon",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 24850.0,
+   "price": 6.0458,
+   "value": 150238.13,
+   "acc": "0001104659-26-130799",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "SEI",
    "company": "Solaris Energy Infrastructure, Inc.",
    "insider": "Ramachandran Kyle S.",
@@ -4730,6 +4716,18 @@
    "value": 199822.81,
    "acc": "0001664921-26-000002",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "GNL",
+   "company": "Global Net Lease, Inc.",
+   "insider": "Weil Edward M Jr.",
+   "role": "CEO, President",
+   "date": "2026-11-20",
+   "shares": 33060.0,
+   "price": 6.0563,
+   "value": 200221.28,
+   "acc": "0001104659-26-130796",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "SEI",
@@ -4806,11 +4804,6 @@
  ],
  "clusters": [
   {
-   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "insiders": 2,
-   "total_value": 29998979.1
-  },
-  {
    "ticker": "PAM",
    "insiders": 3,
    "total_value": 3661407.47
@@ -4854,6 +4847,11 @@
    "ticker": "LEO",
    "insiders": 2,
    "total_value": 639572.21
+  },
+  {
+   "ticker": "GNL",
+   "insiders": 6,
+   "total_value": 606081.17
   },
   {
    "ticker": "PICS",
@@ -4902,8 +4900,8 @@
   },
   {
    "ticker": "STXS",
-   "insiders": 3,
-   "total_value": 125093.92
+   "insiders": 2,
+   "total_value": 124853.92
   },
   {
    "ticker": "NXG",
@@ -4944,11 +4942,6 @@
    "ticker": "NMAD",
    "insiders": 2,
    "total_value": 56570.0
-  },
-  {
-   "ticker": "DAIO",
-   "insiders": 2,
-   "total_value": 51616.75
   },
   {
    "ticker": "OXSQ",
@@ -5009,16 +5002,9 @@
    "ticker": "FMBM",
    "insiders": 2,
    "total_value": 9107.0
-  },
-  {
-   "ticker": "WWB",
-   "insiders": 2,
-   "total_value": 0,
-   "other_value": 40000014.0
   }
  ],
  "seen": [
-  "0002009849-26-000010",
   "0002009989-26-000019",
   "0002009989-26-000022",
   "0002009989-26-000025",
@@ -7597,6 +7583,7 @@
   "0002127484-26-000023",
   "0002127484-26-000024",
   "0002127484-26-000025",
+  "0002127484-26-000026",
   "0002127558-26-000013",
   "0002127674-26-000002",
   "0002127814-26-000004",
