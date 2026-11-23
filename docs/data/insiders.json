@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-23 15:36 UTC",
+ "updated_utc": "2026-11-23 15:52 UTC",
  "purchases": [
-  {
-   "ticker": "MSGM",
-   "company": "Motorsport Games Inc.",
-   "insider": "Beckley Stanley",
-   "role": "Chief Accounting Officer",
-   "date": "2026-11-17",
-   "shares": 2624.0,
-   "price": 3.78,
-   "value": 9918.72,
-   "acc": "0001493152-26-053097",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "SUNS",
-   "company": "Sunrise Realty Trust, Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Executive Chairman",
-   "date": "2026-11-17",
-   "shares": 1601.0,
-   "price": 6.68,
-   "value": 10694.68,
-   "acc": "0001628280-26-075133",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "JYNT",
-   "company": "JOINT Corp",
-   "insider": "JOBSON CHARLES E",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 1614.0,
-   "price": 6.65,
-   "value": 10733.1,
-   "acc": "0001214659-26-014596",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
@@ -2990,6 +2954,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "IDAI",
+   "company": "T Stamp Inc",
+   "insider": "Gowasack Andrew Carl",
+   "role": "President",
+   "date": "2026-11-19",
+   "shares": 2500.0,
+   "price": 1.94,
+   "value": 4850.0,
+   "acc": "0001909027-26-000010",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "ACON",
    "company": "Aclarion, Inc.",
    "insider": "Gould Gregory A",
@@ -4334,6 +4310,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "Mitchell William Edward",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1420.0,
+   "price": 14.06,
+   "value": 19965.2,
+   "acc": "0000752642-26-000140",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "SEI",
    "company": "Solaris Energy Infrastructure, Inc.",
    "insider": "TEAGUE AJ",
@@ -4559,6 +4547,18 @@
    "price": 6.04,
    "value": 60400.0,
    "acc": "0001104659-26-130792",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "KMT",
+   "company": "KENNAMETAL INC",
+   "insider": "Chowbey Sanjay",
+   "role": "President and CEO",
+   "date": "2026-11-20",
+   "shares": 3000.0,
+   "price": 21.48,
+   "value": 64440.0,
+   "acc": "0001782435-26-000006",
    "filed": "2026-11-23"
   },
   {
@@ -4972,6 +4972,11 @@
    "ticker": "LODE",
    "insiders": 2,
    "total_value": 34912.5
+  },
+  {
+   "ticker": "UMH",
+   "insiders": 2,
+   "total_value": 33905.2
   },
   {
    "ticker": "FLNA",
