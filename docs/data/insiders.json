@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-23 18:30 UTC",
+ "updated_utc": "2026-11-23 18:46 UTC",
  "purchases": [
-  {
-   "ticker": "GCTS",
-   "company": "GCT Semiconductor Holding, Inc.",
-   "insider": "Shin Hyunsoo",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 50000.0,
-   "price": 1.15,
-   "value": 57500.0,
-   "acc": "0000929638-26-004380",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Energy Evolution Master Fund, Ltd.",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 23143.0,
-   "price": 2.6366,
-   "value": 61018.83,
-   "acc": "0001072613-26-000912",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "FPS",
    "company": "Forgent Power Solutions, Inc.",
@@ -2414,6 +2390,18 @@
    "filed": "2026-11-19"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mariani Gustavo",
+   "role": "Vicepresident",
+   "date": "2026-11-18",
+   "shares": 12743.0,
+   "price": 62.11,
+   "value": 791467.73,
+   "acc": "0002028917-26-000006",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "SJT",
    "company": "SAN JUAN BASIN ROYALTY TRUST",
    "insider": "OLIVER ERIC L",
@@ -3796,6 +3784,18 @@
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
+   "insider": "Mariani Gustavo",
+   "role": "Vicepresident",
+   "date": "2026-11-19",
+   "shares": 20000.0,
+   "price": 62.4,
+   "value": 1248000.0,
+   "acc": "0002028917-26-000006",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
    "insider": "Mindlin Marcos Marcelo",
    "role": "Director",
    "date": "2026-11-19",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 13000290.66
+   "total_value": 15039758.39
   },
   {
    "ticker": "EFC",
@@ -5015,7 +5015,6 @@
   }
  ],
  "seen": [
-  "0002010300-26-000033",
   "0002010300-26-000035",
   "0002010300-26-000037",
   "0002010300-26-000039",
@@ -5364,6 +5363,7 @@
   "0002028917-26-000003",
   "0002028917-26-000004",
   "0002028917-26-000005",
+  "0002028917-26-000006",
   "0002028977-26-000015",
   "0002028977-26-000017",
   "0002029059-26-000010",
