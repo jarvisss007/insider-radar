@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-23 14:02 UTC",
+ "updated_utc": "2026-11-23 14:18 UTC",
  "purchases": [
-  {
-   "ticker": "AP",
-   "company": "AMPCO PITTSBURGH CORP",
-   "insider": "GERMAN MICHAEL I",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 1524.0,
-   "price": 5.975,
-   "value": 9105.9,
-   "acc": "0001193125-26-466806",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "INLX",
    "company": "INTELLINETICS, INC.",
@@ -4799,6 +4787,18 @@
    "price": 5.024,
    "value": 1016355.2,
    "acc": "0001284591-26-000004",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 9000000.0,
+   "price": 3.3835,
+   "value": 30451500.0,
+   "acc": "0001628280-26-075382",
    "filed": "2026-11-23"
   }
  ],
