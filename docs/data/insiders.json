@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-23 17:42 UTC",
+ "updated_utc": "2026-11-23 18:14 UTC",
  "purchases": [
-  {
-   "ticker": "RILY",
-   "company": "BRC Group Holdings, Inc.",
-   "insider": "RILEY BRYANT R",
-   "role": "Chairman and Co-CEO",
-   "date": "2026-11-17",
-   "shares": 12000.0,
-   "price": 3.1216,
-   "value": 37459.2,
-   "acc": "0001213900-26-121662",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "XTIA",
-   "company": "XTI Aerospace, Inc.",
-   "insider": "Evans Allan Thomas",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 43461.0,
-   "price": 0.8675,
-   "value": 37702.42,
-   "acc": "0001213900-26-121959",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "LEE",
-   "company": "LEE ENTERPRISES, Inc",
-   "insider": "Hoffmann David Henry",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 6067.0,
-   "price": 6.68,
-   "value": 40527.56,
-   "acc": "0001183010-26-000070",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "RILY",
-   "company": "BRC Group Holdings, Inc.",
-   "insider": "RILEY BRYANT R",
-   "role": "Chairman and Co-CEO",
-   "date": "2026-11-17",
-   "shares": 14000.0,
-   "price": 2.9892,
-   "value": 41848.8,
-   "acc": "0001213900-26-121662",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "HAWK",
-   "company": "HawkEye 360, Inc.",
-   "insider": "Finelli Francis Alphonse",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 2700.0,
-   "price": 18.22,
-   "value": 49194.0,
-   "acc": "0002127442-26-000011",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "RMIX",
-   "company": "Suncrete, Inc.",
-   "insider": "Jones Mark Alan",
-   "role": "Chief Operating Officer",
-   "date": "2026-11-17",
-   "shares": 8400.0,
-   "price": 5.96,
-   "value": 50064.0,
-   "acc": "0001193125-26-467421",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 29207.0,
-   "price": 1.7219,
-   "value": 50291.53,
-   "acc": "0001493152-26-053120",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "FFIN",
    "company": "FIRST FINANCIAL BANKSHARES INC",
@@ -2582,6 +2498,18 @@
    "filed": "2026-11-18"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-11-18",
+   "shares": 37605.0,
+   "price": 62.11,
+   "value": 2335646.55,
+   "acc": "0002022936-26-000020",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "ANAB",
    "company": "ANAPTYSBIO, INC",
    "insider": "EcoR1 Capital, LLC",
@@ -3878,6 +3806,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 60000.0,
+   "price": 62.4,
+   "value": 3744000.0,
+   "acc": "0002022936-26-000020",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Monte Mark David",
@@ -3984,6 +3924,18 @@
    "value": 3057.3,
    "acc": "0001957908-26-000004",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "RVP",
+   "company": "RETRACTABLE TECHNOLOGIES INC",
+   "insider": "SHAW THOMAS J",
+   "role": "PRESIDENT AND CEO",
+   "date": "2026-11-20",
+   "shares": 5532.0,
+   "price": 0.5883,
+   "value": 3254.48,
+   "acc": "0001174567-26-000001",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "DXR",
@@ -4778,6 +4730,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "PAM",
+   "company": "Pampa Energy Inc.",
+   "insider": "Mindlin Marcos Marcelo",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 20347.0,
+   "price": 60.8,
+   "value": 1237097.6,
+   "acc": "0002022936-26-000020",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "BORR",
    "company": "Borr Drilling Ltd",
    "insider": "Troim Tor Olav",
@@ -4787,6 +4751,30 @@
    "price": 3.3835,
    "value": 30451500.0,
    "acc": "0001628280-26-075382",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "BRNX",
+   "company": "BRENX LTD.",
+   "insider": "Brenmiller Nir",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 1.6,
+   "value": 16000.0,
+   "acc": "0001213900-26-123068",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "BULL",
+   "company": "Webull Corp",
+   "insider": "James Benjamin Worthy",
+   "role": "General Counsel",
+   "date": "2026-11-23",
+   "shares": 5000.0,
+   "price": 4.39,
+   "value": 21950.0,
+   "acc": "0002092820-26-000004",
    "filed": "2026-11-23"
   },
   {
@@ -4800,13 +4788,25 @@
    "value": 57035.0,
    "acc": "0002071271-26-000023",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "BULL",
+   "company": "Webull Corp",
+   "insider": "Wang Haichen",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-23",
+   "shares": 20000.0,
+   "price": 4.5,
+   "value": 90000.0,
+   "acc": "0002093135-26-000006",
+   "filed": "2026-11-23"
   }
  ],
  "clusters": [
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 3661407.47
+   "total_value": 10978151.62
   },
   {
    "ticker": "EFC",
@@ -4824,14 +4824,14 @@
    "total_value": 1736052.0
   },
   {
-   "ticker": "RMIX",
-   "insiders": 5,
-   "total_value": 1257136.5
-  },
-  {
    "ticker": "HOS",
    "insiders": 2,
    "total_value": 1246655.2
+  },
+  {
+   "ticker": "RMIX",
+   "insiders": 4,
+   "total_value": 1207072.5
   },
   {
    "ticker": "TSM",
@@ -4902,6 +4902,11 @@
    "ticker": "PAL",
    "insiders": 2,
    "total_value": 162420.0
+  },
+  {
+   "ticker": "BULL",
+   "insiders": 2,
+   "total_value": 111950.0
   },
   {
    "ticker": "NXG",
@@ -5005,13 +5010,6 @@
   }
  ],
  "seen": [
-  "0002010135-26-000025",
-  "0002010135-26-000028",
-  "0002010288-26-000007",
-  "0002010300-26-000023",
-  "0002010300-26-000025",
-  "0002010300-26-000027",
-  "0002010300-26-000029",
   "0002010300-26-000031",
   "0002010300-26-000033",
   "0002010300-26-000035",
@@ -5269,6 +5267,7 @@
   "0002022936-26-000017",
   "0002022936-26-000018",
   "0002022936-26-000019",
+  "0002022936-26-000020",
   "0002023036-26-000010",
   "0002023157-26-000005",
   "0002023175-26-000007",
@@ -5707,6 +5706,7 @@
   "0002047429-26-000012",
   "0002047518-26-000010",
   "0002047535-26-000003",
+  "0002047535-26-000005",
   "0002047617-26-000008",
   "0002047652-26-000002",
   "0002047675-26-000004",
@@ -7014,6 +7014,7 @@
   "0002092596-26-000004",
   "0002092805-26-000002",
   "0002092820-26-000002",
+  "0002092820-26-000004",
   "0002092917-26-000002",
   "0002092936-26-000004",
   "0002092936-26-000006",
@@ -7026,6 +7027,7 @@
   "0002093121-26-000009",
   "0002093135-26-000004",
   "0002093135-26-000005",
+  "0002093135-26-000006",
   "0002093167-26-000009",
   "0002093210-26-000004",
   "0002093233-26-000014",
@@ -7064,12 +7066,14 @@
   "0002096665-26-000010",
   "0002096718-26-000003",
   "0002096728-26-000008",
+  "0002096832-26-000002",
   "0002096961-26-000019",
   "0002097014-26-000004",
   "0002097042-26-000004",
   "0002097042-26-000005",
   "0002097107-26-000004",
   "0002097107-26-000005",
+  "0002097107-26-000006",
   "0002097133-26-000009",
   "0002097248-26-000002",
   "0002097259-26-000002",
@@ -7856,6 +7860,7 @@
   "0002148900-26-000005",
   "0002149159-26-000004",
   "0002149159-26-000006",
+  "0002149159-26-000008",
   "0002149324-26-000005",
   "0002149405-26-000004",
   "0002149496-26-000002",
