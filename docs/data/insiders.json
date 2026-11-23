@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-23 13:31 UTC",
+ "updated_utc": "2026-11-23 13:46 UTC",
  "purchases": [
-  {
-   "ticker": "ELTK",
-   "company": "ELTEK LTD",
-   "insider": "Nissan Yitzhak",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 800.0,
-   "price": 5.7489,
-   "value": 4599.12,
-   "acc": "0001178913-26-005305",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
@@ -4298,6 +4286,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "VNRX",
+   "company": "VOLITIONRX LTD",
+   "insider": "Innes Guy Archibald",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 40000.0,
+   "price": 0.1709,
+   "value": 6836.0,
+   "acc": "0001477932-26-007226",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "ACON",
    "company": "Aclarion, Inc.",
    "insider": "Gould Gregory A",
@@ -4992,6 +4992,11 @@
    "ticker": "RDGL",
    "insiders": 2,
    "total_value": 15610.0
+  },
+  {
+   "ticker": "VNRX",
+   "insiders": 2,
+   "total_value": 13684.0
   },
   {
    "ticker": "GROV",
