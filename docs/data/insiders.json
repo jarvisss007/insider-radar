@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-23 15:05 UTC",
+ "updated_utc": "2026-11-23 15:36 UTC",
  "purchases": [
-  {
-   "ticker": "WATT",
-   "company": "Energous Corp",
-   "insider": "ROBERSON DAVID EARLE",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 1325.0,
-   "price": 7.2,
-   "value": 9540.0,
-   "acc": "0001225208-26-009078",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "DAVI",
-   "company": "DAVION HEALTHCARE PLC",
-   "insider": "King Susan M",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 10000.0,
-   "price": 0.98,
-   "value": 9800.0,
-   "acc": "0001683168-26-008919",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "MSGM",
    "company": "Motorsport Games Inc.",
@@ -4190,6 +4166,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-20",
+   "shares": 50000.0,
+   "price": 0.121,
+   "value": 6050.0,
+   "acc": "0001493152-26-053683",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "VNRX",
    "company": "VOLITIONRX LTD",
    "insider": "Innes Guy Archibald",
@@ -4800,6 +4788,18 @@
    "value": 30451500.0,
    "acc": "0001628280-26-075382",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "WBHC",
+   "company": "WILSON BANK HOLDING CO",
+   "insider": "BELL JACK W",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 671.0,
+   "price": 85.0,
+   "value": 57035.0,
+   "acc": "0002071271-26-000023",
+   "filed": "2026-11-23"
   }
  ],
  "clusters": [
@@ -5015,8 +5015,6 @@
   }
  ],
  "seen": [
-  "0002010019-26-000016",
-  "0002010019-26-000021",
   "0002010019-26-000024",
   "0002010019-26-000028",
   "0002010019-26-000029",
@@ -6214,6 +6212,8 @@
   "0002071271-26-000019",
   "0002071271-26-000020",
   "0002071271-26-000021",
+  "0002071271-26-000022",
+  "0002071271-26-000023",
   "0002071281-26-000004",
   "0002071761-26-000009",
   "0002071761-26-000010",
