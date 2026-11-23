@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-23 15:52 UTC",
+ "updated_utc": "2026-11-23 16:39 UTC",
  "purchases": [
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 4000.0,
-   "price": 2.8499,
-   "value": 11399.6,
-   "acc": "0001536588-26-000049",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "RMIX",
-   "company": "Suncrete, Inc.",
-   "insider": "Johnston Bretton A.",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 2000.0,
-   "price": 5.93,
-   "value": 11860.0,
-   "acc": "0001193125-26-467469",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "BGH",
    "company": "BARINGS GLOBAL SHORT DURATION HIGH YIELD FUND",
@@ -3962,6 +3938,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
+   "company": "Fundrise Real Estate Interval Fund, LLC",
+   "insider": "Monte Mark David",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 19.5113,
+   "price": 11.91,
+   "value": 232.38,
+   "acc": "0001435109-26-000168",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "FEAM",
    "company": "5E Advanced Materials, Inc.",
    "insider": "Weibel Paul Wesley III",
@@ -4187,6 +4175,18 @@
    "price": 1.25,
    "value": 8265.0,
    "acc": "0001683168-26-009023",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "WVVI",
+   "company": "WILLAMETTE VALLEY VINEYARDS INC",
+   "insider": "Osborn Michael Jordan",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 5000.0,
+   "price": 1.6703,
+   "value": 8351.5,
+   "acc": "0001199835-26-000414",
    "filed": "2026-11-23"
   },
   {
@@ -4825,8 +4825,8 @@
   },
   {
    "ticker": "RMIX",
-   "insiders": 6,
-   "total_value": 1268996.5
+   "insiders": 5,
+   "total_value": 1257136.5
   },
   {
    "ticker": "HOS",
@@ -5020,7 +5020,6 @@
   }
  ],
  "seen": [
-  "0002010019-26-000024",
   "0002010019-26-000028",
   "0002010019-26-000029",
   "0002010019-26-000030",
@@ -5506,6 +5505,7 @@
   "0002034170-26-000003",
   "0002034303-26-000006",
   "0002034308-26-000002",
+  "0002034308-26-000003",
   "0002034388-26-000003",
   "0002034388-26-000005",
   "0002034458-26-000006",
