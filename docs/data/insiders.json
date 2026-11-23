@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-23 12:14 UTC",
+ "updated_utc": "2026-11-23 12:29 UTC",
  "purchases": [
-  {
-   "ticker": "ASG",
-   "company": "LIBERTY ALL STAR GROWTH FUND INC.",
-   "insider": "Khwaja-Dixon Sareena",
-   "role": "",
-   "date": "2026-11-17",
-   "shares": 500.0,
-   "price": 4.5998,
-   "value": 2299.9,
-   "acc": "0001682998-26-000002",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "DBHL",
    "company": "Deep Isolation Nuclear, Inc.",
@@ -4526,6 +4514,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "EAF",
+   "company": "GRAFTECH INTERNATIONAL LTD",
+   "insider": "Keizer Henry R.",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 5000.0,
+   "price": 7.5,
+   "value": 37500.0,
+   "acc": "0000931148-26-000095",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "NXG",
    "company": "NXG NextGen Infrastructure Income Fund",
    "insider": "Sunderland Todd",
@@ -5010,7 +5010,6 @@
   }
  ],
  "seen": [
-  "0002009989-26-000027",
   "0002010019-26-000016",
   "0002010019-26-000021",
   "0002010019-26-000024",
@@ -7717,6 +7716,7 @@
   "0002140626-26-000006",
   "0002140629-26-000006",
   "0002140847-26-000004",
+  "0002141041-26-000003",
   "0002141042-26-000002",
   "0002141043-26-000006",
   "0002141056-26-000002",
