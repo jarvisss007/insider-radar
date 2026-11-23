@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-23 07:16 UTC",
+ "updated_utc": "2026-11-23 11:12 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Marcos Marcelo",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 30557.0,
-   "price": 63.92,
-   "value": 1953203.44,
-   "acc": "0002022936-26-000019",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "STWD",
-   "company": "STARWOOD PROPERTY TRUST, INC.",
-   "insider": "ZELNICK STRAUSS",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 172711.0,
-   "price": 11.7138,
-   "value": 2023102.11,
-   "acc": "0000905148-26-005029",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "HPS NET LEASE INCOME REIT (CIK 2107762)",
-   "company": "HPS Net Lease Income REIT",
-   "insider": "Lehman David Andrew",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 100000.0,
-   "price": 25.0,
-   "value": 2500000.0,
-   "acc": "0001193125-26-466834",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "FUN",
-   "company": "Six Flags Entertainment Corporation/NEW",
-   "insider": "JAFFER REHAN",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 225000.0,
-   "price": 11.73,
-   "value": 2639250.0,
-   "acc": "0001999001-26-000121",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "ANAB",
-   "company": "ANAPTYSBIO, INC",
-   "insider": "EcoR1 Capital, LLC",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 84120.0,
-   "price": 45.6624,
-   "value": 3841121.09,
-   "acc": "0000935836-26-000631",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "ANGX",
-   "company": "Angel Studios, Inc.",
-   "insider": "Sarowitz Steven I",
-   "role": "Director",
-   "date": "2026-11-16",
-   "shares": 849892.0,
-   "price": 4.6407,
-   "value": 3944093.8,
-   "acc": "0001865200-26-000102",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "company": "John Hancock GA Mortgage Trust",
-   "insider": "Manulife (Singapore) Pte. Ltd.",
-   "role": "10% owner",
-   "date": "2026-11-16",
-   "shares": 503732.9973,
-   "price": 17.866,
-   "value": 8999693.73,
-   "acc": "0001837478-26-000019",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
    "company": "John Hancock GA Mortgage Trust",
@@ -3412,6 +3328,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 800.0,
+   "price": 4.975,
+   "value": 3980.0,
+   "acc": "0001178913-26-005312",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "FMBM",
    "company": "F&M BANK CORP",
    "insider": "McHaffa Evan S.",
@@ -3532,6 +3460,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "MSC",
+   "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "insider": "HO LAWRENCE YAU LUNG",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 29672.0,
+   "price": 0.2729,
+   "value": 8097.49,
+   "acc": "0001193125-26-470875",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -3638,6 +3578,18 @@
    "value": 13592.95,
    "acc": "0002109337-26-000019",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "PDYN",
+   "company": "Palladyne AI Corp.",
+   "insider": "Wolff Benjamin G",
+   "role": "PRESIDENT & CEO",
+   "date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 2.75,
+   "value": 13750.0,
+   "acc": "0001368618-26-000017",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "FBIO",
@@ -4432,6 +4384,30 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "DXR",
+   "company": "DAXOR CORP",
+   "insider": "Feldschuh Michael Richard",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 500.0,
+   "price": 7.0,
+   "value": 3500.0,
+   "acc": "0001493152-26-053606",
+   "filed": "2026-11-23"
+  },
+  {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 800.0,
+   "price": 5.3634,
+   "value": 4290.72,
+   "acc": "0001178913-26-005312",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "CWBC",
    "company": "Community West Bancshares",
    "insider": "STOVESAND KIRK",
@@ -4540,6 +4516,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "DXR",
+   "company": "DAXOR CORP",
+   "insider": "Feldschuh Michael Richard",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 2000.0,
+   "price": 7.2,
+   "value": 14400.0,
+   "acc": "0001493152-26-053606",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "LODE",
    "company": "Comstock Inc.",
    "insider": "DEGASPERIS CORRADO",
@@ -4598,6 +4586,18 @@
    "value": 20607.75,
    "acc": "0001628280-26-075235",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "MSC",
+   "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "insider": "HO LAWRENCE YAU LUNG",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 72412.0,
+   "price": 0.2882,
+   "value": 20869.14,
+   "acc": "0001193125-26-470875",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "ARR",
@@ -4807,13 +4807,13 @@
  "clusters": [
   {
    "ticker": "JOHN HANCOCK GA MORTGAGE TRUST (CIK 1742952)",
-   "insiders": 3,
-   "total_value": 38998672.83
+   "insiders": 2,
+   "total_value": 29998979.1
   },
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 5614610.91
+   "total_value": 3661407.47
   },
   {
    "ticker": "EFC",
