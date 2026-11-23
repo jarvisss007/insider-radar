@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-23 11:43 UTC",
+ "updated_utc": "2026-11-23 12:14 UTC",
  "purchases": [
-  {
-   "ticker": "RMIX",
-   "company": "Suncrete, Inc.",
-   "insider": "Wentroth Thomas G.",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-17",
-   "shares": 165.0,
-   "price": 6.03,
-   "value": 994.95,
-   "acc": "0001193125-26-465839",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "DBHL",
-   "company": "Deep Isolation Nuclear, Inc.",
-   "insider": "Goldman Tepper Leslie",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 600.0,
-   "price": 1.9,
-   "value": 1140.0,
-   "acc": "0001213900-26-122226",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "SEID PAUL",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 498.0,
-   "price": 3.85,
-   "value": 1917.3,
-   "acc": "0001493152-26-053234",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-17",
-   "shares": 890.0,
-   "price": 2.2606,
-   "value": 2011.93,
-   "acc": "0002109337-26-000018",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "ASG",
    "company": "LIBERTY ALL STAR GROWTH FUND INC.",
@@ -4358,6 +4310,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Wesemann William",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 3984.0,
+   "price": 1.26,
+   "value": 5019.84,
+   "acc": "0001683168-26-009022",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "RDGL",
    "company": "VIVOS INC",
    "insider": "Weeks Brad Allan",
@@ -4368,6 +4332,18 @@
    "value": 5790.0,
    "acc": "0002131351-26-000016",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "ACON",
+   "company": "Aclarion, Inc.",
+   "insider": "Gould Gregory A",
+   "role": "CFO",
+   "date": "2026-11-20",
+   "shares": 6612.0,
+   "price": 1.25,
+   "value": 8265.0,
+   "acc": "0001683168-26-009023",
+   "filed": "2026-11-23"
   },
   {
    "ticker": "FXNC",
@@ -4742,6 +4718,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "HOS",
+   "company": "HORNBECK OFFSHORE SERVICES, INC.",
+   "insider": "Fink Benjamin Matthew",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 47000.0,
+   "price": 4.9,
+   "value": 230300.0,
+   "acc": "0001312482-26-000001",
+   "filed": "2026-11-23"
+  },
+  {
    "ticker": "SEI",
    "company": "Solaris Energy Infrastructure, Inc.",
    "insider": "Brock Amanda M",
@@ -4800,6 +4788,18 @@
    "value": 950988.0,
    "acc": "0001832805-26-000011",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "HOS",
+   "company": "HORNBECK OFFSHORE SERVICES, INC.",
+   "insider": "HORNBECK TODD M",
+   "role": "PRESIDENT & CEO",
+   "date": "2026-11-20",
+   "shares": 202300.0,
+   "price": 5.024,
+   "value": 1016355.2,
+   "acc": "0001284591-26-000004",
+   "filed": "2026-11-23"
   }
  ],
  "clusters": [
@@ -4825,8 +4825,13 @@
   },
   {
    "ticker": "RMIX",
-   "insiders": 7,
-   "total_value": 1269991.45
+   "insiders": 6,
+   "total_value": 1268996.5
+  },
+  {
+   "ticker": "HOS",
+   "insiders": 2,
+   "total_value": 1246655.2
   },
   {
    "ticker": "TSM",
@@ -4974,6 +4979,11 @@
    "total_value": 20011.07
   },
   {
+   "ticker": "ACON",
+   "insiders": 2,
+   "total_value": 18163.56
+  },
+  {
    "ticker": "RDGL",
    "insiders": 2,
    "total_value": 15610.0
@@ -5000,8 +5010,6 @@
   }
  ],
  "seen": [
-  "0002009989-26-000022",
-  "0002009989-26-000025",
   "0002009989-26-000027",
   "0002010019-26-000016",
   "0002010019-26-000021",
@@ -7710,7 +7718,9 @@
   "0002140629-26-000006",
   "0002140847-26-000004",
   "0002141042-26-000002",
+  "0002141043-26-000006",
   "0002141056-26-000002",
+  "0002141061-26-000003",
   "0002141063-26-000002",
   "0002141209-26-000002",
   "0002141303-26-000005",
