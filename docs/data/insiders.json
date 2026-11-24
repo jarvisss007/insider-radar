@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-24 23:26 UTC",
+ "updated_utc": "2026-11-24 23:57 UTC",
  "purchases": [
-  {
-   "ticker": "ZEO",
-   "company": "Zeo Energy Corp.",
-   "insider": "BRIDGEWATER TIMOTHY A",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-18",
-   "shares": 107955.0,
-   "price": 0.2301,
-   "value": 24840.45,
-   "acc": "0001213900-26-122811",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "JUSH",
-   "company": "Jushi Holdings Inc.",
-   "insider": "Arsenault Denis J.",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 62500.0,
-   "price": 0.4,
-   "value": 25000.0,
-   "acc": "0001628280-26-075317",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "UAMY",
-   "company": "UNITED STATES ANTIMONY CORP",
-   "insider": "Bardswich Lloyd",
-   "role": "Dir, EVP & Chief Mining Eng",
-   "date": "2026-11-18",
-   "shares": 10000.0,
-   "price": 2.53,
-   "value": 25300.0,
-   "acc": "0001104659-26-130328",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "REI",
-   "company": "RING ENERGY, INC.",
-   "insider": "Tharp Carla Todd",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 25000.0,
-   "price": 1.07,
-   "value": 26750.0,
-   "acc": "0001628280-26-075331",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "GF",
-   "company": "NEW GERMANY FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 2716.0,
-   "price": 9.85,
-   "value": 26752.6,
-   "acc": "0001510281-26-000456",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "CLNN",
    "company": "Clene Inc.",
@@ -3974,6 +3914,30 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "SNDA",
+   "company": "SONIDA SENIOR LIVING, INC.",
+   "insider": "Simanovsky Michael",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 100000.0,
+   "price": 31.6213,
+   "value": 3162130.0,
+   "acc": "0000895345-26-000505",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CSQR",
+   "company": "Csquare, Inc.",
+   "insider": "BROOKFIELD Corp /ON/",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 297797.0,
+   "price": 14.4393,
+   "value": 4299980.22,
+   "acc": "0000950142-26-003149",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "COHR",
    "company": "COHERENT CORP.",
    "insider": "PAGLIUCA STEPHEN G",
@@ -3983,6 +3947,18 @@
    "price": 185.5055,
    "value": 5339404.81,
    "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "APOLLO ORIGINATION II (UL) CAPITAL TRUST (CIK 2052153)",
+   "company": "Apollo Origination II (UL) Capital Trust",
+   "insider": "Apollo Principal Holdings B GP, LLC",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 585480.0937,
+   "price": 25.62,
+   "value": 15000000.0,
+   "acc": "0001193125-26-476417",
    "filed": "2026-11-24"
   },
   {
@@ -4670,6 +4646,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "SNDA",
+   "company": "SONIDA SENIOR LIVING, INC.",
+   "insider": "Simanovsky Michael",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 42997.0,
+   "price": 32.3597,
+   "value": 1391370.02,
+   "acc": "0000895345-26-000505",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4799,6 +4787,18 @@
    "price": 38.3,
    "value": 95750.0,
    "acc": "0001531352-26-000016",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "SNDA",
+   "company": "SONIDA SENIOR LIVING, INC.",
+   "insider": "Simanovsky Michael",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 15000.0,
+   "price": 33.07,
+   "value": 496050.0,
+   "acc": "0000895345-26-000505",
    "filed": "2026-11-24"
   }
  ],
@@ -5000,11 +5000,6 @@
   }
  ],
  "seen": [
-  "0002012721-26-000006",
-  "0002012791-26-000013",
-  "0002012791-26-000017",
-  "0002012793-26-000004",
-  "0002012862-26-000013",
   "0002012862-26-000016",
   "0002012952-26-000016",
   "0002013319-26-000007",
@@ -5024,6 +5019,7 @@
   "0002014109-26-000004",
   "0002014191-26-000014",
   "0002014208-26-000010",
+  "0002014208-26-000012",
   "0002014215-26-000020",
   "0002014240-26-000006",
   "0002014275-26-000012",
@@ -5235,6 +5231,7 @@
   "0002024630-26-000018",
   "0002024630-26-000024",
   "0002024630-26-000029",
+  "0002024813-26-000012",
   "0002024911-26-000004",
   "0002024911-26-000006",
   "0002025039-26-000004",
@@ -5511,6 +5508,7 @@
   "0002038202-26-000014",
   "0002038202-26-000016",
   "0002038202-26-000018",
+  "0002038202-26-000020",
   "0002038210-26-000002",
   "0002038311-26-000003",
   "0002038468-26-000012",
@@ -6138,6 +6136,7 @@
   "0002070849-26-000072",
   "0002070849-26-000074",
   "0002070849-26-000086",
+  "0002070849-26-000088",
   "0002070858-26-000012",
   "0002070858-26-000015",
   "0002070979-26-000282",
@@ -6898,6 +6897,7 @@
   "0002087537-26-000004",
   "0002087595-26-000002",
   "0002087850-26-000008",
+  "0002087850-26-000009",
   "0002087925-26-000006",
   "0002088410-26-000008",
   "0002088410-26-000010",
