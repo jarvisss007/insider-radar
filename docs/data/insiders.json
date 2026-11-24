@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-24 21:34 UTC",
+ "updated_utc": "2026-11-24 21:50 UTC",
  "purchases": [
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 3800.0,
-   "price": 0.88,
-   "value": 3344.0,
-   "acc": "0001841761-26-000127",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "LFT",
-   "company": "Lument Finance Trust, Inc.",
-   "insider": "HOULIHAN WILLIAM A",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 1000.0,
-   "price": 3.74,
-   "value": 3740.0,
-   "acc": "0001185292-26-000015",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 703.0,
-   "price": 5.445,
-   "value": 3827.84,
-   "acc": "0000070858-26-000600",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "CVSI",
-   "company": "CV Sciences, Inc.",
-   "insider": "CHEEVER CHARLIE E III",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 402618.0,
-   "price": 0.01,
-   "value": 4026.18,
-   "acc": "0001202557-26-000007",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 2564.0,
-   "price": 1.61,
-   "value": 4128.04,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "ELTK",
-   "company": "ELTEK LTD",
-   "insider": "Nissan Yitzhak",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 800.0,
-   "price": 5.5378,
-   "value": 4430.24,
-   "acc": "0001178913-26-005305",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
@@ -4526,6 +4454,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "WKHS",
+   "company": "Workhorse Group Inc.",
+   "insider": "O'Leary Matthew C.",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 1.89,
+   "value": 18900.0,
+   "acc": "0002094759-26-000003",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "BULL",
    "company": "Webull Corp",
    "insider": "James Benjamin Worthy",
@@ -4646,6 +4586,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-23",
+   "shares": 463.0,
+   "price": 142.1785,
+   "value": 65828.65,
+   "acc": "0001666120-26-000041",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "BULL",
    "company": "Webull Corp",
    "insider": "Wang Haichen",
@@ -4658,6 +4610,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-23",
+   "shares": 1337.0,
+   "price": 141.4459,
+   "value": 189113.17,
+   "acc": "0001666120-26-000041",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -4667,6 +4631,30 @@
    "price": 18.9398,
    "value": 189398.0,
    "acc": "0000935596-26-000033",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-23",
+   "shares": 2199.0,
+   "price": 138.3358,
+   "value": 304200.42,
+   "acc": "0001666120-26-000041",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-23",
+   "shares": 2700.0,
+   "price": 140.2003,
+   "value": 378540.81,
+   "acc": "0001666120-26-000041",
    "filed": "2026-11-24"
   },
   {
@@ -4691,6 +4679,18 @@
    "price": 9.1609,
    "value": 501202.0,
    "acc": "0001193125-26-475725",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "TEAM",
+   "company": "Atlassian Corp",
+   "insider": "Cannon-Brookes Michael",
+   "role": "CEO, Co-Founder",
+   "date": "2026-11-23",
+   "shares": 6701.0,
+   "price": 139.261,
+   "value": 933187.96,
+   "acc": "0001666120-26-000041",
    "filed": "2026-11-24"
   },
   {
@@ -4864,11 +4864,6 @@
    "total_value": 293972.5
   },
   {
-   "ticker": "DSM",
-   "insiders": 2,
-   "total_value": 227536.74
-  },
-  {
    "ticker": "FBIO",
    "insiders": 2,
    "total_value": 198691.57
@@ -4950,8 +4945,8 @@
   },
   {
    "ticker": "LFT",
-   "insiders": 3,
-   "total_value": 51325.45
+   "insiders": 2,
+   "total_value": 47585.45
   },
   {
    "ticker": "LODE",
@@ -5015,7 +5010,6 @@
   }
  ],
  "seen": [
-  "0002012383-26-003309",
   "0002012383-26-003310",
   "0002012383-26-003341",
   "0002012383-26-003952",
@@ -7026,6 +7020,7 @@
   "0002094623-26-000003",
   "0002094629-26-000003",
   "0002094759-26-000002",
+  "0002094759-26-000003",
   "0002094766-26-000006",
   "0002094778-26-000008",
   "0002094859-26-000002",
