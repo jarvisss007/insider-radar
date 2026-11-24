@@ -1,126 +1,6 @@
 {
- "updated_utc": "2026-11-24 14:39 UTC",
+ "updated_utc": "2026-11-24 15:11 UTC",
  "purchases": [
-  {
-   "ticker": "OFRM",
-   "company": "Once Upon a Farm, PBC",
-   "insider": "Morris Scott James",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 8500.0,
-   "price": 11.81,
-   "value": 100385.0,
-   "acc": "0001623963-26-000003",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "CTGO",
-   "company": "Contango Silver & Gold Inc.",
-   "insider": "Van Nieuwenhuyse Rick",
-   "role": "CEO",
-   "date": "2026-11-17",
-   "shares": 9258.0,
-   "price": 10.92,
-   "value": 101097.36,
-   "acc": "0001193125-26-467841",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "ECC",
-   "company": "Eagle Point Credit Co",
-   "insider": "Onorio Kenneth P.",
-   "role": "CFO / COO",
-   "date": "2026-11-17",
-   "shares": 45000.0,
-   "price": 2.31,
-   "value": 103950.0,
-   "acc": "0001104659-26-129207",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "EFC",
-   "company": "Ellington Financial Inc.",
-   "insider": "Penn Laurence",
-   "role": "CEO and President",
-   "date": "2026-11-17",
-   "shares": 10000.0,
-   "price": 10.654,
-   "value": 106540.0,
-   "acc": "0001628280-26-074680",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "GLP",
-   "company": "GLOBAL PARTNERS LP",
-   "insider": "Global GP LLC",
-   "role": "",
-   "date": "2026-11-17",
-   "shares": 2417.0,
-   "price": 44.15,
-   "value": 106710.55,
-   "acc": "0001339396-26-000090",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 5446.0,
-   "price": 21.09,
-   "value": 114856.14,
-   "acc": "0001510281-26-000452",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "BOLT",
-   "company": "Bolt Biotherapeutics, Inc.",
-   "insider": "Coastlands Capital LP",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 20000.0,
-   "price": 5.7499,
-   "value": 114998.0,
-   "acc": "0001104659-26-129252",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "FBIO",
-   "company": "Fortress Biotech, Inc.",
-   "insider": "ROSENWALD LINDSAY A MD",
-   "role": "PRESIDENT, CEO & CHAIRMAN",
-   "date": "2026-11-17",
-   "shares": 64491.0,
-   "price": 1.7973,
-   "value": 115909.67,
-   "acc": "0000941841-26-000005",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 6261.0,
-   "price": 19.0647,
-   "value": 119364.09,
-   "acc": "0000935596-26-000031",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "MXCT",
-   "company": "MAXCYTE, INC.",
-   "insider": "Masoud Maher",
-   "role": "President and CEO",
-   "date": "2026-11-17",
-   "shares": 100000.0,
-   "price": 1.2078,
-   "value": 120780.0,
-   "acc": "0000905148-26-005032",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "BLX",
    "company": "BLADEX, INC.",
@@ -4502,6 +4382,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 7500.0,
+   "price": 19.0419,
+   "value": 142814.25,
+   "acc": "0000935596-26-000033",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "GNL",
    "company": "Global Net Lease, Inc.",
    "insider": "Richardson Leon",
@@ -4730,6 +4622,66 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "CSBA",
+   "company": "CSB Financial Inc.",
+   "insider": "Dyer Richard E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 100.0,
+   "price": 14.36,
+   "value": 1436.0,
+   "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CSBA",
+   "company": "CSB Financial Inc.",
+   "insider": "Dyer Richard E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 100.0,
+   "price": 14.4,
+   "value": 1440.0,
+   "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CSBA",
+   "company": "CSB Financial Inc.",
+   "insider": "Dyer Richard E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 100.0,
+   "price": 14.47,
+   "value": 1447.0,
+   "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CSBA",
+   "company": "CSB Financial Inc.",
+   "insider": "Dyer Richard E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 200.0,
+   "price": 14.85,
+   "value": 2970.0,
+   "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CSBA",
+   "company": "CSB Financial Inc.",
+   "insider": "Dyer Richard E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 300.0,
+   "price": 14.49,
+   "value": 4347.0,
+   "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "PCYO",
    "company": "PURE CYCLE CORP",
    "insider": "Spezialy Marc Stephen",
@@ -4740,6 +4692,30 @@
    "value": 4835.0,
    "acc": "0001546628-26-000004",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "CSBA",
+   "company": "CSB Financial Inc.",
+   "insider": "Dyer Richard E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 700.0,
+   "price": 14.15,
+   "value": 9905.0,
+   "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CSBA",
+   "company": "CSB Financial Inc.",
+   "insider": "Dyer Richard E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 900.0,
+   "price": 15.38,
+   "value": 13842.0,
+   "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "BRNX",
@@ -4800,6 +4776,30 @@
    "value": 90000.0,
    "acc": "0002093135-26-000006",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 18.9398,
+   "value": 189398.0,
+   "acc": "0000935596-26-000033",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CTTH",
+   "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "role": "CEO",
+   "date": "2026-11-24",
+   "shares": 8350.0,
+   "price": 0.045,
+   "value": 375.75,
+   "acc": "0001035422-26-000021",
+   "filed": "2026-11-24"
   }
  ],
  "clusters": [
@@ -4807,11 +4807,6 @@
    "ticker": "PAM",
    "insiders": 3,
    "total_value": 15039758.39
-  },
-  {
-   "ticker": "EFC",
-   "insiders": 2,
-   "total_value": 2181884.0
   },
   {
    "ticker": "UPST",
@@ -4886,22 +4881,17 @@
   {
    "ticker": "FBIO",
    "insiders": 2,
-   "total_value": 314601.24
-  },
-  {
-   "ticker": "CTGO",
-   "insiders": 3,
-   "total_value": 273888.51
-  },
-  {
-   "ticker": "ECC",
-   "insiders": 2,
-   "total_value": 221950.0
+   "total_value": 198691.57
   },
   {
    "ticker": "SRTS",
    "insiders": 2,
    "total_value": 187988.72
+  },
+  {
+   "ticker": "CTGO",
+   "insiders": 2,
+   "total_value": 172791.15
   },
   {
    "ticker": "PAL",
