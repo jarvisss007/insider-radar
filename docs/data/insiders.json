@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-24 18:22 UTC",
+ "updated_utc": "2026-11-24 18:38 UTC",
  "purchases": [
-  {
-   "ticker": "SRTS",
-   "company": "Sensus Healthcare, Inc.",
-   "insider": "Sachetta Eric",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 81575.0,
-   "price": 2.243,
-   "value": 182972.72,
-   "acc": "0002097345-26-000018",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "SCM",
    "company": "Stellus Capital Investment Corp",
@@ -4800,6 +4788,18 @@
    "value": 375.75,
    "acc": "0001035422-26-000021",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "LCNB",
+   "company": "LCNB CORP",
+   "insider": "Meilstrup Eric J",
+   "role": "CEO",
+   "date": "2026-11-24",
+   "shares": 400.0,
+   "price": 19.0988,
+   "value": 7639.52,
+   "acc": "0001437749-26-038158",
+   "filed": "2026-11-24"
   }
  ],
  "clusters": [
@@ -4877,11 +4877,6 @@
    "ticker": "FBIO",
    "insiders": 2,
    "total_value": 198691.57
-  },
-  {
-   "ticker": "SRTS",
-   "insiders": 2,
-   "total_value": 187988.72
   },
   {
    "ticker": "CTGO",
@@ -4977,6 +4972,11 @@
    "ticker": "ACON",
    "insiders": 2,
    "total_value": 18163.56
+  },
+  {
+   "ticker": "LCNB",
+   "insiders": 2,
+   "total_value": 17292.42
   },
   {
    "ticker": "RDGL",
