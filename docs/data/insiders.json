@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-24 19:42 UTC",
+ "updated_utc": "2026-11-24 19:58 UTC",
  "purchases": [
-  {
-   "ticker": "KGS",
-   "company": "Kodiak Gas Services, Inc.",
-   "insider": "HOGAN RANDALL J",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 11500.0,
-   "price": 42.9532,
-   "value": 493961.8,
-   "acc": "0001193125-26-467294",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "SKYD",
    "company": "Skydance Corp",
@@ -3458,6 +3446,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "AUBN",
+   "company": "AUBURN NATIONAL BANCORPORATION, INC",
+   "insider": "Conn Walton T Jr.",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 100.0,
+   "price": 25.25,
+   "value": 2525.0,
+   "acc": "0001437749-26-038167",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "Karp Jason H.",
@@ -5004,13 +5004,17 @@
    "total_value": 9107.0
   },
   {
+   "ticker": "AUBN",
+   "insiders": 2,
+   "total_value": 8723.4
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "insiders": 2,
    "total_value": 732.38
   }
  ],
  "seen": [
-  "0002012383-26-003273",
   "0002012383-26-003274",
   "0002012383-26-003275",
   "0002012383-26-003304",
@@ -7435,6 +7439,7 @@
   "0002119764-26-000034",
   "0002119764-26-000036",
   "0002119764-26-000037",
+  "0002119764-26-000039",
   "0002119900-26-000008",
   "0002119908-26-000011",
   "0002119908-26-000013",
