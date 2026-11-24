@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-24 17:18 UTC",
+ "updated_utc": "2026-11-24 17:34 UTC",
  "purchases": [
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 26220.0,
-   "price": 5.43,
-   "value": 142374.6,
-   "acc": "0001510281-26-000450",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks William J.",
-   "role": "Founder & President",
-   "date": "2026-11-17",
-   "shares": 10000.0,
-   "price": 14.54,
-   "value": 145400.0,
-   "acc": "0000950103-26-017804",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "UTG",
    "company": "REAVES UTILITY INCOME FUND",
@@ -3578,6 +3554,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "GOAI",
+   "company": "Eva Live Inc",
+   "insider": "Boulette David",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 4300.0,
+   "price": 0.5177,
+   "value": 2226.11,
+   "acc": "0001493152-26-053943",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "MED",
    "company": "MEDIFAST INC",
    "insider": "Kiai Parsa",
@@ -4634,6 +4622,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "GOAI",
+   "company": "Eva Live Inc",
+   "insider": "Boulette David",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-23",
+   "shares": 5420.0,
+   "price": 0.5609,
+   "value": 3040.08,
+   "acc": "0001493152-26-053943",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "CSBA",
    "company": "CSB Financial Inc.",
    "insider": "Dyer Richard E",
@@ -4871,12 +4871,7 @@
   {
    "ticker": "DSM",
    "insiders": 2,
-   "total_value": 369911.34
-  },
-  {
-   "ticker": "EQPT",
-   "insiders": 2,
-   "total_value": 325764.05
+   "total_value": 227536.74
   },
   {
    "ticker": "FBIO",
