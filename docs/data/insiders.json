@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-24 18:38 UTC",
+ "updated_utc": "2026-11-24 18:54 UTC",
  "purchases": [
-  {
-   "ticker": "SCM",
-   "company": "Stellus Capital Investment Corp",
-   "insider": "Ladd Robert T.",
-   "role": "President and CEO",
-   "date": "2026-11-17",
-   "shares": 30000.0,
-   "price": 6.57,
-   "value": 197100.0,
-   "acc": "0001104659-26-130305",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 35380.0,
-   "price": 5.77,
-   "value": 204142.6,
-   "acc": "0001510281-26-000453",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-17",
-   "shares": 1500.0,
-   "price": 142.016,
-   "value": 213024.0,
-   "acc": "0001666120-26-000037",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "RMIX",
-   "company": "Suncrete, Inc.",
-   "insider": "Fleming Ned N III",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 40000.0,
-   "price": 5.95,
-   "value": 238000.0,
-   "acc": "0001193125-26-465843",
-   "filed": "2026-11-17"
-  },
   {
    "ticker": "PRTA",
    "company": "PROTHENA CORP PUBLIC LTD CO",
@@ -2186,6 +2138,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "GRF",
+   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
+   "insider": "SIMS LUKE E",
+   "role": "President and CEO",
+   "date": "2026-11-19",
+   "shares": 301.0,
+   "price": 10.2068,
+   "value": 3072.25,
+   "acc": "0001038238-26-000002",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4058,6 +4022,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "HTGC",
+   "company": "Hercules Capital, Inc.",
+   "insider": "Fichera Alfred",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 2000.0,
+   "price": 15.105,
+   "value": 30210.0,
+   "acc": "0002092805-26-000003",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "EDRY",
    "company": "EuroDry Ltd.",
    "insider": "Pittas Aristeidis P",
@@ -4152,6 +4128,18 @@
    "value": 44393.52,
    "acc": "0001628280-26-075380",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "GRF",
+   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
+   "insider": "SIMS LUKE E",
+   "role": "President and CEO",
+   "date": "2026-11-20",
+   "shares": 4500.0,
+   "price": 10.2,
+   "value": 45900.0,
+   "acc": "0001038238-26-000002",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "TROX",
@@ -4464,6 +4452,18 @@
    "value": 376929.0,
    "acc": "0001653242-26-000145",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "IBIO",
+   "company": "iBio, Inc.",
+   "insider": "Coastlands Capital LP",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 500000.0,
+   "price": 0.812,
+   "value": 406000.0,
+   "acc": "0001104659-26-131477",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "BG",
@@ -4825,8 +4825,8 @@
   },
   {
    "ticker": "RMIX",
-   "insiders": 3,
-   "total_value": 1151972.5
+   "insiders": 2,
+   "total_value": 913972.5
   },
   {
    "ticker": "TSM",
@@ -4849,11 +4849,6 @@
    "total_value": 651340.56
   },
   {
-   "ticker": "LEO",
-   "insiders": 2,
-   "total_value": 639572.21
-  },
-  {
    "ticker": "GNL",
    "insiders": 7,
    "total_value": 636281.17
@@ -4862,6 +4857,11 @@
    "ticker": "PICS",
    "insiders": 3,
    "total_value": 556660.38
+  },
+  {
+   "ticker": "LEO",
+   "insiders": 2,
+   "total_value": 435429.61
   },
   {
    "ticker": "CWGL",
@@ -5005,7 +5005,6 @@
   }
  ],
  "seen": [
-  "0002012383-26-003272",
   "0002012383-26-003273",
   "0002012383-26-003274",
   "0002012383-26-003275",
@@ -6990,6 +6989,7 @@
   "0002092596-26-000002",
   "0002092596-26-000004",
   "0002092805-26-000002",
+  "0002092805-26-000003",
   "0002092820-26-000002",
   "0002092820-26-000004",
   "0002092917-26-000002",
