@@ -1,402 +1,6 @@
 {
- "updated_utc": "2026-11-24 21:18 UTC",
+ "updated_utc": "2026-11-24 21:34 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Marcos Marcelo",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 32991.0,
-   "price": 62.41,
-   "value": 2058968.31,
-   "acc": "0002022936-26-000019",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "FUN",
-   "company": "Six Flags Entertainment Corporation/NEW",
-   "insider": "JAFFER REHAN",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 200000.0,
-   "price": 11.13,
-   "value": 2226000.0,
-   "acc": "0001999001-26-000121",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "IMDX",
-   "company": "Insight Molecular Diagnostics Inc.",
-   "insider": "BROADWOOD PARTNERS, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 3428571.0,
-   "price": 1.75,
-   "value": 5999999.25,
-   "acc": "0000919574-26-008199",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "ANAB",
-   "company": "ANAPTYSBIO, INC",
-   "insider": "EcoR1 Capital, LLC",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 152367.0,
-   "price": 45.6553,
-   "value": 6956361.1,
-   "acc": "0000935836-26-000631",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 33.0,
-   "price": 1.63,
-   "value": 53.79,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "DBHL",
-   "company": "Deep Isolation Nuclear, Inc.",
-   "insider": "Goldman Tepper Leslie",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 99.0,
-   "price": 2.1951,
-   "value": 217.31,
-   "acc": "0001213900-26-122226",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 301.0,
-   "price": 0.8862,
-   "value": 266.75,
-   "acc": "0001841761-26-000127",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "ASPS",
-   "company": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
-   "insider": "RITTS GREGORY J.",
-   "role": "Chief Legal & Admin Officer",
-   "date": "2026-11-18",
-   "shares": 50.0,
-   "price": 5.85,
-   "value": 292.5,
-   "acc": "0001462418-26-000060",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 222.0,
-   "price": 1.65,
-   "value": 366.3,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "NMCO",
-   "company": "Nuveen Municipal Credit Opportunities Fund",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 47.0,
-   "price": 8.52,
-   "value": 400.44,
-   "acc": "0000070858-26-000603",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "FRPH",
-   "company": "FRP HOLDINGS, INC.",
-   "insider": "BAKER JOHN D II",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 23.0,
-   "price": 18.09,
-   "value": 416.07,
-   "acc": "0000897069-26-001949",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "INLX",
-   "company": "INTELLINETICS, INC.",
-   "insider": "SEID PAUL",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 121.0,
-   "price": 3.73,
-   "value": 451.33,
-   "acc": "0001493152-26-053234",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Deschenes Roger P.",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-18",
-   "shares": 300.0,
-   "price": 1.79,
-   "value": 537.0,
-   "acc": "0001496259-26-000005",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 700.0,
-   "price": 0.9,
-   "value": 630.0,
-   "acc": "0001841761-26-000127",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "DBHL",
-   "company": "Deep Isolation Nuclear, Inc.",
-   "insider": "Goldman Tepper Leslie",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 401.0,
-   "price": 2.1648,
-   "value": 868.08,
-   "acc": "0001213900-26-122226",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "EMYB",
-   "company": "Embassy Bancorp, Inc.",
-   "insider": "Lobach David M Jr",
-   "role": "Chairman, President and CEO",
-   "date": "2026-11-18",
-   "shares": 50.0,
-   "price": 20.65,
-   "value": 1032.5,
-   "acc": "0001464631-26-000010",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "EAD",
-   "company": "ALLSPRING INCOME OPPORTUNITIES FUND",
-   "insider": "Miller Cindy J",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 175.0,
-   "price": 5.93,
-   "value": 1037.75,
-   "acc": "0001081400-26-000591",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "EOD",
-   "company": "ALLSPRING GLOBAL DIVIDEND OPPORTUNITY FUND",
-   "insider": "Miller Cindy J",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 175.0,
-   "price": 5.94,
-   "value": 1039.5,
-   "acc": "0001081400-26-000590",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "ERC",
-   "company": "ALLSPRING MULTI-SECTOR INCOME FUND",
-   "insider": "Miller Cindy J",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 125.0,
-   "price": 8.32,
-   "value": 1040.0,
-   "acc": "0001081400-26-000592",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "ERH",
-   "company": "ALLSPRING UTILITIES & HIGH INCOME FUND",
-   "insider": "Miller Cindy J",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 100.0,
-   "price": 10.55,
-   "value": 1055.0,
-   "acc": "0001081400-26-000593",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 792.0,
-   "price": 1.63,
-   "value": 1290.96,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "NMS",
-   "company": "Nuveen Minnesota Quality Municipal Income Fund",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 194.0,
-   "price": 10.07,
-   "value": 1953.58,
-   "acc": "0000070858-26-000604",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "EMYB",
-   "company": "Embassy Bancorp, Inc.",
-   "insider": "Lobach David M Jr",
-   "role": "Chairman, President and CEO",
-   "date": "2026-11-18",
-   "shares": 100.0,
-   "price": 20.69,
-   "value": 2069.0,
-   "acc": "0001464631-26-000010",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "DBHL",
-   "company": "Deep Isolation Nuclear, Inc.",
-   "insider": "Goldman Tepper Leslie",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 1000.0,
-   "price": 2.0968,
-   "value": 2096.8,
-   "acc": "0001213900-26-122226",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "FBYD",
-   "company": "Falcon's Beyond Global, Inc.",
-   "insider": "Kim Marie L.",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 500.0,
-   "price": 4.48,
-   "value": 2240.0,
-   "acc": "0001213900-26-122866",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "BIVI",
-   "company": "BIOVIE INC.",
-   "insider": "DO CUONG V",
-   "role": "President & CEO",
-   "date": "2026-11-18",
-   "shares": 2500.0,
-   "price": 0.9971,
-   "value": 2492.75,
-   "acc": "0001520138-26-000501",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "OWLS",
-   "company": "OBOOK HOLDINGS INC.",
-   "insider": "WANG CHUN KAI",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-18",
-   "shares": 1120.0,
-   "price": 2.2344,
-   "value": 2502.53,
-   "acc": "0002109337-26-000019",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "NBH",
-   "company": "NEUBERGER MUNICIPAL FUND INC.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 288.0,
-   "price": 9.135,
-   "value": 2630.88,
-   "acc": "0000070858-26-000602",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-18",
-   "shares": 3400.0,
-   "price": 0.7818,
-   "value": 2658.12,
-   "acc": "0001493152-26-053178",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-11-18",
-   "shares": 20000.0,
-   "price": 0.134,
-   "value": 2680.0,
-   "acc": "0001493152-26-053125",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 256.0,
-   "price": 12.1613,
-   "value": 3113.29,
-   "acc": "0001213900-26-122629",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "LAND",
-   "company": "GLADSTONE LAND Corp",
-   "insider": "Reiman William L",
-   "role": "Executive Vice President",
-   "date": "2026-11-18",
-   "shares": 500.0,
-   "price": 6.369,
-   "value": 3184.5,
-   "acc": "0002127991-26-000004",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "OIG",
-   "company": "Orion180 Insurance Group Inc.",
-   "insider": "DEUTSCH ROBERT V",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 321.0,
-   "price": 9.928,
-   "value": 3186.89,
-   "acc": "0001493152-26-053114",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
@@ -3170,6 +2774,30 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 1000.0,
+   "price": 0.747,
+   "value": 747.0,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 1000.0,
+   "price": 0.7488,
+   "value": 748.8,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "FUNDRISE INCOME REAL ESTATE FUND, LLC (CIK 1885551)",
    "company": "Fundrise Income Real Estate Fund, LLC",
    "insider": "Monte Mark David",
@@ -3338,6 +2966,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "TRIN",
+   "company": "Trinity Capital Inc.",
+   "insider": "Estes Ronald E.",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 200.0,
+   "price": 16.65,
+   "value": 3330.0,
+   "acc": "0001193125-26-475868",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "DXR",
    "company": "DAXOR CORP",
    "insider": "Feldschuh Michael Richard",
@@ -3419,6 +3059,18 @@
    "price": 3.499,
    "value": 4919.59,
    "acc": "0001727207-26-000008",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 6489.0,
+   "price": 0.7696,
+   "value": 4993.93,
+   "acc": "0001094891-26-000320",
    "filed": "2026-11-24"
   },
   {
@@ -3530,6 +3182,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 0.8,
+   "value": 8000.0,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "ACON",
    "company": "Aclarion, Inc.",
    "insider": "Gould Gregory A",
@@ -3540,6 +3204,18 @@
    "value": 8265.0,
    "acc": "0001683168-26-009023",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 0.83,
+   "value": 8300.0,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "WVVI",
@@ -3554,6 +3230,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 0.8492,
+   "value": 8492.0,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "FXNC",
    "company": "FIRST NATIONAL CORP /VA/",
    "insider": "Brannock Boyce E",
@@ -3564,6 +3252,18 @@
    "value": 8691.0,
    "acc": "0001437749-26-037876",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "CVSI",
+   "company": "CV Sciences, Inc.",
+   "insider": "CHEEVER CHARLIE E III",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 925435.0,
+   "price": 0.01,
+   "value": 9254.35,
+   "acc": "0001202557-26-000008",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "LCNB",
@@ -3624,6 +3324,18 @@
    "value": 10000.0,
    "acc": "0001493152-26-053721",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "BUR",
+   "company": "Burford Capital Ltd",
+   "insider": "Dames Rukia Baruti",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 3500.0,
+   "price": 3.2779,
+   "value": 11472.65,
+   "acc": "0001714174-26-000119",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "EP",
@@ -3744,6 +3456,18 @@
    "value": 20869.14,
    "acc": "0001193125-26-470875",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "NWTG",
+   "company": "Newton Golf Company, Inc.",
+   "insider": "Bode John B",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 30000.0,
+   "price": 0.75,
+   "value": 22500.0,
+   "acc": "0001612084-26-000005",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "ASTS",
@@ -3875,6 +3599,18 @@
    "price": 2.8768,
    "value": 33946.24,
    "acc": "0002119764-26-000040",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "JUSH",
+   "company": "Jushi Holdings Inc.",
+   "insider": "Arsenault Denis J.",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 99500.0,
+   "price": 0.35,
+   "value": 34825.0,
+   "acc": "0001628280-26-075745",
    "filed": "2026-11-24"
   },
   {
@@ -4046,6 +3782,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 320.0,
+   "price": 189.65,
+   "value": 60688.0,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "KMT",
    "company": "KENNAMETAL INC",
    "insider": "Chowbey Sanjay",
@@ -4080,6 +3828,18 @@
    "value": 75378.4,
    "acc": "0001213900-26-123095",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "USEA",
+   "company": "United Maritime Corp",
+   "insider": "Tsantanis Stamatios",
+   "role": "Director, CEO",
+   "date": "2026-11-20",
+   "shares": 30000.0,
+   "price": 2.8578,
+   "value": 85734.0,
+   "acc": "0001140361-26-045513",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "PCT",
@@ -4250,6 +4010,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1150.0,
+   "price": 190.05,
+   "value": 218557.5,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "HOS",
    "company": "HORNBECK OFFSHORE SERVICES, INC.",
    "insider": "Fink Benjamin Matthew",
@@ -4260,6 +4032,18 @@
    "value": 230300.0,
    "acc": "0001312482-26-000001",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-20",
+   "shares": 250000.0,
+   "price": 1.0543,
+   "value": 263575.0,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "SEI",
@@ -4308,6 +4092,18 @@
    "value": 376929.0,
    "acc": "0001653242-26-000145",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 2114.0,
+   "price": 188.5922,
+   "value": 398683.91,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "IBIO",
@@ -4404,6 +4200,66 @@
    "value": 1237097.6,
    "acc": "0002022936-26-000020",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 10403.0,
+   "price": 186.4701,
+   "value": 1939848.45,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 12138.0,
+   "price": 183.6973,
+   "value": 2229717.83,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 12387.0,
+   "price": 187.2186,
+   "value": 2319076.8,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 14705.0,
+   "price": 184.4751,
+   "value": 2712706.35,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "COHR",
+   "company": "COHERENT CORP.",
+   "insider": "PAGLIUCA STEPHEN G",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 28783.0,
+   "price": 185.5055,
+   "value": 5339404.81,
+   "acc": "0000899140-26-001411",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "BORR",
@@ -4538,6 +4394,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "CVSI",
+   "company": "CV Sciences, Inc.",
+   "insider": "CHEEVER CHARLIE E III",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 567000.0,
+   "price": 0.01,
+   "value": 5670.0,
+   "acc": "0001202557-26-000008",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "AUBN",
    "company": "AUBURN NATIONAL BANCORPORATION, INC",
    "insider": "HOUSEL DAVID E",
@@ -4595,6 +4463,30 @@
    "price": 3.35,
    "value": 10050.0,
    "acc": "0001727207-26-000008",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 1.01,
+   "value": 10100.0,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 1.06,
+   "value": 10600.0,
+   "acc": "0001094891-26-000320",
    "filed": "2026-11-24"
   },
   {
@@ -4670,6 +4562,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-23",
+   "shares": 33894.0,
+   "price": 1.0153,
+   "value": 34412.58,
+   "acc": "0001094891-26-000320",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "FRD",
    "company": "FRIEDMAN INDUSTRIES INC",
    "insider": "Taylor Mike J",
@@ -4691,6 +4595,18 @@
    "price": 2.6079,
    "value": 39118.5,
    "acc": "0001828536-26-000125",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "USEA",
+   "company": "United Maritime Corp",
+   "insider": "Tsantanis Stamatios",
+   "role": "Director, CEO",
+   "date": "2026-11-23",
+   "shares": 15000.0,
+   "price": 3.036,
+   "value": 45540.0,
+   "acc": "0001140361-26-045513",
    "filed": "2026-11-24"
   },
   {
@@ -4718,6 +4634,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "JUSH",
+   "company": "Jushi Holdings Inc.",
+   "insider": "Arsenault Denis J.",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 168000.0,
+   "price": 0.38,
+   "value": 63840.0,
+   "acc": "0001628280-26-075745",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "BULL",
    "company": "Webull Corp",
    "insider": "Wang Haichen",
@@ -4739,6 +4667,18 @@
    "price": 18.9398,
    "value": 189398.0,
    "acc": "0000935596-26-000033",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "SNEX",
+   "company": "StoneX Group Inc.",
+   "insider": "Lyon Charles M",
+   "role": "President",
+   "date": "2026-11-23",
+   "shares": 10418.0,
+   "price": 38.56,
+   "value": 401718.08,
+   "acc": "0001620576-26-000010",
    "filed": "2026-11-24"
   },
   {
@@ -4766,6 +4706,42 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "BIVI",
+   "company": "BIOVIE INC.",
+   "insider": "DO CUONG V",
+   "role": "President & CEO",
+   "date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 0.9194,
+   "value": 2298.5,
+   "acc": "0001520138-26-000523",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CVSI",
+   "company": "CV Sciences, Inc.",
+   "insider": "CHEEVER CHARLIE E III",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 289431.0,
+   "price": 0.01,
+   "value": 2894.31,
+   "acc": "0001202557-26-000008",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "BUR",
+   "company": "Burford Capital Ltd",
+   "insider": "Dames Rukia Baruti",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 950.0,
+   "price": 3.31,
+   "value": 3144.5,
+   "acc": "0001714174-26-000119",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "PCYO",
    "company": "PURE CYCLE CORP",
    "insider": "Spezialy Marc Stephen",
@@ -4790,6 +4766,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "LPTH",
+   "company": "LIGHTPATH TECHNOLOGIES INC",
+   "insider": "Miranda Albert",
+   "role": "CFO",
+   "date": "2026-11-24",
+   "shares": 1892.1465,
+   "price": 5.285,
+   "value": 9999.99,
+   "acc": "0001437749-26-038192",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "LFT",
    "company": "Lument Finance Trust, Inc.",
    "insider": "Hunt James Christopher",
@@ -4800,13 +4788,25 @@
    "value": 17554.0,
    "acc": "0001727207-26-000008",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "SNEX",
+   "company": "StoneX Group Inc.",
+   "insider": "Thamodaran Dhamu R.",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 38.3,
+   "value": 95750.0,
+   "acc": "0001531352-26-000016",
+   "filed": "2026-11-24"
   }
  ],
  "clusters": [
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 13437319.23
+   "total_value": 11378350.92
   },
   {
    "ticker": "UPST",
@@ -4842,6 +4842,11 @@
    "ticker": "PICS",
    "insiders": 3,
    "total_value": 556660.38
+  },
+  {
+   "ticker": "SNEX",
+   "insiders": 2,
+   "total_value": 497468.08
   },
   {
    "ticker": "LEO",
@@ -4941,7 +4946,7 @@
   {
    "ticker": "TGEN",
    "insiders": 4,
-   "total_value": 53533.5
+   "total_value": 52996.5
   },
   {
    "ticker": "LFT",
@@ -5010,9 +5015,6 @@
   }
  ],
  "seen": [
-  "0002012383-26-003306",
-  "0002012383-26-003307",
-  "0002012383-26-003308",
   "0002012383-26-003309",
   "0002012383-26-003310",
   "0002012383-26-003341",
@@ -5444,6 +5446,7 @@
   "0002034308-26-000003",
   "0002034388-26-000003",
   "0002034388-26-000005",
+  "0002034388-26-000007",
   "0002034458-26-000006",
   "0002034458-26-000007",
   "0002034458-26-000010",
@@ -7830,6 +7833,7 @@
   "0002147680-26-000014",
   "0002147680-26-000016",
   "0002147680-26-000018",
+  "0002147680-26-000020",
   "0002147807-26-000005",
   "0002147819-26-000005",
   "0002147835-26-000007",
@@ -7851,6 +7855,7 @@
   "0002148570-26-000003",
   "0002148570-26-000004",
   "0002148580-26-000003",
+  "0002148694-26-000006",
   "0002148701-26-000008",
   "0002148785-26-000009",
   "0002148900-26-000005",
