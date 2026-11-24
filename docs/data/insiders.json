@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-24 23:10 UTC",
+ "updated_utc": "2026-11-24 23:26 UTC",
  "purchases": [
-  {
-   "ticker": "ALT",
-   "company": "Altimmune, Inc.",
-   "insider": "MENZIUSO RICHARD THOMAS",
-   "role": "Principal Accounting Officer",
-   "date": "2026-11-18",
-   "shares": 10000.0,
-   "price": 1.4187,
-   "value": 14187.0,
-   "acc": "0002156820-26-000008",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "ESEA",
-   "company": "EUROSEAS LTD.",
-   "insider": "Pittas Aristeidis P",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 250.0,
-   "price": 61.6633,
-   "value": 15415.83,
-   "acc": "0002127484-26-000023",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Deschenes Roger P.",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-18",
-   "shares": 9700.0,
-   "price": 1.8,
-   "value": 17460.0,
-   "acc": "0001496259-26-000005",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "EP",
-   "company": "EMPIRE PETROLEUM CORP",
-   "insider": "Energy Evolution Master Fund, Ltd.",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 6352.0,
-   "price": 2.7508,
-   "value": 17473.08,
-   "acc": "0001072613-26-000923",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "FCCO",
-   "company": "FIRST COMMUNITY CORP /SC/",
-   "insider": "Ford Terrance Antwan",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 660.0,
-   "price": 31.71,
-   "value": 20928.6,
-   "acc": "0000932781-26-000056",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "FLNA",
-   "company": "FILANA THERAPEUTICS, INC.",
-   "insider": "Barry Richard",
-   "role": "President & CEO",
-   "date": "2026-11-18",
-   "shares": 44851.0,
-   "price": 0.52,
-   "value": 23322.52,
-   "acc": "0001437749-26-037805",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "ZEO",
    "company": "Zeo Energy Corp.",
@@ -2822,6 +2750,30 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "CTSO",
+   "company": "Cytosorbents Corp",
+   "insider": "Kim Jiny",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1447.0,
+   "price": 5.18,
+   "value": 7495.46,
+   "acc": "0001104659-26-131712",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CTSO",
+   "company": "Cytosorbents Corp",
+   "insider": "Jones Edward Raymond",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1447.0,
+   "price": 5.18,
+   "value": 7495.46,
+   "acc": "0001104659-26-131711",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
    "insider": "Hatsopoulos John",
@@ -3038,6 +2990,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "CTSO",
+   "company": "Cytosorbents Corp",
+   "insider": "Capponi Vincent",
+   "role": "President and COO",
+   "date": "2026-11-20",
+   "shares": 2895.0,
+   "price": 5.18,
+   "value": 14996.1,
+   "acc": "0001104659-26-131707",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "EVAX",
    "company": "Evaxion A/S",
    "insider": "Mattsson Andreas Holm",
@@ -3218,6 +3182,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "CTSO",
+   "company": "Cytosorbents Corp",
+   "insider": "Sobel Alan D.",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 5791.0,
+   "price": 5.18,
+   "value": 29997.38,
+   "acc": "0001104659-26-131714",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "GNL",
    "company": "Global Net Lease, Inc.",
    "insider": "PERLA STANLEY R",
@@ -3287,6 +3263,18 @@
    "price": 0.35,
    "value": 34825.0,
    "acc": "0001628280-26-075745",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "CTSO",
+   "company": "Cytosorbents Corp",
+   "insider": "MARIANI PETER J",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-20",
+   "shares": 6757.0,
+   "price": 5.18,
+   "value": 35001.26,
+   "acc": "0001104659-26-131713",
    "filed": "2026-11-24"
   },
   {
@@ -3792,6 +3780,18 @@
    "value": 315013.35,
    "acc": "0001436425-26-000078",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "CTSO",
+   "company": "Cytosorbents Corp",
+   "insider": "Chan Phillip P.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 68533.0,
+   "price": 5.18,
+   "value": 355000.94,
+   "acc": "0001104659-26-131710",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "NTB",
@@ -4849,6 +4849,11 @@
    "total_value": 556660.38
   },
   {
+   "ticker": "CTSO",
+   "insiders": 7,
+   "total_value": 499983.96
+  },
+  {
    "ticker": "SNEX",
    "insiders": 2,
    "total_value": 497468.08
@@ -4939,14 +4944,14 @@
    "total_value": 57053.55
   },
   {
-   "ticker": "TGEN",
-   "insiders": 4,
-   "total_value": 52996.5
-  },
-  {
    "ticker": "LFT",
    "insiders": 2,
    "total_value": 37472.71
+  },
+  {
+   "ticker": "TGEN",
+   "insiders": 3,
+   "total_value": 35536.5
   },
   {
    "ticker": "LODE",
