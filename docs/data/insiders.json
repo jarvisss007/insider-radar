@@ -1,78 +1,6 @@
 {
- "updated_utc": "2026-11-24 20:14 UTC",
+ "updated_utc": "2026-11-24 21:02 UTC",
  "purchases": [
-  {
-   "ticker": "TSM",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "insider": "BURNS URSULA M",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 1375.0,
-   "price": 363.665,
-   "value": 500039.38,
-   "acc": "0001046179-26-000803",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "BA",
-   "company": "BOEING CO",
-   "insider": "JOHRI AKHIL",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 3000.0,
-   "price": 166.689,
-   "value": 500067.0,
-   "acc": "0001225208-26-009059",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "VIVO",
-   "company": "VivoPower PLC",
-   "insider": "Chin Kevin",
-   "role": "Chairman & CEO",
-   "date": "2026-11-17",
-   "shares": 287000.0,
-   "price": 1.93,
-   "value": 553910.0,
-   "acc": "0001493152-26-053023",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "RMIX",
-   "company": "Suncrete, Inc.",
-   "insider": "Rees-Jones David",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 100000.0,
-   "price": 6.2,
-   "value": 620000.0,
-   "acc": "0001193125-26-467461",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-17",
-   "shares": 4400.0,
-   "price": 146.9986,
-   "value": 646793.84,
-   "acc": "0001666120-26-000037",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "USAR",
-   "company": "USA Rare Earth, Inc.",
-   "insider": "BLITZER MICHAEL",
-   "role": "Director",
-   "date": "2026-11-17",
-   "shares": 100000.0,
-   "price": 6.7155,
-   "value": 671550.0,
-   "acc": "0001458423-26-000012",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "LCTX",
    "company": "Lineage Cell Therapeutics, Inc.",
@@ -3830,6 +3758,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "EVAX",
+   "company": "Evaxion A/S",
+   "insider": "Mattsson Andreas Holm",
+   "role": "CAIO / Chief AI Officer",
+   "date": "2026-11-20",
+   "shares": 349450.0,
+   "price": 0.0455,
+   "value": 15899.98,
+   "acc": "0001104659-26-131561",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
    "insider": "Hirsch Susan B",
@@ -3900,6 +3840,18 @@
    "value": 20869.14,
    "acc": "0001193125-26-470875",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "ASTS",
+   "company": "AST SpaceMobile, Inc.",
+   "insider": "Cisneros Adriana",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1064.0,
+   "price": 23.45,
+   "value": 24950.8,
+   "acc": "0001104659-26-131559",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "ADAG",
@@ -4080,6 +4032,18 @@
    "value": 39266.64,
    "acc": "0002127484-26-000027",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "EVAX",
+   "company": "Evaxion A/S",
+   "insider": "Soegaard Marianne",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 955000.0,
+   "price": 0.046,
+   "value": 43930.0,
+   "acc": "0001104659-26-131556",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "BWFG",
@@ -4442,6 +4406,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "ASTS",
+   "company": "AST SpaceMobile, Inc.",
+   "insider": "Cisneros Adriana",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 21250.0,
+   "price": 23.54,
+   "value": 500225.0,
+   "acc": "0001104659-26-131559",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "WMB",
    "company": "WILLIAMS COMPANIES, INC.",
    "insider": "Turner Robb E",
@@ -4586,6 +4562,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "AIM",
+   "company": "AIM ImmunoTech Inc.",
+   "insider": "Equels Thomas K",
+   "role": "CEO & President",
+   "date": "2026-11-23",
+   "shares": 50000.0,
+   "price": 0.113,
+   "value": 5650.0,
+   "acc": "0001493152-26-053990",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "AUBN",
    "company": "AUBURN NATIONAL BANCORPORATION, INC",
    "insider": "HOUSEL DAVID E",
@@ -4631,6 +4619,18 @@
    "price": 14.15,
    "value": 9905.0,
    "acc": "0001437749-26-038139",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "EVAX",
+   "company": "Evaxion A/S",
+   "insider": "Mattsson Andreas Holm",
+   "role": "CAIO / Chief AI Officer",
+   "date": "2026-11-23",
+   "shares": 270600.0,
+   "price": 0.0496,
+   "value": 13421.76,
+   "acc": "0001104659-26-131561",
    "filed": "2026-11-24"
   },
   {
@@ -4824,16 +4824,6 @@
    "total_value": 1246655.2
   },
   {
-   "ticker": "RMIX",
-   "insiders": 2,
-   "total_value": 913972.5
-  },
-  {
-   "ticker": "TSM",
-   "insiders": 2,
-   "total_value": 802889.38
-  },
-  {
    "ticker": "TMS",
    "insiders": 2,
    "total_value": 762030.0
@@ -4867,6 +4857,11 @@
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 375000.0
+  },
+  {
+   "ticker": "RMIX",
+   "insiders": 2,
+   "total_value": 293972.5
   },
   {
    "ticker": "DSM",
@@ -4927,6 +4922,11 @@
    "ticker": "CRMD",
    "insiders": 2,
    "total_value": 74995.0
+  },
+  {
+   "ticker": "EVAX",
+   "insiders": 2,
+   "total_value": 73251.74
   },
   {
    "ticker": "AEON",
@@ -5015,8 +5015,6 @@
   }
  ],
  "seen": [
-  "0002012383-26-003304",
-  "0002012383-26-003305",
   "0002012383-26-003306",
   "0002012383-26-003307",
   "0002012383-26-003308",
@@ -6578,6 +6576,7 @@
   "0002077096-26-000278",
   "0002077096-26-000351",
   "0002077096-26-000352",
+  "0002077096-26-000366",
   "0002077291-26-000002",
   "0002077808-26-000059",
   "0002077808-26-000060",
@@ -7997,6 +7996,7 @@
   "0002160652-26-000004",
   "0002160813-26-000005",
   "0002161049-26-000001",
+  "0002161049-26-000002",
   "0002161365-26-000008",
   "0002161365-26-000011",
   "0002161492-26-000005",
