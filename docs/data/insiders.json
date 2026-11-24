@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-24 21:50 UTC",
+ "updated_utc": "2026-11-24 22:06 UTC",
  "purchases": [
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "BANK OF AMERICA CORP /DE/",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 797.0,
-   "price": 5.785,
-   "value": 4610.65,
-   "acc": "0000070858-26-000601",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "SRTS",
-   "company": "Sensus Healthcare, Inc.",
-   "insider": "Cornish Megan",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 2200.0,
-   "price": 2.28,
-   "value": 5016.0,
-   "acc": "0001832041-26-000002",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "GRCE",
-   "company": "Grace Therapeutics, Inc.",
-   "insider": "Opaleye Management Inc.",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 2974.0,
-   "price": 1.7254,
-   "value": 5131.34,
-   "acc": "0001493152-26-053120",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "NMAD",
-   "company": "NOMAD POWER SOLUTIONS, INC.",
-   "insider": "Travaglini John Francis",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 2000.0,
-   "price": 2.95,
-   "value": 5900.0,
-   "acc": "0001493152-26-053293",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CLNN",
-   "company": "Clene Inc.",
-   "insider": "WILCOX REED N",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 2000.0,
-   "price": 3.44,
-   "value": 6880.0,
-   "acc": "0001437749-26-037670",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "DBHL",
-   "company": "Deep Isolation Nuclear, Inc.",
-   "insider": "Goldman Tepper Leslie",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 3500.0,
-   "price": 2.2,
-   "value": 7700.0,
-   "acc": "0001213900-26-122226",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "PEBK",
-   "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
-   "insider": "PRICE BILLY L JR DR",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 200.0,
-   "price": 41.42,
-   "value": 8284.0,
-   "acc": "0001654954-26-009975",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "NMAD",
-   "company": "NOMAD POWER SOLUTIONS, INC.",
-   "insider": "Travaglini John Francis",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 3000.0,
-   "price": 2.79,
-   "value": 8370.0,
-   "acc": "0001493152-26-053293",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "SLSN",
    "company": "SOLESENCE, INC.",
@@ -3266,6 +3170,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "THM",
+   "company": "INTERNATIONAL TOWER HILL MINES LTD",
+   "insider": "Wiens David Victor",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 1.15,
+   "value": 11500.0,
+   "acc": "0001123292-26-001564",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "EP",
    "company": "EMPIRE PETROLEUM CORP",
    "insider": "Energy Evolution Master Fund, Ltd.",
@@ -3842,6 +3758,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
+   "company": "Blackstone Multi-Strategy Hedge Fund L.P.",
+   "insider": "Abrahams Riad M",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 5841.49,
+   "price": 25.34,
+   "value": 148023.36,
+   "acc": "0001193125-26-476047",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "GNL",
    "company": "Global Net Lease, Inc.",
    "insider": "Richardson Leon",
@@ -4082,6 +4010,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
+   "company": "Blackstone Multi-Strategy Hedge Fund L.P.",
+   "insider": "Desai Ravi Rajendra",
+   "role": "President",
+   "date": "2026-11-20",
+   "shares": 27036.628,
+   "price": 25.34,
+   "value": 685108.15,
+   "acc": "0001193125-26-476046",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "TEN",
    "company": "TSAKOS ENERGY NAVIGATION LTD",
    "insider": "TSAKOS NIKOLAOS",
@@ -4200,6 +4140,18 @@
    "value": 30451500.0,
    "acc": "0001628280-26-075382",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "AZTR",
+   "company": "Azitra, Inc.",
+   "insider": "Salva Francisco D.",
+   "role": "President and CEO",
+   "date": "2026-11-23",
+   "shares": 160.0,
+   "price": 0.54,
+   "value": 86.4,
+   "acc": "0001493152-26-054026",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "OXSQ",
@@ -4466,6 +4418,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "SPRO",
+   "company": "Spero Therapeutics, Inc.",
+   "insider": "THOMAS FRANK E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 25000.0,
+   "price": 0.8,
+   "value": 20000.0,
+   "acc": "0001193125-26-476041",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "BULL",
    "company": "Webull Corp",
    "insider": "James Benjamin Worthy",
@@ -4610,6 +4574,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "MKL",
+   "company": "MARKEL GROUP INC.",
+   "insider": "Harris Greta J",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 95.0,
+   "price": 1945.6,
+   "value": 184832.0,
+   "acc": "0001857626-26-000006",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4631,6 +4607,30 @@
    "price": 18.9398,
    "value": 189398.0,
    "acc": "0000935596-26-000033",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "PED",
+   "company": "PEDEVCO CORP",
+   "insider": "Juniper Capital IV GP, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 22000.0,
+   "price": 10.57,
+   "value": 232540.0,
+   "acc": "0001213900-26-123738",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "PED",
+   "company": "PEDEVCO CORP",
+   "insider": "Geiser Edward",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 22000.0,
+   "price": 10.57,
+   "value": 232540.0,
+   "acc": "0001213900-26-123737",
    "filed": "2026-11-24"
   },
   {
@@ -4819,6 +4819,11 @@
    "total_value": 1246655.2
   },
   {
+   "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
+   "insiders": 2,
+   "total_value": 833131.51
+  },
+  {
    "ticker": "TMS",
    "insiders": 2,
    "total_value": 762030.0
@@ -4849,9 +4854,9 @@
    "total_value": 497468.08
   },
   {
-   "ticker": "LEO",
+   "ticker": "PED",
    "insiders": 2,
-   "total_value": 435429.61
+   "total_value": 465080.0
   },
   {
    "ticker": "CWGL",
@@ -4934,11 +4939,6 @@
    "total_value": 57053.55
   },
   {
-   "ticker": "NMAD",
-   "insiders": 2,
-   "total_value": 56570.0
-  },
-  {
    "ticker": "TGEN",
    "insiders": 4,
    "total_value": 52996.5
@@ -5010,8 +5010,6 @@
   }
  ],
  "seen": [
-  "0002012383-26-003310",
-  "0002012383-26-003341",
   "0002012383-26-003952",
   "0002012383-26-003982",
   "0002012406-26-000002",
@@ -7655,6 +7653,8 @@
   "0002133572-26-000004",
   "0002133599-26-000005",
   "0002133869-26-000003",
+  "0002133938-26-000007",
+  "0002133947-26-000009",
   "0002134546-26-000011",
   "0002134547-26-000003",
   "0002134641-26-000006",
