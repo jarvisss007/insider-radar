@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-24 22:22 UTC",
+ "updated_utc": "2026-11-24 22:38 UTC",
  "purchases": [
-  {
-   "ticker": "FLNA",
-   "company": "FILANA THERAPEUTICS, INC.",
-   "insider": "Anderson Robert Eugene Jr",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 19000.0,
-   "price": 0.52,
-   "value": 9880.0,
-   "acc": "0001437749-26-037807",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 6000.0,
-   "price": 1.66,
-   "value": 9960.0,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "ORRF",
-   "company": "ORRSTOWN FINANCIAL SERVICES INC",
-   "insider": "BROWN SARAH M",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 233.0,
-   "price": 42.81,
-   "value": 9974.73,
-   "acc": "0001628280-26-075077",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "IMMX",
-   "company": "Immix Biopharma, Inc.",
-   "insider": "Rachman Ilya M",
-   "role": "CEO, Chairman",
-   "date": "2026-11-18",
-   "shares": 1408.45,
-   "price": 7.1,
-   "value": 9999.99,
-   "acc": "0001493152-26-053370",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "IMMX",
    "company": "Immix Biopharma, Inc.",
@@ -3374,6 +3326,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "RMIX",
+   "company": "Suncrete, Inc.",
+   "insider": "Fleming Ned N III",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 5000.0,
+   "price": 5.75,
+   "value": 28750.0,
+   "acc": "0001193125-26-476191",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "GNL",
    "company": "Global Net Lease, Inc.",
    "insider": "PERLA STANLEY R",
@@ -3708,6 +3672,18 @@
    "value": 111832.5,
    "acc": "0001493152-26-053570",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "SCOR",
+   "company": "COMSCORE, INC.",
+   "insider": "McLaughlin Matthew F.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 36622.0,
+   "price": 3.23,
+   "value": 118289.06,
+   "acc": "0001853874-26-000018",
+   "filed": "2026-11-24"
   },
   {
    "ticker": "TSM",
@@ -4430,6 +4406,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "SCOR",
+   "company": "COMSCORE, INC.",
+   "insider": "McLaughlin Matthew F.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-23",
+   "shares": 7260.0,
+   "price": 3.25,
+   "value": 23595.0,
+   "acc": "0001853874-26-000018",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "GRNT",
    "company": "Granite Ridge Resources, Inc.",
    "insider": "Kettler Ronald Kyle",
@@ -4487,6 +4475,18 @@
    "price": 2.6079,
    "value": 39118.5,
    "acc": "0001828536-26-000125",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 4091.0,
+   "price": 9.66,
+   "value": 39519.06,
+   "acc": "0001510281-26-000473",
    "filed": "2026-11-24"
   },
   {
@@ -4865,8 +4865,8 @@
   },
   {
    "ticker": "RMIX",
-   "insiders": 2,
-   "total_value": 293972.5
+   "insiders": 3,
+   "total_value": 322722.5
   },
   {
    "ticker": "FBIO",
@@ -4959,16 +4959,6 @@
    "total_value": 33905.2
   },
   {
-   "ticker": "FLNA",
-   "insiders": 2,
-   "total_value": 33202.52
-  },
-  {
-   "ticker": "IMMX",
-   "insiders": 2,
-   "total_value": 20011.07
-  },
-  {
    "ticker": "ACON",
    "insiders": 2,
    "total_value": 18163.56
@@ -5010,7 +5000,6 @@
   }
  ],
  "seen": [
-  "0002012383-26-003982",
   "0002012406-26-000002",
   "0002012406-26-000004",
   "0002012427-26-000004",
@@ -5848,6 +5837,7 @@
   "0002057569-26-000032",
   "0002057569-26-000035",
   "0002057569-26-000038",
+  "0002057569-26-000043",
   "0002057692-26-000004",
   "0002057995-26-000002",
   "0002058079-26-000011",
