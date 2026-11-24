@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-24 22:06 UTC",
+ "updated_utc": "2026-11-24 22:22 UTC",
  "purchases": [
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 5000.0,
-   "price": 1.69,
-   "value": 8450.0,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "FLNA",
    "company": "FILANA THERAPEUTICS, INC.",
@@ -4562,6 +4550,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 7492.0,
+   "price": 10.01,
+   "value": 74994.92,
+   "acc": "0001510281-26-000472",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "BULL",
    "company": "Webull Corp",
    "insider": "Wang Haichen",
@@ -5010,7 +5010,6 @@
   }
  ],
  "seen": [
-  "0002012383-26-003952",
   "0002012383-26-003982",
   "0002012406-26-000002",
   "0002012406-26-000004",
@@ -7076,6 +7075,7 @@
   "0002098678-26-000004",
   "0002098803-26-000003",
   "0002098854-26-000002",
+  "0002099007-26-000008",
   "0002099104-26-000004",
   "0002099104-26-000005",
   "0002099107-26-000004",
