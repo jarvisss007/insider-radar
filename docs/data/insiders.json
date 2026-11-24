@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-24 19:26 UTC",
+ "updated_utc": "2026-11-24 19:42 UTC",
  "purchases": [
-  {
-   "ticker": "KTTA",
-   "company": "Pasithea Therapeutics Corp.",
-   "insider": "Coastlands Capital LP",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 875000.0,
-   "price": 0.47,
-   "value": 411250.0,
-   "acc": "0001104659-26-129251",
-   "filed": "2026-11-17"
-  },
-  {
-   "ticker": "HMH",
-   "company": "HMH Holding Inc",
-   "insider": "McGee Thomas W.",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-17",
-   "shares": 40000.0,
-   "price": 11.7263,
-   "value": 469052.0,
-   "acc": "0001628280-26-075005",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "KGS",
    "company": "Kodiak Gas Services, Inc.",
@@ -4610,6 +4586,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "AUBN",
+   "company": "AUBURN NATIONAL BANCORPORATION, INC",
+   "insider": "HOUSEL DAVID E",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 260.0,
+   "price": 23.84,
+   "value": 6198.4,
+   "acc": "0001437749-26-038161",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "GROV",
    "company": "Grove Collaborative Holdings, Inc.",
    "insider": "Karp Jason H.",
@@ -4790,6 +4778,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "PCYO",
+   "company": "PURE CYCLE CORP",
+   "insider": "Spezialy Marc Stephen",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-24",
+   "shares": 500.0,
+   "price": 9.5,
+   "value": 4750.0,
+   "acc": "0001546628-26-000006",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "LCNB",
    "company": "LCNB CORP",
    "insider": "Meilstrup Eric J",
@@ -4816,7 +4816,7 @@
   {
    "ticker": "HMH",
    "insiders": 2,
-   "total_value": 1736052.0
+   "total_value": 1267000.0
   },
   {
    "ticker": "HOS",
