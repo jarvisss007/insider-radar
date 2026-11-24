@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-24 18:54 UTC",
+ "updated_utc": "2026-11-24 19:26 UTC",
  "purchases": [
-  {
-   "ticker": "PRTA",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "insider": "SCULLY WILLIAM P",
-   "role": "10% owner",
-   "date": "2026-11-17",
-   "shares": 50000.0,
-   "price": 8.0936,
-   "value": 404680.0,
-   "acc": "0001045463-26-000027",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "KTTA",
    "company": "Pasithea Therapeutics Corp.",
@@ -4742,6 +4730,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "KMT",
+   "company": "KENNAMETAL INC",
+   "insider": "ALVARADO JOSEPH",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 2000.0,
+   "price": 22.85,
+   "value": 45700.0,
+   "acc": "0001047461-26-000003",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "BELL JACK W",
@@ -4892,6 +4892,11 @@
    "ticker": "BULL",
    "insiders": 2,
    "total_value": 111950.0
+  },
+  {
+   "ticker": "KMT",
+   "insiders": 2,
+   "total_value": 110140.0
   },
   {
    "ticker": "NXG",
