@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-24 22:38 UTC",
+ "updated_utc": "2026-11-24 22:54 UTC",
  "purchases": [
-  {
-   "ticker": "IMMX",
-   "company": "Immix Biopharma, Inc.",
-   "insider": "Morris Gabriel S",
-   "role": "CFO, President",
-   "date": "2026-11-18",
-   "shares": 1418.0,
-   "price": 7.06,
-   "value": 10011.08,
-   "acc": "0001493152-26-053369",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "OESX",
-   "company": "ORION ENERGY SYSTEMS, INC.",
-   "insider": "Washlow Sally A.",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-18",
-   "shares": 855.0,
-   "price": 11.8,
-   "value": 10089.0,
-   "acc": "0000897069-26-001953",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "LFT",
    "company": "Lument Finance Trust, Inc.",
@@ -4574,6 +4550,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 6778.0,
+   "price": 19.97,
+   "value": 135356.66,
+   "acc": "0001510281-26-000474",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "MKL",
    "company": "MARKEL GROUP INC.",
    "insider": "Harris Greta J",
@@ -4631,6 +4619,18 @@
    "price": 10.57,
    "value": 232540.0,
    "acc": "0001213900-26-123737",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "HFRO",
+   "company": "HIGHLAND OPPORTUNITIES & INCOME FUND",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 50851.0,
+   "price": 5.22,
+   "value": 265442.22,
+   "acc": "0001510281-26-000475",
    "filed": "2026-11-24"
   },
   {
@@ -5000,8 +5000,6 @@
   }
  ],
  "seen": [
-  "0002012406-26-000002",
-  "0002012406-26-000004",
   "0002012427-26-000004",
   "0002012524-26-000008",
   "0002012524-26-000011",
@@ -5232,6 +5230,7 @@
   "0002024169-26-000025",
   "0002024218-26-000083",
   "0002024218-26-000091",
+  "0002024218-26-000099",
   "0002024250-26-000022",
   "0002024250-26-000024",
   "0002024250-26-000031",
@@ -7157,6 +7156,7 @@
   "0002107730-26-000012",
   "0002107823-26-000004",
   "0002107955-26-000006",
+  "0002108080-26-000005",
   "0002108262-26-000006",
   "0002108307-26-000008",
   "0002108589-26-000018",
