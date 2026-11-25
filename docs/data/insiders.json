@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-25 22:47 UTC",
+ "updated_utc": "2026-11-25 23:02 UTC",
  "purchases": [
-  {
-   "ticker": "VTIX",
-   "company": "Virtuix Holdings Inc.",
-   "insider": "McGinnis Thomas Lynn",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-19",
-   "shares": 100000.0,
-   "price": 0.4042,
-   "value": 40420.0,
-   "acc": "0001213900-26-122344",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "VTIX",
    "company": "Virtuix Holdings Inc.",
@@ -4322,6 +4310,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 7036.0,
+   "price": 9.98,
+   "value": 70219.28,
+   "acc": "0001510281-26-000479",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "SCOR",
    "company": "COMSCORE, INC.",
    "insider": "McLaughlin Matthew F.",
@@ -4904,11 +4904,6 @@
    "total_value": 98750.0
   },
   {
-   "ticker": "VTIX",
-   "insiders": 2,
-   "total_value": 97988.0
-  },
-  {
    "ticker": "NXG",
    "insiders": 2,
    "total_value": 92084.18
@@ -4922,6 +4917,11 @@
    "ticker": "EVAX",
    "insiders": 2,
    "total_value": 73251.74
+  },
+  {
+   "ticker": "VTIX",
+   "insiders": 2,
+   "total_value": 57568.0
   },
   {
    "ticker": "UMH",
