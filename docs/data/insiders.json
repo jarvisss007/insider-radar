@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-25 20:07 UTC",
+ "updated_utc": "2026-11-25 20:23 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Marcos Marcelo",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 37605.0,
-   "price": 62.11,
-   "value": 2335646.55,
-   "acc": "0002022936-26-000020",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "ANAB",
    "company": "ANAPTYSBIO, INC",
@@ -4502,6 +4490,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "HWBK",
+   "company": "HAWTHORN BANCSHARES, INC.",
+   "insider": "GILES BRENT M",
+   "role": "CHIEF EXECUTIVE OFFICER",
+   "date": "2026-11-24",
+   "shares": 500.0,
+   "price": 39.25,
+   "value": 19625.0,
+   "acc": "0001355435-26-000004",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
    "insider": "Popenoe Smriti Laxman",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 9812744.15
+   "total_value": 7477097.6
   },
   {
    "ticker": "UPST",
