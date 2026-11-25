@@ -1902,3 +1902,7 @@ Clusters that first appeared during the missed 10-07 sweep were not back-dated; 
 - 20 clusters logged QUEUED, all ACCOUNT-WITHHELD by the new desk pause (REVIEW-INSIDER-20261120), not by PORT-010 headroom. The 11-23 sweep logged none (no 11-23 brief), so today's 20 include clusters first seen 11-23; they are dated 11-24, the day they were written.
 - LEO and DSM read like closed-end muni funds, yet INS-030's issuer check let them through (as it did on their first rows). A question for the writer's owner, not an edit.
 - Lessons file read: tail only this run — disclosed.
+
+## 2026-11-25 [insider] — GARUDA (labs-morning-sweep)
+- Nothing graded (grader 0 graded), so no hit-rate change. 8 new clusters logged QUEUED and ACCOUNT-WITHHELD.
+- Mechanic: `stale_quote.py --check` prints a summary line and then the bare value on its own line; a caller that splits on '=' from the whole output gets "no\nno" and fails a membership test. Read the LAST line. Today's 8 rows were briefly blank and corrected at call time.
