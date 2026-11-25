@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-25 18:00 UTC",
+ "updated_utc": "2026-11-25 18:48 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mariani Gustavo",
-   "role": "Vicepresident",
-   "date": "2026-11-18",
-   "shares": 12743.0,
-   "price": 62.11,
-   "value": 791467.73,
-   "acc": "0002028917-26-000006",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "SJT",
-   "company": "SAN JUAN BASIN ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 179657.0,
-   "price": 4.94,
-   "value": 887505.58,
-   "acc": "0001104659-26-130695",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "EFC",
    "company": "Ellington Financial Inc.",
@@ -3374,6 +3350,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "FMN",
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "insider": "BANK OF AMERICA CORP /DE/",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 12.0,
+   "price": 10.1611,
+   "value": 121.93,
+   "acc": "0000070858-26-000609",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "LEO",
    "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
    "insider": "Saba Capital Management, L.P.",
@@ -4598,6 +4586,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "YPF",
+   "company": "YPF SOCIEDAD ANONIMA",
+   "insider": "Ottino Eduardo Alberto",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 13400.0,
+   "price": 3.59,
+   "value": 48106.0,
+   "acc": "0001292814-26-005402",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "LEE",
    "company": "LEE ENTERPRISES, Inc",
    "insider": "Hoffmann David Henry",
@@ -4806,7 +4806,7 @@
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 10604211.88
+   "total_value": 9812744.15
   },
   {
    "ticker": "UPST",
@@ -4995,7 +4995,6 @@
   }
  ],
  "seen": [
-  "0002014361-26-000043",
   "0002014386-26-000006",
   "0002014386-26-000008",
   "0002014386-26-000010",
@@ -6385,6 +6384,7 @@
   "0002071844-26-001959",
   "0002071844-26-001960",
   "0002071844-26-001961",
+  "0002071844-26-001966",
   "0002071876-26-000190",
   "0002071876-26-000207",
   "0002071876-26-000234",
