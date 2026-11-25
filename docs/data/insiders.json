@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-25 21:59 UTC",
+ "updated_utc": "2026-11-25 22:15 UTC",
  "purchases": [
-  {
-   "ticker": "MODD",
-   "company": "Modular Medical, Inc.",
-   "insider": "MANCHESTER MANAGEMENT CO LLC",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 10000.0,
-   "price": 2.0256,
-   "value": 20256.0,
-   "acc": "0000919574-26-008202",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CRMD",
-   "company": "CorMedix Inc.",
-   "insider": "Blum Susan",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-19",
-   "shares": 5000.0,
-   "price": 4.58,
-   "value": 22900.0,
-   "acc": "0001213900-26-122769",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "BSM",
-   "company": "Black Stone Minerals, L.P.",
-   "insider": "Carter Thomas L Jr",
-   "role": "Executive Chairman",
-   "date": "2026-11-19",
-   "shares": 1767.0,
-   "price": 13.4352,
-   "value": 23740.0,
-   "acc": "0001319960-26-000016",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "BARTLEIN ROBERT",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 1000.0,
-   "price": 24.05,
-   "value": 24050.0,
-   "acc": "0001628280-26-075277",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "BARTLEIN ROBERT",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 1000.0,
-   "price": 24.172,
-   "value": 24172.0,
-   "acc": "0001628280-26-075277",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "CWBC",
    "company": "Community West Bancshares",
@@ -3902,6 +3842,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "AZTR",
+   "company": "Azitra, Inc.",
+   "insider": "Salva Francisco D.",
+   "role": "President and CEO",
+   "date": "2026-11-24",
+   "shares": 210.0,
+   "price": 0.5621,
+   "value": 118.04,
+   "acc": "0001493152-26-054280",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4394,6 +4346,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "HL",
+   "company": "HECLA MINING CO/DE/",
+   "insider": "Andres Dale",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 5000.0,
+   "price": 10.9,
+   "value": 54500.0,
+   "acc": "0001866675-26-000009",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "LEE",
    "company": "LEE ENTERPRISES, Inc",
    "insider": "Hoffmann David Henry",
@@ -4547,6 +4511,18 @@
    "price": 191.3524,
    "value": 252585.17,
    "acc": "0000899140-26-001413",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "BSM",
+   "company": "Black Stone Minerals, L.P.",
+   "insider": "DeWalch D Mark",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 22222.0,
+   "price": 13.2868,
+   "value": 295259.27,
+   "acc": "0001638259-26-000017",
    "filed": "2026-11-25"
   },
   {
@@ -4778,6 +4754,30 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "HL",
+   "company": "HECLA MINING CO/DE/",
+   "insider": "Andres Dale",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 5000.0,
+   "price": 10.55,
+   "value": 52750.0,
+   "acc": "0001866675-26-000009",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "GLXY",
+   "company": "Galaxy Digital Inc.",
+   "insider": "Paquette Anthony",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-25",
+   "shares": 25000.0,
+   "price": 10.738,
+   "value": 268450.0,
+   "acc": "0002052994-26-000005",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "PATK",
    "company": "PATRICK INDUSTRIES INC",
    "insider": "WELCH M SCOTT",
@@ -4899,11 +4899,6 @@
    "total_value": 92084.18
   },
   {
-   "ticker": "CWBC",
-   "insiders": 2,
-   "total_value": 81963.0
-  },
-  {
    "ticker": "ARR",
    "insiders": 2,
    "total_value": 79495.75
@@ -4922,6 +4917,11 @@
    "ticker": "LODE",
    "insiders": 2,
    "total_value": 47112.5
+  },
+  {
+   "ticker": "CWBC",
+   "insiders": 2,
+   "total_value": 33741.0
   },
   {
    "ticker": "TGEN",
@@ -4965,12 +4965,6 @@
   }
  ],
  "seen": [
-  "0002014386-26-000030",
-  "0002014440-26-000010",
-  "0002014440-26-000012",
-  "0002014560-26-000008",
-  "0002014560-26-000012",
-  "0002014569-26-000004",
   "0002014596-26-000079",
   "0002014596-26-000086",
   "0002014632-26-000014",
@@ -5001,6 +4995,7 @@
   "0002015793-26-000012",
   "0002015793-26-000014",
   "0002015841-26-000008",
+  "0002015841-26-000010",
   "0002015929-26-000009",
   "0002015936-26-000025",
   "0002015950-26-000005",
@@ -5186,6 +5181,7 @@
   "0002027021-26-000002",
   "0002027284-26-000011",
   "0002027436-26-000012",
+  "0002027436-26-000014",
   "0002027966-26-000002",
   "0002028304-26-000005",
   "0002028349-26-000016",
@@ -5535,6 +5531,7 @@
   "0002044425-26-000014",
   "0002044800-26-000006",
   "0002044800-26-000008",
+  "0002044892-26-000004",
   "0002044904-26-000003",
   "0002044927-26-000009",
   "0002045034-26-000003",
@@ -5701,6 +5698,7 @@
   "0002052896-26-000004",
   "0002052951-26-000007",
   "0002052994-26-000003",
+  "0002052994-26-000005",
   "0002053086-26-000005",
   "0002053089-26-000003",
   "0002053100-26-000010",
@@ -7705,6 +7703,7 @@
   "0002143744-26-000003",
   "0002143744-26-000006",
   "0002143781-26-000007",
+  "0002143781-26-000009",
   "0002143852-26-000005",
   "0002143887-26-000005",
   "0002143905-26-000003",
@@ -7879,6 +7878,7 @@
   "0002154205-26-000008",
   "0002154267-26-000004",
   "0002154337-26-000003",
+  "0002154593-26-000005",
   "0002154757-26-000003",
   "0002154828-26-000005",
   "0002154894-26-000005",
