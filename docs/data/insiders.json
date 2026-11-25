@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-25 21:11 UTC",
+ "updated_utc": "2026-11-25 21:27 UTC",
  "purchases": [
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Hatsopoulos John",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 2000.0,
-   "price": 1.705,
-   "value": 3410.0,
-   "acc": "0001274775-26-000005",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Hatsopoulos John",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 2000.0,
-   "price": 1.72,
-   "value": 3440.0,
-   "acc": "0001274775-26-000005",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "ELTK",
-   "company": "ELTEK LTD",
-   "insider": "Nissan Yitzhak",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 800.0,
-   "price": 4.975,
-   "value": 3980.0,
-   "acc": "0001178913-26-005312",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "FMBM",
-   "company": "F&M BANK CORP",
-   "insider": "McHaffa Evan S.",
-   "role": "EVP, Chief Credit Officer",
-   "date": "2026-11-19",
-   "shares": 100.0,
-   "price": 45.4,
-   "value": 4540.0,
-   "acc": "0002124863-26-000004",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "FMBM",
-   "company": "F&M BANK CORP",
-   "insider": "Willingham John A.",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 100.0,
-   "price": 45.67,
-   "value": 4567.0,
-   "acc": "0001375820-26-000004",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "NWPP",
    "company": "NEW PEOPLES BANKSHARES INC",
@@ -3626,6 +3566,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 2.27,
+   "value": 22700.0,
+   "acc": "0000912282-26-001553",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "SCOR",
    "company": "COMSCORE, INC.",
    "insider": "McLaughlin Matthew F.",
@@ -3755,6 +3707,18 @@
    "price": 1.35,
    "value": 40500.0,
    "acc": "0001493152-26-054146",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 20000.0,
+   "price": 2.11,
+   "value": 42200.0,
+   "acc": "0000912282-26-001553",
    "filed": "2026-11-25"
   },
   {
@@ -4190,6 +4154,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 1000.0,
+   "price": 2.195,
+   "value": 2195.0,
+   "acc": "0000912282-26-001553",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "BIVI",
    "company": "BIOVIE INC.",
    "insider": "DO CUONG V",
@@ -4392,6 +4368,18 @@
    "value": 9999.99,
    "acc": "0001437749-26-038192",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 5000.0,
+   "price": 2.04,
+   "value": 10200.0,
+   "acc": "0000912282-26-001553",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "OPAL",
@@ -4800,6 +4788,18 @@
    "value": 34375.0,
    "acc": "0001964493-26-000012",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "BGDE",
+   "company": "Big Digital Energy, Inc.",
+   "insider": "Endeavor Blockchain, LLC",
+   "role": "10% owner",
+   "date": "2026-12-24",
+   "shares": 5000.0,
+   "price": 2.01,
+   "value": 10050.0,
+   "acc": "0000912282-26-001553",
+   "filed": "2026-11-25"
   }
  ],
  "clusters": [
@@ -4939,14 +4939,14 @@
    "total_value": 46660.82
   },
   {
-   "ticker": "TGEN",
-   "insiders": 2,
-   "total_value": 38468.76
-  },
-  {
    "ticker": "LFT",
    "insiders": 2,
    "total_value": 37472.71
+  },
+  {
+   "ticker": "TGEN",
+   "insiders": 2,
+   "total_value": 31618.76
   },
   {
    "ticker": "ACON",
@@ -4979,11 +4979,6 @@
    "total_value": 9832.8
   },
   {
-   "ticker": "FMBM",
-   "insiders": 2,
-   "total_value": 9107.0
-  },
-  {
    "ticker": "AUBN",
    "insiders": 2,
    "total_value": 8723.4
@@ -4995,10 +4990,6 @@
   }
  ],
  "seen": [
-  "0002014386-26-000020",
-  "0002014386-26-000022",
-  "0002014386-26-000024",
-  "0002014386-26-000026",
   "0002014386-26-000028",
   "0002014386-26-000030",
   "0002014440-26-000010",
@@ -5055,6 +5046,7 @@
   "0002016416-26-000024",
   "0002016432-26-000011",
   "0002016460-26-000004",
+  "0002016620-26-000013",
   "0002016680-26-000008",
   "0002016680-26-000012",
   "0002016680-26-000014",
@@ -5066,6 +5058,7 @@
   "0002016857-26-000012",
   "0002016857-26-000014",
   "0002016863-26-000011",
+  "0002016863-26-000013",
   "0002016900-26-000030",
   "0002016900-26-000039",
   "0002016900-26-000042",
@@ -6923,6 +6916,7 @@
   "0002090083-26-000022",
   "0002090148-26-000001",
   "0002090710-26-000006",
+  "0002090710-26-000008",
   "0002090733-26-000011",
   "0002090751-26-000004",
   "0002090751-26-000006",
@@ -7190,6 +7184,7 @@
   "0002110643-26-000018",
   "0002110643-26-000020",
   "0002110643-26-000022",
+  "0002110643-26-000023",
   "0002110702-26-000004",
   "0002110868-26-000008",
   "0002111103-26-000029",
