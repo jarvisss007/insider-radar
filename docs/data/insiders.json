@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-25 22:15 UTC",
+ "updated_utc": "2026-11-25 22:31 UTC",
  "purchases": [
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "BARTLEIN ROBERT",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 1000.0,
-   "price": 24.6,
-   "value": 24600.0,
-   "acc": "0001628280-26-075277",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "PICS",
-   "company": "PicS N.V.",
-   "insider": "Costa de Moura Mauricio",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 4962.0,
-   "price": 4.99,
-   "value": 24760.38,
-   "acc": "0001213900-26-122452",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "LIDR",
-   "company": "AEye, Inc.",
-   "insider": "Husby Jonathon B.",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 35860.0,
-   "price": 0.6988,
-   "value": 25058.97,
-   "acc": "0001437749-26-037775",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "REI",
-   "company": "RING ENERGY, INC.",
-   "insider": "Tharp Carla Todd",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 25000.0,
-   "price": 1.07,
-   "value": 26750.0,
-   "acc": "0001628280-26-075331",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "ESEA",
-   "company": "EUROSEAS LTD.",
-   "insider": "Pittas Aristeidis P",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 475.0,
-   "price": 62.08,
-   "value": 29488.0,
-   "acc": "0002127484-26-000025",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "MED",
    "company": "MEDIFAST INC",
@@ -3578,6 +3518,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "SCM",
+   "company": "Stellus Capital Investment Corp",
+   "insider": "Bilger Bruce R",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 30606.0,
+   "price": 6.2445,
+   "value": 191119.17,
+   "acc": "0001104659-26-132174",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "PED",
    "company": "PEDEVCO CORP",
    "insider": "Juniper Capital IV GP, L.P.",
@@ -4154,6 +4106,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "SCM",
+   "company": "Stellus Capital Investment Corp",
+   "insider": "Bilger Bruce R",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 1394.0,
+   "price": 6.25,
+   "value": 8712.5,
+   "acc": "0001104659-26-132174",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "LPTH",
    "company": "LIGHTPATH TECHNOLOGIES INC",
    "insider": "Miranda Albert",
@@ -4418,6 +4382,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "AVD",
+   "company": "AMERICAN VANGUARD CORP",
+   "insider": "Gottschalk Patrick E",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 127400.0,
+   "price": 0.77,
+   "value": 98098.0,
+   "acc": "0001193125-26-478691",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "VISN",
    "company": "Vistance Networks, Inc.",
    "insider": "Bowen Krista R.",
@@ -4451,6 +4427,18 @@
    "price": 11.36,
    "value": 109056.0,
    "acc": "0001398344-26-020608",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "CLW",
+   "company": "Clearwater Paper Corp",
+   "insider": "TOELDTE ALEXANDER",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 7617.0,
+   "price": 16.501,
+   "value": 125688.12,
+   "acc": "0001414260-26-000006",
    "filed": "2026-11-25"
   },
   {
@@ -4790,6 +4778,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "GLXY",
+   "company": "Galaxy Digital Inc.",
+   "insider": "Novogratz Michael",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-25",
+   "shares": 86913.0,
+   "price": 10.994,
+   "value": 955521.52,
+   "acc": "0001380615-26-000018",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "BGDE",
    "company": "Big Digital Energy, Inc.",
    "insider": "Endeavor Blockchain, LLC",
@@ -4817,6 +4817,11 @@
    "ticker": "HOS",
    "insiders": 2,
    "total_value": 1246655.2
+  },
+  {
+   "ticker": "GLXY",
+   "insiders": 2,
+   "total_value": 1223971.52
   },
   {
    "ticker": "PRE",
@@ -4917,11 +4922,6 @@
    "ticker": "LODE",
    "insiders": 2,
    "total_value": 47112.5
-  },
-  {
-   "ticker": "CWBC",
-   "insiders": 2,
-   "total_value": 33741.0
   },
   {
    "ticker": "TGEN",
