@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-25 23:02 UTC",
+ "updated_utc": "2026-11-25 23:18 UTC",
  "purchases": [
-  {
-   "ticker": "VTIX",
-   "company": "Virtuix Holdings Inc.",
-   "insider": "Goetgeluk Jan Roger",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 100000.0,
-   "price": 0.4045,
-   "value": 40450.0,
-   "acc": "0001213900-26-122343",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "RIV",
    "company": "RIVERNORTH OPPORTUNITIES FUND, INC.",
@@ -4274,6 +4262,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 5289.0,
+   "price": 10.24,
+   "value": 54159.36,
+   "acc": "0001510281-26-000480",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "HL",
    "company": "HECLA MINING CO/DE/",
    "insider": "Andres Dale",
@@ -4919,11 +4919,6 @@
    "total_value": 73251.74
   },
   {
-   "ticker": "VTIX",
-   "insiders": 2,
-   "total_value": 57568.0
-  },
-  {
    "ticker": "UMH",
    "insiders": 2,
    "total_value": 55665.2
@@ -4947,6 +4942,11 @@
    "ticker": "LCNB",
    "insiders": 2,
    "total_value": 17292.42
+  },
+  {
+   "ticker": "VTIX",
+   "insiders": 2,
+   "total_value": 17118.0
   },
   {
    "ticker": "WVVI",
