@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-25 13:32 UTC",
+ "updated_utc": "2026-11-25 13:48 UTC",
  "purchases": [
-  {
-   "ticker": "GLP",
-   "company": "GLOBAL PARTNERS LP",
-   "insider": "Global GP LLC",
-   "role": "",
-   "date": "2026-11-18",
-   "shares": 2458.0,
-   "price": 43.74,
-   "value": 107512.92,
-   "acc": "0001339396-26-000090",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "RMIX",
-   "company": "Suncrete, Inc.",
-   "insider": "Rees-Jones David",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 16470.0,
-   "price": 6.75,
-   "value": 111172.5,
-   "acc": "0001193125-26-467461",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "RMIX",
    "company": "Suncrete, Inc.",
@@ -4754,6 +4730,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "VISN",
+   "company": "Vistance Networks, Inc.",
+   "insider": "Bowen Krista R.",
+   "role": "SVP, GC & Chief Admin Officer",
+   "date": "2026-11-24",
+   "shares": 25000.0,
+   "price": 3.9378,
+   "value": 98445.0,
+   "acc": "0001193125-26-476906",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "VANI",
    "company": "Vivani Medical, Inc.",
    "insider": "Williams Gregg",
@@ -4799,6 +4787,18 @@
    "price": 1.1067,
    "value": 2213400.0,
    "acc": "0002080471-26-000003",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "BORR",
+   "company": "Borr Drilling Ltd",
+   "insider": "Troim Tor Olav",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 1000000.0,
+   "price": 3.9373,
+   "value": 3937300.0,
+   "acc": "0001628280-26-075874",
    "filed": "2026-11-25"
   }
  ],
@@ -4870,8 +4870,8 @@
   },
   {
    "ticker": "RMIX",
-   "insiders": 3,
-   "total_value": 322722.5
+   "insiders": 2,
+   "total_value": 211550.0
   },
   {
    "ticker": "OXSQ",
