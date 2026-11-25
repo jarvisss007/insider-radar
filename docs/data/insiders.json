@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-25 08:04 UTC",
+ "updated_utc": "2026-11-25 11:12 UTC",
  "purchases": [
-  {
-   "ticker": "HFRO",
-   "company": "HIGHLAND OPPORTUNITIES & INCOME FUND",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 13234.0,
-   "price": 5.1,
-   "value": 67493.4,
-   "acc": "0001510281-26-000455",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "JYNT",
-   "company": "JOINT Corp",
-   "insider": "JOBSON CHARLES E",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 10396.0,
-   "price": 6.65,
-   "value": 69133.4,
-   "acc": "0001214659-26-014596",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "NBP",
-   "company": "NovaBridge Biosciences",
-   "insider": "Hagler Mark Arnold",
-   "role": "Chief Commercial Officer",
-   "date": "2026-11-18",
-   "shares": 184000.0,
-   "price": 0.381,
-   "value": 70104.0,
-   "acc": "0002126029-26-000006",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "LAC",
-   "company": "LITHIUM AMERICAS CORP.",
-   "insider": "CROWLEY TIMOTHY AMBROSE",
-   "role": "SVP, Gov & External Affairs",
-   "date": "2026-11-18",
-   "shares": 50441.0,
-   "price": 1.48,
-   "value": 74652.68,
-   "acc": "0000912282-26-001535",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "PAL",
-   "company": "Proficient Auto Logistics, Inc",
-   "insider": "Schraudenbach John",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 28000.0,
-   "price": 2.79,
-   "value": 78120.0,
-   "acc": "0001213900-26-122314",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
@@ -3878,6 +3818,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "MSC",
+   "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "insider": "HO LAWRENCE YAU LUNG",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 2624.0,
+   "price": 0.29,
+   "value": 760.96,
+   "acc": "0001193125-26-476705",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "JCTC",
    "company": "JEWETT CAMERON TRADING CO LTD",
    "insider": "AJB Investment Fund II, LP",
@@ -4044,6 +3996,18 @@
    "value": 6198.4,
    "acc": "0001437749-26-038161",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 1200.0,
+   "price": 5.2744,
+   "value": 6329.28,
+   "acc": "0001178913-26-005347",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "GROV",
@@ -4248,6 +4212,18 @@
    "value": 28497.5,
    "acc": "0001090009-26-000110",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "NTES",
+   "company": "NetEase, Inc.",
+   "insider": "Tang Grace Hui",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 300.0,
+   "price": 102.7325,
+   "value": 30819.75,
+   "acc": "0001104659-26-131761",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "AMCI",
@@ -4670,6 +4646,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "ELTK",
+   "company": "ELTEK LTD",
+   "insider": "Nissan Yitzhak",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 1200.0,
+   "price": 4.8858,
+   "value": 5862.96,
+   "acc": "0001178913-26-005347",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "SSII",
    "company": "SS Innovations International, Inc.",
    "insider": "Adams Timothy P.",
@@ -4740,6 +4728,18 @@
    "value": 9999.99,
    "acc": "0001437749-26-038192",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "MSC",
+   "company": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "insider": "HO LAWRENCE YAU LUNG",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 46444.0,
+   "price": 0.3059,
+   "value": 14207.22,
+   "acc": "0001193125-26-476705",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "SKYE",
@@ -4877,11 +4877,6 @@
    "ticker": "CTGO",
    "insiders": 2,
    "total_value": 172791.15
-  },
-  {
-   "ticker": "PAL",
-   "insiders": 2,
-   "total_value": 162420.0
   },
   {
    "ticker": "FBIO",
