@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-25 12:30 UTC",
+ "updated_utc": "2026-11-25 13:01 UTC",
  "purchases": [
-  {
-   "ticker": "HMH",
-   "company": "HMH Holding Inc",
-   "insider": "Bergsvik Eirik",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-18",
-   "shares": 8000.0,
-   "price": 11.01,
-   "value": 88080.0,
-   "acc": "0001628280-26-075039",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "TLSI",
    "company": "TriSalus Life Sciences, Inc.",
@@ -4766,6 +4754,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "SCOR",
+   "company": "COMSCORE, INC.",
+   "insider": "McLaughlin Matthew F.",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-24",
+   "shares": 25907.0,
+   "price": 3.43,
+   "value": 88861.01,
+   "acc": "0001853874-26-000020",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "SNEX",
    "company": "StoneX Group Inc.",
    "insider": "Thamodaran Dhamu R.",
@@ -4995,7 +4995,6 @@
   }
  ],
  "seen": [
-  "0002013319-26-000007",
   "0002013319-26-000008",
   "0002013319-26-000009",
   "0002013319-26-000010",
@@ -5294,6 +5293,7 @@
   "0002029196-26-000011",
   "0002029214-26-000011",
   "0002029288-26-000004",
+  "0002029299-26-000002",
   "0002029470-26-000014",
   "0002029666-26-000001",
   "0002029666-26-000002",
