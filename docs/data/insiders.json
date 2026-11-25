@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-25 19:20 UTC",
+ "updated_utc": "2026-11-25 19:36 UTC",
  "purchases": [
-  {
-   "ticker": "EFC",
-   "company": "Ellington Financial Inc.",
-   "insider": "Vranos Michael W",
-   "role": "Co-Chief Investment Officer",
-   "date": "2026-11-18",
-   "shares": 100000.0,
-   "price": 10.811,
-   "value": 1081100.0,
-   "acc": "0001628280-26-074987",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "BPRE",
-   "company": "Bluerock Private Real Estate Fund",
-   "insider": "KAMFAR RAMIN",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 94403.0,
-   "price": 12.0867,
-   "value": 1141020.74,
-   "acc": "0001398344-26-020292",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "FUN",
    "company": "Six Flags Entertainment Corporation/NEW",
@@ -4778,6 +4754,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "RVSB",
+   "company": "RIVERVIEW BANCORP INC",
+   "insider": "Girod Jon Louis",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 1500.0,
+   "price": 6.54,
+   "value": 9810.0,
+   "acc": "0002128637-26-000011",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "LODE",
    "company": "Comstock Inc.",
    "insider": "DEGASPERIS CORRADO",
@@ -4799,6 +4787,18 @@
    "price": 49.97,
    "value": 16240.25,
    "acc": "0001193125-26-477427",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "BHRB",
+   "company": "Burke & Herbert Financial Services Corp.",
+   "insider": "McLaughlin Shawn Patrick",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 500.0,
+   "price": 68.75,
+   "value": 34375.0,
+   "acc": "0001964493-26-000012",
    "filed": "2026-11-25"
   }
  ],
@@ -4995,8 +4995,6 @@
   }
  ],
  "seen": [
-  "0002014386-26-000006",
-  "0002014386-26-000008",
   "0002014386-26-000010",
   "0002014386-26-000012",
   "0002014386-26-000014",
@@ -6683,6 +6681,7 @@
   "0002078265-26-000501",
   "0002078265-26-000502",
   "0002078265-26-000503",
+  "0002078265-26-000699",
   "0002078285-26-000005",
   "0002078285-26-000007",
   "0002078285-26-000009",
@@ -7577,6 +7576,7 @@
   "0002128527-26-000004",
   "0002128593-26-000004",
   "0002128637-26-000007",
+  "0002128637-26-000011",
   "0002128745-26-000009",
   "0002128771-26-000004",
   "0002128786-26-000004",
