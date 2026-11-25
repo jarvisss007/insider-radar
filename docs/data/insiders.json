@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-25 16:41 UTC",
+ "updated_utc": "2026-11-25 16:57 UTC",
  "purchases": [
-  {
-   "ticker": "PLD",
-   "company": "Prologis, Inc.",
-   "insider": "KELLY ALFRED F JR",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 4700.0,
-   "price": 124.968,
-   "value": 587349.6,
-   "acc": "0001193125-26-468660",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "USAR",
-   "company": "USA Rare Earth, Inc.",
-   "insider": "BLITZER MICHAEL",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 100000.0,
-   "price": 6.6412,
-   "value": 664120.0,
-   "acc": "0001458423-26-000012",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Damian Miguel",
-   "role": "Vicepresident",
-   "date": "2026-11-18",
-   "shares": 12464.0,
-   "price": 62.11,
-   "value": 774139.04,
-   "acc": "0002028916-26-000017",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-18",
-   "shares": 5542.0,
-   "price": 141.9984,
-   "value": 786955.13,
-   "acc": "0001666120-26-000038",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -2342,6 +2294,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "SBLK",
+   "company": "Star Bulk Carriers Corp.",
+   "insider": "Capralos Spyridon",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 1000.0,
+   "price": 25.59,
+   "value": 25590.0,
+   "acc": "0001995565-26-000004",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "BWFG",
    "company": "Bankwell Financial Group, Inc.",
    "insider": "SEIDMAN LAWRENCE B",
@@ -3350,6 +3314,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "RVP",
+   "company": "RETRACTABLE TECHNOLOGIES INC",
+   "insider": "SHAW THOMAS J",
+   "role": "PRESIDENT AND CEO",
+   "date": "2026-11-23",
+   "shares": 2.0,
+   "price": 0.56,
+   "value": 1.12,
+   "acc": "0001174567-26-000002",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "AZTR",
    "company": "Azitra, Inc.",
    "insider": "Salva Francisco D.",
@@ -4274,6 +4250,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "RVP",
+   "company": "RETRACTABLE TECHNOLOGIES INC",
+   "insider": "SHAW THOMAS J",
+   "role": "PRESIDENT AND CEO",
+   "date": "2026-11-24",
+   "shares": 5.0,
+   "price": 0.57,
+   "value": 2.85,
+   "acc": "0001174567-26-000002",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4800,13 +4788,25 @@
    "value": 12200.0,
    "acc": "0001437749-26-038254",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "CBL",
+   "company": "CBL & ASSOCIATES PROPERTIES INC",
+   "insider": "CONTIS DAVID J",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 325.0,
+   "price": 49.97,
+   "value": 16240.25,
+   "acc": "0001193125-26-477427",
+   "filed": "2026-11-25"
   }
  ],
  "clusters": [
   {
    "ticker": "PAM",
    "insiders": 3,
-   "total_value": 11378350.92
+   "total_value": 10604211.88
   },
   {
    "ticker": "UPST",
@@ -4995,8 +4995,6 @@
   }
  ],
  "seen": [
-  "0002014361-26-000032",
-  "0002014361-26-000035",
   "0002014361-26-000040",
   "0002014361-26-000043",
   "0002014386-26-000006",
@@ -7302,6 +7300,8 @@
   "0002115436-26-000034",
   "0002115436-26-000036",
   "0002115436-26-000038",
+  "0002115436-26-000040",
+  "0002115436-26-000042",
   "0002115592-26-000004",
   "0002115826-26-000010",
   "0002115826-26-000012",
