@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-25 13:48 UTC",
+ "updated_utc": "2026-11-25 14:04 UTC",
  "purchases": [
-  {
-   "ticker": "RMIX",
-   "company": "Suncrete, Inc.",
-   "insider": "HEYER ANDREW R",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 15000.0,
-   "price": 7.52,
-   "value": 112800.0,
-   "acc": "0001193125-26-469031",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CRVO",
-   "company": "CervoMed Inc.",
-   "insider": "ALAM JOHN J",
-   "role": "CEO & President",
-   "date": "2026-11-18",
-   "shares": 76319.0,
-   "price": 1.53,
-   "value": 116768.07,
-   "acc": "0001437749-26-037784",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "ECC",
-   "company": "Eagle Point Credit Co",
-   "insider": "Majewski Thomas P.",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-18",
-   "shares": 50000.0,
-   "price": 2.36,
-   "value": 118000.0,
-   "acc": "0001104659-26-129827",
-   "filed": "2026-11-18"
-  },
   {
    "ticker": "MTDR",
    "company": "Matador Resources Co",
@@ -4238,6 +4202,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "BFS",
+   "company": "SAUL CENTERS, INC.",
+   "insider": "Pearson David Todd",
+   "role": "President & COO",
+   "date": "2026-11-23",
+   "shares": 3716.0,
+   "price": 26.835,
+   "value": 99718.86,
+   "acc": "0001804456-26-000004",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "ALG",
    "company": "ALAMO GROUP INC",
    "insider": "Bauer Robert P",
@@ -4548,6 +4524,30 @@
    "value": 6100.0,
    "acc": "0001213900-26-123787",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-24",
+   "shares": 9901.0,
+   "price": 0.6857,
+   "value": 6789.12,
+   "acc": "0001493152-26-054136",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "TGEN",
+   "company": "TECOGEN INC.",
+   "insider": "Hatsopoulos John",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 4294.0,
+   "price": 1.6866,
+   "value": 7242.26,
+   "acc": "0001274775-26-000009",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "VTIX",
@@ -4869,11 +4869,6 @@
    "total_value": 375000.0
   },
   {
-   "ticker": "RMIX",
-   "insiders": 2,
-   "total_value": 211550.0
-  },
-  {
    "ticker": "OXSQ",
    "insiders": 2,
    "total_value": 138793.33
@@ -4887,6 +4882,11 @@
    "ticker": "KMT",
    "insiders": 2,
    "total_value": 110140.0
+  },
+  {
+   "ticker": "RMIX",
+   "insiders": 2,
+   "total_value": 98750.0
   },
   {
    "ticker": "VTIX",
@@ -4929,14 +4929,14 @@
    "total_value": 46660.82
   },
   {
+   "ticker": "TGEN",
+   "insiders": 3,
+   "total_value": 42778.76
+  },
+  {
    "ticker": "LFT",
    "insiders": 2,
    "total_value": 37472.71
-  },
-  {
-   "ticker": "TGEN",
-   "insiders": 3,
-   "total_value": 35536.5
   },
   {
    "ticker": "LODE",
