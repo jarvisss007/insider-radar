@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-25 22:31 UTC",
+ "updated_utc": "2026-11-25 22:47 UTC",
  "purchases": [
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 2450.0,
-   "price": 12.0464,
-   "value": 29513.68,
-   "acc": "0001213900-26-122629",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "SBMT",
-   "company": "SILVER BOW MINING CORP.",
-   "insider": "Maglione Marcantonio",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 5300.0,
-   "price": 5.687,
-   "value": 30141.1,
-   "acc": "0000912282-26-001546",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "MRBK",
-   "company": "Meridian Corp",
-   "insider": "Annas Christopher J.",
-   "role": "Chairman & CEO",
-   "date": "2026-11-19",
-   "shares": 2000.0,
-   "price": 15.885,
-   "value": 31770.0,
-   "acc": "0001751789-26-000004",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "FBIO",
-   "company": "Fortress Biotech, Inc.",
-   "insider": "ROSENWALD LINDSAY A MD",
-   "role": "PRESIDENT, CEO & CHAIRMAN",
-   "date": "2026-11-19",
-   "shares": 17456.0,
-   "price": 1.8584,
-   "value": 32440.23,
-   "acc": "0000941841-26-000005",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CLIK",
-   "company": "Click Holdings Ltd.",
-   "insider": "Chan Chun Sing",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 45000.0,
-   "price": 0.7373,
-   "value": 33178.5,
-   "acc": "0001493152-26-053366",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "TROX",
-   "company": "Tronox Holdings plc",
-   "insider": "Jones Stephen J",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 25000.0,
-   "price": 1.5599,
-   "value": 38997.5,
-   "acc": "0001140361-26-044904",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "LEE",
-   "company": "LEE ENTERPRISES, Inc",
-   "insider": "Hoffmann David Henry",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 6067.0,
-   "price": 6.61,
-   "value": 40102.87,
-   "acc": "0001183010-26-000070",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "VTIX",
    "company": "Virtuix Holdings Inc.",
@@ -2918,6 +2834,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "NWTG",
+   "company": "Newton Golf Company, Inc.",
+   "insider": "Hemphill Gregg",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 0.8607,
+   "value": 8607.0,
+   "acc": "0002135300-26-000006",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "CBAN",
    "company": "COLONY BANKCORP INC",
    "insider": "Canup Edward G",
@@ -3180,6 +3108,18 @@
    "value": 28497.5,
    "acc": "0001090009-26-000110",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "HBCP",
+   "company": "HOME BANCORP, INC.",
+   "insider": "RADER CHRIS P",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 500.0,
+   "price": 61.25,
+   "value": 30625.0,
+   "acc": "0001436425-26-000080",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "NTES",
@@ -3866,6 +3806,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 200.0,
+   "price": 9.4,
+   "value": 1880.0,
+   "acc": "0001510281-26-000478",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "ICU",
    "company": "SeaStar Medical Holding Corp",
    "insider": "Schlorff Eric",
@@ -3972,6 +3924,18 @@
    "value": 4750.0,
    "acc": "0001546628-26-000006",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "NWTG",
+   "company": "Newton Golf Company, Inc.",
+   "insider": "Hemphill Gregg",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 7000.0,
+   "price": 0.78,
+   "value": 5460.0,
+   "acc": "0002135300-26-000006",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "JCTC",
@@ -4200,6 +4164,18 @@
    "value": 17554.0,
    "acc": "0001727207-26-000008",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "BATL",
+   "company": "BATTALION OIL CORP",
+   "insider": "Hinds Gregory S.",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 33655.0,
+   "price": 0.5523,
+   "value": 18587.66,
+   "acc": "0001545974-26-000003",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "HWBK",
@@ -4478,6 +4454,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "BG",
+   "company": "Bunge Global SA",
+   "insider": "Zenuk Mark N",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 91.9826,
+   "value": 229956.5,
+   "acc": "0001628280-26-076025",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "PRE",
    "company": "Prenetics Global Ltd",
    "insider": "Yeung Danny Sheng Wu",
@@ -4670,6 +4658,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "TGEN",
+   "company": "TECOGEN INC.",
+   "insider": "Hatsopoulos John",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 700.0,
+   "price": 1.7471,
+   "value": 1222.97,
+   "acc": "0001274775-26-000011",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "FUSB",
    "company": "FIRST US BANCSHARES, INC.",
    "insider": "Pierce Staci",
@@ -4814,6 +4814,11 @@
    "total_value": 1811053.0
   },
   {
+   "ticker": "BG",
+   "insiders": 2,
+   "total_value": 1391606.5
+  },
+  {
    "ticker": "HOS",
    "insiders": 2,
    "total_value": 1246655.2
@@ -4869,9 +4874,14 @@
    "total_value": 375000.0
   },
   {
+   "ticker": "HBCP",
+   "insiders": 2,
+   "total_value": 345638.35
+  },
+  {
    "ticker": "TROX",
-   "insiders": 4,
-   "total_value": 246708.24
+   "insiders": 3,
+   "total_value": 207710.74
   },
   {
    "ticker": "OXSQ",
@@ -4924,9 +4934,14 @@
    "total_value": 47112.5
   },
   {
+   "ticker": "NWTG",
+   "insiders": 2,
+   "total_value": 36567.0
+  },
+  {
    "ticker": "TGEN",
    "insiders": 2,
-   "total_value": 31618.76
+   "total_value": 32841.73
   },
   {
    "ticker": "LCNB",
@@ -4965,9 +4980,6 @@
   }
  ],
  "seen": [
-  "0002014596-26-000079",
-  "0002014596-26-000086",
-  "0002014632-26-000014",
   "0002014632-26-000016",
   "0002014632-26-000018",
   "0002014632-26-000020",
@@ -6837,6 +6849,7 @@
   "0002087127-26-000015",
   "0002087127-26-000017",
   "0002087141-26-000004",
+  "0002087198-26-000005",
   "0002087376-26-000012",
   "0002087387-26-000002",
   "0002087537-26-000004",
@@ -7615,6 +7628,7 @@
   "0002135290-26-000005",
   "0002135296-26-000009",
   "0002135300-26-000004",
+  "0002135300-26-000006",
   "0002135314-26-000012",
   "0002135314-26-000014",
   "0002135314-26-000016",
@@ -7964,7 +7978,8 @@
   "0002164267-26-000010",
   "0002164576-26-000005",
   "0002165242-26-000003",
-  "0002165834-26-000004"
+  "0002165834-26-000004",
+  "0002166516-26-000004"
  ],
  "note": "Open-market purchases (Form 4 code P) only. Educational; not advice."
 }
