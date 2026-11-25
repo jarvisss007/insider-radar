@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-25 01:32 UTC",
+ "updated_utc": "2026-11-25 01:48 UTC",
  "purchases": [
-  {
-   "ticker": "FBIO",
-   "company": "Fortress Biotech, Inc.",
-   "insider": "Jin David",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-18",
-   "shares": 25000.0,
-   "price": 1.9119,
-   "value": 47797.5,
-   "acc": "0001930732-26-000009",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "XTIA",
-   "company": "XTI Aerospace, Inc.",
-   "insider": "Evans Allan Thomas",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 56539.0,
-   "price": 0.8697,
-   "value": 49171.97,
-   "acc": "0001213900-26-121959",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "CRESY",
-   "company": "CRESUD INC",
-   "insider": "Elsztain Alejandro Gustavo",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 5830.0,
-   "price": 8.56,
-   "value": 49904.8,
-   "acc": "0002119764-26-000037",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "LAC",
-   "company": "LITHIUM AMERICAS CORP.",
-   "insider": "CROWLEY TIMOTHY AMBROSE",
-   "role": "SVP, Gov & External Affairs",
-   "date": "2026-11-18",
-   "shares": 34722.0,
-   "price": 1.44,
-   "value": 49999.68,
-   "acc": "0000912282-26-001535",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "LAC",
-   "company": "LITHIUM AMERICAS CORP.",
-   "insider": "CROWLEY TIMOTHY AMBROSE",
-   "role": "SVP, Gov & External Affairs",
-   "date": "2026-11-18",
-   "shares": 33334.0,
-   "price": 1.5,
-   "value": 50001.0,
-   "acc": "0000912282-26-001535",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "DX",
    "company": "DYNEX CAPITAL INC",
@@ -2126,6 +2066,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "SAFTX",
+   "company": "Sound Point Alternative Income Fund",
+   "insider": "ASSURED GUARANTY LTD",
+   "role": "10% owner",
+   "date": "2026-11-19",
+   "shares": 245098.039,
+   "price": 20.4,
+   "value": 5000000.0,
+   "acc": "0001628280-26-075849",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
    "company": "Fundrise Real Estate Interval Fund, LLC",
    "insider": "Monte Mark David",
@@ -3890,6 +3842,42 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc.",
+   "insider": "THIEL PETER",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 213437.0,
+   "price": 142.9122,
+   "value": 30502751.23,
+   "acc": "0001211060-26-000012",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc.",
+   "insider": "THIEL PETER",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 295240.0,
+   "price": 144.6068,
+   "value": 42693711.63,
+   "acc": "0001211060-26-000012",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "PLTR",
+   "company": "Palantir Technologies Inc.",
+   "insider": "THIEL PETER",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 341423.0,
+   "price": 143.6841,
+   "value": 49057056.47,
+   "acc": "0001211060-26-000012",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "AZTR",
    "company": "Azitra, Inc.",
    "insider": "Salva Francisco D.",
@@ -4718,6 +4706,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "VTIX",
+   "company": "Virtuix Holdings Inc.",
+   "insider": "McGinnis Thomas Lynn",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-24",
+   "shares": 20000.0,
+   "price": 0.3689,
+   "value": 7378.0,
+   "acc": "0001213900-26-123849",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "LCNB",
    "company": "LCNB CORP",
    "insider": "Meilstrup Eric J",
@@ -4874,11 +4874,6 @@
    "total_value": 322722.5
   },
   {
-   "ticker": "FBIO",
-   "insiders": 2,
-   "total_value": 198691.57
-  },
-  {
    "ticker": "CTGO",
    "insiders": 2,
    "total_value": 172791.15
@@ -4887,6 +4882,11 @@
    "ticker": "PAL",
    "insiders": 2,
    "total_value": 162420.0
+  },
+  {
+   "ticker": "FBIO",
+   "insiders": 2,
+   "total_value": 150894.07
   },
   {
    "ticker": "OXSQ",
@@ -4904,14 +4904,14 @@
    "total_value": 110140.0
   },
   {
+   "ticker": "VTIX",
+   "insiders": 2,
+   "total_value": 97988.0
+  },
+  {
    "ticker": "NXG",
    "insiders": 2,
    "total_value": 92084.18
-  },
-  {
-   "ticker": "VTIX",
-   "insiders": 2,
-   "total_value": 90610.0
   },
   {
    "ticker": "TROX",
