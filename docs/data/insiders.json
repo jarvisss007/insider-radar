@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-25 15:54 UTC",
+ "updated_utc": "2026-11-25 16:10 UTC",
  "purchases": [
-  {
-   "ticker": "PICS",
-   "company": "PicS N.V.",
-   "insider": "Teixeira Linares Marcio Antonio",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 60000.0,
-   "price": 4.99,
-   "value": 299400.0,
-   "acc": "0001213900-26-122444",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "BSM",
-   "company": "Black Stone Minerals, L.P.",
-   "insider": "Carter Thomas L Jr",
-   "role": "Executive Chairman",
-   "date": "2026-11-18",
-   "shares": 23233.0,
-   "price": 13.5087,
-   "value": 313847.63,
-   "acc": "0001319960-26-000016",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "MXF",
    "company": "MEXICO FUND INC",
@@ -4322,6 +4298,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "GOLD",
+   "company": "Gold.com, Inc.",
+   "insider": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 150000.0,
+   "price": 38.3057,
+   "value": 5745855.0,
+   "acc": "0001104659-26-131976",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "CTTH",
    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
    "insider": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -4800,6 +4788,18 @@
    "value": 3937300.0,
    "acc": "0001628280-26-075874",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "LODE",
+   "company": "Comstock Inc.",
+   "insider": "DEGASPERIS CORRADO",
+   "role": "CEO",
+   "date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 1.22,
+   "value": 12200.0,
+   "acc": "0001437749-26-038254",
+   "filed": "2026-11-25"
   }
  ],
  "clusters": [
@@ -4869,11 +4869,6 @@
    "total_value": 375000.0
   },
   {
-   "ticker": "PICS",
-   "insiders": 2,
-   "total_value": 324160.38
-  },
-  {
    "ticker": "TROX",
    "insiders": 4,
    "total_value": 246708.24
@@ -4934,6 +4929,11 @@
    "total_value": 55665.2
   },
   {
+   "ticker": "LODE",
+   "insiders": 2,
+   "total_value": 47112.5
+  },
+  {
    "ticker": "FBIO",
    "insiders": 2,
    "total_value": 46660.82
@@ -4947,11 +4947,6 @@
    "ticker": "LFT",
    "insiders": 2,
    "total_value": 37472.71
-  },
-  {
-   "ticker": "LODE",
-   "insiders": 2,
-   "total_value": 34912.5
   },
   {
    "ticker": "ACON",
