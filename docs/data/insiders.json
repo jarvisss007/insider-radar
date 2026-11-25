@@ -1,138 +1,6 @@
 {
- "updated_utc": "2026-11-25 20:39 UTC",
+ "updated_utc": "2026-11-25 21:11 UTC",
  "purchases": [
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 66.0,
-   "price": 1.52,
-   "value": 100.32,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "AMRZ",
-   "company": "Amrize Ltd",
-   "insider": "Gibson Dwight Audley Konrad",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 6.109,
-   "price": 40.036,
-   "value": 244.58,
-   "acc": "0002035989-26-000092",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 322.0,
-   "price": 1.48,
-   "value": 476.56,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 333.0,
-   "price": 1.53,
-   "value": 509.49,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "JCTC",
-   "company": "JEWETT CAMERON TRADING CO LTD",
-   "insider": "AJB Investment Fund II, LP",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 500.0,
-   "price": 2.775,
-   "value": 1387.5,
-   "acc": "0001536588-26-000049",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Hatsopoulos John",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 1000.0,
-   "price": 1.685,
-   "value": 1685.0,
-   "acc": "0001274775-26-000005",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 3150.0,
-   "price": 0.79,
-   "value": 2488.5,
-   "acc": "0001841761-26-000127",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "TGEN",
-   "company": "TECOGEN INC.",
-   "insider": "Rangesh Abinand",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 1500.0,
-   "price": 1.75,
-   "value": 2625.0,
-   "acc": "0001917503-26-000004",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "GRF",
-   "company": "EAGLE CAPITAL GROWTH FUND, INC.",
-   "insider": "SIMS LUKE E",
-   "role": "President and CEO",
-   "date": "2026-11-19",
-   "shares": 301.0,
-   "price": 10.2068,
-   "value": 3072.25,
-   "acc": "0001038238-26-000002",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 3900.0,
-   "price": 0.7962,
-   "value": 3105.18,
-   "acc": "0001493152-26-053373",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "ADAG",
-   "company": "Adagene Inc.",
-   "insider": "Luo Peter",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 1850.0,
-   "price": 1.7432,
-   "value": 3224.92,
-   "acc": "0001104659-26-130862",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
@@ -1164,6 +1032,18 @@
    "value": 267800.0,
    "acc": "0001213900-26-122442",
    "filed": "2026-11-20"
+  },
+  {
+   "ticker": "EMPD",
+   "company": "Empery Digital Inc.",
+   "insider": "READ IAN C",
+   "role": "Director",
+   "date": "2026-11-19",
+   "shares": 123000.0,
+   "price": 2.29,
+   "value": 281670.0,
+   "acc": "0001683168-26-009142",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "JYNT",
@@ -3494,6 +3374,30 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "DRIO",
+   "company": "DarioHealth Corp.",
+   "insider": "Raphael Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-23",
+   "shares": 5000.0,
+   "price": 1.37,
+   "value": 6850.0,
+   "acc": "0001104659-26-132064",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "DRIO",
+   "company": "DarioHealth Corp.",
+   "insider": "Raphael Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-23",
+   "shares": 5000.0,
+   "price": 1.38,
+   "value": 6900.0,
+   "acc": "0001104659-26-132064",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "MED",
    "company": "MEDIFAST INC",
    "insider": "Kiai Parsa",
@@ -3516,6 +3420,18 @@
    "value": 7663.0,
    "acc": "0001841761-26-000129",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "SAMG",
+   "company": "Silvercrest Asset Management Group Inc.",
+   "insider": "Equinox Partners Investment Management LLC",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 844.0,
+   "price": 9.97,
+   "value": 8414.68,
+   "acc": "0001013594-26-001226",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "CBAN",
@@ -3626,6 +3542,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "DRIO",
+   "company": "DarioHealth Corp.",
+   "insider": "Raphael Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 1.55,
+   "value": 15500.0,
+   "acc": "0001104659-26-132064",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "BRNX",
    "company": "BRENX LTD.",
    "insider": "Brenmiller Nir",
@@ -3636,6 +3564,18 @@
    "value": 16000.0,
    "acc": "0001213900-26-123068",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "OPAL",
+   "company": "OPAL Fuels Inc.",
+   "insider": "Nisar Nadeem",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 15000.0,
+   "price": 1.17,
+   "value": 17550.0,
+   "acc": "0001628280-26-075960",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "WKHS",
@@ -4274,6 +4214,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "DRIO",
+   "company": "DarioHealth Corp.",
+   "insider": "Raphael Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-24",
+   "shares": 2000.0,
+   "price": 1.52,
+   "value": 3040.0,
+   "acc": "0001104659-26-132064",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "BUR",
    "company": "Burford Capital Ltd",
    "insider": "Dames Rukia Baruti",
@@ -4344,6 +4296,18 @@
    "value": 6100.0,
    "acc": "0001213900-26-123787",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "DRIO",
+   "company": "DarioHealth Corp.",
+   "insider": "Raphael Erez",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-24",
+   "shares": 4000.0,
+   "price": 1.53,
+   "value": 6120.0,
+   "acc": "0001104659-26-132064",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "UXIN",
@@ -4428,6 +4392,18 @@
    "value": 9999.99,
    "acc": "0001437749-26-038192",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "OPAL",
+   "company": "OPAL Fuels Inc.",
+   "insider": "Nisar Nadeem",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 15000.0,
+   "price": 0.94,
+   "value": 14100.0,
+   "acc": "0001628280-26-075960",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "MSC",
@@ -4562,6 +4538,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "NOVT",
+   "company": "NOVANTA INC",
+   "insider": "Wilson Frank Anders",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 500.0,
+   "price": 104.4,
+   "value": 52200.0,
+   "acc": "0001076930-26-000090",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "LEE",
    "company": "LEE ENTERPRISES, Inc",
    "insider": "Hoffmann David Henry",
@@ -4631,6 +4619,18 @@
    "price": 3.9378,
    "value": 98445.0,
    "acc": "0001193125-26-476906",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "GLP",
+   "company": "GLOBAL PARTNERS LP",
+   "insider": "Global GP LLC",
+   "role": "",
+   "date": "2026-11-24",
+   "shares": 2455.0,
+   "price": 41.08,
+   "value": 100851.4,
+   "acc": "0001339396-26-000094",
    "filed": "2026-11-25"
   },
   {
@@ -4940,8 +4940,8 @@
   },
   {
    "ticker": "TGEN",
-   "insiders": 3,
-   "total_value": 42778.76
+   "insiders": 2,
+   "total_value": 38468.76
   },
   {
    "ticker": "LFT",
