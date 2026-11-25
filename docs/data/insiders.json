@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-25 02:03 UTC",
+ "updated_utc": "2026-11-25 02:35 UTC",
  "purchases": [
-  {
-   "ticker": "DX",
-   "company": "DYNEX CAPITAL INC",
-   "insider": "BOSTON BYRON L",
-   "role": "Co-CEO & Chairman of the Board",
-   "date": "2026-11-18",
-   "shares": 5187.0,
-   "price": 9.64,
-   "value": 50002.68,
-   "acc": "0001283563-26-000006",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "AIRJ",
-   "company": "AirJoule Technologies Corp.",
-   "insider": "Murphy Thomas Edward",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 28400.0,
-   "price": 1.767,
-   "value": 50182.8,
-   "acc": "0001193125-26-468951",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CRMD",
-   "company": "CorMedix Inc.",
-   "insider": "Lefkowitz Steven W",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 11500.0,
-   "price": 4.53,
-   "value": 52095.0,
-   "acc": "0001213900-26-122587",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 22231.0,
-   "price": 2.4,
-   "value": 53354.4,
-   "acc": "0001178579-26-000026",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "XBP",
-   "company": "XBP Global Holdings, Inc.",
-   "insider": "Klein Randal T",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 20000.0,
-   "price": 2.863,
-   "value": 57260.0,
-   "acc": "0001104659-26-129796",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TMS",
-   "company": "Teamshares Inc",
-   "insider": "Eu Alexander Zai De",
-   "role": "President",
-   "date": "2026-11-18",
-   "shares": 15000.0,
-   "price": 3.83,
-   "value": 57450.0,
-   "acc": "0001628280-26-075322",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "CRT",
-   "company": "CROSS TIMBERS ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 5108.0,
-   "price": 13.08,
-   "value": 66812.64,
-   "acc": "0001104659-26-130692",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "HFRO",
    "company": "HIGHLAND OPPORTUNITIES & INCOME FUND",
@@ -2162,6 +2078,18 @@
    "filed": "2026-11-20"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-20",
+   "shares": 500.0,
+   "price": 2.85,
+   "value": 1425.0,
+   "acc": "0001536588-26-000050",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "BKYI",
    "company": "BIO KEY INTERNATIONAL INC",
    "insider": "DEPASQUALE MICHAEL W",
@@ -3122,6 +3050,18 @@
    "filed": "2026-11-23"
   },
   {
+   "ticker": "LEE",
+   "company": "LEE ENTERPRISES, Inc",
+   "insider": "Hoffmann David Henry",
+   "role": "Director",
+   "date": "2026-11-20",
+   "shares": 6067.0,
+   "price": 6.61,
+   "value": 40102.87,
+   "acc": "0001183010-26-000071",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "EVAX",
    "company": "Evaxion A/S",
    "insider": "Soegaard Marianne",
@@ -3938,6 +3878,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-23",
+   "shares": 507.0,
+   "price": 2.6998,
+   "value": 1368.8,
+   "acc": "0001536588-26-000050",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "CSBA",
    "company": "CSB Financial Inc.",
    "insider": "Dyer Richard E",
@@ -4394,6 +4346,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "LEE",
+   "company": "LEE ENTERPRISES, Inc",
+   "insider": "Hoffmann David Henry",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 8741.0,
+   "price": 6.2,
+   "value": 54194.2,
+   "acc": "0001183010-26-000071",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "WBHC",
    "company": "WILSON BANK HOLDING CO",
    "insider": "BELL JACK W",
@@ -4694,6 +4658,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 2000.0,
+   "price": 2.8,
+   "value": 5600.0,
+   "acc": "0001536588-26-000050",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "SSII",
    "company": "SS Innovations International, Inc.",
    "insider": "Adams Timothy P.",
@@ -4742,6 +4718,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "JCTC",
+   "company": "JEWETT CAMERON TRADING CO LTD",
+   "insider": "AJB Investment Fund II, LP",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 3000.0,
+   "price": 2.8,
+   "value": 8400.0,
+   "acc": "0001536588-26-000050",
+   "filed": "2026-11-24"
+  },
+  {
    "ticker": "LPTH",
    "company": "LIGHTPATH TECHNOLOGIES INC",
    "insider": "Miranda Albert",
@@ -4775,6 +4763,18 @@
    "price": 3.35,
    "value": 17554.0,
    "acc": "0001727207-26-000008",
+   "filed": "2026-11-24"
+  },
+  {
+   "ticker": "LEE",
+   "company": "LEE ENTERPRISES, Inc",
+   "insider": "Hoffmann David Henry",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 8741.0,
+   "price": 6.33,
+   "value": 55330.53,
+   "acc": "0001183010-26-000071",
    "filed": "2026-11-24"
   },
   {
@@ -4826,7 +4826,7 @@
   {
    "ticker": "TMS",
    "insiders": 2,
-   "total_value": 762030.0
+   "total_value": 704580.0
   },
   {
    "ticker": "SEI",
@@ -4927,11 +4927,6 @@
    "ticker": "ARR",
    "insiders": 2,
    "total_value": 79495.75
-  },
-  {
-   "ticker": "CRMD",
-   "insiders": 2,
-   "total_value": 74995.0
   },
   {
    "ticker": "EVAX",
