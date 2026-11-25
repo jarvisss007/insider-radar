@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-25 16:25 UTC",
+ "updated_utc": "2026-11-25 16:41 UTC",
  "purchases": [
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-18",
-   "shares": 3038.0,
-   "price": 140.9597,
-   "value": 428235.57,
-   "acc": "0001666120-26-000038",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "LEO",
-   "company": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 75318.0,
-   "price": 5.72,
-   "value": 430818.96,
-   "acc": "0001510281-26-000459",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "ITT",
-   "company": "ITT INC.",
-   "insider": "Berryman Kevin C",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 2390.0,
-   "price": 209.858,
-   "value": 501560.62,
-   "acc": "0001193125-26-468584",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "PLD",
    "company": "Prologis, Inc.",
@@ -4658,6 +4622,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "NRGV",
+   "company": "Energy Vault Holdings, Inc.",
+   "insider": "Piconi Robert",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-24",
+   "shares": 25000.0,
+   "price": 2.43,
+   "value": 60750.0,
+   "acc": "0001898769-26-000011",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "SCOR",
    "company": "COMSCORE, INC.",
    "insider": "McLaughlin Matthew F.",
@@ -4742,6 +4718,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "WMB",
+   "company": "WILLIAMS COMPANIES, INC.",
+   "insider": "Turner Robb E",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 5000.0,
+   "price": 64.95,
+   "value": 324750.0,
+   "acc": "0001405444-26-000010",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "SNDA",
    "company": "SONIDA SENIOR LIVING, INC.",
    "insider": "Simanovsky Michael",
@@ -4752,6 +4740,18 @@
    "value": 496050.0,
    "acc": "0000895345-26-000505",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "WMB",
+   "company": "WILLIAMS COMPANIES, INC.",
+   "insider": "Turner Robb E",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 10000.0,
+   "price": 65.39,
+   "value": 653900.0,
+   "acc": "0001405444-26-000010",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "TMC",
@@ -4814,6 +4814,11 @@
    "total_value": 1811053.0
   },
   {
+   "ticker": "WMB",
+   "insiders": 2,
+   "total_value": 1629990.56
+  },
+  {
    "ticker": "HOS",
    "insiders": 2,
    "total_value": 1246655.2
@@ -4837,11 +4842,6 @@
    "ticker": "SEI",
    "insiders": 4,
    "total_value": 671911.25
-  },
-  {
-   "ticker": "WMB",
-   "insiders": 2,
-   "total_value": 651340.56
   },
   {
    "ticker": "GNL",
@@ -4995,11 +4995,6 @@
   }
  ],
  "seen": [
-  "0002014275-26-000016",
-  "0002014275-26-000018",
-  "0002014293-26-000012",
-  "0002014293-26-000014",
-  "0002014328-26-000010",
   "0002014361-26-000032",
   "0002014361-26-000035",
   "0002014361-26-000040",
@@ -7302,6 +7297,11 @@
   "0002115436-26-000024",
   "0002115436-26-000026",
   "0002115436-26-000028",
+  "0002115436-26-000030",
+  "0002115436-26-000032",
+  "0002115436-26-000034",
+  "0002115436-26-000036",
+  "0002115436-26-000038",
   "0002115592-26-000004",
   "0002115826-26-000010",
   "0002115826-26-000012",
