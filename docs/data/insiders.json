@@ -1,126 +1,6 @@
 {
- "updated_utc": "2026-11-25 14:04 UTC",
+ "updated_utc": "2026-11-25 14:19 UTC",
  "purchases": [
-  {
-   "ticker": "MTDR",
-   "company": "Matador Resources Co",
-   "insider": "Foran Joseph Wm",
-   "role": "Chairman and CEO",
-   "date": "2026-11-18",
-   "shares": 2500.0,
-   "price": 49.22,
-   "value": 123050.0,
-   "acc": "0001540655-26-000034",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "DGICA",
-   "company": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "date": "2026-11-18",
-   "shares": 6552.0,
-   "price": 18.8942,
-   "value": 123794.8,
-   "acc": "0000935596-26-000032",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "AFCG",
-   "company": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 37491.0,
-   "price": 3.49,
-   "value": 130843.59,
-   "acc": "0001628280-26-075135",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "ECX",
-   "company": "ECARX Holdings Inc.",
-   "insider": "Shen Ziyu",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-18",
-   "shares": 216110.0,
-   "price": 0.7445,
-   "value": 160893.9,
-   "acc": "0001104659-26-130358",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "DDD",
-   "company": "3D SYSTEMS CORP",
-   "insider": "ERICKSON THOMAS W",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 120000.0,
-   "price": 1.36,
-   "value": 163200.0,
-   "acc": "0001628280-26-075295",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "NTB",
-   "company": "Bank of N.T. Butterfield & Son Ltd",
-   "insider": "Lynch Mark T",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 3000.0,
-   "price": 54.95,
-   "value": 164850.0,
-   "acc": "0001653242-26-000144",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "CCB",
-   "company": "COASTAL FINANCIAL CORP",
-   "insider": "HOVDE STEVEN D",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 5000.0,
-   "price": 37.5,
-   "value": 187500.0,
-   "acc": "0001019966-26-000006",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "OBK",
-   "company": "Origin Bancorp, Inc.",
-   "insider": "Jones Cecil W.",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 3800.0,
-   "price": 52.55,
-   "value": 199690.0,
-   "acc": "0002040255-26-000008",
-   "filed": "2026-11-18"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-18",
-   "shares": 1620.0,
-   "price": 142.8519,
-   "value": 231420.08,
-   "acc": "0001666120-26-000038",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "PICS",
-   "company": "PicS N.V.",
-   "insider": "Pruett William Rodney",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 50000.0,
-   "price": 4.65,
-   "value": 232500.0,
-   "acc": "0001213900-26-122460",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
@@ -3074,6 +2954,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Yeung Danny Sheng Wu",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 15000.0,
+   "price": 9.88,
+   "value": 148200.0,
+   "acc": "0001628280-26-075886",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "GNL",
    "company": "Global Net Lease, Inc.",
    "insider": "Richardson Leon",
@@ -3132,6 +3024,18 @@
    "value": 187500.0,
    "acc": "0001628280-26-075441",
    "filed": "2026-11-23"
+  },
+  {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Yeung Danny Sheng Wu",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-20",
+   "shares": 20000.0,
+   "price": 9.62,
+   "value": 192400.0,
+   "acc": "0001628280-26-075886",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "TJX",
@@ -3950,6 +3854,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "TROX",
+   "company": "Tronox Holdings plc",
+   "insider": "Engle Jeffrey A.",
+   "role": "SVP, Chief Commercial Officer",
+   "date": "2026-11-23",
+   "shares": 12500.0,
+   "price": 1.5899,
+   "value": 19873.75,
+   "acc": "0001140361-26-045601",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "SPRO",
    "company": "Spero Therapeutics, Inc.",
    "insider": "THOMAS FRANK E",
@@ -4190,6 +4106,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Lo Hoi Chun",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-23",
+   "shares": 9200.0,
+   "price": 9.6,
+   "value": 88320.0,
+   "acc": "0001628280-26-075888",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "BULL",
    "company": "Webull Corp",
    "insider": "Wang Haichen",
@@ -4236,6 +4164,18 @@
    "value": 135356.66,
    "acc": "0001510281-26-000474",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Yeung Danny Sheng Wu",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-23",
+   "shares": 15000.0,
+   "price": 9.5,
+   "value": 142500.0,
+   "acc": "0001628280-26-075886",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "MKL",
@@ -4404,6 +4344,18 @@
    "value": 375.75,
    "acc": "0001035422-26-000021",
    "filed": "2026-11-24"
+  },
+  {
+   "ticker": "GAIA",
+   "company": "GAIA, INC",
+   "insider": "Sutherland Paul Howard",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 400.0,
+   "price": 1.24,
+   "value": 496.0,
+   "acc": "0001193125-26-476943",
+   "filed": "2026-11-25"
   },
   {
    "ticker": "PPTINC",
@@ -4670,6 +4622,30 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "UMH",
+   "company": "UMH PROPERTIES, INC.",
+   "insider": "QUIGLEY KENNETH K JR",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 14.28,
+   "value": 35700.0,
+   "acc": "0000752642-26-000141",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Lo Hoi Chun",
+   "role": "Chief Financial Officer",
+   "date": "2026-11-24",
+   "shares": 3235.0,
+   "price": 12.0,
+   "value": 38820.0,
+   "acc": "0001628280-26-075888",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
    "insider": "LEE CHAE",
@@ -4742,6 +4718,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "TROX",
+   "company": "Tronox Holdings plc",
+   "insider": "Romano John D",
+   "role": "CEO and Director",
+   "date": "2026-11-24",
+   "shares": 75000.0,
+   "price": 1.8576,
+   "value": 139320.0,
+   "acc": "0001140361-26-045598",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "VANI",
    "company": "Vivani Medical, Inc.",
    "insider": "Williams Gregg",
@@ -4751,6 +4739,18 @@
    "price": 1.288,
    "value": 160079.08,
    "acc": "0001753926-26-002250",
+   "filed": "2026-11-25"
+  },
+  {
+   "ticker": "PRE",
+   "company": "Prenetics Global Ltd",
+   "insider": "Yeung Danny Sheng Wu",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-24",
+   "shares": 25000.0,
+   "price": 10.0,
+   "value": 250000.0,
+   "acc": "0001628280-26-075886",
    "filed": "2026-11-25"
   },
   {
@@ -4819,6 +4819,11 @@
    "total_value": 1246655.2
   },
   {
+   "ticker": "PRE",
+   "insiders": 2,
+   "total_value": 860240.0
+  },
+  {
    "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
    "insiders": 2,
    "total_value": 833131.51
@@ -4844,11 +4849,6 @@
    "total_value": 636281.17
   },
   {
-   "ticker": "PICS",
-   "insiders": 3,
-   "total_value": 556660.38
-  },
-  {
    "ticker": "CTSO",
    "insiders": 7,
    "total_value": 499983.96
@@ -4867,6 +4867,16 @@
    "ticker": "CWGL",
    "insiders": 2,
    "total_value": 375000.0
+  },
+  {
+   "ticker": "PICS",
+   "insiders": 2,
+   "total_value": 324160.38
+  },
+  {
+   "ticker": "TROX",
+   "insiders": 4,
+   "total_value": 246708.24
   },
   {
    "ticker": "OXSQ",
@@ -4899,11 +4909,6 @@
    "total_value": 92084.18
   },
   {
-   "ticker": "TROX",
-   "insiders": 2,
-   "total_value": 87514.49
-  },
-  {
    "ticker": "CWBC",
    "insiders": 2,
    "total_value": 81963.0
@@ -4922,6 +4927,11 @@
    "ticker": "AEON",
    "insiders": 3,
    "total_value": 57053.55
+  },
+  {
+   "ticker": "UMH",
+   "insiders": 2,
+   "total_value": 55665.2
   },
   {
    "ticker": "FBIO",
@@ -4990,7 +5000,6 @@
   }
  ],
  "seen": [
-  "0002013319-26-000009",
   "0002013319-26-000010",
   "0002013346-26-000004",
   "0002013412-26-000003",
@@ -6867,6 +6876,7 @@
   "0002086420-26-000005",
   "0002086718-26-000008",
   "0002086785-26-000003",
+  "0002086800-26-000012",
   "0002087126-26-000006",
   "0002087126-26-000009",
   "0002087126-26-000011",
