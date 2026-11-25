@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-25 13:01 UTC",
+ "updated_utc": "2026-11-25 13:17 UTC",
  "purchases": [
-  {
-   "ticker": "TLSI",
-   "company": "TriSalus Life Sciences, Inc.",
-   "insider": "Szela Mary T",
-   "role": "CEO and President",
-   "date": "2026-11-18",
-   "shares": 34328.0,
-   "price": 2.59,
-   "value": 88909.52,
-   "acc": "0001628280-26-075100",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "CTGO",
-   "company": "Contango Silver & Gold Inc.",
-   "insider": "JUNEAU JOHN B",
-   "role": "Director",
-   "date": "2026-11-18",
-   "shares": 9705.0,
-   "price": 10.03,
-   "value": 97341.15,
-   "acc": "0001193125-26-469338",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "CRC",
    "company": "California Resources Corp",
@@ -4130,6 +4106,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "DX",
+   "company": "DYNEX CAPITAL INC",
+   "insider": "Popenoe Smriti Laxman",
+   "role": "Co-CEO and President",
+   "date": "2026-11-23",
+   "shares": 2567.0,
+   "price": 9.74,
+   "value": 25002.58,
+   "acc": "0000826675-26-000134",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "GRNT",
    "company": "Granite Ridge Resources, Inc.",
    "insider": "Kettler Ronald Kyle",
@@ -4718,6 +4706,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "DX",
+   "company": "DYNEX CAPITAL INC",
+   "insider": "Popenoe Smriti Laxman",
+   "role": "Co-CEO and President",
+   "date": "2026-11-24",
+   "shares": 2600.0,
+   "price": 9.74,
+   "value": 25324.0,
+   "acc": "0000826675-26-000134",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "MX",
    "company": "MAGNACHIP SEMICONDUCTOR Corp",
    "insider": "LEE CHAE",
@@ -4872,11 +4872,6 @@
    "ticker": "RMIX",
    "insiders": 3,
    "total_value": 322722.5
-  },
-  {
-   "ticker": "CTGO",
-   "insiders": 2,
-   "total_value": 172791.15
   },
   {
    "ticker": "FBIO",
