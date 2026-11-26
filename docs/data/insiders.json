@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-26 00:37 UTC",
+ "updated_utc": "2026-11-26 00:52 UTC",
  "purchases": [
-  {
-   "ticker": "BOLD",
-   "company": "Boundless Bio, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 41461.0,
-   "price": 2.37,
-   "value": 98262.57,
-   "acc": "0001178579-26-000026",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-19",
-   "shares": 781.0,
-   "price": 134.2957,
-   "value": 104884.94,
-   "acc": "0001666120-26-000039",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "BFH",
    "company": "BREAD FINANCIAL HOLDINGS, INC.",
@@ -3002,6 +2978,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "SNFI",
+   "company": "Stark Novus Financial Inc.",
+   "insider": "ZYNGIER ALEXANDRE",
+   "role": "Director",
+   "date": "2026-11-23",
+   "shares": 31241.0,
+   "price": 1.27,
+   "value": 39676.07,
+   "acc": "0001493152-26-054317",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "BBCI",
    "company": "Bradbury Capital Inc.",
    "insider": "LOO SEE YUEN",
@@ -4574,6 +4562,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "VTIX",
+   "company": "Virtuix Holdings Inc.",
+   "insider": "Goetgeluk Jan Roger",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-25",
+   "shares": 20000.0,
+   "price": 0.4099,
+   "value": 8198.0,
+   "acc": "0001213900-26-124256",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
    "insider": "Girod Jon Louis",
@@ -4924,14 +4924,14 @@
    "total_value": 32841.73
   },
   {
+   "ticker": "VTIX",
+   "insiders": 2,
+   "total_value": 25316.0
+  },
+  {
    "ticker": "LCNB",
    "insiders": 2,
    "total_value": 17292.42
-  },
-  {
-   "ticker": "VTIX",
-   "insiders": 2,
-   "total_value": 17118.0
   },
   {
    "ticker": "WVVI",
