@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-26 00:05 UTC",
+ "updated_utc": "2026-11-26 00:21 UTC",
  "purchases": [
-  {
-   "ticker": "GNL",
-   "company": "Global Net Lease, Inc.",
-   "insider": "Galloway Jesse Charles",
-   "role": "See Remarks",
-   "date": "2026-11-19",
-   "shares": 16000.0,
-   "price": 6.0099,
-   "value": 96158.4,
-   "acc": "0001104659-26-130790",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "BOLD",
    "company": "Boundless Bio, Inc.",
@@ -4538,6 +4526,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "DXYZ",
+   "company": "Destiny Tech100 Inc.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 208774.0,
+   "price": 24.25,
+   "value": 5062769.5,
+   "acc": "0001510281-26-000482",
+   "filed": "2026-11-25"
+  },
+  {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
    "insider": "Hatsopoulos John",
@@ -4849,11 +4849,6 @@
    "total_value": 661697.75
   },
   {
-   "ticker": "GNL",
-   "insiders": 5,
-   "total_value": 537217.81
-  },
-  {
    "ticker": "CTSO",
    "insiders": 7,
    "total_value": 499983.96
@@ -4867,6 +4862,11 @@
    "ticker": "PED",
    "insiders": 2,
    "total_value": 465080.0
+  },
+  {
+   "ticker": "GNL",
+   "insiders": 4,
+   "total_value": 441059.41
   },
   {
    "ticker": "CWGL",
