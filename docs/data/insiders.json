@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-27 15:48 UTC",
+ "updated_utc": "2026-11-27 16:36 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Damian Miguel",
-   "role": "Vicepresident",
-   "date": "2026-11-19",
-   "shares": 20000.0,
-   "price": 62.4,
-   "value": 1248000.0,
-   "acc": "0002028916-26-000017",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -4610,6 +4598,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "THFF",
+   "company": "FIRST FINANCIAL CORP /IN/",
+   "insider": "Brighton William Curtis",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 500.0,
+   "price": 73.2392,
+   "value": 36619.6,
+   "acc": "0001300058-26-000002",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "HL",
    "company": "HECLA MINING CO/DE/",
    "insider": "Andres Dale",
@@ -4805,8 +4805,8 @@
  "clusters": [
   {
    "ticker": "PAM",
-   "insiders": 3,
-   "total_value": 7477097.6
+   "insiders": 2,
+   "total_value": 6229097.6
   },
   {
    "ticker": "HOS",
