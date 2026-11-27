@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-27 23:00 UTC",
+ "updated_utc": "2026-11-27 23:16 UTC",
  "purchases": [
-  {
-   "ticker": "SLSN",
-   "company": "SOLESENCE, INC.",
-   "insider": "WHITMORE R JANET",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 4292.0,
-   "price": 1.48,
-   "value": 6352.16,
-   "acc": "0001193125-26-471554",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "ATLO",
-   "company": "AMES NATIONAL CORP",
-   "insider": "Rieck Amy F",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 200.0,
-   "price": 32.9,
-   "value": 6580.0,
-   "acc": "0002128910-26-000002",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "VNRX",
    "company": "VOLITIONRX LTD",
@@ -3506,6 +3482,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "AARD",
+   "company": "Aardvark Therapeutics, Inc.",
+   "insider": "Lee Tien-Li",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-24",
+   "shares": 50000.0,
+   "price": 0.966,
+   "value": 48300.0,
+   "acc": "0001193125-26-480461",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "NOVT",
    "company": "NOVANTA INC",
    "insider": "Wilson Frank Anders",
@@ -4548,6 +4536,18 @@
    "value": 71731.0,
    "acc": "0001666120-26-000043",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "GF",
+   "company": "NEW GERMANY FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-25",
+   "shares": 10401.0,
+   "price": 9.3,
+   "value": 96729.3,
+   "acc": "0001510281-26-000486",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "TEAM",
