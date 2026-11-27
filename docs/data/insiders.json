@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-27 15:01 UTC",
+ "updated_utc": "2026-11-27 15:17 UTC",
  "purchases": [
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 82700.0,
-   "price": 12.0464,
-   "value": 996237.28,
-   "acc": "0001213900-26-122629",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -4586,6 +4574,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "PCYO",
+   "company": "PURE CYCLE CORP",
+   "insider": "Fink Christopher",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 10.01,
+   "value": 25025.0,
+   "acc": "0002155883-26-000006",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "TMC",
    "company": "TMC the metals Co Inc.",
    "insider": "Barron Gerard",
@@ -4914,6 +4914,11 @@
    "total_value": 36567.0
   },
   {
+   "ticker": "PCYO",
+   "insiders": 2,
+   "total_value": 34610.0
+  },
+  {
    "ticker": "TGEN",
    "insiders": 2,
    "total_value": 32841.73
@@ -4960,7 +4965,6 @@
   }
  ],
  "seen": [
-  "0002014632-26-000020",
   "0002014633-26-000014",
   "0002014633-26-000016",
   "0002014633-26-000018",
@@ -7884,6 +7888,7 @@
   "0002155784-26-000004",
   "0002155824-26-000005",
   "0002155883-26-000004",
+  "0002155883-26-000006",
   "0002155916-26-000004",
   "0002156015-26-000005",
   "0002156034-26-000005",
