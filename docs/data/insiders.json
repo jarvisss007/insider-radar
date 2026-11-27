@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-27 23:32 UTC",
+ "updated_utc": "2026-11-27 23:48 UTC",
  "purchases": [
-  {
-   "ticker": "SKYE",
-   "company": "Skye Bioscience, Inc.",
-   "insider": "TANG KEVIN",
-   "role": "10% owner",
-   "date": "2026-11-20",
-   "shares": 10872.0,
-   "price": 0.66,
-   "value": 7175.52,
-   "acc": "0001178579-26-000028",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "CTSO",
-   "company": "Cytosorbents Corp",
-   "insider": "Kim Jiny",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 1447.0,
-   "price": 5.18,
-   "value": 7495.46,
-   "acc": "0001104659-26-131712",
-   "filed": "2026-11-24"
-  },
   {
    "ticker": "CTSO",
    "company": "Cytosorbents Corp",
@@ -4610,6 +4586,18 @@
    "filed": "2026-11-27"
   },
   {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-25",
+   "shares": 13475.0,
+   "price": 19.9,
+   "value": 268152.5,
+   "acc": "0001510281-26-000488",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "GLXY",
    "company": "Galaxy Digital Inc.",
    "insider": "Paquette Anthony",
@@ -4717,6 +4705,18 @@
    "acc": "0001493152-26-054493",
    "filed": "2026-11-27",
    "placement": true
+  },
+  {
+   "ticker": "MXF",
+   "company": "MEXICO FUND INC",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-25",
+   "shares": 99261.0,
+   "price": 20.18,
+   "value": 2003086.98,
+   "acc": "0001510281-26-000488",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "DXYZ",
@@ -4845,14 +4845,14 @@
    "total_value": 691406.5
   },
   {
-   "ticker": "CTSO",
-   "insiders": 7,
-   "total_value": 499983.96
-  },
-  {
    "ticker": "SNEX",
    "insiders": 2,
    "total_value": 497468.08
+  },
+  {
+   "ticker": "CTSO",
+   "insiders": 6,
+   "total_value": 492488.5
   },
   {
    "ticker": "PED",
