@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-27 21:40 UTC",
+ "updated_utc": "2026-11-27 21:56 UTC",
  "purchases": [
-  {
-   "ticker": "RVP",
-   "company": "RETRACTABLE TECHNOLOGIES INC",
-   "insider": "SHAW THOMAS J",
-   "role": "PRESIDENT AND CEO",
-   "date": "2026-11-20",
-   "shares": 5532.0,
-   "price": 0.5883,
-   "value": 3254.48,
-   "acc": "0001174567-26-000001",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "TRIN",
-   "company": "Trinity Capital Inc.",
-   "insider": "Estes Ronald E.",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 200.0,
-   "price": 16.65,
-   "value": 3330.0,
-   "acc": "0001193125-26-475868",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "DXR",
-   "company": "DAXOR CORP",
-   "insider": "Feldschuh Michael Richard",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-20",
-   "shares": 500.0,
-   "price": 7.0,
-   "value": 3500.0,
-   "acc": "0001493152-26-053606",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "EMYB",
    "company": "Embassy Bancorp, Inc.",
@@ -3926,6 +3890,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "IESC",
+   "company": "IES Holdings, Inc.",
+   "insider": "Gendell David B.",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 1000.0,
+   "price": 164.0,
+   "value": 164000.0,
+   "acc": "0001048268-26-000191",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "DGICA",
    "company": "DONEGAL GROUP INC",
    "insider": "DONEGAL MUTUAL INSURANCE CO",
@@ -4020,6 +3996,18 @@
    "value": 324750.0,
    "acc": "0001405444-26-000010",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "IESC",
+   "company": "IES Holdings, Inc.",
+   "insider": "Gendell David B.",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 3000.0,
+   "price": 163.0,
+   "value": 489000.0,
+   "acc": "0001048268-26-000191",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "SNDA",
@@ -4767,6 +4755,18 @@
    "placement": true
   },
   {
+   "ticker": "CRESY",
+   "company": "CRESUD INC",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "Director",
+   "date": "2026-11-26",
+   "shares": 6730.0,
+   "price": 0.84,
+   "value": 5653.2,
+   "acc": "0002119764-26-000042",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "CMCL",
    "company": "Caledonia Mining Corp Plc",
    "insider": "Wildeschutt Geralda",
@@ -4961,9 +4961,6 @@
   }
  ],
  "seen": [
-  "0002015287-26-000015",
-  "0002015287-26-000017",
-  "0002015287-26-000020",
   "0002015287-26-000022",
   "0002015287-26-000024",
   "0002015378-26-000010",
@@ -7371,6 +7368,8 @@
   "0002119764-26-000039",
   "0002119764-26-000040",
   "0002119764-26-000041",
+  "0002119764-26-000042",
+  "0002119764-26-000043",
   "0002119900-26-000008",
   "0002119908-26-000011",
   "0002119908-26-000013",
@@ -7558,6 +7557,7 @@
   "0002130035-26-000008",
   "0002130035-26-000009",
   "0002130035-26-000010",
+  "0002130035-26-000012",
   "0002130205-26-000002",
   "0002130209-26-000006",
   "0002130246-26-000003",
