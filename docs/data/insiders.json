@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-27 13:42 UTC",
+ "updated_utc": "2026-11-27 13:57 UTC",
  "purchases": [
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-19",
-   "shares": 2775.0,
-   "price": 137.9957,
-   "value": 382938.07,
-   "acc": "0001666120-26-000039",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "ELV",
-   "company": "Elevance Health, Inc.",
-   "insider": "PERU RAMIRO G",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 1000.0,
-   "price": 383.86,
-   "value": 383860.0,
-   "acc": "0001192045-26-000006",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "CCB",
    "company": "COASTAL FINANCIAL CORP",
@@ -3422,6 +3398,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "PESI",
+   "company": "PERMA FIX ENVIRONMENTAL SERVICES INC",
+   "insider": "Eshleman Troy",
+   "role": "Chief Operating Officer",
+   "date": "2026-11-24",
+   "shares": 100.0,
+   "price": 12.77,
+   "value": 1277.0,
+   "acc": "0001493152-26-054436",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "VRSN",
    "company": "VERISIGN INC/CA",
    "insider": "Armstrong Courtney D",
@@ -4562,6 +4550,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "OWLS",
+   "company": "OBOOK HOLDINGS INC.",
+   "insider": "WANG CHUN KAI",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-25",
+   "shares": 4080.0,
+   "price": 2.0163,
+   "value": 8226.5,
+   "acc": "0002109337-26-000021",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "RVSB",
    "company": "RIVERVIEW BANCORP INC",
    "insider": "Girod Jon Louis",
@@ -4965,7 +4965,6 @@
   }
  ],
  "seen": [
-  "0002014632-26-000016",
   "0002014632-26-000018",
   "0002014632-26-000020",
   "0002014633-26-000014",
@@ -7127,6 +7126,7 @@
   "0002109337-26-000018",
   "0002109337-26-000019",
   "0002109337-26-000020",
+  "0002109337-26-000021",
   "0002109341-26-000003",
   "0002109629-26-000011",
   "0002109682-26-000006",
