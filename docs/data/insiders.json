@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-27 21:24 UTC",
+ "updated_utc": "2026-11-27 21:40 UTC",
  "purchases": [
-  {
-   "ticker": "NXG",
-   "company": "NXG NextGen Infrastructure Income Fund",
-   "insider": "Sunderland Todd",
-   "role": "",
-   "date": "2026-11-20",
-   "shares": 79.0,
-   "price": 38.7,
-   "value": 3057.3,
-   "acc": "0001957908-26-000004",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "EMYB",
-   "company": "Embassy Bancorp, Inc.",
-   "insider": "Lobach David M Jr",
-   "role": "Chairman, President and CEO",
-   "date": "2026-11-20",
-   "shares": 150.0,
-   "price": 20.55,
-   "value": 3082.5,
-   "acc": "0001464631-26-000011",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "RVP",
    "company": "RETRACTABLE TECHNOLOGIES INC",
@@ -3542,6 +3518,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "LND",
+   "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 6310.0,
+   "price": 2.8688,
+   "value": 18102.13,
+   "acc": "0002119764-26-000041",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "BATL",
    "company": "BATTALION OIL CORP",
    "insider": "Hinds Gregory S.",
@@ -4430,6 +4418,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "LND",
+   "company": "BrasilAgro - Brazilian Agricultural Real Estate Co",
+   "insider": "Elsztain Alejandro Gustavo",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 4200.0,
+   "price": 2.9272,
+   "value": 12294.24,
+   "acc": "0002119764-26-000041",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "CBL",
    "company": "CBL & ASSOCIATES PROPERTIES INC",
    "insider": "CONTIS DAVID J",
@@ -4961,7 +4961,6 @@
   }
  ],
  "seen": [
-  "0002015224-26-000009",
   "0002015287-26-000015",
   "0002015287-26-000017",
   "0002015287-26-000020",
@@ -7371,6 +7370,7 @@
   "0002119764-26-000037",
   "0002119764-26-000039",
   "0002119764-26-000040",
+  "0002119764-26-000041",
   "0002119900-26-000008",
   "0002119908-26-000011",
   "0002119908-26-000013",
