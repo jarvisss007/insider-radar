@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-27 17:56 UTC",
+ "updated_utc": "2026-11-27 18:12 UTC",
  "purchases": [
-  {
-   "ticker": "SAFTX",
-   "company": "Sound Point Alternative Income Fund",
-   "insider": "ASSURED GUARANTY LTD",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 245098.039,
-   "price": 20.4,
-   "value": 5000000.0,
-   "acc": "0001628280-26-075849",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Monte Mark David",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 19.5113,
-   "price": 11.91,
-   "value": 232.38,
-   "acc": "0001435109-26-000168",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "company": "Fundrise Real Estate Interval Fund, LLC",
-   "insider": "Booth Richard Whitaker",
-   "role": "",
-   "date": "2026-11-20",
-   "shares": 41.9815,
-   "price": 11.91,
-   "value": 500.0,
-   "acc": "0001435109-26-000170",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "FEAM",
-   "company": "5E Advanced Materials, Inc.",
-   "insider": "Weibel Paul Wesley III",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-20",
-   "shares": 514.0,
-   "price": 1.45,
-   "value": 745.3,
-   "acc": "0001911537-26-000011",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "AMCI",
    "company": "AMC Robotics Corp",
@@ -3242,6 +3194,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "SYRA",
+   "company": "Syra Health Corp",
+   "insider": "Mereddy Radhika",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 2006.0,
+   "price": 0.3587,
+   "value": 719.55,
+   "acc": "0001493152-26-054460",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "XBP",
    "company": "XBP Global Holdings, Inc.",
    "insider": "Jonovic Andrej",
@@ -3542,6 +3506,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "PRFX",
+   "company": "PRF Technologies Ltd.",
+   "insider": "Cohen-Arazi Efraim",
+   "role": "Interim CEO",
+   "date": "2026-11-24",
+   "shares": 9900.0,
+   "price": 0.72,
+   "value": 7128.0,
+   "acc": "0001178913-26-005397",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
    "insider": "Hatsopoulos John",
@@ -3756,6 +3732,18 @@
    "value": 25324.0,
    "acc": "0000826675-26-000134",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "PRFX",
+   "company": "PRF Technologies Ltd.",
+   "insider": "Shavit Asaf",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 37879.0,
+   "price": 0.7,
+   "value": 26515.3,
+   "acc": "0001178913-26-005398",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "UMH",
@@ -4442,6 +4430,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "PRFX",
+   "company": "PRF Technologies Ltd.",
+   "insider": "Cohen-Arazi Efraim",
+   "role": "Interim CEO",
+   "date": "2026-11-25",
+   "shares": 6100.0,
+   "price": 0.76,
+   "value": 4636.0,
+   "acc": "0001178913-26-005397",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "ELTK",
    "company": "ELTEK LTD",
    "insider": "Nissan Yitzhak",
@@ -4904,6 +4904,11 @@
    "total_value": 47112.5
   },
   {
+   "ticker": "PRFX",
+   "insiders": 2,
+   "total_value": 38279.3
+  },
+  {
    "ticker": "NWTG",
    "insiders": 2,
    "total_value": 36567.0
@@ -4952,11 +4957,6 @@
    "ticker": "AUBN",
    "insiders": 2,
    "total_value": 8723.4
-  },
-  {
-   "ticker": "FUNDRISE REAL ESTATE INTERVAL FUND, LLC (CIK 1777677)",
-   "insiders": 2,
-   "total_value": 732.38
   }
  ],
  "seen": [
