@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-27 16:52 UTC",
+ "updated_utc": "2026-11-27 17:40 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mindlin Marcos Marcelo",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 60000.0,
-   "price": 62.4,
-   "value": 3744000.0,
-   "acc": "0002022936-26-000020",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "SAFTX",
    "company": "Sound Point Alternative Income Fund",
@@ -4790,6 +4778,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "CMCL",
+   "company": "Caledonia Mining Corp Plc",
+   "insider": "Wildeschutt Geralda",
+   "role": "Director",
+   "date": "2026-11-26",
+   "shares": 4988.0,
+   "price": 17.69,
+   "value": 88237.72,
+   "acc": "0002118951-26-000002",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "BGDE",
    "company": "Big Digital Energy, Inc.",
    "insider": "Endeavor Blockchain, LLC",
@@ -4960,7 +4960,6 @@
   }
  ],
  "seen": [
-  "0002014633-26-000018",
   "0002014633-26-000020",
   "0002014633-26-000022",
   "0002014633-26-000024",
@@ -7346,6 +7345,7 @@
   "0002118028-26-000006",
   "0002118402-26-000013",
   "0002118769-26-000002",
+  "0002118951-26-000002",
   "0002119033-26-000011",
   "0002119130-26-000007",
   "0002119220-26-000004",
