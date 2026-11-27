@@ -1,90 +1,6 @@
 {
- "updated_utc": "2026-11-27 22:28 UTC",
+ "updated_utc": "2026-11-27 22:44 UTC",
  "purchases": [
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "STOVESAND KIRK",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 180.0,
-   "price": 23.95,
-   "value": 4311.0,
-   "acc": "0001628280-26-075280",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "KLNG",
-   "company": "Koil Energy Solutions, Inc.",
-   "insider": "Intelligent Fanatics Capital Management LLC",
-   "role": "10% owner",
-   "date": "2026-11-20",
-   "shares": 2000.0,
-   "price": 2.3,
-   "value": 4600.0,
-   "acc": "0001798792-26-000008",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "CWBC",
-   "company": "Community West Bancshares",
-   "insider": "STOVESAND KIRK",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 200.0,
-   "price": 24.15,
-   "value": 4830.0,
-   "acc": "0001628280-26-075280",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "LFT",
-   "company": "Lument Finance Trust, Inc.",
-   "insider": "Hunt James Christopher",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 1406.0,
-   "price": 3.499,
-   "value": 4919.59,
-   "acc": "0001727207-26-000008",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "AMCI",
-   "company": "AMC Robotics Corp",
-   "insider": "Da Shengwei (Sean)",
-   "role": "CEO",
-   "date": "2026-11-20",
-   "shares": 6489.0,
-   "price": 0.7696,
-   "value": 4993.93,
-   "acc": "0001094891-26-000320",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "ACON",
-   "company": "Aclarion, Inc.",
-   "insider": "Wesemann William",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 3984.0,
-   "price": 1.26,
-   "value": 5019.84,
-   "acc": "0001683168-26-009022",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "BWFG",
-   "company": "Bankwell Financial Group, Inc.",
-   "insider": "SEIDMAN LAWRENCE B",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 75.0,
-   "price": 67.88,
-   "value": 5091.0,
-   "acc": "0001628280-26-075380",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "ARAI",
    "company": "Arrive AI Inc.",
@@ -4046,6 +3962,18 @@
    "filed": "2026-11-27"
   },
   {
+   "ticker": "BETA",
+   "company": "BETA Technologies, Inc.",
+   "insider": "Stone Michael Robert",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 40000.0,
+   "price": 15.7406,
+   "value": 629624.0,
+   "acc": "0001193125-26-480448",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "WMB",
    "company": "WILLIAMS COMPANIES, INC.",
    "insider": "Turner Robb E",
@@ -4092,6 +4020,18 @@
    "value": 1265110.94,
    "acc": "0000899140-26-001413",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "LAB",
+   "company": "STANDARD BIOTOOLS INC.",
+   "insider": "Casdin Partners Master Fund, L.P.",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 3361393.0,
+   "price": 0.5908,
+   "value": 1985910.98,
+   "acc": "0000919574-26-008286",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "KDK",
@@ -4574,6 +4514,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "LAB",
+   "company": "STANDARD BIOTOOLS INC.",
+   "insider": "Casdin Partners Master Fund, L.P.",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 100000.0,
+   "price": 0.6217,
+   "value": 62170.0,
+   "acc": "0000919574-26-008286",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
    "insider": "Cannon-Brookes Michael",
@@ -4632,6 +4584,18 @@
    "value": 129916.98,
    "acc": "0001666120-26-000043",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "ECF",
+   "company": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-25",
+   "shares": 15038.0,
+   "price": 9.83,
+   "value": 147823.54,
+   "acc": "0001510281-26-000484",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "DGICA",
@@ -4730,6 +4694,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "BETA",
+   "company": "BETA Technologies, Inc.",
+   "insider": "Stone Michael Robert",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 40000.0,
+   "price": 15.7812,
+   "value": 631248.0,
+   "acc": "0001193125-26-480448",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "GLXY",
    "company": "Galaxy Digital Inc.",
    "insider": "Novogratz Michael",
@@ -4788,6 +4764,30 @@
    "price": 3.0999,
    "value": 8989.71,
    "acc": "0001373604-26-000086",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "LAB",
+   "company": "STANDARD BIOTOOLS INC.",
+   "insider": "Casdin Partners Master Fund, L.P.",
+   "role": "Director",
+   "date": "2026-11-27",
+   "shares": 85000.0,
+   "price": 0.6395,
+   "value": 54357.5,
+   "acc": "0000919574-26-008286",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "BETA",
+   "company": "BETA Technologies, Inc.",
+   "insider": "Stone Michael Robert",
+   "role": "Director",
+   "date": "2026-11-27",
+   "shares": 20000.0,
+   "price": 17.053,
+   "value": 341060.0,
+   "acc": "0001193125-26-480448",
    "filed": "2026-11-27"
   },
   {
@@ -4953,11 +4953,6 @@
    "ticker": "RDGL",
    "insiders": 2,
    "total_value": 15610.0
-  },
-  {
-   "ticker": "ACON",
-   "insiders": 2,
-   "total_value": 13284.84
   },
   {
    "ticker": "VNRX",
