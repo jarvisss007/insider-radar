@@ -1,66 +1,6 @@
 {
- "updated_utc": "2026-11-27 20:04 UTC",
+ "updated_utc": "2026-11-27 21:08 UTC",
  "purchases": [
-  {
-   "ticker": "MED",
-   "company": "MEDIFAST INC",
-   "insider": "Kiai Parsa",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 192.0,
-   "price": 11.6235,
-   "value": 2231.71,
-   "acc": "0001213900-26-123095",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 3000.0,
-   "price": 0.83,
-   "value": 2490.0,
-   "acc": "0001841761-26-000129",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "AUBN",
-   "company": "AUBURN NATIONAL BANCORPORATION, INC",
-   "insider": "Conn Walton T Jr.",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 100.0,
-   "price": 25.25,
-   "value": 2525.0,
-   "acc": "0001437749-26-038167",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "GROV",
-   "company": "Grove Collaborative Holdings, Inc.",
-   "insider": "Karp Jason H.",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 3350.0,
-   "price": 0.8,
-   "value": 2680.0,
-   "acc": "0001841761-26-000129",
-   "filed": "2026-11-24"
-  },
-  {
-   "ticker": "TRMD",
-   "company": "TORM plc",
-   "insider": "Balle Kim",
-   "role": "Chief Financial Officer",
-   "date": "2026-11-20",
-   "shares": 85.0,
-   "price": 32.58,
-   "value": 2769.3,
-   "acc": "0000919574-26-008282",
-   "filed": "2026-11-27"
-  },
   {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
@@ -3518,6 +3458,18 @@
    "filed": "2026-11-27"
   },
   {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "insider": "TEAGUE AJ",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 180.0,
+   "price": 55.35,
+   "value": 9963.0,
+   "acc": "0001628280-26-076084",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "LPTH",
    "company": "LIGHTPATH TECHNOLOGIES INC",
    "insider": "Miranda Albert",
@@ -3888,6 +3840,18 @@
    "value": 98445.0,
    "acc": "0001193125-26-476906",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "SKYD",
+   "company": "Skydance Corp",
+   "insider": "Cardinale Gerald J.",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 15060.0,
+   "price": 6.6481,
+   "value": 100120.39,
+   "acc": "0000895345-26-000510",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "GLP",
@@ -4502,6 +4466,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "insider": "TEAGUE AJ",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 400.0,
+   "price": 55.97,
+   "value": 22388.0,
+   "acc": "0001628280-26-076084",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "ENS",
    "company": "EnerSys",
    "insider": "Funk Andrea J.",
@@ -4571,6 +4547,18 @@
    "price": 2.7805,
    "value": 45007.95,
    "acc": "0001373604-26-000086",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "SKYD",
+   "company": "Skydance Corp",
+   "insider": "Cardinale Gerald J.",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 7880.0,
+   "price": 6.315,
+   "value": 49762.2,
+   "acc": "0000895345-26-000510",
    "filed": "2026-11-27"
   },
   {
@@ -4766,6 +4754,19 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "CCG",
+   "company": "Cheche Group Inc.",
+   "insider": "Zhang Lei",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-25",
+   "shares": 120000.0,
+   "price": 10.36,
+   "value": 1243200.0,
+   "acc": "0001493152-26-054493",
+   "filed": "2026-11-27",
+   "placement": true
+  },
+  {
    "ticker": "CMCL",
    "company": "Caledonia Mining Corp Plc",
    "insider": "Wildeschutt Geralda",
@@ -4829,14 +4830,14 @@
    "total_value": 833131.51
   },
   {
+   "ticker": "SEI",
+   "insiders": 4,
+   "total_value": 694048.75
+  },
+  {
    "ticker": "BG",
    "insiders": 2,
    "total_value": 691406.5
-  },
-  {
-   "ticker": "SEI",
-   "insiders": 4,
-   "total_value": 661697.75
   },
   {
    "ticker": "CTSO",
@@ -4957,15 +4958,9 @@
    "ticker": "VNRX",
    "insiders": 2,
    "total_value": 10242.0
-  },
-  {
-   "ticker": "AUBN",
-   "insiders": 2,
-   "total_value": 8723.4
   }
  ],
  "seen": [
-  "0002014966-26-000013",
   "0002015089-26-000008",
   "0002015224-26-000007",
   "0002015224-26-000009",
@@ -6034,6 +6029,7 @@
   "0002070403-26-000013",
   "0002070403-26-000018",
   "0002070403-26-000020",
+  "0002070582-26-000006",
   "0002070664-26-000006",
   "0002070664-26-000007",
   "0002070839-26-000007",
