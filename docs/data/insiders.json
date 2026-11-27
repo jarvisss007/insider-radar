@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-27 22:44 UTC",
+ "updated_utc": "2026-11-27 23:00 UTC",
  "purchases": [
-  {
-   "ticker": "ARAI",
-   "company": "Arrive AI Inc.",
-   "insider": "O'Toole Daniel Steven",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-20",
-   "shares": 5000.0,
-   "price": 1.095,
-   "value": 5475.0,
-   "acc": "0001493152-26-053721",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "RDGL",
-   "company": "VIVOS INC",
-   "insider": "Weeks Brad Allan",
-   "role": "President",
-   "date": "2026-11-20",
-   "shares": 150000.0,
-   "price": 0.0386,
-   "value": 5790.0,
-   "acc": "0002131351-26-000016",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "AIM",
-   "company": "AIM ImmunoTech Inc.",
-   "insider": "Equels Thomas K",
-   "role": "CEO & President",
-   "date": "2026-11-20",
-   "shares": 50000.0,
-   "price": 0.121,
-   "value": 6050.0,
-   "acc": "0001493152-26-053683",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "SLSN",
    "company": "SOLESENCE, INC.",
@@ -4262,6 +4226,30 @@
    "filed": "2026-11-27"
   },
   {
+   "ticker": "GEOS",
+   "company": "GEOSPACE TECHNOLOGIES CORP",
+   "insider": "Bushey Ronald Todd",
+   "role": "Chief Technical Officer",
+   "date": "2026-11-25",
+   "shares": 2450.0,
+   "price": 2.15,
+   "value": 5267.5,
+   "acc": "0001437749-26-038395",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "GEOS",
+   "company": "GEOSPACE TECHNOLOGIES CORP",
+   "insider": "Bushey Ronald Todd",
+   "role": "Chief Technical Officer",
+   "date": "2026-11-25",
+   "shares": 2550.0,
+   "price": 2.187,
+   "value": 5576.85,
+   "acc": "0001437749-26-038395",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "UXIN",
    "company": "Uxin Ltd",
    "insider": "Dai Kun",
@@ -4355,6 +4343,18 @@
    "price": 2.9272,
    "value": 12294.24,
    "acc": "0002119764-26-000041",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "GRX",
+   "company": "Gabelli Healthcare & WellnessRx Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-25",
+   "shares": 1373.0,
+   "price": 10.34,
+   "value": 14196.82,
+   "acc": "0001510281-26-000485",
    "filed": "2026-11-27"
   },
   {
@@ -4948,11 +4948,6 @@
    "ticker": "WVVI",
    "insiders": 2,
    "total_value": 16309.5
-  },
-  {
-   "ticker": "RDGL",
-   "insiders": 2,
-   "total_value": 15610.0
   },
   {
    "ticker": "VNRX",
