@@ -1,42 +1,6 @@
 {
- "updated_utc": "2026-11-27 14:45 UTC",
+ "updated_utc": "2026-11-27 15:01 UTC",
  "purchases": [
-  {
-   "ticker": "UPST",
-   "company": "Upstart Holdings, Inc.",
-   "insider": "Gu Paul",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 50000.0,
-   "price": 17.2013,
-   "value": 860065.0,
-   "acc": "0001832812-26-000016",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "TEAM",
-   "company": "Atlassian Corp",
-   "insider": "Cannon-Brookes Michael",
-   "role": "CEO, Co-Founder",
-   "date": "2026-11-19",
-   "shares": 6400.0,
-   "price": 138.9491,
-   "value": 889274.24,
-   "acc": "0001666120-26-000039",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "SJT",
-   "company": "SAN JUAN BASIN ROYALTY TRUST",
-   "insider": "OLIVER ERIC L",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 188428.0,
-   "price": 4.98,
-   "value": 938371.44,
-   "acc": "0001104659-26-130695",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "MED",
    "company": "MEDIFAST INC",
@@ -4142,6 +4106,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 10000.0,
+   "price": 19.0572,
+   "value": 190572.0,
+   "acc": "0000935596-26-000034",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "NANO",
    "company": "Forge Nano Holdings, Inc.",
    "insider": "Smith Shane",
@@ -4152,6 +4128,18 @@
    "value": 219607.44,
    "acc": "0000950142-26-003161",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "GLBS",
+   "company": "GLOBUS MARITIME LTD",
+   "insider": "Feidakis Georgios",
+   "role": "Director",
+   "date": "2026-11-24",
+   "shares": 90000.0,
+   "price": 2.45,
+   "value": 220500.0,
+   "acc": "0001104659-26-132362",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "BG",
@@ -4706,6 +4694,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "DGICA",
+   "company": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 19.0247,
+   "value": 190247.0,
+   "acc": "0000935596-26-000034",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "GLXY",
    "company": "Galaxy Digital Inc.",
    "insider": "Paquette Anthony",
@@ -4807,11 +4807,6 @@
    "ticker": "PAM",
    "insiders": 3,
    "total_value": 7477097.6
-  },
-  {
-   "ticker": "UPST",
-   "insiders": 2,
-   "total_value": 1811053.0
   },
   {
    "ticker": "HOS",
@@ -4965,7 +4960,6 @@
   }
  ],
  "seen": [
-  "0002014632-26-000018",
   "0002014632-26-000020",
   "0002014633-26-000014",
   "0002014633-26-000016",
@@ -7340,6 +7334,7 @@
   "0002117905-26-000050",
   "0002117905-26-000051",
   "0002117905-26-000052",
+  "0002117905-26-000053",
   "0002117961-26-000002",
   "0002117999-26-000006",
   "0002118012-26-000003",
