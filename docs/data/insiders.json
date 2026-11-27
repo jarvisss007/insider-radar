@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-27 16:36 UTC",
+ "updated_utc": "2026-11-27 16:52 UTC",
  "purchases": [
-  {
-   "ticker": "PAM",
-   "company": "Pampa Energy Inc.",
-   "insider": "Mariani Gustavo",
-   "role": "Vicepresident",
-   "date": "2026-11-19",
-   "shares": 20000.0,
-   "price": 62.4,
-   "value": 1248000.0,
-   "acc": "0002028917-26-000006",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "PAM",
    "company": "Pampa Energy Inc.",
@@ -3422,6 +3410,18 @@
    "filed": "2026-11-27"
   },
   {
+   "ticker": "KLNG",
+   "company": "Koil Energy Solutions, Inc.",
+   "insider": "Intelligent Fanatics Capital Management LLC",
+   "role": "10% owner",
+   "date": "2026-11-24",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "acc": "0001798792-26-000009",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "VRSN",
    "company": "VERISIGN INC/CA",
    "insider": "Armstrong Courtney D",
@@ -4804,11 +4804,6 @@
  ],
  "clusters": [
   {
-   "ticker": "PAM",
-   "insiders": 2,
-   "total_value": 6229097.6
-  },
-  {
    "ticker": "HOS",
    "insiders": 2,
    "total_value": 1246655.2
@@ -4965,7 +4960,6 @@
   }
  ],
  "seen": [
-  "0002014633-26-000016",
   "0002014633-26-000018",
   "0002014633-26-000020",
   "0002014633-26-000022",
@@ -7290,6 +7284,7 @@
   "0002116980-26-000006",
   "0002117086-26-000002",
   "0002117102-26-000004",
+  "0002117102-26-000005",
   "0002117128-26-000003",
   "0002117143-26-000004",
   "0002117143-26-000005",
