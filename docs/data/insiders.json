@@ -1,102 +1,6 @@
 {
- "updated_utc": "2026-11-27 13:10 UTC",
+ "updated_utc": "2026-11-27 13:42 UTC",
  "purchases": [
-  {
-   "ticker": "EQPT",
-   "company": "EquipmentShare.com Inc",
-   "insider": "Schlacks Jabbok",
-   "role": "Founder & CEO",
-   "date": "2026-11-19",
-   "shares": 12195.0,
-   "price": 14.79,
-   "value": 180364.05,
-   "acc": "0001628280-26-075309",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "DSM",
-   "company": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 33840.0,
-   "price": 5.37,
-   "value": 181720.8,
-   "acc": "0001510281-26-000464",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "AVK",
-   "company": "ADVENT CONVERTIBLE & INCOME FUND",
-   "insider": "MAITLAND TRACY V",
-   "role": "CHAIRMAN, PRESIDENT & CEO",
-   "date": "2026-11-19",
-   "shares": 20000.0,
-   "price": 10.149,
-   "value": 202980.0,
-   "acc": "0001251345-26-000002",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "MXF",
-   "company": "MEXICO FUND INC",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 12889.0,
-   "price": 20.06,
-   "value": 258553.34,
-   "acc": "0001510281-26-000462",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "SAGT",
-   "company": "SAGTEC GLOBAL Ltd",
-   "insider": "Ng Chen Lok",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 260000.0,
-   "price": 1.03,
-   "value": 267800.0,
-   "acc": "0001213900-26-122442",
-   "filed": "2026-11-20"
-  },
-  {
-   "ticker": "EMPD",
-   "company": "Empery Digital Inc.",
-   "insider": "READ IAN C",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 123000.0,
-   "price": 2.29,
-   "value": 281670.0,
-   "acc": "0001683168-26-009142",
-   "filed": "2026-11-25"
-  },
-  {
-   "ticker": "JYNT",
-   "company": "JOINT Corp",
-   "insider": "JOBSON CHARLES E",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 44963.0,
-   "price": 6.65,
-   "value": 299003.95,
-   "acc": "0001214659-26-014596",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "HFRO",
-   "company": "HIGHLAND OPPORTUNITIES & INCOME FUND",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "date": "2026-11-19",
-   "shares": 72720.0,
-   "price": 5.16,
-   "value": 375235.2,
-   "acc": "0001510281-26-000461",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "TEAM",
    "company": "Atlassian Corp",
@@ -3626,6 +3530,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-24",
+   "shares": 4100.0,
+   "price": 0.87,
+   "value": 3567.0,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "VRSN",
    "company": "VERISIGN INC/CA",
    "insider": "Armstrong Courtney D",
@@ -3830,6 +3746,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-24",
+   "shares": 10000.0,
+   "price": 0.93,
+   "value": 9300.0,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "LPTH",
    "company": "LIGHTPATH TECHNOLOGIES INC",
    "insider": "Miranda Albert",
@@ -3936,6 +3864,18 @@
    "value": 19625.0,
    "acc": "0001355435-26-000004",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-24",
+   "shares": 25000.0,
+   "price": 1.0053,
+   "value": 25132.5,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "DX",
@@ -4490,6 +4430,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-25",
+   "shares": 1000.0,
+   "price": 1.0391,
+   "value": 1039.1,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "TGEN",
    "company": "TECOGEN INC.",
    "insider": "Hatsopoulos John",
@@ -4500,6 +4452,54 @@
    "value": 1222.97,
    "acc": "0001274775-26-000011",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-25",
+   "shares": 2532.0,
+   "price": 0.99,
+   "value": 2506.68,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 1.0033,
+   "value": 2508.25,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 1.026,
+   "value": 2565.0,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "AMCI",
+   "company": "AMC Robotics Corp",
+   "insider": "Da Shengwei (Sean)",
+   "role": "CEO",
+   "date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 1.0322,
+   "value": 2580.5,
+   "acc": "0001094891-26-000325",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "NYC",
