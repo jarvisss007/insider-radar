@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-27 21:56 UTC",
+ "updated_utc": "2026-11-27 22:12 UTC",
  "purchases": [
-  {
-   "ticker": "EMYB",
-   "company": "Embassy Bancorp, Inc.",
-   "insider": "Lobach David M Jr",
-   "role": "Chairman, President and CEO",
-   "date": "2026-11-20",
-   "shares": 200.0,
-   "price": 20.4452,
-   "value": 4089.04,
-   "acc": "0001464631-26-000011",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "ELTK",
    "company": "ELTEK LTD",
@@ -3578,6 +3566,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "IESC",
+   "company": "IES Holdings, Inc.",
+   "insider": "Simmes Matthew J",
+   "role": "President and CEO",
+   "date": "2026-11-24",
+   "shares": 247.0,
+   "price": 166.6,
+   "value": 41150.2,
+   "acc": "0001048268-26-000200",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "JUSH",
    "company": "Jushi Holdings Inc.",
    "insider": "Arsenault Denis J.",
@@ -4828,6 +4828,11 @@
    "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
    "insiders": 2,
    "total_value": 833131.51
+  },
+  {
+   "ticker": "IESC",
+   "insiders": 2,
+   "total_value": 694150.2
   },
   {
    "ticker": "SEI",
