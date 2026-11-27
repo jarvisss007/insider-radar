@@ -1,30 +1,6 @@
 {
- "updated_utc": "2026-11-27 21:08 UTC",
+ "updated_utc": "2026-11-27 21:24 UTC",
  "purchases": [
-  {
-   "ticker": "UXIN",
-   "company": "Uxin Ltd",
-   "insider": "Dai Kun",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-20",
-   "shares": 4300.0,
-   "price": 0.6937,
-   "value": 2982.91,
-   "acc": "0001493152-26-053673",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "UAVS",
-   "company": "AgEagle Aerial Systems Inc.",
-   "insider": "Klavon Brent",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 10714.0,
-   "price": 0.28,
-   "value": 2999.92,
-   "acc": "0001437749-26-037914",
-   "filed": "2026-11-20"
-  },
   {
    "ticker": "NXG",
    "company": "NXG NextGen Infrastructure Income Fund",
@@ -4466,6 +4442,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "OBDC",
+   "company": "Blue Owl Capital Corp",
+   "insider": "Nicholson Logan",
+   "role": "President",
+   "date": "2026-11-25",
+   "shares": 1580.0,
+   "price": 10.96,
+   "value": 17316.8,
+   "acc": "0001193125-26-480287",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "SEI",
    "company": "Solaris Energy Infrastructure, Inc.",
    "insider": "TEAGUE AJ",
@@ -4499,6 +4487,18 @@
    "price": 10.01,
    "value": 25025.0,
    "acc": "0002155883-26-000006",
+   "filed": "2026-11-27"
+  },
+  {
+   "ticker": "OBDC",
+   "company": "Blue Owl Capital Corp",
+   "insider": "Nicholson Logan",
+   "role": "President",
+   "date": "2026-11-25",
+   "shares": 2522.0,
+   "price": 10.96,
+   "value": 27641.12,
+   "acc": "0001193125-26-480287",
    "filed": "2026-11-27"
   },
   {
@@ -4961,8 +4961,6 @@
   }
  ],
  "seen": [
-  "0002015089-26-000008",
-  "0002015224-26-000007",
   "0002015224-26-000009",
   "0002015287-26-000015",
   "0002015287-26-000017",
@@ -5118,6 +5116,7 @@
   "0002024169-26-000018",
   "0002024169-26-000020",
   "0002024169-26-000025",
+  "0002024169-26-000027",
   "0002024218-26-000083",
   "0002024218-26-000091",
   "0002024218-26-000099",
@@ -7447,6 +7446,7 @@
   "0002123975-26-000035",
   "0002123988-26-000006",
   "0002124082-26-000005",
+  "0002124082-26-000006",
   "0002124256-26-000005",
   "0002124256-26-000006",
   "0002124256-26-000007",
