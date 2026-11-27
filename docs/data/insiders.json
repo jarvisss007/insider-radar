@@ -1,18 +1,6 @@
 {
- "updated_utc": "2026-11-27 23:16 UTC",
+ "updated_utc": "2026-11-27 23:32 UTC",
  "purchases": [
-  {
-   "ticker": "VNRX",
-   "company": "VOLITIONRX LTD",
-   "insider": "Innes Guy Archibald",
-   "role": "Director",
-   "date": "2026-11-20",
-   "shares": 40000.0,
-   "price": 0.1709,
-   "value": 6836.0,
-   "acc": "0001477932-26-007226",
-   "filed": "2026-11-23"
-  },
   {
    "ticker": "SKYE",
    "company": "Skye Bioscience, Inc.",
@@ -4731,6 +4719,18 @@
    "placement": true
   },
   {
+   "ticker": "DXYZ",
+   "company": "Destiny Tech100 Inc.",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "date": "2026-11-25",
+   "shares": 169040.0,
+   "price": 23.35,
+   "value": 3947084.0,
+   "acc": "0001510281-26-000487",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "CRESY",
    "company": "CRESUD INC",
    "insider": "Elsztain Alejandro Gustavo",
@@ -4948,11 +4948,6 @@
    "ticker": "WVVI",
    "insiders": 2,
    "total_value": 16309.5
-  },
-  {
-   "ticker": "VNRX",
-   "insiders": 2,
-   "total_value": 10242.0
   }
  ],
  "seen": [
