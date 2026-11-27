@@ -1,54 +1,6 @@
 {
- "updated_utc": "2026-11-27 13:57 UTC",
+ "updated_utc": "2026-11-27 14:13 UTC",
  "purchases": [
-  {
-   "ticker": "CCB",
-   "company": "COASTAL FINANCIAL CORP",
-   "insider": "HOVDE STEVEN D",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 15000.0,
-   "price": 36.6667,
-   "value": 550000.5,
-   "acc": "0001019966-26-000008",
-   "filed": "2026-11-19"
-  },
-  {
-   "ticker": "TMS",
-   "company": "Teamshares Inc",
-   "insider": "Brown Michael Ashby Sutherland",
-   "role": "Chief Executive Officer",
-   "date": "2026-11-19",
-   "shares": 150000.0,
-   "price": 4.35,
-   "value": 652500.0,
-   "acc": "0001628280-26-075377",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "BG",
-   "company": "Bunge Global SA",
-   "insider": "Mahoney Christopher",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 7500.0,
-   "price": 93.36,
-   "value": 700200.0,
-   "acc": "0001628280-26-075421",
-   "filed": "2026-11-23"
-  },
-  {
-   "ticker": "IRTC",
-   "company": "iRhythm Holdings, Inc.",
-   "insider": "TALWALKAR ABHIJIT Y",
-   "role": "Director",
-   "date": "2026-11-19",
-   "shares": 7900.0,
-   "price": 96.6717,
-   "value": 763706.43,
-   "acc": "0001316065-26-000016",
-   "filed": "2026-11-19"
-  },
   {
    "ticker": "UPST",
    "company": "Upstart Holdings, Inc.",
@@ -4274,6 +4226,18 @@
    "filed": "2026-11-24"
   },
   {
+   "ticker": "WRD",
+   "company": "WeRide Inc.",
+   "insider": "Han Tony Xu",
+   "role": "Chairman and CEO",
+   "date": "2026-11-24",
+   "shares": 597918.0,
+   "price": 0.9933,
+   "value": 593911.95,
+   "acc": "0001104659-26-132349",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "WMB",
    "company": "WILLIAMS COMPANIES, INC.",
    "insider": "Turner Robb E",
@@ -4418,6 +4382,18 @@
    "filed": "2026-11-25"
   },
   {
+   "ticker": "FRAF",
+   "company": "FRANKLIN FINANCIAL SERVICES CORP /PA/",
+   "insider": "Duffey Gregory A",
+   "role": "Director",
+   "date": "2026-11-25",
+   "shares": 15.0,
+   "price": 67.29,
+   "value": 1009.35,
+   "acc": "0001638509-26-000010",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "AMCI",
    "company": "AMC Robotics Corp",
    "insider": "Da Shengwei (Sean)",
@@ -4526,6 +4502,18 @@
    "filed": "2026-11-27"
   },
   {
+   "ticker": "UXIN",
+   "company": "Uxin Ltd",
+   "insider": "Dai Kun",
+   "role": "Chief Executive Officer",
+   "date": "2026-11-25",
+   "shares": 8200.0,
+   "price": 0.6821,
+   "value": 5593.22,
+   "acc": "0001493152-26-054439",
+   "filed": "2026-11-27"
+  },
+  {
    "ticker": "SPCB",
    "company": "SuperCom Ltd",
    "insider": "Trabelsi Arie",
@@ -4608,6 +4596,18 @@
    "value": 24970.0,
    "acc": "0001437749-26-038304",
    "filed": "2026-11-25"
+  },
+  {
+   "ticker": "TMC",
+   "company": "TMC the metals Co Inc.",
+   "insider": "Barron Gerard",
+   "role": "Chairman & CEO",
+   "date": "2026-11-25",
+   "shares": 20000.0,
+   "price": 1.67,
+   "value": 33400.0,
+   "acc": "0001104659-26-132347",
+   "filed": "2026-11-27"
   },
   {
    "ticker": "BHRB",
@@ -4814,11 +4814,6 @@
    "total_value": 1811053.0
   },
   {
-   "ticker": "BG",
-   "insiders": 2,
-   "total_value": 1391606.5
-  },
-  {
    "ticker": "HOS",
    "insiders": 2,
    "total_value": 1246655.2
@@ -4829,19 +4824,24 @@
    "total_value": 1223971.52
   },
   {
-   "ticker": "TMS",
-   "insiders": 2,
-   "total_value": 908906.24
-  },
-  {
    "ticker": "PRE",
    "insiders": 2,
    "total_value": 860240.0
   },
   {
+   "ticker": "TMC",
+   "insiders": 2,
+   "total_value": 838400.0
+  },
+  {
    "ticker": "BLACKSTONE MULTI-STRATEGY HEDGE FUND L.P. (CIK 2095486)",
    "insiders": 2,
    "total_value": 833131.51
+  },
+  {
+   "ticker": "BG",
+   "insiders": 2,
+   "total_value": 691406.5
   },
   {
    "ticker": "SEI",
